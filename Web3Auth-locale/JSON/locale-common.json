@@ -1,0 +1,242 @@
+{
+  "modal.header-title": {
+    "english": "Sign in",
+    "german": "Einloggen",
+    "mandarin": "登入",
+    "korean": "로그인",
+    "japanese": "ログイン",
+    "spanish": "Iniciar sesión"
+  },
+  "modal.header-subtitle": {
+    "english": "Select one of the following to continue",
+    "german": "Wählen Sie eine der folgenden Optionen aus, um fortzufahren",
+    "mandarin": "选择以下一项以继续",
+    "korean": "계속하려면 다음 중 하나를 선택하세요.",
+    "japanese": "次のいずれかを選択して続行します",
+    "spanish": "Seleccione uno de los siguientes para continuar"
+  },
+  "modal.adapter-loader.message": {
+    "english": "Verify on your {{adapter}} account to continue",
+    "german": "Bestätigen Sie Ihr {{adapter}}-Konto, um fortzufahren",
+    "mandarin": "验证您的 {{adapter}} 帐户以继续",
+    "korean": "계속하려면 {{adapter}} 계정에서 인증하세요.",
+    "japanese": "続行するには、{{adapter}} アカウントで確認してください",
+    "spanish": "Verifica tu cuenta de {{adapter}} para continuar"
+  },
+  "modal.footer.message": {
+    "english": "Self-custodial login by",
+    "german": "Selbstverwahrungs-Login durch",
+    "mandarin": "自托管登录由",
+    "korean": "자가 관리 로그인",
+    "japanese": "による自己管理ログイン",
+    "spanish": "Inicio de sesión con autocustodia por"
+  },
+  "modal.footer.terms": {
+    "english": "Terms of use",
+    "german": "Nutzungsbedingungen",
+    "mandarin": "使用条款",
+    "korean": "이용약관",
+    "japanese": "利用規約",
+    "spanish": "Términos de Uso"
+  },
+  "modal.footer.policy": {
+    "english": "Privacy Policy",
+    "german": "Datenschutz-Bestimmungen",
+    "mandarin": "隐私政策",
+    "korean": "개인 정보 정책",
+    "japanese": "プライバシーポリシー",
+    "spanish": "Política de privacidad"
+  },
+  "modal.social.continue": {
+    "english": "Continue with",
+    "german": "Weitermachen mit",
+    "mandarin": "继续",
+    "korean": "계속",
+    "japanese": "続ける",
+    "spanish": "Continua con"
+  },
+  "modal.social.view-less": {
+    "english": "View less options",
+    "german": "Weniger Optionen anzeigen",
+    "mandarin": "查看更少的选项",
+    "korean": "더 적은 옵션 보기",
+    "japanese": "オプションを少なく表示",
+    "spanish": "Ver menos opciones"
+  },
+  "modal.social.view-more": {
+    "english": "View more options",
+    "german": "Weitere Optionen anzeigen",
+    "mandarin": "查看更多选项",
+    "korean": "더 많은 옵션 보기",
+    "japanese": "その他のオプションを表示",
+    "spanish": "Ver más opciones"
+  },
+  "modal.social.email": {
+    "english": "Email",
+    "german": "Email",
+    "mandarin": "电子邮件",
+    "korean": "이메일",
+    "japanese": "Eメール",
+    "spanish": "Correo electrónico"
+  },
+  "modal.social.email-continue": {
+    "english": "Continue with Email",
+    "german": "Fahren Sie mit E-Mail fort",
+    "mandarin": "继续使用电子邮件",
+    "korean": "이메일로 계속",
+    "japanese": "メールで続行",
+    "spanish": "Continuar con correo electrónico"
+  },
+  "modal.external.title": {
+    "english": "External wallet",
+    "german": "Externe Geldbörse",
+    "mandarin": "外部钱包",
+    "korean": "외부 지갑",
+    "japanese": "外部ウォレット",
+    "spanish": "Monedero externo"
+  },
+  "modal.external.connect": {
+    "english": "Connect with Wallet",
+    "german": "Verbinden Sie sich mit Wallet",
+    "mandarin": "连接钱包",
+    "korean": "지갑과 연결",
+    "japanese": "ウォレットと接続",
+    "spanish": "Conectar con Monedero"
+  },
+  "modal.external.back": {
+    "english": "Back",
+    "german": "Der Rücken",
+    "mandarin": "后退",
+    "korean": "뒤",
+    "japanese": "戻る",
+    "spanish": "atrás"
+  },
+  "modal.external.walletconnect-subtitle": {
+    "english": "Scan QR code with a WalletConnect-compatible wallet",
+    "german": "QR-Code mit einem WalletConnect-kompatiblen Wallet scannen",
+    "mandarin": "使用兼容 WalletConnect 的钱包扫描 QR 码",
+    "korean": "WalletConnect 호환 지갑으로 QR 코드 스캔",
+    "japanese": "WalletConnect対応ウォレットでQRコードをスキャン",
+    "spanish": "Escanea el código QR con una billetera compatible con WalletConnect"
+  },
+  "modal.external.walletconnect-connect": {
+    "english": "Connect",
+    "german": "Verbinden",
+    "mandarin": "连接",
+    "korean": "연결하다",
+    "japanese": "接続",
+    "spanish": "Conectar"
+  },
+  "modal.network.add-request": {
+    "english": "This site is requesting to add Network",
+    "german": "Diese Website fordert das Hinzufügen eines Netzwerks an",
+    "mandarin": "此站点正在请求添加网络",
+    "korean": "이 사이트는 네트워크 추가를 요청하고 있습니다",
+    "japanese": "このサイトはネットワークの追加をリクエストしています",
+    "spanish": "Este sitio está solicitando agregar Red"
+  },
+  "modal.network.cancel": {
+    "english": "Cancel",
+    "german": "Absagen",
+    "mandarin": "取消",
+    "korean": "취소",
+    "japanese": "キャンセル",
+    "spanish": "Cancelar"
+  },
+  "modal.network.proceed": {
+    "english": "Proceed",
+    "german": "Fortfahren",
+    "mandarin": "继续",
+    "korean": "진행하다",
+    "japanese": "続行",
+    "spanish": "Proceder"
+  },
+  "modal.network.switch-request": {
+    "english": "This site is requesting to switch Network",
+    "german": "Diese Website fordert einen Netzwerkwechsel an",
+    "mandarin": "此站点正在请求切换网络",
+    "korean": "이 사이트는 네트워크 전환을 요청하고 있습니다",
+    "japanese": "このサイトはネットワークの切り替えを要求しています",
+    "spanish": "Este sitio está solicitando cambiar de red"
+  },
+  "modal.network.from": {
+    "english": "From",
+    "german": "Aus",
+    "mandarin": "从",
+    "korean": "에서",
+    "japanese": "から",
+    "spanish": "De"
+  },
+  "modal.network.to": {
+    "english": "To",
+    "german": "Zu",
+    "mandarin": "至",
+    "korean": "에게",
+    "japanese": "に",
+    "spanish": "A"
+  },
+  "modal.footer.message-new": {
+    "english": "Self-custodial login by Web3Auth",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.header-subtitle-new": {
+    "english": "Your blockchain wallet in one-click",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.social.policy": {
+    "english": "We do not store any data related to your social logins.",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.social.view-less-new": {
+    "english": "View less",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.social.view-more-new": {
+    "english": "View more",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.footer.version": {
+    "english": "Version",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.footer.terms-service": {
+    "english": "Terms of Service",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  },
+  "modal.social.email-new": {
+    "english": "name@example.com",
+    "german": "",
+    "mandarin": "",
+    "korean": "",
+    "japanese": "",
+    "spanish": ""
+  }
+}
