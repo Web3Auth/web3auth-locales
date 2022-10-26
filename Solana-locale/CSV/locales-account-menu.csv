@@ -1,0 +1,31 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+accountMenu.account,Account,Konto,帐户,계정,アカウント,Cuenta
+accountMenu.importedAccount,Imported Account,Importiertes Konto,汇入帐户,가져온 계정,インポートされたアカウント,Cuenta importada
+accountMenu.infoSupport,Info and Support,Infos und Support,信息和支持,정보 및 지원,ヘルプ,Información y Soporte
+accountMenu.logOut,Log Out,Ausloggen,登出,로그 아웃,ログアウト,Cerrar sesión
+accountMenu.importAccount,Import Account,Konto importieren,导入帐号,계정 가져 오기,アカウントをインポート,Importar cuenta
+accountMenu.selectImportType,Select Import Type:,Importtyp auswählen:,选择导入类型：,가져 오기 유형을 선택하십시오.,インポートタイプを選択：,Selecciona el tipo de importación
+accountMenu.privateKey,Private Key,Privat Schlüssel,私钥,개인 키,秘密鍵,Private Key
+accountMenu.keystore,Keystore,Schlüsselspeicher,키 스토어,密钥库,キーストア,Keystore
+accountMenu.seedPhrase,Seed Phrases,Samenphrasen,种子短语,종자 문구,シードフレーズ,Frases de semillas
+accountMenu.inputPrivateKey,Input Private Key,Privaten Schlüssel eingeben,输入私钥,개인 키 입력,秘密鍵の入力,Ingrese la Private Key
+accountMenu.inputSeedPhrase,Input seed phrases,Geben Sie Startphrasen ein,输入种子短语,시드 문구 입력,シードフレーズの入力,Introducir frases semilla
+accountMenu.inputSeedPhraseHere,Input your seed phrases here,Ingrese sus frases semilla aquí,在这里输入您的种子短语,여기에 시드 문구를 입력하십시오.,ここにシードフレーズを入力してください,Ingrese sus frases semilla aquí
+accountMenu.back,Back,Zurück,背部,뒤,戻る,Regresar
+accountMenu.import,Import,Importieren,进口,수입,インポート,Importar
+accountMenu.uploadJsonLabel,Please upload your JSON File,Bitte laden Sie Ihre JSON-Datei hoch,请上传您的JSON文件,JSON 파일을 업로드하십시오,JSONファイルをアップロードしてください,Por favor subir el archivo JSON
+accountMenu.uploadJsonTitle,JSON File,JSON-Datei,JSON文件,JSON 파일,JSONファイル,Archivo JSON
+accountMenu.uploadJsonDesc,This is a type of file format that your stores information on your Private Key.,"Dies ist ein Dateiformat, das Ihre Informationen auf Ihrem privaten Schlüssel speichert.",这是一种文件格式，您可以在专用密钥上存储信息。,개인 키에 정보를 저장하는 파일 형식입니다.,これは、秘密鍵に関する情報を保存するファイル形式の一種です。,Este es un tipo de archivo que guarda información de tu Private Key
+accountMenu.selectedFile,Selected File,Ausgewählte Datei,选定文件,선택된 파일,選択したファイル,Archivo seleccionado
+accountMenu.enterPassword,Enter your password,Geben Sie Ihr Passwort ein,输入密码,비밀번호를 입력하십시오,パスワードを入力してください,Ingrese el password
+accountMenu.upload,Upload,Hochladen,上载,업로드,アップロードする,Subir
+accountMenu.password,Password,Passwort,密码,암호,パスワード,Password
+accountMenu.required,Required,Erforderlich,필수,必要,必須,Requerido
+accountMenu.incorrectPassword,Incorrect Password Entered,Falsches Passwort eingegeben,密码错误,잘못된 비밀번호를 입력했습니다,入力されたパスワードが正しくありません,Password incorrecto
+accountMenu.qrErrorNeedCameraPermission,You need to grant camera access permisson,Sie müssen die Erlaubnis zum Zugriff auf die Kamera gewähren,您需要授予摄像机访问权限,카메라 액세스 권한을 부여해야합니다.,カメラアクセス許可を付与する必要があります,Debes otorgar permiso de acceso a la cámara
+accountMenu.qrErrorNoCamera,No camera on this device,Keine Kamera auf diesem Gerät,此设备上没有相机,이 기기에 카메라가 없습니다.,このデバイスにはカメラがありません,No hay cámara en este dispositivo
+accountMenu.qrErrorSecureContextRequired,"Secure context required (HTTPS, localhost)","Sicherer Kontext erforderlich (HTTPS, localhost)",需要安全上下文（HTTPS，本地主机）,"보안 컨텍스트 필요 (HTTPS, localhost)",安全なコンテキストが必要です（HTTPS、localhost）,"Se requiere contexto seguro (HTTPS, localhost)"
+accountMenu.qrErrorCameraAlreadyInUse,Camera is already in use,Kamera ist bereits in Gebrauch,相机已在使用中,카메라가 이미 사용 중입니다.,カメラはすでに使用されています,La cámara ya está en uso
+accountMenu.qrErrorInstalledCamerasAreNotSuitable,Installed cameras are not suitable,Installierte Kameras sind nicht geeignet,安装的相机不合适,설치된 카메라가 적합하지 않습니다.,設置されているカメラは適切ではありません,Las cámaras instaladas no son adecuadas
+accountMenu.qrErrorStreamAPINotSupported,WalletConnect is not supported in this browser,WalletConnect wird in diesem Browser nicht unterstützt,此浏览器不支持WalletConnect,이 브라우저에서는 WalletConnect가 지원되지 않습니다.,WalletConnectはこのブラウザではサポートされていません,WalletConnect no es compatible con este navegador
+accountMenu.wallet,Wallet,Brieftasche,钱包,지갑,財布,Billetera

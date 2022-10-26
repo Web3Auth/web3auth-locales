@@ -1,0 +1,39 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+walletTopUp.selectProvider,Select a Provider,Wählen Sie einen Anbieter,选择供应商,공급자를 선택하십시오,プロバイダーを選択,Selecciona un Proveedor
+walletTopUp.purchaseVia,Purchase Cryptocurrency via,Kauf Cryptocurrency über,通过购买加密货币,통해 암호 화폐 구매,暗号通貨を購入する,Comprar Cryptomoneda con
+walletTopUp.description,is a secure way to buy cryptocurrency with your payment method. Start by entering an amount below to get a quote before making a purchase,"ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Zahlungsmethode zu kaufen. Geben Sie zunächst einen Betrag ein, um ein Angebot zu erhalten, bevor Sie einen Kauf tätigen",是一种通过付款方式购买加密货币的安全方法。首先在购买时输入以下金额以获取报价,귀하의 지불 방법으로 암호 화폐를 구매하는 안전한 방법입니다. 구매하기 전에 아래 금액을 입력하여 견적을 받으십시오.,は、暗号通貨を購入する安全なサービスです。以下に購入希望額を入力して、金額に間違いがないか確認の上、購入手続きを進めてください。,es una forma segura de comprar cryptomonedas. Empieza por ingresar un monto para obtener una cuota antes de comprar
+walletTopUp.wannaBuy,You buy,Sie kaufen,你买,지불,通貨の種類,Compras
+walletTopUp.youSend,You pay,Sie bezahlen,付款,당신은 보내,支払金額,Pagas
+walletTopUp.includes,Includes,Beinhaltet,包括,포함,含む,Incluye
+walletTopUp.doesntInclude,Doesn't Include,Beinhaltet nicht,不包括,포함되지 않습니다,含まない,No incluye
+walletTopUp.serviceFee,Service Fee,Servicegebühr,服务费,서비스 요금,サービス料,Cuota de servicio
+walletTopUp.serviceFeeDesc1,This fee goes entirely to,Diese Gebühr geht vollständig an,这笔费用全部用于,이 수수료는 전적으로,この料金は完全に,Esta cuota va directamente a 
+walletTopUp.serviceFeeDesc2,"for their services in card processing, mitigation and fraud detection","für ihre Dienstleistungen in den Bereichen Kartenverarbeitung, Schadensbegrenzung und Betrugserkennung",在卡处理，缓解和欺诈检测方面的服务,"카드 처리, 완화 및 사기 탐지 서비스",カード処理、緩和、不正検出のサービスに対して,por sus servicios con procesamiento de tarjetas
+walletTopUp.serverSize,Server Size,Servergröße,服务器大小,서버 크기,サーバーサイズ,Tamaño del servidor
+walletTopUp.waitFetch,Please wait while we fetch fresh quote prices.,"Bitte warten Sie, während wir neue Angebotspreise abrufen.",我们正在获取新的报价，请稍候。,새로운 견적 가격을 가져오는 동안 잠시 기다려 주십시오.,新鮮な見積もり価格を取得するまでお待ちください。,Espere mientras buscamos nuevos precios de cotización.
+walletTopUp.includesTransactionCost,Includes transaction cost of,Beinhaltet Transaktionskosten von,包括交易成本,의 거래 비용을 포함합니다.,の取引費用を含む,Incluye el costo de transacción de
+walletTopUp.minTransactionAmount,Minimum transaction amount:,Mindesttransaktionsbetrag:,最低交易金额：,최소 거래 금액:,最小取引金額：,Monto mínimo de transacción:
+walletTopUp.minSmall,min,min,最低,분,最小,Mínimo
+walletTopUp.max,max,max,最高,최대,最大,Máximo
+walletTopUp.receive,You receive,Erhalten,接收,받다,受取額,Recibes
+walletTopUp.rate,Rate,Bewertung,率,율,レート,Tarifa
+walletTopUp.receiveHint,Please prepare your Identity Card/Passport to complete the purchase.,"Bitte bereiten Sie Ihren Personalausweis / Reisepass vor, um den Kauf abzuschließen.",请准备您的身份证/护照以完成交易。,구매를 완료하려면 신분증 / 여권을 준비하십시오.,購入手続きに必要な IDカード/パスポートを準備してください。,Por favor preparar un documento de identificación para la compra
+walletTopUp.receiveHintRamp,You need ID verification for top-up more than 1k EUR per transaction or 10k EUR per month,"Sie benötigen eine ID-Überprüfung, um mehr als 1.000 EUR pro Transaktion oder 10.000 EUR pro Monat aufzuladen",每次充值超过1000欧元或每月超过1万欧元时，您需要进行身份验证,거래 당 1k EUR 이상 또는 한 달에 10k EUR 이상인 경우 ID 확인이 필요합니다.,"トランザクションごとに1,000ユーロ以上、または月額10,000ユーロ以上のチャージにはID確認が必要です。","Necesitas comprobar identificación para depositar 1,000EUR por día o 10,000EUR por mes"
+walletTopUp.continue,Continue,Fortsetzen,继续,계속하다,継続する,Continuar
+walletTopUp.resolveErrors,Resolve the errors,Beheben Sie die Fehler,解决错误,오류 해결,エラーを解決する,Resolver errores
+walletTopUp.redirectMessage,You will be redirected to the third party page,Sie werden auf die Seite eines Drittanbieters weitergeleitet,您将被重定向到第三方页面,당신은 제 3 자 페이지로 리디렉션됩니다,プロバイダーの購入ページに飛びます,Visitarás una página externa
+walletTopUp.contact1,Feel free to,Fühlen sich frei,随意地,부담없이,お気軽に,Ten la libertad de 
+walletTopUp.contact2,contact us,kontaktiere uns,联系我们,문의하기,お問い合わせ,contactarnos
+walletTopUp.contact3,for support or any inquiry,für Support oder jede Anfrage,寻求支持或任何查询,지원 또는 문의,サポートまたはお問い合わせ,para cualquier duda o comentario
+walletTopUp.close,Close,Schließen,关,닫기,閉じる,Cerrar
+walletTopUp.otherMode,Prefer other mode of payment?,Bevorzugen Sie eine andere Zahlungsweise?,想使用其它付款方式？,다른 결제 방법을 선호하십니까?,他の支払い方法を希望しますか？,Utilizar otro método de pago?
+walletTopUp.writeToUs,Write to us,Schreib uns,与我们联系,우리에게 쓰기,リクエスト申請,Escríbenos
+walletTopUp.otherModeDesc,and we would try our best to improve and serve you better,"und wir würden unser Bestes geben, um uns zu verbessern und Ihnen besser zu dienen",我们会尽力改善并更好地为您服务,우리는 당신을 개선하고 더 나은 서비스를 제공하기 위해 최선을 다할 것입니다,そして私たちはあなたを改善し、あなたにより良く奉仕するために最善を尽くします,y tratáremos de mejorar nuestro servicio
+walletTopUp.cryptoDesc,Crypto.com is a secure way to buy cryptocurrency with your credit card. Start by installing their application,"Crypto.com ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Kreditkarte zu kaufen. Beginnen Sie mit der Installation ihrer Anwendung",Crypto.com是使用信用卡购买加密货币的安全方法。首先安装他们的应用程序,Crypto.com은 신용 카드로 암호 화폐를 구매하는 안전한 방법입니다. 그들의 응용 프로그램을 설치하여 시작,Crypto.comは、クレジットカードで暗号通貨を購入する安全な方法です。アプリケーションをインストールすることから始めます,Crypto.com es una forma segura de comprar cryptomonedas. Puedes empezar instalando su aplicación
+walletTopUp.paywith,Pay with,Bezahlen mit,支付方式,지불,支払方法,Pagar con
+walletTopUp.fees,Fees,Gebühren,费用,수수료,料金,Cuota
+walletTopUp.limits,Limits,Grenzen,限度,제한,上限,Límites
+walletTopUp.currencies,Currencies,Währungen,货币,통화,取り扱い通貨,Monedas
+walletTopUp.min,Min,Minimum,最低,최저한의,最小,Mínimo
+walletTopUp.theProcess,The process would take approximately,Der Prozess würde ungefähr dauern,该过程大约需要,이 과정에는 약,手続きにかかる時間,El proceso puede tomar aproximadamente
+,,,,,,

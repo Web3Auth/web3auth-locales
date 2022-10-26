@@ -1,0 +1,131 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+dappInfo.permission,Permission,Genehmigung,允许,허가,下記の内容を許可しますか,Permiso
+dappInfo.requestFrom,Request from,Anfrage von,要求,요청,許可を求めているアプリケーション,Solicitud de
+dappInfo.toAccessGoogle,"To access your Google Email Address, Profile Photo and Name","So greifen Sie auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",要访问您的Google电子邮件地址，个人资料照片和姓名,"Google 이메일 주소, 프로필 사진 및 이름에 액세스하려면",受け取る情報: Googleメール、プロフィール写真、名前,"Para acceder a su dirección de correo electrónico de Google, foto de perfil y nombre"
+dappInfo.toAccessFacebook,"To access your Facebook Email Address, Profile Photo and Name","So greifen Sie auf Ihre Facebook-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",要访问您的Facebook电子邮件地址，个人资料照片和姓名,"Facebook 이메일 주소, 프로필 사진 및 이름에 액세스하려면",受け取る情報: Facebookメール、プロフィール写真、名前,"Para acceder a su dirección de correo electrónico de Facebook, foto de perfil y nombre"
+dappInfo.toAccessReddit,"To access your Reddit Email Address, Profile Photo and Name","So greifen Sie auf Ihre Reddit-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",要访问您的Reddit电子邮件地址，个人资料照片和姓名,"Reddit 이메일 주소, 프로필 사진 및 이름에 액세스하려면",受け取る情報: Redditメール、プロフィール写真、名前,"Para acceder a su dirección de correo electrónico, foto de perfil y nombre de Reddit"
+dappInfo.toAccessDiscord,"To access your Discord Email Address, Profile Photo and Name","Zugriff auf Ihre Discord-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen",要访问您的Discord电子邮件地址，个人资料照片和姓名,"Discord 이메일 주소, 프로필 사진 및 이름에 액세스하려면",受け取る情報: Discordメール、プロフィール写真、名前,"Para acceder a su dirección de correo electrónico, foto de perfil y nombre de Discord"
+dappInfo.toAccessTwitch,"To access your Twitch Email Address, Profile Photo and Name","So greifen Sie auf Ihre Twitch-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",要访问您的Twitch电子邮件地址，个人资料照片和姓名,"Twitch 이메일 주소, 프로필 사진 및 이름에 액세스하려면",受け取る情報: Twitchメール、プロフィール写真、名前,"Para acceder a su dirección de correo electrónico de Twitch, foto de perfil y nombre"
+dappInfo.cancel,Cancel,Stornieren,取消,취소,キャンセル,Cancelar
+dappInfo.confirm,Confirm,Bestätigen,确认,확인,確認,Confirmar
+dappProvider.permission,Permission,Genehmigung,允许,허가,下記の内容を許可しますか,Permiso
+dappProvider.requestFrom,Request from,Anfrage von,要求,요청,許可を求めているアプリケーション,Solicitud de
+dappProvider.toChangeNetwork,To change your network to ,So ändern Sie Ihr Netzwerk auf,要将您的网络更改为,네트워크를로 변경하려면,ネットワークを変更するには,Para cambiar su red a
+dappProvider.cancel,Cancel,Stornieren,取消,취소,キャンセル,Cancelar
+dappProvider.confirm,Confirm,Bestätigen,确认,확인,確認,Confirmar
+dappTransfer.sendEth,Send ETH,Senden Sie ETH,发送ETH,ETH 보내기,ETHを送信,Enviar ETH
+dappAlert.actionRequired,Action Required,Handlung erforderlich,需要采取的行动,필요한 조치,必要なアクション,Acción requerida
+dappAlert.youHavePending,You have a pending action that needs to be completed in a pop-up window,"Sie haben eine ausstehende Aktion, die in einem Popup-Fenster ausgeführt werden muss",您有一个待完成的操作，需要在弹出窗口中完成,팝업 창에서 완료해야하는 보류중인 조치가 있습니다.,ポップアップウィンドウで完了する必要がある保留中のアクションがあります,Tiene una acción pendiente que debe completarse en una ventana emergente
+dappAlert.Confirm,Confirm,Bestätigen,确认,확인,確認,Confirmar
+dappTransfer.transfer,Transfer,Transfer,传递,이전,転送,Transferir
+dappTransfer.transferFrom,Transfer From,Übertragen von,从转移,전송,からの転送,Transferido de
+dappTransfer.transaction,Transaction,Transaktion,交易,트랜잭션,トランザクション,Transacción
+dappTransfer.approve,Approve,Genehmigen,批准,승인,承認する,Aprobar
+dappTransfer.collectibleSafe,Collectible Safe Transfer From,Sammelsicherer Transfer von,可收集的安全转移自,에서 수집 가능한 안전 전송,収集可能な安全な転送元,Transferencia segura coleccionable desde
+dappTransfer.deploy,Deploy,Bereitstellen,部署,배포,展開する,Desplegar
+dappTransfer.newContract,New Contract,Neuer Vertrag,新合约,새로운 계약,新しいコントラクト,Nuevo contrato
+dappTransfer.transactionRequest,Transaction Request,Transaktionsanfrage,交易要求,거래 요청,トランザクションリクエスト,Solicitud de transacción
+dappTransfer.notApplicable,Not Applicable,Unzutreffend,不适用,해당 사항 없음,適用できません,No aplica
+dappTransfer.insufficientFunds,Insufficient Funds,Unzureichende Mittel,不充足的资金,부족한 자금,残高不足,Fondos insuficientes
+dappTransfer.unknownNetwork,Unknown Network,Unbekanntes Netzwerk,未知的网络,알 수없는 네트워크,不明なネットワーク,Red desconocida
+dappTransfer.claimMon,Claim a MON,Fordern Sie einen mon an,申请mon,mon 클레임,monを請求する,Reclamar un MON
+dappTransfer.contractInteraction,Contract Interaction,Vertragsinteraktion,合约互动,계약 상호 작용,コントラクトを操作,Interacción de contrato
+dappTransfer.wallet,Wallet,Brieftasche,钱包,지갑,ウォレット,Billetera
+dappTransfer.permission,Permission,Genehmigung,允许,허가,下記の内容を許可しますか,Permiso
+dappTransfer.confirmation,Confirmation,Bestätigung,确认,확인,確認,Confirmación
+dappTransfer.to,To,Zu,至,에,に,A
+dappTransfer.amount,Amount,Menge,量,양,量,Cantidad
+dappTransfer.sendTo,Send To,Senden an,发给,보내기,送信先,Enviar a
+dappTransfer.youSend,You send,Du sendest,您发送,당신은 보내,送信額,Usted envía
+dappTransfer.total,Total,Gesamt,总,합계,合計,Total
+dappTransfer.constOfTrans,Cost of Transaction,Transaktionskosten,交易成本,거래 비용,トランザクション手数料,Costo de transacción
+dappTransfer.moreDetails,More Details,Mehr Details,更多细节,자세한 내용은,詳細,Más detalles
+dappTransfer.cancel,Cancel,Stornieren,取消,취소,キャンセル,Cancelar
+dappTransfer.confirm,Confirm,Bestätigen,确认,확인,確認,Confirmar
+dappTransfer.rate,Rate,Bewertung,率,율,レート,Velocidad
+dappTransfer.network,Network,Netzwerk,网络,회로망,ネットワーク,Red
+dappTransfer.type,Type,Art,类型,유형,タイプ,Tipo
+dappTransfer.data,Data,Zu unterzeichnende Daten,要签名的数据,서명 할 데이터,署名するデータ,Datos
+dappTransfer.lessDetails,Less Details,Weniger Details,较少的细节,적은 세부 사항,少ない詳細,Menos detalles
+dappTransfer.pleaseTopup1,Please,Bitte,请,부디,お願いします,Por favor
+dappTransfer.pleaseTopup2,Top up,Nachfüllen,充值,위로,チャージ,Completar
+dappTransfer.pleaseTopup3,your wallet,deine Geldbörse,你的钱包,당신의 지갑,あなたのウォレット,tu billetera
+dappTransfer.byConfirming1,"By confirming this, you grant permission for this contract to spend up to","Indem Sie dies bestätigen, erteilen Sie diesem Vertrag die Erlaubnis, bis zu",确认后，即表示您同意此合同花费最多,이를 확인함으로써 귀하는 본 계약에 대해 최대 비용을 지출 할 수있는 권한을 부여합니다,このコントラクトに最大を○○を委譲します。,"Al confirmar esto, otorga permiso para que este contrato gaste hasta"
+dappTransfer.byConfirming2,of your tokens,von Ihren Token,您的代币,토큰 중,トークンの,de tus tokens
+dappTransfer.requestFrom,Request from,Anfrage von,要求,요청,からのリクエスト,Solicitud de
+dappTransfer.thisApplication,This application is requesting for your digital signature.,Diese Anwendung fordert Ihre digitale Signatur an.,此应用程序正在请求您的数字签名。,이 응용 프로그램은 디지털 서명을 요청하고 있습니다.,このアプリケーションは、デジタル署名を要求しています。,Esta aplicación solicita su firma digital.
+dappTransfer.dataSmall,data,Zu unterzeichnende Daten,要签名的数据,서명 할 데이터,署名するデータ,datos
+dappTransfer.cancel,Cancel,Stornieren,取消,취소,キャンセル,Cancelar
+dappTransfer.txGasUtil,TxGasUtil - Trying to call a function on a non-contract address,"TxGasUtil - Es wird versucht, eine Funktion für eine Adresse ohne Vertrag aufzurufen",TxGasUtil-尝试在非合同地址上调用函数,TxGasUtil-비 계약 주소에서 함수 호출,TxGasUtil - コントラクトアドレス以外で実行しようとしています。,TxGasUtil: intentar llamar a una función en una dirección sin contrato
+dappGeneral.loading,You can close this window now,Sie können dieses Fenster jetzt schließen,您现在可以关闭此窗口,이제이 창을 닫을 수 있습니다,このウィンドウを閉じることができます,Puedes cerrar esta ventana ahora
+dappPermission.permission,Permission,Genehmigung,允许,허가,許可,Permiso
+dappPermission.toAllow,To allow the following,Folgendes zulassen,允许以下,다음을 허용하려면,以下を許可するには,Para permitir lo siguiente
+dappPermission.accessUserInfo,"To access your Google Email Address, Profile Photo and Name","So greifen Sie auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",要访问您的Google电子邮件地址，个人资料照片和姓名,"Google 이메일 주소, 프로필 사진 및 이름에 액세스하려면",Googleメール、写真、名前にアクセスするには,"Para acceder a su dirección de correo electrónico de Google, foto de perfil y nombre"
+dappPermission.displayUserInfo,DApp will display this information in app to personalise your experience. Dapp will never store or share the information above.,"DApp zeigt diese Informationen in der App an, um Ihre Erfahrung zu personalisieren. Dapp wird die oben genannten Informationen niemals speichern oder weitergeben.",DApp将在应用程序中显示此信息，以个性化您的体验。 Dapp绝不会存储或共享上述信息。,DApp은이 정보를 앱에 표시하여 경험을 개인화합니다. Dapp은 위의 정보를 저장하거나 공유하지 않습니다.,DAppは、この情報をアプリに表示して体験を最適化します。 DAppは上記の情報を保存または共有しません。,DApp mostrará esta información en la aplicación para personalizar su experiencia. Dapp nunca almacenará ni compartirá la información anterior.
+dappPermission.transactHours,Transact with requestor for the next {num} hrs,Transaktion mit dem Anforderer für die nächsten 6 Stunden,在接下来的6小时内与请求者进行交易,다음 6 시간 동안 요청자와 거래,次の{num}時間はリクエスターで取引する,Realice la transacción con el solicitante durante las próximas {num} horas
+dappPermission.changeNetwork,Change your network to {network},Ändern Sie Ihr Netzwerk in {network},将您的网络更改为{network},네트워크를 {network}로 변경,ネットワークを{network}に変更します,Cambie su red a {network}
+dappPermission.note,"NOTE: By clicking allow, you grant the DApp permission for unlimited interaction with your account within the next {num} hrs","HINWEIS: Wenn Sie auf Zulassen klicken, erteilen Sie die DApp-Berechtigung für die uneingeschränkte Interaktion mit Ihrem Konto innerhalb der nächsten {num} Stunden",注意：通过单击允许，您授予DApp权限，以便在接下来的{num}小时内与您的帐户进行无限制的互动,참고 : 허용을 클릭하면 다음 {num} 시간 이내에 계정과의 무제한 상호 작용에 대한 DApp 권한을 부여합니다,注：[許可]をクリックすると、次の{num}時間以内にアカウントとの無制限のやり取りをDAppに許可します,"NOTA: Al hacer clic en permitir, otorga permiso a la DApp para interacción ilimitada con su cuenta dentro de las próximas {num} horas."
+dappPermission.learnMore,Learn More,Erfahren Sie mehr,学到更多,더 알아보기,もっと詳しく知る,Aprende más
+dappPermission.cancel,Cancel,Stornieren,取消,취소,キャンセル,Cancelar
+dappPermission.allow,Allow,Erlaube,允许,허용,許可,Permitir
+dappTransfer.toSpend,to spend,ausgeben,代表你,지출,過ごす,gastar
+dappTransfer.onYourBehalf,on your behalf,in Ihrem Namen,花费,사용자를 대신하여,あなたに代わって,en su nombre
+dappPopup.totalValue,TOTAL VALUE,GESAMTWERT,总价值,총 가치,総価値,VALOR TOTAL
+dappPopup.lastSign,Last Signature,Letzte Unterschrift,最后签名,마지막 서명,通知を有効にします,Permitir notificaciones
+dappPopup.recentActivity,LATEST ACTIVITY,LETZTE AKTIVITÄT,近期活动,최근 활동,最近の活動,ÚLTIMA ACTIVIDAD
+dappPopup.openWallet,Open Wallet,Brieftasche öffnen,打开钱包,월렛 열기,ウォレットを開く,Billetera abierta
+dappPermission.allowNetworkChange,Allow {host} change your network to {network},"Erlaube {host}, dein Netzwerk in {network} zu ändern",允许{host}将您的网络更改为{network},{host} 네트워크를 {network} (으)로 변경하도록 허용,{host}がネットワークを{network}に変更することを許可します,Permita que {host} cambie su red a {network}
+dappPermission.currentNetwork,Current network,Aktuelles Netzwerk,当前网络,현재 네트워크,現在のネットワーク,Red actual
+dappPermission.allowAccess,"Allow {host} to access your Google Email Address, Profile Photo and Name","Ermöglichen Sie {host} den Zugriff auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen",允许{host}访问您的Google电子邮件地址，个人资料照片和姓名,"{host}이 (가) Google 이메일 주소, 프로필 사진 및 이름에 액세스하도록 허용",{host}にGoogleのメールアドレス、プロフィール写真、名前へのアクセスを許可します,"Permita que {host} acceda a su dirección de correo electrónico, foto de perfil y nombre de Google"
+dappPermission.requestNew,Requested New Network:,Angefordertes neues Netzwerk:,请求的新网络：,요청된 새 네트워크:,要求された新しいネットワーク：,Nueva red solicitada:
+dappPermission.hideDetails,Hide details,Details ausblenden,隐藏细节,세부정보 숨기기,詳細を非表示,Ocultar detalles
+dappPermission.viewMoreDetails,View more details,Weitere Details anzeigen,查看更多详情,자세히 보기,詳細を見る,Ver más detalles
+,Login,Anmeldung,登录,로그인,ログイン,Iniciar sesión
+,You are just one step away from your digital wallet,,,,"作品の軌跡を残す第一歩を始めましょう。
+*アートブロックチェーンネットワーク「Startrail」に接続するための、あなたの鍵をつくります。",Estás a un paso de tu billetera digital
+,Sign in with Google,Anmeldung mit Google,使用Google登录,Google로 로그인,Googleにサインインする,Inicia sesión con Google
+,"By logging in, you accept Startrails' Terms and Conditions",,,,ログインすると、トーラスの利用規約に同意したことになります,"Al iniciar sesión, acepta los términos y condiciones de Startrails"
+,"By logging in, you accept Torus' Terms and Conditions",Mit Ihrer Anmeldung akzeptieren Sie die Allgemeinen Geschäftsbedingungen von Torus,登录即表示您接受Torus的条款和条件,로그인하면 Torus의 이용 약관에 동의하는 것으로 간주됩니다,ログインすると、トーラスの利用規約に同意したことになります,"Al iniciar sesión, acepta los Términos y condiciones de Torus"
+,Confirm,Bestätigen,确认,확인,確認,Confirmar
+,Action Required,Handlung erforderlich,需要采取的行动,필요한 조치,必要なアクション,Acción requerida
+,You have a pending action that needs to be completed in a pop-up window,"Sie haben eine ausstehende Aktion, die in einem Popup-Fenster ausgeführt werden muss",您有一个待处理的操作，需要在弹出窗口中完成,팝업 창에서 완료해야하는 보류중인 조치가 있습니다.,ポップアップウィンドウで完了する必要がある保留中のアクションがあります,Tiene una acción pendiente que debe completarse en una ventana emergente
+,Cookies Required,Cookies benötigt,必填Cookie,쿠키 필요,必要なクッキー,galletas requeridas
+,Please enable cookies in your browser preferences to access Torus.,"Bitte aktivieren Sie Cookies in Ihren Browsereinstellungen, um auf Torus zuzugreifen.",请在您的浏览器首选项中启用cookie以访问Torus。,브라우저 환경 설정에서 쿠키를 활성화하여 Torus에 액세스하십시오.,Torusにアクセスするには、ブラウザの設定でCookieを有効にしてください。,Habilite las cookies en las preferencias de su navegador para acceder a Torus.
+,"For more info,","Für mehr Information,",有关更多信息，,"더 많은 정보를 위해서,",詳細については、,"Para más información,"
+,click here,Klicke hier,点击这里,여기를 클릭하십시오,ここをクリック,haga clic aquí
+dappLogin.note,Note:,Hinweis:,注意：,노트 :,注意：,Nota:
+dappLogin.termsAuth01,The following sign-ins involve a third party authenticator:,An den folgenden Anmeldungen ist ein Authentifizierer eines Drittanbieters beteiligt:,以下登录涉及第三方身份验证器：,다음 로그인에는 타사 인증자가 포함됩니다.,次のサインインには、サードパーティの認証システムが関係しています。,Los siguientes inicios de sesión involucran a un autenticador de terceros:
+dappLogin.termsAuth02,"Apple, Email, GitHub, Kakao, LINE, LinkedIn, Twitter, WeChat.","Apple, Email, GitHub, Kakao, LINE, LinkedIn, Twitter, WeChat.","Apple, Email, GitHub, Kakao, LINE, LinkedIn, Twitter, WeChat.","Apple, Email, GitHub, Kakao, LINE, LinkedIn, Twitter, WeChat.","Apple, Email, GitHub, Kakao, LINE, LinkedIn, Twitter, WeChat.","Apple, Email, GitHub, Kakao, LINE, LinkedIn, Twitter, WeChat."
+dappLogin.termsLearnMore,Learn more,Mehr erfahren,学到更多,더 알아보기,もっと詳しく知る,Aprende más
+dappLogin.termsHandle,Twitter and Github accounts are unique to their respective username. A change in username will replace the existing account.,Twitter- und Github-Konten sind für ihren jeweiligen Benutzernamen eindeutig. Eine Änderung des Benutzernamens ersetzt das vorhandene Konto.,Twitter和Github帐户对于各自的用户名是独特的。更改用户名将会取代现有帐户。,Twitter 및 Github 계정은 해당 사용자 이름에 고유합니다. 사용자 이름 변경은 기존 계정을 대체합니다.,TwitterおよびGithubアカウントは、それぞれのユーザー名に固有です。ユーザー名を変更すると、既存のアカウントが置き換えられます。,Las cuentas de Twitter y Github son únicas para sus respectivos nombres de usuario. Un cambio en el nombre de usuario reemplazará la cuenta existente.
+dappLogin.termsConditions,Terms of Service,Nutzungsbedingungen,服务条款,서비스 약관,利用規約,Términos de servicio
+dappLogin.privacyPolicy,Privacy Policy,Datenschutz-Bestimmungen,隐私政策,개인 정보 정책,個人情報保護方針,Política de privacidad
+dappLogin.contactUs,Contact us,Kontaktiere uns,联系我们,문의하기,お問い合わせ,Contáctenos
+dappCreateTkey.linkDesc1,A tKey account is available on Torus Wallet. You can login,Ein tKey-Konto ist auf Torus Wallet verfügbar. Sie können sich anmelden,在Torus钱包上可以使用tKey帐户。您可以登入,tKey 계정은 Torus Wallet에서 사용할 수 있습니다. 로그인 할 수 있습니다,tKeyアカウントはTorusWalletで利用できます。ログインできます,Una cuenta tKey está disponible en Torus Wallet. Puede iniciar sesión
+dappCreateTkey.linkDesc2,here,Hier,这里,여기,ここに,aquí
+dappCreateTkey.linkDesc3,to try it out and use it as your preferred account for transactions on this DApp,um es auszuprobieren und als Ihr bevorzugtes Konto für Transaktionen auf dieser DApp zu verwenden,试用一下，并将其用作此DApp上交易的首选帐户,시험 해보고이 DApp에서 거래를위한 선호 계정으로 사용하려면,それを試して、このDAppでのトランザクションの優先アカウントとして使用するには,para probarlo y usarlo como su cuenta preferida para transacciones en esta DApp
+dappLogin.signIn,Sign in,Anmelden,登入,로그인,サインイン,Registrarse
+dappLogin.yourDigital,Your digital wallet with,Ihre digitale Geldbörse mit,您的电子钱包,당신의 디지털 지갑,あなたのデジタルウォレット,Tu billetera digital con
+dappLogin.buildOn,built on,gebaut auf,建立在,에 구축,上に構築,construida sobre
+dappLogin.sendReceive,Send and receive digital currencies easily.,Senden und empfangen Sie ganz einfach digitale Währungen.,轻松发送和接收数字货币。,디지털 화폐를 쉽게 보내고 받을 수 있습니다.,デジタル通貨を簡単に送受信できます。,Envíe y reciba monedas digitales fácilmente.
+dappLogin.transactEasy,Transacting on blockchain has never been easier.,Transaktionen über Blockchain waren noch nie so einfach.,在区块链上进行交易从未如此简单。,블록체인 거래가 그 어느 때보다 쉬워졌습니다.,ブロックチェーンでの取引がこれまでになく簡単になりました。,Realizar transacciones en blockchain nunca ha sido tan fácil.
+dappLogin.continue,Continue with {verifier},Weiter mit {Verifier},继续{verifier},{verifier} 계속,{verifier}に進みます,Continuar con {verifier}
+dappLogin.continueWith,Continue with existing {verifier},Weiter mit vorhandenem {verifier},继续使用现有的{verifier},기존 {verifier} 계속,既存の{verifier}を続行します,Continuar con {verifier} existente
+dappLogin.continueWithBiometrics,Continue with biometrics,Fahren Sie mit der Biometrie fort,继续进行生物识别,생체 인식 계속,生体認証を続ける,Continuar con biometría
+dappLogin.viewLess,View less options,Weniger Optionen anzeigen,查看较少的选项,옵션 간략히보기,少ないオプションを表示,Ver menos opciones
+dappLogin.viewMore,View more options,Weitere Optionen anzeigen,查看更多选项,더 많은 옵션보기,その他のオプションを表示,Ver más opciones
+dappLogin.poweredBy,Powered by,Unterstützt von,供电,제공,搭載,Energizado por
+dappProvider.encryptionRequest,Request encryption key,Verschlüsselungsschlüssel anfordern,请求加密密钥,암호화 키 요청,暗号化キーを要求する,Solicitar clave de cifrado
+dappProvider.decryptionRequest,Decryption request,Entschlüsselungsanforderung,解密请求,복호화 요청,復号化リクエスト,Solicitud de descifrado
+dappProvider.allowCompose,Allow {dappname} to compose encrypted messages for you,"Erlauben Sie {dappname}, verschlüsselte Nachrichten für Sie zu verfassen",允许{dappname}为您撰写加密的邮件,{dappname}이 암호화 된 메시지를 작성하도록 허용,{dappname}が暗号化されたメッセージを作成できるようにする,Permita que {dappname} redacte mensajes cifrados por usted
+dappProvider.allowRead,Allow {dappname} to read this message to complete your action.,"Erlauben Sie {dappname}, diese Nachricht zu lesen, um Ihre Aktion abzuschließen.",允许{dappname}阅读此消息以完成操作。,작업을 완료하려면 {dappname}이이 메시지를 읽을 수 있도록 허용하세요.,{dappname}がこのメッセージを読み取って、アクションを完了することを許可します。,Permita que {dappname} lea este mensaje para completar su acción.
+,Requested from:,Angefordert von:,要求：,요청자 :,からのリクエスト：,Solicitado a:
+dappProvider.allow,Allow,Ermöglichen,允许,허용하다,許可する,Permitir
+dappProvider.deny,Deny,Verweigern,拒绝,거부,拒否,Negar
+dappProvider.decryptMessage,Decrypt message,Nachricht entschlüsseln,解密消息,메시지 복호화,メッセージを復号化する,Descifrar mensaje
+dappProvider.copyEncrypted,Copy encrypted message,Verschlüsselte Nachricht kopieren,复制加密的邮件,암호화 된 메시지 복사,暗号化されたメッセージをコピーする,Copiar mensaje encriptado
+dappLogin.completeVerification,Please complete verification from the login provider,Bitte vervollständigen Sie die Verifizierung vom Anmeldeanbieter,请完成登录提供商的验证,로그인 제공자로부터 인증을 완료하십시오,ログインプロバイダーからの確認を完了してください,Complete la verificación del proveedor de inicio de sesión
+dappTransfer.Send,,,,,,
+dappLogin.selfCustodial,Self-custodial login by,Selbstverwahrungs-Login durch,自托管登录由,자가 관리 로그인,による自己管理ログイン,Inicio de sesión con autocustodia por
+dappLogin.howWorks,How does this work?,Wie funktioniert das?,这是如何运作的？,어떻게 작동합니까?,これはどのように作動しますか？,¿Como funciona esto?
+dappLogin.constructYourKey,Constructing your key on,Bauen Sie Ihren Schlüssel auf,构建您的密钥,키 구성,キーを作成する,Construyendo tu clave en
