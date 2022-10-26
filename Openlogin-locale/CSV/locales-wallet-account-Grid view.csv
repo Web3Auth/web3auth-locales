@@ -1,0 +1,43 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+account.title,Account,Konto,帐户,계정,アカウント,Cuenta
+account.desc,Manage your OpenLogin settings here,Verwalten Sie hier Ihre OpenLogin-Einstellungen,在此处管理您的OpenLogin设置,여기에서 OpenLogin 설정을 관리하세요.,ここでOpenLogin設定を管理します,Administre su configuración de OpenLogin aquí
+account.auth-factors-title,Security Settings,Sicherheitseinstellungen,安全设定,보안 설정,セキュリティ設定,Configuraciones de seguridad
+account.auth-factors-subtitle,List of Authentication factors,Liste der Authentifizierungsfaktoren,认证因素清单,인증 요인 목록,認証要素のリスト,Lista de factores de autenticación
+account.auth-factors-threshold,Security Factors,Sicherheitsfaktoren,安全因素,보안 요소,セキュリティ要因,Factores de seguridad
+account.auth-factors-threshold-factor,{0} Authentication factor,{0} Authentifizierungsfaktor,{0}认证因素,{0} 인증 요소,{0}認証要素,{0} Factor de autenticación
+account.auth-factors-threshold-desc,The number of factors to authenticate in order to access your account.,"Die Anzahl der Faktoren, die authentifiziert werden müssen, um auf Ihr Konto zuzugreifen.",要访问您的帐户进行身份验证的因素数量。,계정에 액세스하기 위해 인증 할 요소의 수입니다.,アカウントにアクセスするために認証する要素の数。,La cantidad de factores que se deben autenticar para acceder a su cuenta.
+account.auth-factors-device-title,Device(s),Geräte,设备,장치,デバイス,Dispositivos
+account.auth-factors-device-desc,These devices are unique factors authorized to access your account.,"Diese Geräte sind einzigartige Faktoren, die für den Zugriff auf Ihr Konto berechtigt sind.",这些设备是被授权访问您的帐户的独特因素。,이러한 장치는 귀하의 계정에 액세스 할 수있는 고유 한 요소입니다.,これらのデバイスは、アカウントへのアクセスを許可された固有の要素です。,Estos dispositivos son factores únicos autorizados para acceder a su cuenta.
+account.auth-factors-device-current,Current,Strom,当前的,흐름,電流,Actual
+account.auth-factors-device-biometrics,biometrics registered,Biometrie registriert,启用生物识别,생체 인식 활성화,生体認証が有効,biometría registrada
+account.auth-factors-enable-biometrics,Enable biometrics,Biometrie aktivieren,生物识别注册,생체 인식 등록,登録されたバイオメトリクス,Habilitar la biometría
+account.auth-factors-device-empty,No device shares found,Keine Gerätefreigaben gefunden,未找到设备共享,장치 공유가 없습니다.,デバイス共有が見つかりません,No se encontraron recursos compartidos de dispositivos
+account.auth-factors-network,Social logins via Torus nodes,Soziale Anmeldungen über Torus-Knoten,通过Torus节点进行社交登录,Torus 노드를 통한 소셜 로그인,Torusノードを介したソーシャルログイン,Inicios de sesión sociales a través de nodos Torus
+account.auth-factors-email,Recovery email,Wiederherstellungs-E-Mail,辅助邮箱,복구 이메일,回復メール,Correo electrónico de recuperación
+account.auth-factors-recovery-phrase,Recovery phrase,Wiederherstellungsphrase,恢复短语,복구 문구,回復フレーズ,Frase de recuperación
+account.mpc-auth-factors-recovery-phrase,Recovery factor,Erholungsfaktor,恢复系数,회복 계수,回収率,Factor de recuperación
+account.auth-factors-email-old,Recovery email (existing),Wiederherstellungs-E-Mail (vorhanden),辅助邮箱（现有）,복구 이메일 (기존),復旧メール（既存）,Correo electrónico de recuperación (existente)
+account.auth-factors-email-sent,Sent,Geschickt,发送,보냄,送信済み,Enviado
+account.auth-factors-email-sent-to,Sent to {0},Gesendet an {0},发送到{0},{0}에게 보냄,{0}に送信,Enviado a {0}
+account.auth-factors-downloaded-on,Downloaded on {0},Heruntergeladen am {0},于 {0} 下载,{0}에 다운로드됨,{0}にダウンロード,Descargado el {0}
+account.auth-factors-email-resend,Resend,Erneut senden,重发,재전송,再送,Reenviar
+account.auth-factors-email-enter,Enter recovery email,Geben Sie die Wiederherstellungs-E-Mail ein,输入辅助邮箱,복구 이메일 입력,復旧メールを入力してください,Ingresa el correo de recuperación
+account.auth-factors-password,Account password,Konto Passwort,户口密码,계정 비밀번호,アカウントパスワード,Contraseña de la cuenta
+account.auth-factors-password-set,Set your password,Lege ein Passwort fest,设置你的密码,비밀번호를 설정하세요,パスワードを作る,Establece tu contraseña
+account.auth-factors-password-confirm,Re-enter your password,Wiederhole die Eingabe deines Passwortes,重新输入密码,비밀번호 재 입력,パスワードを再入力してください,reingresa tu contraseña
+account.auth-factors-password-change,Change Password,Passwort ändern,更改密码,비밀번호 변경,パスワードを変更する,Cambia la contraseña
+account.export-share-title,Backup phrase,Sicherungssatz,备用词组,백업 문구,バックアップフレーズ,Frase de respaldo
+account.export-share-desc,Save a copy of your backup phrase,Speichern Sie eine Kopie Ihrer Sicherungsphrase,保存备份短语的副本,백업 문구 사본 저장,バックアップフレーズのコピーを保存します,Guarde una copia de su frase de respaldo
+account.export-share-copy,Click to copy,Klicken Sie zum Kopieren,点击复制,복사하려면 클릭,クリックしてコピー,Haga clic para copiar
+account.export-share-note,Note: This recovery phrase is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.,"Hinweis: Dieser Wiederherstellungssatz ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es für die zukünftige Kontowiederherstellung an einem sicheren Ort auf.",注意：此恢复短语是验证您的帐户所需的因素之一。 将其保存在安全的地方，作为将来恢复帐户的一部分。,참고: 이 복구 문구는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.,注：この回復フレーズは、アカウントの認証に必要な要素の1つです。 将来のアカウント復旧の一環として、安全な場所に保管してください。,Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro.
+account.mpc-export-share-note,Note: This recovery factor is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.,"Hinweis: Dieser Wiederherstellungsfaktor ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es im Rahmen Ihrer zukünftigen Kontowiederherstellung an einem sicheren Ort auf.",注意：此恢复因素是验证您的帐户所需的因素之一。将其保存在安全的地方，作为您未来帐户恢复的一部分。,참고: 이 복구 요소는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.,注: この回復要素は、アカウントの認証に必要な要素の 1 つです。将来のアカウント復旧の一環として、安全な場所に保管してください。,Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro.
+account.export-onkey-note,Increase your account security by enabling 2FA,"Erhöhen Sie die Sicherheit Ihres Kontos, indem Sie 2FA aktivieren",通过启用 2FA 提高您的帐户安全性,2FA를 활성화하여 계정 보안 강화,2FAを有効にして、アカウントのセキュリティを強化します,Aumente la seguridad de su cuenta habilitando 2FA
+account.export-onkey-not-setup,Not setup yet,Noch nicht eingerichtet,尚未设置,아직 설정되지 않음,まだセットアップされていません,Aún no configurado
+account.export-onkey-setup,Set it up,Es einrichten,设置它,설정,準備する,Prepararlo
+account.export-onkey-2fa,Two-factor authentication,,,,,
+account.export-onkey-2fa-recommend,We strongly recommend you to enable 2FA on your account,,,,,
+account.export-onkey-2fa-enable,Enable 2FA,,,,,
+account.delete-share-title,Delete authentication factor,,,,,
+account.remove-share-button,Remove share,,,,,
+account.delete-share-desc-1,Be very sure as,,,,,
+account.delete-share-desc-2,this action is permanent and cannot be undone.,,,,,

@@ -1,0 +1,215 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+login.title,Manage all your web interactions in one place,Verwalten Sie alle Ihre Webinteraktionen an einem Ort,一站式管理所有网络互动,모든 웹 상호 작용을 한 곳에서 관리,すべてのWebインタラクションを1か所で管理します,Administre todas sus interacciones web en un solo lugar
+login.subtitle,Click Get Started to continue,"Klicken Sie auf Erste Schritte, um fortzufahren",点击开始以继续,계속하려면 시작하기를 클릭하세요.,[開始]をクリックして続行します,Haga clic en comenzar para continuar
+login.start,Get Started,Loslegen,开始使用,시작하다,はじめに,Empezar
+login.popup-title,Welcome onboard,Willkommen an Bord,欢迎登机,보드에 오신 것을 환영합니다,ご乗車（搭乗）ありがとうございます,La bienvenida a bordo
+login.popup-subtitle,Select how you would like to continue,"Wählen Sie aus, wie Sie fortfahren möchten",选择您想继续的方式,계속할 방법을 선택하십시오.,続行する方法を選択してください,Seleccione cómo le gustaría continuar
+login.popup-view-less,View less options,Weniger Optionen anzeigen,查看较少的选项,옵션 간략히보기,少ないオプションを表示,Ver menos opciones
+login.popup-view-more,View more options,Weitere Optionen anzeigen,查看更多选项,더 많은 옵션보기,その他のオプションを表示,Ver más opciones
+login.popup-terms,Terms of service,Nutzungsbedingungen,服务条款,서비스 약관,利用規約,Términos de servicio
+login.popup-continue-existing,Continue with existing {0},Weiter mit vorhandenem {0},继续使用现有的{0},기존 {0} 계속,既存の{0}を続行します,Continuar con {0} existente
+login.popup-already,Already have an account?,Sie haben bereits ein Konto?,已经有账户？,이미 계정이 있습니까?,すでにアカウントをお持ちですか？,¿Ya tienes una cuenta?
+login.popup-continue,Continue,Fortsetzen,继续,계속하다,継続する,Continuar
+login.popup-here,here,Hier,这里,여기,ここに,aquí
+login.popup-terms,Terms of use,Nutzungsbedingungen,使用条款,이용 약관,利用規約,Condiciones de uso
+login.popup-privacy,Privacy policy,Datenschutz-Bestimmungen,隐私政策,개인 정보 정책,個人情報保護方針,Política de privacidad
+login.popup-manage,Manage account,Konto verwalten,管理帐户,계정 관리,アカウントを管理する,Administrar cuenta
+login.returning-header-title,Sign in,Einloggen,登入,로그인,サインイン,Registrarse
+login.returning-header-desc,Your digital wallet via,Ihre digitale Geldbörse über,您的数字钱包通过,디지털 지갑을 통해,経由であなたのデジタルウォレット,Tu billetera digital a través de
+login.returning-sign-in-header1,Use another account,Benutze einen anderen Account,使用其他帐户,다른 계정 사용,別のアカウントを使用する,Usa otra cuenta
+login.returning-sign-in-header2,It seems like you are not signed in to an account yet,Anscheinend bist du noch nicht bei einem Konto angemeldet,您似乎尚未登录帐户,아직 계정에 로그인하지 않은 것 같습니다.,アカウントにまだサインインしていないようです,Parece que aún no ha iniciado sesión en una cuenta
+login.returning-sign-in-desc,Continue with one of the following to proceed,"Fahren Sie mit einem der folgenden Schritte fort, um fortzufahren",继续执行以下操作之一以继续,계속하려면 다음 중 하나를 계속하십시오.,次のいずれかを続行して続行します,Continúe con uno de los siguientes para continuar
+login.returning-exist-title,"Welcome back, {0}","Willkommen zurück, {0}",欢迎回来，{0},다시 오신 것을 환영합니다. {0},おかえりなさい、{0},"Bienvenido de nuevo, {0}"
+login.returning-exist-use-another,Use another account,Benutze einen anderen Account,使用其他帐户,다른 계정 사용,別のアカウントを使用する,Usa otra cuenta
+login.returning-confirm-title,We just want to be sure.,Wir wollen nur sicher sein.,我们只是想确定一下。,우리는 확신하고 싶습니다.,確認したいだけです。,Solo queremos estar seguros.
+login.returning-confirm-desc,Continue your sign in via biometrics?,Mit der Anmeldung über Biometrie fortfahren?,继续通过生物识别登录？,생체 인식을 통해 계속 로그인 하시겠습니까?,生体認証を介してサインインを続行しますか？,¿Continuar con el inicio de sesión mediante datos biométricos?
+login.returning-confirm-btn,"Yes, continue with biometrics","Ja, weiter mit Biometrie",是的，继续生物识别,"예, 생체 인식을 계속합니다.",はい、生体認証を続行します,"Sí, continuar con la biometría"
+login.returning-continue,Continue with {0},Weiter mit {0},继续{0},{0}로 계속,{0}に進む,Continuar con {0}
+login.verifier-google-desc,Continue with Google,Fahren Sie mit Google fort,继续使用Google,Google로 계속,Googleで続行,Continuar con Google
+login.verifier-email-placeholder,Email,Email,电子邮件,이메일,Eメール,Correo electrónico
+login.verifier-email-desc,Continue with Email,Fahren Sie mit E-Mail fort,继续发送电子邮件,이메일로 계속,メールを続ける,Continuar con el correo electrónico
+login.verifier-webauth-desc,Continue with WebAuthn,Fahren Sie mit WebAuthn fort,继续使用WebAuthn,WebAuthn으로 계속,WebAuthnを続行します,Continuar con WebAuthn
+login.register-title,Securing your {0} account,Sichern Sie Ihr {0} Konto,保护您的{0}帐户,{0} 계정 보안,{0}アカウントを保護する,Asegurar su cuenta de {0}
+login.register-title-try-webauth,Securing your account,Sichern Sie Ihr Konto,保护您的帐户,계정 보안,アカウントを保護する,Asegurar su cuenta
+login.register-title-additional-security,One last step before you go,Ein letzter Schritt bevor du gehst,出发前的最后一步,가기 전에 마지막 단계,行く前の最後の一歩,Un último paso antes de irte
+login.register-subtitle,Select one of the following,Wählen Sie eine der folgenden Optionen,选择以下之一,다음 중 하나를 선택하십시오.,次のいずれかを選択してください,Selecciona uno de los siguientes
+login.register-subtitle-try-webauth,Would you like to enable Touch ID / Face ID on this device?,Möchten Sie die Touch ID / Face ID auf diesem Gerät aktivieren?,您要在此设备上启用Touch ID / Face ID吗？,이 장치에서 Touch ID / Face ID를 활성화 하시겠습니까?,このデバイスでTouchID / Face IDを有効にしますか？,¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?
+login.register-subtitle-additional-security,Your account security matters. Let’s back it up.,Die Sicherheit Ihres Kontos ist wichtig. Lass es uns sichern.,您的帐户安全很重要。 让我们支持它。,귀하의 계정 보안이 중요합니다. 백업합시다.,アカウントのセキュリティが重要です。 後押ししましょう。,La seguridad de su cuenta es importante. Hagamos una copia de seguridad.
+login.register-biometrics-title,Continue with Face ID or Touch ID,Fahren Sie mit Face ID oder Touch ID fort,继续使用Face ID或Touch ID,Face ID 또는 Touch ID로 계속,FaceIDまたはTouchIDに進む,Continuar con Face ID o Touch ID
+login.register-biometrics-desc,Register your device with Face ID or Touch ID. Biometrics never leave your device.,Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie.,使用面容 ID 或触控 ID 注册您的设备。 生物识别技术永远不会离开您的设备。,Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 장치를 떠나지 않습니다.,デバイスを Face ID または Touch ID で登録します。 生体認証がデバイスから離れることはありません。,Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo.
+login.register-biometrics-enable,Enable Touch ID / Face ID,Aktivieren Sie Touch ID / Face ID,启用触摸ID /面部ID,Touch ID / Face ID 활성화,Touch ID / FaceIDを有効にする,Habilitar Touch ID / Face ID
+login.register-backup-phrase-title,Continue with a recovery email,Fahren Sie mit einer Wiederherstellungs-E-Mail fort,继续发送辅助邮箱,복구 이메일로 계속,復旧メールを続行します,Continuar con un correo de recuperación
+login.register-backup-phrase-desc,An email will be sent to you containing the backup phrase. It helps you with account recovery in case you lose your device.,"Sie erhalten eine E-Mail mit der Sicherungsphrase. Sie hilft Ihnen bei der Wiederherstellung des Kontos, falls Sie Ihr Gerät verlieren.",包含备用短语的电子邮件将发送给您。如果您丢失了设备，它将帮助您进行帐户恢复。,백업 문구가 포함 된 이메일이 전송됩니다.  기기 분실시 계정 복구에 도움이됩니다.,バックアップフレーズを記載したメールが送信されます。デバイスを紛失した場合のアカウントの復旧に役立ちます。,Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.
+login.register-backup-phrase-desc1,An email will be sent to you containing the backup phrase.,Sie erhalten eine E-Mail mit der Backup-Phrase.,将向您发送一封包含备份短语的电子邮件。,백업 문구가 포함 된 이메일이 발송됩니다.,バックアップ フレーズを含むメールが送信されます。,Se le enviará un correo electrónico con la frase de respaldo.
+login.register-backup-phrase-desc2,It helps you with account recovery in case you lose your device.,"Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät verlieren.",它可以帮助您在丢失设备时恢复帐户。,기기 분실시 계정 복구에 도움이됩니다.,デバイスを紛失した場合のアカウントの回復に役立ちます。,Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.
+login.register-backup-phrase-additional-security-desc1,An email will be sent to you containing the backup phrase.,Sie erhalten eine E-Mail mit der Backup-Phrase.,将向您发送一封包含备份短语的电子邮件。,백업 문구가 포함 된 이메일이 발송됩니다.,バックアップ フレーズを含むメールが送信されます。,Se le enviará un correo electrónico con la frase de respaldo.
+login.register-backup-phrase-additional-security-desc2,It helps you with account recovery in case you lose your device with Touch ID / Face ID.,"Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät mit Touch ID / Face ID verlieren.",如果您丢失带有 Touch ID / Face ID 的设备，它可以帮助您恢复帐户。,Touch ID / Face ID로 기기를 분실 한 경우 계정 복구에 도움이됩니다.,Touch ID / Face ID でデバイスを紛失した場合のアカウント回復に役立ちます。,Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID.
+login.register-backup-phrase-placeholder,Enter recovery email,Geben Sie die Wiederherstellungs-E-Mail ein,输入辅助邮箱,복구 이메일 입력,復旧メールを入力してください,Ingresa el correo de recuperación
+login.register-backup-phrase-send,Send recovery email,Wiederherstellungs-E-Mail senden,发送恢复电子邮件,복구 이메일 보내기,復旧メールを送信する,Enviar correo de recuperación
+login.register-backup-phrase-confirm-desc1,I confirm that I have received the recovery email.,"Ich bestätige, dass ich die Wiederherstellungs-E-Mail erhalten habe.",我确认我已收到恢复电子邮件。,我确认我已收到恢复电子邮件。,復旧メールを受信したことを確認しました。,Confirmo que he recibido el correo de recuperación.
+login.register-backup-phrase-confirm-desc2,"If not,","Wenn nicht,",如果不，,如果不，,そうでない場合は、,"Que no,"
+login.register-backup-phrase-confirm-desc3,re-enter recovery email,wiederherstellungs-E-Mail erneut eingeben,重新输入辅助邮箱,복구 이메일 다시 입력,リカバリメールを再入力してください,vuelve a ingresar el correo de recuperación
+login.register-password-title,Set up account password,Richten Sie das Kontokennwort ein,设置帐号密码,계정 비밀번호 설정,アカウントのパスワードを設定する,Configurar la contraseña de la cuenta
+login.register-password-password,Enter your password,Geben Sie Ihr Passwort ein,输入密码,비밀번호를 입력하세요,パスワードを入力してください,Ingresa tu contraseña
+login.register-password-password-confirm,Re-enter your password,Wiederhole die Eingabe deines Passwortes,重新输入密码,비밀번호 재 입력,パスワードを再入力してください,reingresa tu contraseña
+login.register-password-confirm,Set up password,Passwort einrichten,设定密码,비밀번호 설정,パスワードを設定する,Configurar contraseña
+login.register-continue,Continue,Fortsetzen,继续,계속하다,継続する,Continuar
+login.register-skip,Skip for Now,Für jetzt überspringen,立即跳过,일단은 스킵,今はスキップ,Saltar por ahora
+login.reconstruct-title,Verify your login,Überprüfen Sie Ihr Login,验证您的登录名,로그인 확인,ログインを確認する,Verifique su inicio de sesión
+login.reconstruct-subtitle,Verify with one of the following to access your account,"Überprüfen Sie mit einem der folgenden Punkte, um auf Ihr Konto zuzugreifen",验证以下内容之一以访问您的帐户,계정에 액세스하려면 다음 중 하나로 확인하세요.,アカウントにアクセスするには、次のいずれかで確認してください,Verifique con uno de los siguientes para acceder a su cuenta
+login.reconstruct-device-desc,Login to {0} from the stored browser below to verify your identity.,"Melden Sie sich über den unten gespeicherten Browser bei {0} an, um Ihre Identität zu überprüfen.",从下面存储的浏览器登录到{0}以验证您的身份。,아래 저장된 브라우저에서 {0}에 로그인하여 신원을 확인하세요.,以下の保存されているブラウザから{0}にログインして、本人確認を行ってください。,Inicie sesión en {0} desde el navegador almacenado a continuación para verificar su identidad.
+login.reconstruct-device-title,Device(s),Geräte,设备,장치,デバイス,Dispositivos
+login.reconstruct-device-desc1,Login to,Einloggen in,登录到,로그인,ログインする,Iniciar sesión en
+login.reconstruct-device-desc2,from any of the following devices to complete the security verification.,"von einem der folgenden Geräte, um die Sicherheitsüberprüfung abzuschließen.",从以下任何设备中完成安全性验证。,다음 장치 중 하나에서 보안 확인을 완료하십시오.,次のいずれかのデバイスからセキュリティ検証を完了します。,desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad.
+login.reconstruct-device-prev1,Login to your,Melden Sie sich bei Ihrem an,登录到您的,귀하의,あなたのログイン,Inicie sesión en su
+login.reconstruct-device-prev2,previous version of the Torus Wallet,vorherige Version der Torus-Brieftasche,Torus钱包的先前版本,이전 버전의 토러스 지갑,トーラスウォレットの以前のバージョン,versión anterior de Torus Wallet
+login.reconstruct-device-prev3,from the stored browser below to verify your identity.,"über den unten gespeicherten Browser, um Ihre Identität zu überprüfen.",从下面存储的浏览器中验证您的身份。,아래 저장된 브라우저에서 귀하의 신원을 확인하십시오.,以下の保存されているブラウザから本人確認を行ってください。,desde el navegador almacenado a continuación para verificar su identidad.
+login.reconstruct-backup-phrase-title,Backup phrase,Sicherungssatz,备用词组,백업 문구,バックアップフレーズ,Frase de respaldo
+login.reconstruct-backup-phrase-desc,Enter the backup phrase sent to your recovery email previously.,"Geben Sie den Sicherungssatz ein, der zuvor an Ihre Wiederherstellungs-E-Mail gesendet wurde.",输入先前发送到您的辅助邮箱的备份短语。,이전에 복구 이메일로 전송 된 백업 문구를 입력하십시오.,以前にリカバリメールに送信されたバックアップフレーズを入力します。,Ingrese la frase de respaldo enviada a su correo electrónico de recuperación anteriormente.
+login.reconstruct-backup-phrase-desc-2,Verify with your backup phrase that was setup on,"Bestätigen Sie mit Ihrem Backup-Satz, der eingerichtet wurde",确认已设置的备份集,설정된 백업 세트 확인,セットしたバックアップセットを確認する,Compruebe el conjunto de copia de seguridad establecido
+login.reconstruct-backup-phrase-desc-3,and sent to email: ,und an E-Mail gesendet:,并发送到电子邮件：,이메일로 전송:,そして電子メールに送られる：,y enviado al correo electrónico:
+login.reconstruct-backup-phrase-placeholder,Enter backup phrase,Geben Sie die Sicherungsphrase ein,输入备用词组,백업 문구 입력,バックアップフレーズを入力してください,Ingrese la frase de respaldo
+login.reconstruct-password-title,Recovery password,Passwort zum Zurücksetzen,找回密码,복구 암호,回復パスワード,Contraseña de recuperación
+login.reconstruct-password-desc,Enter your account recovery password here,Geben Sie hier Ihr Passwort für die Kontowiederherstellung ein,在此处输入您的帐户恢复密码,여기에 계정 복구 비밀번호를 입력하세요.,ここにアカウント回復パスワードを入力してください,Ingrese la contraseña de recuperación de su cuenta aquí
+login.reconstruct-password-placeholder,Account password,Konto Passwort,户口密码,계정 비밀번호,アカウントパスワード,Contraseña de la cuenta
+login.reconstruct-biometrics-title,Face ID / Touch ID enabled device(s) *,Face ID / Touch ID-fähige Geräte *,支持面部识别/触摸识别的设备*,Face ID / Touch ID 지원 장치 *,Face ID / TouchID対応デバイス*,Dispositivos habilitados con Face ID / Touch ID *
+login.reconstruct-biometrics-desc,* Only for Touch ID / Face ID previously set up on the following device(s):,"* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:",*仅适用于先前在以下设备上设置的Touch ID / Face ID：,* 다음 장치에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.,*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：,* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:
+login.reconstruct-biometrics-verify,Verify with Touch ID / Face ID,Überprüfen Sie mit Touch ID / Face ID,使用Touch ID / Face ID进行验证,Touch ID / Face ID로 확인,Touch ID / FaceIDで確認する,Verificar con Touch ID / Face ID
+login.reconstruct-fail,Unable to recover account?,Konto kann nicht wiederhergestellt werden?,无法找回帐户？,계정을 복구 할 수 없습니까?,アカウントを回復できませんか？,¿No puede recuperar la cuenta?
+login.reconstruct-support,Contact support,Kontaktieren Sie Support,联系支持,연락처 지원,サポート問い合わせ先,Soporte de contacto
+login.reconstruct-always-skip,Always skip,Immer überspringen,总是跳过,항상 건너뛰기,常にスキップする,Saltar siempre
+login.reconstruct-always-skip-note,"By selecting 'Always skip', you will not be prompted to login to your OpenLogin account again. If you change your mind, you may change this preference anytime in 'Settings'.","Wenn Sie „Immer überspringen“ auswählen, werden Sie nicht aufgefordert, sich erneut bei Ihrem OpenLogin-Konto anzumelden. Wenn Sie Ihre Meinung ändern, können Sie diese Einstellung jederzeit in den ""Einstellungen"" ändern.",通过选择“始终跳过”，您将不会收到再次登录 OpenLogin 帐户的提示。 如果您改变主意，您可以随时在“设置”中更改此首选项。,'항상 건너뛰기'를 선택하면 OpenLogin 계정에 다시 로그인하라는 메시지가 표시되지 않습니다. 마음이 바뀌면 '설정'에서 언제든지 이 환경설정을 변경할 수 있습니다.,[常にスキップ]を選択すると、OpenLoginアカウントに再度ログインするように求められることはありません。 気が変わった場合は、「設定」でいつでもこの設定を変更できます。,"Si selecciona 'Omitir siempre', no se le pedirá que vuelva a iniciar sesión en su cuenta de OpenLogin. Si cambia de opinión, puede cambiar esta preferencia en cualquier momento en 'Configuración'."
+login.migrate-title,made simple and secure with,einfach und sicher gemacht mit,变得简单而安全,간단하고 안전하게,シンプルで安全に,hecho simple y seguro con
+login.migrate-subtitle,Migrating your tKey,Migrieren Sie Ihren tKey,迁移您的tKey,tKey 마이그레이션,tKeyの移行,Migrar su tKey
+login.migrate-desc1,The latest version of Torus Wallet is powered by OpenLogin.,Die neueste Version von Torus Wallet wird von OpenLogin unterstützt.,最新版本的Torus Wallet由OpenLogin提供支持。,최신 버전의 Torus Wallet은 OpenLogin에 의해 구동됩니다.,Torus Walletの最新バージョンは、OpenLoginを利用しています。,La última versión de Torus Wallet funciona con OpenLogin.
+login.migrate-desc21,To enjoy the latest features of the Torus Wallet,Genießen Sie die neuesten Funktionen der Torus-Brieftasche,享受Torus钱包的最新功能,Torus Wallet의 최신 기능을 즐기려면,トーラスウォレットの最新機能をお楽しみください,Para disfrutar de las últimas funciones de Torus Wallet
+login.migrate-desc22,kindly verify your identity on this new version,Bitte überprüfen Sie Ihre Identität in dieser neuen Version,请在此新版本上验证您的身份,이 새 버전에서 신원을 확인하십시오.,この新しいバージョンであなたの身元を確認してください,por favor verifique su identidad en esta nueva versión
+login.migrate-list1,Supports Face ID / Touch ID,Unterstützt Face ID / Touch ID,支持面部识别/触摸识别,Face ID / Touch ID 지원,Face ID / TouchIDをサポート,Soporta Face ID / Touch ID
+login.migrate-list2,Secured by SSO and device,Durch SSO und Gerät gesichert,由SSO和设备保护,SSO 및 장치로 보호,SSOとデバイスによって保護されています,Asegurado por SSO y dispositivo
+login.migrate-list3,Protected user Data and Privacy,Geschützte Benutzerdaten und Datenschutz,受保护的用户数据和隐私,보호 된 사용자 데이터 및 개인 정보,保護されたユーザーデータとプライバシー,Privacidad y datos de usuario protegidos
+login.migrate-continue,Continue,Fortsetzen,继续,계속하다,継続する,Continuar
+login.2fa-setup-title1,Secure your account,Sichern Sie Ihr Konto,保护您的帐户,계정 보안,アカウントを保護する,Asegure su cuenta
+login.2fa-setup-title12,Set up 2 Factor Authentication,2-Faktor-Authentifizierung einrichten,设置 2 因素身份验证,2단계 인증 설정,2要素認証を設定する,Configurar autenticación de 2 factores
+login.2fa-setup-title2,Set up 2FA,2FA einrichten,设置 2FA,2FA 설정,2FAを設定する,Configurar 2FA
+login.2fa-setup-title21,Step 1: Save your device,Schritt 1: Speichern Sie Ihr Gerät,第 1 步：保存您的设备,1단계: 기기 저장,ステップ1：デバイスを保存する,Paso 1: Guarde su dispositivo
+login.2fa-setup-title3,Save recovery phrase,Wiederherstellungsphrase speichern,保存恢复短语,복구 문구 저장,回復フレーズを保存する,Guardar frase de recuperación
+login.mpc-2fa-setup-title3,Save recovery factor,Wiederherstellungsphrase speichern,保存恢复短语,복구 문구 저장,回復フレーズを保存する,Guardar frase de recuperación
+login.2fa-setup-title31,Step 2: Save recovery phrase,Schritt 2: Speichern Sie die Wiederherstellungsphrase,第 2 步：保存恢复短语,2단계: 복구 문구 저장,ステップ2：リカバリフレーズを保存する,Paso 2: Guarda la frase de recuperación
+login.2fa-setup-title32,Step 3: Verify Recovery Phrase,Schritt 3: Überprüfen Sie die Wiederherstellungsphrase,第 3 步：验证恢复短语,3단계: 복구 문구 확인,ステップ3：リカバリフレーズを確認する,Paso 3: Verificar la frase de recuperación
+login.2fa-setup-title4,Recovery verification,Wiederherstellungsüberprüfung,恢复验证,복구 확인,回復の検証,Verificación de recuperación
+login.2fa-setup-title5,2FA activated,2FA aktiviert,2FA 激活,2FA 활성화,2FAがアクティブ化,2FA activado
+login.2fa-setup-step1-sub1,Enable 2 Factor Authentication (2FA),2-Faktor-Authentifizierung (2FA) aktivieren,启用 2 因素身份验证 (2FA),2단계 인증(2FA) 활성화,2要素認証（2FA）を有効にする,Habilitar la autenticación de 2 factores (2FA)
+login.2fa-setup-step1-sub2,Add an extra layer of security to your account,Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu,为您的帐户添加额外的安全层,계정에 보안 계층 추가,アカウントにセキュリティの層を追加します,Agregue una capa adicional de seguridad a su cuenta
+login.2fa-setup-step1-sub3,Add an extra layer of security to your account and safekeep your assets.,Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu und bewahren Sie Ihre Vermögenswerte sicher auf.,为您的帐户添加额外的安全层并妥善保管您的资产。,계정에 보안 계층을 추가하고 자산을 보호하십시오.,アカウントにセキュリティの層を追加し、資産を保護します。,Agregue una capa adicional de seguridad a su cuenta y proteja sus activos.
+login.2fa-setup-step1-desc1,Each login requires 2 factors for authentication,Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung,每次登录需要 2 个身份验证因素,각 로그인에는 인증을 위해 2가지 요소가 필요합니다.,各ログインには、認証のために2つの要素が必要です,Cada inicio de sesión requiere 2 factores para la autenticación
+login.2fa-setup-step1-desc21,We highly recommend a 2FA set up for an active user like yourself.,Wir empfehlen dringend ein 2FA-Setup für einen aktiven Benutzer wie Sie.,我们强烈建议为像您这样的活跃用户设置 2FA。,귀하와 같은 활성 사용자를 위해 2FA 설정을 적극 권장합니다.,あなたのようなアクティブユーザーには2FAを設定することを強くお勧めします。,Recomendamos encarecidamente una configuración 2FA para un usuario activo como usted.
+login.2fa-setup-step1-desc22,Set it up in 3 simple steps!,Richten Sie es in 3 einfachen Schritten ein!,只需 3 个简单的步骤即可完成设置！,간단한 3단계로 설정하세요!,3つの簡単なステップでセットアップしてください！,¡Configúralo en 3 sencillos pasos!
+login.2fa-setup-step1-cancel,Maybe next time,Vielleicht nächstes Mal,下次吧,아마 다음 번에,また今度,Quizás la próxima vez
+login.2fa-setup-step1-next,Set up 2FA,2FA einrichten,设置 2FA,2FA 설정,2FAを設定する,Configurar 2FA
+login.2fa-setup-step2-sub1,Set up using current browser,Mit aktuellem Browser einrichten,使用当前浏览器设置,현재 브라우저를 사용하여 설정,現在のブラウザを使用して設定,Configurar usando el navegador actual
+login.2fa-setup-step2-sub2,Use the current browser to approve access from new devices/browsers.,"Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen.",使用当前浏览器批准来自新设备/浏览器的访问。,현재 브라우저를 사용하여 새 장치/브라우저에서 액세스를 승인합니다.,現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。,Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.
+login.2fa-setup-step2-current-browser,Current browser,Aktueller Browser,当前浏览器,현재 브라우저,現在のブラウザ,Navegador actual
+login.2fa-setup-step2-confirm-note,I understand that clearing browser history and cookies will delete this factor on my browser.,"Mir ist bewusst, dass das Löschen des Browserverlaufs und der Cookies diesen Faktor in meinem Browser löscht.",我了解清除浏览器历史记录和 cookie 将删除我浏览器上的这个因素。,브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 요소가 삭제된다는 것을 이해합니다.,ブラウザの履歴とCookieをクリアすると、ブラウザのこの要素が削除されることを理解しています。,Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador.
+login.2fa-setup-step2-cancel,Back,Zurück,后退,뒤,戻る,atrás
+login.2fa-setup-step2-next,Continue,Weitermachen,继续,계속하다,継続する,Continuar
+login.2fa-setup-step2-save-device,Save current device,Aktuelles Gerät speichern,保存当前设备,현재 장치 저장,現在のデバイスを保存,Guardar dispositivo actual
+login.2fa-setup-step3-sub1,Provide an email to receive recovery phrase,"Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",提供电子邮件以接收恢复短语,복구 문구를 받을 이메일 제공,回復フレーズを受け取るための電子メールを提供する,Proporcione un correo electrónico para recibir la frase de recuperación
+login.mpc-2fa-setup-step3-sub1,Provide an email to receive recovery factor,"Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",提供电子邮件以接收恢复短语,복구 문구를 받을 이메일 제공,回復フレーズを受け取るための電子メールを提供する,Proporcione un correo electrónico para recibir la frase de recuperación
+login.2fa-setup-step3-sub2,"In case you lose access to your saved browser, you can authenticate with your recovery phrase.","Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。,저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.,保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。,"En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación."
+login.mpc-2fa-setup-step3-sub2,"In case you lose access to your saved browser, you can authenticate with your recovery factor.","Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。,저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.,保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。,"En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación."
+login.2fa-setup-step3-sub21,Paste your recovery phrase sent to {0},"Fügen Sie Ihren Wiederherstellungssatz ein, der an {0} gesendet wurde",粘贴您发送到 {0} 的辅助短语,{0}(으)로 전송된 복구 문구를 붙여넣으세요.,{0}に送信されたリカバリフレーズを貼り付けます,Pegue su frase de recuperación enviada a {0}
+login.2fa-setup-step3-sub22,"I know that if I lose this recovery phrase, I will bear the risk of losing my account.","Ich weiß, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",我知道如果我丢失了这个恢复短语，我将承担丢失帐户的风险。,이 복구 문구를 잃어버리면 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.,この回復フレーズを失った場合、アカウントを失うリスクを負うことを私は知っています。,"Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta."
+login.2fa-setup-step3-note11,Note:,Notiz:,笔记：,메모:,ノート：,Nota:
+login.2fa-setup-step3-note12,You will need to confirm this phrase on the next screen,Sie müssen diesen Satz auf dem nächsten Bildschirm bestätigen,您需要在下一个屏幕上确认此短语,다음 화면에서 이 문구를 확인해야 합니다.,次の画面でこのフレーズを確認する必要があります,Deberá confirmar esta frase en la siguiente pantalla
+login.2fa-setup-step3-email,Email,Email,电子邮件,이메일,Eメール,Correo electrónico
+login.2fa-setup-step3-enter-email,Enter your email address,Geben sie ihre E-Mailadresse ein,输入你的电子邮箱地址,이메일 주소를 입력하세요,メールアドレスを入力してください,Ingrese su dirección de correo electrónico
+login.2fa-setup-step3-manual-save,Manually save your phrase,Speichern Sie Ihren Satz manuell,手动保存您的短语,수동으로 문구 저장,フレーズを手動で保存する,Guarde manualmente su frase
+login.2fa-setup-step3-download-phrase,Download phrase,Redewendung herunterladen,下载短语,구문 다운로드,フレーズをダウンロード,Descargar frase
+login.2fa-setup-step3-copy-phrase,Copy phrase,Satz kopieren,复制短语,문구 복사,フレーズをコピーする,Copiar frase
+login.2fa-setup-step3-confirm-phrase,"As an advanced user, I know that if I lose this recovery phrase, I bear the risk of losing my account.","Als fortgeschrittener Benutzer weiß ich, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",作为高级用户，我知道如果我丢失了此恢复短语，我将承担丢失帐户的风险。,고급 사용자로서 나는 이 복구 문구를 잃어버리면 내 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.,上級ユーザーとして、この回復フレーズを失うと、アカウントを失うリスクがあることを私は知っています。,"Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta."
+login.2fa-setup-step3-next1,Finish setting up,Beenden Sie die Einrichtung,完成设置,설정 완료,セットアップを完了します,Terminar de configurar
+login.2fa-setup-step3-next2,Verify,Verifizieren,核实,확인하다,確認,Verificar
+login.2fa-setup-step3-next3,Send recovery phrase,Wiederherstellungsphrase senden,发送恢复短语,복구 문구 보내기,回復フレーズを送信する,Enviar frase de recuperación
+login.2fa-setup-step3-toggle1,Save my recovery phrase without email,Meine Wiederherstellungsphrase ohne E-Mail speichern,无需电子邮件即可保存我的恢复短语,이메일 없이 내 복구 문구 저장,メールなしで回復フレーズを保存する,Guardar mi frase de recuperación sin correo electrónico
+login.2fa-setup-step3-toggle2,Email me my recovery phrase,Senden Sie mir meinen Wiederherstellungssatz per E-Mail,通过电子邮件向我发送恢复短语,내 복구 문구를 이메일로 보내주세요,私の回復フレーズを私にメールしてください,Envíame mi frase de recuperación por correo electrónico
+login.2fa-setup-step3-next4,I have saved my recovery phrase,Ich habe meine Wiederherstellungsphrase gespeichert,我已经保存了我的恢复短语,복구 문구를 저장했습니다,回復フレーズを保存しました,He guardado mi frase de recuperación
+login.2fa-setup-step3-show-adv,View advanced option,Erweiterte Option anzeigen,查看高级选项,고급 옵션 보기,詳細オプションを表示,Ver opción avanzada
+login.2fa-setup-step3-hide-adv,Hide advanced option,Erweiterte Option ausblenden,隐藏高级选项,고급 옵션 숨기기,詳細オプションを非表示,Ocultar opción avanzada
+login.2fa-setup-step3-enter-recovery,Enter your recovery phrase,Geben Sie Ihren Wiederherstellungssatz ein,输入您的辅助短语,복구 문구를 입력하세요,回復フレーズを入力してください,Introduce tu frase de recuperación
+login.2fa-setup-step3-verified,Verified,Verifiziert,已验证,확인됨,確認済み,Verificado
+login.2fa-setup-step3-download,Download my recovery phrase,Laden Sie meinen Wiederherstellungssatz herunter,下载我的恢复短语,내 복구 문구 다운로드,私の回復フレーズをダウンロードする,Descarga mi frase de recuperación
+login.mpc-2fa-setup-step3-download,Download my recovery factor,Laden Sie meinen Wiederherstellungsfaktor herunter,下载我的恢复因子,내 회복 인자 다운로드,私のリカバリーファクターをダウンロードする,Descargar mi factor de recuperación
+login.2fa-setup-step3-cancel,Back,Zurück,后退,뒤,戻る,atrás
+login.2fa-setup-step3-next,Continue,Weitermachen,继续,계속하다,継続する,Continuar
+login.2fa-setup-step4-sub1,Verify your recovery phrase,Bestätigen Sie Ihren Wiederherstellungssatz,验证您的恢复短语,복구 문구 확인,回復フレーズを確認する,Verifica tu frase de recuperación
+login.mpc-2fa-setup-step4-sub1,Verify your recovery factor,Überprüfen Sie Ihren Erholungsfaktor,验证您的恢复系数,회복 계수 확인,回復率を確認する,Verifique su factor de recuperación
+login.2fa-setup-step4-sub21,Paste the recovery phrase,Fügen Sie den Wiederherstellungssatz ein,粘贴恢复短语,복구 문구 붙여넣기,回復フレーズを貼り付けます,Pega la frase de recuperación
+login.mpc-2fa-setup-step4-sub21,Paste the recovery factor,Fügen Sie den Wiederherstellungsfaktor ein,粘贴恢复因子,회복 인자 붙여넣기,回復係数を貼り付けます,Pegar el factor de recuperación
+login.2fa-setup-step4-sub22,Paste the recovery phrase sent to your email {0},"Fügen Sie den Wiederherstellungssatz ein, der an Ihre E-Mail-Adresse {0} gesendet wurde.",粘贴发送到您的电子邮件的恢复短语 {0},이메일로 전송된 복구 문구를 붙여넣으세요 {0},メールに送信されたリカバリフレーズを貼り付けます{0},Pega la frase de recuperación enviada a tu correo electrónico {0}
+login.mpc-2fa-setup-step4-sub22,Paste the recovery factor sent to your email {0},Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0},粘贴发送到您的电子邮件 {0} 的恢复因素,이메일로 전송된 복구 요소를 붙여넣습니다. {0},メール {0} に送信された回復係数を貼り付けます,Pegue el factor de recuperación enviado a su correo electrónico {0}
+login.2fa-setup-step4-recovery,Recovery phrase,Wiederherstellungsphrase,恢复短语,복구 문구,回復フレーズ,Frase de recuperación
+login.mpc-2fa-setup-step4-recovery,Recovery factor,Erholungsfaktor,恢复系数,회복 계수,回収率,Factor de recuperación
+login.2fa-setup-step4-check-time,Did not receive it? Resent. Check again in {0},Nicht erhalten? Übelnehmen. Erneut einchecken in {0},没有收到吗？ 反感。 再次签入{0},받지 못하셨나요? 화내다. {0}에서 다시 확인,受け取りませんでしたか？ 憤る。 {0}でもう一度確認してください,¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}
+login.2fa-setup-step4-not-received,Did not receive it?,Nicht erhalten?,没有收到吗？,받지 못하셨나요?,受け取りませんでしたか？,¿No lo recibiste?
+login.2fa-setup-step4-resend,Resend,Erneut senden,重发,재전송,再送,Reenviar
+login.2fa-setup-step4-cancel,Back,Zurück,后退,뒤,戻る,atrás
+login.2fa-setup-step4-next,Verify,Verifizieren,核实,검증,確認,Verificar
+login.2fa-setup-step4-contact-support,Contact support,Kontaktieren Sie Support,联系支持,연락처 지원,サポート問い合わせ先,Soporte de contacto
+login.2fa-setup-step5-sub1,Your 2FA has been activated!,Ihre 2FA wurde aktiviert!,您的 2FA 已激活！,2FA가 활성화되었습니다!,2FAがアクティブになりました！,¡Su 2FA ha sido activado!
+login.2fa-setup-step5-sub2,Manage future account settings on app.openlogin.com,Verwalten Sie zukünftige Kontoeinstellungen auf app.openlogin.com,在 app.openlogin.com 上管理未来的帐户设置,app.openlogin.com에서 향후 계정 설정 관리,app.openlogin.comで将来のアカウント設定を管理します,Administre la configuración de la cuenta futura en app.openlogin.com
+login.2fa-setup-step5-next,Done,Fertig,完毕,완료,終わり,Hecho
+login.2fa-setup-step5-return-app,Return to application,Zurück zur Anwendung,返回申请,애플리케이션으로 돌아가기,アプリケーションに戻る,Volver a la aplicación
+login.2fa-verify-title1,Verify your login,Bestätigen Sie Ihre Anmeldung,验证您的登录信息,로그인 확인,ログインを確認する,Verifique su inicio de sesión
+login.2fa-verify-title2,2FA activated,2FA aktiviert,2FA 激活,2FA 활성화,2FAがアクティブ化,2FA activado
+login.2fa-verify-step1-sub1,Authenticate with one of the following,Authentifizieren Sie sich mit einer der folgenden Optionen,使用以下之一进行身份验证,다음 중 하나로 인증,次のいずれかで認証します,Autenticarse con uno de los siguientes
+login.2fa-verify-step1-sub2,You need one of the following to login,"Sie benötigen eine der folgenden Möglichkeiten, um sich anzumelden",您需要以下其中一项才能登录,로그인하려면 다음 중 하나가 필요합니다.,ログインするには、次のいずれかが必要です,Necesita uno de los siguientes para iniciar sesión
+login.2fa-verify-step1-panel1,Saved browser(s) / devices,Gespeicherte(r) Browser/Geräte,保存的浏览器/设备,저장된 브라우저/기기,保存されたブラウザ/デバイス,Navegadores / dispositivos guardados
+login.2fa-verify-step1-panel2,Recovery phrase,Wiederherstellungsphrase,恢复短语,복구 문구,回復フレーズ,Frase de recuperación
+login.mpc-2fa-verify-step1-panel2,Recovery factor,Erholungsfaktor,恢复系数,회복 계수,回収率,Factor de recuperación
+login.2fa-verify-step1-rec-label,Enter recovery phrase,Geben Sie den Wiederherstellungssatz ein,输入恢复短语,복구 문구 입력,回復フレーズを入力してください,Ingrese la frase de recuperación
+login.mpc-2fa-verify-step1-rec-label,Enter recovery factor,Erholungsfaktor eingeben,输入恢复系数,회복 계수 입력,回復係数を入力してください,Ingrese el factor de recuperación
+login.2fa-verify-step1-rec-placeholder,Recovery phrase,Wiederherstellungsphrase,恢复短语,복구 문구,回復フレーズ,Frase de recuperación
+login.mpc-2fa-verify-step1-rec-placeholder,Recovery factor,Erholungsfaktor,恢复系数,회복 계수,回収率,Factor de recuperación
+login.2fa-verify-step1-do-not-save,Do not save this brower/device.,Speichern Sie diesen Browser/dieses Gerät nicht.,不要保存此浏览器/设备。,이 브라우저/장치를 저장하지 마십시오.,このブラウザ/デバイスを保存しないでください。,No guarde este navegador / dispositivo.
+login.2fa-verify-step1-verify,Verify,Verifizieren,核实,검증,確認,Verificar
+login.2fa-verify-step2-sub1,Successful verification,Erfolgreiche Verifizierung,验证成功,인증 성공,検証の成功,Verificación exitosa
+login.2fa-verify-step1-go-app,Go to App,Gehe zu App,转到应用程序,앱으로 이동,アプリに行きます,Ir a la aplicación
+login.2fa-setup-step4-contact-support,Contact Support,Kontaktieren Sie Support,联系支持,연락처 지원,サポート問い合わせ先,Soporte de contacto
+login.2fa-verify-success-head,Successful,Erfolgreich,成功的,성공적인,成功,Exitoso
+login.2fa-verify-success-title,2FA verified,2FA verifiziert,2FA 验证,2FA 인증,2FA検証済み,2FA verificado
+login.2fa-verify-success-subtitle,Logging you in,Melden Sie sich an,登录,로그인,ログインします,iniciando sesión
+login.2fa-verify-save-head,Account recovered,Konto wiederhergestellt,帐户已恢复,계정 복구됨,アカウントが回復しました,Cuenta recuperada
+login.2fa-verify-save-subhead,Would you like to save this device as a trusted device?,Möchten Sie dieses Gerät als vertrauenswürdiges Gerät speichern?,您想将此设备保存为受信任的设备吗？,이 장치를 신뢰할 수 있는 장치로 저장하시겠습니까?,このデバイスを信頼できるデバイスとして保存しますか？,¿Le gustaría guardar este dispositivo como dispositivo de confianza?
+login.2fa-verify-save-nosave,Maybe next time,Vielleicht nächstes Mal,下次吧,아마 다음 번에,また今度,Quizás la próxima vez
+login.2fa-verify-save-save,Save this device,Speichern Sie dieses Gerät,保存此设备,이 기기 저장,このデバイスを保存します,Guardar este dispositivo
+login.2fa-verify-share-head,Select one of the following,Wählen Sie eine der folgenden Optionen,选择以下之一,다음 중 하나를 선택하십시오.,次のいずれかを選択してください,Selecciona uno de los siguientes
+login.2fa-verify-share-subhead,You need one of the following to login,"Sie benötigen eine der folgenden Möglichkeiten, um sich anzumelden",您需要以下其中一项才能登录,로그인하려면 다음 중 하나가 필요합니다.,ログインするには、次のいずれかが必要です,Necesita uno de los siguientes para iniciar sesión
+login.2fa-verify-share-browser,Browser,Browser,浏览器,브라우저,ブラウザ,Navegador
+login.2fa-verify-share-send,Send request,Anfrage senden,发送请求,요청 보내기,リクエストを送信,Enviar petición
+login.2fa-verify-share-resend,Resend request,Anfrage erneut senden,重新发送请求,재전송 요청,再送信リクエスト,Reenviar solicitud
+login.2fa-verify-recovery-title,Recovery code,Wiederherstellungscode,恢复代码,복구 코드,リカバリコード,Código de recuperación
+login.2fa-verify-recovery-label,Enter recovery phrase,Geben Sie den Wiederherstellungssatz ein,输入恢复短语,복구 문구 입력,回復フレーズを入力してください,Ingrese la frase de recuperación
+login.2fa-verify-recovery-placeholder,Recovery phrase,Wiederherstellungsphrase,恢复短语,복구 문구,回復フレーズ,Frase de recuperación
+login.2fa-verify-recovery-note,"If you are unable to verify any of the above, you are unable to login to your account.","Wenn Sie keinen der oben genannten Punkte bestätigen können, können Sie sich nicht bei Ihrem Konto anmelden.",如果您无法验证上述任何一项，则无法登录您的帐户。,위의 항목 중 하나라도 확인할 수 없으면 계정에 로그인할 수 없습니다.,上記のいずれかを確認できない場合は、アカウントにログインできません。,"Si no puede verificar ninguno de los anteriores, no puede iniciar sesión en su cuenta."
+login.2fa-verify-verify,Verify,Verifizieren,核实,검증,確認,Verificar
+login.2fa-verify-multi-head,Allow access from your saved browser,Erlauben Sie den Zugriff von Ihrem gespeicherten Browser,允许从您保存的浏览器访问,저장된 브라우저에서 액세스 허용,保存したブラウザからのアクセスを許可する,Permitir el acceso desde su navegador guardado
+login.2fa-verify-multi-subhead,Login to the following saved browser to approve access,"Melden Sie sich beim folgenden gespeicherten Browser an, um den Zugriff zu genehmigen",登录到以下已保存的浏览器以批准访问,액세스를 승인하려면 다음 저장된 브라우저에 로그인하십시오.,次の保存されたブラウザにログインして、アクセスを承認します,Inicie sesión en el siguiente navegador guardado para aprobar el acceso
+login.2fa-verify-multi-subhead2,A login request will be sent to your saved browser,Eine Anmeldeanfrage wird an Ihren gespeicherten Browser gesendet,登录请求将发送到您保存的浏览器,저장된 브라우저로 로그인 요청이 전송됩니다.,保存したブラウザにログインリクエストが送信されます,Se enviará una solicitud de inicio de sesión a su navegador guardado
+login.2fa-verify-multi-title,{0} devices available,{0} Geräte verfügbar,{0} 台设备可用,사용 가능한 기기 {0}대,利用可能な{0}デバイス,{0} dispositivos disponibles
+login.2fa-verify-try-other,Try other methods,Probieren Sie andere Methoden aus,尝试其他方法,다른 방법 시도,他の方法を試す,Pruebe otros métodos
+login.2fa-verify-reference-id,Reference ID,Referenz ID,参考编号,참조 ID,参照ID,Identificación de referencia
+login.constructYourKey,Constructing your key on,Bauen Sie Ihren Schlüssel auf,构建您的密钥,키 구성,キーを作成する,Construyendo tu clave en
+login.social-2fa-heading,Set Social recovery factor,Setzen Sie den sozialen Genesungsfaktor,设定社会恢复因素,사회 복구 요인을 설정하십시오,社会的回復要因を設定します,Establecer factor de recuperación social
+login.social-2fa-subtitle-1,Login with any of the social account to set it as recovery factor,"Melden Sie sich mit einem der sozialen Konto an, um es als Wiederherstellungsfaktor festzulegen",用任何社会帐户登录将其设置为恢复因素,소셜 계정에 로그인하여 복구 계수로 설정,ソーシャルアカウントのいずれかでログインして、回復要因として設定します,Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación
+login.social-2fa-subtitle-2,"In case you lose access to your saved browser, you can authenticate with your Social account.","Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrem sozialen Konto authentifizieren.",如果您无法访问保存的浏览器，则可以通过社交帐户进行身份验证。,저장된 브라우저에 대한 액세스 권한을 잃어버린 경우 소셜 계정으로 인증 할 수 있습니다.,保存されたブラウザへのアクセスを失う場合は、ソーシャルアカウントで認証できます。,"En caso de que pierda acceso a su navegador guardado, puede autenticarse con su cuenta social."
+login.social-2fa-continue-text,Select how you like to continue,"Wählen Sie, wie Sie fortfahren möchten",选择您喜欢如何继续,계속하는 방법을 선택하십시오,続行する方法を選択してください,Seleccione cómo le gusta continuar
+login.social-2fa-warn-text-1,This Social factor only acts as a backup share to recover your account linked to “abcd@xyz.com”.,"Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen.",这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd@xyz.com”。,"이 사회적 요소는 ""abcd@xyz.com""에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。,"Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a ""abcd@xyz.com""."
+login.social-2fa-warn-text-2,Signing in with this Social factor at the login page will give you a new account.,"Wenn Sie sich bei diesem sozialen Faktor auf der Anmeldeseite anmelden, erhalten Sie ein neues Konto.",在登录页面上使用此社交因素签名将为您提供一个新帐户。,로그인 페이지 에서이 소셜 요소에 로그인하면 새 계정이 제공됩니다.,ログインページでこのソーシャルファクターにサインインすると、新しいアカウントが提供されます。,Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta.
+login.social-2fa-view-more,View more,Mehr sehen,查看更多,더보기,もっと見る,Ver más
+login.social-2fa-view-less,View less,Weniger anzeigen,少查看,덜보십시오,表示が少なくなります,Ver menos
+login.social-2fa-verify-account,Verify with your social account,Überprüfen Sie mit Ihrem sozialen Konto,验证您的社交帐户,소셜 계정으로 확인하십시오,ソーシャルアカウントで確認します,Verifique con su cuenta social
+login.social-2fa-verify-heading,Social Recovery factor,Sozialer Genesungsfaktor,社会恢复因素,사회 복구 요인,社会的回復要因,Factor de recuperación social
+login.social-2fa-verify-email,Verify with your email,Überprüfen Sie mit Ihrer E -Mail,通过电子邮件验证,이메일로 확인하십시오,メールで確認してください,Verifique con su correo electrónico
+login.social-2fa-warning-text,You are using the same email for account login and social factor. This is insecure. Would you still like to proceed?,Sie verwenden dieselbe E -Mail für Kontoanmeldung und sozialer Faktor. Das ist unsicher. Möchten Sie immer noch fortfahren?,您正在使用同一电子邮件进行帐户登录和社会因素。这是不安全的。您还想继续吗？,계정 로그인 및 소셜 요소에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않습니다. 아직도 진행하고 싶습니까?,アカウントログインとソーシャルファクターに同じメールを使用しています。これは不安です。まだ進みたいですか？,Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?
+login.social-2fa-warning-cta-1,"Yes, I accept the risk","Ja, ich akzeptiere das Risiko",是的，我接受风险,"예, 위험을 받아들입니다",はい、私はリスクを受け入れます,"Sí, acepto el riesgo"
+login.social-2fa-warning-cta-2,"No, use another email","Nein, verwenden Sie eine andere E -Mail",不，使用另一封电子邮件,"아니요, 다른 이메일을 사용하십시오",いいえ、別のメールを使用してください,"No, usa otro correo electrónico"

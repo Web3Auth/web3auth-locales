@@ -1,0 +1,16 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+home.title,"Welcome, {0}","Willkommen, {0}",欢迎，{0},"{0} 님, 환영합니다",ようこそ、{0},"Bienvenido, {0}"
+home.link-account-type,account,konto,帐户,계정,アカウント,cuenta
+home.link-account-name,Manage account,Konto verwalten,管理帐户,계정 관리,アカウントを管理する,Administrar cuenta
+home.link-apps-type,apps,apps,应用,앱,アプリ,aplicaciones
+home.link-apps-name,View Authorized Apps,Autorisierte Apps anzeigen,查看授权的应用,승인 된 앱보기,承認されたアプリを表示する,Ver aplicaciones autorizadas
+home.learn-more-title,Getting started,Einstieg,开始,시작하기,開始,Empezando
+home.learn-more-desc,Take charge of your digital presence with OpenLogin.,Übernehmen Sie mit OpenLogin die Kontrolle über Ihre digitale Präsenz.,使用OpenLogin来管理您的数字业务。,OpenLogin으로 디지털 존재를 관리하십시오.,OpenLoginでデジタルプレゼンスを管理します。,Hágase cargo de su presencia digital con OpenLogin.
+home.share-approval-title,New login detected,Neues Login erkannt,检测到新登录,새 로그인 감지,新しいログインが検出されました,Nuevo inicio de sesión detectado
+home.share-approval-desc1,A new login is trying to access your account.,"Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",新的登录名正在尝试登记入您的帐户。,새 로그인으로 계정에 액세스하려고합니다.,新しいログインがあなたのアカウントにアクセスしようとしています。,Un nuevo inicio de sesión está intentando acceder a su cuenta.
+home.share-approval-desc2,Match the Reference ID and confirm this is you:,"Passen Sie die Referenz-ID an und bestätigen Sie, dass Sie es sind:",匹配参考ID，并确认这是您：,참조 ID를 일치 하고 본인임을 확인합니다.,参照IDを一致させ、これがあなたであることを確認します。,Haga coincidir la ID de referencia y confirme que es usted:
+home.share-approval-not-me,"This is not me,","Das bin nicht ich,",这不是我，,이건 내가 아니다,これは私ではない、,"Este no soy yo,"
+home.share-approval-report,report it,berichten Sie,举报,보고서,それを報告する,Informe
+home.share-approval-secure,Secure Torus sign in,Sichere Torus-Anmeldung,安全Torus登录,보안 토러스 로그인,セキュアトーラスサインイン,Iniciar sesión Secure Torus
+home.share-approval-support,Contact Support,Kontaktieren Sie Support,联系支持人员,연락처 지원,サポート問い合わせ先,Soporte de contacto
+,,,,,,

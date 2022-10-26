@@ -1,0 +1,8 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+apps.title,Authorized Apps,Autorisierte Apps,授权应用,승인 된 앱,認定アプリ,Aplicaciones autorizadas
+apps.desc,Manage your authorized applications here,Verwalten Sie hier Ihre autorisierten Anwendungen,在这里管理您的授权应用程序,여기에서 승인 된 애플리케이션 관리,ここで承認されたアプリケーションを管理します,Gestione sus aplicaciones autorizadas aquí
+apps.apps-title,Authorized applications,Autorisierte Anträge,授权申请,승인 된 애플리케이션,許可されたアプリケーション,Aplicaciones autorizadas
+apps.apps-subtitle,List of Apps,Liste der Apps,应用清单,앱 목록,アプリのリスト,Lista de aplicaciones
+apps.apps-empty,You are not connected to any applications yet.,Sie sind noch nicht mit Anwendungen verbunden.,您尚未连接到任何应用程序。,아직 애플리케이션에 연결되어 있지 않습니다.,まだどのアプリケーションにも接続していません。,Aún no estás conectado a ninguna aplicación.
+apps.apps-current-device,Current device,Aktuelles Gerät,当前设备,현재 기기,現在のデバイス,Dispositivo actual
+apps.export-private-key,Private Key,Privat Schlüssel,私钥,개인 키,秘密鍵,Llave privada
