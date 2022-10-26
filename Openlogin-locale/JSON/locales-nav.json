@@ -1,0 +1,42 @@
+{
+	"nav.link-home": {
+		"english": "Home",
+		"german": "Startseite",
+		"mandarin": "主页",
+		"korean": "홈페이지",
+		"japanese": "ホームページ",
+		"spanish": "página principal"
+	},
+	"nav.link-account": {
+		"english": "Account",
+		"german": "Konto",
+		"mandarin": "帐户",
+		"korean": "계정",
+		"japanese": "アカウント",
+		"spanish": "Cuenta"
+	},
+	"nav.link-apps": {
+		"english": "Authorized Apps",
+		"german": "Autorisierte Apps",
+		"mandarin": "授权应用",
+		"korean": "승인 된 앱",
+		"japanese": "認定アプリ",
+		"spanish": "Aplicaciones autorizadas"
+	},
+	"nav.link-support": {
+		"english": "Support",
+		"german": "Unterstützung",
+		"mandarin": "支持",
+		"korean": "지원하다",
+		"japanese": "サポート",
+		"spanish": "Apoyo"
+	},
+	"nav.link-logout": {
+		"english": "Logout",
+		"german": "Ausloggen",
+		"mandarin": "登出",
+		"korean": "로그 아웃",
+		"japanese": "ログアウト",
+		"spanish": "Cerrar sesión"
+	}
+}

@@ -1,0 +1,338 @@
+{
+	"account.title": {
+		"english": "Account",
+		"german": "Konto",
+		"mandarin": "帐户",
+		"korean": "계정",
+		"japanese": "アカウント",
+		"spanish": "Cuenta"
+	},
+	"account.desc": {
+		"english": "Manage your OpenLogin settings here",
+		"german": "Verwalten Sie hier Ihre OpenLogin-Einstellungen",
+		"mandarin": "在此处管理您的OpenLogin设置",
+		"korean": "여기에서 OpenLogin 설정을 관리하세요.",
+		"japanese": "ここでOpenLogin設定を管理します",
+		"spanish": "Administre su configuración de OpenLogin aquí"
+	},
+	"account.auth-factors-title": {
+		"english": "Security Settings",
+		"german": "Sicherheitseinstellungen",
+		"mandarin": "安全设定",
+		"korean": "보안 설정",
+		"japanese": "セキュリティ設定",
+		"spanish": "Configuraciones de seguridad"
+	},
+	"account.auth-factors-subtitle": {
+		"english": "List of Authentication factors",
+		"german": "Liste der Authentifizierungsfaktoren",
+		"mandarin": "认证因素清单",
+		"korean": "인증 요인 목록",
+		"japanese": "認証要素のリスト",
+		"spanish": "Lista de factores de autenticación"
+	},
+	"account.auth-factors-threshold": {
+		"english": "Security Factors",
+		"german": "Sicherheitsfaktoren",
+		"mandarin": "安全因素",
+		"korean": "보안 요소",
+		"japanese": "セキュリティ要因",
+		"spanish": "Factores de seguridad"
+	},
+	"account.auth-factors-threshold-factor": {
+		"english": "{0} Authentication factor",
+		"german": "{0} Authentifizierungsfaktor",
+		"mandarin": "{0}认证因素",
+		"korean": "{0} 인증 요소",
+		"japanese": "{0}認証要素",
+		"spanish": "{0} Factor de autenticación"
+	},
+	"account.auth-factors-threshold-desc": {
+		"english": "The number of factors to authenticate in order to access your account.",
+		"german": "Die Anzahl der Faktoren, die authentifiziert werden müssen, um auf Ihr Konto zuzugreifen.",
+		"mandarin": "要访问您的帐户进行身份验证的因素数量。",
+		"korean": "계정에 액세스하기 위해 인증 할 요소의 수입니다.",
+		"japanese": "アカウントにアクセスするために認証する要素の数。",
+		"spanish": "La cantidad de factores que se deben autenticar para acceder a su cuenta."
+	},
+	"account.auth-factors-device-title": {
+		"english": "Device(s)",
+		"german": "Geräte",
+		"mandarin": "设备",
+		"korean": "장치",
+		"japanese": "デバイス",
+		"spanish": "Dispositivos"
+	},
+	"account.auth-factors-device-desc": {
+		"english": "These devices are unique factors authorized to access your account.",
+		"german": "Diese Geräte sind einzigartige Faktoren, die für den Zugriff auf Ihr Konto berechtigt sind.",
+		"mandarin": "这些设备是被授权访问您的帐户的独特因素。",
+		"korean": "이러한 장치는 귀하의 계정에 액세스 할 수있는 고유 한 요소입니다.",
+		"japanese": "これらのデバイスは、アカウントへのアクセスを許可された固有の要素です。",
+		"spanish": "Estos dispositivos son factores únicos autorizados para acceder a su cuenta."
+	},
+	"account.auth-factors-device-current": {
+		"english": "Current",
+		"german": "Strom",
+		"mandarin": "当前的",
+		"korean": "흐름",
+		"japanese": "電流",
+		"spanish": "Actual"
+	},
+	"account.auth-factors-device-biometrics": {
+		"english": "biometrics registered",
+		"german": "Biometrie registriert",
+		"mandarin": "启用生物识别",
+		"korean": "생체 인식 활성화",
+		"japanese": "生体認証が有効",
+		"spanish": "biometría registrada"
+	},
+	"account.auth-factors-enable-biometrics": {
+		"english": "Enable biometrics",
+		"german": "Biometrie aktivieren",
+		"mandarin": "生物识别注册",
+		"korean": "생체 인식 등록",
+		"japanese": "登録されたバイオメトリクス",
+		"spanish": "Habilitar la biometría"
+	},
+	"account.auth-factors-device-empty": {
+		"english": "No device shares found",
+		"german": "Keine Gerätefreigaben gefunden",
+		"mandarin": "未找到设备共享",
+		"korean": "장치 공유가 없습니다.",
+		"japanese": "デバイス共有が見つかりません",
+		"spanish": "No se encontraron recursos compartidos de dispositivos"
+	},
+	"account.auth-factors-network": {
+		"english": "Social logins via Torus nodes",
+		"german": "Soziale Anmeldungen über Torus-Knoten",
+		"mandarin": "通过Torus节点进行社交登录",
+		"korean": "Torus 노드를 통한 소셜 로그인",
+		"japanese": "Torusノードを介したソーシャルログイン",
+		"spanish": "Inicios de sesión sociales a través de nodos Torus"
+	},
+	"account.auth-factors-email": {
+		"english": "Recovery email",
+		"german": "Wiederherstellungs-E-Mail",
+		"mandarin": "辅助邮箱",
+		"korean": "복구 이메일",
+		"japanese": "回復メール",
+		"spanish": "Correo electrónico de recuperación"
+	},
+	"account.auth-factors-recovery-phrase": {
+		"english": "Recovery phrase",
+		"german": "Wiederherstellungsphrase",
+		"mandarin": "恢复短语",
+		"korean": "복구 문구",
+		"japanese": "回復フレーズ",
+		"spanish": "Frase de recuperación"
+	},
+	"account.mpc-auth-factors-recovery-phrase": {
+		"english": "Recovery factor",
+		"german": "Erholungsfaktor",
+		"mandarin": "恢复系数",
+		"korean": "회복 계수",
+		"japanese": "回収率",
+		"spanish": "Factor de recuperación"
+	},
+	"account.auth-factors-email-old": {
+		"english": "Recovery email (existing)",
+		"german": "Wiederherstellungs-E-Mail (vorhanden)",
+		"mandarin": "辅助邮箱（现有）",
+		"korean": "복구 이메일 (기존)",
+		"japanese": "復旧メール（既存）",
+		"spanish": "Correo electrónico de recuperación (existente)"
+	},
+	"account.auth-factors-email-sent": {
+		"english": "Sent",
+		"german": "Geschickt",
+		"mandarin": "发送",
+		"korean": "보냄",
+		"japanese": "送信済み",
+		"spanish": "Enviado"
+	},
+	"account.auth-factors-email-sent-to": {
+		"english": "Sent to {0}",
+		"german": "Gesendet an {0}",
+		"mandarin": "发送到{0}",
+		"korean": "{0}에게 보냄",
+		"japanese": "{0}に送信",
+		"spanish": "Enviado a {0}"
+	},
+	"account.auth-factors-downloaded-on": {
+		"english": "Downloaded on {0}",
+		"german": "Heruntergeladen am {0}",
+		"mandarin": "于 {0} 下载",
+		"korean": "{0}에 다운로드됨",
+		"japanese": "{0}にダウンロード",
+		"spanish": "Descargado el {0}"
+	},
+	"account.auth-factors-email-resend": {
+		"english": "Resend",
+		"german": "Erneut senden",
+		"mandarin": "重发",
+		"korean": "재전송",
+		"japanese": "再送",
+		"spanish": "Reenviar"
+	},
+	"account.auth-factors-email-enter": {
+		"english": "Enter recovery email",
+		"german": "Geben Sie die Wiederherstellungs-E-Mail ein",
+		"mandarin": "输入辅助邮箱",
+		"korean": "복구 이메일 입력",
+		"japanese": "復旧メールを入力してください",
+		"spanish": "Ingresa el correo de recuperación"
+	},
+	"account.auth-factors-password": {
+		"english": "Account password",
+		"german": "Konto Passwort",
+		"mandarin": "户口密码",
+		"korean": "계정 비밀번호",
+		"japanese": "アカウントパスワード",
+		"spanish": "Contraseña de la cuenta"
+	},
+	"account.auth-factors-password-set": {
+		"english": "Set your password",
+		"german": "Lege ein Passwort fest",
+		"mandarin": "设置你的密码",
+		"korean": "비밀번호를 설정하세요",
+		"japanese": "パスワードを作る",
+		"spanish": "Establece tu contraseña"
+	},
+	"account.auth-factors-password-confirm": {
+		"english": "Re-enter your password",
+		"german": "Wiederhole die Eingabe deines Passwortes",
+		"mandarin": "重新输入密码",
+		"korean": "비밀번호 재 입력",
+		"japanese": "パスワードを再入力してください",
+		"spanish": "reingresa tu contraseña"
+	},
+	"account.auth-factors-password-change": {
+		"english": "Change Password",
+		"german": "Passwort ändern",
+		"mandarin": "更改密码",
+		"korean": "비밀번호 변경",
+		"japanese": "パスワードを変更する",
+		"spanish": "Cambia la contraseña"
+	},
+	"account.export-share-title": {
+		"english": "Backup phrase",
+		"german": "Sicherungssatz",
+		"mandarin": "备用词组",
+		"korean": "백업 문구",
+		"japanese": "バックアップフレーズ",
+		"spanish": "Frase de respaldo"
+	},
+	"account.export-share-desc": {
+		"english": "Save a copy of your backup phrase",
+		"german": "Speichern Sie eine Kopie Ihrer Sicherungsphrase",
+		"mandarin": "保存备份短语的副本",
+		"korean": "백업 문구 사본 저장",
+		"japanese": "バックアップフレーズのコピーを保存します",
+		"spanish": "Guarde una copia de su frase de respaldo"
+	},
+	"account.export-share-copy": {
+		"english": "Click to copy",
+		"german": "Klicken Sie zum Kopieren",
+		"mandarin": "点击复制",
+		"korean": "복사하려면 클릭",
+		"japanese": "クリックしてコピー",
+		"spanish": "Haga clic para copiar"
+	},
+	"account.export-share-note": {
+		"english": "Note: This recovery phrase is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
+		"german": "Hinweis: Dieser Wiederherstellungssatz ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es für die zukünftige Kontowiederherstellung an einem sicheren Ort auf.",
+		"mandarin": "注意：此恢复短语是验证您的帐户所需的因素之一。 将其保存在安全的地方，作为将来恢复帐户的一部分。",
+		"korean": "참고: 이 복구 문구는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
+		"japanese": "注：この回復フレーズは、アカウントの認証に必要な要素の1つです。 将来のアカウント復旧の一環として、安全な場所に保管してください。",
+		"spanish": "Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
+	},
+	"account.mpc-export-share-note": {
+		"english": "Note: This recovery factor is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
+		"german": "Hinweis: Dieser Wiederherstellungsfaktor ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es im Rahmen Ihrer zukünftigen Kontowiederherstellung an einem sicheren Ort auf.",
+		"mandarin": "注意：此恢复因素是验证您的帐户所需的因素之一。将其保存在安全的地方，作为您未来帐户恢复的一部分。",
+		"korean": "참고: 이 복구 요소는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
+		"japanese": "注: この回復要素は、アカウントの認証に必要な要素の 1 つです。将来のアカウント復旧の一環として、安全な場所に保管してください。",
+		"spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
+	},
+	"account.export-onkey-note": {
+		"english": "Increase your account security by enabling 2FA",
+		"german": "Erhöhen Sie die Sicherheit Ihres Kontos, indem Sie 2FA aktivieren",
+		"mandarin": "通过启用 2FA 提高您的帐户安全性",
+		"korean": "2FA를 활성화하여 계정 보안 강화",
+		"japanese": "2FAを有効にして、アカウントのセキュリティを強化します",
+		"spanish": "Aumente la seguridad de su cuenta habilitando 2FA"
+	},
+	"account.export-onkey-not-setup": {
+		"english": "Not setup yet",
+		"german": "Noch nicht eingerichtet",
+		"mandarin": "尚未设置",
+		"korean": "아직 설정되지 않음",
+		"japanese": "まだセットアップされていません",
+		"spanish": "Aún no configurado"
+	},
+	"account.export-onkey-setup": {
+		"english": "Set it up",
+		"german": "Es einrichten",
+		"mandarin": "设置它",
+		"korean": "설정",
+		"japanese": "準備する",
+		"spanish": "Prepararlo"
+	},
+	"account.export-onkey-2fa": {
+		"english": "Two-factor authentication",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	},
+	"account.export-onkey-2fa-recommend": {
+		"english": "We strongly recommend you to enable 2FA on your account",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	},
+	"account.export-onkey-2fa-enable": {
+		"english": "Enable 2FA",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	},
+	"account.delete-share-title": {
+		"english": "Delete authentication factor",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	},
+	"account.remove-share-button": {
+		"english": "Remove share",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	},
+	"account.delete-share-desc-1": {
+		"english": "Be very sure as",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	},
+	"account.delete-share-desc-2": {
+		"english": "this action is permanent and cannot be undone.",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	}
+}
