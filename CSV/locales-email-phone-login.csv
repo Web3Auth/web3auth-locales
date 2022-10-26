@@ -1,0 +1,30 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+emailLogin.login,Log in,Einloggen,登录,로그인,ログインする,Iniciar Sesión
+emailLogin.oneStep,You are just one step away from your digital wallet,Sie sind nur einen Schritt von Ihrer digitalen Geldbörse entfernt,您距离数字钱包仅一步之遥,디지털 지갑에서 한 걸음 떨어져 있습니다.,あなたはあなたのデジタルウォレットからほんの一歩です,Estás a un sólo paso de tu billetera digital
+emailLogin.enterEmail,Enter email,Email eingeben,输入电子邮件,이메일을 입력,メールアドレスを入力して,Ingresa tu email
+emailLogin.enterPassword,Enter password,Passwort eingeben,输入密码,암호를 입력,パスワードを入力する,Ingresa tu password
+emailLogin.dontHaveAcnt,Don't have an account?,Sie haben noch keinen Account?,还没有帐号？,계정이 없습니까?,アカウントを持っていないのですか？,No tienes cuenta?
+emailLogin.signUpHere,Sign up here,Hier anmelden,在此注册,여기에 가입하십시오,ここからサインアップ,Inicia sesión acá
+emailLogin.loginNoSpace,Login,Einloggen,登录,로그인,ログインする,Inicia sesión
+emailLogin.terms,"By logging in, you accept Torus' Terms and Conditions",Mit Ihrer Anmeldung akzeptieren Sie die Allgemeinen Geschäftsbedingungen von Torus,登录即表示您接受Torus的条款和条件,로그인하면 Torus의 이용 약관에 동의하는 것으로 간주됩니다,ログインすると、トーラスの利用規約に同意したことになります,"Al iniciar sesión, confirmas que estás de acuerdo con los términos y condiciones de Torus"
+emailLogin.invalidEmail,Invalid email address,Ungültige E-Mail-Adresse,无效的邮件地址,잘못된 이메일 주소,無効な電子メールアドレス,Dirección de email inválida
+emailLogin.passwordLength,Password length must be at least 8 characters,Die Passwortlänge muss mindestens 8 Zeichen betragen,密码长度必须至少为8个字符,비밀번호 길이는 8 자 이상이어야합니다,パスワードの長さは8文字以上である必要があります,La longitud del password debe ser de 8 dígitos
+emailLogin.pleaseTryAgainEmail,Incorrect email address or password. Please try again.,Falsche E-Mail-Adresse oder falsches Passwort. Bitte versuche es erneut.,电子邮件地址或密码错误。请再试一遍。,이메일 주소 또는 비밀번호가 잘못되었습니다. 다시 시도하십시오.,間違ったメールアドレスまたはパスワード。もう一度やり直してください。,Email o password incorrectos. Por favor intenta de nuevo.
+emailLogin.pleaseTryAgainPhone,Incorrect phone number or password. Please try again.,Falsche Telefonnummer oder falsches Passwort. Bitte versuche es erneut.,电话号码或密码错误。请再试一遍。,전화 번호 또는 비밀번호가 잘못되었습니다. 다시 시도하십시오.,電話番号またはパスワードが正しくありません。もう一度やり直してください。,Número o password incorrectos. Por favor intenta de nuevo.
+emailLogin.notRegistered,You are not registered yet. Please,Sie sind noch nicht registriert. Bitte,你还没有注册。请,아직 등록되지 않았습니다. 부디,あなたはまだ登録されていません。お願いします,No estás registrado. Por vaor
+emailLogin.signUp,Sign Up,Anmelden,注册,가입하기,サインアップ,regístrate
+emailLogin.confirmPassword,Confirm password,Kennwort bestätigen,确认密码,비밀번호 확인,パスワードを認証する,Confirmar password
+emailLogin.passwordNotMatch,Password does not match,Passwort stimmt nicht überein,密码不匹配,비밀번호가 일치하지 않습니다,パスワードが一致しません,Password no coincide
+emailLogin.required,Required,Erforderlich,需要,필수,必須,Requerido
+emailLogin.verification,Verification,Nachprüfung,验证,확인,検証,Verificación
+emailLogin.checkEmailAndKey,Check your email and key in the verification code to access your account,"Überprüfen Sie Ihre E-Mails und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen",检查您的电子邮件并输入验证码以访问您的帐户,계정에 액세스하려면 이메일을 확인하고 인증 코드를 입력하십시오,メールを確認し、確認コードを入力してアカウントにアクセスします,Revisa tu correo y el código de verificación para acceder a tu cuenta
+emailLogin.checkPhoneAndKey,Check your phone and key in the verification code to access your account,"Überprüfen Sie Ihr Telefon und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen",检查您的电话并输入验证码以访问您的帐户,휴대 전화를 확인하고 인증 코드를 입력하여 계정에 액세스하십시오,電話を確認し、確認コードを入力してアカウントにアクセスします,Revisa tu móvil y el código de verificación para acceder a tu cuenta
+emailLogin.enterVerification,Enter your verification code,Geben Sie Ihren Bestätigungs-Code ein,输入您的验证码,인증 코드를 입력하십시오,確認コードを入力してください,Ingresa el código de verificación
+emailLogin.pleaseTryAgain,Please try again or,Bitte versuchen Sie es erneut oder,请重试或,다시 시도하거나,再試行するか、,Por favor intenta de nuevo
+emailLogin.resendCode, resend the code,Sende den Code erneut,重新发送代码,코드를 다시 보내,コードを再送する,Reenviar el código
+emailLogin.codeMustBe,Code must be 6 digit,Der Code muss 6-stellig sein,验证码必须是6位数字,코드는 6 자리 여야합니다,コードは6桁でなければなりません,Código debe ser de 6 dígitos
+emailLogin.verifySuccess,You have successfully verified your account,Sie haben Ihr Konto erfolgreich verifiziert,您已成功验证您的帐户,계정을 성공적으로 확인했습니다,アカウントを確認しました,Haz verificado tu cuenta con éxito
+emailLogin.haveAccountQuestion,Already have an account? Log in,Sie haben bereits ein Konto? Einloggen,已经有帐号了？登录,이미 계정이 있습니까? 로그인,すでにアカウントをお持ちですか？ログインする,Ya tienes una cuenta? Inicia sesión
+emailLogin.here,here,Hier,这里,여기,ここに,aquí
+emailLogin.haveAccount,Already have an account. Log in,Sie haben bereits ein Konto. Einloggen,已经有一个帐户。登录,이미 계정이 있습니다. 로그인,すでにアカウントをお持ちですか。ログインする,Ya tienes una cuenta? Inicia sesión
+emailLogin.enterPhone,Enter Phone Number,Telefonnummer eingeben,输入电话号码,전화 번호 입력,電話番号を入力してください,Ingresa número de móvil

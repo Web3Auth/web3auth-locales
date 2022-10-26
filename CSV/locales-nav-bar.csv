@@ -1,0 +1,34 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+navBar.home,Home,Startseite,主页,홈페이지,ホーム,Home
+navBar.transfer,Transfer,Transfer,传递,이전,送金,Transferencias
+navBar.topUp,Top up,Nachfüllen,充值,위로,チャージ,Depositar
+navBar.discover,Discover,entdecken,发现,발견하다,発見,descubrir
+navBar.activity,Activity,Aktivität,交易记录,거래 내역,取引履歴,Actividad
+navBar.settings,Settings,die Einstellungen,设定值,설정,設定,Configuración
+navBar.snackSuccessTheme,Theme updated,Thema aktualisiert,主题已更新,테마 업데이트,テーマが更新されました,Tema actualizado
+navBar.snackFailTheme,Unable to update theme,Thema kann nicht aktualisiert werden,无法更新主题,테마를 업데이트 할 수 없습니다,テーマを更新できません,El tema no ha podido ser actualizado
+navBar.snackSuccessLocale,Language changed to English,Die Sprache wurde in Deutsch geändert,语言更改为中文,언어가 한국어로 변경되었습니다,言語が日本語に変更されました,Lenguaje cambiado a Inglés
+navBar.snackFailLocale,Unable to update language,Sprache kann nicht aktualisiert werden,无法更新语言,언어를 업데이트 할 수 없습니다,言語を更新できません,No se ha podido cambiar el lenguaje
+navBar.snackSuccessCurrency,Successfully switched currency,Währung erfolgreich gewechselt,成功转换货币,통화를 성공적으로 전환,通貨が正常に切り替えられました,Se ha cambiado la moneda
+navBar.snackFailCurrency,Unable to switch currency,Währung kann nicht gewechselt werden,无法切换货币,통화를 전환 할 수 없습니다,通貨を切り替えることができません,No se ha podido cambiar la moneda
+navBar.snackSuccessContactAdd,Successfully added contact,Kontakt erfolgreich hinzugefügt,成功添加联系人,성공적으로 추가 된 연락처,連絡先を追加しました,Se ha añadido el contacto con éxito
+navBar.snackFailContactAdd,Unable to add contact,Kontakt kann nicht hinzugefügt werden,无法添加联系人,연락처를 추가 할 수 없습니다,連絡先を追加できません,No se ha podido añadir el contacto
+navBar.snackSuccessContactDelete,Successfully deleted contact,Kontakt erfolgreich gelöscht,成功删除联系人,연락처를 성공적으로 삭제했습니다,連絡先を削除しました,Contacto borrado con éxito
+navBar.snackFailContactDelete,Unable to delete contact,Kontakt kann nicht gelöscht werden,无法删除联系人,연락처를 삭제할 수 없습니다,連絡先を削除できません,No se ha podido borrar el contacto
+navBar.snackSuccessNetworkChange,Successfully changed network,Netzwerk erfolgreich geändert,成功更改网络,네트워크가 성공적으로 변경되었습니다,ネットワークの変更が成功しました,Se ha cambiado la red
+navBar.snackFailNetworkChange,Unable to change network,Netzwerk kann nicht geändert werden,无法更改网络,네트워크를 변경할 수 없습니다,ネットワークの変更に失敗しました,No se ha podido cambiar la red
+navBar.lrcMsg,You are using the test cluster on torus network,Sie verwenden den Testcluster im Torus-Netzwerk,您正在Torus网络上使用测试集群,Torus 네트워크에서 테스트 클러스터를 사용하고 있습니다,Torusネットワークでテストクラスターを使用しています,Estás usando el test cluster de la red de Torus
+navBar.snackSuccessCustomTokenAdd,Successfully added custom token,Benutzerdefiniertes Token erfolgreich hinzugefügt,成功添加自定义令牌,맞춤 토큰을 성공적으로 추가했습니다.,カスタムトークンが正常に追加されました,Token personalizado agregado con éxito
+navBar.snackFailCustomTokenAdd,Unable to add custom token,Benutzerdefiniertes Token kann nicht hinzugefügt werden,无法添加自定义令牌,맞춤 토큰을 추가 할 수 없습니다.,カスタムトークンを追加できません,No se pudo agregar el token personalizado
+navBar.snackSuccessCustomTokenDelete,Successfully deleted custom token,Benutzerdefiniertes Token erfolgreich gelöscht,成功删除自定义令牌,맞춤 토큰을 삭제했습니다.,カスタムトークンが正常に削除されました,Token personalizado eliminado correctamente
+navBar.snackFailCustomTokenDelete,Unable to delete custom token,Benutzerdefiniertes Token kann nicht gelöscht werden,无法删除自定义令牌,맞춤 토큰을 삭제할 수 없습니다.,カスタムトークンを削除できません,No se puede eliminar el token personalizado
+navBar.snackSuccessCrashReport,Successfully updated crash reporting,,,,,
+navBar.snackFailCrashReport,Unable to update crash reporting,,,,,
+navBar.snackSuccessCustomNftAdd,Successfully added custom nft,Benutzerdefiniertes nft . erfolgreich hinzugefügt,成功添加自定义 nft,사용자 지정 nft를 성공적으로 추가했습니다.,カスタムnftが正常に追加されました,Successfully added custom nft
+navBar.snackFailCustomNftAdd,Unable to add custom nft,Benutzerdefiniertes Token kann nicht hinzugefügt werden,无法添加自定义令牌,사용자 정의 토큰을 추가할 수 없습니다.,カスタムトークンを追加できません,No se puede agregar el token personalizado
+navBar.nft,NFT,NFT,NFT,NFT,NFT,NFT
+navBar.snackFailCustomNetworkAdd,Unable to add custom network,Benutzerdefiniertes Netzwerk kann nicht hinzugefügt werden,无法添加自定义网络,사용자 지정 네트워크를 추가할 수 없습니다.,カスタムネットワークを追加できません。,No se puede agregar una red personalizada.
+navBar.snackFailCustomNetworkDelete,Unable to delete custom network,Benutzerdefiniertes Netzwerk kann nicht gelöscht werden,无法删除自定义网络,사용자 지정 네트워크를 삭제할 수 없습니다.,カスタムネットワークを追加できません,No se puede eliminar la red personalizada
+navBar.snackSuccessCustomNetworkDelete,Successfully deleted custom network,Benutzerdefiniertes Netzwerk erfolgreich gelöscht,已成功删除自定义网络,사용자 지정 네트워크를 성공적으로 삭제했습니다.,カスタムネットワークが正常に削除されました,Red personalizada eliminada con éxito
+navBar.snackFailCustomNetworkUpdate,Unable to update custom network,Benutzerdefiniertes Netzwerk kann nicht aktualisiert werden,无法更新自定义网络,사용자 지정 네트워크를 업데이트할 수 없습니다.,カスタムネットワークを更新できません,No se puede actualizar la red personalizada
+navBar.snackSuccessCustomNetworkUpdate,Successfully updated custom network,Benutzerdefiniertes Netzwerk erfolgreich aktualisiert,已成功更新自定义网络,사용자 지정 네트워크를 성공적으로 업데이트했습니다.,カスタムネットワークが正常に更新されました,Red personalizada actualizada con éxito

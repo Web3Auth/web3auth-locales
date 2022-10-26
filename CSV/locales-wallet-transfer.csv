@@ -1,0 +1,105 @@
+﻿name,english,german,mandarin,korean,japanese,spanish
+walletTransfer.accountBalance,Account Balances,Kontostand,账户余额,계정 잔액,残高,Balance de Cuenta
+walletTransfer.addContact,Add Contact,Kontakt hinzufügen,添加联系人,주소록에 추가,連絡先を追加,Agregar Contacto
+walletTransfer.advancedOptions,Advanced Options,Erweiterte Optionen,高级选项,고급 옵션,詳細設定,Opciones Avanzadas
+walletTransfer.amountToSend,Amount to send,Betrag zu senden,发送金额,보낼 금액,送信する量,Monto por Enviar
+walletTransfer.assetToSend,Asset to send,Asset zu senden,发送资产,보낼 자산,送信するデジタルアセット,Activo por Enviar
+walletTransfer.cancel,Cancel,Stornieren,取消,취소,キャンセル,Cancelar
+walletTransfer.clickToAddContact,Click here to add Contact to your Address Book,"Klicken Sie hier, um Kontakt zu Ihrem Adressbuch hinzuzufügen",单击此处将联系人添加到您的地址簿,주소록에 연락처를 추가하려면 여기를 클릭하십시오,アドレス帳に連絡先を追加するには、ここをクリックしてください,Presiona aquí para agregar a tus contactos
+walletTransfer.collectibleId,Collectible Id,Sammelausweis,收藏品编号,소장 ID,収集可能なID,identificación coleccionable
+walletTransfer.collectibles,COLLECTIBLES,SAMMLUNG,收藏品,수집품,コレクション,COLECCIONABLES
+walletTransfer.confirm,Confirm,Bestätigen,确认,확인,確認,Confirmar
+walletTransfer.confirmTransaction,Confirm Transaction,Transaktion bestätigen,确认交易,거래 확인,取引を確認,Confirmar Transacción
+walletTransfer.contactName,Contact Account Name,Name des Kontaktkontos,联系人帐户名称,연락 계정 이름,連絡先アカウント名,Nombre de Contacto
+walletTransfer.customizeGas,Customize Gas,Fertigen Sie Gas besonders an,定制气体,가스를 주문을 받아서 만드십시오,Gasをカスタマイズ,Personalizar Gas
+walletTransfer.default,Default,Standard,默认,기본,デフォルト,Defecto
+walletTransfer.enterName,Enter the name here,Geben Sie hier den Namen ein,在这里输入名字,여기에 이름을 입력하십시오,ここに名前を入力してください,Ingresa el nombre aquí
+walletTransfer.enterValue,Enter Value,Wert eingeben,输入值,값을 입력하십시오,値を入力,Ingresa el Valor
+walletTransfer.fee-edit,Edit,Bearbeiten,编辑,편집하다,編集,Editar
+walletTransfer.fee-edit-adv-hide,Hide advanced options,Erweiterte Optionen ausblenden,隐藏高级选项,고급 옵션 숨기기,詳細オプションを非表示,Ocultar opciones avanzadas
+walletTransfer.fee-edit-adv-show,View advanced options,Erweiterte Optionen anzeigen,查看高级选项,고급 옵션 보기,詳細オプションを表示,Ver opciones avanzadas
+walletTransfer.fee-edit-base-fee,Base Fee,Grundgebühr,基本费用,기본 요금,基本料金,Tarifa base
+walletTransfer.fee-edit-base-fee-desc,The minimum fee to process your transaction on the network. It varies based on how busy the network is. The fee is based on per gas of block,"Die Mindestgebühr für die Verarbeitung Ihrer Transaktion im Netzwerk. Dies hängt davon ab, wie ausgelastet das Netzwerk ist. Die Gebühr basiert auf pro Gas des Blocks",在网络上处理您的交易的最低费用。 它根据网络的繁忙程度而有所不同。 费用基于每个区块的gas,네트워크에서 거래를 처리하기 위한 최소 수수료. 네트워크 사용량에 따라 다릅니다. 수수료는 블록의 가스를 기준으로 합니다.,ネットワーク上でトランザクションを処理するための最小料金。 これは、ネットワークの混雑状況によって異なります。 料金はブロックのガスごとに基づいています,La tarifa mínima para procesar su transacción en la red. Varía según el nivel de ocupación de la red. La tarifa se basa en por gas de bloque
+walletTransfer.fee-edit-gas-limit,Gas Limit,Gaslimit,气体限制,가스 제한,ガス制限,Límite de gas
+walletTransfer.fee-edit-gas-limit-desc,"This is the maximum amount of gas provided for a transaction. For ETH transfers, the value is 21,000.","Dies ist die maximale Gasmenge, die für eine Transaktion bereitgestellt wird. Für ETH-Transfers beträgt der Wert 21.000.","这是为交易提供的最大天然气量。 对于 ETH 转账，该值为 21,000。","거래에 제공되는 최대 가스량입니다. ETH 전송의 경우 값은 21,000입니다.","これは、トランザクションに提供されるガスの最大量です。 ETH転送の場合、値は21,000です。","Ésta es la cantidad máxima de gas proporcionada para una transacción. Para transferencias ETH, el valor es 21,000."
+walletTransfer.fee-edit-in,In {time},In {time},在{time},{time}에서,{time}で,En {time}
+walletTransfer.fee-edit-max,Max Priority Fee,Max. Prioritätsgebühr,最高优先费,최대 우선 수수료,最大優先料金,Tarifa máxima de prioridad
+walletTransfer.fee-edit-max-desc,This fee goes directly to miners and incentivises them to prioritise your transaction. Any remaining amount will be refunded. Usually the full amount will be used up. The fee is based on per gas of block.,"Diese Gebühr geht direkt an die Miner und gibt ihnen einen Anreiz, Ihre Transaktion zu priorisieren. Ein eventueller Restbetrag wird zurückerstattet. In der Regel wird der volle Betrag aufgebraucht. Die Gebühr basiert auf pro Gas des Blocks.",这笔费用直接支付给矿工，并激励他们优先处理您的交易。任何剩余金额将退还。通常会用完全部金额。费用基于区块的每个gas。,이 수수료는 채굴자에게 직접 전달되어 거래의 우선 순위를 정하도록 장려합니다. 나머지 금액은 환불됩니다. 일반적으로 전체 금액이 사용됩니다. 수수료는 블록의 가스를 기준으로 합니다.,この料金は鉱夫に直接支払われ、あなたの取引を優先するように彼らにインセンティブを与えます。残りの金額は返金されます。通常、全額が使い果たされます。料金はブロックのガスごとに基づいています。,"Esta tarifa va directamente a los mineros y los incentiva a priorizar su transacción. Se reembolsará cualquier cantidad restante. Por lo general, se utilizará la cantidad total. La tarifa se basa en por gas de bloque."
+walletTransfer.fee-edit-nonce-desc,"A number that begins with 0, to indicate the sequence of your transaction from your wallet address.","Eine Zahl, die mit 0 beginnt, um die Reihenfolge Ihrer Transaktion von Ihrer Wallet-Adresse aus anzuzeigen.",一个以 0 开头的数字，表示从您的钱包地址进行的交易顺序。,0으로 시작하는 숫자로 지갑 주소에서 거래 순서를 나타냅니다.,ウォレットアドレスからのトランザクションのシーケンスを示す、0で始まる番号。,"Un número que comienza con 0, para indicar la secuencia de su transacción desde la dirección de su billetera."
+walletTransfer.fee-edit-or,Or,Oder,要么,또는,または,O
+walletTransfer.fee-edit-process-in,Process in {time},Prozess in {time},处理中 {time},처리 {time},で処理する {time},Proceso en {time}
+walletTransfer.fee-edit-speed-average,Medium,Mittel,中等的,중간,中くらい,Medio
+walletTransfer.fee-edit-speed-high,High,Hoch,高的,높은,高い,Elevado
+walletTransfer.fee-edit-speed-low,Low,Niedrig,低的,낮은,低い,Bajo
+walletTransfer.fee-edit-subtitle1,Select Max Transaction Fee payable,Wählen Sie Max. zu zahlende Transaktionsgebühr,选择应付的最高交易费用,지불 가능한 최대 거래 수수료 선택,支払われる最大取引手数料を選択します,Seleccione la tarifa de transacción máxima a pagar
+walletTransfer.fee-edit-subtitle2,Your transaction will be priortised by the network when you pay a higher fee.,"Ihre Transaktion wird vom Netzwerk priorisiert, wenn Sie eine höhere Gebühr zahlen.",当您支付更高的费用时，网络将优先处理您的交易。,더 높은 수수료를 지불하면 네트워크에서 거래를 우선적으로 처리합니다.,あなたがより高い料金を支払うとき、あなたの取引はネットワークによって優先されます。,Su transacción será priorizada por la red cuando pague una tarifa más alta.
+walletTransfer.fee-edit-time-min,{time} mins,{time} Minuten,{time} 分钟,{time}분,{time}分,{time} minutos
+walletTransfer.fee-edit-time-sec,{time} seconds,{time} Sekunden,{time} 秒,{time}초,{time}秒,{time} segundos
+walletTransfer.fee-error-likely-fail,This transaction is likely to fail as the currently set gas price: {0} GWEI is less than the average gas price: {1} GWEI.,"Diese Transaktion schlägt wahrscheinlich fehl, da der aktuell festgelegte Gaspreis: {0} GWEI niedriger ist als der durchschnittliche Gaspreis: {1} GWEI.",由于当前设置的 gas 价格：{0} GWEI 低于平均 gas 价格：{1} GWEI，因此此交易可能会失败。,이 거래는 현재 설정된 가스 가격({0} GWEI)이 평균 가스 가격({1} GWEI)보다 낮기 때문에 실패할 가능성이 높습니다.,現在設定されているガス価格：{0} GWEIが平均ガス価格：{1} GWEIよりも低いため、このトランザクションは失敗する可能性があります。,"Es probable que esta transacción falle, ya que el precio del gas establecido actualmente: {0} GWEI es menor que el precio medio del gas: {1} GWEI."
+walletTransfer.fee-error-maxfee-high,Max transaction fee is higher than necessary,Die maximale Transaktionsgebühr ist höher als nötig,最高交易费用高于必要,최대 거래 수수료가 필요 이상으로 높습니다.,最大取引手数料が必要以上に高い,La tarifa de transacción máxima es más alta de lo necesario
+walletTransfer.fee-error-maxfee-imbalance,Max transaction fee cannot be lower than max priority fee,Die maximale Transaktionsgebühr darf nicht niedriger sein als die maximale Prioritätsgebühr,最高交易费不能低于最高优先费,최대 거래 수수료는 최대 우선 수수료보다 낮을 수 없습니다.,最大取引手数料は最大優先手数料より低くすることはできません,La tarifa de transacción máxima no puede ser inferior a la tarifa de prioridad máxima
+walletTransfer.fee-error-maxfee-low,Max transaction fee too low for network conditions,Max. Transaktionsgebühr für Netzwerkbedingungen zu niedrig,网络条件下的最高交易费用太低,네트워크 조건에 비해 최대 거래 수수료가 너무 낮음,ネットワークの状態に対して最大取引手数料が低すぎる,Tarifa de transacción máxima demasiado baja para las condiciones de la red
+walletTransfer.fee-error-maxfee-tooltip,The max transaction fee is the most you’ll pay (base fee + priority fee).,"Die maximale Transaktionsgebühr ist die höchste, die Sie zahlen (Grundgebühr + Prioritätsgebühr).",最高交易费用是您支付的最高费用（基本费用 + 优先费用）。,최대 거래 수수료는 귀하가 지불할 최대 금액입니다(기본 수수료 + 우선 수수료).,最大取引手数料は、支払う金額の上限です（基本手数料+優先手数料）。,La tarifa de transacción máxima es lo máximo que pagará (tarifa base + tarifa de prioridad).
+walletTransfer.fee-error-priorityfee-below,Max priority fee must be greater than 0 GWEI,Die maximale Prioritätsgebühr muss größer als 0 GWEI sein,最高优先费必须大于 0 GWEI,최대 우선 수수료는 0GWEI보다 커야 합니다.,最大優先料金は0GWEIより大きくなければなりません,La tarifa de prioridad máxima debe ser superior a 0 GWEI
+walletTransfer.fee-error-priorityfee-high,Max priority fee is higher than necessary. You may pay more than needed.,Die maximale Prioritätsgebühr ist höher als erforderlich. Sie können mehr bezahlen als nötig.,最高优先费高于必要费用。 您支付的费用可能超出需要。,최대 우선 수수료가 필요 이상으로 높습니다. 필요 이상으로 지불할 수 있습니다.,最大優先料金が必要以上に高くなっています。 あなたは必要以上に支払うかもしれません。,La tarifa de prioridad máxima es más alta de lo necesario. Puede pagar más de lo necesario.
+walletTransfer.fee-error-priorityfee-low,Max priority fee extremely low for network conditions,Max. Prioritätsgebühr extrem niedrig für Netzwerkbedingungen,网络条件下的最高优先级费用极低,네트워크 조건에 대해 매우 낮은 최대 우선 순위 수수료,ネットワークの状態に対して最大優先料金が非常に低い,Tarifa de prioridad máxima extremadamente baja para las condiciones de la red
+walletTransfer.fee-in,in {time},in {time},在{time},{time}에서,{time}で,en {time}
+walletTransfer.fee-max-transaction,Max Transaction Fee,Maximale Transaktionsgebühr,最高交易费用,최대 거래 수수료,最大取引手数料,Tarifa máxima de transacción
+walletTransfer.fee-max-transaction-desc,The maximum fee you pay for a transaction. Max Transaction Fee = Base Fee + Max Priority Fee. This includes the fees to process the transaction and the maximum incentive you pay a miner to prioritise your transaction. Any un-used amount will be refunded. The fee is based on per gas of block.,"Die maximale Gebühr, die Sie für eine Transaktion zahlen. Max. Transaktionsgebühr = Grundgebühr + Max. Prioritätsgebühr. Dies beinhaltet die Gebühren für die Abwicklung der Transaktion und den maximalen Anreiz, den Sie einem Miner zahlen, um Ihre Transaktion zu priorisieren. Jeder nicht verbrauchte Betrag wird zurückerstattet. Die Gebühr basiert auf pro Gas des Blocks.",您为交易支付的最高费用。最高交易费用 = 基本费用 + 最高优先费用。这包括处理交易的费用以及您支付给矿工以优先处理交易的最大奖励。任何未使用的金额将被退还。费用基于区块的每个gas。,거래에 대해 지불하는 최대 수수료. 최대 거래 수수료 = 기본 수수료 + 최대 우선순위 수수료. 여기에는 거래를 처리하기 위한 수수료와 거래의 우선 순위를 정하기 위해 광부에게 지불하는 최대 인센티브가 포함됩니다. 미사용 금액은 환불됩니다. 수수료는 블록의 가스를 기준으로 합니다.,取引に支払う最大手数料。最大取引手数料=基本手数料+最大優先手数料。これには、トランザクションを処理するための料金と、トランザクションに優先順位を付けるためにマイナーに支払う最大のインセンティブが含まれます。未使用の金額は返金されます。料金はブロックのガスごとに基づいています。,La tarifa máxima que paga por una transacción. Tarifa máxima de transacción = Tarifa base + Tarifa máxima de prioridad. Esto incluye las tarifas para procesar la transacción y el incentivo máximo que le paga a un minero para priorizar su transacción. Se reembolsará cualquier cantidad no utilizada. La tarifa se basa en por gas de bloque.
+walletTransfer.fee-max-transaction-hint,"Recommended rate. To speed up transaction, select 'Edit' to pay more.","Empfohlener Preis. Um die Transaktion zu beschleunigen, wählen Sie ""Bearbeiten"", um mehr zu bezahlen.",推荐费率。 要加快交易速度，请选择“编辑”以支付更多费用。,권장 요금. 거래 속도를 높이려면 '편집'을 선택하여 더 많이 지불하세요.,推奨レート。 取引をスピードアップするには、「編集」を選択して追加料金を支払います。,"Tarifa recomendada. Para acelerar la transacción, seleccione 'Editar' para pagar más."
+walletTransfer.fee-upto,Up to {amount},Bis zu {amount},最多 {amount},최대 {amount},{amount}まで,Hasta {amount}
+walletTransfer.gasEstimateFail,Gas estimation failed. Max fee will be charged.,Gasschätzung fehlgeschlagen. Es wird eine maximale Gebühr erhoben.,气体估算失败。将收取最高费用。,가스 추정에 실패했습니다. 최대 수수료가 부과됩니다.,ガスの見積もりに失敗しました。最大料金が課金されます。,La estimación de gas falló. Se cobrará la tarifa máxima.
+walletTransfer.gasLimit,Gas Limit,Gaslimit,气体极限,가스 한도,ガスリミット,Límite de Gas
+walletTransfer.gasLimitDesc,"This is the maximum amount of gas you're willing to spend on a transaction. A standard ETH transfer requires a gas limit of 21,000 units of gas.","Dies ist die maximale Menge an Benzin, die Sie für eine Transaktion ausgeben möchten. Ein Standard-ETH-Transfer erfordert ein Gaslimit von 21'000 Gaseinheiten.","这是您愿意花在交易上的最大汽油量。标准的ETH传输需要21,000单位气体的气体限制。","이것은 거래에 기꺼이 지출 할 최대 가스량입니다. 표준 ETH 전송에는 21,000 단위의 가스 제한이 필요합니다.","これは、トランザクションに費やすことができるガスの最大量です。標準的なETH転送には、21,000単位のガス制限が必要です。","Este es el valor máximo de gas que puedes gastar por transacción. Una transferencia estándar de ETH require 21,000 unidades de gas"
+walletTransfer.gasPrice,Gas Price,Gaspreis,汽油价格,가스 가격,ガスプライス,Precio del Gas
+walletTransfer.gasPriceDesc1,Gas,Gas,汽油,가스,Gas,Gas
+walletTransfer.gasPriceDesc2,is needed to power blockchain transactions,wird für Blockchain-Transaktionen benötigt,需要推动区块链交易,블록 체인 거래를 강화하는 데 필요합니다,トランザクションを実行するために必要です,es requerido para establecer transacciones en Blockchain
+walletTransfer.gasPriceDesc3,Gas Price,Gaspreis,汽油价格,가스 가격,ガスプライス（GWEI）,Precio del Gas
+walletTransfer.gasPriceDesc4,is the amount per unit Gas to pay for a transaction. It is measured in ‘Gwei’.,"ist der Betrag pro Einheit Gas, der für eine Transaktion zu zahlen ist. Es wird in „Gwei“ gemessen.",是每笔交易的汽油支付的金额。单位为“ Gwei”。,거래 당 지불 할 단위 가스 당 금액입니다. ‘Gwei’로 측정됩니다.,トランザクションに実行するGasあたりの手数料です。単位を「Gwei」で表します。,Es el monto de gas por transacción. Se mide con unidades de 'Gwei'
+walletTransfer.gasPriceDesc5,very small USD value,sehr kleiner USD-Wert,美元价值低,매우 작은 USD 가치,少額の米ドル価格,Valor diminuto de USD
+walletTransfer.incorrectQR,Incorrect QR Code,Falscher QR-Code,二维码错误,잘못된 QR 코드,QRコードが正しくありません,Código QR incorrecto
+walletTransfer.insufficient,Insufficient balance for transaction,Unzureichendes Guthaben für die Transaktion,交易余额不足,거래 잔액 부족,残高不足,Balance insuficiente
+walletTransfer.invalidAmount,Invalid Amount,Ungültige Menge,无效金额,유효하지 않은 금액,無効な金額,Monto Inválido
+walletTransfer.invalidInput,Invalid Input,Ungültige Eingabe,输入无效,잘못된 입력,無効入力,entrada inválida
+walletTransfer.failed,Fail to submit transaction,Fehler beim Senden der Transaktion,提交交易失败,거래 제출 실패,トランザクションの送信に失敗する,No enviar la transacción
+walletTransfer.somethingWrong,Something went wrong,Etwas ist schief gelaufen,出了些问题,문제가 발생했습니다.,何かがうまくいかなかった,Algo salió mal
+walletTransfer.minute,Mins,Minute,分钟,분,分,Minutos
+walletTransfer.newTotal,New Total,Neue Summe,新总数,새로운 합계,合計金額,Nuevo Total
+walletTransfer.next,Next,Nächster,下一个,다음,次,Próximo
+walletTransfer.pay,Pay,Zahlen,工资,지불,支払う,Pagar
+walletTransfer.required,Required,Erforderlich,必要,필수,必須,Requerido
+walletTransfer.reset,Reset,Zurücksetzen,重启,초기화,リセットする,Revertir
+walletTransfer.save,Save,Speichern,保存,저장,保存する,Guardar
+walletTransfer.selectItem,Select item,Menüpunkt wählen,选择物品,물품을 고르시 오,通貨、トークンを選択,Selecciona un ítem
+walletTransfer.selectSpeed,Select your Transaction Speed,Wählen Sie Ihre Transaktionsgeschwindigkeit,选择您的交易速度,거래 속도를 선택하십시오,トランザクションの処理速度を選択してください,Selecciona la velocidad de transacción
+walletTransfer.sendAll,Send All,Sende alle,全部发送,모두 보내기,すべて送る,Enviar todo
+walletTransfer.sendAmount,Send Amount,Betrag senden,汇款金额,송금,送信額,Monto por Enviar
+walletTransfer.sendingTo,Sending To,Senden an,发送到,보내는 중,送信先,Enviar a
+walletTransfer.tokens,TOKENS,TOKENS,代币,토큰,トークン,TOKENS
+walletTransfer.totalCost,Total Cost,Gesamtkosten,总计花费,총 비용,総額,Costo Total
+walletTransfer.totalCostEstimate,Estimated Total Cost,Geschätzte Gesamtkosten,估计总费用,예상 총 비용,推定総費用,Costo total estimado
+walletTransfer.transactionFee,Transaction Fee,Transaktionsgebühr,手续费,거래 수수료,もう一度やり直してください,Cuota de Transacción
+walletTransfer.transfer,Transfer,Senden,发送,이송,送信,Transferir
+walletTransfer.transferApprox,approximately {time},ungefähr {Zeit},大约 {time},대략 {time},およそ{時間},aproximadamente {time}
+walletTransfer.transferConfirm,Transfer Confirm,Übertragung bestätigen,转移确认,전송 확인,送信確認,Confirmar Transferencia
+walletTransfer.transferDetails,Transfer Details,Übertragungsdetails,转账明细,전송 세부 사항,送信内容の詳細,Detalles de Transferencia
+walletTransfer.transferFailMessage,Please try again later,Bitte versuchen Sie es später noch einmal,请稍后再试,나중에 다시 시도하세요,後でもう一度やり直してください,Intenta de nuevo luego
+walletTransfer.transferFailTitle,Your transfer cannot be processed,Ihre Überweisung kann nicht bearbeitet werden,您的转帐无法处理,송금을 처리 할 수 ​​없습니다,送信処置ができませんでした,Tu transferencia no puede ser procesada
+walletTransfer.transferFee,Transaction Fee,Transaktionsgebühr,手续费,거래 수수료,トランザクション手数料,Cuota de la transacción
+walletTransfer.transferFeeDesc,This is a mandatory processing fee users pay to the Ethereum network for each transaction. A higher fee will speed up the transaction process.,"Dies ist eine obligatorische Bearbeitungsgebühr, die Benutzer für jede Transaktion an das Ethereum-Netzwerk zahlen müssen. Eine höhere Gebühr beschleunigt den Transaktionsprozess.",这是用户为每笔交易向以太坊网络支付的强制性处理费。较高的费用将加快交易过程。,사용자가 각 거래에 대해 이더 리움 네트워크에 지불하는 필수 처리 수수료입니다. 수수료가 높을수록 거래 과정이 빨라집니다.,これは、トランザクションごとにユーザーがイーサリアムネットワークに支払う手数料になります。手数料を高く設定すると取引スピードがアップします。,"Este es un proceso mandatorio. A mayor gas, mayor velocidad"
+walletTransfer.transferLessThan,less than {time},weniger als {Zeit},少于 {time},{time} 미만,{時間}未満,menos de {time}
+walletTransfer.transferMode,Transfer to,Übertragen auf,传送到,로 전송,送信先アドレス,Transferir a
+walletTransfer.transferMoreThan,more than {time},mehr als {Zeit},超过{time},{time} 이상,{時間}以上,más de {time}
+walletTransfer.transferShare,Share this on your favourite social network,Teilen Sie dies in Ihrem bevorzugten sozialen Netzwerk,在您最喜欢的社交网络上分享,좋아하는 소셜 네트워크에서 공유,これをお気に入りのソーシャルネットワークで共有してください,Comparte esto en tu red social favorita
+walletTransfer.transferSuccessMessage,Your transaction will be completed in {time},Ihre Transaktion wird in ungefähr {time} Minuten abgeschlossen sein,您的交易将在大约{time}分钟内完成,거래는 약 {time} 분 후에 완료됩니다,トランザクションは約{time}分で完了します,Tu transferencia se completará en aproximademente {time} minutos
+walletTransfer.transferSuccessTitle,Your transfer is being processed,Ihre Überweisung wird bearbeitet,您的转帐正在处理中,송금 처리 중,送信処理中です,Tu transferencia se está procesando
+walletTransfer.transferTweet,Hey {address}! I sent you {amount} via @Toruslabs. Access it at https://app.tor.us.,Hey {address}! Ich habe dir {amount} über @Toruslabs geschickt. Greifen Sie unter https://app.tor.us darauf zu.,{address}！我通过@Toruslabs向您发送了{amount}。访问https://app.tor.us。,안녕 {address}! @Toruslabs를 통해 {amount}을 (를) 보냈습니다. https://app.tor.us에서 액세스하십시오.,{address}様{amount}を@Toruslabs経由で送信しました。 https://app.tor.usからアクセスしてください。,Hey {address}! Te acabo de enviar {amount} usando @Toruslabs. Puedes visitar https://app.tor.us.
+walletTransfer.transferTweet2,Hey {address}! I sent you {amount} via {'@'}Toruslabs. Access it at https://app.tor.us.,Hey {address}! Ich habe dir {amount} über {'@'}Toruslabs geschickt. Greifen Sie unter https://app.tor.us darauf zu.,{address}！我通过{'@'}Toruslabs向您发送了{amount}。访问https://app.tor.us。,안녕 {address}! {'@'}Toruslabs를 통해 {amount}을 (를) 보냈습니다. https://app.tor.us에서 액세스하십시오.,{address}様{amount}を{'@'}Toruslabs経由で送信しました。 https://app.tor.usからアクセスしてください。,Hey {address}! Te acabo de enviar {amount} usando {'@'}Toruslabs. Puedes visitar https://app.tor.us.
+walletTransfer.twitterVerifyNote,Please verify if this is the right account,"Bitte überprüfen Sie, ob dies das richtige Konto ist",请验证这是否是正确的帐户,이것이 올바른 계정인지 확인하십시오,これが正しいアカウントかどうかを確認してください,Verifica que es la cuenta adecuada
+walletTransfer.youSend,You send,Du sendest,您发送,당신은 보내,送信額,Envías
+walletTransfer.invalidBit,Invalid .bit account,Ungültiges .bit -Konto,无效的.bit帐户,잘못된 .BIT 계정,無効な.bitアカウント,Cuenta de .bit inválida
+walletTransfer.notAnyBitAddress,There is no address of this chain added to the .bit account,"Es gibt keine Adresse dieser Kette, die dem .bit -Konto hinzugefügt wurde",该链没有添加到.bit帐户的地址,.BIT 계정에 추가 된이 체인의 주소가 없습니다.,.bitアカウントに追加されたこのチェーンのアドレスはありません,No hay dirección de esta cadena agregada a la cuenta .bit
+walletSettings.bitId,.bit Account,.bit -Konto,.bit帐户,. 비트 계정,.bitアカウント,cuenta de .BIT
+walletTransfer.multipleAddressShouldBeSelect,"Multiple results exist, please select","Es gibt mehrere Ergebnisse, bitte wählen Sie auswählen",存在多个结果，请选择,여러 결과가 존재합니다. 선택하십시오,複数の結果が存在します、選択してください,"Existen múltiples resultados, seleccione"
+walletTransfer.invalidUnstoppable,Invalid unstoppable domain,Ungültige unaufhaltsame Domäne,无效的域,무효가없는 도메인,止められないドメインを無効にします,Dominio imparable no válido
+walletTransfer.someTorusError,Something went wrong. Please try again,Etwas ist schief gelaufen. Bitte versuche es erneut,出问题了。请再试一次,뭔가 잘못되었습니다. 다시 시도하십시오,何かがうまくいかなかった。もう一度やり直してください,Algo salió mal. Inténtalo de nuevo
