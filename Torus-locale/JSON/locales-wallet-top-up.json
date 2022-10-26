@@ -1,0 +1,298 @@
+{
+	"walletTopUp.selectProvider": {
+		"english": "Select a Provider",
+		"german": "Wählen Sie einen Anbieter",
+		"mandarin": "选择供应商",
+		"korean": "공급자를 선택하십시오",
+		"japanese": "プロバイダーを選択",
+		"spanish": "Selecciona un Proveedor"
+	},
+	"walletTopUp.purchaseVia": {
+		"english": "Purchase Cryptocurrency via",
+		"german": "Kauf Cryptocurrency über",
+		"mandarin": "通过购买加密货币",
+		"korean": "통해 암호 화폐 구매",
+		"japanese": "暗号通貨を購入する",
+		"spanish": "Comprar Cryptomoneda con"
+	},
+	"walletTopUp.description": {
+		"english": "is a secure way to buy cryptocurrency with your payment method. Start by entering an amount below to get a quote before making a purchase",
+		"german": "ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Zahlungsmethode zu kaufen. Geben Sie zunächst einen Betrag ein, um ein Angebot zu erhalten, bevor Sie einen Kauf tätigen",
+		"mandarin": "是一种通过付款方式购买加密货币的安全方法。首先在购买时输入以下金额以获取报价",
+		"korean": "귀하의 지불 방법으로 암호 화폐를 구매하는 안전한 방법입니다. 구매하기 전에 아래 금액을 입력하여 견적을 받으십시오.",
+		"japanese": "は、暗号通貨を購入する安全なサービスです。以下に購入希望額を入力して、金額に間違いがないか確認の上、購入手続きを進めてください。",
+		"spanish": "es una forma segura de comprar cryptomonedas. Empieza por ingresar un monto para obtener una cuota antes de comprar"
+	},
+	"walletTopUp.wannaBuy": {
+		"english": "You buy",
+		"german": "Sie kaufen",
+		"mandarin": "你买",
+		"korean": "지불",
+		"japanese": "通貨の種類",
+		"spanish": "Compras"
+	},
+	"walletTopUp.youSend": {
+		"english": "You pay",
+		"german": "Sie bezahlen",
+		"mandarin": "付款",
+		"korean": "당신은 보내",
+		"japanese": "支払金額",
+		"spanish": "Pagas"
+	},
+	"walletTopUp.includes": {
+		"english": "Includes",
+		"german": "Beinhaltet",
+		"mandarin": "包括",
+		"korean": "포함",
+		"japanese": "含む",
+		"spanish": "Incluye"
+	},
+	"walletTopUp.doesntInclude": {
+		"english": "Doesn't Include",
+		"german": "Beinhaltet nicht",
+		"mandarin": "不包括",
+		"korean": "포함되지 않습니다",
+		"japanese": "含まない",
+		"spanish": "No incluye"
+	},
+	"walletTopUp.serviceFee": {
+		"english": "Service Fee",
+		"german": "Servicegebühr",
+		"mandarin": "服务费",
+		"korean": "서비스 요금",
+		"japanese": "サービス料",
+		"spanish": "Cuota de servicio"
+	},
+	"walletTopUp.serviceFeeDesc1": {
+		"english": "This fee goes entirely to",
+		"german": "Diese Gebühr geht vollständig an",
+		"mandarin": "这笔费用全部用于",
+		"korean": "이 수수료는 전적으로",
+		"japanese": "この料金は完全に",
+		"spanish": "Esta cuota va directamente a"
+	},
+	"walletTopUp.serviceFeeDesc2": {
+		"english": "for their services in card processing, mitigation and fraud detection",
+		"german": "für ihre Dienstleistungen in den Bereichen Kartenverarbeitung, Schadensbegrenzung und Betrugserkennung",
+		"mandarin": "在卡处理，缓解和欺诈检测方面的服务",
+		"korean": "카드 처리, 완화 및 사기 탐지 서비스",
+		"japanese": "カード処理、緩和、不正検出のサービスに対して",
+		"spanish": "por sus servicios con procesamiento de tarjetas"
+	},
+	"walletTopUp.minSmall": {
+		"english": "min",
+		"german": "min",
+		"mandarin": "最低",
+		"korean": "분",
+		"japanese": "最小",
+		"spanish": "Mínimo"
+	},
+	"walletTopUp.max": {
+		"english": "max",
+		"german": "max",
+		"mandarin": "最高",
+		"korean": "최대",
+		"japanese": "最大",
+		"spanish": "Máximo"
+	},
+	"walletTopUp.receive": {
+		"english": "You receive",
+		"german": "Erhalten",
+		"mandarin": "接收",
+		"korean": "받다",
+		"japanese": "受取額",
+		"spanish": "Recibes"
+	},
+	"walletTopUp.rate": {
+		"english": "Rate",
+		"german": "Bewertung",
+		"mandarin": "率",
+		"korean": "율",
+		"japanese": "レート",
+		"spanish": "Tarifa"
+	},
+	"walletTopUp.receiveHint": {
+		"english": "Please prepare your Identity Card/Passport to complete the purchase.",
+		"german": "Bitte bereiten Sie Ihren Personalausweis / Reisepass vor, um den Kauf abzuschließen.",
+		"mandarin": "请准备您的身份证/护照以完成交易。",
+		"korean": "구매를 완료하려면 신분증 / 여권을 준비하십시오.",
+		"japanese": "購入手続きに必要な IDカード/パスポートを準備してください。",
+		"spanish": "Por favor preparar un documento de identificación para la compra"
+	},
+	"walletTopUp.receiveHintRamp": {
+		"english": "You need ID verification for top-up more than 1k EUR per transaction or 10k EUR per month",
+		"german": "Sie benötigen eine ID-Überprüfung, um mehr als 1.000 EUR pro Transaktion oder 10.000 EUR pro Monat aufzuladen",
+		"mandarin": "每次充值超过1000欧元或每月超过1万欧元时，您需要进行身份验证",
+		"korean": "거래 당 1k EUR 이상 또는 한 달에 10k EUR 이상인 경우 ID 확인이 필요합니다.",
+		"japanese": "トランザクションごとに1,000ユーロ以上、または月額10,000ユーロ以上のチャージにはID確認が必要です。",
+		"spanish": "Necesitas comprobar identificación para depositar 1,000EUR por día o 10,000EUR por mes"
+	},
+	"walletTopUp.continue": {
+		"english": "Continue",
+		"german": "Fortsetzen",
+		"mandarin": "继续",
+		"korean": "계속하다",
+		"japanese": "継続する",
+		"spanish": "Continuar"
+	},
+	"walletTopUp.resolveErrors": {
+		"english": "Resolve the errors",
+		"german": "Beheben Sie die Fehler",
+		"mandarin": "解决错误",
+		"korean": "오류 해결",
+		"japanese": "エラーを解決する",
+		"spanish": "Resolver errores"
+	},
+	"walletTopUp.redirectMessage": {
+		"english": "You will be redirected to the third party page",
+		"german": "Sie werden auf die Seite eines Drittanbieters weitergeleitet",
+		"mandarin": "您将被重定向到第三方页面",
+		"korean": "당신은 제 3 자 페이지로 리디렉션됩니다",
+		"japanese": "プロバイダーの購入ページに飛びます",
+		"spanish": "Visitarás una página externa"
+	},
+	"walletTopUp.contact1": {
+		"english": "Feel free to",
+		"german": "Fühlen sich frei",
+		"mandarin": "随意地",
+		"korean": "부담없이",
+		"japanese": "お気軽に",
+		"spanish": "Ten la libertad de"
+	},
+	"walletTopUp.contact2": {
+		"english": "contact us",
+		"german": "kontaktiere uns",
+		"mandarin": "联系我们",
+		"korean": "문의하기",
+		"japanese": "お問い合わせ",
+		"spanish": "contactarnos"
+	},
+	"walletTopUp.contact3": {
+		"english": "for support or any inquiry",
+		"german": "für Support oder jede Anfrage",
+		"mandarin": "寻求支持或任何查询",
+		"korean": "지원 또는 문의",
+		"japanese": "サポートまたはお問い合わせ",
+		"spanish": "para cualquier duda o comentario"
+	},
+	"walletTopUp.close": {
+		"english": "Close",
+		"german": "Schließen",
+		"mandarin": "关",
+		"korean": "닫기",
+		"japanese": "閉じる",
+		"spanish": "Cerrar"
+	},
+	"walletTopUp.otherMode": {
+		"english": "Prefer other mode of payment?",
+		"german": "Bevorzugen Sie eine andere Zahlungsweise?",
+		"mandarin": "想使用其它付款方式？",
+		"korean": "다른 결제 방법을 선호하십니까?",
+		"japanese": "他の支払い方法を希望しますか？",
+		"spanish": "Utilizar otro método de pago?"
+	},
+	"walletTopUp.writeToUs": {
+		"english": "Write to us",
+		"german": "Schreib uns",
+		"mandarin": "与我们联系",
+		"korean": "우리에게 쓰기",
+		"japanese": "リクエスト申請",
+		"spanish": "Escríbenos"
+	},
+	"walletTopUp.otherModeDesc": {
+		"english": "and we would try our best to improve and serve you better",
+		"german": "und wir würden unser Bestes geben, um uns zu verbessern und Ihnen besser zu dienen",
+		"mandarin": "我们会尽力改善并更好地为您服务",
+		"korean": "우리는 당신을 개선하고 더 나은 서비스를 제공하기 위해 최선을 다할 것입니다",
+		"japanese": "そして私たちはあなたを改善し、あなたにより良く奉仕するために最善を尽くします",
+		"spanish": "y tratáremos de mejorar nuestro servicio"
+	},
+	"walletTopUp.cryptoDesc": {
+		"english": "Crypto.com is a secure way to buy cryptocurrency with your credit card. Start by installing their application",
+		"german": "Crypto.com ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Kreditkarte zu kaufen. Beginnen Sie mit der Installation ihrer Anwendung",
+		"mandarin": "Crypto.com是使用信用卡购买加密货币的安全方法。首先安装他们的应用程序",
+		"korean": "Crypto.com은 신용 카드로 암호 화폐를 구매하는 안전한 방법입니다. 그들의 응용 프로그램을 설치하여 시작",
+		"japanese": "Crypto.comは、クレジットカードで暗号通貨を購入する安全な方法です。アプリケーションをインストールすることから始めます",
+		"spanish": "Crypto.com es una forma segura de comprar cryptomonedas. Puedes empezar instalando su aplicación"
+	},
+	"walletTopUp.paywith": {
+		"english": "Pay with",
+		"german": "Bezahlen mit",
+		"mandarin": "支付方式",
+		"korean": "지불",
+		"japanese": "支払方法",
+		"spanish": "Pagar con"
+	},
+	"walletTopUp.fees": {
+		"english": "Fees",
+		"german": "Gebühren",
+		"mandarin": "费用",
+		"korean": "수수료",
+		"japanese": "料金",
+		"spanish": "Cuota"
+	},
+	"walletTopUp.limits": {
+		"english": "Limits",
+		"german": "Grenzen",
+		"mandarin": "限度",
+		"korean": "제한",
+		"japanese": "上限",
+		"spanish": "Límites"
+	},
+	"walletTopUp.currencies": {
+		"english": "Currencies",
+		"german": "Währungen",
+		"mandarin": "货币",
+		"korean": "통화",
+		"japanese": "取り扱い通貨",
+		"spanish": "Monedas"
+	},
+	"walletTopUp.min": {
+		"english": "Min",
+		"german": "Minimum",
+		"mandarin": "最低",
+		"korean": "최저한의",
+		"japanese": "最小",
+		"spanish": "Mínimo"
+	},
+	"walletTopUp.theProcess": {
+		"english": "The process would take approximately",
+		"german": "Der Prozess würde ungefähr dauern",
+		"mandarin": "该过程大约需要",
+		"korean": "이 과정에는 약",
+		"japanese": "手続きにかかる時間",
+		"spanish": "El proceso puede tomar aproximadamente"
+	},
+	"walletTopUp.required": {
+		"english": "Required",
+		"german": "Erforderlich",
+		"mandarin": "必要",
+		"korean": "필수",
+		"japanese": "必須",
+		"spanish": "Necesario"
+	},
+	"walletTopUp.greaterThanZero": {
+		"english": "Must be greater than zero",
+		"german": "Muss größer als Null sein",
+		"mandarin": "必须大于零",
+		"korean": "0보다 커야 합니다.",
+		"japanese": "ゼロより大きくなければなりません",
+		"spanish": "Debe ser mayor que cero"
+	},
+	"walletTopUp.topUpNotSupported": {
+		"english": "Top up is not supported on {0}. Change to another network that supports the top up function.",
+		"german": "Das Aufladen wird auf dem {0} nicht unterstützt. Wechseln Sie zu einem anderen Netz, das die Aufladefunktion unterstützt.",
+		"mandarin": "{0} 不支持充值。 换一个支持充值功能的网络。",
+		"korean": "충전은 {0}에서 지원되지 않습니다. 탑업 기능을 지원하는 다른 네트워크로 변경하십시오.",
+		"japanese": "{0}では補充はサポートされていません。 トップアップ機能をサポートする別のネットワークに変更してください。",
+		"spanish": "La recarga no es compatible con {0}. Cambie a otra red que admita la función de recarga."
+	},
+	"walletTopUp.changeNetwork": {
+		"english": "Change network",
+		"german": "Netzwerk wechseln",
+		"mandarin": "更换网络",
+		"korean": "네트워크 변경",
+		"japanese": "ネットワークを変更する",
+		"spanish": "Cambiar red"
+	}
+}
