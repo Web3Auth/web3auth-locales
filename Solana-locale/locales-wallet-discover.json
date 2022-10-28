@@ -1,0 +1,34 @@
+{
+	"walletDiscover.loading": {
+		"english": "Please wait while we fetch data from our servers.",
+		"german": "Bitte warten Sie, während wir Daten von unseren Servern abrufen.",
+		"mandarin": "我们正在从我们的服务器获取数据，请稍候。",
+		"korean": "서버에서 데이터를 가져오는 동안 기다려 주십시오.",
+		"japanese": "サーバーからデータを取得するまでお待ちください。",
+		"spanish": "Espere mientras buscamos datos de nuestros servidores."
+	},
+	"walletDiscover.noData": {
+		"english": "No Dapp found for current query.",
+		"german": "Kein Dapp für die aktuelle Abfrage gefunden.",
+		"mandarin": "没有找到当前查询的 Dapp",
+		"korean": "현재 쿼리에 대한 Dapp을 찾을 수 없습니다.",
+		"japanese": "現在のクエリのDappが見つかりません。",
+		"spanish": "No se encontró Dapp para la consulta actual."
+	},
+	"walletDiscover.redirecting": {
+		"english": "Redirecting to {url}",
+		"german": "Weiterleitung an {url}",
+		"mandarin": "重定向到 {url}",
+		"korean": "{url}로 리디렉션",
+		"japanese": "{url}にリダイレクトする",
+		"spanish": "Redireccionando a {url}"
+	},
+	"": {
+		"english": "",
+		"german": "",
+		"mandarin": "",
+		"korean": "",
+		"japanese": "",
+		"spanish": ""
+	}
+}

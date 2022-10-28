@@ -1,4 +1,0 @@
-﻿name,english,german,mandarin,korean,japanese,spanish
-walletDiscover.loading,Please wait while we fetch data from our servers.,"Bitte warten Sie, während wir Daten von unseren Servern abrufen.",我们正在从我们的服务器获取数据，请稍候。,서버에서 데이터를 가져오는 동안 기다려 주십시오.,サーバーからデータを取得するまでお待ちください。,Espere mientras buscamos datos de nuestros servidores.
-walletDiscover.noData,No Dapp found for current query.,Kein Dapp für die aktuelle Abfrage gefunden.,没有找到当前查询的 Dapp,현재 쿼리에 대한 Dapp을 찾을 수 없습니다.,現在のクエリのDappが見つかりません。,No se encontró Dapp para la consulta actual.
-walletDiscover.redirecting,Redirecting to {url},Weiterleitung an {url},重定向到 {url},{url}로 리디렉션,{url}にリダイレクトする,Redireccionando a {url}
