@@ -3,16 +3,18 @@
 Web3Auth Localization repository containing words/sentences used in the
 Web3Auth's Product Modal Screen.
 
-- [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)
-- [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens)
-- [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)
-- [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)
-
 ## Wish to add your locale?
 
 Please make a
 [Pull Request to this repo](https://github.com/Web3Auth/web3auth-locales/pulls)
 with your translated/localized strings.
+
+| Contribute                                | See Implementation                                                                   |
+| ----------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    |
+| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) |
+| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      |
+| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     |
 
 ## Requesting new language support?
 
