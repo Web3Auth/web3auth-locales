@@ -1,58 +1,60 @@
 {
-	"apps.title": {
-		"english": "Authorized Apps",
-		"german": "Autorisierte Apps",
-		"mandarin": "授权应用",
-		"korean": "승인 된 앱",
-		"japanese": "認定アプリ",
-		"spanish": "Aplicaciones autorizadas"
-	},
-	"apps.desc": {
-		"english": "Manage your authorized applications here",
-		"german": "Verwalten Sie hier Ihre autorisierten Anwendungen",
-		"mandarin": "在这里管理您的授权应用程序",
-		"korean": "여기에서 승인 된 애플리케이션 관리",
-		"japanese": "ここで承認されたアプリケーションを管理します",
-		"spanish": "Gestione sus aplicaciones autorizadas aquí"
-	},
-	"apps.apps-title": {
-		"english": "Authorized applications",
-		"german": "Autorisierte Anträge",
-		"mandarin": "授权申请",
-		"korean": "승인 된 애플리케이션",
-		"japanese": "許可されたアプリケーション",
-		"spanish": "Aplicaciones autorizadas"
-	},
-	"apps.apps-subtitle": {
-		"english": "List of Apps",
-		"german": "Liste der Apps",
-		"mandarin": "应用清单",
-		"korean": "앱 목록",
-		"japanese": "アプリのリスト",
-		"spanish": "Lista de aplicaciones"
-	},
-	"apps.apps-empty": {
-		"english": "You are not connected to any applications yet.",
-		"german": "Sie sind noch nicht mit Anwendungen verbunden.",
-		"mandarin": "您尚未连接到任何应用程序。",
-		"korean": "아직 애플리케이션에 연결되어 있지 않습니다.",
-		"japanese": "まだどのアプリケーションにも接続していません。",
-		"spanish": "Aún no estás conectado a ninguna aplicación."
-	},
-	"apps.apps-current-device": {
-		"english": "Current device",
-		"german": "Aktuelles Gerät",
-		"mandarin": "当前设备",
-		"korean": "현재 기기",
-		"japanese": "現在のデバイス",
-		"spanish": "Dispositivo actual"
-	},
-	"apps.export-private-key": {
-		"english": "Private Key",
-		"german": "Privat Schlüssel",
-		"mandarin": "私钥",
-		"korean": "개인 키",
-		"japanese": "秘密鍵",
-		"spanish": "Llave privada"
+	"apps": {
+		"title": {
+			"english": "Authorized Apps",
+			"german": "Autorisierte Apps",
+			"mandarin": "授权应用",
+			"korean": "승인 된 앱",
+			"japanese": "認定アプリ",
+			"spanish": "Aplicaciones autorizadas"
+		},
+		"desc": {
+			"english": "Manage your authorized applications here",
+			"german": "Verwalten Sie hier Ihre autorisierten Anwendungen",
+			"mandarin": "在这里管理您的授权应用程序",
+			"korean": "여기에서 승인 된 애플리케이션 관리",
+			"japanese": "ここで承認されたアプリケーションを管理します",
+			"spanish": "Gestione sus aplicaciones autorizadas aquí"
+		},
+		"apps-title": {
+			"english": "Authorized applications",
+			"german": "Autorisierte Anträge",
+			"mandarin": "授权申请",
+			"korean": "승인 된 애플리케이션",
+			"japanese": "許可されたアプリケーション",
+			"spanish": "Aplicaciones autorizadas"
+		},
+		"apps-subtitle": {
+			"english": "List of Apps",
+			"german": "Liste der Apps",
+			"mandarin": "应用清单",
+			"korean": "앱 목록",
+			"japanese": "アプリのリスト",
+			"spanish": "Lista de aplicaciones"
+		},
+		"apps-empty": {
+			"english": "You are not connected to any applications yet.",
+			"german": "Sie sind noch nicht mit Anwendungen verbunden.",
+			"mandarin": "您尚未连接到任何应用程序。",
+			"korean": "아직 애플리케이션에 연결되어 있지 않습니다.",
+			"japanese": "まだどのアプリケーションにも接続していません。",
+			"spanish": "Aún no estás conectado a ninguna aplicación."
+		},
+		"apps-current-device": {
+			"english": "Current device",
+			"german": "Aktuelles Gerät",
+			"mandarin": "当前设备",
+			"korean": "현재 기기",
+			"japanese": "現在のデバイス",
+			"spanish": "Dispositivo actual"
+		},
+		"export-private-key": {
+			"english": "Private Key",
+			"german": "Privat Schlüssel",
+			"mandarin": "私钥",
+			"korean": "개인 키",
+			"japanese": "秘密鍵",
+			"spanish": "Llave privada"
+		}
 	}
 }
