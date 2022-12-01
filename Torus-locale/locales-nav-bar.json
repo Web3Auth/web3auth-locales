@@ -1,266 +1,266 @@
 {
-	"navBar.home": {
-		"english": "Home",
-		"german": "Startseite",
-		"mandarin": "主页",
-		"korean": "홈페이지",
-		"japanese": "ホーム",
-		"spanish": "Home"
-	},
-	"navBar.transfer": {
-		"english": "Transfer",
-		"german": "Transfer",
-		"mandarin": "传递",
-		"korean": "이전",
-		"japanese": "送金",
-		"spanish": "Transferencias"
-	},
-	"navBar.topUp": {
-		"english": "Top up",
-		"german": "Nachfüllen",
-		"mandarin": "充值",
-		"korean": "위로",
-		"japanese": "チャージ",
-		"spanish": "Depositar"
-	},
-	"navBar.discover": {
-		"english": "Discover",
-		"german": "entdecken",
-		"mandarin": "发现",
-		"korean": "발견하다",
-		"japanese": "発見",
-		"spanish": "descubrir"
-	},
-	"navBar.activity": {
-		"english": "Activity",
-		"german": "Aktivität",
-		"mandarin": "交易记录",
-		"korean": "거래 내역",
-		"japanese": "取引履歴",
-		"spanish": "Actividad"
-	},
-	"navBar.settings": {
-		"english": "Settings",
-		"german": "die Einstellungen",
-		"mandarin": "设定值",
-		"korean": "설정",
-		"japanese": "設定",
-		"spanish": "Configuración"
-	},
-	"navBar.snackSuccessTheme": {
-		"english": "Theme updated",
-		"german": "Thema aktualisiert",
-		"mandarin": "主题已更新",
-		"korean": "테마 업데이트",
-		"japanese": "テーマが更新されました",
-		"spanish": "Tema actualizado"
-	},
-	"navBar.snackFailTheme": {
-		"english": "Unable to update theme",
-		"german": "Thema kann nicht aktualisiert werden",
-		"mandarin": "无法更新主题",
-		"korean": "테마를 업데이트 할 수 없습니다",
-		"japanese": "テーマを更新できません",
-		"spanish": "El tema no ha podido ser actualizado"
-	},
-	"navBar.snackSuccessLocale": {
-		"english": "Language changed to English",
-		"german": "Die Sprache wurde in Deutsch geändert",
-		"mandarin": "语言更改为中文",
-		"korean": "언어가 한국어로 변경되었습니다",
-		"japanese": "言語が日本語に変更されました",
-		"spanish": "Lenguaje cambiado a Inglés"
-	},
-	"navBar.snackFailLocale": {
-		"english": "Unable to update language",
-		"german": "Sprache kann nicht aktualisiert werden",
-		"mandarin": "无法更新语言",
-		"korean": "언어를 업데이트 할 수 없습니다",
-		"japanese": "言語を更新できません",
-		"spanish": "No se ha podido cambiar el lenguaje"
-	},
-	"navBar.snackSuccessCurrency": {
-		"english": "Successfully switched currency",
-		"german": "Währung erfolgreich gewechselt",
-		"mandarin": "成功转换货币",
-		"korean": "통화를 성공적으로 전환",
-		"japanese": "通貨が正常に切り替えられました",
-		"spanish": "Se ha cambiado la moneda"
-	},
-	"navBar.snackFailCurrency": {
-		"english": "Unable to switch currency",
-		"german": "Währung kann nicht gewechselt werden",
-		"mandarin": "无法切换货币",
-		"korean": "통화를 전환 할 수 없습니다",
-		"japanese": "通貨を切り替えることができません",
-		"spanish": "No se ha podido cambiar la moneda"
-	},
-	"navBar.snackSuccessContactAdd": {
-		"english": "Successfully added contact",
-		"german": "Kontakt erfolgreich hinzugefügt",
-		"mandarin": "成功添加联系人",
-		"korean": "성공적으로 추가 된 연락처",
-		"japanese": "連絡先を追加しました",
-		"spanish": "Se ha añadido el contacto con éxito"
-	},
-	"navBar.snackFailContactAdd": {
-		"english": "Unable to add contact",
-		"german": "Kontakt kann nicht hinzugefügt werden",
-		"mandarin": "无法添加联系人",
-		"korean": "연락처를 추가 할 수 없습니다",
-		"japanese": "連絡先を追加できません",
-		"spanish": "No se ha podido añadir el contacto"
-	},
-	"navBar.snackSuccessContactDelete": {
-		"english": "Successfully deleted contact",
-		"german": "Kontakt erfolgreich gelöscht",
-		"mandarin": "成功删除联系人",
-		"korean": "연락처를 성공적으로 삭제했습니다",
-		"japanese": "連絡先を削除しました",
-		"spanish": "Contacto borrado con éxito"
-	},
-	"navBar.snackFailContactDelete": {
-		"english": "Unable to delete contact",
-		"german": "Kontakt kann nicht gelöscht werden",
-		"mandarin": "无法删除联系人",
-		"korean": "연락처를 삭제할 수 없습니다",
-		"japanese": "連絡先を削除できません",
-		"spanish": "No se ha podido borrar el contacto"
-	},
-	"navBar.snackSuccessNetworkChange": {
-		"english": "Successfully changed network",
-		"german": "Netzwerk erfolgreich geändert",
-		"mandarin": "成功更改网络",
-		"korean": "네트워크가 성공적으로 변경되었습니다",
-		"japanese": "ネットワークの変更が成功しました",
-		"spanish": "Se ha cambiado la red"
-	},
-	"navBar.snackFailNetworkChange": {
-		"english": "Unable to change network",
-		"german": "Netzwerk kann nicht geändert werden",
-		"mandarin": "无法更改网络",
-		"korean": "네트워크를 변경할 수 없습니다",
-		"japanese": "ネットワークの変更に失敗しました",
-		"spanish": "No se ha podido cambiar la red"
-	},
-	"navBar.lrcMsg": {
-		"english": "You are using the test cluster on torus network",
-		"german": "Sie verwenden den Testcluster im Torus-Netzwerk",
-		"mandarin": "您正在Torus网络上使用测试集群",
-		"korean": "Torus 네트워크에서 테스트 클러스터를 사용하고 있습니다",
-		"japanese": "Torusネットワークでテストクラスターを使用しています",
-		"spanish": "Estás usando el test cluster de la red de Torus"
-	},
-	"navBar.snackSuccessCustomTokenAdd": {
-		"english": "Successfully added custom token",
-		"german": "Benutzerdefiniertes Token erfolgreich hinzugefügt",
-		"mandarin": "成功添加自定义令牌",
-		"korean": "맞춤 토큰을 성공적으로 추가했습니다.",
-		"japanese": "カスタムトークンが正常に追加されました",
-		"spanish": "Token personalizado agregado con éxito"
-	},
-	"navBar.snackFailCustomTokenAdd": {
-		"english": "Unable to add custom token",
-		"german": "Benutzerdefiniertes Token kann nicht hinzugefügt werden",
-		"mandarin": "无法添加自定义令牌",
-		"korean": "맞춤 토큰을 추가 할 수 없습니다.",
-		"japanese": "カスタムトークンを追加できません",
-		"spanish": "No se pudo agregar el token personalizado"
-	},
-	"navBar.snackSuccessCustomTokenDelete": {
-		"english": "Successfully deleted custom token",
-		"german": "Benutzerdefiniertes Token erfolgreich gelöscht",
-		"mandarin": "成功删除自定义令牌",
-		"korean": "맞춤 토큰을 삭제했습니다.",
-		"japanese": "カスタムトークンが正常に削除されました",
-		"spanish": "Token personalizado eliminado correctamente"
-	},
-	"navBar.snackFailCustomTokenDelete": {
-		"english": "Unable to delete custom token",
-		"german": "Benutzerdefiniertes Token kann nicht gelöscht werden",
-		"mandarin": "无法删除自定义令牌",
-		"korean": "맞춤 토큰을 삭제할 수 없습니다.",
-		"japanese": "カスタムトークンを削除できません",
-		"spanish": "No se puede eliminar el token personalizado"
-	},
-	"navBar.snackSuccessCrashReport": {
-		"english": "Successfully updated crash reporting",
-		"german": "",
-		"mandarin": "",
-		"korean": "",
-		"japanese": "",
-		"spanish": ""
-	},
-	"navBar.snackFailCrashReport": {
-		"english": "Unable to update crash reporting",
-		"german": "",
-		"mandarin": "",
-		"korean": "",
-		"japanese": "",
-		"spanish": ""
-	},
-	"navBar.snackSuccessCustomNftAdd": {
-		"english": "Successfully added custom nft",
-		"german": "Benutzerdefiniertes nft . erfolgreich hinzugefügt",
-		"mandarin": "成功添加自定义 nft",
-		"korean": "사용자 지정 nft를 성공적으로 추가했습니다.",
-		"japanese": "カスタムnftが正常に追加されました",
-		"spanish": "Successfully added custom nft"
-	},
-	"navBar.snackFailCustomNftAdd": {
-		"english": "Unable to add custom nft",
-		"german": "Benutzerdefiniertes Token kann nicht hinzugefügt werden",
-		"mandarin": "无法添加自定义令牌",
-		"korean": "사용자 정의 토큰을 추가할 수 없습니다.",
-		"japanese": "カスタムトークンを追加できません",
-		"spanish": "No se puede agregar el token personalizado"
-	},
-	"navBar.nft": {
-		"english": "NFT",
-		"german": "NFT",
-		"mandarin": "NFT",
-		"korean": "NFT",
-		"japanese": "NFT",
-		"spanish": "NFT"
-	},
-	"navBar.snackFailCustomNetworkAdd": {
-		"english": "Unable to add custom network",
-		"german": "Benutzerdefiniertes Netzwerk kann nicht hinzugefügt werden",
-		"mandarin": "无法添加自定义网络",
-		"korean": "사용자 지정 네트워크를 추가할 수 없습니다.",
-		"japanese": "カスタムネットワークを追加できません。",
-		"spanish": "No se puede agregar una red personalizada."
-	},
-	"navBar.snackFailCustomNetworkDelete": {
-		"english": "Unable to delete custom network",
-		"german": "Benutzerdefiniertes Netzwerk kann nicht gelöscht werden",
-		"mandarin": "无法删除自定义网络",
-		"korean": "사용자 지정 네트워크를 삭제할 수 없습니다.",
-		"japanese": "カスタムネットワークを追加できません",
-		"spanish": "No se puede eliminar la red personalizada"
-	},
-	"navBar.snackSuccessCustomNetworkDelete": {
-		"english": "Successfully deleted custom network",
-		"german": "Benutzerdefiniertes Netzwerk erfolgreich gelöscht",
-		"mandarin": "已成功删除自定义网络",
-		"korean": "사용자 지정 네트워크를 성공적으로 삭제했습니다.",
-		"japanese": "カスタムネットワークが正常に削除されました",
-		"spanish": "Red personalizada eliminada con éxito"
-	},
-	"navBar.snackFailCustomNetworkUpdate": {
-		"english": "Unable to update custom network",
-		"german": "Benutzerdefiniertes Netzwerk kann nicht aktualisiert werden",
-		"mandarin": "无法更新自定义网络",
-		"korean": "사용자 지정 네트워크를 업데이트할 수 없습니다.",
-		"japanese": "カスタムネットワークを更新できません",
-		"spanish": "No se puede actualizar la red personalizada"
-	},
-	"navBar.snackSuccessCustomNetworkUpdate": {
-		"english": "Successfully updated custom network",
-		"german": "Benutzerdefiniertes Netzwerk erfolgreich aktualisiert",
-		"mandarin": "已成功更新自定义网络",
-		"korean": "사용자 지정 네트워크를 성공적으로 업데이트했습니다.",
-		"japanese": "カスタムネットワークが正常に更新されました",
-		"spanish": "Red personalizada actualizada con éxito"
+	"navBar": {
+		"snackSuccessCustomNftAdd": {
+			"korean": "사용자 지정 nft를 성공적으로 추가했습니다.",
+			"spanish": "Successfully added custom nft",
+			"japanese": "カスタムnftが正常に追加されました",
+			"mandarin": "成功添加自定义 nft",
+			"german": "Benutzerdefiniertes nft . erfolgreich hinzugefügt",
+			"english": "Successfully added custom nft"
+		},
+		"activity": {
+			"korean": "거래 내역",
+			"spanish": "Actividad",
+			"japanese": "取引履歴",
+			"mandarin": "交易记录",
+			"german": "Aktivität",
+			"english": "Activity"
+		},
+		"snackFailCustomNetworkAdd": {
+			"korean": "사용자 지정 네트워크를 추가할 수 없습니다.",
+			"spanish": "No se puede agregar una red personalizada.",
+			"japanese": "カスタムネットワークを追加できません。",
+			"mandarin": "无法添加自定义网络",
+			"german": "Benutzerdefiniertes Netzwerk kann nicht hinzugefügt werden",
+			"english": "Unable to add custom network"
+		},
+		"snackFailContactDelete": {
+			"korean": "연락처를 삭제할 수 없습니다",
+			"spanish": "No se ha podido borrar el contacto",
+			"japanese": "連絡先を削除できません",
+			"mandarin": "无法删除联系人",
+			"german": "Kontakt kann nicht gelöscht werden",
+			"english": "Unable to delete contact"
+		},
+		"topUp": {
+			"korean": "위로",
+			"spanish": "Depositar",
+			"japanese": "チャージ",
+			"mandarin": "充值",
+			"german": "Nachfüllen",
+			"english": "Top up"
+		},
+		"snackFailCurrency": {
+			"korean": "통화를 전환 할 수 없습니다",
+			"spanish": "No se ha podido cambiar la moneda",
+			"japanese": "通貨を切り替えることができません",
+			"mandarin": "无法切换货币",
+			"german": "Währung kann nicht gewechselt werden",
+			"english": "Unable to switch currency"
+		},
+		"snackSuccessCrashReport": {
+			"english": "Successfully updated crash reporting"
+		},
+		"snackSuccessCustomTokenDelete": {
+			"korean": "맞춤 토큰을 삭제했습니다.",
+			"spanish": "Token personalizado eliminado correctamente",
+			"japanese": "カスタムトークンが正常に削除されました",
+			"mandarin": "成功删除自定义令牌",
+			"german": "Benutzerdefiniertes Token erfolgreich gelöscht",
+			"english": "Successfully deleted custom token"
+		},
+		"snackSuccessContactDelete": {
+			"korean": "연락처를 성공적으로 삭제했습니다",
+			"spanish": "Contacto borrado con éxito",
+			"japanese": "連絡先を削除しました",
+			"mandarin": "成功删除联系人",
+			"german": "Kontakt erfolgreich gelöscht",
+			"english": "Successfully deleted contact"
+		},
+		"snackSuccessCustomNetworkUpdate": {
+			"korean": "사용자 지정 네트워크를 성공적으로 업데이트했습니다.",
+			"spanish": "Red personalizada actualizada con éxito",
+			"japanese": "カスタムネットワークが正常に更新されました",
+			"mandarin": "已成功更新自定义网络",
+			"german": "Benutzerdefiniertes Netzwerk erfolgreich aktualisiert",
+			"english": "Successfully updated custom network"
+		},
+		"snackFailCustomNftAdd": {
+			"korean": "사용자 정의 토큰을 추가할 수 없습니다.",
+			"spanish": "No se puede agregar el token personalizado",
+			"japanese": "カスタムトークンを追加できません",
+			"mandarin": "无法添加自定义令牌",
+			"german": "Benutzerdefiniertes Token kann nicht hinzugefügt werden",
+			"english": "Unable to add custom nft"
+		},
+		"snackFailCustomNetworkDelete": {
+			"korean": "사용자 지정 네트워크를 삭제할 수 없습니다.",
+			"spanish": "No se puede eliminar la red personalizada",
+			"japanese": "カスタムネットワークを追加できません",
+			"mandarin": "无法删除自定义网络",
+			"german": "Benutzerdefiniertes Netzwerk kann nicht gelöscht werden",
+			"english": "Unable to delete custom network"
+		},
+		"lrcMsg": {
+			"korean": "Torus 네트워크에서 테스트 클러스터를 사용하고 있습니다",
+			"spanish": "Estás usando el test cluster de la red de Torus",
+			"japanese": "Torusネットワークでテストクラスターを使用しています",
+			"mandarin": "您正在Torus网络上使用测试集群",
+			"german": "Sie verwenden den Testcluster im Torus-Netzwerk",
+			"english": "You are using the test cluster on torus network"
+		},
+		"discover": {
+			"korean": "발견하다",
+			"spanish": "descubrir",
+			"japanese": "発見",
+			"mandarin": "发现",
+			"german": "entdecken",
+			"english": "Discover"
+		},
+		"snackFailCrashReport": {
+			"english": "Unable to update crash reporting"
+		},
+		"home": {
+			"korean": "홈페이지",
+			"spanish": "Home",
+			"japanese": "ホーム",
+			"mandarin": "主页",
+			"german": "Startseite",
+			"english": "Home"
+		},
+		"snackSuccessTheme": {
+			"korean": "테마 업데이트",
+			"spanish": "Tema actualizado",
+			"japanese": "テーマが更新されました",
+			"mandarin": "主题已更新",
+			"german": "Thema aktualisiert",
+			"english": "Theme updated"
+		},
+		"swap": {
+			"korean": "교환",
+			"spanish": "Intercambio",
+			"japanese": "スワップ",
+			"mandarin": "交换",
+			"german": "Tausch",
+			"english": "Swap"
+		},
+		"snackFailCustomNetworkUpdate": {
+			"korean": "사용자 지정 네트워크를 업데이트할 수 없습니다.",
+			"spanish": "No se puede actualizar la red personalizada",
+			"japanese": "カスタムネットワークを更新できません",
+			"mandarin": "无法更新自定义网络",
+			"german": "Benutzerdefiniertes Netzwerk kann nicht aktualisiert werden",
+			"english": "Unable to update custom network"
+		},
+		"snackFailContactAdd": {
+			"korean": "연락처를 추가 할 수 없습니다",
+			"spanish": "No se ha podido añadir el contacto",
+			"japanese": "連絡先を追加できません",
+			"mandarin": "无法添加联系人",
+			"german": "Kontakt kann nicht hinzugefügt werden",
+			"english": "Unable to add contact"
+		},
+		"transfer": {
+			"korean": "이전",
+			"spanish": "Transferencias",
+			"japanese": "送金",
+			"mandarin": "传递",
+			"german": "Transfer",
+			"english": "Transfer"
+		},
+		"snackSuccessLocale": {
+			"korean": "언어가 한국어로 변경되었습니다",
+			"spanish": "Lenguaje cambiado a Inglés",
+			"japanese": "言語が日本語に変更されました",
+			"mandarin": "语言更改为中文",
+			"german": "Die Sprache wurde in Deutsch geändert",
+			"english": "Language changed to English"
+		},
+		"settings": {
+			"korean": "설정",
+			"spanish": "Configuración",
+			"japanese": "設定",
+			"mandarin": "设定值",
+			"german": "die Einstellungen",
+			"english": "Settings"
+		},
+		"snackSuccessCustomNetworkDelete": {
+			"korean": "사용자 지정 네트워크를 성공적으로 삭제했습니다.",
+			"spanish": "Red personalizada eliminada con éxito",
+			"japanese": "カスタムネットワークが正常に削除されました",
+			"mandarin": "已成功删除自定义网络",
+			"german": "Benutzerdefiniertes Netzwerk erfolgreich gelöscht",
+			"english": "Successfully deleted custom network"
+		},
+		"snackSuccessCurrency": {
+			"korean": "통화를 성공적으로 전환",
+			"spanish": "Se ha cambiado la moneda",
+			"japanese": "通貨が正常に切り替えられました",
+			"mandarin": "成功转换货币",
+			"german": "Währung erfolgreich gewechselt",
+			"english": "Successfully switched currency"
+		},
+		"snackSuccessContactAdd": {
+			"korean": "성공적으로 추가 된 연락처",
+			"spanish": "Se ha añadido el contacto con éxito",
+			"japanese": "連絡先を追加しました",
+			"mandarin": "成功添加联系人",
+			"german": "Kontakt erfolgreich hinzugefügt",
+			"english": "Successfully added contact"
+		},
+		"snackSuccessCustomTokenAdd": {
+			"korean": "맞춤 토큰을 성공적으로 추가했습니다.",
+			"spanish": "Token personalizado agregado con éxito",
+			"japanese": "カスタムトークンが正常に追加されました",
+			"mandarin": "成功添加自定义令牌",
+			"german": "Benutzerdefiniertes Token erfolgreich hinzugefügt",
+			"english": "Successfully added custom token"
+		},
+		"snackSuccessNetworkChange": {
+			"korean": "네트워크가 성공적으로 변경되었습니다",
+			"spanish": "Se ha cambiado la red",
+			"japanese": "ネットワークの変更が成功しました",
+			"mandarin": "成功更改网络",
+			"german": "Netzwerk erfolgreich geändert",
+			"english": "Successfully changed network"
+		},
+		"nft": {
+			"korean": "NFT",
+			"spanish": "NFT",
+			"japanese": "NFT",
+			"mandarin": "NFT",
+			"german": "NFT",
+			"english": "NFT"
+		},
+		"snackFailLocale": {
+			"korean": "언어를 업데이트 할 수 없습니다",
+			"spanish": "No se ha podido cambiar el lenguaje",
+			"japanese": "言語を更新できません",
+			"mandarin": "无法更新语言",
+			"german": "Sprache kann nicht aktualisiert werden",
+			"english": "Unable to update language"
+		},
+		"snackFailTheme": {
+			"korean": "테마를 업데이트 할 수 없습니다",
+			"spanish": "El tema no ha podido ser actualizado",
+			"japanese": "テーマを更新できません",
+			"mandarin": "无法更新主题",
+			"german": "Thema kann nicht aktualisiert werden",
+			"english": "Unable to update theme"
+		},
+		"snackFailCustomTokenDelete": {
+			"korean": "맞춤 토큰을 삭제할 수 없습니다.",
+			"spanish": "No se puede eliminar el token personalizado",
+			"japanese": "カスタムトークンを削除できません",
+			"mandarin": "无法删除自定义令牌",
+			"german": "Benutzerdefiniertes Token kann nicht gelöscht werden",
+			"english": "Unable to delete custom token"
+		},
+		"snackFailCustomTokenAdd": {
+			"korean": "맞춤 토큰을 추가 할 수 없습니다.",
+			"spanish": "No se pudo agregar el token personalizado",
+			"japanese": "カスタムトークンを追加できません",
+			"mandarin": "无法添加自定义令牌",
+			"german": "Benutzerdefiniertes Token kann nicht hinzugefügt werden",
+			"english": "Unable to add custom token"
+		},
+		"snackFailNetworkChange": {
+			"korean": "네트워크를 변경할 수 없습니다",
+			"spanish": "No se ha podido cambiar la red",
+			"japanese": "ネットワークの変更に失敗しました",
+			"mandarin": "无法更改网络",
+			"german": "Netzwerk kann nicht geändert werden",
+			"english": "Unable to change network"
+		}
 	}
 }

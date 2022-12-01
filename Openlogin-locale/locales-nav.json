@@ -1,44 +1,44 @@
 {
 	"nav": {
-		"link-home": {
-			"english": "Home",
-			"german": "Startseite",
-			"mandarin": "主页",
-			"korean": "홈페이지",
-			"japanese": "ホームページ",
-			"spanish": "página principal"
-		},
-		"link-account": {
-			"english": "Account",
-			"german": "Konto",
-			"mandarin": "帐户",
-			"korean": "계정",
-			"japanese": "アカウント",
-			"spanish": "Cuenta"
-		},
 		"link-apps": {
+			"mandarin": "授权应用",
+			"japanese": "認定アプリ",
+			"spanish": "Aplicaciones autorizadas",
 			"english": "Authorized Apps",
 			"german": "Autorisierte Apps",
-			"mandarin": "授权应用",
-			"korean": "승인 된 앱",
-			"japanese": "認定アプリ",
-			"spanish": "Aplicaciones autorizadas"
+			"korean": "승인 된 앱"
+		},
+		"link-home": {
+			"mandarin": "主页",
+			"japanese": "ホームページ",
+			"spanish": "página principal",
+			"english": "Home",
+			"german": "Startseite",
+			"korean": "홈페이지"
 		},
 		"link-support": {
+			"mandarin": "支持",
+			"japanese": "サポート",
+			"spanish": "Apoyo",
 			"english": "Support",
 			"german": "Unterstützung",
-			"mandarin": "支持",
-			"korean": "지원하다",
-			"japanese": "サポート",
-			"spanish": "Apoyo"
+			"korean": "지원하다"
+		},
+		"link-account": {
+			"mandarin": "帐户",
+			"japanese": "アカウント",
+			"spanish": "Cuenta",
+			"english": "Account",
+			"german": "Konto",
+			"korean": "계정"
 		},
 		"link-logout": {
+			"mandarin": "登出",
+			"japanese": "ログアウト",
+			"spanish": "Cerrar sesión",
 			"english": "Logout",
 			"german": "Ausloggen",
-			"mandarin": "登出",
-			"korean": "로그 아웃",
-			"japanese": "ログアウト",
-			"spanish": "Cerrar sesión"
+			"korean": "로그 아웃"
 		}
 	}
 }

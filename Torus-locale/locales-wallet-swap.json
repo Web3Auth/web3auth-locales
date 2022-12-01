@@ -1,82 +1,84 @@
 {
-	"walletSwap.swap": {
-		"english": "Swap",
-		"german": "Tausch",
-		"mandarin": "交换",
-		"korean": "교환",
-		"japanese": "スワップ",
-		"spanish": "Intercambio"
-	},
-	"walletSwap.swapFailTitle": {
-		"english": "Your swap cannot be processed",
-		"german": "Ihr Tausch kann nicht bearbeitet werden",
-		"mandarin": "您的掉期无法处理",
-		"korean": "스왑을 처리할 수 없습니다.",
-		"japanese": "スワップを処理できません",
-		"spanish": "Su canje no puede ser procesado"
-	},
-	"walletSwap.swapFailMessage": {
-		"english": "Please try again later",
-		"german": "Bitte versuchen Sie es später erneut",
-		"mandarin": "请稍后再试",
-		"korean": "나중에 다시 시도 해주십시오",
-		"japanese": "後でもう一度やり直してください",
-		"spanish": "Por favor, inténtelo de nuevo más tarde"
-	},
-	"walletSwap.swapSuccessTitle": {
-		"english": "Your swap is being processed",
-		"german": "Ihr Austausch wird verarbeitet",
-		"mandarin": "您的掉期正在处理中",
-		"korean": "귀하의 스왑이 처리 중입니다",
-		"japanese": "スワップを処理しています",
-		"spanish": "Su canje se está procesando"
-	},
-	"walletSwap.expectedOutput": {
-		"english": "Expected Output",
-		"german": "Erwartete Ausgabe",
-		"mandarin": "预期产出",
-		"korean": "예상 출력",
-		"japanese": "期待される出力",
-		"spanish": "Rendimiento esperado"
-	},
-	"walletSwap.priceImpact": {
-		"english": "Price Impact",
-		"german": "Auswirkungen auf den Preis",
-		"mandarin": "价格影响",
-		"korean": "가격 영향",
-		"japanese": "価格への影響",
-		"spanish": "Impacto en el precio"
-	},
-	"walletSwap.networkFee": {
-		"english": "Network Fee",
-		"german": "Netzwerkgebühr",
-		"mandarin": "网络费用",
-		"korean": "네트워크 요금",
-		"japanese": "ネットワーク料金",
-		"spanish": "Tarifa de red"
-	},
-	"walletSwap.fetching": {
-		"english": "Fetching best price",
-		"german": "Den besten Preis erzielen",
-		"mandarin": "获取最优价格",
-		"korean": "최저가 가져오기",
-		"japanese": "最安値を取得しています",
-		"spanish": "Buscando el mejor precio"
-	},
-	"walletSwap.viewEtherscan": {
-		"english": "View on Etherscan",
-		"german": "Auf Etherscan ansehen",
-		"mandarin": "在 Etherscan 上查看",
-		"korean": "Etherscan에서 보기",
-		"japanese": "イーサスキャンで見る",
-		"spanish": "Ver en Etherscan"
-	},
-	"walletSwap.valueRequired": {
-		"english": "Value is required",
-		"german": "Wert erforderlich",
-		"mandarin": "值是必需的",
-		"korean": "값은 필수 항목입니다.",
-		"japanese": "値が要求されます",
-		"spanish": "Se requiere valor"
+	"walletSwap": {
+		"valueRequired": {
+			"spanish": "Se requiere valor",
+			"german": "Wert erforderlich",
+			"japanese": "値が要求されます",
+			"korean": "값은 필수 항목입니다.",
+			"english": "Value is required",
+			"mandarin": "值是必需的"
+		},
+		"swapFailMessage": {
+			"spanish": "Por favor, inténtelo de nuevo más tarde",
+			"german": "Bitte versuchen Sie es später erneut",
+			"japanese": "後でもう一度やり直してください",
+			"korean": "나중에 다시 시도 해주십시오",
+			"english": "Please try again later",
+			"mandarin": "请稍后再试"
+		},
+		"fetching": {
+			"spanish": "Buscando el mejor precio",
+			"german": "Den besten Preis erzielen",
+			"japanese": "最安値を取得しています",
+			"korean": "최저가 가져오기",
+			"english": "Fetching best price",
+			"mandarin": "获取最优价格"
+		},
+		"expectedOutput": {
+			"spanish": "Rendimiento esperado",
+			"german": "Erwartete Ausgabe",
+			"japanese": "期待される出力",
+			"korean": "예상 출력",
+			"english": "Expected Output",
+			"mandarin": "预期产出"
+		},
+		"swapFailTitle": {
+			"spanish": "Su canje no puede ser procesado",
+			"german": "Ihr Tausch kann nicht bearbeitet werden",
+			"japanese": "スワップを処理できません",
+			"korean": "스왑을 처리할 수 없습니다.",
+			"english": "Your swap cannot be processed",
+			"mandarin": "您的掉期无法处理"
+		},
+		"swap": {
+			"spanish": "Intercambio",
+			"german": "Tausch",
+			"japanese": "スワップ",
+			"korean": "교환",
+			"english": "Swap",
+			"mandarin": "交换"
+		},
+		"networkFee": {
+			"spanish": "Tarifa de red",
+			"german": "Netzwerkgebühr",
+			"japanese": "ネットワーク料金",
+			"korean": "네트워크 요금",
+			"english": "Network Fee",
+			"mandarin": "网络费用"
+		},
+		"swapSuccessTitle": {
+			"spanish": "Su canje se está procesando",
+			"german": "Ihr Austausch wird verarbeitet",
+			"japanese": "スワップを処理しています",
+			"korean": "귀하의 스왑이 처리 중입니다",
+			"english": "Your swap is being processed",
+			"mandarin": "您的掉期正在处理中"
+		},
+		"priceImpact": {
+			"spanish": "Impacto en el precio",
+			"german": "Auswirkungen auf den Preis",
+			"japanese": "価格への影響",
+			"korean": "가격 영향",
+			"english": "Price Impact",
+			"mandarin": "价格影响"
+		},
+		"viewEtherscan": {
+			"spanish": "Ver en Etherscan",
+			"german": "Auf Etherscan ansehen",
+			"japanese": "イーサスキャンで見る",
+			"korean": "Etherscan에서 보기",
+			"english": "View on Etherscan",
+			"mandarin": "在 Etherscan 上查看"
+		}
 	}
 }
