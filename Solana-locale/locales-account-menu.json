@@ -1,242 +1,244 @@
 {
-	"accountMenu.account": {
-		"english": "Account",
-		"german": "Konto",
-		"mandarin": "帐户",
-		"korean": "계정",
-		"japanese": "アカウント",
-		"spanish": "Cuenta"
-	},
-	"accountMenu.importedAccount": {
-		"english": "Imported Account",
-		"german": "Importiertes Konto",
-		"mandarin": "汇入帐户",
-		"korean": "가져온 계정",
-		"japanese": "インポートされたアカウント",
-		"spanish": "Cuenta importada"
-	},
-	"accountMenu.infoSupport": {
-		"english": "Info and Support",
-		"german": "Infos und Support",
-		"mandarin": "信息和支持",
-		"korean": "정보 및 지원",
-		"japanese": "ヘルプ",
-		"spanish": "Información y Soporte"
-	},
-	"accountMenu.logOut": {
-		"english": "Log Out",
-		"german": "Ausloggen",
-		"mandarin": "登出",
-		"korean": "로그 아웃",
-		"japanese": "ログアウト",
-		"spanish": "Cerrar sesión"
-	},
-	"accountMenu.importAccount": {
-		"english": "Import Account",
-		"german": "Konto importieren",
-		"mandarin": "导入帐号",
-		"korean": "계정 가져 오기",
-		"japanese": "アカウントをインポート",
-		"spanish": "Importar cuenta"
-	},
-	"accountMenu.selectImportType": {
-		"english": "Select Import Type:",
-		"german": "Importtyp auswählen:",
-		"mandarin": "选择导入类型：",
-		"korean": "가져 오기 유형을 선택하십시오.",
-		"japanese": "インポートタイプを選択：",
-		"spanish": "Selecciona el tipo de importación"
-	},
-	"accountMenu.privateKey": {
-		"english": "Private Key",
-		"german": "Privat Schlüssel",
-		"mandarin": "私钥",
-		"korean": "개인 키",
-		"japanese": "秘密鍵",
-		"spanish": "Private Key"
-	},
-	"accountMenu.keystore": {
-		"english": "Keystore",
-		"german": "Schlüsselspeicher",
-		"mandarin": "키 스토어",
-		"korean": "密钥库",
-		"japanese": "キーストア",
-		"spanish": "Keystore"
-	},
-	"accountMenu.seedPhrase": {
-		"english": "Seed Phrases",
-		"german": "Samenphrasen",
-		"mandarin": "种子短语",
-		"korean": "종자 문구",
-		"japanese": "シードフレーズ",
-		"spanish": "Frases de semillas"
-	},
-	"accountMenu.inputPrivateKey": {
-		"english": "Input Private Key",
-		"german": "Privaten Schlüssel eingeben",
-		"mandarin": "输入私钥",
-		"korean": "개인 키 입력",
-		"japanese": "秘密鍵の入力",
-		"spanish": "Ingrese la Private Key"
-	},
-	"accountMenu.inputSeedPhrase": {
-		"english": "Input seed phrases",
-		"german": "Geben Sie Startphrasen ein",
-		"mandarin": "输入种子短语",
-		"korean": "시드 문구 입력",
-		"japanese": "シードフレーズの入力",
-		"spanish": "Introducir frases semilla"
-	},
-	"accountMenu.inputSeedPhraseHere": {
-		"english": "Input your seed phrases here",
-		"german": "Ingrese sus frases semilla aquí",
-		"mandarin": "在这里输入您的种子短语",
-		"korean": "여기에 시드 문구를 입력하십시오.",
-		"japanese": "ここにシードフレーズを入力してください",
-		"spanish": "Ingrese sus frases semilla aquí"
-	},
-	"accountMenu.back": {
-		"english": "Back",
-		"german": "Zurück",
-		"mandarin": "背部",
-		"korean": "뒤",
-		"japanese": "戻る",
-		"spanish": "Regresar"
-	},
-	"accountMenu.import": {
-		"english": "Import",
-		"german": "Importieren",
-		"mandarin": "进口",
-		"korean": "수입",
-		"japanese": "インポート",
-		"spanish": "Importar"
-	},
-	"accountMenu.uploadJsonLabel": {
-		"english": "Please upload your JSON File",
-		"german": "Bitte laden Sie Ihre JSON-Datei hoch",
-		"mandarin": "请上传您的JSON文件",
-		"korean": "JSON 파일을 업로드하십시오",
-		"japanese": "JSONファイルをアップロードしてください",
-		"spanish": "Por favor subir el archivo JSON"
-	},
-	"accountMenu.uploadJsonTitle": {
-		"english": "JSON File",
-		"german": "JSON-Datei",
-		"mandarin": "JSON文件",
-		"korean": "JSON 파일",
-		"japanese": "JSONファイル",
-		"spanish": "Archivo JSON"
-	},
-	"accountMenu.uploadJsonDesc": {
-		"english": "This is a type of file format that your stores information on your Private Key.",
-		"german": "Dies ist ein Dateiformat, das Ihre Informationen auf Ihrem privaten Schlüssel speichert.",
-		"mandarin": "这是一种文件格式，您可以在专用密钥上存储信息。",
-		"korean": "개인 키에 정보를 저장하는 파일 형식입니다.",
-		"japanese": "これは、秘密鍵に関する情報を保存するファイル形式の一種です。",
-		"spanish": "Este es un tipo de archivo que guarda información de tu Private Key"
-	},
-	"accountMenu.selectedFile": {
-		"english": "Selected File",
-		"german": "Ausgewählte Datei",
-		"mandarin": "选定文件",
-		"korean": "선택된 파일",
-		"japanese": "選択したファイル",
-		"spanish": "Archivo seleccionado"
-	},
-	"accountMenu.enterPassword": {
-		"english": "Enter your password",
-		"german": "Geben Sie Ihr Passwort ein",
-		"mandarin": "输入密码",
-		"korean": "비밀번호를 입력하십시오",
-		"japanese": "パスワードを入力してください",
-		"spanish": "Ingrese el password"
-	},
-	"accountMenu.upload": {
-		"english": "Upload",
-		"german": "Hochladen",
-		"mandarin": "上载",
-		"korean": "업로드",
-		"japanese": "アップロードする",
-		"spanish": "Subir"
-	},
-	"accountMenu.password": {
-		"english": "Password",
-		"german": "Passwort",
-		"mandarin": "密码",
-		"korean": "암호",
-		"japanese": "パスワード",
-		"spanish": "Password"
-	},
-	"accountMenu.required": {
-		"english": "Required",
-		"german": "Erforderlich",
-		"mandarin": "필수",
-		"korean": "必要",
-		"japanese": "必須",
-		"spanish": "Requerido"
-	},
-	"accountMenu.incorrectPassword": {
-		"english": "Incorrect Password Entered",
-		"german": "Falsches Passwort eingegeben",
-		"mandarin": "密码错误",
-		"korean": "잘못된 비밀번호를 입력했습니다",
-		"japanese": "入力されたパスワードが正しくありません",
-		"spanish": "Password incorrecto"
-	},
-	"accountMenu.qrErrorNeedCameraPermission": {
-		"english": "You need to grant camera access permisson",
-		"german": "Sie müssen die Erlaubnis zum Zugriff auf die Kamera gewähren",
-		"mandarin": "您需要授予摄像机访问权限",
-		"korean": "카메라 액세스 권한을 부여해야합니다.",
-		"japanese": "カメラアクセス許可を付与する必要があります",
-		"spanish": "Debes otorgar permiso de acceso a la cámara"
-	},
-	"accountMenu.qrErrorNoCamera": {
-		"english": "No camera on this device",
-		"german": "Keine Kamera auf diesem Gerät",
-		"mandarin": "此设备上没有相机",
-		"korean": "이 기기에 카메라가 없습니다.",
-		"japanese": "このデバイスにはカメラがありません",
-		"spanish": "No hay cámara en este dispositivo"
-	},
-	"accountMenu.qrErrorSecureContextRequired": {
-		"english": "Secure context required (HTTPS, localhost)",
-		"german": "Sicherer Kontext erforderlich (HTTPS, localhost)",
-		"mandarin": "需要安全上下文（HTTPS，本地主机）",
-		"korean": "보안 컨텍스트 필요 (HTTPS, localhost)",
-		"japanese": "安全なコンテキストが必要です（HTTPS、localhost）",
-		"spanish": "Se requiere contexto seguro (HTTPS, localhost)"
-	},
-	"accountMenu.qrErrorCameraAlreadyInUse": {
-		"english": "Camera is already in use",
-		"german": "Kamera ist bereits in Gebrauch",
-		"mandarin": "相机已在使用中",
-		"korean": "카메라가 이미 사용 중입니다.",
-		"japanese": "カメラはすでに使用されています",
-		"spanish": "La cámara ya está en uso"
-	},
-	"accountMenu.qrErrorInstalledCamerasAreNotSuitable": {
-		"english": "Installed cameras are not suitable",
-		"german": "Installierte Kameras sind nicht geeignet",
-		"mandarin": "安装的相机不合适",
-		"korean": "설치된 카메라가 적합하지 않습니다.",
-		"japanese": "設置されているカメラは適切ではありません",
-		"spanish": "Las cámaras instaladas no son adecuadas"
-	},
-	"accountMenu.qrErrorStreamAPINotSupported": {
-		"english": "WalletConnect is not supported in this browser",
-		"german": "WalletConnect wird in diesem Browser nicht unterstützt",
-		"mandarin": "此浏览器不支持WalletConnect",
-		"korean": "이 브라우저에서는 WalletConnect가 지원되지 않습니다.",
-		"japanese": "WalletConnectはこのブラウザではサポートされていません",
-		"spanish": "WalletConnect no es compatible con este navegador"
-	},
-	"accountMenu.wallet": {
-		"english": "Wallet",
-		"german": "Brieftasche",
-		"mandarin": "钱包",
-		"korean": "지갑",
-		"japanese": "財布",
-		"spanish": "Billetera"
+	"accountMenu": {
+		"importAccount": {
+			"spanish": "Importar cuenta",
+			"german": "Konto importieren",
+			"japanese": "アカウントをインポート",
+			"mandarin": "导入帐号",
+			"korean": "계정 가져 오기",
+			"english": "Import Account"
+		},
+		"keystore": {
+			"spanish": "Keystore",
+			"german": "Schlüsselspeicher",
+			"japanese": "キーストア",
+			"mandarin": "키 스토어",
+			"korean": "密钥库",
+			"english": "Keystore"
+		},
+		"uploadJsonTitle": {
+			"spanish": "Archivo JSON",
+			"german": "JSON-Datei",
+			"japanese": "JSONファイル",
+			"mandarin": "JSON文件",
+			"korean": "JSON 파일",
+			"english": "JSON File"
+		},
+		"qrErrorInstalledCamerasAreNotSuitable": {
+			"spanish": "Las cámaras instaladas no son adecuadas",
+			"german": "Installierte Kameras sind nicht geeignet",
+			"japanese": "設置されているカメラは適切ではありません",
+			"mandarin": "安装的相机不合适",
+			"korean": "설치된 카메라가 적합하지 않습니다.",
+			"english": "Installed cameras are not suitable"
+		},
+		"logOut": {
+			"spanish": "Cerrar sesión",
+			"german": "Ausloggen",
+			"japanese": "ログアウト",
+			"mandarin": "登出",
+			"korean": "로그 아웃",
+			"english": "Log Out"
+		},
+		"qrErrorNoCamera": {
+			"spanish": "No hay cámara en este dispositivo",
+			"german": "Keine Kamera auf diesem Gerät",
+			"japanese": "このデバイスにはカメラがありません",
+			"mandarin": "此设备上没有相机",
+			"korean": "이 기기에 카메라가 없습니다.",
+			"english": "No camera on this device"
+		},
+		"importedAccount": {
+			"spanish": "Cuenta importada",
+			"german": "Importiertes Konto",
+			"japanese": "インポートされたアカウント",
+			"mandarin": "汇入帐户",
+			"korean": "가져온 계정",
+			"english": "Imported Account"
+		},
+		"uploadJsonLabel": {
+			"spanish": "Por favor subir el archivo JSON",
+			"german": "Bitte laden Sie Ihre JSON-Datei hoch",
+			"japanese": "JSONファイルをアップロードしてください",
+			"mandarin": "请上传您的JSON文件",
+			"korean": "JSON 파일을 업로드하십시오",
+			"english": "Please upload your JSON File"
+		},
+		"enterPassword": {
+			"spanish": "Ingrese el password",
+			"german": "Geben Sie Ihr Passwort ein",
+			"japanese": "パスワードを入力してください",
+			"mandarin": "输入密码",
+			"korean": "비밀번호를 입력하십시오",
+			"english": "Enter your password"
+		},
+		"inputSeedPhraseHere": {
+			"spanish": "Ingrese sus frases semilla aquí",
+			"german": "Ingrese sus frases semilla aquí",
+			"japanese": "ここにシードフレーズを入力してください",
+			"mandarin": "在这里输入您的种子短语",
+			"korean": "여기에 시드 문구를 입력하십시오.",
+			"english": "Input your seed phrases here"
+		},
+		"uploadJsonDesc": {
+			"spanish": "Este es un tipo de archivo que guarda información de tu Private Key",
+			"german": "Dies ist ein Dateiformat, das Ihre Informationen auf Ihrem privaten Schlüssel speichert.",
+			"japanese": "これは、秘密鍵に関する情報を保存するファイル形式の一種です。",
+			"mandarin": "这是一种文件格式，您可以在专用密钥上存储信息。",
+			"korean": "개인 키에 정보를 저장하는 파일 형식입니다.",
+			"english": "This is a type of file format that your stores information on your Private Key."
+		},
+		"qrErrorStreamAPINotSupported": {
+			"spanish": "WalletConnect no es compatible con este navegador",
+			"german": "WalletConnect wird in diesem Browser nicht unterstützt",
+			"japanese": "WalletConnectはこのブラウザではサポートされていません",
+			"mandarin": "此浏览器不支持WalletConnect",
+			"korean": "이 브라우저에서는 WalletConnect가 지원되지 않습니다.",
+			"english": "WalletConnect is not supported in this browser"
+		},
+		"upload": {
+			"spanish": "Subir",
+			"german": "Hochladen",
+			"japanese": "アップロードする",
+			"mandarin": "上载",
+			"korean": "업로드",
+			"english": "Upload"
+		},
+		"infoSupport": {
+			"spanish": "Información y Soporte",
+			"german": "Infos und Support",
+			"japanese": "ヘルプ",
+			"mandarin": "信息和支持",
+			"korean": "정보 및 지원",
+			"english": "Info and Support"
+		},
+		"back": {
+			"spanish": "Regresar",
+			"german": "Zurück",
+			"japanese": "戻る",
+			"mandarin": "背部",
+			"korean": "뒤",
+			"english": "Back"
+		},
+		"qrErrorSecureContextRequired": {
+			"spanish": "Se requiere contexto seguro (HTTPS, localhost)",
+			"german": "Sicherer Kontext erforderlich (HTTPS, localhost)",
+			"japanese": "安全なコンテキストが必要です（HTTPS、localhost）",
+			"mandarin": "需要安全上下文（HTTPS，本地主机）",
+			"korean": "보안 컨텍스트 필요 (HTTPS, localhost)",
+			"english": "Secure context required (HTTPS, localhost)"
+		},
+		"inputSeedPhrase": {
+			"spanish": "Introducir frases semilla",
+			"german": "Geben Sie Startphrasen ein",
+			"japanese": "シードフレーズの入力",
+			"mandarin": "输入种子短语",
+			"korean": "시드 문구 입력",
+			"english": "Input seed phrases"
+		},
+		"selectedFile": {
+			"spanish": "Archivo seleccionado",
+			"german": "Ausgewählte Datei",
+			"japanese": "選択したファイル",
+			"mandarin": "选定文件",
+			"korean": "선택된 파일",
+			"english": "Selected File"
+		},
+		"inputPrivateKey": {
+			"spanish": "Ingrese la Private Key",
+			"german": "Privaten Schlüssel eingeben",
+			"japanese": "秘密鍵の入力",
+			"mandarin": "输入私钥",
+			"korean": "개인 키 입력",
+			"english": "Input Private Key"
+		},
+		"required": {
+			"spanish": "Requerido",
+			"german": "Erforderlich",
+			"japanese": "必須",
+			"mandarin": "필수",
+			"korean": "必要",
+			"english": "Required"
+		},
+		"incorrectPassword": {
+			"spanish": "Password incorrecto",
+			"german": "Falsches Passwort eingegeben",
+			"japanese": "入力されたパスワードが正しくありません",
+			"mandarin": "密码错误",
+			"korean": "잘못된 비밀번호를 입력했습니다",
+			"english": "Incorrect Password Entered"
+		},
+		"qrErrorNeedCameraPermission": {
+			"spanish": "Debes otorgar permiso de acceso a la cámara",
+			"german": "Sie müssen die Erlaubnis zum Zugriff auf die Kamera gewähren",
+			"japanese": "カメラアクセス許可を付与する必要があります",
+			"mandarin": "您需要授予摄像机访问权限",
+			"korean": "카메라 액세스 권한을 부여해야합니다.",
+			"english": "You need to grant camera access permisson"
+		},
+		"wallet": {
+			"spanish": "Billetera",
+			"german": "Brieftasche",
+			"japanese": "財布",
+			"mandarin": "钱包",
+			"korean": "지갑",
+			"english": "Wallet"
+		},
+		"password": {
+			"spanish": "Password",
+			"german": "Passwort",
+			"japanese": "パスワード",
+			"mandarin": "密码",
+			"korean": "암호",
+			"english": "Password"
+		},
+		"qrErrorCameraAlreadyInUse": {
+			"spanish": "La cámara ya está en uso",
+			"german": "Kamera ist bereits in Gebrauch",
+			"japanese": "カメラはすでに使用されています",
+			"mandarin": "相机已在使用中",
+			"korean": "카메라가 이미 사용 중입니다.",
+			"english": "Camera is already in use"
+		},
+		"account": {
+			"spanish": "Cuenta",
+			"german": "Konto",
+			"japanese": "アカウント",
+			"mandarin": "帐户",
+			"korean": "계정",
+			"english": "Account"
+		},
+		"seedPhrase": {
+			"spanish": "Frases de semillas",
+			"german": "Samenphrasen",
+			"japanese": "シードフレーズ",
+			"mandarin": "种子短语",
+			"korean": "종자 문구",
+			"english": "Seed Phrases"
+		},
+		"import": {
+			"spanish": "Importar",
+			"german": "Importieren",
+			"japanese": "インポート",
+			"mandarin": "进口",
+			"korean": "수입",
+			"english": "Import"
+		},
+		"privateKey": {
+			"spanish": "Private Key",
+			"german": "Privat Schlüssel",
+			"japanese": "秘密鍵",
+			"mandarin": "私钥",
+			"korean": "개인 키",
+			"english": "Private Key"
+		},
+		"selectImportType": {
+			"spanish": "Selecciona el tipo de importación",
+			"german": "Importtyp auswählen:",
+			"japanese": "インポートタイプを選択：",
+			"mandarin": "选择导入类型：",
+			"korean": "가져 오기 유형을 선택하십시오.",
+			"english": "Select Import Type:"
+		}
 	}
 }
