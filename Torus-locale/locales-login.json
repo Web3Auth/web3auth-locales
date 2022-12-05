@@ -1682,7 +1682,7 @@
     }
   },
   "noDataText": {
-    "undefined": {
+    "": {
       "korean": "데이터가 없습니다.",
       "german": "Keine Daten vorhanden",
       "english": "No data available",
