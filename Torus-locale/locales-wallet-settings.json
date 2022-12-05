@@ -8,13 +8,13 @@
 			"german": "Ungültiger Reddit-Benutzername",
 			"mandarin": "无效的Reddit用户名"
 		},
-		"customKey": {
-			"spanish": "Restablecen a los predeterminados",
-			"korean": "기본값으로 재설정",
-			"japanese": "デフォルトにリセット",
-			"english": "Reset to default",
-			"german": "Zurücksetzen",
-			"mandarin": "重置为默认"
+		"customKey.invalidPrivateKeyLength": {
+			"spanish": "Longitud de la clave privada no válida",
+			"korean": "잘못된 개인 키 길이",
+			"japanese": "秘密鍵の長さが無効です",
+			"english": "Invalid private key length",
+			"german": "Ungültige Länge des privaten Schlüssels",
+			"mandarin": "私钥长度无效"
 		},
 		"withinOneWeek": {
 			"spanish": "Dentro de 1 semana",
@@ -80,6 +80,22 @@
 			"german": "Dunkler Modus",
 			"mandarin": "暗模式"
 		},
+		"customKey.invalidPrivateKey": {
+			"spanish": "Clave privada inválida",
+			"korean": "잘못된 개인 키",
+			"japanese": "無効な秘密鍵",
+			"english": "Invalid private key",
+			"german": "Ungültiger privater Schlüssel",
+			"mandarin": "私钥无效"
+		},
+		"customKey.agree": {
+			"spanish": "De acuerdo",
+			"korean": "동의하다",
+			"japanese": "同意する",
+			"english": "Agree",
+			"german": "Zustimmen",
+			"mandarin": "同意"
+		},
 		"somethingWrong": {
 			"spanish": "Algo salió mal",
 			"korean": "문제가 발생했습니다",
@@ -96,6 +112,14 @@
 			"german": "Symbol eingeben (optional)",
 			"mandarin": "输入符号（可选）"
 		},
+		"customKey.setCustomKey": {
+			"spanish": "Establecer clave personalizada",
+			"korean": "맞춤 키 설정",
+			"japanese": "カスタムキーを設定する",
+			"english": "Set custom key",
+			"german": "Benutzerdefinierten Schlüssel festlegen",
+			"mandarin": "设定自订金钥"
+		},
 		"editNetwork": {
 			"english": "Edit"
 		},
@@ -106,6 +130,14 @@
 			"english": "Private Key",
 			"german": "Privat Schlüssel",
 			"mandarin": "私钥"
+		},
+		"customKey.noteReplaceWarning": {
+			"spanish": "Nota: Esto reemplaza la clave privada de su cuenta Torus con una clave privada personalizada",
+			"korean": "참고 : 이것은 Torus 계정 개인 키를 사용자 지정 개인 키로 대체합니다.",
+			"japanese": "注：これにより、Torusアカウントの秘密鍵がカスタム秘密鍵に置き換えられます",
+			"english": "Note: This replaces your Torus account private key with a custom private key",
+			"german": "Hinweis: Dadurch wird der private Schlüssel Ihres Torus-Kontos durch einen benutzerdefinierten privaten Schlüssel ersetzt",
+			"mandarin": "注意：这会将您的Torus帐户私钥替换为自定义私钥"
 		},
 		"twitterId": {
 			"spanish": "Nombre de usuario de Twitter",
@@ -175,6 +207,14 @@
 			"english": "Enter new DApp website here",
 			"german": "Geben Sie hier die neue DApp-Website ein",
 			"mandarin": "在此处输入新的DApp网站"
+		},
+		"customKey.replace": {
+			"spanish": "Reemplazar",
+			"korean": "바꾸다",
+			"japanese": "交換",
+			"english": "Replace",
+			"german": "Ersetzen",
+			"mandarin": "更换"
 		},
 		"enterChainId": {
 			"spanish": "Ingrese la identificación de la cadena",
@@ -254,6 +294,14 @@
 		"customNetwork": {
 			"english": "Custom Networks"
 		},
+		"customKey.enterTextToContinue": {
+			"spanish": "Ingrese el texto a continuación para continuar",
+			"korean": "계속하려면 아래 텍스트를 입력하십시오",
+			"japanese": "続行するには、以下のテキストを入力してください",
+			"english": "Please enter the text below to continue",
+			"german": "Bitte geben Sie den folgenden Text ein, um fortzufahren",
+			"mandarin": "请输入以下文字以继续"
+		},
 		"enter": {
 			"spanish": "Entrar",
 			"korean": "시작하다",
@@ -270,6 +318,14 @@
 			"german": "Geben Sie ein neues Passwort ein, um Ihre Keystore-Datei zu verschlüsseln",
 			"mandarin": "输入新密码以加密您的密钥库文件"
 		},
+		"customKey.areYouSure": {
+			"spanish": "¿Estás seguro?",
+			"korean": "확실합니까?",
+			"japanese": "本気ですか？",
+			"english": "Are you sure?",
+			"german": "Bist du sicher?",
+			"mandarin": "你确定吗？"
+		},
 		"type": {
 			"spanish": "Tipo",
 			"korean": "유형",
@@ -285,6 +341,14 @@
 			"english": "Display",
 			"german": "Anzeige",
 			"mandarin": "显示"
+		},
+		"customKey.setCustomPrivateKey": {
+			"spanish": "Establecer clave privada personalizada",
+			"korean": "사용자 지정 개인 키 설정",
+			"japanese": "カスタム秘密鍵を設定する",
+			"english": "Set custom private key",
+			"german": "Legen Sie einen benutzerdefinierten privaten Schlüssel fest",
+			"mandarin": "设置自定义私钥"
 		},
 		"amount": {
 			"spanish": "Cantidad",
@@ -350,6 +414,14 @@
 			"german": "Facebook ID",
 			"mandarin": "Facebook ID"
 		},
+		"customKey.disagree": {
+			"spanish": "Discrepar",
+			"korean": "동의하지 않는다",
+			"japanese": "同意しない",
+			"english": "Disagree",
+			"german": "Nicht zustimmen",
+			"mandarin": "不同意"
+		},
 		"others": {
 			"spanish": "Otros:",
 			"korean": "기타 :",
@@ -381,6 +453,14 @@
 			"english": "Invalid GitHub username",
 			"german": "Ungültiger GitHub-Benutzername",
 			"mandarin": "无效的GitHub用户名"
+		},
+		"customKey.replaceKeyWarning": {
+			"spanish": "Esto eliminará su clave privada personalizada y la reemplazará con su clave Torus predeterminada.",
+			"korean": "이렇게하면 사용자 지정 개인 키가 제거되고 기본 Torus 키로 대체됩니다.",
+			"japanese": "これにより、カスタム秘密鍵が削除され、デフォルトのトーラス鍵に置き換えられます。",
+			"english": "This will remove your custom private key and replace it with your default Torus key.",
+			"german": "Dadurch wird Ihr benutzerdefinierter privater Schlüssel entfernt und durch Ihren Standard-Torus-Schlüssel ersetzt.",
+			"mandarin": "这将删除您的自定义私钥，并将其替换为默认的Torus密钥。"
 		},
 		"invalidEns": {
 			"spanish": "Dirección ENS no válida",
@@ -478,6 +558,14 @@
 			"german": "Ungültige Discord ID",
 			"mandarin": "无效的Discord ID"
 		},
+		"customKey.privateKeyCannotBeZero": {
+			"spanish": "La clave privada no puede ser cero",
+			"korean": "개인 키는 0 일 수 없습니다.",
+			"japanese": "秘密鍵をゼロにすることはできません",
+			"english": "Private key cannot be zero",
+			"german": "Der private Schlüssel darf nicht Null sein",
+			"mandarin": "私钥不能为零"
+		},
 		"enterContact": {
 			"spanish": "Ingrese el nombre de contacto",
 			"korean": "담당자 이름 입력",
@@ -549,6 +637,14 @@
 			"english": "ETH Address",
 			"german": "ETH-Adresse",
 			"mandarin": "ETH地址"
+		},
+		"customKey.unableToValidatePrivateKey": {
+			"spanish": "No se puede validar la clave privada",
+			"korean": "개인 키를 확인할 수 없습니다.",
+			"japanese": "秘密鍵を検証できません",
+			"english": "Unable to validate private key",
+			"german": "Privater Schlüssel kann nicht überprüft werden",
+			"mandarin": "无法验证私钥"
 		},
 		"resolveErrors": {
 			"spanish": "Resuelve los errores",
@@ -622,6 +718,14 @@
 			"german": "Innerhalb von 1 Jahr",
 			"mandarin": "1年以内"
 		},
+		"customKey.settingKey": {
+			"spanish": "Configuración de clave",
+			"korean": "설정 키",
+			"japanese": "設定キー",
+			"english": "Setting key",
+			"german": "Einstellschlüssel",
+			"mandarin": "设定键"
+		},
 		"settings": {
 			"spanish": "Configuraciones",
 			"korean": "설정",
@@ -694,6 +798,14 @@
 			"german": "Der Twitter-Benutzername beginnt mit \"@\"",
 			"mandarin": "Twitter用户名以“ @”开头"
 		},
+		"customKey.resetKeyWarning": {
+			"spanish": "Esto eliminará su clave privada y la establecerá en la clave personalizada que ha proporcionado.",
+			"korean": "이렇게하면 개인 키가 제거되고 제공 한 사용자 지정 키로 설정됩니다.",
+			"japanese": "これにより、秘密鍵が削除され、指定したカスタム鍵に設定されます。",
+			"english": "This will remove your private key and set it to the custom key that you have provided.",
+			"german": "Dadurch wird Ihr privater Schlüssel entfernt und auf den von Ihnen angegebenen benutzerdefinierten Schlüssel gesetzt.",
+			"mandarin": "这将删除您的私钥并将其设置为您提供的自定义密钥。"
+		},
 		"dappPermission": {
 			"spanish": "Permiso DApp",
 			"korean": "DApp 권한",
@@ -718,6 +830,14 @@
 			"german": "Löschen",
 			"mandarin": "删除"
 		},
+		"customKey.reloginWarning": {
+			"spanish": "Se cerrará la sesión de su billetera y se le pedirá que vuelva a iniciar sesión.",
+			"korean": "지갑에서 로그 아웃되고 다시 로그인해야합니다.",
+			"japanese": "ウォレットからログアウトし、再ログインするように求められます。",
+			"english": "You will be logged out of your wallet and asked to relogin.",
+			"german": "Sie werden von Ihrer Brieftasche abgemeldet und aufgefordert, sich erneut anzumelden.",
+			"mandarin": "您将退出钱包，并要求重新登录。"
+		},
 		"enterBlockExplorer": {
 			"spanish": "Ingrese la URL del Explorador de bloques (opcional)",
 			"korean": "블록 탐색기 URL 입력 (선택 사항)",
@@ -725,6 +845,14 @@
 			"english": "Enter Block Explorer URL (optional)",
 			"german": "Block Explorer URL eingeben (optional)",
 			"mandarin": "输入块浏览器URL（可选）"
+		},
+		"customKey.resetToDefault": {
+			"spanish": "Restablecen a los predeterminados",
+			"korean": "기본값으로 재설정",
+			"japanese": "デフォルトにリセット",
+			"english": "Reset to default",
+			"german": "Zurücksetzen",
+			"mandarin": "重置为默认"
 		},
 		"enterMaxTransaction": {
 			"spanish": "Ingrese el límite máximo de transacciones",
@@ -776,13 +904,21 @@
 			"german": "{actualFactor} von {maxFactor} Authentifizierungsfaktoren",
 			"mandarin": "{maxFactor}个验证因素中有{actualFactor}个"
 		},
-		"tkeySeedPhrase": {
-			"spanish": "Cuenta de frase semilla",
-			"korean": "Seed Phrase 계정",
-			"japanese": "シードフレーズアカウント",
-			"english": "Seed Phrase Account",
-			"german": "Seed Phrase Account",
-			"mandarin": "种子短语帐户"
+		"tkeySeedPhrase.add.description1": {
+			"spanish": "Tenemos la frase inicial de su cuenta a continuación.",
+			"korean": "아래에 귀하 계정의 시드 문구가 있습니다.",
+			"japanese": "以下にあなたのアカウントのシードフレーズがあります。",
+			"english": "We have your account’s seed phrase below.",
+			"german": "Wir haben die Startphrase Ihres Kontos unten.",
+			"mandarin": "下面是您帐户的种子词组。"
+		},
+		"tkeySeedPhrase.add.required.description1": {
+			"spanish": "El acceso a su cuenta en binance.tor.us requiere una frase inicial. Tenemos la frase semilla de su cuenta a continuación.",
+			"korean": "binance.tor.us에서 계정에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 계정 시드 문구가 있습니다.",
+			"japanese": "binance.tor.usのアカウントにアクセスするには、シードフレーズが必要です。 以下にアカウントシードフレーズがあります。",
+			"english": "Access to your account on binance.tor.us requires seed phrase. We have your account seed phrase below.",
+			"german": "Für den Zugriff auf Ihr Konto auf binance.tor.us ist eine Startphrase erforderlich. Wir haben Ihre Konto-Startphrase unten.",
+			"mandarin": "要访问binance.tor.us上的帐户，需要输入种子短语。 我们下面有您的帐户种子词组。"
 		},
 		"default": {
 			"spanish": "Defecto",
@@ -799,6 +935,14 @@
 			"english": "Switch this to Default",
 			"german": "Schalten Sie dies auf Standard",
 			"mandarin": "切换到默认"
+		},
+		"tkeySeedPhrase.add.note": {
+			"spanish": "Pegue su propia frase semilla aquí. Esto protegerá su cuenta de frase semilla con la configuración de seguridad tKey.",
+			"korean": "여기에 자신의 시드 문구를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 문구 계정을 보호 할 수 있습니다.",
+			"japanese": "ここに独自のシードフレーズを貼り付けます。 これにより、tKeyセキュリティが設定されたシードフレーズアカウントが保護されます。",
+			"english": "Paste your own seed phrase here. This will protect your seedphrase account with the tKey security set up.",
+			"german": "Fügen Sie hier Ihre eigene Samenphrase ein. Dies schützt Ihr Seedphrase-Konto mit der eingerichteten tKey-Sicherheit.",
+			"mandarin": "在此处粘贴您自己的种子短语。 这将通过tKey安全设置保护您的种子短语帐户。"
 		},
 		"deleteAuthFactor": {
 			"spanish": "Eliminar factor de autenticación",
@@ -832,6 +976,22 @@
 			"german": "Sicherheitsfrage",
 			"mandarin": "安全问题"
 		},
+		"tkeySeedPhrase.showSeedPhrase": {
+			"spanish": "Mostrar frase de semilla",
+			"korean": "시드 문구 표시",
+			"japanese": "シードフレーズを表示",
+			"english": "Show Seed Phrase",
+			"german": "Samenphrase anzeigen",
+			"mandarin": "显示种子短语"
+		},
+		"tkeySeedPhrase.title": {
+			"spanish": "tKey frase inicial",
+			"korean": "tKey 시드 문구",
+			"japanese": "tKeyシードフレーズ",
+			"english": "tKey seed phrase",
+			"german": "tKey Samenphrase",
+			"mandarin": "tKey种子短语"
+		},
 		"footerHeaderText": {
 			"spanish": "¿Qué es app.openlogin.com?",
 			"korean": "app.openlogin.com이 무엇인가요?",
@@ -839,6 +999,14 @@
 			"english": "What is app.openlogin.com?",
 			"german": "Was ist app.openlogin.com?",
 			"mandarin": "什么是 app.openlogin.com？"
+		},
+		"tkeySeedPhrase.add.required.description2": {
+			"spanish": "Guarde una copia o utilice la suya propia.",
+			"korean": "사본을 저장하거나 자신의 것을 사용하십시오.",
+			"japanese": "コピーを保存するか、ご自身でご利用ください。",
+			"english": "Please save a copy or use your own.",
+			"german": "Bitte speichern Sie eine Kopie oder verwenden Sie Ihre eigene.",
+			"mandarin": "请保存副本或使用您自己的副本。"
 		},
 		"defaultAccount": {
 			"spanish": "Cuenta predeterminada",
@@ -984,6 +1152,14 @@
 			"german": "Probieren Sie tKey aus",
 			"mandarin": "试用tKey"
 		},
+		"tkeySeedPhrase.add.required.title": {
+			"spanish": "Se requiere una frase inicial",
+			"korean": "시드 문구 필요",
+			"japanese": "シードフレーズが必要",
+			"english": "Seed phrase required",
+			"german": "Samenphrase erforderlich",
+			"mandarin": "需要种子词组"
+		},
 		"listOfAuth": {
 			"spanish": "Lista de factores de autenticación",
 			"korean": "인증 요인 목록",
@@ -999,6 +1175,14 @@
 			"english": "Wallet",
 			"german": "Brieftasche",
 			"mandarin": "钱包"
+		},
+		"tkeySeedPhrase.add.incorrect": {
+			"spanish": "Frase semilla incorrecta",
+			"korean": "잘못된 시드 문구",
+			"japanese": "シードフレーズが正しくありません",
+			"english": "Incorrect seed phrase",
+			"german": "Falsche Startphrase",
+			"mandarin": "不正确的种子词组"
 		},
 		"newList3": {
 			"spanish": "Asegure progresivamente sus activos y nunca pierda su clave",
@@ -1031,6 +1215,14 @@
 			"english": "Add new login",
 			"german": "Neuen Login hinzufügen",
 			"mandarin": "新增登入"
+		},
+		"tkeySeedPhrase.seedPhraseAccounts": {
+			"spanish": "Cuentas de frases semilla",
+			"korean": "Seed Phrase 계정",
+			"japanese": "シードフレーズアカウント",
+			"english": "Seed Phrase Accounts",
+			"german": "Seed Phrase Accounts",
+			"mandarin": "种子短语帐户"
 		},
 		"newList2": {
 			"spanish": "Accede con o sin Google",
@@ -1104,6 +1296,14 @@
 			"german": "Das ausgewählte Standardkonto ist das Konto, das angezeigt wird, wenn Sie sich bei einer DApp anmelden.",
 			"mandarin": "所选的默认帐户应为您在DApp上登录时显示的帐户。"
 		},
+		"tkeySeedPhrase.enterSeedPhrase": {
+			"spanish": "Ingrese frases semilla aquí. Su frase inicial reemplazará la frase inicial existente generada.",
+			"korean": "여기에 시드 문구를 입력하십시오. 귀하의 시드 문구가 생성 된 기존 시드 문구를 대체합니다.",
+			"japanese": "ここにシードフレーズを入力します。 シードフレーズは、生成された既存のシードフレーズを置き換えます。",
+			"english": "Enter seed phrases here. Your seed phrase will replace the existing seed phrase generated.",
+			"german": "Geben Sie hier Startphrasen ein. Ihre Startphrase ersetzt die vorhandene generierte Startphrase.",
+			"mandarin": "在此处输入种子短语。 您的种子短语将替换生成的现有种子短语。"
+		},
 		"description": {
 			"spanish": "Para administrar la configuración de seguridad de su cuenta, seleccione el enlace para continuar.",
 			"korean": "계정 보안 설정을 관리하려면 링크를 선택하여 계속하세요.",
@@ -1144,13 +1344,37 @@
 			"german": "Gerät",
 			"mandarin": "设备"
 		},
-		"tkeyCreate": {
+		"tkeySeedPhrase.add.useYourOwn": {
+			"spanish": "Usa tu propia frase semilla",
+			"korean": "나만의 시드 문구 사용",
+			"japanese": "独自のシードフレーズを使用する",
+			"english": "Use your own seed phrase",
+			"german": "Verwenden Sie Ihre eigene Samenphrase",
+			"mandarin": "使用您自己的种子短语"
+		},
+		"tkeySeedPhrase.use": {
+			"spanish": "Utilice tKey Seed Phrase",
+			"korean": "tKey Seed Phrase 사용",
+			"japanese": "tKeyシードフレーズを使用する",
+			"english": "Use tKey Seed Phrase",
+			"german": "Verwenden Sie tKey Seed Phrase",
+			"mandarin": "使用tKey种子短语"
+		},
+		"tkeyCreate.setUpSeedPhrase": {
 			"spanish": "Configura tu cuenta de Seed Phrase",
 			"korean": "Seed Phrase 계정 설정",
 			"japanese": "シードフレーズアカウントを設定します",
 			"english": "Setup your Seed Phrase account",
 			"german": "Richten Sie Ihr Seed Phrase-Konto ein",
 			"mandarin": "设置您的种子短语帐户"
+		},
+		"tkeySeedPhrase.addAccount": {
+			"spanish": "Añadir cuenta",
+			"korean": "계정을 추가",
+			"japanese": "アカウントを追加する",
+			"english": "Add Account",
+			"german": "Konto hinzufügen",
+			"mandarin": "新增帐户"
 		},
 		"new": {
 			"spanish": "Nuevo",
@@ -1168,6 +1392,22 @@
 			"german": "Konten",
 			"mandarin": "帐目"
 		},
+		"tkeySeedPhrase.add.title": {
+			"spanish": "Tu frase semilla",
+			"korean": "당신의 시드 문구",
+			"japanese": "あなたの種のフレーズ",
+			"english": "Your seed phrase",
+			"german": "Deine Samenphrase",
+			"mandarin": "你的种子语"
+		},
+		"tkeySeedPhrase.add.description2": {
+			"spanish": "Guarde una copia o utilice la suya propia.",
+			"korean": "사본을 저장하거나 자신의 것을 사용하십시오.",
+			"japanese": "コピーを保存するか、ご自身でご利用ください。",
+			"english": "Please save a copy or use your own.",
+			"german": "Bitte speichern Sie eine Kopie oder verwenden Sie Ihre eigene.",
+			"mandarin": "请保存副本或使用您自己的副本。"
+		},
 		"current": {
 			"spanish": "Actual",
 			"korean": "흐름",
@@ -1183,6 +1423,14 @@
 			"english": "2FA Key",
 			"german": "2FA-Schlüssel",
 			"mandarin": "2FA键"
+		},
+		"tkeySeedPhrase.add.note2": {
+			"spanish": "Su frase inicial reemplazará la frase inicial existente generada.",
+			"korean": "귀하의 시드 문구는 생성 된 기존 시드 문구를 대체합니다.",
+			"japanese": "シードフレーズは、生成された既存のシードフレーズを置き換えます。",
+			"english": "Your seed phrase will replace the existing seed phrase generated.",
+			"german": "Ihre Startphrase ersetzt die vorhandene generierte Startphrase.",
+			"mandarin": "您的种子短语将替换生成的现有种子短语。"
 		},
 		"changeQuestion": {
 			"spanish": "Cambiar la pregunta de seguridad",
@@ -1216,6 +1464,14 @@
 			"german": "Benutzerkonto anlegen",
 			"mandarin": "创建帐号"
 		},
+		"tkeySeedPhrase.description": {
+			"spanish": "Importe su billetera existente como tKey",
+			"korean": "기존 지갑을 tKey로 가져 오기",
+			"japanese": "既存のウォレットをtKeyとしてインポートします",
+			"english": "Import your existing wallet as a tKey",
+			"german": "Importieren Sie Ihre vorhandene Brieftasche als Schlüssel",
+			"mandarin": "将您的现有钱包作为tKey导入"
+		},
 		"twoFaWallet": {
 			"spanish": "Cuenta tKey",
 			"korean": "tKey 계정",
@@ -1223,6 +1479,14 @@
 			"english": "tKey account",
 			"german": "tKey Konto",
 			"mandarin": "tKey账户"
+		},
+		"tkeySeedPhrase.seedPhraseAccount": {
+			"spanish": "Cuenta de frase semilla",
+			"korean": "Seed Phrase 계정",
+			"japanese": "シードフレーズアカウント",
+			"english": "Seed Phrase Account",
+			"german": "Seed Phrase Account",
+			"mandarin": "种子短语帐户"
 		},
 		"clickThe": {
 			"spanish": "Haga clic en el",
