@@ -50,11 +50,11 @@
 		},
 		"reconstruct-multiple-transports-verify": {
 			"english": "Verify now",
-    "german": "Jetzt Prüfen",
-    "mandarin": "立即验证",
-    "korean": "지금 인증하십시오",
-    "japanese": "今すぐ確認してください",
-    "spanish": "Verifica ahora"
+			"german": "Jetzt Prüfen",
+			"mandarin": "立即验证",
+			"korean": "지금 인증하십시오",
+			"japanese": "今すぐ確認してください",
+			"spanish": "Verifica ahora"
 		},
 		"2fa-setup-step3-next": {
 			"mandarin": "继续",
@@ -322,11 +322,11 @@
 		},
 		"register-multiple-transports-webauthn-title": {
 			"english": "Continue with Biometrics or any Web Authentication Methods",
-    "german": "Fahren Sie mit Biometrie oder Webauthentifizierungsmethoden fort",
-    "mandarin": "继续使用生物识别技术或任何Web身份验证方法",
-    "korean": "생체 인식 또는 웹 인증 방법을 계속하십시오",
-    "japanese": "生体認証またはWeb認証方法を継続します",
-    "spanish": "Continuar con biometría o cualquier método de autenticación web"
+			"german": "Fahren Sie mit Biometrie oder Webauthentifizierungsmethoden fort",
+			"mandarin": "继续使用生物识别技术或任何Web身份验证方法",
+			"korean": "생체 인식 또는 웹 인증 방법을 계속하십시오",
+			"japanese": "生体認証またはWeb認証方法を継続します",
+			"spanish": "Continuar con biometría o cualquier método de autenticación web"
 		},
 		"register-external-transports-webauthn-title": {
 			"english": "Continue any Web Authentication Methods",
@@ -1354,19 +1354,19 @@
 		},
 		"register-multiple-transports-desc": {
 			"english": "Register your device with biometrics or any web authentication methods.",
-    "german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
-    "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
-    "korean": "생체 인식 또는 웹 인증 방법으로 장치를 등록하십시오.",
-    "japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
-    "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web."
+			"german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
+			"mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
+			"korean": "생체 인식 또는 웹 인증 방법으로 장치를 등록하십시오.",
+			"japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
+			"spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web."
 		},
 		"register-external-transports-desc": {
 			"english": "Register your device any web authentication methods.",
-    "german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
-    "mandarin": "注册您的设备任何Web身份验证方法。",
-    "korean": "웹 인증 방법을 장치에 등록하십시오.",
-    "japanese": "Web認証方法をデバイスに登録してください。",
-    "spanish": "Registre su dispositivo cualquier método de autenticación web."
+			"german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
+			"mandarin": "注册您的设备任何Web身份验证方法。",
+			"korean": "웹 인증 방법을 장치에 등록하십시오.",
+			"japanese": "Web認証方法をデバイスに登録してください。",
+			"spanish": "Registre su dispositivo cualquier método de autenticación web."
 		},
 		"mpc-2fa-setup-title3": {
 			"mandarin": "保存恢复短语",
@@ -1410,11 +1410,11 @@
 		},
 		"reconstruct-multiple-transports-desc": {
 			"english": "Only for web authentication methods that was previously set up on the following device(s)",
-    "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
-    "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
-    "korean": "다음 장치에서 이전에 설정된 웹 인증 방법에 대해서만",
-    "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
-    "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos"
+			"german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
+			"mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
+			"korean": "다음 장치에서 이전에 설정된 웹 인증 방법에 대해서만",
+			"japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
+			"spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos"
 		},
 		"register-password-confirm": {
 			"mandarin": "设定密码",
