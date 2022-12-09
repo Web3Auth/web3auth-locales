@@ -48,6 +48,14 @@
 			"korean": "Touch ID / Face ID로 확인",
 			"german": "Überprüfen Sie mit Touch ID / Face ID"
 		},
+		"reconstruct-multiple-transports-verify": {
+			"english": "Verify now",
+    "german": "Jetzt Prüfen",
+    "mandarin": "立即验证",
+    "korean": "지금 인증하십시오",
+    "japanese": "今すぐ確認してください",
+    "spanish": "Verifica ahora"
+		},
 		"2fa-setup-step3-next": {
 			"mandarin": "继续",
 			"spanish": "Continuar",
@@ -311,6 +319,22 @@
 			"japanese": "FaceIDまたはTouchIDに進む",
 			"korean": "Face ID 또는 Touch ID로 계속",
 			"german": "Fahren Sie mit Face ID oder Touch ID fort"
+		},
+		"register-multiple-transports-webauthn-title": {
+			"english": "Continue with Biometrics or any Web Authentication Methods",
+    "german": "Fahren Sie mit Biometrie oder Webauthentifizierungsmethoden fort",
+    "mandarin": "继续使用生物识别技术或任何Web身份验证方法",
+    "korean": "생체 인식 또는 웹 인증 방법을 계속하십시오",
+    "japanese": "生体認証またはWeb認証方法を継続します",
+    "spanish": "Continuar con biometría o cualquier método de autenticación web"
+		},
+		"register-external-transports-webauthn-title": {
+			"english": "Continue any Web Authentication Methods",
+			"german": "Setzen Sie alle Webauthentifizierungsmethoden fort",
+			"mandarin": "继续任何Web身份验证方法",
+			"korean": "웹 인증 방법을 계속하십시오",
+			"japanese": "Web認証方法を継続します",
+			"spanish": "Continuar cualquier método de autenticación web"
 		},
 		"popup-view-more": {
 			"mandarin": "查看更多选项",
@@ -639,6 +663,14 @@
 			"japanese": "Face ID / TouchID対応デバイス*",
 			"korean": "Face ID / Touch ID 지원 장치 *",
 			"german": "Face ID / Touch ID-fähige Geräte *"
+		},
+		"reconstruct-multiple-transports-title": {
+			"english": "Web Authentication Enabled Device(s)",
+			"german": "Webauthentifizierung aktiviertes Geräte (en)",
+			"mandarin": "Web身份验证启用设备",
+			"korean": "웹 인증 활성화 장치",
+			"japanese": "Web認証有効化デバイス",
+			"spanish": "Dispositivo (s) de autenticación web"
 		},
 		"returning-sign-in-desc": {
 			"mandarin": "继续执行以下操作之一以继续",
@@ -1088,6 +1120,14 @@
 			"korean": "Touch ID / Face ID 활성화",
 			"german": "Aktivieren Sie Touch ID / Face ID"
 		},
+		"register-multiple-transports-cta": {
+			"english": "Set it up",
+			"german": "Es einrichten",
+			"mandarin": "设置它",
+			"Korean": "설정하십시오",
+			"Japanese": "準備する",
+			"Spanish": "Prepararlo"
+		},
 		"reconstruct-backup-phrase-desc-3": {
 			"mandarin": "并发送到电子邮件：",
 			"spanish": "y enviado al correo electrónico:",
@@ -1312,6 +1352,22 @@
 			"korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 장치를 떠나지 않습니다.",
 			"german": "Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie."
 		},
+		"register-multiple-transports-desc": {
+			"english": "Register your device with biometrics or any web authentication methods.",
+    "german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
+    "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
+    "korean": "생체 인식 또는 웹 인증 방법으로 장치를 등록하십시오.",
+    "japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
+    "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web."
+		},
+		"register-external-transports-desc": {
+			"english": "Register your device any web authentication methods.",
+    "german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
+    "mandarin": "注册您的设备任何Web身份验证方法。",
+    "korean": "웹 인증 방법을 장치에 등록하십시오.",
+    "japanese": "Web認証方法をデバイスに登録してください。",
+    "spanish": "Registre su dispositivo cualquier método de autenticación web."
+		},
 		"mpc-2fa-setup-title3": {
 			"mandarin": "保存恢复短语",
 			"spanish": "Guardar frase de recuperación",
@@ -1351,6 +1407,14 @@
 			"japanese": "*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：",
 			"korean": "* 다음 장치에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
 			"german": "* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:"
+		},
+		"reconstruct-multiple-transports-desc": {
+			"english": "Only for web authentication methods that was previously set up on the following device(s)",
+    "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
+    "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
+    "korean": "다음 장치에서 이전에 설정된 웹 인증 방법에 대해서만",
+    "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
+    "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos"
 		},
 		"register-password-confirm": {
 			"mandarin": "设定密码",
