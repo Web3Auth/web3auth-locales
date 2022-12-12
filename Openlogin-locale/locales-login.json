@@ -1124,9 +1124,9 @@
 			"english": "Set it up",
 			"german": "Es einrichten",
 			"mandarin": "设置它",
-			"Korean": "설정하십시오",
-			"Japanese": "準備する",
-			"Spanish": "Prepararlo"
+			"korean": "설정하십시오",
+			"japanese": "準備する",
+			"spanish": "Prepararlo"
 		},
 		"reconstruct-backup-phrase-desc-3": {
 			"mandarin": "并发送到电子邮件：",
