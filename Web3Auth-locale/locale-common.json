@@ -198,6 +198,33 @@
 			"spanish": "Su billetera blockchain en un clic",
 			"french": "Votre portefeuille blockchain en un clic"
 		},
+		"header-subtitle-name": {
+			"english": "Your {{adapter}} wallet in one-click",
+			"german": "Ihre {{adapter}}-Brieftasche mit einem Klick",
+			"mandarin": "一键点击您的 {{adapter}} 钱包",
+			"korean": "클릭 한 번으로 {{adapter}} 지갑",
+			"japanese": "ワンクリックで {{adapter}} ウォレット",
+			"spanish": "Su billetera {{adapter}} en un solo clic",
+			"french": "Votre portefeuille {{adapter}} en un clic"
+		},
+		"header-tooltip-title": {
+			"english": "Wallet",
+			"german": "Brieftasche",
+			"mandarin": "钱包",
+			"korean": "지갑",
+			"japanese": "財布",
+			"spanish": "Billetera",
+			"french": "Porte monnaie"
+		},
+		"header-tooltip-desc": {
+			"english": "Every user needs a wallet to get started. Just like a bank account, you can store and manage your digital assets in it. Bring it anywhere with you by connecting your wallet to an application.",
+			"german": "Jeder Benutzer benötigt eine Brieftasche, um loszulegen. Genau wie bei einem Bankkonto können Sie Ihre digitalen Assets darin speichern und verwalten. Nehmen Sie es überall hin mit, indem Sie Ihre Brieftasche mit einer Anwendung verbinden.",
+			"mandarin": "每个用户都需要一个钱包才能开始。 就像银行账户一样，您可以在其中存储和管理您的数字资产。 通过将钱包连接到应用程序，将它带到任何地方。",
+			"korean": "시작하려면 모든 사용자가 지갑이 필요합니다. 은행 계좌처럼 디지털 자산을 보관하고 관리할 수 있습니다. 지갑을 애플리케이션에 연결하여 어디든 가지고 다니십시오.",
+			"japanese": "開始するには、すべてのユーザーにウォレットが必要です。 銀行口座と同じように、デジタル資産を保管して管理できます。 ウォレットをアプリケーションに接続することで、どこにでも持ち運べます。",
+			"spanish": "Cada usuario necesita una billetera para comenzar. Al igual que una cuenta bancaria, puede almacenar y administrar sus activos digitales en ella. Llévalo contigo a cualquier lugar conectando tu billetera a una aplicación.",
+			"french": "Chaque utilisateur a besoin d'un portefeuille pour commencer. Tout comme un compte bancaire, vous pouvez y stocker et gérer vos actifs numériques. Emmenez-le partout avec vous en connectant votre portefeuille à une application."
+		},
 		"footer.terms-service": {
 			"english": "Terms of Service",
 			"german": "Nutzungsbedingungen",
