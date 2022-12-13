@@ -1087,6 +1087,14 @@
 			"english": "Connect"
 		},
 		"connected": {
+			"korean": "연결됨",
+			"spanish": "Conectado",
+			"mandarin": "连接的",
+			"german": "In Verbindung gebracht",
+			"japanese": "接続済み",
+			"english": "Connected"
+		},
+		"connectedTo": {
 			"korean": "Web3 앱에서 Torus Wallet에 연결했습니다!",
 			"spanish": "¡Conectado a Torus Wallet en la aplicación Web3!",
 			"mandarin": "在 Web3 应用程序上连接到 Torus 钱包！",
