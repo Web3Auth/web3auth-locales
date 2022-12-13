@@ -81,6 +81,15 @@
 			"spanish": "Escanea el código QR con una billetera compatible con WalletConnect",
 			"french": "Scannez le QR code avec un portefeuille compatible WalletConnect"
 		},
+		"external.walletconnect-copy": {
+			"english": "Click on the QR Code to copy to clipboard",
+			"german": "Klicken Sie auf den QR-Code, um ihn in die Zwischenablage zu kopieren",
+			"mandarin": "点击二维码复制到剪贴板",
+			"korean": "클립보드에 복사하려면 QR 코드를 클릭하세요.",
+			"japanese": "QRコードをクリックしてクリップボードにコピー",
+			"spanish": "Haga clic en el código QR para copiar al portapapeles",
+			"french": "Cliquez sur le code QR pour le copier dans le presse-papiers"
+		},
 		"social.policy": {
 			"english": "We do not store any data related to your social logins.",
 			"german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
