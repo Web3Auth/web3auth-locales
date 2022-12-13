@@ -329,12 +329,12 @@
 			"spanish": "Continuar con biometría o cualquier método de autenticación web"
 		},
 		"register-external-transports-webauthn-title": {
-			"english": "Continue any Web Authentication Methods",
-			"german": "Setzen Sie alle Webauthentifizierungsmethoden fort",
-			"mandarin": "继续任何Web身份验证方法",
+			"english": "Continue with any Web Authentication Methods",
+			"german": "Fahren Sie mit allen Webauthentifizierungsmethoden fort",
+			"mandarin": "继续使用任何Web身份验证方法",
 			"korean": "웹 인증 방법을 계속하십시오",
-			"japanese": "Web認証方法を継続します",
-			"spanish": "Continuar cualquier método de autenticación web"
+			"japanese": "Web認証方法を続行します",
+			"spanish": "Continuar con cualquier método de autenticación web"
 		},
 		"popup-view-more": {
 			"mandarin": "查看更多选项",
