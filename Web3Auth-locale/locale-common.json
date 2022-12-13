@@ -199,13 +199,13 @@
 			"french": "Votre portefeuille blockchain en un clic"
 		},
 		"header-subtitle-name": {
-			"english": "Your {{adapter}} wallet in one-click",
-			"german": "Ihre {{adapter}}-Brieftasche mit einem Klick",
-			"mandarin": "一键点击您的 {{adapter}} 钱包",
-			"korean": "클릭 한 번으로 {{adapter}} 지갑",
-			"japanese": "ワンクリックで {{adapter}} ウォレット",
-			"spanish": "Su billetera {{adapter}} en un solo clic",
-			"french": "Votre portefeuille {{adapter}} en un clic"
+			"english": "Your {{appName}} wallet in one-click",
+			"german": "Ihre {{appName}}-Brieftasche mit einem Klick",
+			"mandarin": "一键点击您的 {{appName}} 钱包",
+			"korean": "클릭 한 번으로 {{appName}} 지갑",
+			"japanese": "ワンクリックで {{appName}} ウォレット",
+			"spanish": "Su billetera {{appName}} en un solo clic",
+			"french": "Votre portefeuille {{appName}} en un clic"
 		},
 		"header-tooltip-title": {
 			"english": "Wallet",
