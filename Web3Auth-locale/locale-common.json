@@ -226,13 +226,13 @@
 			"french": "Porte monnaie"
 		},
 		"header-tooltip-desc": {
-			"english": "Every user needs a wallet to get started. Just like a bank account, you can store and manage your digital assets in it. Bring it anywhere with you by connecting your wallet to an application.",
-			"german": "Jeder Benutzer benötigt eine Brieftasche, um loszulegen. Genau wie bei einem Bankkonto können Sie Ihre digitalen Assets darin speichern und verwalten. Nehmen Sie es überall hin mit, indem Sie Ihre Brieftasche mit einer Anwendung verbinden.",
-			"mandarin": "每个用户都需要一个钱包才能开始。 就像银行账户一样，您可以在其中存储和管理您的数字资产。 通过将钱包连接到应用程序，将它带到任何地方。",
-			"korean": "시작하려면 모든 사용자가 지갑이 필요합니다. 은행 계좌처럼 디지털 자산을 보관하고 관리할 수 있습니다. 지갑을 애플리케이션에 연결하여 어디든 가지고 다니십시오.",
-			"japanese": "開始するには、すべてのユーザーにウォレットが必要です。 銀行口座と同じように、デジタル資産を保管して管理できます。 ウォレットをアプリケーションに接続することで、どこにでも持ち運べます。",
-			"spanish": "Cada usuario necesita una billetera para comenzar. Al igual que una cuenta bancaria, puede almacenar y administrar sus activos digitales en ella. Llévalo contigo a cualquier lugar conectando tu billetera a una aplicación.",
-			"french": "Chaque utilisateur a besoin d'un portefeuille pour commencer. Tout comme un compte bancaire, vous pouvez y stocker et gérer vos actifs numériques. Emmenez-le partout avec vous en connectant votre portefeuille à une application."
+			"english": "Every user needs a wallet to store and manage their digital assets. Connect your wallet to an application to get started.",
+			"german": "Jeder Benutzer benötigt eine Brieftasche, um seine digitalen Assets zu speichern und zu verwalten. Verbinden Sie Ihre Brieftasche mit einer Anwendung, um loszulegen.",
+			"mandarin": "每个用户都需要一个钱包来存储和管理他们的数字资产。 将您的钱包连接到应用程序以开始使用。",
+			"korean": "모든 사용자는 디지털 자산을 저장하고 관리하기 위해 지갑이 필요합니다. 시작하려면 지갑을 애플리케이션에 연결하세요.",
+			"japanese": "すべてのユーザーは、デジタル資産を保管および管理するためにウォレットが必要です。 ウォレットをアプリケーションに接続して開始します。",
+			"spanish": "Cada usuario necesita una billetera para almacenar y administrar sus activos digitales. Conecte su billetera a una aplicación para comenzar.",
+			"french": "Chaque utilisateur a besoin d'un portefeuille pour stocker et gérer ses actifs numériques. Connectez votre portefeuille à une application pour commencer."
 		},
 		"footer.terms-service": {
 			"english": "Terms of Service",
