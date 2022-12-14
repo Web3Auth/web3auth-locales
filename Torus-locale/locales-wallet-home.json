@@ -1078,13 +1078,37 @@
 			"japanese": "Web3アプリでWalletConnectに接続するときは、QRコードの下にある[クリップボードにコピー]をクリックします。",
 			"english": "Click on “Copy to clipboard” below the QR code when connecting with WalletConnect on your Web3 App."
 		},
+		"connect": {
+			"korean": "연결하다",
+			"spanish": "Conectar",
+			"mandarin": "连接",
+			"german": "Verbinden",
+			"japanese": "接続",
+			"english": "Connect"
+		},
 		"connected": {
+			"korean": "연결됨",
+			"spanish": "Conectado",
+			"mandarin": "连接的",
+			"german": "In Verbindung gebracht",
+			"japanese": "接続済み",
+			"english": "Connected"
+		},
+		"connectedTo": {
 			"korean": "Web3 앱에서 Torus Wallet에 연결했습니다!",
 			"spanish": "¡Conectado a Torus Wallet en la aplicación Web3!",
 			"mandarin": "在 Web3 应用程序上连接到 Torus 钱包！",
 			"german": "Verbunden mit Torus Wallet in der Web3-App!",
 			"japanese": "Web3アプリでトーラスウォレットに接続しました！",
 			"english": "Connected to Torus Wallet on Web3 App!"
+		},
+		"connecting": {
+			"korean": "연결 중",
+			"spanish": "Conectando",
+			"mandarin": "连接中",
+			"german": "Verbinden",
+			"japanese": "接続中",
+			"english": "Connecting"
 		},
 		"disconnect": {
 			"korean": "연결 해제",

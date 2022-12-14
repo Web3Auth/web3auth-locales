@@ -239,6 +239,22 @@
 			"korean": "개인 키에 정보를 저장하는 파일 형식입니다.",
 			"spanish": "Este es un tipo de archivo que guarda información de tu Private Key",
 			"english": "This is a type of file format that your stores information on your Private Key."
+		},
+		"wcErrorLinkExpired": {
+			"mandarin": "QR 代码链接已过期。 请从新的 Wallet Connect 二维码中复制。",
+			"japanese": "QR コード リンクの有効期限が切れています。 新しい Wallet Connect QR コードからコピーしてください。",
+			"german": "QR-Code-Link abgelaufen. Bitte kopieren Sie von einem neuen Wallet Connect QR-Code.",
+			"korean": "QR 코드 링크가 만료되었습니다. 새 Wallet Connect QR 코드에서 복사하세요.",
+			"spanish": "El enlace del código QR caducó. Copie de un nuevo código QR de Wallet Connect.",
+			"english": "QR code link expired. Please copy from a new Wallet Connect QR code."
+		},
+		"wcErrorLinkInvalid": {
+			"mandarin": "输入无效。 请确保您从 Wallet Connect 二维码复制。",
+			"japanese": "無効入力。 必ず Wallet Connect QR コードからコピーしてください。",
+			"german": "Ungültige Eingabe. Bitte stellen Sie sicher, dass Sie den QR-Code von Wallet Connect kopieren.",
+			"korean": "잘못된 입력. Wallet Connect QR 코드에서 복사했는지 확인하십시오.",
+			"spanish": "Entrada inválida. Asegúrese de copiar el código QR de Wallet Connect.",
+			"english": "Invalid input. Please ensure you copy from the Wallet Connect QR code."
 		}
 	}
 }
