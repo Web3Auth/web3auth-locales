@@ -230,6 +230,33 @@
 			"french": "Votre portefeuille blockchain en un clic",
 			"portuguese": "A sua carteira de blockchain num clique"
 		},
+		"header-subtitle-name": {
+			"english": "Your {{appName}} wallet in one-click",
+			"german": "Ihre {{appName}}-Brieftasche mit einem Klick",
+			"mandarin": "一键点击您的 {{appName}} 钱包",
+			"korean": "클릭 한 번으로 {{appName}} 지갑",
+			"japanese": "ワンクリックで {{appName}} ウォレット",
+			"spanish": "Su billetera {{appName}} en un solo clic",
+			"french": "Votre portefeuille {{appName}} en un clic"
+		},
+		"header-tooltip-title": {
+			"english": "Wallet",
+			"german": "Brieftasche",
+			"mandarin": "钱包",
+			"korean": "지갑",
+			"japanese": "財布",
+			"spanish": "Billetera",
+			"french": "Porte monnaie"
+		},
+		"header-tooltip-desc": {
+			"english": "Every user needs a wallet to store and manage their digital assets. Connect your wallet to an application to get started.",
+			"german": "Jeder Benutzer benötigt eine Brieftasche, um seine digitalen Assets zu speichern und zu verwalten. Verbinden Sie Ihre Brieftasche mit einer Anwendung, um loszulegen.",
+			"mandarin": "每个用户都需要一个钱包来存储和管理他们的数字资产。 将您的钱包连接到应用程序以开始使用。",
+			"korean": "모든 사용자는 디지털 자산을 저장하고 관리하기 위해 지갑이 필요합니다. 시작하려면 지갑을 애플리케이션에 연결하세요.",
+			"japanese": "すべてのユーザーは、デジタル資産を保管および管理するためにウォレットが必要です。 ウォレットをアプリケーションに接続して開始します。",
+			"spanish": "Cada usuario necesita una billetera para almacenar y administrar sus activos digitales. Conecte su billetera a una aplicación para comenzar.",
+			"french": "Chaque utilisateur a besoin d'un portefeuille pour stocker et gérer ses actifs numériques. Connectez votre portefeuille à une application pour commencer."
+		},
 		"footer.terms-service": {
 			"english": "Terms of Service",
 			"german": "Nutzungsbedingungen",
