@@ -20,4 +20,4 @@ requesting your language to be added here.
 
 # Web3Auth Modal Screens
 
-![Web3Auth Modal Screens](https://user-images.githubusercontent.com/6962565/196881887-75548bea-b54a-4094-90bc-d2fda7b291a4.png)
+![Web3Auth Modal Screens](https://user-images.githubusercontent.com/6962565/208136898-64281543-f907-4696-ad98-d6f4e03decb6.png)
