@@ -6,7 +6,7 @@
             "english": "Rate",
             "spanish": "Velocidad",
             "mandarin": "率",
-            "korean": "율"
+            "korean": "비율"
         },
         "cancelled": {
             "german": "Abgesagt",
@@ -14,7 +14,7 @@
             "english": "Cancelled",
             "spanish": "Cancelado",
             "mandarin": "取消",
-            "korean": "취소 된"
+            "korean": "취소"
         },
         "cancelButtonTooltip": {
             "german": "Die Stornierung dieser Transaktion kostet Transaction",
@@ -22,7 +22,7 @@
             "english": "Canceling this Transaction will cost",
             "spanish": "Cancelar esta transacción costará",
             "mandarin": "取消此交易将花费",
-            "korean": "이 거래를 취소하면 비용이 발생합니다."
+            "korean": "이 트랜잭션을 취소하면 비용이 발생합니다."
         },
         "viewMore": {
             "german": "Mehr sehen",
@@ -38,7 +38,7 @@
             "english": "Receive",
             "spanish": "Recibir",
             "mandarin": "接收",
-            "korean": "받다"
+            "korean": "받기"
         },
         "cancelButtonTooltipDisabled": {
             "german": "Die Transaktion kann erst nach storniert werden",
@@ -46,7 +46,7 @@
             "english": "Transaction can be cancelled only after",
             "spanish": "La transacción se puede cancelar solo después de",
             "mandarin": "交易完成后才能取消",
-            "korean": "이후에만 거래를 취소할 수 있습니다."
+            "korean": "이후에야 트랜잭션을 취소할 수 있습니다."
         },
         "headerTransaction": {
             "german": "Transaktion",
@@ -70,7 +70,7 @@
             "english": "Last 1 month",
             "spanish": "Último mes",
             "mandarin": "最近1个月",
-            "korean": "지난 1 개월"
+            "korean": "지난 1개월"
         },
         "sent": {
             "german": "Geschickt",
@@ -86,7 +86,7 @@
             "english": "External transaction",
             "spanish": "Transacción externa",
             "mandarin": "对外交易",
-            "korean": "외부 거래"
+            "korean": "외부 트랜잭션"
         },
         "pending": {
             "german": "steht aus",
@@ -102,7 +102,7 @@
             "english": "Contract Deployment",
             "spanish": "Despliegue de contrato",
             "mandarin": "合同部署",
-            "korean": "계약 배포"
+            "korean": "컨트랙트 배포"
         },
         "approved": {
             "german": "Genehmigt",
@@ -118,7 +118,7 @@
             "english": "Cancel Transaction",
             "spanish": "Cancelar transacción",
             "mandarin": "取消交易",
-            "korean": "거래 취소"
+            "korean": "트랜잭션 취소"
         },
         "amount": {
             "german": "Menge",
@@ -134,7 +134,7 @@
             "english": "All Transactions",
             "spanish": "Todas las transacciones",
             "mandarin": "所有交易",
-            "korean": "모든 거래 창구"
+            "korean": "모든 트랜잭션"
         },
         "cancelModalDesc": {
             "german": "Ich bestätige, dass für diese Anfrage eine Transaktionsgebühr von . anfallen würde",
@@ -142,7 +142,7 @@
             "english": "I confirm that this request would incur a transaction fee of ",
             "spanish": "Confirmo que esta solicitud incurriría en una tarifa de transacción de",
             "mandarin": "我确认此请求将产生交易费用",
-            "korean": "본인은 이 요청에 거래 수수료가 부과됨을 확인합니다."
+            "korean": "본인은 이 요청에 트랜잭션 수수료가 부과됨을 확인합니다."
         },
         "unavailable": {
             "german": "Nicht verfügbar",
@@ -150,7 +150,7 @@
             "english": "Unavailable",
             "spanish": "No disponible",
             "mandarin": "不可用",
-            "korean": "없는"
+            "korean": "불가능"
         },
         "unsuccessful": {
             "german": "Erfolglos",
@@ -166,7 +166,7 @@
             "english": "Received",
             "spanish": "Recibido",
             "mandarin": "已收到",
-            "korean": "받았습니다"
+            "korean": "받음"
         },
         "from": {
             "german": "von",
@@ -206,7 +206,7 @@
             "english": "View On Etherscan",
             "spanish": "Ver en Etherscan",
             "mandarin": "Etherscan查寻",
-            "korean": "Etherscan에서보기"
+            "korean": "Etherscan에서 보기"
         },
         "viewOnEtherscan": {
             "german": "Blick auf Etherscan",
@@ -214,7 +214,7 @@
             "english": "View On Etherscan",
             "spanish": "Ver en Etherscan",
             "mandarin": "在Etherscan上查看",
-            "korean": "Etherscan에서보기"
+            "korean": "Etherscan에서 보기"
         },
         "cancelModalConfirm": {
             "german": "Bestätigen",
@@ -246,7 +246,7 @@
             "english": "Transaction Activities",
             "spanish": "Actividades de transacción",
             "mandarin": "交易活动",
-            "korean": "거래 활동"
+            "korean": "트랜잭션 활동"
         },
         "cancelling": {
             "german": "Stornieren",
@@ -262,7 +262,7 @@
             "english": "Contract Interaction",
             "spanish": "Interacción contractual",
             "mandarin": "合约互动",
-            "korean": "계약 상호 작용"
+            "korean": "컨트랙트 인터랙션"
         },
         "to": {
             "german": "zu",
@@ -278,7 +278,7 @@
             "english": "Network",
             "spanish": "Red",
             "mandarin": "网络",
-            "korean": "회로망"
+            "korean": "네트워크"
         },
         "cancelModalClose": {
             "german": "Schließen",
@@ -294,7 +294,7 @@
             "english": "No Transaction Activity",
             "spanish": "Sin actividad de transacción",
             "mandarin": "没有交易活动",
-            "korean": "거래 활동이 없습니다"
+            "korean": "트랜잭션 활동이 없습니다"
         },
         "headerAmount": {
             "german": "Menge",
@@ -318,7 +318,7 @@
             "english": "No transaction fees will be charged.",
             "spanish": "No serán agregados costos por transacción.",
             "mandarin": "不会收取任何交易费用。",
-            "korean": "거래 수수료는 부과되지 않습니다."
+            "korean": "트랜잭션 수수료는 부과되지 않습니다."
         },
         "external": {
             "german": "Extern",
@@ -334,7 +334,7 @@
             "english": "Last 1 week",
             "spanish": "Última semana",
             "mandarin": "最近1周",
-            "korean": "지난 1 주"
+            "korean": "지난 1주"
         },
         "headerStatus": {
             "german": "Status",
@@ -350,7 +350,7 @@
             "english": "Date",
             "spanish": "Fecha",
             "mandarin": "日期",
-            "korean": "데이트"
+            "korean": "날짜"
         },
         "cancelDate": {
             "german": "Kündigung eingeleitet am",
@@ -366,7 +366,7 @@
             "english": "Started at",
             "spanish": "Empezó a las",
             "mandarin": "开始于",
-            "korean": "에서 시작"
+            "korean": "에 시작"
         },
         "sendTo": {
             "german": "Senden an",
@@ -406,7 +406,7 @@
             "english": "Network",
             "spanish": "Red",
             "mandarin": "网络",
-            "korean": "회로망"
+            "korean": "네트워크"
         },
         "lastSixMonts": {
             "german": "Letzte 6 Monate",
@@ -414,7 +414,7 @@
             "english": "Last 6 months",
             "spanish": "Últimos 6 meses",
             "mandarin": "最近6个月",
-            "korean": "지난 6 개월"
+            "korean": "지난 6개월"
         }
     }
 }

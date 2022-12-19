@@ -12,7 +12,7 @@
             "english": "Imported Account",
             "mandarin": "汇入帐户",
             "japanese": "インポートされたアカウント",
-            "korean": "가져온 계정",
+            "korean": "불러온 계정",
             "german": "Importiertes Konto",
             "spanish": "Cuenta importada"
         },
@@ -92,7 +92,7 @@
             "english": "Input your seed phrases here",
             "mandarin": "在这里输入您的种子短语",
             "japanese": "ここにシードフレーズを入力してください",
-            "korean": "여기에 시드 문구를 입력하십시오.",
+            "korean": "여기에 시드 문구를 입력하세요.",
             "german": "Ingrese sus frases semilla aquí",
             "spanish": "Ingrese sus frases semilla aquí"
         },
@@ -108,7 +108,7 @@
             "english": "Enter your password",
             "mandarin": "输入密码",
             "japanese": "パスワードを入力してください",
-            "korean": "비밀번호를 입력하십시오",
+            "korean": "비밀번호를 입력하세요",
             "german": "Geben Sie Ihr Passwort ein",
             "spanish": "Ingrese el password"
         },
@@ -132,7 +132,7 @@
             "english": "Please upload your JSON File",
             "mandarin": "请上传您的JSON文件",
             "japanese": "JSONファイルをアップロードしてください",
-            "korean": "JSON 파일을 업로드하십시오",
+            "korean": "JSON 파일을 업로드하세요",
             "german": "Bitte laden Sie Ihre JSON-Datei hoch",
             "spanish": "Por favor subir el archivo JSON"
         },
@@ -220,7 +220,7 @@
             "english": "Select Import Type:",
             "mandarin": "选择导入类型：",
             "japanese": "インポートタイプを選択：",
-            "korean": "가져 오기 유형을 선택하십시오.",
+            "korean": "가져 오기 유형을 선택하세요.",
             "german": "Importtyp auswählen:",
             "spanish": "Selecciona el tipo de importación"
         },

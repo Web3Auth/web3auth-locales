@@ -26,7 +26,7 @@
         },
         "youSend": {
             "japanese": "送信額",
-            "korean": "당신은 보내",
+            "korean": "보내기",
             "spanish": "Usted envía",
             "german": "Du sendest",
             "mandarin": "您发送",
@@ -34,7 +34,7 @@
         },
         "txGasUtil": {
             "japanese": "TxGasUtil - コントラクトアドレス以外で実行しようとしています。",
-            "korean": "TxGasUtil-비 계약 주소에서 함수 호출",
+            "korean": "TxGasUtil- 컨트랙트가 아닌 주소에서 함수 호출",
             "spanish": "TxGasUtil: intentar llamar a una función en una dirección sin contrato",
             "german": "TxGasUtil - Es wird versucht, eine Funktion für eine Adresse ohne Vertrag aufzurufen",
             "mandarin": "TxGasUtil-尝试在非合同地址上调用函数",
@@ -74,7 +74,7 @@
         },
         "lessDetails": {
             "japanese": "少ない詳細",
-            "korean": "적은 세부 사항",
+            "korean": "세부정보 간략히 보기",
             "spanish": "Menos detalles",
             "german": "Weniger Details",
             "mandarin": "较少的细节",
@@ -82,7 +82,7 @@
         },
         "rate": {
             "japanese": "レート",
-            "korean": "율",
+            "korean": "비율",
             "spanish": "Velocidad",
             "german": "Bewertung",
             "mandarin": "率",
@@ -138,7 +138,7 @@
         },
         "contractInteraction": {
             "japanese": "コントラクトを操作",
-            "korean": "계약 상호 작용",
+            "korean": "컨트랙트 상호 작용",
             "spanish": "Interacción de contrato",
             "german": "Vertragsinteraktion",
             "mandarin": "合约互动",
@@ -162,7 +162,7 @@
         },
         "newContract": {
             "japanese": "新しいコントラクト",
-            "korean": "새로운 계약",
+            "korean": "새 컨트랙트",
             "spanish": "Nuevo contrato",
             "german": "Neuer Vertrag",
             "mandarin": "新合约",
@@ -170,7 +170,7 @@
         },
         "unknownNetwork": {
             "japanese": "不明なネットワーク",
-            "korean": "알 수없는 네트워크",
+            "korean": "알수없는 네트워크",
             "spanish": "Red desconocida",
             "german": "Unbekanntes Netzwerk",
             "mandarin": "未知的网络",
@@ -186,7 +186,7 @@
         },
         "dataSmall": {
             "japanese": "署名するデータ",
-            "korean": "서명 할 데이터",
+            "korean": "서명할 데이터",
             "spanish": "datos",
             "german": "Zu unterzeichnende Daten",
             "mandarin": "要签名的数据",
@@ -202,7 +202,7 @@
         },
         "data": {
             "japanese": "署名するデータ",
-            "korean": "서명 할 데이터",
+            "korean": "서명할 데이터",
             "spanish": "Datos",
             "german": "Zu unterzeichnende Daten",
             "mandarin": "要签名的数据",
@@ -210,7 +210,7 @@
         },
         "network": {
             "japanese": "ネットワーク",
-            "korean": "회로망",
+            "korean": "네트워크",
             "spanish": "Red",
             "german": "Netzwerk",
             "mandarin": "网络",
@@ -234,7 +234,7 @@
         },
         "moreDetails": {
             "japanese": "詳細",
-            "korean": "자세한 내용은",
+            "korean": "더 자세한 내용",
             "spanish": "Más detalles",
             "german": "Mehr Details",
             "mandarin": "更多细节",
@@ -242,7 +242,7 @@
         },
         "transactionRequest": {
             "japanese": "トランザクションリクエスト",
-            "korean": "거래 요청",
+            "korean": "트랜잭션 요청",
             "spanish": "Solicitud de transacción",
             "german": "Transaktionsanfrage",
             "mandarin": "交易要求",
@@ -266,7 +266,7 @@
         },
         "pleaseTopup2": {
             "japanese": "チャージ",
-            "korean": "위로",
+            "korean": "다시 채우기",
             "spanish": "Completar",
             "german": "Nachfüllen",
             "mandarin": "充值",
@@ -290,7 +290,7 @@
         },
         "requestFrom": {
             "japanese": "からのリクエスト",
-            "korean": "요청",
+            "korean": "로부터 요청",
             "spanish": "Solicitud de",
             "german": "Anfrage von",
             "mandarin": "要求",
@@ -314,7 +314,7 @@
         },
         "byConfirming1": {
             "japanese": "このコントラクトに最大を○○を委譲します。",
-            "korean": "이를 확인함으로써 귀하는 본 계약에 대해 최대 비용을 지출 할 수있는 권한을 부여합니다",
+            "korean": "이를 확인함으로써 귀하는 이 컨트랙트에 대해 최대 비용을 지출 할 수있는 권한을 부여합니다",
             "spanish": "Al confirmar esto, otorga permiso para que este contrato gaste hasta",
             "german": "Indem Sie dies bestätigen, erteilen Sie diesem Vertrag die Erlaubnis, bis zu",
             "mandarin": "确认后，即表示您同意此合同花费最多",
@@ -322,7 +322,7 @@
         },
         "constOfTrans": {
             "japanese": "トランザクション手数料",
-            "korean": "거래 비용",
+            "korean": "트랜잭션 비용",
             "spanish": "Costo de transacción",
             "german": "Transaktionskosten",
             "mandarin": "交易成本",
@@ -340,7 +340,7 @@
     "dappCreateTkey": {
         "linkDesc1": {
             "japanese": "tKeyアカウントはTorusWalletで利用できます。ログインできます",
-            "korean": "tKey 계정은 Torus Wallet에서 사용할 수 있습니다. 로그인 할 수 있습니다",
+            "korean": "tKey 계정은 Torus Wallet에서 사용할 수 있습니다. 로그인 가능합니다.",
             "spanish": "Una cuenta tKey está disponible en Torus Wallet. Puede iniciar sesión",
             "german": "Ein tKey-Konto ist auf Torus Wallet verfügbar. Sie können sich anmelden",
             "mandarin": "在Torus钱包上可以使用tKey帐户。您可以登入",
@@ -356,7 +356,7 @@
         },
         "linkDesc3": {
             "japanese": "それを試して、このDAppでのトランザクションの優先アカウントとして使用するには",
-            "korean": "시험 해보고이 DApp에서 거래를위한 선호 계정으로 사용하려면",
+            "korean": "시험 해보고, 이 DApp에서 트랜잭션 보내기를 선호하는 계정으로 사용하려면",
             "spanish": "para probarlo y usarlo como su cuenta preferida para transacciones en esta DApp",
             "german": "um es auszuprobieren und als Ihr bevorzugtes Konto für Transaktionen auf dieser DApp zu verwenden",
             "mandarin": "试用一下，并将其用作此DApp上交易的首选帐户",
@@ -366,7 +366,7 @@
     "dappPermission": {
         "note": {
             "japanese": "注：[許可]をクリックすると、次の{num}時間以内にアカウントとの無制限のやり取りをDAppに許可します",
-            "korean": "참고 : 허용을 클릭하면 다음 {num} 시간 이내에 계정과의 무제한 상호 작용에 대한 DApp 권한을 부여합니다",
+            "korean": "참고 : 허용을 클릭하면 다음 {num} 시간 동안 계정에 대해 DApp에게 무제한 권한을 부여합니다",
             "spanish": "NOTA: Al hacer clic en permitir, otorga permiso a la DApp para interacción ilimitada con su cuenta dentro de las próximas {num} horas.",
             "german": "HINWEIS: Wenn Sie auf Zulassen klicken, erteilen Sie die DApp-Berechtigung für die uneingeschränkte Interaktion mit Ihrem Konto innerhalb der nächsten {num} Stunden",
             "mandarin": "注意：通过单击允许，您授予DApp权限，以便在接下来的{num}小时内与您的帐户进行无限制的互动",
@@ -390,7 +390,7 @@
         },
         "transactHours": {
             "japanese": "次の{num}時間はリクエスターで取引する",
-            "korean": "다음 6 시간 동안 요청자와 거래",
+            "korean": "다음 6 시간 동안 요청한 자와 거래",
             "spanish": "Realice la transacción con el solicitante durante las próximas {num} horas",
             "german": "Transaktion mit dem Anforderer für die nächsten 6 Stunden",
             "mandarin": "在接下来的6小时内与请求者进行交易",
@@ -462,7 +462,7 @@
         },
         "displayUserInfo": {
             "japanese": "DAppは、この情報をアプリに表示して体験を最適化します。 DAppは上記の情報を保存または共有しません。",
-            "korean": "DApp은이 정보를 앱에 표시하여 경험을 개인화합니다. Dapp은 위의 정보를 저장하거나 공유하지 않습니다.",
+            "korean": "DApp은 사용자 경험을 개인화하기 위해 이 정보를 앱에 표시할 겁니다. Dapp은 위에 있는 정보를 저장하거나 공유하지 않습니다.",
             "spanish": "DApp mostrará esta información en la aplicación para personalizar su experiencia. Dapp nunca almacenará ni compartirá la información anterior.",
             "german": "DApp zeigt diese Informationen in der App an, um Ihre Erfahrung zu personalisieren. Dapp wird die oben genannten Informationen niemals speichern oder weitergeben.",
             "mandarin": "DApp将在应用程序中显示此信息，以个性化您的体验。 Dapp绝不会存储或共享上述信息。",
@@ -480,7 +480,7 @@
         },
         "termsAuth02": {
             "japanese": "Apple、GitHub、LinkedIn、Twitter、LINE、パスワードなし。",
-            "korean": "애플, 깃 허브, 링크드 인, 트위터, LINE, 패스워드리스.",
+            "korean": "애플, github, 링크드인, 트위터, LINE, 비밀번호없음 설정.",
             "spanish": "Apple, GitHub, LinkedIn, Twitter, LINE, sin contraseña.",
             "german": "Apple, GitHub, LinkedIn, Twitter, LINE, Passwortlos.",
             "mandarin": "苹果，GitHub，LinkedIn，Twitter，LINE，无密码。",
@@ -504,7 +504,7 @@
         },
         "continueWithBiometrics": {
             "japanese": "生体認証を続ける",
-            "korean": "생체 인식 계속",
+            "korean": "생체 인식으로 계속",
             "spanish": "Continuar con biometría",
             "german": "Fahren Sie mit der Biometrie fort",
             "mandarin": "继续进行生物识别",
@@ -512,7 +512,7 @@
         },
         "termsAuth01": {
             "japanese": "次のサインインには、サードパーティの認証システムが関係しています。",
-            "korean": "다음 로그인에는 타사 인증자가 포함됩니다.",
+            "korean": "다음 로그인에는 외부 인증자(써드 파티)가 포함됩니다.",
             "spanish": "Los siguientes inicios de sesión involucran a un autenticador de terceros:",
             "german": "An den folgenden Anmeldungen ist ein Authentifizierer eines Drittanbieters beteiligt:",
             "mandarin": "以下登录涉及第三方身份验证器：",
@@ -528,7 +528,7 @@
         },
         "howWorks": {
             "japanese": "これはどのように作動しますか？",
-            "korean": "어떻게 작동합니까?",
+            "korean": "어떻게 작동하나요?",
             "spanish": "¿Como funciona esto?",
             "german": "Wie funktioniert das?",
             "mandarin": "这是如何运作的？",
@@ -536,7 +536,7 @@
         },
         "note": {
             "japanese": "注意：",
-            "korean": "노트 :",
+            "korean": "참고 :",
             "spanish": "Nota:",
             "german": "Hinweis:",
             "mandarin": "注意：",
@@ -626,7 +626,7 @@
     "dappProvider": {
         "decryptMessage": {
             "japanese": "メッセージを復号化する",
-            "korean": "메시지 복호화",
+            "korean": "메시지 암호 해독(복호화)하기",
             "spanish": "Descifrar mensaje",
             "german": "Nachricht entschlüsseln",
             "mandarin": "解密消息",
@@ -642,7 +642,7 @@
         },
         "decryptionRequest": {
             "japanese": "復号化リクエスト",
-            "korean": "복호화 요청",
+            "korean": "암호 해독(복호화) 요청",
             "spanish": "Solicitud de descifrado",
             "german": "Entschlüsselungsanforderung",
             "mandarin": "解密请求",
@@ -650,7 +650,7 @@
         },
         "allowRead": {
             "japanese": "{dappname}がこのメッセージを読み取って、アクションを完了することを許可します。",
-            "korean": "작업을 완료하려면 {dappname}이이 메시지를 읽을 수 있도록 허용하세요.",
+            "korean": "작업을 완료하려면 {dappname}이 이 메시지를 읽을 수 있도록 허용하세요.",
             "spanish": "Permita que {dappname} lea este mensaje para completar su acción.",
             "german": "Erlauben Sie {dappname}, diese Nachricht zu lesen, um Ihre Aktion abzuschließen.",
             "mandarin": "允许{dappname}阅读此消息以完成操作。",
@@ -722,7 +722,7 @@
         },
         "toChangeNetwork": {
             "japanese": "ネットワークを変更するには",
-            "korean": "네트워크를로 변경하려면",
+            "korean": "네트워크를 변경하려면",
             "spanish": "Para cambiar su red a",
             "german": "So ändern Sie Ihr Netzwerk auf",
             "mandarin": "要将您的网络更改为",
