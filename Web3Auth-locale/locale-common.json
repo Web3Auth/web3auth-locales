@@ -226,13 +226,13 @@
 			"french": "Porte monnaie"
 		},
 		"header-tooltip-desc": {
-			"english": "Every user needs a wallet to store and manage their digital assets. Connect your wallet to an application to get started.",
-			"german": "Jeder Benutzer benötigt eine Brieftasche, um seine digitalen Assets zu speichern und zu verwalten. Verbinden Sie Ihre Brieftasche mit einer Anwendung, um loszulegen.",
-			"mandarin": "每个用户都需要一个钱包来存储和管理他们的数字资产。 将您的钱包连接到应用程序以开始使用。",
-			"korean": "모든 사용자는 디지털 자산을 저장하고 관리하기 위해 지갑이 필요합니다. 시작하려면 지갑을 애플리케이션에 연결하세요.",
-			"japanese": "すべてのユーザーは、デジタル資産を保管および管理するためにウォレットが必要です。 ウォレットをアプリケーションに接続して開始します。",
-			"spanish": "Cada usuario necesita una billetera para almacenar y administrar sus activos digitales. Conecte su billetera a una aplicación para comenzar.",
-			"french": "Chaque utilisateur a besoin d'un portefeuille pour stocker et gérer ses actifs numériques. Connectez votre portefeuille à une application pour commencer."
+			"english": "The wallet serves as an account for you to store and manage your digital assets on the blockchain.",
+			"german": "Die Brieftasche dient Ihnen als Konto zum Speichern und Verwalten Ihrer digitalen Assets in der Blockchain.",
+			"mandarin": "钱包作为您在区块链上存储和管理您的数字资产的账户。",
+			"korean": "지갑은 블록체인에서 디지털 자산을 저장하고 관리할 수 있는 계정 역할을 합니다.",
+			"japanese": "ウォレットは、ブロックチェーン上でデジタル資産を保存および管理するためのアカウントとして機能します。",
+			"spanish": "La billetera sirve como una cuenta para que almacene y administre sus activos digitales en la cadena de bloques.",
+			"french": "Le portefeuille vous sert de compte pour stocker et gérer vos actifs numériques sur la blockchain."
 		},
 		"footer.terms-service": {
 			"english": "Terms of Service",
