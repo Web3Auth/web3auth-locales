@@ -4,7 +4,7 @@
             "mandarin": "显示私钥",
             "german": "Privaten Schlüssel anzeigen",
             "spanish": "Mostrar clave privada",
-            "korean": "개인 키 표시",
+            "korean": "개인 키 보이기",
             "japanese": "秘密鍵を表示",
             "english": "Show Private Key"
         },
@@ -20,7 +20,7 @@
             "mandarin": "ERC 20总货运次",
             "german": "ERC 20 Transaktionen",
             "spanish": "ERC 20 Transacciones",
-            "korean": "ERC 20 거래",
+            "korean": "ERC 20 트랜잭션",
             "japanese": "ERC 20トランザクション",
             "english": "ERC 20 Transactions"
         },
@@ -28,7 +28,7 @@
             "mandarin": "崩溃报告",
             "german": "Absturzberichte",
             "spanish": "Informe de fallos",
-            "korean": "충돌 보고",
+            "korean": "오류 보고",
             "japanese": "クラッシュレポート",
             "english": "Crash Reporting"
         },
@@ -76,7 +76,7 @@
             "mandarin": "这将删除您的私钥并将其设置为您提供的自定义密钥。",
             "german": "Dadurch wird Ihr privater Schlüssel entfernt und auf den von Ihnen angegebenen benutzerdefinierten Schlüssel gesetzt.",
             "spanish": "Esto eliminará su clave privada y la establecerá en la clave personalizada que ha proporcionado.",
-            "korean": "이렇게하면 개인 키가 제거되고 제공 한 사용자 지정 키로 설정됩니다.",
+            "korean": "이렇게하면 개인 키가 제거되고 제공된 사용자 지정 키로 설정됩니다.",
             "japanese": "これにより、秘密鍵が削除され、指定したカスタム鍵に設定されます。",
             "english": "This will remove your private key and set it to the custom key that you have provided."
         },
@@ -100,7 +100,7 @@
             "mandarin": "删除",
             "german": "Löschen",
             "spanish": "Eliminar",
-            "korean": "지우다",
+            "korean": "삭제",
             "japanese": "削除",
             "english": "Delete"
         },
@@ -108,7 +108,7 @@
             "mandarin": "输入块浏览器URL（可选）",
             "german": "Block Explorer URL eingeben (optional)",
             "spanish": "Ingrese la URL del Explorador de bloques (opcional)",
-            "korean": "블록 탐색기 URL 입력 (선택 사항)",
+            "korean": "블록 익스플로러 URL 입력 (선택 사항)",
             "japanese": "ブロックエクスプローラーのURLを入力します（オプション）",
             "english": "Enter Block Explorer URL (optional)"
         },
@@ -116,7 +116,7 @@
             "mandarin": "您将退出钱包，并要求重新登录。",
             "german": "Sie werden von Ihrer Brieftasche abgemeldet und aufgefordert, sich erneut anzumelden.",
             "spanish": "Se cerrará la sesión de su billetera y se le pedirá que vuelva a iniciar sesión.",
-            "korean": "지갑에서 로그 아웃되고 다시 로그인해야합니다.",
+            "korean": "지갑에서 로그아웃되고 이후 다시 로그인해야합니다.",
             "japanese": "ウォレットからログアウトし、再ログインするように求められます。",
             "english": "You will be logged out of your wallet and asked to relogin."
         },
@@ -140,7 +140,7 @@
             "mandarin": "網絡正在加載",
             "german": "Netzwerk wird geladen",
             "spanish": "ネットワークが読み込まれています",
-            "korean": "네트워크 로드 중",
+            "korean": "네트워크 로딩 중",
             "japanese": "ネットワークが読み込まれています",
             "english": "network is loading"
         },
@@ -148,7 +148,7 @@
             "mandarin": "网络变化",
             "german": "Wechsel des Netzwerks",
             "spanish": "Cambio de Red",
-            "korean": "네트워크의 변화",
+            "korean": "네트워크 변경",
             "japanese": "ネットワークの変更",
             "english": "Change of Network"
         },
@@ -172,7 +172,7 @@
             "mandarin": "私钥长度无效",
             "german": "Ungültige Länge des privaten Schlüssels",
             "spanish": "Longitud de la clave privada no válida",
-            "korean": "잘못된 개인 키 길이",
+            "korean": "잘못된 개인키 길이",
             "japanese": "秘密鍵の長さが無効です",
             "english": "Invalid private key length"
         },
@@ -180,7 +180,7 @@
             "mandarin": "1周内",
             "german": "Innerhalb 1 Woche",
             "spanish": "Dentro de 1 semana",
-            "korean": "1 주일 이내",
+            "korean": "1주일 이내",
             "japanese": "1週間以内",
             "english": "Within 1 Week"
         },
@@ -340,7 +340,7 @@
             "mandarin": "崩溃报告被禁用",
             "german": "Absturzbericht wurde deaktiviert",
             "spanish": "Se inhabilitó el informe de fallas",
-            "korean": "충돌 보고서가 사용 중지되었습니다.",
+            "korean": "오류 보고서가 중지되었습니다.",
             "japanese": "クラッシュレポートが無効になりました",
             "english": "Crash report was disabled"
         },
@@ -348,7 +348,7 @@
             "mandarin": "无效的Discord ID",
             "german": "Ungültige Discord ID",
             "spanish": "ID de Discord no válido",
-            "korean": "잘못된 불일치 ID",
+            "korean": "잘못된 Discord ID",
             "japanese": "無効な不一致ID",
             "english": "Invalid Discord ID"
         },
@@ -372,7 +372,7 @@
             "mandarin": "输入联系人姓名",
             "german": "Geben Sie den Kontaktnamen ein",
             "spanish": "Ingrese el nombre de contacto",
-            "korean": "담당자 이름 입력",
+            "korean": "연락처 이름 입력",
             "japanese": "連絡先名を入力してください",
             "english": "Enter Contact Name"
         },
@@ -428,7 +428,7 @@
             "mandarin": "App.openlogin 是一个开放标准，用于通过 Web3Auth 在 Web3 上分散管理用户帐户",
             "german": "App.openlogin ist ein offener Standard für die dezentrale Verwaltung von Benutzerkonten auf Web3 von Web3Auth",
             "spanish": "App.openlogin es un estándar abierto para la gestión descentralizada de cuentas de usuario en Web3 a través de Web3Auth.",
-            "korean": "App.openlogin은 Web3Auth를 통해 Web3에서 사용자 계정을 분산 관리하기 위한 개방형 표준입니다.",
+            "korean": "App.openlogin은 Web3Auth를 통해 Web3에서 사용자 계정을 분산 관리하기 위한 오픈 스탠다드입니다.",
             "japanese": "App.openloginは、Web3Authを介してWeb3上のユーザーアカウントを分散管理するためのオープンスタンダードです。",
             "english": "App.openlogin is an open standard for decentralized user account management on Web3, by Web3Auth"
         },
@@ -484,7 +484,7 @@
             "mandarin": "合约互动",
             "german": "Vertragsinteraktion",
             "spanish": "Interacción de contrato",
-            "korean": "계약 상호 작용",
+            "korean": "컨트랙트 상호 작용",
             "japanese": "コントラクトの操作",
             "english": "Contract Interaction"
         },
@@ -508,7 +508,7 @@
             "mandarin": "Reddit用户名",
             "german": "Reddit Benutzername",
             "spanish": "Nombre de usuario de Reddit",
-            "korean": "레딧 사용자 이름",
+            "korean": "Reddit 사용자 이름",
             "japanese": "Redditユーザー名",
             "english": "Reddit Username"
         },
@@ -532,7 +532,7 @@
             "mandarin": "1年以内",
             "german": "Innerhalb von 1 Jahr",
             "spanish": "Dentro de 1 año",
-            "korean": "1 년 이내",
+            "korean": "1년 이내",
             "japanese": "1年以内に",
             "english": "Within 1 Year"
         },
@@ -540,7 +540,7 @@
             "mandarin": "设定键",
             "german": "Einstellschlüssel",
             "spanish": "Configuración de clave",
-            "korean": "설정 키",
+            "korean": "키 설정",
             "japanese": "設定キー",
             "english": "Setting key"
         },
@@ -572,7 +572,7 @@
             "mandarin": "输入最大交易限额",
             "german": "Geben Sie das maximale Transaktionslimit ein",
             "spanish": "Ingrese el límite máximo de transacciones",
-            "korean": "최대 거래 한도 입력",
+            "korean": "최대 트랜잭션 한도 입력",
             "japanese": "最大取引限度額を入力してください",
             "english": "Enter Max Transaction Limit"
         },
@@ -596,7 +596,7 @@
             "mandarin": "1小时内",
             "german": "Innerhalb 1 Stunde",
             "spanish": "Dentro de 1 hora",
-            "korean": "1 시간 이내",
+            "korean": "1시간 이내",
             "japanese": "1時間以内",
             "english": "Within 1 Hour"
         },
@@ -604,7 +604,7 @@
             "mandarin": "更新的网络提供商",
             "german": "Aktualisierter Netzwerkanbieter",
             "spanish": "Proveedor de red actualizado",
-            "korean": "업데이트 된 네트워크 공급자",
+            "korean": "업데이트 된 네트워크 프로바이더",
             "japanese": "更新されたネットワークプロバイダー",
             "english": "Updated Network Provider"
         },
@@ -612,7 +612,7 @@
             "mandarin": "网络",
             "german": "Netzwerk",
             "spanish": "Red",
-            "korean": "회로망",
+            "korean": "네트워크",
             "japanese": "ネットワーク",
             "english": "Network"
         },
@@ -628,7 +628,7 @@
             "mandarin": "帐户详细资料",
             "german": "Kontodetails",
             "spanish": "Detalles de la cuenta",
-            "korean": "계정 정보",
+            "korean": "계정 상세정보",
             "japanese": "アカウント詳細",
             "english": "Account Details"
         },
@@ -644,7 +644,7 @@
             "mandarin": "更换",
             "german": "Ersetzen",
             "spanish": "Reemplazar",
-            "korean": "바꾸다",
+            "korean": "바꾸기",
             "japanese": "交換",
             "english": "Replace"
         },
@@ -684,7 +684,7 @@
             "mandarin": "作为一种安全形式，所有交易都需要您的签名才能进行验证。您可以添加并允许某些Dapp在某些情况下进行交易。",
             "german": "Aus Sicherheitsgründen benötigen alle Transaktionen zur Validierung Ihre Unterschrift. Sie können unter bestimmten Umständen bestimmte Dapps hinzufügen und Transaktionen zulassen.",
             "spanish": "Como forma de seguridad, todas las transacciones requieren su firma para su validación. Puede agregar y permitir que determinadas Dapps realicen transacciones en determinadas circunstancias.",
-            "korean": "보안의 한 형태로, 모든 거래에는 검증을 위해 서명이 필요합니다. 특정 상황에서 특정 Dapps를 추가하고 거래 할 수 있습니다.",
+            "korean": "보안상 모든 트랜잭션에는 검증을 위해 시그니쳐가 필요합니다. 특정 상황에서 트랜잭션 할 수 있도록 특정 Dapps를 추가하고 허가할 수 있습니다.",
             "japanese": "セキュリティ上、すべてのトランザクションには署名が必要です。Dappを追加すると取引することができます。",
             "english": "As a form of security, all transactions require your signature for validation. You may add and allow certain Dapps to transact under certain circumstances."
         },
@@ -764,7 +764,7 @@
             "mandarin": "崩溃报告已启用",
             "german": "Absturzbericht wurde aktiviert",
             "spanish": "Se habilitó el informe de fallas",
-            "korean": "충돌 보고서가 활성화되었습니다.",
+            "korean": "오류 보고서가 활성화되었습니다.",
             "japanese": "クラッシュレポートが有効になりました",
             "english": "Crash report was enabled"
         },
@@ -796,7 +796,7 @@
             "mandarin": "合同部署",
             "german": "Vertragsbereitstellung",
             "spanish": "Despliegue de contrato",
-            "korean": "계약 배포",
+            "korean": "컨트랙트 배포",
             "japanese": "コントラクトのデプロイ",
             "english": "Contract Deployment"
         },
@@ -836,7 +836,7 @@
             "mandarin": "不同意",
             "german": "Nicht zustimmen",
             "spanish": "Discrepar",
-            "korean": "동의하지 않는다",
+            "korean": "비동의",
             "japanese": "同意しない",
             "english": "Disagree"
         },
@@ -852,7 +852,7 @@
             "mandarin": "隐私",
             "german": "Privatsphäre",
             "spanish": "Oculto",
-            "korean": "은둔",
+            "korean": "개인 정보",
             "japanese": "隠された",
             "english": "Privacy"
         },
@@ -960,7 +960,7 @@
             "mandarin": "选择因素",
             "german": "Wählen Sie Faktor",
             "spanish": "Seleccionar factor",
-            "korean": "요인 선택",
+            "korean": "팩터 선택",
             "japanese": "係数を選択",
             "english": "Select Factor"
         },
@@ -1176,7 +1176,7 @@
             "mandarin": "你的种子语",
             "german": "Deine Samenphrase",
             "spanish": "Tu frase semilla",
-            "korean": "당신의 시드 문구",
+            "korean": "당신의 시드 구문",
             "japanese": "あなたの種のフレーズ",
             "english": "Your seed phrase"
         },
@@ -1368,7 +1368,7 @@
             "mandarin": "自我保管",
             "german": "Auto custodia",
             "spanish": "Auto custodia",
-            "korean": "자기 관리",
+            "korean": "셀프 커스터디얼",
             "japanese": "自己管理",
             "english": "Self custodial"
         },

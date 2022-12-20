@@ -14,7 +14,7 @@
             "japanese": "支払金額",
             "german": "Sie bezahlen",
             "mandarin": "付款",
-            "korean": "당신은 보내"
+            "korean": "지불하기"
         },
         "receive": {
             "spanish": "Recibes",
@@ -22,7 +22,7 @@
             "japanese": "受取額",
             "german": "Erhalten",
             "mandarin": "接收",
-            "korean": "받다"
+            "korean": "받기"
         },
         "limits": {
             "spanish": "Límites",
@@ -30,7 +30,7 @@
             "japanese": "上限",
             "german": "Grenzen",
             "mandarin": "限度",
-            "korean": "제한"
+            "korean": "제한(한도)"
         },
         "otherModeDesc": {
             "spanish": "y tratáremos de mejorar nuestro servicio",
@@ -38,7 +38,7 @@
             "japanese": "そして私たちはあなたを改善し、あなたにより良く奉仕するために最善を尽くします",
             "german": "und wir würden unser Bestes geben, um uns zu verbessern und Ihnen besser zu dienen",
             "mandarin": "我们会尽力改善并更好地为您服务",
-            "korean": "우리는 당신을 개선하고 더 나은 서비스를 제공하기 위해 최선을 다할 것입니다"
+            "korean": "우리는 더 나은 서비스를 제공하기 위해 개선하고 최선을 다하겠습니다."
         },
         "receiveHintRamp": {
             "spanish": "Necesitas comprobar identificación para depositar 1,000EUR por día o 10,000EUR por mes",
@@ -62,7 +62,7 @@
             "japanese": "手続きにかかる時間",
             "german": "Der Prozess würde ungefähr dauern",
             "mandarin": "该过程大约需要",
-            "korean": "이 과정에는 약"
+            "korean": "이 과정에는 대략 소요됩니다"
         },
         "selectProvider": {
             "spanish": "Selecciona un Proveedor",
@@ -86,7 +86,7 @@
             "japanese": "最小",
             "german": "Minimum",
             "mandarin": "最低",
-            "korean": "최저한의"
+            "korean": "최소"
         },
         "contact2": {
             "spanish": "contactarnos",
@@ -102,7 +102,7 @@
             "japanese": "Crypto.comは、クレジットカードで暗号通貨を購入する安全な方法です。アプリケーションをインストールすることから始めます",
             "german": "Crypto.com ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Kreditkarte zu kaufen. Beginnen Sie mit der Installation ihrer Anwendung",
             "mandarin": "Crypto.com是使用信用卡购买加密货币的安全方法。首先安装他们的应用程序",
-            "korean": "Crypto.com은 신용 카드로 암호 화폐를 구매하는 안전한 방법입니다. 그들의 응용 프로그램을 설치하여 시작"
+            "korean": "Crypto.com은 신용 카드로 암호 화폐를 구매하는 안전한 방법입니다. 앱을 설치하여 시작"
         },
         "currencies": {
             "spanish": "Monedas",
@@ -118,7 +118,7 @@
             "japanese": "の取引費用を含む",
             "german": "Beinhaltet Transaktionskosten von",
             "mandarin": "包括交易成本",
-            "korean": "의 거래 비용을 포함합니다."
+            "korean": "의 트랜잭션 비용을 포함합니다."
         },
         "paywith": {
             "spanish": "Pagar con",
@@ -142,7 +142,7 @@
             "japanese": "レート",
             "german": "Bewertung",
             "mandarin": "率",
-            "korean": "율"
+            "korean": "비율"
         },
         "otherMode": {
             "spanish": "Utilizar otro método de pago?",
@@ -174,7 +174,7 @@
             "japanese": "この料金は完全に",
             "german": "Diese Gebühr geht vollständig an",
             "mandarin": "这笔费用全部用于",
-            "korean": "이 수수료는 전적으로"
+            "korean": "이 수수료는 전적으로 보내집니다"
         },
         "serviceFee": {
             "spanish": "Cuota de servicio",
@@ -222,7 +222,7 @@
             "japanese": "は、暗号通貨を購入する安全なサービスです。以下に購入希望額を入力して、金額に間違いがないか確認の上、購入手続きを進めてください。",
             "german": "ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Zahlungsmethode zu kaufen. Geben Sie zunächst einen Betrag ein, um ein Angebot zu erhalten, bevor Sie einen Kauf tätigen",
             "mandarin": "是一种通过付款方式购买加密货币的安全方法。首先在购买时输入以下金额以获取报价",
-            "korean": "귀하의 지불 방법으로 암호 화폐를 구매하는 안전한 방법입니다. 구매하기 전에 아래 금액을 입력하여 견적을 받으십시오."
+            "korean": "귀하의 지불 방식으로 암호 화폐를 구매하는 안전한 방법입니다. 구매 전 아래에 금액을 입력하여 견적을 받아보세요."
         },
         "doesntInclude": {
             "spanish": "No incluye",
@@ -246,7 +246,7 @@
             "japanese": "プロバイダーの購入ページに飛びます",
             "german": "Sie werden auf die Seite eines Drittanbieters weitergeleitet",
             "mandarin": "您将被重定向到第三方页面",
-            "korean": "당신은 제 3 자 페이지로 리디렉션됩니다"
+            "korean": "당신은 제3(써드파티) 페이지로 리디렉션됩니다"
         },
         "fees": {
             "spanish": "Cuota",

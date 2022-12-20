@@ -82,7 +82,7 @@
         },
         "tkeyUseful": {
             "german": "Dies ist nützlich für Benutzer, die mehr Kontrolle über ihr Konto haben möchten, insbesondere wenn sie in Zukunft eine erhebliche Summe in ihrer Brieftasche haben.",
-            "korean": "이는 특히 향후 지갑에 상당한 금액이있을 때 자신의 계정을 더 많이 제어하려는 사용자에게 유용합니다.",
+            "korean": "이는 특히 향후 지갑에 상당한 금액이 있을 때 자신의 계정을 더 많이 제어하려는 사용자에게 유용합니다.",
             "spanish": "Esto es útil para los usuarios que desean tener más control sobre su cuenta, especialmente cuando tienen una suma significativa en su billetera en el futuro.",
             "english": "This is useful for users who would like to have more control over their account, especially when they have a significant sum in their wallet in future.",
             "mandarin": "这对于希望对自己的帐户有更多控制权的用户很有用，尤其是在将来他们的钱包中有大量现金时。",
@@ -98,7 +98,7 @@
         },
         "multipleFactors": {
             "german": "Mehrere Authentifizierungsfaktoren",
-            "korean": "여러 인증 요소",
+            "korean": "멀티 팩터",
             "spanish": "Múltiples factores de autenticación",
             "english": "Multiple factors of authentication",
             "mandarin": "认证的多重因素",
@@ -178,7 +178,7 @@
         },
         "notNow": {
             "german": "Nicht jetzt",
-            "korean": "지금은 아니야",
+            "korean": "지금은 아닙니다",
             "spanish": "Ahora no",
             "english": "Not now",
             "mandarin": "现在不要",
@@ -212,7 +212,7 @@
     "tkeyCreate": {
         "walletAddressDesc": {
             "german": "Dies ist Ihre eindeutige Adresse, ähnlich einer Bankkontonummer, die zum Empfangen von Zahlungen verwendet wird.",
-            "korean": "지급금을받는 데 사용되는 은행 계좌 번호와 유사한 고유 주소입니다.",
+            "korean": "지급금을 받는 데 사용되는 은행 계좌 번호와 유사한 고유 주소입니다.",
             "spanish": "Esta es su dirección única, similar a un número de cuenta bancaria que se utiliza para recibir pagos.",
             "english": "This is your unique address, similar to a bank account number used to receive payments.",
             "mandarin": "这是您的唯一地址，类似于用于接收付款的银行帐号。",
@@ -228,7 +228,7 @@
         },
         "greatCreated": {
             "german": "Toll! Sie sind alle eingerichtet!",
-            "korean": "큰! 설정이 완료되었습니다!",
+            "korean": "좋습니다! 설정이 완료되었습니다!",
             "spanish": "¡Excelente! ¡Ya está todo listo!",
             "english": "Great! You are all set up!",
             "mandarin": "大！你们都准备好了！",
@@ -278,7 +278,7 @@
         },
         "secureTorus": {
             "german": "Sichere Torus-Anmeldung",
-            "korean": "보안 토러스 로그인",
+            "korean": "secure Torus 로그인",
             "spanish": "Iniciar sesión Secure Torus",
             "english": "Secure Torus sign in",
             "mandarin": "安全Torus登录",
@@ -318,7 +318,7 @@
         },
         "matchRefId2": {
             "german": "und bestätige, dass du es bist",
-            "korean": "그리고 이것이 당신인지 확인하십시오",
+            "korean": "그리고 이것이 당신인지 확인하세요",
             "spanish": "y confirma que eres tú",
             "english": "and confirm this is you",
             "mandarin": "并确认这是你",
@@ -406,7 +406,7 @@
         },
         "theFollowing": {
             "german": "Folgendes wurde als Authentifikator hinzugefügt.",
-            "korean": "다음이 인증 자로 추가되었습니다.",
+            "korean": "다음이 authenticator로 추가되었습니다.",
             "spanish": "Se ha agregado lo siguiente como autenticador.",
             "english": "The following has been added as an authenticator.",
             "mandarin": "以下已添加为验证者。",
@@ -414,7 +414,7 @@
         },
         "errorIncorrectPass": {
             "german": "Contraseña incorrecta. Inténtalo de nuevo",
-            "korean": "잘못된 비밀번호. 다시 시도하십시오",
+            "korean": "잘못된 비밀번호. 다시 시도하세요",
             "spanish": "Contraseña incorrecta. Inténtalo de nuevo",
             "english": "Incorrect password. Please try again",
             "mandarin": "密码错误。请再试一遍",
@@ -430,7 +430,7 @@
         },
         "oopsDidntWork": {
             "german": "Ups, das hat nicht funktioniert. Bitte neu laden und erneut versuchen.",
-            "korean": "죄송합니다. 작동하지 않았습니다. 새로 고침하고 다시 시도하십시오.",
+            "korean": "죄송합니다, 작동하지 않았습니다. 새로 고침하고 다시 시도하세요.",
             "spanish": "Vaya, eso no funcionó. Vuelva a cargar e inténtelo de nuevo.",
             "english": "Oops, That didn't work. Please reload and try again.",
             "mandarin": "糟糕，那没有用。请重新加载，然后重试。",
@@ -454,7 +454,7 @@
         },
         "returnHome": {
             "german": "Nach Hause zurückkehren",
-            "korean": "집에 돌아 간다",
+            "korean": "홈으로 이동",
             "spanish": "Volver a casa",
             "english": "Return Home",
             "mandarin": "回家",
@@ -470,7 +470,7 @@
         },
         "doNotSave": {
             "german": "Browser nicht speichern",
-            "korean": "브라우저를 저장하지 마십시오",
+            "korean": "브라우저를 저장하지 마세요",
             "spanish": "No guardar navegador",
             "english": "Do not save browser",
             "mandarin": "不保存浏览器",
@@ -486,7 +486,7 @@
         },
         "newLoginDetected": {
             "german": "Neues Login erkannt",
-            "korean": "새 로그인 감지",
+            "korean": "새 로그인이 감지되었습니다.",
             "spanish": "Nuevo inicio de sesión detectado",
             "english": "New login detected",
             "mandarin": "检测到新登录",
@@ -494,7 +494,7 @@
         },
         "confirmYourBrowser": {
             "german": "Bestätigen Sie Ihre Browser- und Gerätedetails.",
-            "korean": "브라우저 및 장치 세부 정보를 확인하십시오.",
+            "korean": "브라우저 및 장치 세부 정보를 확인하세요.",
             "spanish": "Confirme los detalles de su navegador y dispositivo.",
             "english": "Confirm your browser and device details.",
             "mandarin": "确认您的浏览器和设备详细信息。",
@@ -542,7 +542,7 @@
         },
         "verifyWithPass": {
             "german": "Bitte geben Sie das diesem Konto zugeordnete Passwort ein, um fortzufahren.",
-            "korean": "계속하려면이 계정과 연결된 암호를 입력하십시오.",
+            "korean": "계속하려면 이 계정과 연결된 암호를 입력하십시오.",
             "spanish": "Ingrese la contraseña asociada con esta cuenta para continuar.",
             "english": "Please enter the password associated with this account to continue.",
             "mandarin": "请输入与此帐户关联的密码以继续。",
@@ -566,7 +566,7 @@
         },
         "reportNotMe1": {
             "german": "Das bin nicht ich",
-            "korean": "이건 내가 아니야",
+            "korean": "이건 내가 아닙니다",
             "spanish": "Este no soy yo",
             "english": "This is not me",
             "mandarin": "这不是我",
@@ -622,7 +622,7 @@
         },
         "uploadAFile": {
             "german": "Eine Datei hochladen",
-            "korean": "파일을 올리다",
+            "korean": "파일 업로드",
             "spanish": "Cargar un archivo",
             "english": "Upload a file",
             "mandarin": "上传一个文件",
@@ -654,7 +654,7 @@
         },
         "verified": {
             "german": "Verifiziert",
-            "korean": "확인 됨",
+            "korean": "확인됨",
             "spanish": "Verificado",
             "english": "Verified",
             "mandarin": "已验证",
@@ -808,7 +808,7 @@
         },
         "returnHome": {
             "german": "Nach Hause zurückkehren",
-            "korean": "홈페이지로 돌아 가기",
+            "korean": "홈으로 돌아가기",
             "spanish": "Regresar a Home",
             "english": "Return Home",
             "mandarin": "返回主页",
@@ -832,7 +832,7 @@
         },
         "slide2Subtitle1": {
             "german": "Wählen Sie aus einem Sortimentsanbieter",
-            "korean": "범위 제공자 중에서 선택",
+            "korean": "provider(제공자) 선택",
             "spanish": "Escoge desde nuestra lista de proveedores",
             "english": "Choose from a range of providers",
             "mandarin": "从范围提供商中选择",
@@ -840,7 +840,7 @@
         },
         "digitalWallet": {
             "german": "digitale Geldbörse mit einem Klick",
-            "korean": "한 번의 클릭으로 디지털 지갑",
+            "korean": "원클릭 디지털 지갑",
             "spanish": "billetera digital en un sólo click",
             "english": "digital wallet in one-click",
             "mandarin": "注册/登录",
@@ -848,7 +848,7 @@
         },
         "forDapps": {
             "german": "für DApps",
-            "korean": "마찰없는 로그인",
+            "korean": "DApp을 위한",
             "spanish": "para DApps",
             "english": "for DApps",
             "mandarin": "迅速登录",
@@ -872,7 +872,7 @@
         },
         "acceptTerms": {
             "german": "Mit dem Einloggen akzeptierst du Torus '",
-            "korean": "로그인하면 Torus '에 동의합니다",
+            "korean": "로그인함으로서 Torus에 동의합니다.",
             "spanish": "Al iniciar sesión, acepto los términos de Torus",
             "english": "By logging in, you accept Torus'",
             "mandarin": "登录后，您接受Torus'",
@@ -888,7 +888,7 @@
         },
         "loginError": {
             "german": "Etwas ist schief gelaufen. Bitte neu laden und erneut versuchen",
-            "korean": "문제가 발생했습니다. 다시로드하고 다시 시도하십시오",
+            "korean": "문제가 발생했습니다. 다시 로드후 시도하십시오",
             "spanish": "Ha ocurrido un error. Por favor refresca y trata de nuevo",
             "english": "Something went wrong. Please reload and try again",
             "mandarin": "出问题了。请重新加载，然后重试",
@@ -896,7 +896,7 @@
         },
         "invalid_user_password": {
             "german": "Fehler, falscher Bestätigungscode eingegeben",
-            "korean": "오류, 잘못된 인증 코드가 입력되었습니다",
+            "korean": "에러, 잘못된 인증 코드가 입력되었습니다",
             "spanish": "Error, código de verificación incorrecto",
             "english": "Error, incorrect verification code entered",
             "mandarin": "错误，输入了错误的验证码",
@@ -928,7 +928,7 @@
         },
         "slide2Subtitle2": {
             "german": "Holen Sie sich Währungen zu einem der wettbewerbsfähigsten Kurse",
-            "korean": "가장 경쟁력있는 환율 중 하나로 통화하십시오",
+            "korean": "가장 높은 환율로 암호화폐를 받아가세요.",
             "spanish": "Obtén monedas a los mejores rates",
             "english": "Get currencies at one of the most competitive rates",
             "mandarin": "以最具竞争力的价格获得货币",
@@ -936,7 +936,7 @@
         },
         "slide3Subtitle2": {
             "german": "Greifen Sie mit Torus auf die dezentrale Welt zu",
-            "korean": "Torus로 탈 중앙화 세계에 접근",
+            "korean": "Torus로 탈중앙화 세상에 다가가세요.",
             "spanish": "Accede el mundo decentralizado con Torus",
             "english": "Access the decentralised world with Torus",
             "mandarin": "使用Torus进入去中心化世界",
@@ -952,7 +952,7 @@
         },
         "noteFirstTime": {
             "german": "Hinweis: Für Erstanwender, bitte",
-            "korean": "참고 : 처음 사용하시는 분은 친절하게",
+            "korean": "참고 : 처음 사용하시는 분들을 위한 친절한 설명",
             "spanish": "Nota: Para usuarios primerizos, por favor",
             "english": "Note : For first time users, kindly",
             "mandarin": "注意：对于初次使用的用户，请",
@@ -992,7 +992,7 @@
         },
         "message": {
             "german": "Sie sind nur einen Schritt von Ihrer digitalen Geldbörse entfernt",
-            "korean": "디지털 지갑에서 한 걸음 떨어져 있습니다",
+            "korean": "디지털 지갑이 거의 완성되었습니다.",
             "spanish": "A un sólo paso de tu billitera virtual",
             "english": "You are just one step away from your digital wallet",
             "mandarin": "您距数字钱包仅一步之遥",
@@ -1008,7 +1008,7 @@
         },
         "beenLoggedOut": {
             "german": "Sie sind abgemeldet",
-            "korean": "로그 아웃했습니다",
+            "korean": "로그아웃 했습니다",
             "spanish": "Haz cerrado sesión",
             "english": "You are logged out",
             "mandarin": "您已登出",
@@ -1040,7 +1040,7 @@
         },
         "visitOurWebsite": {
             "german": "Besuche unsere Webseite",
-            "korean": "우리 홈페이지에 방문 해주세요",
+            "korean": "저희 홈페이지에 방문해주세요",
             "spanish": "Visita nuestro website",
             "english": "Visit our website",
             "mandarin": "访问我们的网站",
@@ -1048,15 +1048,15 @@
         },
         "linkExpire": {
             "german": "Der Link läuft in 24 Stunden ab. Verwenden Sie ihn daher bald",
-            "korean": "링크는 24 시간 후에 만료되므로 곧 사용해야합니다.",
+            "korean": "링크는 24시간 이후에 만료되므로 바로 사용해야합니다.",
             "spanish": "El link expirará en 24 horas. Asegúrate de usarlo pronto",
-            "english": "The link expires in 24 hours, so be sure sure to use it soon",
+            "english": "The link expires in 24 hours, so be sure to use it soon",
             "mandarin": "该链接将在24小时后失效，因此请确保尽快使用它",
             "japanese": "リンクの有効期限は24時間です。必ずすぐに使用してください"
         },
         "simpleSecure": {
             "german": "Ein einfaches und sicheres Tor zum dezentralen Ökosystem über OAuth-Logins",
-            "korean": "OAuth 로그인을 통해 탈 중앙화 된 에코 시스템으로 간단하고 안전한 게이트웨이",
+            "korean": "OAuth 로그인을 통해 탈중앙화된 에코 시스템으로의 간단하고 안전한 게이트웨이",
             "spanish": "Simple y segura vía para el ecosistema decentralizado con Google OAuth logins",
             "english": "A simple and secure gateway to the decentralized ecosystem via Google OAuth logins",
             "mandarin": "通过OAuth登录到分散式生态系统的简单安全网关",
@@ -1088,7 +1088,7 @@
         },
         "title": {
             "german": "Ihre Blockchain-Wallet mit einem Klick",
-            "korean": "원 클릭으로 블록체인 지갑",
+            "korean": "당신의 원클릭 블록체인 지갑",
             "spanish": "Tu billetera blockchain con un solo clic",
             "english": "Your blockchain wallet in one-click",
             "mandarin": "一键式您的区块链钱包",
@@ -1096,7 +1096,7 @@
         },
         "slide1Subtitle2": {
             "german": "Eine E-Mail ist alles, was Sie brauchen, um loszulegen.",
-            "korean": "이메일을 시작하기 만하면됩니다.",
+            "korean": "이메일만 있으면 바로 시작할 수 있습니다!",
             "spanish": "Sólo ocupas un email para empezar.",
             "english": "An email is all you need to get started.",
             "mandarin": "电子邮件是您入门所需的全部。",
@@ -1112,7 +1112,7 @@
         },
         "slideBinance1Subtitle1": {
             "german": "Die ersten 5000 Benutzer, die ihre Binance Smart Chain Brieftaschen auf Torus erstellen, erhalten BNB in ihre Brieftaschen.",
-            "korean": "Torus에서 Binance Smart Chain 지갑을 생성 한 처음 5000 명의 사용자는 BNB를 지갑으로 에어 드랍합니다.",
+            "korean": "Torus에서 Binance Smart Chain 지갑을 생성한 처음 5000 명의 사용자는 BNB를 지갑으로 에어드랍합니다.",
             "spanish": "Los primeros 5000 usuarios que creen sus carteras de Binance Smart Chain en Torus recibirán BNB en sus carteras.",
             "english": "The first 5000 users who create their Binance Smart Chain wallets on Torus will get BNB airdropped into their wallets.",
             "mandarin": "在Torus上创建Binance Smart Chain钱包的前5000个用户将BNB空投到他们的钱包中。",
@@ -1138,7 +1138,7 @@
         },
         "authViaBrowser3": {
             "german": "Gerätespeicher als Backup zulassen.",
-            "korean": "장치 저장을 백업으로 허용하십시오.",
+            "korean": "디바이스 저장소를 백업으로 허용하세요.",
             "spanish": "permitir el almacenamiento del dispositivo como copia de seguridad.",
             "english": "allow device storage as backup.",
             "mandarin": "允许设备存储作为备份。",
@@ -1146,7 +1146,7 @@
         },
         "authFactors": {
             "german": "Authentifizierungsfaktoren",
-            "korean": "인증 요인",
+            "korean": "인증 팩터",
             "spanish": "Factores de autenticación",
             "english": "Authentication factors",
             "mandarin": "认证因素",
@@ -1162,7 +1162,7 @@
         },
         "passwordRules": {
             "german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe und eine Zahl",
-            "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자 및 하나의 숫자",
+            "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 소문자, 그리고 숫자가 필요합니다.",
             "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula y un número",
             "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
             "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母和一个数字",
@@ -1178,7 +1178,7 @@
         },
         "walletAuth": {
             "german": "Kontoauthentifizierungsfaktoren",
-            "korean": "계정 인증 요인",
+            "korean": "계정 인증 팩터",
             "spanish": "Factores de autenticación de cuenta",
             "english": "Account authentication factors",
             "mandarin": "帐户认证因素",
@@ -1186,7 +1186,7 @@
         },
         "youNeedBackup": {
             "german": "Sie können eine Sicherungskopie im Gerätespeicher erstellen, falls Sie Ihr Kennwort vergessen haben",
-            "korean": "비밀번호를 잊어 버린 경우 장치 저장소에 백업 할 수 있습니다.",
+            "korean": "비밀번호를 잊어 버린 경우를 대비해 디바이스에 백업 할 수 있습니다.",
             "spanish": "Es posible que desee realizar una copia de seguridad en el almacenamiento del dispositivo en caso de que olvide su contraseña",
             "english": "You may want to backup on device storage in case you forget your password",
             "mandarin": "您可能希望备份设备存储，以防忘记密码",
@@ -1274,7 +1274,7 @@
         },
         "youHaveSufficient": {
             "german": "Sie haben ausreichende Authentifizierungsfaktoren für Ihr tKey-Konto. Bravo!",
-            "korean": "tKey 계정에 대한 충분한 인증 요소가 있습니다. 브라보!",
+            "korean": "tKey 계정에 대한 충분한 인증 요소가 있습니다. 대박!",
             "spanish": "Tiene suficientes factores de autenticación para su cuenta tKey. ¡Bravo!",
             "english": "You have sufficient authentication factors for your tKey account. Bravo!",
             "mandarin": "您的tKey帐户具有足够的身份验证因素。太棒了！",
@@ -1314,7 +1314,7 @@
         },
         "confirmPassword": {
             "german": "Passwort erneut eingeben",
-            "korean": "비밀번호 재 입력",
+            "korean": "비밀번호 재입력",
             "spanish": "Vuelva a escribir la contraseña",
             "english": "Retype password",
             "mandarin": "重新输入密码",
@@ -1346,7 +1346,7 @@
         },
         "backupOnDevice": {
             "german": "Gerätespeicher als Backup zulassen.",
-            "korean": "장치 저장소를 백업으로 허용합니다.",
+            "korean": "디바이스 저장소를 백업으로 허용합니다.",
             "spanish": "Permita el almacenamiento del dispositivo como respaldo.",
             "english": "Allow device storage as backup. ",
             "mandarin": "允许设备存储作为备份。",
@@ -1356,7 +1356,7 @@
     "tkeyBackup": {
         "recoveryEmailDesc2": {
             "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase.",
-            "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
+            "korean": "백업 문구가 포함된 이메일이 발송됩니다.",
             "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
             "english": "An email will be sent to you containing the backup phrase.",
             "mandarin": "包含备用短语的电子邮件将发送给您。",
@@ -1380,7 +1380,7 @@
         },
         "enterBackupPhrase2": {
             "german": "Geben Sie hier die Sicherungsphrase von einem anderen Authentifizierungsfaktor ein.",
-            "korean": "여기에 다른 인증 요소의 백업 문구를 입력합니다.",
+            "korean": "여기에 다른 인증 팩터의 백업 문구를 입력합니다.",
             "spanish": "Introduzca aquí la Frase de seguridad de otro factor de autenticación.",
             "english": "Enter the Backup Phrase from another authentication factor here.",
             "mandarin": "在此处输入其他身份验证因素的备份短语。",
@@ -1444,7 +1444,7 @@
         },
         "recoveryEmailDesc3": {
             "german": "Sie können eine Ihrer Schlüsselfreigaben für die Kontowiederherstellung zurückerhalten.",
-            "korean": "계정 복구를 위해 키 공유 중 하나를 되 찾을 수 있습니다.",
+            "korean": "계정 복구를 위해 키 쉐어 중 하나를 되찾을 수 있습니다.",
             "spanish": "Le permite recuperar una de sus acciones clave para la recuperación de la cuenta.",
             "english": "It allows you to get back one of your key shares for account recovery.",
             "mandarin": "它使您可以取回其中的关键份额之一以进行帐户恢复。",
@@ -1586,7 +1586,7 @@
         },
         "notifyMe": {
             "german": "Benachrichtige mich",
-            "korean": "나를 통지",
+            "korean": "알림",
             "spanish": "Notificarme",
             "english": "Notify me",
             "mandarin": "通知我",
@@ -1610,7 +1610,7 @@
         },
         "supportedCountries1": {
             "german": "Wenn du tatsächlich in einem unserer wohnst",
-            "korean": "당신이 실제로 우리 중 하나에 살고 있다면",
+            "korean": "실제로 이 한 군데에 살고 계시다면",
             "spanish": "Si vive en uno de nuestros",
             "english": "If you actually live in one of our",
             "mandarin": "如果你真的住在我们的其中之一",
