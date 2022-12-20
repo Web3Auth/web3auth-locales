@@ -28,7 +28,12 @@
       "portuguese": "Digite o e-mail de recuperação"
     },
     "export-onkey-2fa": {
+      "korean": "이중 인증",
+      "spanish": "Autenticación de dos factores",
       "english": "Two-factor authentication",
+      "mandarin": "双因素身份验证",
+      "german": "Zwei-Faktor-Authentifizierung",
+      "japanese": "二要素認証",
       "portuguese": "Autenticação de dois fatores"
     },
     "auth-factors-enable-biometrics": {
@@ -59,7 +64,12 @@
       "portuguese": "Observação: esse fator de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro."
     },
     "delete-share-desc-1": {
+      "korean": "다음과 같이 매우 확신하십시오.",
+      "spanish": "estar muy seguro como",
       "english": "Be very sure as",
+      "mandarin": "非常确定",
+      "german": "Seien Sie sehr sicher, wie",
+      "japanese": "として非常に確認してください",
       "portuguese": "Tenha muita certeza como"
     },
     "auth-factors-password-set": {
@@ -90,7 +100,12 @@
       "portuguese": "Configurações de segurança"
     },
     "remove-share-button": {
+      "korean": "공유 제거",
+      "spanish": "Quitar compartir",
       "english": "Remove share",
+      "mandarin": "删除共享",
+      "german": "Freigabe entfernen",
+      "japanese": "共有を削除",
       "portuguese": "Remover compartilhamento"
     },
     "social-factor-change": {
@@ -184,7 +199,12 @@
       "portuguese": "Nenhum compartilhamento de dispositivo encontrado"
     },
     "delete-share-desc-2": {
+      "korean": "이 작업은 영구적이며 취소할 수 없습니다.",
+      "spanish": "esta acción es permanente y no se puede deshacer.",
       "english": "this action is permanent and cannot be undone.",
+      "mandarin": "此操作是永久性的，无法撤消。",
+      "german": "Diese Aktion ist dauerhaft und kann nicht rückgängig gemacht werden.",
+      "japanese": "このアクションは永続的であり、元に戻すことはできません。",
       "portuguese": "esta ação é permanente e não pode ser desfeita."
     },
     "auth-factors-device-biometrics": {
@@ -332,7 +352,12 @@
       "portuguese": "Fator de recuperação"
     },
     "delete-share-title": {
+      "korean": "인증 요소 삭제",
+      "spanish": "Eliminar factor de autenticación",
       "english": "Delete authentication factor",
+      "mandarin": "删除认证因素",
+      "german": "Authentifizierungsfaktor löschen",
+      "japanese": "認証要素の削除",
       "portuguese": "Excluir fator de autenticação"
     },
     "export-share-copy": {
@@ -345,11 +370,21 @@
       "portuguese": "Clique para copiar"
     },
     "export-onkey-2fa-recommend": {
+      "korean": "계정에서 2FA를 활성화하는 것이 좋습니다.",
+      "spanish": "Le recomendamos encarecidamente que habilite 2FA en su cuenta",
       "english": "We strongly recommend you to enable 2FA on your account",
+      "mandarin": "我们强烈建议您在您的帐户上启用 2FA",
+      "german": "Wir empfehlen Ihnen dringend, 2FA für Ihr Konto zu aktivieren",
+      "japanese": "アカウントで 2FA を有効にすることを強くお勧めします",
       "portuguese": "Recomendamos vivamente que ative o 2FA na sua conta"
     },
     "export-onkey-2fa-enable": {
+      "korean": "2FA 활성화",
+      "spanish": "Habilitar 2FA",
       "english": "Enable 2FA",
+      "mandarin": "启用 2FA",
+      "german": "2FA aktivieren",
+      "japanese": "2FA を有効にする",
       "portuguese": "Ativar 2FA"
     }
   }

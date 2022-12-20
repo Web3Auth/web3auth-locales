@@ -271,7 +271,12 @@
       "portuguese": "Compartilhamento de recuperação excluído com sucesso"
     },
     "toast-backup-phase-email-send-timeout": {
+      "mandarin": "将备份短语发送到您的电子邮件时超时。 请改为下载备份短语",
+      "german": "Zeitüberschreitung beim Senden der Sicherungsphrase an Ihre E-Mail. Bitte laden Sie stattdessen die Sicherungsphrase herunter",
       "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
+      "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 대신 백업 문구를 다운로드하십시오",
+      "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar",
+      "japanese": "バックアップ フレーズをメールに送信する際のタイムアウト。 代わりにバックアップ フレーズをダウンロードしてください",
       "portuguese": "Tempo limite ao enviar a frase de backup para o seu e-mail. Em vez disso, baixe a frase de backup"
     },
     "copier-manage-account": {

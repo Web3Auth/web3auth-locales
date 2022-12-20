@@ -237,7 +237,8 @@
 			"korean": "클릭 한 번으로 {{appName}} 지갑",
 			"japanese": "ワンクリックで {{appName}} ウォレット",
 			"spanish": "Su billetera {{appName}} en un solo clic",
-			"french": "Votre portefeuille {{appName}} en un clic"
+			"french": "Votre portefeuille {{appName}} en un clic",
+			"portuguese": "Sua carteira {{appName}} em um clique"
 		},
 		"header-tooltip-title": {
 			"english": "Wallet",
@@ -246,7 +247,8 @@
 			"korean": "지갑",
 			"japanese": "財布",
 			"spanish": "Billetera",
-			"french": "Porte monnaie"
+			"french": "Porte monnaie",
+			"portuguese": "Carteira"
 		},
 		"header-tooltip-desc": {
 			"english": "The wallet serves as an account for you to store and manage your digital assets on the blockchain.",
@@ -255,7 +257,8 @@
 			"korean": "지갑은 블록체인에서 디지털 자산을 저장하고 관리할 수 있는 계정 역할을 합니다.",
 			"japanese": "ウォレットは、ブロックチェーン上でデジタル資産を保存および管理するためのアカウントとして機能します。",
 			"spanish": "La billetera sirve como una cuenta para que almacene y administre sus activos digitales en la cadena de bloques.",
-			"french": "Le portefeuille vous sert de compte pour stocker et gérer vos actifs numériques sur la blockchain."
+			"french": "Le portefeuille vous sert de compte pour stocker et gérer vos actifs numériques sur la blockchain.",
+			"portuguese": "A carteira serve como uma conta para você armazenar e gerenciar seus ativos digitais na blockchain."
 		},
 		"footer.terms-service": {
 			"english": "Terms of Service",
