@@ -275,6 +275,14 @@
 			"german": "ENS-Domain",
 			"mandarin": "ENS域名"
 		},
+		"rnsId": {
+			"spanish": "Dominio RNS Multichain",
+			"korean": "RNS Multichain 도메인",
+			"japanese": "RNS Multichainドメイン",
+			"english": "RNS Multichain Domain",
+			"german": "RNS-Multichain-Domain",
+			"mandarin": "RNS Multichain域名"
+		},
 		"downloadWallet": {
 			"spanish": "Descargar billetera",
 			"korean": "지갑 다운로드",
@@ -469,6 +477,14 @@
 			"english": "Invalid ENS address",
 			"german": "Ungültige ENS-Adresse",
 			"mandarin": "无效的ENS地址"
+		},
+		"invalidRns": {
+			"spanish": "Dirección RNS no válida. Verifique si se seleccionó la red correcta",
+			"korean": "RNS 주소가 잘못되었습니다. 올바른 네트워크가 선택되었는지 확인하십시오.",
+			"japanese": "RNS アドレスが無効です。 正しいネットワークが選択されているか確認してください",
+			"english": "Invalid RNS address. Please check if correct network is selected",
+			"german": "Ungültige RNS-Adresse. Bitte überprüfen Sie, ob das richtige Netzwerk ausgewählt ist",
+			"mandarin": "RNS 地址无效。请检查是否选择了正确的网络"
 		},
 		"addNewList": {
 			"spanish": "Agregar una nueva lista",
