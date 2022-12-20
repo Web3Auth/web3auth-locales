@@ -7,7 +7,8 @@
 			"korean": "계속하려면 {{adapter}} 계정에서 인증하세요.",
 			"japanese": "続行するには、{{adapter}} アカウントで確認してください",
 			"spanish": "Verifica tu cuenta de {{adapter}} para continuar",
-			"french": "Vérifiez votre compte sur {{adapter}} pour continuer"
+			"french": "Vérifiez votre compte sur {{adapter}} pour continuer",
+			"portuguese": "Verifique a sua conta do {{adapter}} para continuar"
 		},
 		"external.title": {
 			"english": "External wallet",
@@ -16,7 +17,8 @@
 			"korean": "외부 지갑",
 			"japanese": "外部ウォレット",
 			"spanish": "Monedero externo",
-			"french": "Portefeuille externe"
+			"french": "Portefeuille externe",
+			"portuguese": "Carteira externa"
 		},
 		"social.view-less-new": {
 			"english": "View less",
@@ -25,7 +27,8 @@
 			"korean": "적게 보기",
 			"japanese": "表示を減らす",
 			"spanish": "ver menos",
-			"french": "Voir moins"
+			"french": "Voir moins",
+			"portuguese": "Ver menos"
 		},
 		"footer.message": {
 			"english": "Self-custodial login by",
@@ -34,7 +37,8 @@
 			"korean": "자가 관리 로그인",
 			"japanese": "による自己管理ログイン",
 			"spanish": "Inicio de sesión con autocustodia por",
-			"french": "Portefeuille hébergé par"
+			"french": "Portefeuille hébergé par",
+			"portuguese": "Início de sessão com autocustódia por"
 		},
 		"network.switch-request": {
 			"english": "This site is requesting to switch Network",
@@ -43,7 +47,8 @@
 			"korean": "이 사이트는 네트워크 전환을 요청하고 있습니다",
 			"japanese": "このサイトはネットワークの切り替えを要求しています",
 			"spanish": "Este sitio está solicitando cambiar de red",
-			"french": "Ce site vous demande de changer de réseau"
+			"french": "Ce site vous demande de changer de réseau",
+			"portuguese": "Este site está solicitando que troque a rede"
 		},
 		"footer.terms": {
 			"english": "Terms of use",
@@ -52,7 +57,8 @@
 			"korean": "이용약관",
 			"japanese": "利用規約",
 			"spanish": "Términos de Uso",
-			"french": "CGU"
+			"french": "CGU",
+			"portuguese": "Termos de uso"
 		},
 		"footer.message-new": {
 			"english": "Self-custodial login by Web3Auth",
@@ -61,7 +67,8 @@
 			"korean": "Web3Auth를 통한 자가 관리 로그인",
 			"japanese": "Web3Authによる自己管理ログイン",
 			"spanish": "Inicio de sesión con autocustodia por Web3Auth",
-			"french": "Connexion autonome par Web3Auth"
+			"french": "Connexion autonome par Web3Auth",
+			"portuguese": "Início de sessão com autocustódia por Web3Auth"
 		},
 		"network.to": {
 			"english": "To",
@@ -70,7 +77,8 @@
 			"korean": "에게",
 			"japanese": "に",
 			"spanish": "A",
-			"french": "A"
+			"french": "A",
+			"portuguese": "Para"
 		},
 		"external.walletconnect-subtitle": {
 			"english": "Scan QR code with a WalletConnect-compatible wallet",
@@ -79,7 +87,8 @@
 			"korean": "WalletConnect 호환 지갑으로 QR 코드 스캔",
 			"japanese": "WalletConnect対応ウォレットでQRコードをスキャン",
 			"spanish": "Escanea el código QR con una billetera compatible con WalletConnect",
-			"french": "Scannez le QR code avec un portefeuille compatible WalletConnect"
+			"french": "Scannez le QR code avec un portefeuille compatible WalletConnect",
+			"portuguese": "Escaneia o QR code com uma carteira compatível com WalletConnect"
 		},
 		"external.walletconnect-copy": {
 			"english": "Click on the QR Code to copy to clipboard",
@@ -88,7 +97,8 @@
 			"korean": "클립보드에 복사하려면 QR 코드를 클릭하세요.",
 			"japanese": "QRコードをクリックしてクリップボードにコピー",
 			"spanish": "Haga clic en el código QR para copiar al portapapeles",
-			"french": "Cliquez sur le code QR pour le copier dans le presse-papiers"
+			"french": "Cliquez sur le code QR pour le copier dans le presse-papiers",
+			"portuguese": "Clique aqui para copiar o código do QR Code"
 		},
 		"social.policy": {
 			"english": "We do not store any data related to your social logins.",
@@ -97,7 +107,8 @@
 			"korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
 			"japanese": "ソーシャル ログインに関連するデータは保存されません。",
 			"spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-			"french": "Nous ne stockons aucune donnée liée à vos connexions sociales."
+			"french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
+			"portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social."
 		},
 		"external.walletconnect-connect": {
 			"english": "Connect",
@@ -106,7 +117,8 @@
 			"korean": "연결하다",
 			"japanese": "接続",
 			"spanish": "Conectar",
-			"french": "Se connecter"
+			"french": "Se connecter",
+			"portuguese": "Conectar"
 		},
 		"network.cancel": {
 			"english": "Cancel",
@@ -115,7 +127,8 @@
 			"korean": "취소",
 			"japanese": "キャンセル",
 			"spanish": "Cancelar",
-			"french": "Annuler"
+			"french": "Annuler",
+			"portuguese": "Cancelar"
 		},
 		"social.view-more-new": {
 			"english": "View more",
@@ -124,7 +137,8 @@
 			"korean": "더보기",
 			"japanese": "もっと見る",
 			"spanish": "Ver más",
-			"french": "Voir plus"
+			"french": "Voir plus",
+			"portuguese": "Ver mais"
 		},
 		"social.email": {
 			"english": "Email",
@@ -133,7 +147,8 @@
 			"korean": "이메일",
 			"japanese": "Eメール",
 			"spanish": "Correo electrónico",
-			"french": "Email"
+			"french": "Email",
+			"portuguese": "Email"
 		},
 		"external.connect": {
 			"english": "Connect with Wallet",
@@ -142,7 +157,8 @@
 			"korean": "지갑과 연결",
 			"japanese": "ウォレットと接続",
 			"spanish": "Conectar con Monedero",
-			"french": "Se connecter avec un portefeuille"
+			"french": "Se connecter avec un portefeuille",
+			"portuguese": "Conectar com carteira"
 		},
 		"network.proceed": {
 			"english": "Proceed",
@@ -151,7 +167,8 @@
 			"korean": "진행하다",
 			"japanese": "続行",
 			"spanish": "Proceder",
-			"french": "Procéder"
+			"french": "Procéder",
+			"portuguese": "Proceder"
 		},
 		"header-subtitle": {
 			"english": "Select one of the following to continue",
@@ -160,7 +177,8 @@
 			"korean": "계속하려면 다음 중 하나를 선택하세요.",
 			"japanese": "次のいずれかを選択して続行します",
 			"spanish": "Seleccione uno de los siguientes para continuar",
-			"french": "Sélectionnez une option suivante :"
+			"french": "Sélectionnez une option suivante :",
+			"portuguese": "Selecione um dos seguintes para continuar"
 		},
 		"adapter-loader.message1": {
 			"english": "Verify on your {{adapter}}",
@@ -169,7 +187,8 @@
 			"korean": "{{adapter}}에서 확인",
 			"japanese": "{{adapter}} で確認する",
 			"spanish": "Verifique en su {{adaptador}}",
-			"french": "Vérifiez sur votre {{adaptateur}}"
+			"french": "Vérifiez sur votre {{adaptateur}}",
+			"portuguese": "Verifique no seu {{adapter}}"
 		},
 		"footer.version": {
 			"english": "Version",
@@ -178,7 +197,8 @@
 			"korean": "버전",
 			"japanese": "バージョン",
 			"spanish": "Versión",
-			"french": "Version"
+			"french": "Version",
+			"portuguese": "Versão"
 		},
 		"social.view-more": {
 			"english": "View more options",
@@ -187,7 +207,8 @@
 			"korean": "더 많은 옵션 보기",
 			"japanese": "その他のオプションを表示",
 			"spanish": "Ver más opciones",
-			"french": "Voir plus d'options"
+			"french": "Voir plus d'options",
+			"portuguese": "Ver mais opções"
 		},
 		"header-title": {
 			"english": "Sign in",
@@ -196,7 +217,8 @@
 			"korean": "로그인",
 			"japanese": "ログイン",
 			"spanish": "Iniciar sesión",
-			"french": "Se connecter"
+			"french": "Se connecter",
+			"portuguese": "Iniciar sessão"
 		},
 		"header-subtitle-new": {
 			"english": "Your blockchain wallet in one-click",
@@ -205,7 +227,8 @@
 			"korean": "클릭 한 번으로 블록체인 지갑",
 			"japanese": "ワンクリックであなたのブロックチェーンウォレット",
 			"spanish": "Su billetera blockchain en un clic",
-			"french": "Votre portefeuille blockchain en un clic"
+			"french": "Votre portefeuille blockchain en un clic",
+			"portuguese": "A sua carteira de blockchain num clique"
 		},
 		"header-subtitle-name": {
 			"english": "Your {{appName}} wallet in one-click",
@@ -214,7 +237,8 @@
 			"korean": "클릭 한 번으로 {{appName}} 지갑",
 			"japanese": "ワンクリックで {{appName}} ウォレット",
 			"spanish": "Su billetera {{appName}} en un solo clic",
-			"french": "Votre portefeuille {{appName}} en un clic"
+			"french": "Votre portefeuille {{appName}} en un clic",
+			"portuguese": "Sua carteira {{appName}} em um clique"
 		},
 		"header-tooltip-title": {
 			"english": "Wallet",
@@ -223,7 +247,8 @@
 			"korean": "지갑",
 			"japanese": "財布",
 			"spanish": "Billetera",
-			"french": "Porte monnaie"
+			"french": "Porte monnaie",
+			"portuguese": "Carteira"
 		},
 		"header-tooltip-desc": {
 			"english": "The wallet serves as an account for you to store and manage your digital assets on the blockchain.",
@@ -232,7 +257,8 @@
 			"korean": "지갑은 블록체인에서 디지털 자산을 저장하고 관리할 수 있는 계정 역할을 합니다.",
 			"japanese": "ウォレットは、ブロックチェーン上でデジタル資産を保存および管理するためのアカウントとして機能します。",
 			"spanish": "La billetera sirve como una cuenta para que almacene y administre sus activos digitales en la cadena de bloques.",
-			"french": "Le portefeuille vous sert de compte pour stocker et gérer vos actifs numériques sur la blockchain."
+			"french": "Le portefeuille vous sert de compte pour stocker et gérer vos actifs numériques sur la blockchain.",
+			"portuguese": "A carteira serve como uma conta para você armazenar e gerenciar seus ativos digitais na blockchain."
 		},
 		"footer.terms-service": {
 			"english": "Terms of Service",
@@ -241,7 +267,8 @@
 			"korean": "서비스 약관",
 			"japanese": "利用規約",
 			"spanish": "Términos de servicio",
-			"french": "Conditions d'utilisation"
+			"french": "Conditions d'utilisation",
+			"portuguese": "Termos de serviço"
 		},
 		"social.email-continue": {
 			"english": "Continue with Email",
@@ -250,7 +277,8 @@
 			"korean": "이메일로 계속",
 			"japanese": "メールで続行",
 			"spanish": "Continuar con correo electrónico",
-			"french": "Continuer avec l'email"
+			"french": "Continuer avec l'email",
+			"portuguese": "Continuar com email"
 		},
 		"social.continue": {
 			"english": " Continue with ",
@@ -259,7 +287,8 @@
 			"korean": "계속",
 			"japanese": "続ける",
 			"spanish": "Continua con",
-			"french": "  Continue avec"
+			"french": "  Continue avec",
+			"portuguese": "Continuar com"
 		},
 		"external.back": {
 			"english": "Back",
@@ -268,7 +297,8 @@
 			"korean": "뒤",
 			"japanese": "戻る",
 			"spanish": "atrás",
-			"french": "Retour"
+			"french": "Retour",
+			"portuguese": "Voltar"
 		},
 		"network.add-request": {
 			"english": "This site is requesting to add Network",
@@ -277,7 +307,8 @@
 			"korean": "이 사이트는 네트워크 추가를 요청하고 있습니다",
 			"japanese": "このサイトはネットワークの追加をリクエストしています",
 			"spanish": "Este sitio está solicitando agregar Red",
-			"french": "Ce site vous demande de rajouter un réseau"
+			"french": "Ce site vous demande de rajouter un réseau",
+			"portuguese": "Este site está solicitando adicionar uma rede"
 		},
 		"social.email-new": {
 			"english": "name@example.com",
@@ -286,7 +317,8 @@
 			"korean": "name@example.com",
 			"japanese": "name@example.com",
 			"spanish": "nombre@ejemplo.com",
-			"french": "nom@exemple.com"
+			"french": "nom@exemple.com",
+			"portuguese": "nome@exemplo.com"
 		},
 		"footer.policy": {
 			"english": "Privacy Policy",
@@ -295,7 +327,8 @@
 			"korean": "개인 정보 정책",
 			"japanese": "プライバシーポリシー",
 			"spanish": "Política de privacidad",
-			"french": "Politique de confidentialité"
+			"french": "Politique de confidentialité",
+			"portuguese": "Política de privacidade"
 		},
 		"adapter-loader.message2": {
 			"english": "account to continue",
@@ -304,7 +337,8 @@
 			"korean": "계속할 계정",
 			"japanese": "継続するアカウント",
 			"spanish": "cuenta para continuar",
-			"french": "compte pour continuer"
+			"french": "compte pour continuer",
+			"portuguese": "conta para continuar"
 		},
 		"network.from": {
 			"english": "From",
@@ -313,7 +347,8 @@
 			"korean": "에서",
 			"japanese": "から",
 			"spanish": "De",
-			"french": "De"
+			"french": "De",
+			"portuguese": "De"
 		},
 		"social.view-less": {
 			"english": "View less options",
@@ -322,7 +357,8 @@
 			"korean": "더 적은 옵션 보기",
 			"japanese": "オプションを少なく表示",
 			"spanish": "Ver menos opciones",
-			"french": "Voir moins d'options"
+			"french": "Voir moins d'options",
+			"portuguese": "Ver menos opções"
 		}
 	}
 }
