@@ -1,116 +1,130 @@
 {
-	"home": {
-		"share-approval-desc1": {
-			"english": "A new login is trying to access your account.",
-			"japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
-			"german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
-			"korean": "새 로그인으로 계정에 액세스하려고합니다.",
-			"spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta.",
-			"mandarin": "新的登录名正在尝试登记入您的帐户。"
-		},
-		"share-approval-desc2": {
-			"english": "Match the Reference ID and confirm this is you:",
-			"japanese": "参照IDを一致させ、これがあなたであることを確認します。",
-			"german": "Passen Sie die Referenz-ID an und bestätigen Sie, dass Sie es sind:",
-			"korean": "참조 ID를 일치 하고 본인임을 확인합니다.",
-			"spanish": "Haga coincidir la ID de referencia y confirme que es usted:",
-			"mandarin": "匹配参考ID，并确认这是您："
-		},
-		"share-approval-report": {
-			"english": "report it",
-			"japanese": "それを報告する",
-			"german": "berichten Sie",
-			"korean": "보고서",
-			"spanish": "Informe",
-			"mandarin": "举报"
-		},
-		"link-apps-name": {
-			"english": "View Authorized Apps",
-			"japanese": "承認されたアプリを表示する",
-			"german": "Autorisierte Apps anzeigen",
-			"korean": "승인 된 앱보기",
-			"spanish": "Ver aplicaciones autorizadas",
-			"mandarin": "查看授权的应用"
-		},
-		"title": {
-			"english": "Welcome, {0}",
-			"japanese": "ようこそ、{0}",
-			"german": "Willkommen, {0}",
-			"korean": "{0} 님, 환영합니다",
-			"spanish": "Bienvenido, {0}",
-			"mandarin": "欢迎，{0}"
-		},
-		"learn-more-title": {
-			"english": "Getting started",
-			"japanese": "開始",
-			"german": "Einstieg",
-			"korean": "시작하기",
-			"spanish": "Empezando",
-			"mandarin": "开始"
-		},
-		"share-approval-support": {
-			"english": "Contact Support",
-			"japanese": "サポート問い合わせ先",
-			"german": "Kontaktieren Sie Support",
-			"korean": "연락처 지원",
-			"spanish": "Soporte de contacto",
-			"mandarin": "联系支持人员"
-		},
-		"link-apps-type": {
-			"english": "apps",
-			"japanese": "アプリ",
-			"german": "apps",
-			"korean": "앱",
-			"spanish": "aplicaciones",
-			"mandarin": "应用"
-		},
-		"share-approval-secure": {
-			"english": "Secure Torus sign in",
-			"japanese": "セキュアトーラスサインイン",
-			"german": "Sichere Torus-Anmeldung",
-			"korean": "보안 토러스 로그인",
-			"spanish": "Iniciar sesión Secure Torus",
-			"mandarin": "安全Torus登录"
-		},
-		"share-approval-title": {
-			"english": "New login detected",
-			"japanese": "新しいログインが検出されました",
-			"german": "Neues Login erkannt",
-			"korean": "새 로그인 감지",
-			"spanish": "Nuevo inicio de sesión detectado",
-			"mandarin": "检测到新登录"
-		},
-		"link-account-type": {
-			"english": "account",
-			"japanese": "アカウント",
-			"german": "konto",
-			"korean": "계정",
-			"spanish": "cuenta",
-			"mandarin": "帐户"
-		},
-		"link-account-name": {
-			"english": "Manage account",
-			"japanese": "アカウントを管理する",
-			"german": "Konto verwalten",
-			"korean": "계정 관리",
-			"spanish": "Administrar cuenta",
-			"mandarin": "管理帐户"
-		},
-		"learn-more-desc": {
-			"english": "Take charge of your digital presence with OpenLogin.",
-			"japanese": "OpenLoginでデジタルプレゼンスを管理します。",
-			"german": "Übernehmen Sie mit OpenLogin die Kontrolle über Ihre digitale Präsenz.",
-			"korean": "OpenLogin으로 디지털 존재를 관리하십시오.",
-			"spanish": "Hágase cargo de su presencia digital con OpenLogin.",
-			"mandarin": "使用OpenLogin来管理您的数字业务。"
-		},
-		"share-approval-not-me": {
-			"english": "This is not me,",
-			"japanese": "これは私ではない、",
-			"german": "Das bin nicht ich,",
-			"korean": "이건 내가 아니다",
-			"spanish": "Este no soy yo,",
-			"mandarin": "这不是我，"
-		}
-	}
+  "home": {
+    "share-approval-desc1": {
+      "english": "A new login is trying to access your account.",
+      "japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
+      "german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
+      "korean": "새 로그인으로 계정에 액세스하려고합니다.",
+      "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta.",
+      "mandarin": "新的登录名正在尝试登记入您的帐户。",
+      "portuguese": "Um novo login está tentando acessar sua conta."
+    },
+    "share-approval-desc2": {
+      "english": "Match the Reference ID and confirm this is you:",
+      "japanese": "参照IDを一致させ、これがあなたであることを確認します。",
+      "german": "Passen Sie die Referenz-ID an und bestätigen Sie, dass Sie es sind:",
+      "korean": "참조 ID를 일치 하고 본인임을 확인합니다.",
+      "spanish": "Haga coincidir la ID de referencia y confirme que es usted:",
+      "mandarin": "匹配参考ID，并确认这是您：",
+      "portuguese": "Corresponda ao ID de referência e confirme que é você:"
+    },
+    "share-approval-report": {
+      "english": "report it",
+      "japanese": "それを報告する",
+      "german": "berichten Sie",
+      "korean": "보고서",
+      "spanish": "Informe",
+      "mandarin": "举报",
+      "portuguese": "denuncie"
+    },
+    "link-apps-name": {
+      "english": "View Authorized Apps",
+      "japanese": "承認されたアプリを表示する",
+      "german": "Autorisierte Apps anzeigen",
+      "korean": "승인 된 앱보기",
+      "spanish": "Ver aplicaciones autorizadas",
+      "mandarin": "查看授权的应用",
+      "portuguese": "Ver aplicativos autorizados"
+    },
+    "title": {
+      "english": "Welcome, {0}",
+      "japanese": "ようこそ、{0}",
+      "german": "Willkommen, {0}",
+      "korean": "{0} 님, 환영합니다",
+      "spanish": "Bienvenido, {0}",
+      "mandarin": "欢迎，{0}",
+      "portuguese": "Bem-vindo, {0}"
+    },
+    "learn-more-title": {
+      "english": "Getting started",
+      "japanese": "開始",
+      "german": "Einstieg",
+      "korean": "시작하기",
+      "spanish": "Empezando",
+      "mandarin": "开始",
+      "portuguese": "Começando"
+    },
+    "share-approval-support": {
+      "english": "Contact Support",
+      "japanese": "サポート問い合わせ先",
+      "german": "Kontaktieren Sie Support",
+      "korean": "연락처 지원",
+      "spanish": "Soporte de contacto",
+      "mandarin": "联系支持人员",
+      "portuguese": "Entre em contato com o suporte"
+    },
+    "link-apps-type": {
+      "english": "apps",
+      "japanese": "アプリ",
+      "german": "apps",
+      "korean": "앱",
+      "spanish": "aplicaciones",
+      "mandarin": "应用",
+      "portuguese": "aplicativos"
+    },
+    "share-approval-secure": {
+      "english": "Secure Torus sign in",
+      "japanese": "セキュアトーラスサインイン",
+      "german": "Sichere Torus-Anmeldung",
+      "korean": "보안 토러스 로그인",
+      "spanish": "Iniciar sesión Secure Torus",
+      "mandarin": "安全Torus登录",
+      "portuguese": "Login seguro da Torus"
+    },
+    "share-approval-title": {
+      "english": "New login detected",
+      "japanese": "新しいログインが検出されました",
+      "german": "Neues Login erkannt",
+      "korean": "새 로그인 감지",
+      "spanish": "Nuevo inicio de sesión detectado",
+      "mandarin": "检测到新登录",
+      "portuguese": "Novo login detectado"
+    },
+    "link-account-type": {
+      "english": "account",
+      "japanese": "アカウント",
+      "german": "konto",
+      "korean": "계정",
+      "spanish": "cuenta",
+      "mandarin": "帐户",
+      "portuguese": "conta"
+    },
+    "link-account-name": {
+      "english": "Manage account",
+      "japanese": "アカウントを管理する",
+      "german": "Konto verwalten",
+      "korean": "계정 관리",
+      "spanish": "Administrar cuenta",
+      "mandarin": "管理帐户",
+      "portuguese": "Gerenciar conta"
+    },
+    "learn-more-desc": {
+      "english": "Take charge of your digital presence with OpenLogin.",
+      "japanese": "OpenLoginでデジタルプレゼンスを管理します。",
+      "german": "Übernehmen Sie mit OpenLogin die Kontrolle über Ihre digitale Präsenz.",
+      "korean": "OpenLogin으로 디지털 존재를 관리하십시오.",
+      "spanish": "Hágase cargo de su presencia digital con OpenLogin.",
+      "mandarin": "使用OpenLogin来管理您的数字业务。",
+      "portuguese": "Assuma o controle de sua presença digital com OpenLogin."
+    },
+    "share-approval-not-me": {
+      "english": "This is not me,",
+      "japanese": "これは私ではない、",
+      "german": "Das bin nicht ich,",
+      "korean": "이건 내가 아니다",
+      "spanish": "Este no soy yo,",
+      "mandarin": "这不是我，",
+      "portuguese": "Este não sou eu,"
+    }
+  }
 }
