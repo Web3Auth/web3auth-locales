@@ -66,7 +66,7 @@
 		},
 		"googleId": {
 			"spanish": "Cuenta Google",
-			"korean": "구글 계정",
+			"korean": "구글 어카운트",
 			"japanese": "Googleアカウント",
 			"english": "Google Account",
 			"german": "Google Benutzerkonto",
@@ -133,7 +133,7 @@
 		},
 		"customKey.noteReplaceWarning": {
 			"spanish": "Nota: Esto reemplaza la clave privada de su cuenta Torus con una clave privada personalizada",
-			"korean": "참고 : 이것은 Torus 계정 개인 키를 사용자 지정 개인 키로 대체합니다.",
+			"korean": "참고 : 이것은 Torus 어카운트 개인 키를 사용자 지정 개인 키로 대체합니다.",
 			"japanese": "注：これにより、Torusアカウントの秘密鍵がカスタム秘密鍵に置き換えられます",
 			"english": "Note: This replaces your Torus account private key with a custom private key",
 			"german": "Hinweis: Dadurch wird der private Schlüssel Ihres Torus-Kontos durch einen benutzerdefinierten privaten Schlüssel ersetzt",
@@ -194,7 +194,7 @@
 		},
 		"accountDetails": {
 			"spanish": "Detalles de la cuenta",
-			"korean": "계정 정보",
+			"korean": "어카운트 정보",
 			"japanese": "アカウント詳細",
 			"english": "Account Details",
 			"german": "Kontodetails",
@@ -882,7 +882,7 @@
 		},
 		"saveImportedAccount": {
 			"spanish": "Guarde la cuenta importada permanentemente en esta billetera.",
-			"korean": "가져온 계정을이 지갑에 영구적으로 저장하십시오.",
+			"korean": "가져온 어카운트을이 지갑에 영구적으로 저장하십시오.",
 			"japanese": "インポートしたアカウントをこのウォレットに永久に保存します。",
 			"english": "Save imported account permanently in this wallet.",
 			"german": "Speichern Sie das importierte Konto dauerhaft in dieser Brieftasche.",
@@ -898,7 +898,7 @@
 		},
 		"actualFactor": {
 			"spanish": "{actualFactor} de {maxFactor} factores de autenticación",
-			"korean": "{maxFactor} 개 중 {actualFactor} 개 인증 요소",
+			"korean": "{maxFactor} 개 중 {actualFactor} 개 인증 팩터",
 			"japanese": "{maxFactor}個の認証要素のうち{actualFactor}個",
 			"english": "{actualFactor} out of {maxFactor} authentication factors",
 			"german": "{actualFactor} von {maxFactor} Authentifizierungsfaktoren",
@@ -906,7 +906,7 @@
 		},
 		"tkeySeedPhrase.add.description1": {
 			"spanish": "Tenemos la frase inicial de su cuenta a continuación.",
-			"korean": "아래에 귀하 계정의 시드 문구가 있습니다.",
+			"korean": "아래에 귀하 어카운트의 시드 문구가 있습니다.",
 			"japanese": "以下にあなたのアカウントのシードフレーズがあります。",
 			"english": "We have your account’s seed phrase below.",
 			"german": "Wir haben die Startphrase Ihres Kontos unten.",
@@ -914,7 +914,7 @@
 		},
 		"tkeySeedPhrase.add.required.description1": {
 			"spanish": "El acceso a su cuenta en binance.tor.us requiere una frase inicial. Tenemos la frase semilla de su cuenta a continuación.",
-			"korean": "binance.tor.us에서 계정에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 계정 시드 문구가 있습니다.",
+			"korean": "binance.tor.us에서 어카운트에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 어카운트 시드 문구가 있습니다.",
 			"japanese": "binance.tor.usのアカウントにアクセスするには、シードフレーズが必要です。 以下にアカウントシードフレーズがあります。",
 			"english": "Access to your account on binance.tor.us requires seed phrase. We have your account seed phrase below.",
 			"german": "Für den Zugriff auf Ihr Konto auf binance.tor.us ist eine Startphrase erforderlich. Wir haben Ihre Konto-Startphrase unten.",
@@ -938,7 +938,7 @@
 		},
 		"tkeySeedPhrase.add.note": {
 			"spanish": "Pegue su propia frase semilla aquí. Esto protegerá su cuenta de frase semilla con la configuración de seguridad tKey.",
-			"korean": "여기에 자신의 시드 문구를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 문구 계정을 보호 할 수 있습니다.",
+			"korean": "여기에 자신의 시드 문구를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 문구 어카운트을 보호 할 수 있습니다.",
 			"japanese": "ここに独自のシードフレーズを貼り付けます。 これにより、tKeyセキュリティが設定されたシードフレーズアカウントが保護されます。",
 			"english": "Paste your own seed phrase here. This will protect your seedphrase account with the tKey security set up.",
 			"german": "Fügen Sie hier Ihre eigene Samenphrase ein. Dies schützt Ihr Seedphrase-Konto mit der eingerichteten tKey-Sicherheit.",
@@ -946,7 +946,7 @@
 		},
 		"deleteAuthFactor": {
 			"spanish": "Eliminar factor de autenticación",
-			"korean": "인증 요소 삭제",
+			"korean": "인증 팩터 삭제",
 			"japanese": "認証要素を削除する",
 			"english": "Delete Authentication Factor",
 			"german": "Authentifizierungsfaktor löschen",
@@ -1010,7 +1010,7 @@
 		},
 		"defaultAccount": {
 			"spanish": "Cuenta predeterminada",
-			"korean": "기본 계정",
+			"korean": "기본 어카운트",
 			"japanese": "デフォルトのアカウント",
 			"english": "Default Account",
 			"german": "Cuenta predeterminada",
@@ -1066,7 +1066,7 @@
 		},
 		"pleaseBeSure": {
 			"spanish": "Antes de hacer clic en confirmar, asegúrese de eliminarlo como factor de autenticación.",
-			"korean": "확인을 클릭하기 전에이를 인증 요소로 삭제하십시오.",
+			"korean": "확인을 클릭하기 전에이를 인증 팩터로 삭제하십시오.",
 			"japanese": "これを認証要素として削除するには、[確認]をクリックする前に必ず確認してください。",
 			"english": "Please be very sure before you click confirm to delete this as an Authentication Factor.",
 			"german": "Bitte seien Sie sehr sicher, bevor Sie auf Bestätigen klicken, um dies als Authentifizierungsfaktor zu löschen.",
@@ -1082,7 +1082,7 @@
 		},
 		"accountPass": {
 			"spanish": "Contraseña de la cuenta",
-			"korean": "계정 비밀번호",
+			"korean": "어카운트 비밀번호",
 			"japanese": "アカウントパスワード",
 			"english": "Account Password",
 			"german": "Konto Passwort",
@@ -1114,7 +1114,7 @@
 		},
 		"newThresholdList2": {
 			"spanish": "Asegurado por SSO y dispositivo",
-			"korean": "SSO 및 장치로 보호",
+			"korean": "SSO 및 디바이스로 보호",
 			"japanese": "SSOとデバイスによって保護されています",
 			"english": "Secured by SSO and device",
 			"german": "Durch SSO und Gerät gesichert",
@@ -1122,7 +1122,7 @@
 		},
 		"youHaveExisting": {
 			"spanish": "Tiene una billetera 2FA existente en su billetera {provider}. Vincula una cuenta sin una billetera 2FA.",
-			"korean": "{provider} 지갑에 기존 2FA 지갑이 있습니다. 2FA 지갑이없는 계정을 연결하세요.",
+			"korean": "{provider} 지갑에 기존 2FA 지갑이 있습니다. 2FA 지갑이없는 어카운트을 연결하세요.",
 			"japanese": "{provider}ウォレットに既存の2FAウォレットがあります。 2FAウォレットのないアカウントをリンクしてください。",
 			"english": "You have an existing 2FA Wallet in your {provider} Wallet. Please link an account without a 2FA Wallet.",
 			"german": "Sie haben eine vorhandene 2FA-Brieftasche in Ihrer {provider} Brieftasche. Bitte verknüpfen Sie ein Konto ohne 2FA Wallet.",
@@ -1130,7 +1130,7 @@
 		},
 		"accountManagement": {
 			"spanish": "Administración de cuentas",
-			"korean": "계정 관리",
+			"korean": "어카운트 관리",
 			"japanese": "アカウント管理",
 			"english": "Account Management",
 			"german": "Kontoverwaltung",
@@ -1138,7 +1138,7 @@
 		},
 		"manageSettings": {
 			"spanish": "La seguridad de su cuenta sigue el estándar Openlogin. Será redirigido a app.openlogin.com para administrar la configuración de seguridad de su cuenta.",
-			"korean": "귀하의 계정 보안은 Openlogin 표준을 따릅니다. 계정 보안 설정을 관리하기 위해 app.openlogin.com으로 리디렉션됩니다.",
+			"korean": "귀하의 어카운트 보안은 Openlogin 표준을 따릅니다. 어카운트 보안 설정을 관리하기 위해 app.openlogin.com으로 리디렉션됩니다.",
 			"japanese": "あなたのアカウントのセキュリティはOpenlogin標準に従います。アカウントのセキュリティ設定を管理するためにapp.openlogin.comにリダイレクトされます。",
 			"english": "Your account security follows the Openlogin standard. You will be redirected to app.openlogin.com to manage your account security settings.",
 			"german": "Ihre Kontosicherheit folgt dem Openlogin-Standard. Sie werden zu app.openlogin.com weitergeleitet, um die Sicherheitseinstellungen Ihres Kontos zu verwalten.",
@@ -1162,7 +1162,7 @@
 		},
 		"listOfAuth": {
 			"spanish": "Lista de factores de autenticación",
-			"korean": "인증 요인 목록",
+			"korean": "인증 팩터 목록",
 			"japanese": "認証要素のリスト",
 			"english": "List of Authentication Factors",
 			"german": "Liste der Authentifizierungsfaktoren",
@@ -1194,7 +1194,7 @@
 		},
 		"newThresholdCreate": {
 			"spanish": "Crear cuenta OpenLogin",
-			"korean": "OpenLogin 계정 생성",
+			"korean": "OpenLogin 어카운트 생성",
 			"japanese": "OpenLoginアカウントを作成します",
 			"english": "Create OpenLogin account",
 			"german": "Erstellen Sie ein OpenLogin-Konto",
@@ -1218,7 +1218,7 @@
 		},
 		"tkeySeedPhrase.seedPhraseAccounts": {
 			"spanish": "Cuentas de frases semilla",
-			"korean": "Seed Phrase 계정",
+			"korean": "Seed Phrase 어카운트",
 			"japanese": "シードフレーズアカウント",
 			"english": "Seed Phrase Accounts",
 			"german": "Seed Phrase Accounts",
@@ -1250,7 +1250,7 @@
 		},
 		"manageOpenLogin": {
 			"spanish": "Puede administrar la configuración de su cuenta OpenLogin en",
-			"korean": "OpenLogin 계정 설정을 다음에서 관리 할 수 있습니다.",
+			"korean": "OpenLogin 어카운트 설정을 다음에서 관리 할 수 있습니다.",
 			"japanese": "OpenLoginアカウント設定はで管理できます",
 			"english": "You can manage your OpenLogin account settings on",
 			"german": "Sie können Ihre OpenLogin-Kontoeinstellungen auf verwalten",
@@ -1258,7 +1258,7 @@
 		},
 		"iconToAllow": {
 			"spanish": "icono para obtener una copia de su frase de respaldo. Guarde esta frase para recuperar la cuenta en el futuro.",
-			"korean": "아이콘을 클릭하여 백업 문구의 사본을 얻습니다. 향후 계정 복구를 위해이 문구를 저장하세요.",
+			"korean": "아이콘을 클릭하여 백업 문구의 사본을 얻습니다. 향후 어카운트 복구를 위해이 문구를 저장하세요.",
 			"japanese": "アイコンをクリックして、バックアップフレーズのコピーを取得します。 将来のアカウント回復のためにこのフレーズを保存してください。",
 			"english": "icon to get a copy of your backup phrase. Save this phrase for account recovery in future.",
 			"german": "symbol, um eine Kopie Ihrer Sicherungsphrase zu erhalten. Speichern Sie diesen Ausdruck für die zukünftige Wiederherstellung des Kontos.",
@@ -1266,7 +1266,7 @@
 		},
 		"accountSuccessfully": {
 			"spanish": "Cuenta vinculada correctamente",
-			"korean": "계정이 성공적으로 연결되었습니다.",
+			"korean": "어카운트이 성공적으로 연결되었습니다.",
 			"japanese": "アカウントが正常にリンクされました",
 			"english": "Account successfully linked",
 			"german": "Konto erfolgreich verknüpft",
@@ -1274,7 +1274,7 @@
 		},
 		"selectFactor": {
 			"spanish": "Seleccionar factor",
-			"korean": "요인 선택",
+			"korean": "팩터 선택",
 			"japanese": "係数を選択",
 			"english": "Select Factor",
 			"german": "Wählen Sie Faktor",
@@ -1290,7 +1290,7 @@
 		},
 		"theSelectedAccount": {
 			"spanish": "La cuenta predeterminada seleccionada será la cuenta que se muestra al iniciar sesión en una DApp.",
-			"korean": "선택한 기본 계정은 DApp에 로그인 할 때 표시되는 계정입니다.",
+			"korean": "선택한 기본 어카운트은 DApp에 로그인 할 때 표시되는 어카운트입니다.",
 			"japanese": "選択したデフォルトのアカウントは、DAppにサインインしたときに表示されるアカウントです。",
 			"english": "The selected default account shall be the account displayed when you sign in on a DApp.",
 			"german": "Das ausgewählte Standardkonto ist das Konto, das angezeigt wird, wenn Sie sich bei einer DApp anmelden.",
@@ -1306,7 +1306,7 @@
 		},
 		"description": {
 			"spanish": "Para administrar la configuración de seguridad de su cuenta, seleccione el enlace para continuar.",
-			"korean": "계정 보안 설정을 관리하려면 링크를 선택하여 계속하세요.",
+			"korean": "어카운트 보안 설정을 관리하려면 링크를 선택하여 계속하세요.",
 			"japanese": "アカウントのセキュリティ設定を管理するには、リンクを選択して続行してください。",
 			"english": "To manage your account security settings, select the link to continue",
 			"german": "Um die Sicherheitseinstellungen Ihres Kontos zu verwalten, wählen Sie den Link aus, um fortzufahren",
@@ -1314,7 +1314,7 @@
 		},
 		"selectFromList": {
 			"spanish": "Seleccione de la lista de factores para agregar",
-			"korean": "추가 할 요인 목록에서 선택",
+			"korean": "추가 할 팩터 목록에서 선택",
 			"japanese": "追加する因子のリストから選択します",
 			"english": "Select from the list of Factors to add",
 			"german": "Wählen Sie aus der Liste der hinzuzufügenden Faktoren",
@@ -1330,7 +1330,7 @@
 		},
 		"account": {
 			"spanish": "cuenta",
-			"korean": "계정",
+			"korean": "어카운트",
 			"japanese": "アカウント",
 			"english": "account",
 			"german": "Konto",
@@ -1338,7 +1338,7 @@
 		},
 		"device": {
 			"spanish": "Dispositivo",
-			"korean": "장치",
+			"korean": "디바이스",
 			"japanese": "端末",
 			"english": "Device",
 			"german": "Gerät",
@@ -1362,7 +1362,7 @@
 		},
 		"tkeyCreate.setUpSeedPhrase": {
 			"spanish": "Configura tu cuenta de Seed Phrase",
-			"korean": "Seed Phrase 계정 설정",
+			"korean": "Seed Phrase 어카운트 설정",
 			"japanese": "シードフレーズアカウントを設定します",
 			"english": "Setup your Seed Phrase account",
 			"german": "Richten Sie Ihr Seed Phrase-Konto ein",
@@ -1370,7 +1370,7 @@
 		},
 		"tkeySeedPhrase.addAccount": {
 			"spanish": "Añadir cuenta",
-			"korean": "계정을 추가",
+			"korean": "어카운트을 추가",
 			"japanese": "アカウントを追加する",
 			"english": "Add Account",
 			"german": "Konto hinzufügen",
@@ -1386,7 +1386,7 @@
 		},
 		"accounts": {
 			"spanish": "Cuentas",
-			"korean": "계정",
+			"korean": "어카운트",
 			"japanese": "アカウント",
 			"english": "Accounts",
 			"german": "Konten",
@@ -1442,7 +1442,7 @@
 		},
 		"addFactor": {
 			"spanish": "Agregar factor",
-			"korean": "요인 추가",
+			"korean": "팩터 추가",
 			"japanese": "因子を追加",
 			"english": "Add factor",
 			"german": "Faktor hinzufügen",
@@ -1450,7 +1450,7 @@
 		},
 		"footerBodyText": {
 			"spanish": "App.openlogin es un estándar abierto para la gestión descentralizada de cuentas de usuario en Web3 a través de Web3Auth.",
-			"korean": "App.openlogin은 Web3Auth를 통해 Web3에서 사용자 계정을 분산 관리하기 위한 개방형 표준입니다.",
+			"korean": "App.openlogin은 Web3Auth를 통해 Web3에서 사용자 어카운트을 분산 관리하기 위한 개방형 표준입니다.",
 			"japanese": "App.openloginは、Web3Authを介してWeb3上のユーザーアカウントを分散管理するためのオープンスタンダードです。",
 			"english": "App.openlogin is an open standard for decentralized user account management on Web3, by Web3Auth",
 			"german": "App.openlogin ist ein offener Standard für die dezentrale Verwaltung von Benutzerkonten auf Web3 von Web3Auth",
@@ -1458,7 +1458,7 @@
 		},
 		"createAccount": {
 			"spanish": "Crear una cuenta",
-			"korean": "계정 생성",
+			"korean": "어카운트 생성",
 			"japanese": "アカウントを作成する",
 			"english": "Create Account",
 			"german": "Benutzerkonto anlegen",
@@ -1474,7 +1474,7 @@
 		},
 		"twoFaWallet": {
 			"spanish": "Cuenta tKey",
-			"korean": "tKey 계정",
+			"korean": "tKey 어카운트",
 			"japanese": "tKeyアカウント",
 			"english": "tKey account",
 			"german": "tKey Konto",
@@ -1482,7 +1482,7 @@
 		},
 		"tkeySeedPhrase.seedPhraseAccount": {
 			"spanish": "Cuenta de frase semilla",
-			"korean": "Seed Phrase 계정",
+			"korean": "Seed Phrase 어카운트",
 			"japanese": "シードフレーズアカウント",
 			"english": "Seed Phrase Account",
 			"german": "Seed Phrase Account",
@@ -1522,7 +1522,7 @@
 		},
 		"newDesc": {
 			"spanish": "tKey es una cuenta separada con mayor seguridad. tCaracterísticas clave",
-			"korean": "tKey는 보안이 강화 된 별도의 계정입니다. t 주요 기능",
+			"korean": "tKey는 보안이 강화 된 별도의 어카운트입니다. t 주요 기능",
 			"japanese": "tKeyは、セキュリティが強化された個別のアカウントです。 tKey機能",
 			"english": "tKey is a separate account with added security. tKey features",
 			"german": "tKey ist ein separates Konto mit zusätzlicher Sicherheit. tKey-Funktionen",

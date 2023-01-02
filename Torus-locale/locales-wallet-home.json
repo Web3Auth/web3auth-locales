@@ -1,7 +1,7 @@
 {
 	"walletHome": {
 		"verifyLoginDesc1": {
-			"korean": "이 계정에 대한 로그인은 새 장치에서 감지됩니다.",
+			"korean": "이 어카운트에 대한 로그인은 새 디바이스에서 감지됩니다.",
 			"spanish": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo.",
 			"mandarin": "从新设备检测到该帐户的登录。",
 			"german": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo.",
@@ -57,7 +57,7 @@
 			"english": "Top up"
 		},
 		"walletHome": {
-			"korean": "계정 잔액",
+			"korean": "어카운트 잔액",
 			"spanish": "Balance de Cuenta",
 			"mandarin": "账户余额",
 			"german": "Kontostand",
@@ -73,7 +73,7 @@
 			"english": "I do not own digital assets"
 		},
 		"accountRecoveryDesc": {
-			"korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
+			"korean": "Torus는 어카운트 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
 			"spanish": "Torus usa Google/Facebook 2  Factor-Authentication para recuperar la cuenta",
 			"mandarin": "Torus使用Google / Facebook 2 Factor-Authentication进行帐户恢复。",
 			"german": "Torus verwendet Google / Facebook 2 Factor-Authentication zur Wiederherstellung des Kontos.",
@@ -145,7 +145,7 @@
 			"english": "Download QR"
 		},
 		"obYesSubtitle1": {
-			"korean": "토큰과 수집품을 보내고 구매하십시오. Torus Wallet 내에서 기능을 사용하려면 계정을 가져 오십시오.",
+			"korean": "토큰과 수집품을 보내고 구매하십시오. Torus Wallet 내에서 기능을 사용하려면 어카운트을 가져 오십시오.",
 			"spanish": "Envía y compra tokens y coleccionables. Importa tu cuenta existente y utiliza los beneficios de Torus.",
 			"mandarin": "发送和购买令牌和收藏品。导入您的帐户以体验Torus钱包中的功能。",
 			"german": "Senden und kaufen Sie Token und Sammlerstücke. Importieren Sie Ihr Konto, um die Funktionen in Ihrer Torus-Brieftasche zu nutzen.",
@@ -289,7 +289,7 @@
 			"english": "You can share your wallet address with others to receive digital currency and tokens."
 		},
 		"obNo2Subtitle1": {
-			"korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정의 소유권과 모든 돈을 잃게됩니다.",
+			"korean": "어카운트 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 어카운트의 소유권과 모든 돈을 잃게됩니다.",
 			"spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta.",
 			"mandarin": "这是您用来验证帐户所有权的密码。只有您可以访问它。如果您输了这笔钱，则可能会失去帐户所有权和所有资金。",
 			"german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu Rechte. Nur Sie können daran gehört,. Wenn Sie sterben verlieren, verlieren Sie verlieren den Besitz Ihres Kontos und Ihr gesamtes Geld.",
@@ -361,7 +361,7 @@
 			"english": "You just made your first transaction."
 		},
 		"obNo2Subtitle2": {
-			"korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
+			"korean": "Torus는 어카운트 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
 			"spanish": "Torus usa Google/Facebook 2 Factor-Authentication para recuperar la cuenta.",
 			"mandarin": "Torus使用Google / Facebook 2 Factor-Authentication进行帐户恢复。",
 			"german": "Torus verwendet Google / Facebook 2 Faktor-Authentifizierung zur Kontrolle des Kontos.",
@@ -433,7 +433,7 @@
 			"english": "Getting Started"
 		},
 		"privateKeyDesc": {
-			"korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정과 모든 돈의 소유권을 잃게됩니다.",
+			"korean": "어카운트 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 어카운트과 모든 돈의 소유권을 잃게됩니다.",
 			"spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta.",
 			"mandarin": "这是您用来验证帐户所有权的密码。只有您可以存取它。如果您把密码弄丢了，则可能会失去帐户所有权和所有资金。",
 			"german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu bestätigen. Nur Sie können darauf zugreifen. Wenn Sie dies verlieren, verlieren Sie möglicherweise den Besitz Ihres Kontos und Ihr gesamtes Geld.",
@@ -545,7 +545,7 @@
 			"english": "Torus Wallet created"
 		},
 		"accountRecovery": {
-			"korean": "계정 복구",
+			"korean": "어카운트 복구",
 			"spanish": "Recuperar Cuenta",
 			"mandarin": "帐户恢复",
 			"german": "Konto-Wiederherstellung",
@@ -585,7 +585,7 @@
 			"english": "Here are some key terms to guide you along"
 		},
 		"obNo2Title2": {
-			"korean": "계정 복구",
+			"korean": "어카운트 복구",
 			"spanish": "Recuperación de Cuenta",
 			"mandarin": "帐户恢复",
 			"german": "Konto-richtet",

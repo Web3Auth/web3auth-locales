@@ -21,7 +21,7 @@
 			"spanish": "Pegue su frase de recuperación enviada a {0}",
 			"english": "Paste your recovery phrase sent to {0}",
 			"japanese": "{0}に送信されたリカバリフレーズを貼り付けます",
-			"korean": "{0}(으)로 전송된 복구 문구를 붙여넣으세요.",
+			"korean": "{0}으로 전송된 복구 문구를 붙여넣으세요.",
 			"german": "Fügen Sie Ihren Wiederherstellungssatz ein, der an {0} gesendet wurde"
 		},
 		"reconstruct-backup-phrase-desc-2": {
@@ -45,7 +45,7 @@
 			"spanish": "Verificar con Touch ID / Face ID",
 			"english": "Verify with Touch ID / Face ID",
 			"japanese": "Touch ID / FaceIDで確認する",
-			"korean": "Touch ID / Face ID로 확인",
+			"korean": "Touch ID / Face ID로 인증",
 			"german": "Überprüfen Sie mit Touch ID / Face ID"
 		},
 		"reconstruct-multiple-transports-verify": {
@@ -61,7 +61,7 @@
 			"spanish": "Continuar",
 			"english": "Continue",
 			"japanese": "継続する",
-			"korean": "계속하다",
+			"korean": "계속",
 			"german": "Weitermachen"
 		},
 		"migrate-desc1": {
@@ -69,7 +69,7 @@
 			"spanish": "La última versión de Torus Wallet funciona con OpenLogin.",
 			"english": "The latest version of Torus Wallet is powered by OpenLogin.",
 			"japanese": "Torus Walletの最新バージョンは、OpenLoginを利用しています。",
-			"korean": "최신 버전의 Torus Wallet은 OpenLogin에 의해 구동됩니다.",
+			"korean": "최신 버전의 Torus Wallet은 OpenLogin으로 구동됩니다.",
 			"german": "Die neueste Version von Torus Wallet wird von OpenLogin unterstützt."
 		},
 		"2fa-setup-title1": {
@@ -77,7 +77,7 @@
 			"spanish": "Asegure su cuenta",
 			"english": "Secure your account",
 			"japanese": "アカウントを保護する",
-			"korean": "계정 보안",
+			"korean": "어카운트 보안",
 			"german": "Sichern Sie Ihr Konto"
 		},
 		"register-password-title": {
@@ -85,7 +85,7 @@
 			"spanish": "Configurar la contraseña de la cuenta",
 			"english": "Set up account password",
 			"japanese": "アカウントのパスワードを設定する",
-			"korean": "계정 비밀번호 설정",
+			"korean": "어카운트 비밀번호 설정",
 			"german": "Richten Sie das Kontokennwort ein"
 		},
 		"reconstruct-support": {
@@ -93,7 +93,7 @@
 			"spanish": "Soporte de contacto",
 			"english": "Contact support",
 			"japanese": "サポート問い合わせ先",
-			"korean": "연락처 지원",
+			"korean": "서포트 연락처",
 			"german": "Kontaktieren Sie Support"
 		},
 		"returning-sign-in-header1": {
@@ -101,7 +101,7 @@
 			"spanish": "Usa otra cuenta",
 			"english": "Use another account",
 			"japanese": "別のアカウントを使用する",
-			"korean": "다른 계정 사용",
+			"korean": "다른 어카운트 사용",
 			"german": "Benutze einen anderen Account"
 		},
 		"2fa-verify-multi-head": {
@@ -117,7 +117,7 @@
 			"spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación",
 			"english": "Login with any of the social account to set it as recovery factor",
 			"japanese": "ソーシャルアカウントのいずれかでログインして、回復要因として設定します",
-			"korean": "소셜 계정에 로그인하여 복구 계수로 설정",
+			"korean": "소셜 어카운트에 로그인하여 복구 팩터로 설정",
 			"german": "Melden Sie sich mit einem der sozialen Konto an, um es als Wiederherstellungsfaktor festzulegen"
 		},
 		"social-2fa-warning-text": {
@@ -125,7 +125,7 @@
 			"spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?",
 			"english": "You are using the same email for account login and social factor. This is insecure. Would you still like to proceed?",
 			"japanese": "アカウントログインとソーシャルファクターに同じメールを使用しています。これは不安です。まだ進みたいですか？",
-			"korean": "계정 로그인 및 소셜 요소에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않습니다. 아직도 진행하고 싶습니까?",
+			"korean": "어카운트 로그인 및 소셜 팩터에 동일한 이메일을 사용하고 있습니다. 이는 안전하지 않을수도 있습니다. 그래도 진행하시겠습니까?",
 			"german": "Sie verwenden dieselbe E -Mail für Kontoanmeldung und sozialer Faktor. Das ist unsicher. Möchten Sie immer noch fortfahren?"
 		},
 		"2fa-setup-step3-download-phrase": {
@@ -141,7 +141,7 @@
 			"spanish": "Agregue una capa adicional de seguridad a su cuenta",
 			"english": "Add an extra layer of security to your account",
 			"japanese": "アカウントにセキュリティの層を追加します",
-			"korean": "계정에 보안 계층 추가",
+			"korean": "어카운트에 보안 계층 추가",
 			"german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu"
 		},
 		"2fa-verify-title2": {
@@ -165,7 +165,7 @@
 			"spanish": "¿No puede recuperar la cuenta?",
 			"english": "Unable to recover account?",
 			"japanese": "アカウントを回復できませんか？",
-			"korean": "계정을 복구 할 수 없습니까?",
+			"korean": "어카운트을 복구 할 수 없습니까?",
 			"german": "Konto kann nicht wiederhergestellt werden?"
 		},
 		"2fa-setup-step2-sub2": {
@@ -173,7 +173,7 @@
 			"spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.",
 			"english": "Use the current browser to approve access from new devices/browsers.",
 			"japanese": "現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。",
-			"korean": "현재 브라우저를 사용하여 새 장치/브라우저에서 액세스를 승인합니다.",
+			"korean": "현재 브라우저를 사용하여 새 디바이스/브라우저에서 액세스를 승인합니다.",
 			"german": "Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen."
 		},
 		"reconstruct-device-desc1": {
@@ -197,7 +197,7 @@
 			"spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta.",
 			"english": "Signing in with this Social factor at the login page will give you a new account.",
 			"japanese": "ログインページでこのソーシャルファクターにサインインすると、新しいアカウントが提供されます。",
-			"korean": "로그인 페이지 에서이 소셜 요소에 로그인하면 새 계정이 제공됩니다.",
+			"korean": "로그인 페이지에서 이 소셜 팩터에 로그인하면 새 어카운트가 생성됩니다.",
 			"german": "Wenn Sie sich bei diesem sozialen Faktor auf der Anmeldeseite anmelden, erhalten Sie ein neues Konto."
 		},
 		"reconstruct-always-skip": {
@@ -245,7 +245,7 @@
 			"spanish": "Ingrese la contraseña de recuperación de su cuenta aquí",
 			"english": "Enter your account recovery password here",
 			"japanese": "ここにアカウント回復パスワードを入力してください",
-			"korean": "여기에 계정 복구 비밀번호를 입력하세요.",
+			"korean": "여기에 어카운트 복구 비밀번호를 입력하세요.",
 			"german": "Geben Sie hier Ihr Passwort für die Kontowiederherstellung ein"
 		},
 		"2fa-setup-step3-cancel": {
@@ -269,7 +269,7 @@
 			"spanish": "La bienvenida a bordo",
 			"english": "Welcome onboard",
 			"japanese": "ご乗車（搭乗）ありがとうございます",
-			"korean": "보드에 오신 것을 환영합니다",
+			"korean": "환영합니다",
 			"german": "Willkommen an Bord"
 		},
 		"2fa-setup-step5-sub2": {
@@ -277,7 +277,7 @@
 			"spanish": "Administre la configuración de la cuenta futura en app.openlogin.com",
 			"english": "Manage future account settings on app.openlogin.com",
 			"japanese": "app.openlogin.comで将来のアカウント設定を管理します",
-			"korean": "app.openlogin.com에서 향후 계정 설정 관리",
+			"korean": "app.openlogin.com에서 향후 어카운트 설정 관리",
 			"german": "Verwalten Sie zukünftige Kontoeinstellungen auf app.openlogin.com"
 		},
 		"reconstruct-password-placeholder": {
@@ -285,7 +285,7 @@
 			"spanish": "Contraseña de la cuenta",
 			"english": "Account password",
 			"japanese": "アカウントパスワード",
-			"korean": "계정 비밀번호",
+			"korean": "어카운트 비밀번호",
 			"german": "Konto Passwort"
 		},
 		"reconstruct-device-title": {
@@ -293,7 +293,7 @@
 			"spanish": "Dispositivos",
 			"english": "Device(s)",
 			"japanese": "デバイス",
-			"korean": "장치",
+			"korean": "디바이스",
 			"german": "Geräte"
 		},
 		"2fa-verify-recovery-title": {
@@ -349,7 +349,7 @@
 			"spanish": "Solo queremos estar seguros.",
 			"english": "We just want to be sure.",
 			"japanese": "確認したいだけです。",
-			"korean": "우리는 확신하고 싶습니다.",
+			"korean": "우리는 확신하고 싶을 뿐입니다.",
 			"german": "Wir wollen nur sicher sein."
 		},
 		"migrate-subtitle": {
@@ -373,7 +373,7 @@
 			"spanish": "Inicie sesión en su",
 			"english": "Login to your",
 			"japanese": "あなたのログイン",
-			"korean": "귀하의",
+			"korean": "당신의 것으로 로그인",
 			"german": "Melden Sie sich bei Ihrem an"
 		},
 		"register-backup-phrase-confirm-desc3": {
@@ -445,7 +445,7 @@
 			"spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID.",
 			"english": "It helps you with account recovery in case you lose your device with Touch ID / Face ID.",
 			"japanese": "Touch ID / Face ID でデバイスを紛失した場合のアカウント回復に役立ちます。",
-			"korean": "Touch ID / Face ID로 기기를 분실 한 경우 계정 복구에 도움이됩니다.",
+			"korean": "Touch ID / Face ID로 기기를 분실 한 경우 어카운트 복구에 도움이됩니다.",
 			"german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät mit Touch ID / Face ID verlieren."
 		},
 		"2fa-setup-title2": {
@@ -477,7 +477,7 @@
 			"spanish": "Establecer factor de recuperación social",
 			"english": "Set Social recovery factor",
 			"japanese": "社会的回復要因を設定します",
-			"korean": "사회 복구 요인을 설정하십시오",
+			"korean": "소셜 복구 팩터를 설정하십시오",
 			"german": "Setzen Sie den sozialen Genesungsfaktor"
 		},
 		"mpc-2fa-verify-step1-rec-label": {
@@ -485,7 +485,7 @@
 			"spanish": "Ingrese el factor de recuperación",
 			"english": "Enter recovery factor",
 			"japanese": "回復係数を入力してください",
-			"korean": "회복 계수 입력",
+			"korean": "복구 팩터 입력",
 			"german": "Erholungsfaktor eingeben"
 		},
 		"reconstruct-device-desc": {
@@ -517,7 +517,7 @@
 			"spanish": "Ver menos",
 			"english": "View less",
 			"japanese": "表示が少なくなります",
-			"korean": "덜보십시오",
+			"korean": "줄이기",
 			"german": "Weniger anzeigen"
 		},
 		"2fa-verify-success-title": {
@@ -549,7 +549,7 @@
 			"spanish": "Continuar",
 			"english": "Continue",
 			"japanese": "継続する",
-			"korean": "계속하다",
+			"korean": "계속",
 			"german": "Fortsetzen"
 		},
 		"reconstruct-backup-phrase-title": {
@@ -573,7 +573,7 @@
 			"spanish": "Guardar dispositivo actual",
 			"english": "Save current device",
 			"japanese": "現在のデバイスを保存",
-			"korean": "현재 장치 저장",
+			"korean": "현재 디바이스 저장",
 			"german": "Aktuelles Gerät speichern"
 		},
 		"2fa-setup-step4-sub22": {
@@ -589,7 +589,7 @@
 			"spanish": "Parece que aún no ha iniciado sesión en una cuenta",
 			"english": "It seems like you are not signed in to an account yet",
 			"japanese": "アカウントにまだサインインしていないようです",
-			"korean": "아직 계정에 로그인하지 않은 것 같습니다.",
+			"korean": "아직 어카운트에 로그인하지 않은 것 같습니다.",
 			"german": "Anscheinend bist du noch nicht bei einem Konto angemeldet"
 		},
 		"register-backup-phrase-confirm-desc1": {
@@ -597,7 +597,7 @@
 			"spanish": "Confirmo que he recibido el correo de recuperación.",
 			"english": "I confirm that I have received the recovery email.",
 			"japanese": "復旧メールを受信したことを確認しました。",
-			"korean": "我确认我已收到恢复电子邮件。",
+			"korean": "저는 복구 이메일을 받았음을 확인합니다.",
 			"german": "Ich bestätige, dass ich die Wiederherstellungs-E-Mail erhalten habe."
 		},
 		"2fa-verify-recovery-label": {
@@ -613,7 +613,7 @@
 			"spanish": "Construyendo tu clave en",
 			"english": "Constructing your key on",
 			"japanese": "キーを作成する",
-			"korean": "키 구성",
+			"korean": "키 구성중",
 			"german": "Bauen Sie Ihren Schlüssel auf"
 		},
 		"2fa-verify-save-head": {
@@ -621,7 +621,7 @@
 			"spanish": "Cuenta recuperada",
 			"english": "Account recovered",
 			"japanese": "アカウントが回復しました",
-			"korean": "계정 복구됨",
+			"korean": "어카운트 복구됨",
 			"german": "Konto wiederhergestellt"
 		},
 		"register-backup-phrase-desc": {
@@ -629,7 +629,7 @@
 			"spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
 			"english": "An email will be sent to you containing the backup phrase. It helps you with account recovery in case you lose your device.",
 			"japanese": "バックアップフレーズを記載したメールが送信されます。デバイスを紛失した場合のアカウントの復旧に役立ちます。",
-			"korean": "백업 문구가 포함 된 이메일이 전송됩니다.  기기 분실시 계정 복구에 도움이됩니다.",
+			"korean": "백업 문구가 포함 된 이메일이 전송됩니다. 기기 분실시 어카운트 복구에 도움이 됩니다.",
 			"german": "Sie erhalten eine E-Mail mit der Sicherungsphrase. Sie hilft Ihnen bei der Wiederherstellung des Kontos, falls Sie Ihr Gerät verlieren."
 		},
 		"2fa-setup-step3-note11": {
@@ -661,14 +661,14 @@
 			"spanish": "Dispositivos habilitados con Face ID / Touch ID *",
 			"english": "Face ID / Touch ID enabled device(s) *",
 			"japanese": "Face ID / TouchID対応デバイス*",
-			"korean": "Face ID / Touch ID 지원 장치 *",
+			"korean": "Face ID / Touch ID 지원 디바이스 *",
 			"german": "Face ID / Touch ID-fähige Geräte *"
 		},
 		"reconstruct-multiple-transports-title": {
 			"english": "Web Authentication Enabled Device(s)",
 			"german": "Webauthentifizierung aktiviertes Geräte (en)",
 			"mandarin": "Web身份验证启用设备",
-			"korean": "웹 인증 활성화 장치",
+			"korean": "웹 인증 활성화 디바이스",
 			"japanese": "Web認証有効化デバイス",
 			"spanish": "Dispositivo (s) de autenticación web"
 		},
@@ -733,7 +733,7 @@
 			"spanish": "Empezar",
 			"english": "Get Started",
 			"japanese": "はじめに",
-			"korean": "시작하다",
+			"korean": "시작하기",
 			"german": "Loslegen"
 		},
 		"2fa-setup-step4-sub1": {
@@ -749,7 +749,7 @@
 			"spanish": "¿Ya tienes una cuenta?",
 			"english": "Already have an account?",
 			"japanese": "すでにアカウントをお持ちですか？",
-			"korean": "이미 계정이 있습니까?",
+			"korean": "이미 어카운트이 있습니까?",
 			"german": "Sie haben bereits ein Konto?"
 		},
 		"social-2fa-continue-text": {
@@ -773,7 +773,7 @@
 			"spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta.",
 			"english": "As an advanced user, I know that if I lose this recovery phrase, I bear the risk of losing my account.",
 			"japanese": "上級ユーザーとして、この回復フレーズを失うと、アカウントを失うリスクがあることを私は知っています。",
-			"korean": "고급 사용자로서 나는 이 복구 문구를 잃어버리면 내 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
+			"korean": "숙련된 사용자로서, 나는 이 복구 문구를 잃어버리면 내 어카운트을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
 			"german": "Als fortgeschrittener Benutzer weiß ich, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere."
 		},
 		"2fa-setup-step1-cancel": {
@@ -813,7 +813,7 @@
 			"spanish": "Que no,",
 			"english": "If not,",
 			"japanese": "そうでない場合は、",
-			"korean": "如果不，",
+			"korean": "만약 아니라면,",
 			"german": "Wenn nicht,"
 		},
 		"register-backup-phrase-desc2": {
@@ -821,7 +821,7 @@
 			"spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
 			"english": "It helps you with account recovery in case you lose your device.",
 			"japanese": "デバイスを紛失した場合のアカウントの回復に役立ちます。",
-			"korean": "기기 분실시 계정 복구에 도움이됩니다.",
+			"korean": "기기 분실시 어카운트 복구에 도움이됩니다.",
 			"german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät verlieren."
 		},
 		"mpc-2fa-setup-step4-sub1": {
@@ -829,7 +829,7 @@
 			"spanish": "Verifique su factor de recuperación",
 			"english": "Verify your recovery factor",
 			"japanese": "回復率を確認する",
-			"korean": "회복 계수 확인",
+			"korean": "복구 팩터 확인",
 			"german": "Überprüfen Sie Ihren Erholungsfaktor"
 		},
 		"register-continue": {
@@ -837,7 +837,7 @@
 			"spanish": "Continuar",
 			"english": "Continue",
 			"japanese": "継続する",
-			"korean": "계속하다",
+			"korean": "계속하기",
 			"german": "Fortsetzen"
 		},
 		"social-2fa-warning-cta-2": {
@@ -853,7 +853,7 @@
 			"spanish": "Si selecciona 'Omitir siempre', no se le pedirá que vuelva a iniciar sesión en su cuenta de OpenLogin. Si cambia de opinión, puede cambiar esta preferencia en cualquier momento en 'Configuración'.",
 			"english": "By selecting 'Always skip', you will not be prompted to login to your OpenLogin account again. If you change your mind, you may change this preference anytime in 'Settings'.",
 			"japanese": "[常にスキップ]を選択すると、OpenLoginアカウントに再度ログインするように求められることはありません。 気が変わった場合は、「設定」でいつでもこの設定を変更できます。",
-			"korean": "'항상 건너뛰기'를 선택하면 OpenLogin 계정에 다시 로그인하라는 메시지가 표시되지 않습니다. 마음이 바뀌면 '설정'에서 언제든지 이 환경설정을 변경할 수 있습니다.",
+			"korean": "'항상 건너뛰기'를 선택하면 OpenLogin 어카운트에 다시 로그인하라는 메시지가 표시되지 않습니다. 마음이 바뀌면 '설정'에서 언제든지 이 환경설정을 변경할 수 있습니다.",
 			"german": "Wenn Sie „Immer überspringen“ auswählen, werden Sie nicht aufgefordert, sich erneut bei Ihrem OpenLogin-Konto anzumelden. Wenn Sie Ihre Meinung ändern, können Sie diese Einstellung jederzeit in den \"Einstellungen\" ändern."
 		},
 		"2fa-setup-step1-desc1": {
@@ -861,7 +861,7 @@
 			"spanish": "Cada inicio de sesión requiere 2 factores para la autenticación",
 			"english": "Each login requires 2 factors for authentication",
 			"japanese": "各ログインには、認証のために2つの要素が必要です",
-			"korean": "각 로그인에는 인증을 위해 2가지 요소가 필요합니다.",
+			"korean": "각 로그인에는 인증을 위해 2가지 팩터가 필요합니다.",
 			"german": "Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung"
 		},
 		"mpc-2fa-setup-step4-sub22": {
@@ -869,7 +869,7 @@
 			"spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}",
 			"english": "Paste the recovery factor sent to your email {0}",
 			"japanese": "メール {0} に送信された回復係数を貼り付けます",
-			"korean": "이메일로 전송된 복구 요소를 붙여넣습니다. {0}",
+			"korean": "이메일로 전송된 복구 팩터를 붙여넣기 했습니다. {0}",
 			"german": "Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0}"
 		},
 		"2fa-setup-step2-next": {
@@ -893,7 +893,7 @@
 			"spanish": "Factor de recuperación",
 			"english": "Recovery factor",
 			"japanese": "回収率",
-			"korean": "회복 계수",
+			"korean": "복구 팩터",
 			"german": "Erholungsfaktor"
 		},
 		"social-2fa-warn-text-1": {
@@ -901,7 +901,7 @@
 			"spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd@xyz.com\".",
 			"english": "This Social factor only acts as a backup share to recover your account linked to “abcd@xyz.com”.",
 			"japanese": "このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
-			"korean": "이 사회적 요소는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
+			"korean": "이 사회적 팩터는 \"abcd@xyz.com\"에 링크 된 어카운트을 복구하기위한 백업 쉐어 역할을합니다.",
 			"german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen."
 		},
 		"mpc-2fa-setup-step3-download": {
@@ -909,7 +909,7 @@
 			"spanish": "Descargar mi factor de recuperación",
 			"english": "Download my recovery factor",
 			"japanese": "私のリカバリーファクターをダウンロードする",
-			"korean": "내 회복 인자 다운로드",
+			"korean": "내 복구 팩터 다운로드",
 			"german": "Laden Sie meinen Wiederherstellungsfaktor herunter"
 		},
 		"returning-exist-title": {
@@ -949,7 +949,7 @@
 			"spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad.",
 			"english": "from any of the following devices to complete the security verification.",
 			"japanese": "次のいずれかのデバイスからセキュリティ検証を完了します。",
-			"korean": "다음 장치 중 하나에서 보안 확인을 완료하십시오.",
+			"korean": "다음 디바이스 중 하나에서 보안 인증을 완료하십시오.",
 			"german": "von einem der folgenden Geräte, um die Sicherheitsüberprüfung abzuschließen."
 		},
 		"reconstruct-backup-phrase-desc": {
@@ -973,7 +973,7 @@
 			"spanish": "reingresa tu contraseña",
 			"english": "Re-enter your password",
 			"japanese": "パスワードを再入力してください",
-			"korean": "비밀번호 재 입력",
+			"korean": "비밀번호 재입력",
 			"german": "Wiederhole die Eingabe deines Passwortes"
 		},
 		"2fa-setup-step4-contact-support": {
@@ -981,7 +981,7 @@
 			"spanish": "Soporte de contacto",
 			"english": "Contact Support",
 			"japanese": "サポート問い合わせ先",
-			"korean": "연락처 지원",
+			"korean": "지원 연락",
 			"german": "Kontaktieren Sie Support"
 		},
 		"reconstruct-backup-phrase-placeholder": {
@@ -997,7 +997,7 @@
 			"spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?",
 			"english": "Would you like to enable Touch ID / Face ID on this device?",
 			"japanese": "このデバイスでTouchID / Face IDを有効にしますか？",
-			"korean": "이 장치에서 Touch ID / Face ID를 활성화 하시겠습니까?",
+			"korean": "이 디바이스에서 Touch ID / Face ID를 활성화 하시겠습니까?",
 			"german": "Möchten Sie die Touch ID / Face ID auf diesem Gerät aktivieren?"
 		},
 		"2fa-setup-step3-note12": {
@@ -1053,7 +1053,7 @@
 			"spanish": "Factor de recuperación",
 			"english": "Recovery factor",
 			"japanese": "回収率",
-			"korean": "회복 계수",
+			"korean": "복구 팩터",
 			"german": "Erholungsfaktor"
 		},
 		"2fa-verify-reference-id": {
@@ -1077,7 +1077,7 @@
 			"spanish": "Si no puede verificar ninguno de los anteriores, no puede iniciar sesión en su cuenta.",
 			"english": "If you are unable to verify any of the above, you are unable to login to your account.",
 			"japanese": "上記のいずれかを確認できない場合は、アカウントにログインできません。",
-			"korean": "위의 항목 중 하나라도 확인할 수 없으면 계정에 로그인할 수 없습니다.",
+			"korean": "위의 항목 중 하나라도 확인할 수 없으면 어카운트에 로그인할 수 없습니다.",
 			"german": "Wenn Sie keinen der oben genannten Punkte bestätigen können, können Sie sich nicht bei Ihrem Konto anmelden."
 		},
 		"register-backup-phrase-placeholder": {
@@ -1101,7 +1101,7 @@
 			"spanish": "Saltar por ahora",
 			"english": "Skip for Now",
 			"japanese": "今はスキップ",
-			"korean": "일단은 스킵",
+			"korean": "지금은 스킵",
 			"german": "Für jetzt überspringen"
 		},
 		"returning-confirm-desc": {
@@ -1109,7 +1109,7 @@
 			"spanish": "¿Continuar con el inicio de sesión mediante datos biométricos?",
 			"english": "Continue your sign in via biometrics?",
 			"japanese": "生体認証を介してサインインを続行しますか？",
-			"korean": "생체 인식을 통해 계속 로그인 하시겠습니까?",
+			"korean": "생체 인증을 통해 계속 로그인 하시겠습니까?",
 			"german": "Mit der Anmeldung über Biometrie fortfahren?"
 		},
 		"register-biometrics-enable": {
@@ -1149,7 +1149,7 @@
 			"spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}",
 			"english": "Did not receive it? Resent. Check again in {0}",
 			"japanese": "受け取りませんでしたか？ 憤る。 {0}でもう一度確認してください",
-			"korean": "받지 못하셨나요? 화내다. {0}에서 다시 확인",
+			"korean": "받지 못하셨나요? 재전송, {0}에서 다시 확인하세요.",
 			"german": "Nicht erhalten? Übelnehmen. Erneut einchecken in {0}"
 		},
 		"2fa-verify-multi-subhead": {
@@ -1189,7 +1189,7 @@
 			"spanish": "Envíame mi frase de recuperación por correo electrónico",
 			"english": "Email me my recovery phrase",
 			"japanese": "私の回復フレーズを私にメールしてください",
-			"korean": "내 복구 문구를 이메일로 보내주세요",
+			"korean": "내 복구 문구를 이메일로 보내기",
 			"german": "Senden Sie mir meinen Wiederherstellungssatz per E-Mail"
 		},
 		"2fa-setup-step1-next": {
@@ -1205,7 +1205,7 @@
 			"spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador.",
 			"english": "I understand that clearing browser history and cookies will delete this factor on my browser.",
 			"japanese": "ブラウザの履歴とCookieをクリアすると、ブラウザのこの要素が削除されることを理解しています。",
-			"korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 요소가 삭제된다는 것을 이해합니다.",
+			"korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 팩터가 삭제된다는 것을 이해합니다.",
 			"german": "Mir ist bewusst, dass das Löschen des Browserverlaufs und der Cookies diesen Faktor in meinem Browser löscht."
 		},
 		"2fa-verify-step1-panel1": {
@@ -1221,7 +1221,7 @@
 			"spanish": "Factor de recuperación",
 			"english": "Recovery factor",
 			"japanese": "回収率",
-			"korean": "회복 계수",
+			"korean": "복구 팩터",
 			"german": "Erholungsfaktor"
 		},
 		"social-2fa-verify-email": {
@@ -1237,7 +1237,7 @@
 			"spanish": "Continuar con {0} existente",
 			"english": "Continue with existing {0}",
 			"japanese": "既存の{0}を続行します",
-			"korean": "기존 {0} 계속",
+			"korean": "기존 {0} 으로 계속",
 			"german": "Weiter mit vorhandenem {0}"
 		},
 		"register-title-additional-security": {
@@ -1245,7 +1245,7 @@
 			"spanish": "Un último paso antes de irte",
 			"english": "One last step before you go",
 			"japanese": "行く前の最後の一歩",
-			"korean": "가기 전에 마지막 단계",
+			"korean": "마지막 단계",
 			"german": "Ein letzter Schritt bevor du gehst"
 		},
 		"2fa-setup-step2-sub1": {
@@ -1349,14 +1349,14 @@
 			"spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo.",
 			"english": "Register your device with Face ID or Touch ID. Biometrics never leave your device.",
 			"japanese": "デバイスを Face ID または Touch ID で登録します。 生体認証がデバイスから離れることはありません。",
-			"korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 장치를 떠나지 않습니다.",
+			"korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 디바이스에서 절대 없어지지 않습니다.",
 			"german": "Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie."
 		},
 		"register-multiple-transports-desc": {
 			"english": "Register your device with biometrics or any web authentication methods.",
 			"german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
 			"mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
-			"korean": "생체 인식 또는 웹 인증 방법으로 장치를 등록하십시오.",
+			"korean": "생체 인식 또는 웹 인증 방법으로 디바이스를 등록하십시오.",
 			"japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
 			"spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web."
 		},
@@ -1364,7 +1364,7 @@
 			"english": "Register your device any web authentication methods.",
 			"german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
 			"mandarin": "注册您的设备任何Web身份验证方法。",
-			"korean": "웹 인증 방법을 장치에 등록하십시오.",
+			"korean": "웹 인증 방법을 디바이스에 등록하십시오.",
 			"japanese": "Web認証方法をデバイスに登録してください。",
 			"spanish": "Registre su dispositivo cualquier método de autenticación web."
 		},
@@ -1381,7 +1381,7 @@
 			"spanish": "versión anterior de Torus Wallet",
 			"english": "previous version of the Torus Wallet",
 			"japanese": "トーラスウォレットの以前のバージョン",
-			"korean": "이전 버전의 토러스 지갑",
+			"korean": "이전 버전의 Torus 지갑",
 			"german": "vorherige Version der Torus-Brieftasche"
 		},
 		"2fa-setup-step3-next4": {
@@ -1405,14 +1405,14 @@
 			"spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:",
 			"english": "* Only for Touch ID / Face ID previously set up on the following device(s):",
 			"japanese": "*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：",
-			"korean": "* 다음 장치에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
+			"korean": "* 다음 디바이스에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
 			"german": "* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:"
 		},
 		"reconstruct-multiple-transports-desc": {
 			"english": "Only for web authentication methods that was previously set up on the following device(s)",
 			"german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
 			"mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
-			"korean": "다음 장치에서 이전에 설정된 웹 인증 방법에 대해서만",
+			"korean": "다음 디바이스에서 이전에 설정된 웹 인증 방법에 대해서만",
 			"japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
 			"spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos"
 		},
@@ -1437,7 +1437,7 @@
 			"spanish": "Pegar el factor de recuperación",
 			"english": "Paste the recovery factor",
 			"japanese": "回復係数を貼り付けます",
-			"korean": "회복 인자 붙여넣기",
+			"korean": "복구 팩터 붙여넣기",
 			"german": "Fügen Sie den Wiederherstellungsfaktor ein"
 		},
 		"2fa-verify-step1-sub1": {
@@ -1469,7 +1469,7 @@
 			"spanish": "Verifique con su cuenta social",
 			"english": "Verify with your social account",
 			"japanese": "ソーシャルアカウントで確認します",
-			"korean": "소셜 계정으로 확인하십시오",
+			"korean": "소셜 어카운트으로 확인하십시오",
 			"german": "Überprüfen Sie mit Ihrem sozialen Konto"
 		},
 		"register-subtitle-additional-security": {
@@ -1477,7 +1477,7 @@
 			"spanish": "La seguridad de su cuenta es importante. Hagamos una copia de seguridad.",
 			"english": "Your account security matters. Let’s back it up.",
 			"japanese": "アカウントのセキュリティが重要です。 後押ししましょう。",
-			"korean": "귀하의 계정 보안이 중요합니다. 백업합시다.",
+			"korean": "귀하의 어카운트 보안이 중요합니다. 백업합시다.",
 			"german": "Die Sicherheit Ihres Kontos ist wichtig. Lass es uns sichern."
 		},
 		"2fa-setup-step1-sub3": {
@@ -1485,7 +1485,7 @@
 			"spanish": "Agregue una capa adicional de seguridad a su cuenta y proteja sus activos.",
 			"english": "Add an extra layer of security to your account and safekeep your assets.",
 			"japanese": "アカウントにセキュリティの層を追加し、資産を保護します。",
-			"korean": "계정에 보안 계층을 추가하고 자산을 보호하십시오.",
+			"korean": "어카운트에 보안 계층을 추가하고 자산을 보호하십시오.",
 			"german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu und bewahren Sie Ihre Vermögenswerte sicher auf."
 		},
 		"social-2fa-subtitle-2": {
@@ -1493,7 +1493,7 @@
 			"spanish": "En caso de que pierda acceso a su navegador guardado, puede autenticarse con su cuenta social.",
 			"english": "In case you lose access to your saved browser, you can authenticate with your Social account.",
 			"japanese": "保存されたブラウザへのアクセスを失う場合は、ソーシャルアカウントで認証できます。",
-			"korean": "저장된 브라우저에 대한 액세스 권한을 잃어버린 경우 소셜 계정으로 인증 할 수 있습니다.",
+			"korean": "저장된 브라우저에 대한 액세스 권한을 잃어버린 경우 소셜 어카운트으로 인증 할 수 있습니다.",
 			"german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrem sozialen Konto authentifizieren."
 		},
 		"popup-here": {
@@ -1517,7 +1517,7 @@
 			"spanish": "Usa otra cuenta",
 			"english": "Use another account",
 			"japanese": "別のアカウントを使用する",
-			"korean": "다른 계정 사용",
+			"korean": "다른 어카운트 사용",
 			"german": "Benutze einen anderen Account"
 		},
 		"popup-view-less": {
@@ -1541,7 +1541,7 @@
 			"spanish": "No guarde este navegador / dispositivo.",
 			"english": "Do not save this brower/device.",
 			"japanese": "このブラウザ/デバイスを保存しないでください。",
-			"korean": "이 브라우저/장치를 저장하지 마십시오.",
+			"korean": "이 브라우저/디바이스를 저장하지 마십시오.",
 			"german": "Speichern Sie diesen Browser/dieses Gerät nicht."
 		},
 		"2fa-setup-step3-sub22": {
@@ -1549,7 +1549,7 @@
 			"spanish": "Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta.",
 			"english": "I know that if I lose this recovery phrase, I will bear the risk of losing my account.",
 			"japanese": "この回復フレーズを失った場合、アカウントを失うリスクを負うことを私は知っています。",
-			"korean": "이 복구 문구를 잃어버리면 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
+			"korean": "이 복구 문구를 잃어버리면 어카운트을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
 			"german": "Ich weiß, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere."
 		},
 		"returning-header-desc": {
@@ -1613,7 +1613,7 @@
 			"spanish": "Verifique con uno de los siguientes para acceder a su cuenta",
 			"english": "Verify with one of the following to access your account",
 			"japanese": "アカウントにアクセスするには、次のいずれかで確認してください",
-			"korean": "계정에 액세스하려면 다음 중 하나로 확인하세요.",
+			"korean": "어카운트에 액세스하려면 다음 중 하나로 확인하세요.",
 			"german": "Überprüfen Sie mit einem der folgenden Punkte, um auf Ihr Konto zuzugreifen"
 		},
 		"register-title": {
@@ -1621,7 +1621,7 @@
 			"spanish": "Asegurar su cuenta de {0}",
 			"english": "Securing your {0} account",
 			"japanese": "{0}アカウントを保護する",
-			"korean": "{0} 계정 보안",
+			"korean": "{0} 어카운트 보안",
 			"german": "Sichern Sie Ihr {0} Konto"
 		},
 		"register-title-try-webauth": {
@@ -1629,7 +1629,7 @@
 			"spanish": "Asegurar su cuenta",
 			"english": "Securing your account",
 			"japanese": "アカウントを保護する",
-			"korean": "계정 보안",
+			"korean": "어카운트 보안",
 			"german": "Sichern Sie Ihr Konto"
 		},
 		"reconstruct-device-prev3": {
@@ -1669,7 +1669,7 @@
 			"spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?",
 			"english": "Would you like to save this device as a trusted device?",
 			"japanese": "このデバイスを信頼できるデバイスとして保存しますか？",
-			"korean": "이 장치를 신뢰할 수 있는 장치로 저장하시겠습니까?",
+			"korean": "이 디바이스를 신뢰할 수 있는 디바이스로 저장하시겠습니까?",
 			"german": "Möchten Sie dieses Gerät als vertrauenswürdiges Gerät speichern?"
 		},
 		"2fa-setup-title5": {
@@ -1701,7 +1701,7 @@
 			"spanish": "Factor de recuperación social",
 			"english": "Social Recovery factor",
 			"japanese": "社会的回復要因",
-			"korean": "사회 복구 요인",
+			"korean": "사회 복구 팩터",
 			"german": "Sozialer Genesungsfaktor"
 		},
 		"register-backup-phrase-additional-security-desc1": {
@@ -1717,7 +1717,7 @@
 			"spanish": "Administrar cuenta",
 			"english": "Manage account",
 			"japanese": "アカウントを管理する",
-			"korean": "계정 관리",
+			"korean": "어카운트 관리",
 			"german": "Konto verwalten"
 		},
 		"2fa-verify-try-other": {
@@ -1749,7 +1749,7 @@
 			"spanish": "Asegurado por SSO y dispositivo",
 			"english": "Secured by SSO and device",
 			"japanese": "SSOとデバイスによって保護されています",
-			"korean": "SSO 및 장치로 보호",
+			"korean": "SSO 및 디바이스로 보호",
 			"german": "Durch SSO und Gerät gesichert"
 		},
 		"2fa-verify-step1-verify": {

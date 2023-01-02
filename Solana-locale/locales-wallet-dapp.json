@@ -651,7 +651,7 @@
 			"mandarin": "Twitter和Github帐户对于各自的用户名是独特的。更改用户名将会取代现有帐户。",
 			"spanish": "Las cuentas de Twitter y Github son únicas para sus respectivos nombres de usuario. Un cambio en el nombre de usuario reemplazará la cuenta existente.",
 			"japanese": "TwitterおよびGithubアカウントは、それぞれのユーザー名に固有です。ユーザー名を変更すると、既存のアカウントが置き換えられます。",
-			"korean": "Twitter 및 Github 계정은 해당 사용자 이름에 고유합니다. 사용자 이름 변경은 기존 계정을 대체합니다.",
+			"korean": "Twitter 및 Github 어카운트은 해당 사용자 이름에 고유합니다. 사용자 이름 변경은 기존 어카운트을 대체합니다.",
 			"german": "Twitter- und Github-Konten sind für ihren jeweiligen Benutzernamen eindeutig. Eine Änderung des Benutzernamens ersetzt das vorhandene Konto.",
 			"english": "Twitter and Github accounts are unique to their respective username. A change in username will replace the existing account."
 		},
@@ -743,7 +743,7 @@
 			"mandarin": "试用一下，并将其用作此DApp上交易的首选帐户",
 			"spanish": "para probarlo y usarlo como su cuenta preferida para transacciones en esta DApp",
 			"japanese": "それを試して、このDAppでのトランザクションの優先アカウントとして使用するには",
-			"korean": "시험 해보고이 DApp에서 거래를위한 선호 계정으로 사용하려면",
+			"korean": "시험 해보고이 DApp에서 거래를위한 선호 어카운트으로 사용하려면",
 			"german": "um es auszuprobieren und als Ihr bevorzugtes Konto für Transaktionen auf dieser DApp zu verwenden",
 			"english": "to try it out and use it as your preferred account for transactions on this DApp"
 		},
@@ -759,7 +759,7 @@
 			"mandarin": "在Torus钱包上可以使用tKey帐户。您可以登入",
 			"spanish": "Una cuenta tKey está disponible en Torus Wallet. Puede iniciar sesión",
 			"japanese": "tKeyアカウントはTorusWalletで利用できます。ログインできます",
-			"korean": "tKey 계정은 Torus Wallet에서 사용할 수 있습니다. 로그인 할 수 있습니다",
+			"korean": "tKey 어카운트은 Torus Wallet에서 사용할 수 있습니다. 로그인 할 수 있습니다",
 			"german": "Ein tKey-Konto ist auf Torus Wallet verfügbar. Sie können sich anmelden",
 			"english": "A tKey account is available on Torus Wallet. You can login"
 		}
@@ -881,7 +881,7 @@
 			"mandarin": "注意：通过单击允许，您授予DApp权限，以便在接下来的{num}小时内与您的帐户进行无限制的互动",
 			"spanish": "NOTA: Al hacer clic en permitir, otorga permiso a la DApp para interacción ilimitada con su cuenta dentro de las próximas {num} horas.",
 			"japanese": "注：[許可]をクリックすると、次の{num}時間以内にアカウントとの無制限のやり取りをDAppに許可します",
-			"korean": "참고 : 허용을 클릭하면 다음 {num} 시간 이내에 계정과의 무제한 상호 작용에 대한 DApp 권한을 부여합니다",
+			"korean": "참고 : 허용을 클릭하면 다음 {num} 시간 이내에 어카운트과의 무제한 상호 작용에 대한 DApp 권한을 부여합니다",
 			"german": "HINWEIS: Wenn Sie auf Zulassen klicken, erteilen Sie die DApp-Berechtigung für die uneingeschränkte Interaktion mit Ihrem Konto innerhalb der nächsten {num} Stunden",
 			"english": "NOTE: By clicking allow, you grant the DApp permission for unlimited interaction with your account within the next {num} hrs"
 		},

@@ -1,7 +1,7 @@
 {
 	"account": {
 		"auth-factors-threshold-factor": {
-			"korean": "{0} 인증 요소",
+			"korean": "{0} 인증 팩터",
 			"spanish": "{0} Factor de autenticación",
 			"english": "{0} Authentication factor",
 			"mandarin": "{0}认证因素",
@@ -9,7 +9,7 @@
 			"japanese": "{0}認証要素"
 		},
 		"auth-factors-threshold-desc": {
-			"korean": "계정에 액세스하기 위해 인증 할 요소의 수입니다.",
+			"korean": "어카운트에 액세스하기 위해 인증 할 팩터의 수입니다.",
 			"spanish": "La cantidad de factores que se deben autenticar para acceder a su cuenta.",
 			"english": "The number of factors to authenticate in order to access your account.",
 			"mandarin": "要访问您的帐户进行身份验证的因素数量。",
@@ -44,7 +44,7 @@
 			"japanese": "電流"
 		},
 		"mpc-export-share-note": {
-			"korean": "참고: 이 복구 요소는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
+			"korean": "참고: 이 복구 팩터는 어카운트을 인증하는 데 필요한 팩터 중 하나입니다. 향후 어카운트 복구의 일환으로 안전한 곳에 보관하십시오.",
 			"spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro.",
 			"english": "Note: This recovery factor is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
 			"mandarin": "注意：此恢复因素是验证您的帐户所需的因素之一。将其保存在安全的地方，作为您未来帐户恢复的一部分。",
@@ -63,7 +63,7 @@
 			"japanese": "パスワードを作る"
 		},
 		"title": {
-			"korean": "계정",
+			"korean": "어카운트",
 			"spanish": "Cuenta",
 			"english": "Account",
 			"mandarin": "帐户",
@@ -82,7 +82,7 @@
 			"english": "Remove share"
 		},
 		"social-factor-change": {
-			"korean": "사회적 요인을 변경하십시오",
+			"korean": "소셜 팩터를 변경하십시오",
 			"spanish": "Cambiar el factor social",
 			"english": "Change Social Factor",
 			"mandarin": "改变社会因素",
@@ -114,7 +114,7 @@
 			"japanese": "Torusノードを介したソーシャルログイン"
 		},
 		"export-share-note": {
-			"korean": "참고: 이 복구 문구는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
+			"korean": "참고: 이 복구 문구는 어카운트을 인증하는 데 필요한 팩터 중 하나입니다. 향후 어카운트 복구의 일환으로 안전한 곳에 보관하십시오.",
 			"spanish": "Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro.",
 			"english": "Note: This recovery phrase is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
 			"mandarin": "注意：此恢复短语是验证您的帐户所需的因素之一。 将其保存在安全的地方，作为将来恢复帐户的一部分。",
@@ -146,7 +146,7 @@
 			"japanese": "{0}にダウンロード"
 		},
 		"auth-factors-password": {
-			"korean": "계정 비밀번호",
+			"korean": "어카운트 비밀번호",
 			"spanish": "Contraseña de la cuenta",
 			"english": "Account password",
 			"mandarin": "户口密码",
@@ -154,7 +154,7 @@
 			"japanese": "アカウントパスワード"
 		},
 		"auth-factors-device-empty": {
-			"korean": "장치 공유가 없습니다.",
+			"korean": "디바이스 공유가 없습니다.",
 			"spanish": "No se encontraron recursos compartidos de dispositivos",
 			"english": "No device shares found",
 			"mandarin": "未找到设备共享",
@@ -189,7 +189,7 @@
 			"japanese": "送信済み"
 		},
 		"export-onkey-note": {
-			"korean": "2FA를 활성화하여 계정 보안 강화",
+			"korean": "2FA를 활성화하여 어카운트 보안 강화",
 			"spanish": "Aumente la seguridad de su cuenta habilitando 2FA",
 			"english": "Increase your account security by enabling 2FA",
 			"mandarin": "通过启用 2FA 提高您的帐户安全性",
@@ -197,7 +197,7 @@
 			"japanese": "2FAを有効にして、アカウントのセキュリティを強化します"
 		},
 		"auth-factors-device-title": {
-			"korean": "장치",
+			"korean": "디바이스",
 			"spanish": "Dispositivos",
 			"english": "Device(s)",
 			"mandarin": "设备",
@@ -205,7 +205,7 @@
 			"japanese": "デバイス"
 		},
 		"auth-factors-threshold": {
-			"korean": "보안 요소",
+			"korean": "보안 팩터",
 			"spanish": "Factores de seguridad",
 			"english": "Security Factors",
 			"mandarin": "安全因素",
@@ -213,7 +213,7 @@
 			"japanese": "セキュリティ要因"
 		},
 		"auth-factors-device-desc": {
-			"korean": "이러한 장치는 귀하의 계정에 액세스 할 수있는 고유 한 요소입니다.",
+			"korean": "이러한 디바이스는 귀하의 어카운트에 액세스 할 수있는 고유 한 팩터입니다.",
 			"spanish": "Estos dispositivos son factores únicos autorizados para acceder a su cuenta.",
 			"english": "These devices are unique factors authorized to access your account.",
 			"mandarin": "这些设备是被授权访问您的帐户的独特因素。",
@@ -269,7 +269,7 @@
 			"japanese": "ここでOpenLogin設定を管理します"
 		},
 		"auth-factors-subtitle": {
-			"korean": "인증 요인 목록",
+			"korean": "인증 팩터 목록",
 			"spanish": "Lista de factores de autenticación",
 			"english": "List of Authentication factors",
 			"mandarin": "认证因素清单",
@@ -285,7 +285,7 @@
 			"japanese": "復旧メール（既存）"
 		},
 		"mpc-auth-factors-recovery-phrase": {
-			"korean": "회복 계수",
+			"korean": "복구 팩터",
 			"spanish": "Factor de recuperación",
 			"english": "Recovery factor",
 			"mandarin": "恢复系数",

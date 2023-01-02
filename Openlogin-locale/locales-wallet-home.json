@@ -4,7 +4,7 @@
 			"english": "A new login is trying to access your account.",
 			"japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
 			"german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
-			"korean": "새 로그인으로 계정에 액세스하려고합니다.",
+			"korean": "새 로그인으로 어카운트에 액세스하려고합니다.",
 			"spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta.",
 			"mandarin": "新的登录名正在尝试登记入您的帐户。"
 		},
@@ -20,7 +20,7 @@
 			"english": "report it",
 			"japanese": "それを報告する",
 			"german": "berichten Sie",
-			"korean": "보고서",
+			"korean": "보고하기",
 			"spanish": "Informe",
 			"mandarin": "举报"
 		},
@@ -28,7 +28,7 @@
 			"english": "View Authorized Apps",
 			"japanese": "承認されたアプリを表示する",
 			"german": "Autorisierte Apps anzeigen",
-			"korean": "승인 된 앱보기",
+			"korean": "승인 된 앱 보기",
 			"spanish": "Ver aplicaciones autorizadas",
 			"mandarin": "查看授权的应用"
 		},
@@ -52,7 +52,7 @@
 			"english": "Contact Support",
 			"japanese": "サポート問い合わせ先",
 			"german": "Kontaktieren Sie Support",
-			"korean": "연락처 지원",
+			"korean": "지원 연락",
 			"spanish": "Soporte de contacto",
 			"mandarin": "联系支持人员"
 		},
@@ -68,7 +68,7 @@
 			"english": "Secure Torus sign in",
 			"japanese": "セキュアトーラスサインイン",
 			"german": "Sichere Torus-Anmeldung",
-			"korean": "보안 토러스 로그인",
+			"korean": "보안 Torus 로그인",
 			"spanish": "Iniciar sesión Secure Torus",
 			"mandarin": "安全Torus登录"
 		},
@@ -84,7 +84,7 @@
 			"english": "account",
 			"japanese": "アカウント",
 			"german": "konto",
-			"korean": "계정",
+			"korean": "어카운트",
 			"spanish": "cuenta",
 			"mandarin": "帐户"
 		},
@@ -92,7 +92,7 @@
 			"english": "Manage account",
 			"japanese": "アカウントを管理する",
 			"german": "Konto verwalten",
-			"korean": "계정 관리",
+			"korean": "어카운트 관리",
 			"spanish": "Administrar cuenta",
 			"mandarin": "管理帐户"
 		},
@@ -100,7 +100,7 @@
 			"english": "Take charge of your digital presence with OpenLogin.",
 			"japanese": "OpenLoginでデジタルプレゼンスを管理します。",
 			"german": "Übernehmen Sie mit OpenLogin die Kontrolle über Ihre digitale Präsenz.",
-			"korean": "OpenLogin으로 디지털 존재를 관리하십시오.",
+			"korean": "OpenLogin으로 디지털 자산을 관리하십시오.",
 			"spanish": "Hágase cargo de su presencia digital con OpenLogin.",
 			"mandarin": "使用OpenLogin来管理您的数字业务。"
 		},
@@ -108,7 +108,7 @@
 			"english": "This is not me,",
 			"japanese": "これは私ではない、",
 			"german": "Das bin nicht ich,",
-			"korean": "이건 내가 아니다",
+			"korean": "이건 내가 아닙니다,",
 			"spanish": "Este no soy yo,",
 			"mandarin": "这不是我，"
 		}

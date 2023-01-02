@@ -18,7 +18,7 @@
 		},
 		"haveAccount": {
 			"mandarin": "已经有一个帐户。登录",
-			"korean": "이미 계정이 있습니다. 로그인",
+			"korean": "이미 어카운트이 있습니다. 로그인",
 			"spanish": "Ya tienes una cuenta? Inicia sesión",
 			"english": "Already have an account. Log in",
 			"japanese": "すでにアカウントをお持ちですか。ログインする",
@@ -50,7 +50,7 @@
 		},
 		"haveAccountQuestion": {
 			"mandarin": "已经有帐号了？登录",
-			"korean": "이미 계정이 있습니까? 로그인",
+			"korean": "이미 어카운트이 있습니까? 로그인",
 			"spanish": "Ya tienes una cuenta? Inicia sesión",
 			"english": "Already have an account? Log in",
 			"japanese": "すでにアカウントをお持ちですか？ログインする",
@@ -114,7 +114,7 @@
 		},
 		"checkEmailAndKey": {
 			"mandarin": "检查您的电子邮件并输入验证码以访问您的帐户",
-			"korean": "계정에 액세스하려면 이메일을 확인하고 인증 코드를 입력하십시오",
+			"korean": "어카운트에 액세스하려면 이메일을 확인하고 인증 코드를 입력하십시오",
 			"spanish": "Revisa tu correo y el código de verificación para acceder a tu cuenta",
 			"english": "Check your email and key in the verification code to access your account",
 			"japanese": "メールを確認し、確認コードを入力してアカウントにアクセスします",
@@ -130,7 +130,7 @@
 		},
 		"dontHaveAcnt": {
 			"mandarin": "还没有帐号？",
-			"korean": "계정이 없습니까?",
+			"korean": "어카운트이 없습니까?",
 			"spanish": "No tienes cuenta?",
 			"english": "Don't have an account?",
 			"japanese": "アカウントを持っていないのですか？",
@@ -186,7 +186,7 @@
 		},
 		"checkPhoneAndKey": {
 			"mandarin": "检查您的电话并输入验证码以访问您的帐户",
-			"korean": "휴대 전화를 확인하고 인증 코드를 입력하여 계정에 액세스하십시오",
+			"korean": "휴대 전화를 확인하고 인증 코드를 입력하여 어카운트에 액세스하십시오",
 			"spanish": "Revisa tu móvil y el código de verificación para acceder a tu cuenta",
 			"english": "Check your phone and key in the verification code to access your account",
 			"japanese": "電話を確認し、確認コードを入力してアカウントにアクセスします",
@@ -194,7 +194,7 @@
 		},
 		"verifySuccess": {
 			"mandarin": "您已成功验证您的帐户",
-			"korean": "계정을 성공적으로 확인했습니다",
+			"korean": "어카운트을 성공적으로 확인했습니다",
 			"spanish": "Haz verificado tu cuenta con éxito",
 			"english": "You have successfully verified your account",
 			"japanese": "アカウントを確認しました",

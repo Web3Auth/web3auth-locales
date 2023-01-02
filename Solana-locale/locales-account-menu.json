@@ -5,7 +5,7 @@
 			"german": "Konto importieren",
 			"japanese": "アカウントをインポート",
 			"mandarin": "导入帐号",
-			"korean": "계정 가져 오기",
+			"korean": "어카운트 가져 오기",
 			"english": "Import Account"
 		},
 		"keystore": {
@@ -53,7 +53,7 @@
 			"german": "Importiertes Konto",
 			"japanese": "インポートされたアカウント",
 			"mandarin": "汇入帐户",
-			"korean": "가져온 계정",
+			"korean": "가져온 어카운트",
 			"english": "Imported Account"
 		},
 		"uploadJsonLabel": {
@@ -205,7 +205,7 @@
 			"german": "Konto",
 			"japanese": "アカウント",
 			"mandarin": "帐户",
-			"korean": "계정",
+			"korean": "어카운트",
 			"english": "Account"
 		},
 		"seedPhrase": {

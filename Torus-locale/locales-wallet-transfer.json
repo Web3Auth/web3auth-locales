@@ -124,7 +124,7 @@
 			"mandarin": "账户余额",
 			"german": "Kontostand",
 			"japanese": "残高",
-			"korean": "계정 잔액",
+			"korean": "어카운트 잔액",
 			"spanish": "Balance de Cuenta",
 			"english": "Account Balances"
 		},
@@ -364,7 +364,7 @@
 			"mandarin": "该链没有添加到.bit帐户的地址",
 			"german": "Es gibt keine Adresse dieser Kette, die dem .bit -Konto hinzugefügt wurde",
 			"japanese": ".bitアカウントに追加されたこのチェーンのアドレスはありません",
-			"korean": ".BIT 계정에 추가 된이 체인의 주소가 없습니다.",
+			"korean": ".BIT 어카운트에 추가 된이 체인의 주소가 없습니다.",
 			"spanish": "No hay dirección de esta cadena agregada a la cuenta .bit",
 			"english": "There is no address of this chain added to the .bit account"
 		},
@@ -556,7 +556,7 @@
 			"mandarin": "请验证这是否是正确的帐户",
 			"german": "Bitte überprüfen Sie, ob dies das richtige Konto ist",
 			"japanese": "これが正しいアカウントかどうかを確認してください",
-			"korean": "이것이 올바른 계정인지 확인하십시오",
+			"korean": "이것이 올바른 어카운트인지 확인하십시오",
 			"spanish": "Verifica que es la cuenta adecuada",
 			"english": "Please verify if this is the right account"
 		},
@@ -596,7 +596,7 @@
 			"mandarin": "无效的.bit帐户",
 			"german": "Ungültiges .bit -Konto",
 			"japanese": "無効な.bitアカウント",
-			"korean": "잘못된 .BIT 계정",
+			"korean": "잘못된 .BIT 어카운트",
 			"spanish": "Cuenta de .bit inválida",
 			"english": "Invalid .bit account"
 		},
@@ -748,7 +748,7 @@
 			"mandarin": "联系人帐户名称",
 			"german": "Name des Kontaktkontos",
 			"japanese": "連絡先アカウント名",
-			"korean": "연락 계정 이름",
+			"korean": "연락 어카운트 이름",
 			"spanish": "Nombre de Contacto",
 			"english": "Contact Account Name"
 		},
@@ -830,7 +830,7 @@
 			"mandarin": ".bit帐户",
 			"german": ".bit -Konto",
 			"japanese": ".bitアカウント",
-			"korean": ". 비트 계정",
+			"korean": ". 비트 어카운트",
 			"spanish": "cuenta de .BIT",
 			"english": ".bit Account"
 		}

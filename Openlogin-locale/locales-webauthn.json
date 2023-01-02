@@ -116,7 +116,7 @@
 			"mandarin": "注册您的设备",
 			"german": "Registrieren Ihres Geräts",
 			"japanese": "デバイスの登録",
-			"korean": "장치 등록",
+			"korean": "디바이스 등록",
 			"spanish": "Registro de su dispositivo",
 			"english": "Registering your device"
 		},
@@ -164,7 +164,7 @@
 			"mandarin": "您要注册此设备吗？",
 			"german": "Möchten Sie dieses Gerät registrieren?",
 			"japanese": "このデバイスを登録しますか？",
-			"korean": "이 장치를 등록하시겠습니까?",
+			"korean": "이 디바이스를 등록하시겠습니까?",
 			"spanish": "¿Le gustaría registrar este dispositivo?",
 			"english": "Would you like to register this device?"
 		}

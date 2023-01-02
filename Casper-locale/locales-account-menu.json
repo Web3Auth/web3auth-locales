@@ -12,7 +12,7 @@
             "english": "Imported Account",
             "mandarin": "汇入帐户",
             "japanese": "インポートされたアカウント",
-            "korean": "불러온 계정",
+            "korean": "불러온 어카운트",
             "german": "Importiertes Konto",
             "spanish": "Cuenta importada"
         },
@@ -60,7 +60,7 @@
             "english": "Account",
             "mandarin": "帐户",
             "japanese": "アカウント",
-            "korean": "계정",
+            "korean": "어카운트",
             "german": "Konto",
             "spanish": "Cuenta"
         },
@@ -68,7 +68,7 @@
             "english": "Import Account",
             "mandarin": "导入帐号",
             "japanese": "アカウントをインポート",
-            "korean": "계정 가져 오기",
+            "korean": "어카운트 가져 오기",
             "german": "Konto importieren",
             "spanish": "Importar cuenta"
         },

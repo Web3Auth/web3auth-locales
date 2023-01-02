@@ -61,7 +61,7 @@
         },
         "contactName": {
             "english": "Contact Account Name",
-            "korean": "연락 계정 이름",
+            "korean": "연락 어카운트 이름",
             "spanish": "Nombre de Contacto",
             "mandarin": "联系人帐户名称",
             "german": "Name des Kontaktkontos",
@@ -309,7 +309,7 @@
         },
         "twitterVerifyNote": {
             "english": "Please verify if this is the right account",
-            "korean": "이것이 올바른 계정인지 확인하십시오",
+            "korean": "이것이 올바른 어카운트인지 확인하십시오",
             "spanish": "Verifica que es la cuenta adecuada",
             "mandarin": "请验证这是否是正确的帐户",
             "german": "Bitte überprüfen Sie, ob dies das richtige Konto ist",
@@ -491,7 +491,7 @@
         },
         "accountBalance": {
             "english": "Account Balance",
-            "korean": "계정 잔액",
+            "korean": "어카운트 잔액",
             "spanish": "Balance de Cuenta",
             "mandarin": "账户余额",
             "german": "Kontostand",

@@ -1,7 +1,7 @@
 {
     "emailLogin": {
         "haveAccount": {
-            "korean": "이미 계정이 있습니다. 로그인하기",
+            "korean": "이미 어카운트이 있습니다. 로그인하기",
             "spanish": "Ya tienes una cuenta? Inicia sesión",
             "german": "Sie haben bereits ein Konto. Einloggen",
             "english": "Already have an account. Log in",
@@ -17,7 +17,7 @@
             "japanese": "ここからサインアップ"
         },
         "haveAccountQuestion": {
-            "korean": "이미 계정이 있습니까? 로그인하기",
+            "korean": "이미 어카운트이 있습니까? 로그인하기",
             "spanish": "Ya tienes una cuenta? Inicia sesión",
             "german": "Sie haben bereits ein Konto? Einloggen",
             "english": "Already have an account? Log in",
@@ -113,7 +113,7 @@
             "japanese": "ログインする"
         },
         "dontHaveAcnt": {
-            "korean": "계정이 없나요?",
+            "korean": "어카운트이 없나요?",
             "spanish": "No tienes cuenta?",
             "german": "Sie haben noch keinen Account?",
             "english": "Don't have an account?",
@@ -161,7 +161,7 @@
             "japanese": "電話番号またはパスワードが正しくありません。もう一度やり直してください。"
         },
         "verifySuccess": {
-            "korean": "계정을 성공적으로 확인했습니다",
+            "korean": "어카운트을 성공적으로 확인했습니다",
             "spanish": "Haz verificado tu cuenta con éxito",
             "german": "Sie haben Ihr Konto erfolgreich verifiziert",
             "english": "You have successfully verified your account",
@@ -217,7 +217,7 @@
             "japanese": "パスワードの長さは8文字以上である必要があります"
         },
         "checkPhoneAndKey": {
-            "korean": "휴대 전화를 확인하고 인증 코드를 입력하여 계정에 액세스하세요",
+            "korean": "휴대 전화를 확인하고 인증 코드를 입력하여 어카운트에 액세스하세요",
             "spanish": "Revisa tu móvil y el código de verificación para acceder a tu cuenta",
             "german": "Überprüfen Sie Ihr Telefon und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen",
             "english": "Check your phone and key in the verification code to access your account",
@@ -225,7 +225,7 @@
             "japanese": "電話を確認し、確認コードを入力してアカウントにアクセスします"
         },
         "checkEmailAndKey": {
-            "korean": "계정에 액세스하려면 이메일을 확인하고 인증 코드를 입력하세요",
+            "korean": "어카운트에 액세스하려면 이메일을 확인하고 인증 코드를 입력하세요",
             "spanish": "Revisa tu correo y el código de verificación para acceder a tu cuenta",
             "german": "Überprüfen Sie Ihre E-Mails und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen",
             "english": "Check your email and key in the verification code to access your account",

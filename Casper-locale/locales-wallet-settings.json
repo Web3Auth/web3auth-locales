@@ -212,7 +212,7 @@
             "mandarin": "Google帐户",
             "german": "Google Benutzerkonto",
             "spanish": "Cuenta Google",
-            "korean": "구글 계정",
+            "korean": "구글 어카운트",
             "japanese": "Googleアカウント",
             "english": "Google Account"
         },
@@ -292,7 +292,7 @@
             "mandarin": "注意：这会将您的Torus帐户私钥替换为自定义私钥",
             "german": "Hinweis: Dadurch wird der private Schlüssel Ihres Torus-Kontos durch einen benutzerdefinierten privaten Schlüssel ersetzt",
             "spanish": "Nota: Esto reemplaza la clave privada de su cuenta Torus con una clave privada personalizada",
-            "korean": "참고 : 이것은 Torus 계정 개인 키를 사용자 지정 개인 키로 대체합니다.",
+            "korean": "참고 : 이것은 Torus 어카운트 개인 키를 사용자 지정 개인 키로 대체합니다.",
             "japanese": "注：これにより、Torusアカウントの秘密鍵がカスタム秘密鍵に置き換えられます",
             "english": "Note: This replaces your Torus account private key with a custom private key"
         },
@@ -428,7 +428,7 @@
             "mandarin": "App.openlogin 是一个开放标准，用于通过 Web3Auth 在 Web3 上分散管理用户帐户",
             "german": "App.openlogin ist ein offener Standard für die dezentrale Verwaltung von Benutzerkonten auf Web3 von Web3Auth",
             "spanish": "App.openlogin es un estándar abierto para la gestión descentralizada de cuentas de usuario en Web3 a través de Web3Auth.",
-            "korean": "App.openlogin은 Web3Auth를 통해 Web3에서 사용자 계정을 분산 관리하기 위한 오픈 스탠다드입니다.",
+            "korean": "App.openlogin은 Web3Auth를 통해 Web3에서 사용자 어카운트을 분산 관리하기 위한 오픈 스탠다드입니다.",
             "japanese": "App.openloginは、Web3Authを介してWeb3上のユーザーアカウントを分散管理するためのオープンスタンダードです。",
             "english": "App.openlogin is an open standard for decentralized user account management on Web3, by Web3Auth"
         },
@@ -548,7 +548,7 @@
             "mandarin": "要管理您的帐户安全设置，请选择链接以继续",
             "german": "Um die Sicherheitseinstellungen Ihres Kontos zu verwalten, wählen Sie den Link aus, um fortzufahren",
             "spanish": "Para administrar la configuración de seguridad de su cuenta, seleccione el enlace para continuar.",
-            "korean": "계정 보안 설정을 관리하려면 링크를 선택하여 계속하세요.",
+            "korean": "어카운트 보안 설정을 관리하려면 링크를 선택하여 계속하세요.",
             "japanese": "アカウントのセキュリティ設定を管理するには、リンクを選択して続行してください。",
             "english": "To manage your account security settings, select the link to continue"
         },
@@ -628,7 +628,7 @@
             "mandarin": "帐户详细资料",
             "german": "Kontodetails",
             "spanish": "Detalles de la cuenta",
-            "korean": "계정 상세정보",
+            "korean": "어카운트 상세정보",
             "japanese": "アカウント詳細",
             "english": "Account Details"
         },
@@ -928,7 +928,7 @@
             "mandarin": "创建帐号",
             "german": "Benutzerkonto anlegen",
             "spanish": "Crear una cuenta",
-            "korean": "계정 생성",
+            "korean": "어카운트 생성",
             "japanese": "アカウントを作成する",
             "english": "Create Account"
         },
@@ -944,7 +944,7 @@
             "mandarin": "tKey账户",
             "german": "tKey Konto",
             "spanish": "Cuenta tKey",
-            "korean": "tKey 계정",
+            "korean": "tKey 어카운트",
             "japanese": "tKeyアカウント",
             "english": "tKey account"
         },
@@ -952,7 +952,7 @@
             "mandarin": "种子短语帐户",
             "german": "Seed Phrase Account",
             "spanish": "Cuenta de frase semilla",
-            "korean": "Seed Phrase 계정",
+            "korean": "Seed Phrase 어카운트",
             "japanese": "シードフレーズアカウント",
             "english": "Seed Phrase Account"
         },
@@ -968,7 +968,7 @@
             "mandarin": "您的Google和{provider}登录名现在共享相同的2FA电子钱包和设置。",
             "german": "Ihr Google- und {provider} Login verwenden jetzt dieselbe 2FA-Brieftasche und dieselben Einstellungen.",
             "spanish": "Su inicio de sesión de Google y {provider} comparten la misma billetera 2FA y la misma configuración ahora.",
-            "korean": "귀하의 Google 및 {provider} 로그인은 이제 동일한 2FA 월렛 및 설정을 공유합니다.",
+            "korean": "귀하의 Google 및 {provider} 로그인은 이제 동일한 2FA 월렛 및 설정을 쉐어합니다.",
             "japanese": "Googleと{provider}のログインは、同じ2FAウォレットと設定を共有しています。",
             "english": "Your Google and {provider} login share the same 2FA Wallet and settings now."
         },
@@ -984,7 +984,7 @@
             "mandarin": "将导入的帐户永久保存在此钱包中。",
             "german": "Speichern Sie das importierte Konto dauerhaft in dieser Brieftasche.",
             "spanish": "Guarde la cuenta importada permanentemente en esta billetera.",
-            "korean": "가져온 계정을이 지갑에 영구적으로 저장하십시오.",
+            "korean": "가져온 어카운트을이 지갑에 영구적으로 저장하십시오.",
             "japanese": "インポートしたアカウントをこのウォレットに永久に保存します。",
             "english": "Save imported account permanently in this wallet."
         },
@@ -1000,7 +1000,7 @@
             "mandarin": "{maxFactor}个验证因素中有{actualFactor}个",
             "german": "{actualFactor} von {maxFactor} Authentifizierungsfaktoren",
             "spanish": "{actualFactor} de {maxFactor} factores de autenticación",
-            "korean": "{maxFactor} 개 중 {actualFactor} 개 인증 요소",
+            "korean": "{maxFactor} 개 중 {actualFactor} 개 인증 팩터",
             "japanese": "{maxFactor}個の認証要素のうち{actualFactor}個",
             "english": "{actualFactor} out of {maxFactor} authentication factors"
         },
@@ -1008,7 +1008,7 @@
             "mandarin": "下面是您帐户的种子词组。",
             "german": "Wir haben die Startphrase Ihres Kontos unten.",
             "spanish": "Tenemos la frase inicial de su cuenta a continuación.",
-            "korean": "아래에 귀하 계정의 시드 문구가 있습니다.",
+            "korean": "아래에 귀하 어카운트의 시드 문구가 있습니다.",
             "japanese": "以下にあなたのアカウントのシードフレーズがあります。",
             "english": "We have your account’s seed phrase below."
         },
@@ -1016,7 +1016,7 @@
             "mandarin": "要访问binance.tor.us上的帐户，需要输入种子短语。 我们下面有您的帐户种子词组。",
             "german": "Für den Zugriff auf Ihr Konto auf binance.tor.us ist eine Startphrase erforderlich. Wir haben Ihre Konto-Startphrase unten.",
             "spanish": "El acceso a su cuenta en binance.tor.us requiere una frase inicial. Tenemos la frase semilla de su cuenta a continuación.",
-            "korean": "binance.tor.us에서 계정에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 계정 시드 문구가 있습니다.",
+            "korean": "binance.tor.us에서 어카운트에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 어카운트 시드 문구가 있습니다.",
             "japanese": "binance.tor.usのアカウントにアクセスするには、シードフレーズが必要です。 以下にアカウントシードフレーズがあります。",
             "english": "Access to your account on binance.tor.us requires seed phrase. We have your account seed phrase below."
         },
@@ -1040,7 +1040,7 @@
             "mandarin": "在此处粘贴您自己的种子短语。 这将通过tKey安全设置保护您的种子短语帐户。",
             "german": "Fügen Sie hier Ihre eigene Samenphrase ein. Dies schützt Ihr Seedphrase-Konto mit der eingerichteten tKey-Sicherheit.",
             "spanish": "Pegue su propia frase semilla aquí. Esto protegerá su cuenta de frase semilla con la configuración de seguridad tKey.",
-            "korean": "여기에 자신의 시드 문구를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 문구 계정을 보호 할 수 있습니다.",
+            "korean": "여기에 자신의 시드 문구를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 문구 어카운트을 보호 할 수 있습니다.",
             "japanese": "ここに独自のシードフレーズを貼り付けます。 これにより、tKeyセキュリティが設定されたシードフレーズアカウントが保護されます。",
             "english": "Paste your own seed phrase here. This will protect your seedphrase account with the tKey security set up."
         },
@@ -1048,7 +1048,7 @@
             "mandarin": "删除验证因素",
             "german": "Authentifizierungsfaktor löschen",
             "spanish": "Eliminar factor de autenticación",
-            "korean": "인증 요소 삭제",
+            "korean": "인증 팩터 삭제",
             "japanese": "認証要素を削除する",
             "english": "Delete Authentication Factor"
         },
@@ -1072,7 +1072,7 @@
             "mandarin": "所选的默认帐户应为您在DApp上登录时显示的帐户。",
             "german": "Das ausgewählte Standardkonto ist das Konto, das angezeigt wird, wenn Sie sich bei einer DApp anmelden.",
             "spanish": "La cuenta predeterminada seleccionada será la cuenta que se muestra al iniciar sesión en una DApp.",
-            "korean": "선택한 기본 계정은 DApp에 로그인 할 때 표시되는 계정입니다.",
+            "korean": "선택한 기본 어카운트은 DApp에 로그인 할 때 표시되는 어카운트입니다.",
             "japanese": "選択したデフォルトのアカウントは、DAppにサインインしたときに表示されるアカウントです。",
             "english": "The selected default account shall be the account displayed when you sign in on a DApp."
         },
@@ -1096,7 +1096,7 @@
             "mandarin": "从要添加的因子列表中选择",
             "german": "Wählen Sie aus der Liste der hinzuzufügenden Faktoren",
             "spanish": "Seleccione de la lista de factores para agregar",
-            "korean": "추가 할 요인 목록에서 선택",
+            "korean": "추가 할 팩터 목록에서 선택",
             "japanese": "追加する因子のリストから選択します",
             "english": "Select from the list of Factors to add"
         },
@@ -1112,7 +1112,7 @@
             "mandarin": "设备",
             "german": "Gerät",
             "spanish": "Dispositivo",
-            "korean": "장치",
+            "korean": "디바이스",
             "japanese": "端末",
             "english": "Device"
         },
@@ -1120,7 +1120,7 @@
             "mandarin": "帐户",
             "german": "Konto",
             "spanish": "cuenta",
-            "korean": "계정",
+            "korean": "어카운트",
             "japanese": "アカウント",
             "english": "account"
         },
@@ -1144,7 +1144,7 @@
             "mandarin": "设置您的种子短语帐户",
             "german": "Richten Sie Ihr Seed Phrase-Konto ein",
             "spanish": "Configura tu cuenta de Seed Phrase",
-            "korean": "Seed Phrase 계정 설정",
+            "korean": "Seed Phrase 어카운트 설정",
             "japanese": "シードフレーズアカウントを設定します",
             "english": "Setup your Seed Phrase account"
         },
@@ -1152,7 +1152,7 @@
             "mandarin": "帐目",
             "german": "Konten",
             "spanish": "Cuentas",
-            "korean": "계정",
+            "korean": "어카운트",
             "japanese": "アカウント",
             "english": "Accounts"
         },
@@ -1160,7 +1160,7 @@
             "mandarin": "新增帐户",
             "german": "Konto hinzufügen",
             "spanish": "Añadir cuenta",
-            "korean": "계정을 추가",
+            "korean": "어카운트을 추가",
             "japanese": "アカウントを追加する",
             "english": "Add Account"
         },
@@ -1216,7 +1216,7 @@
             "mandarin": "加因子",
             "german": "Faktor hinzufügen",
             "spanish": "Agregar factor",
-            "korean": "요인 추가",
+            "korean": "팩터 추가",
             "japanese": "因子を追加",
             "english": "Add factor"
         },
@@ -1248,7 +1248,7 @@
             "mandarin": "tKey是具有增强安全性的单独帐户。 tKey功能",
             "german": "tKey ist ein separates Konto mit zusätzlicher Sicherheit. tKey-Funktionen",
             "spanish": "tKey es una cuenta separada con mayor seguridad. tCaracterísticas clave",
-            "korean": "tKey는 보안이 강화 된 별도의 계정입니다. t 주요 기능",
+            "korean": "tKey는 보안이 강화 된 별도의 어카운트입니다. t 주요 기능",
             "japanese": "tKeyは、セキュリティが強化された個別のアカウントです。 tKey機能",
             "english": "tKey is a separate account with added security. tKey features"
         },
@@ -1296,7 +1296,7 @@
             "mandarin": "默认帐号",
             "german": "Cuenta predeterminada",
             "spanish": "Cuenta predeterminada",
-            "korean": "기본 계정",
+            "korean": "기본 어카운트",
             "japanese": "デフォルトのアカウント",
             "english": "Default Account"
         },
@@ -1360,7 +1360,7 @@
             "mandarin": "请非常确定，然后单击“确认”以将其删除作为身份验证因素。",
             "german": "Bitte seien Sie sehr sicher, bevor Sie auf Bestätigen klicken, um dies als Authentifizierungsfaktor zu löschen.",
             "spanish": "Antes de hacer clic en confirmar, asegúrese de eliminarlo como factor de autenticación.",
-            "korean": "확인을 클릭하기 전에이를 인증 요소로 삭제하십시오.",
+            "korean": "확인을 클릭하기 전에이를 인증 팩터로 삭제하십시오.",
             "japanese": "これを認証要素として削除するには、[確認]をクリックする前に必ず確認してください。",
             "english": "Please be very sure before you click confirm to delete this as an Authentication Factor."
         },
@@ -1376,7 +1376,7 @@
             "mandarin": "户口密码",
             "german": "Konto Passwort",
             "spanish": "Contraseña de la cuenta",
-            "korean": "계정 비밀번호",
+            "korean": "어카운트 비밀번호",
             "japanese": "アカウントパスワード",
             "english": "Account Password"
         },
@@ -1408,7 +1408,7 @@
             "mandarin": "由SSO和设备保护",
             "german": "Durch SSO und Gerät gesichert",
             "spanish": "Asegurado por SSO y dispositivo",
-            "korean": "SSO 및 장치로 보호",
+            "korean": "SSO 및 디바이스로 보호",
             "japanese": "SSOとデバイスによって保護されています",
             "english": "Secured by SSO and device"
         },
@@ -1416,7 +1416,7 @@
             "mandarin": "您的{provider}钱包中已有一个2FA钱包。请关联没有2FA电子钱包的帐户。",
             "german": "Sie haben eine vorhandene 2FA-Brieftasche in Ihrer {provider} Brieftasche. Bitte verknüpfen Sie ein Konto ohne 2FA Wallet.",
             "spanish": "Tiene una billetera 2FA existente en su billetera {provider}. Vincula una cuenta sin una billetera 2FA.",
-            "korean": "{provider} 지갑에 기존 2FA 지갑이 있습니다. 2FA 지갑이없는 계정을 연결하세요.",
+            "korean": "{provider} 지갑에 기존 2FA 지갑이 있습니다. 2FA 지갑이없는 어카운트을 연결하세요.",
             "japanese": "{provider}ウォレットに既存の2FAウォレットがあります。 2FAウォレットのないアカウントをリンクしてください。",
             "english": "You have an existing 2FA Wallet in your {provider} Wallet. Please link an account without a 2FA Wallet."
         },
@@ -1424,7 +1424,7 @@
             "mandarin": "帐户管理",
             "german": "Kontoverwaltung",
             "spanish": "Administración de cuentas",
-            "korean": "계정 관리",
+            "korean": "어카운트 관리",
             "japanese": "アカウント管理",
             "english": "Account Management"
         },
@@ -1448,7 +1448,7 @@
             "mandarin": "认证因素清单",
             "german": "Liste der Authentifizierungsfaktoren",
             "spanish": "Lista de factores de autenticación",
-            "korean": "인증 요인 목록",
+            "korean": "인증 팩터 목록",
             "japanese": "認証要素のリスト",
             "english": "List of Authentication Factors"
         },
@@ -1472,7 +1472,7 @@
             "mandarin": "创建OpenLogin帐户",
             "german": "Erstellen Sie ein OpenLogin-Konto",
             "spanish": "Crear cuenta OpenLogin",
-            "korean": "OpenLogin 계정 생성",
+            "korean": "OpenLogin 어카운트 생성",
             "japanese": "OpenLoginアカウントを作成します",
             "english": "Create OpenLogin account"
         },
@@ -1504,7 +1504,7 @@
             "mandarin": "种子短语帐户",
             "german": "Seed Phrase Accounts",
             "spanish": "Cuentas de frases semilla",
-            "korean": "Seed Phrase 계정",
+            "korean": "Seed Phrase 어카운트",
             "japanese": "シードフレーズアカウント",
             "english": "Seed Phrase Accounts"
         },
@@ -1528,7 +1528,7 @@
             "mandarin": "您可以在以下位置管理您的OpenLogin帐户设置",
             "german": "Sie können Ihre OpenLogin-Kontoeinstellungen auf verwalten",
             "spanish": "Puede administrar la configuración de su cuenta OpenLogin en",
-            "korean": "OpenLogin 계정 설정을 다음에서 관리 할 수 있습니다.",
+            "korean": "OpenLogin 어카운트 설정을 다음에서 관리 할 수 있습니다.",
             "japanese": "OpenLoginアカウント設定はで管理できます",
             "english": "You can manage your OpenLogin account settings on"
         },
@@ -1536,7 +1536,7 @@
             "mandarin": "图标以获取备份短语的副本。 保存此短语以供将来帐户恢复使用。",
             "german": "symbol, um eine Kopie Ihrer Sicherungsphrase zu erhalten. Speichern Sie diesen Ausdruck für die zukünftige Wiederherstellung des Kontos.",
             "spanish": "icono para obtener una copia de su frase de respaldo. Guarde esta frase para recuperar la cuenta en el futuro.",
-            "korean": "아이콘을 클릭하여 백업 문구의 사본을 얻습니다. 향후 계정 복구를 위해이 문구를 저장하세요.",
+            "korean": "아이콘을 클릭하여 백업 문구의 사본을 얻습니다. 향후 어카운트 복구를 위해이 문구를 저장하세요.",
             "japanese": "アイコンをクリックして、バックアップフレーズのコピーを取得します。 将来のアカウント回復のためにこのフレーズを保存してください。",
             "english": "icon to get a copy of your backup phrase. Save this phrase for account recovery in future."
         },
@@ -1544,7 +1544,7 @@
             "mandarin": "帐户已成功关联",
             "german": "Konto erfolgreich verknüpft",
             "spanish": "Cuenta vinculada correctamente",
-            "korean": "계정이 성공적으로 연결되었습니다.",
+            "korean": "어카운트이 성공적으로 연결되었습니다.",
             "japanese": "アカウントが正常にリンクされました",
             "english": "Account successfully linked"
         }

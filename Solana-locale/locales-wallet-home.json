@@ -73,7 +73,7 @@
 			"japanese": "トークンを取得するには？"
 		},
 		"accountRecovery": {
-			"korean": "계정 복구",
+			"korean": "어카운트 복구",
 			"spanish": "Recuperar Cuenta",
 			"german": "Konto-Wiederherstellung",
 			"english": "Account Recovery",
@@ -145,7 +145,7 @@
 			"japanese": "ここにあなたを導くいくつかの重要な用語があります"
 		},
 		"obNo2Subtitle2": {
-			"korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
+			"korean": "Torus는 어카운트 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
 			"spanish": "Torus usa Google/Facebook 2 Factor-Authentication para recuperar la cuenta.",
 			"german": "Torus verwendet Google / Facebook 2 Faktor-Authentifizierung zur Kontrolle des Kontos.",
 			"english": "Torus uses Google/Facebook 2 Factor-Authentication for account recovery.",
@@ -209,7 +209,7 @@
 			"japanese": "通貨"
 		},
 		"privateKeyDesc": {
-			"korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정과 모든 돈의 소유권을 잃게됩니다.",
+			"korean": "어카운트 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 어카운트과 모든 돈의 소유권을 잃게됩니다.",
 			"spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta.",
 			"german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu bestätigen. Nur Sie können darauf zugreifen. Wenn Sie dies verlieren, verlieren Sie möglicherweise den Besitz Ihres Kontos und Ihr gesamtes Geld.",
 			"english": "This is your password to verify account ownership. Only you are able to access it. If you lose this, you potentially lose ownership of your account and ALL your money.",
@@ -233,7 +233,7 @@
 			"japanese": "プライバシーとセキュリティ"
 		},
 		"walletHome": {
-			"korean": "계정 잔액",
+			"korean": "어카운트 잔액",
 			"spanish": "Balance de Cuenta",
 			"german": "Kontostand",
 			"english": "Account Balance",
@@ -305,7 +305,7 @@
 			"japanese": "説明"
 		},
 		"verifyLoginDesc1": {
-			"korean": "이 계정에 대한 로그인은 새 장치에서 감지됩니다.",
+			"korean": "이 어카운트에 대한 로그인은 새 디바이스에서 감지됩니다.",
 			"spanish": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo.",
 			"german": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo.",
 			"english": "A login to this account is detected from a new device.",
@@ -313,7 +313,7 @@
 			"japanese": "このアカウントへのログインは、新しいデバイスから検出されます。"
 		},
 		"obNo2Title2": {
-			"korean": "계정 복구",
+			"korean": "어카운트 복구",
 			"spanish": "Recuperación de Cuenta",
 			"german": "Konto-richtet",
 			"english": "Account Recovery",
@@ -513,7 +513,7 @@
 			"japanese": "ウォレットアドレスを共有して、仮想通貨を送金してもらえます。"
 		},
 		"obYesSubtitle1": {
-			"korean": "토큰과 수집품을 보내고 구매하십시오. Torus Wallet 내에서 기능을 사용하려면 계정을 가져 오십시오.",
+			"korean": "토큰과 수집품을 보내고 구매하십시오. Torus Wallet 내에서 기능을 사용하려면 어카운트을 가져 오십시오.",
 			"spanish": "Envía y compra tokens y coleccionables. Importa tu cuenta existente y utiliza los beneficios de Torus.",
 			"german": "Senden und kaufen Sie Token und Sammlerstücke. Importieren Sie Ihr Konto, um die Funktionen in Ihrer Torus-Brieftasche zu nutzen.",
 			"english": "Send and purchase tokens and collectibles. Import your account to experience the features within your Torus Wallet.",
@@ -641,7 +641,7 @@
 			"japanese": "スキップ"
 		},
 		"accountRecoveryDesc": {
-			"korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
+			"korean": "Torus는 어카운트 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
 			"spanish": "Torus usa Google/Facebook 2  Factor-Authentication para recuperar la cuenta",
 			"german": "Torus verwendet Google / Facebook 2 Factor-Authentication zur Wiederherstellung des Kontos.",
 			"english": "Torus uses Google/Facebook 2 Factor-Authentication for account recovery.",
@@ -689,7 +689,7 @@
 			"japanese": "ここでHolaplexをチェックしてください"
 		},
 		"obNo2Subtitle1": {
-			"korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정의 소유권과 모든 돈을 잃게됩니다.",
+			"korean": "어카운트 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 어카운트의 소유권과 모든 돈을 잃게됩니다.",
 			"spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta.",
 			"german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu Rechte. Nur Sie können daran gehört,. Wenn Sie sterben verlieren, verlieren Sie verlieren den Besitz Ihres Kontos und Ihr gesamtes Geld.",
 			"english": "This is your password to verify account ownership. Only you are able to access it. If you lose this, you potentially lose ownership of your account and ALL your money.",

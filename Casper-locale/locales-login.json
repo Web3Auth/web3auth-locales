@@ -82,7 +82,7 @@
         },
         "tkeyUseful": {
             "german": "Dies ist nützlich für Benutzer, die mehr Kontrolle über ihr Konto haben möchten, insbesondere wenn sie in Zukunft eine erhebliche Summe in ihrer Brieftasche haben.",
-            "korean": "이는 특히 향후 지갑에 상당한 금액이 있을 때 자신의 계정을 더 많이 제어하려는 사용자에게 유용합니다.",
+            "korean": "이는 특히 향후 지갑에 상당한 금액이 있을 때 자신의 어카운트을 더 많이 제어하려는 사용자에게 유용합니다.",
             "spanish": "Esto es útil para los usuarios que desean tener más control sobre su cuenta, especialmente cuando tienen una suma significativa en su billetera en el futuro.",
             "english": "This is useful for users who would like to have more control over their account, especially when they have a significant sum in their wallet in future.",
             "mandarin": "这对于希望对自己的帐户有更多控制权的用户很有用，尤其是在将来他们的钱包中有大量现金时。",
@@ -122,7 +122,7 @@
         },
         "tryTkeyDesc": {
             "german": "Ein separates Konto mit zusätzlicher Sicherheit",
-            "korean": "보안이 강화 된 별도의 계정",
+            "korean": "보안이 강화 된 별도의 어카운트",
             "spanish": "Una cuenta separada con mayor seguridad",
             "english": "A separate account with added security",
             "mandarin": "具有增强安全性的单独帐户",
@@ -162,7 +162,7 @@
         },
         "tkeyManaged": {
             "german": "Ihr tKey-Konto wird von Ihrem Login (z. B. Google), Ihrem Gerät und einem Passwort verwaltet. Richten Sie Ihr Konto ein und greifen Sie bei jeder Anmeldung mit zwei beliebigen Authentifizierungsfaktoren darauf zu.",
-            "korean": "tKey 계정은 로그인 (예 : Google), 기기 및 비밀번호로 관리됩니다. 계정을 설정하고 로그인 할 때마다 두 가지 인증 요소를 사용하여 액세스하십시오.",
+            "korean": "tKey 어카운트은 로그인 (예 : Google), 기기 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
             "spanish": "Su cuenta tKey es administrada por su nombre de usuario (por ejemplo, Google), su dispositivo y una contraseña. Configure su cuenta y acceda a ella con dos de los factores de autenticación durante cada inicio de sesión.",
             "english": "Your tKey account is managed by your login (e.g. Google), your device, and a password. Set up your account and access it with any two of the authentication factors during each login.",
             "mandarin": "您的tKey帐户由您的登录名（例如Google），设备和密码来管理。设置您的帐户，并在每次登录时使用任意两个身份验证因子进行访问。",
@@ -202,7 +202,7 @@
         },
         "tkeyIs2": {
             "german": "separates, sicheres Konto",
-            "korean": "별도의 안전한 계정",
+            "korean": "별도의 안전한 어카운트",
             "spanish": "cuenta separada y segura",
             "english": "separate, secure account",
             "mandarin": "独立的安全帐户",
@@ -236,7 +236,7 @@
         },
         "setUpWallet": {
             "german": "Richten Sie Ihr tKey-Konto ein",
-            "korean": "tKey 계정 설정",
+            "korean": "tKey 어카운트 설정",
             "spanish": "Configura tu cuenta tKey",
             "english": "Setup your tKey account",
             "mandarin": "设置您的tKey帐户",
@@ -262,7 +262,7 @@
         },
         "newDeviceLong": {
             "german": "Als neues Gerät speichern",
-            "korean": "새 장치로 저장",
+            "korean": "새 디바이스로 저장",
             "spanish": "Guardar como dispositivo nuevo",
             "english": "Save as new device",
             "mandarin": "另存为新设备",
@@ -286,7 +286,7 @@
         },
         "newDeviceAdded": {
             "german": "Neues Gerät und neuer Browser hinzugefügt",
-            "korean": "새 장치 및 브라우저 추가",
+            "korean": "새 디바이스 및 브라우저 추가",
             "spanish": "Se agregaron un nuevo dispositivo y navegador",
             "english": "New device and browser added",
             "mandarin": "添加了新设备和浏览器",
@@ -310,7 +310,7 @@
         },
         "oldDeviceLong": {
             "german": "Als vorhandenes Gerät speichern",
-            "korean": "기존 장치로 저장",
+            "korean": "기존 디바이스로 저장",
             "spanish": "Guardar como dispositivo existente",
             "english": "Save as existing device",
             "mandarin": "另存为现有设备",
@@ -334,7 +334,7 @@
         },
         "itSeems1": {
             "german": "Anscheinend versuchen Sie, sich von einem neuen Gerät aus anzumelden.",
-            "korean": "새 장치에서 로그인을 시도하는 것 같습니다.",
+            "korean": "새 디바이스에서 로그인을 시도하는 것 같습니다.",
             "spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo.",
             "english": "It seems like you are trying to log in from a new device.",
             "mandarin": "似乎您正在尝试从新设备登录。",
@@ -366,7 +366,7 @@
         },
         "newLoginTrying": {
             "german": "Ein neues Login versucht, auf Ihr tKey-Konto zuzugreifen.",
-            "korean": "새 로그인으로 tKey 계정에 액세스하려고합니다.",
+            "korean": "새 로그인으로 tKey 어카운트에 액세스하려고합니다.",
             "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta tKey.",
             "english": "A new login is trying to access your tKey account.",
             "mandarin": "新的登录名正在尝试访问您的tKey帐户。",
@@ -374,7 +374,7 @@
         },
         "currentDevice": {
             "german": "Aktuelles neues Gerät",
-            "korean": "현재 새 장치",
+            "korean": "현재 새 디바이스",
             "spanish": "Nuevo dispositivo actual",
             "english": "Current new device",
             "mandarin": "当前的新设备",
@@ -478,7 +478,7 @@
         },
         "oldDevice": {
             "german": "Vorhandenes Gerät",
-            "korean": "기존 장치",
+            "korean": "기존 디바이스",
             "spanish": "Dispositivo existente",
             "english": "Existing Device",
             "mandarin": "现有设备",
@@ -494,7 +494,7 @@
         },
         "confirmYourBrowser": {
             "german": "Bestätigen Sie Ihre Browser- und Gerätedetails.",
-            "korean": "브라우저 및 장치 세부 정보를 확인하세요.",
+            "korean": "브라우저 및 디바이스 세부 정보를 확인하세요.",
             "spanish": "Confirme los detalles de su navegador y dispositivo.",
             "english": "Confirm your browser and device details.",
             "mandarin": "确认您的浏览器和设备详细信息。",
@@ -542,7 +542,7 @@
         },
         "verifyWithPass": {
             "german": "Bitte geben Sie das diesem Konto zugeordnete Passwort ein, um fortzufahren.",
-            "korean": "계속하려면 이 계정과 연결된 암호를 입력하십시오.",
+            "korean": "계속하려면 이 어카운트과 연결된 암호를 입력하십시오.",
             "spanish": "Ingrese la contraseña asociada con esta cuenta para continuar.",
             "english": "Please enter the password associated with this account to continue.",
             "mandarin": "请输入与此帐户关联的密码以继续。",
@@ -550,7 +550,7 @@
         },
         "newDevice": {
             "german": "Neues Gerät",
-            "korean": "새 장치",
+            "korean": "새 디바이스",
             "spanish": "Nuevo dispositivo",
             "english": "New Device",
             "mandarin": "新装置",
@@ -630,7 +630,7 @@
         },
         "device": {
             "german": "Gerät",
-            "korean": "장치",
+            "korean": "디바이스",
             "spanish": "Dispositivo",
             "english": "Device",
             "mandarin": "设备",
@@ -670,7 +670,7 @@
         },
         "contactSupport": {
             "german": "Kontaktieren Sie Support",
-            "korean": "연락처 지원",
+            "korean": "지원 연락",
             "spanish": "Soporte de contacto",
             "english": "Contact support",
             "mandarin": "联系支持",
@@ -686,7 +686,7 @@
         },
         "saveNewDevice": {
             "german": "Speichern Sie den neuen Browser als separaten Authentifizierungsfaktor oder fügen Sie ihn als vorhandenes Gerät hinzu",
-            "korean": "새 브라우저를 별도의 인증 요소로 저장하거나 기존 장치로 추가",
+            "korean": "새 브라우저를 별도의 인증 팩터로 저장하거나 기존 디바이스로 추가",
             "spanish": "Guarde el nuevo navegador como un factor de autenticación independiente o agréguelo como un dispositivo existente",
             "english": "Save new browser as a separate authentication factor or add it as an existing device",
             "mandarin": "将新浏览器另存为单独的身份验证因素，或将其添加为现有设备",
@@ -718,7 +718,7 @@
         },
         "accountRecovery": {
             "german": "Konto-Wiederherstellung",
-            "korean": "계정 복구",
+            "korean": "어카운트 복구",
             "spanish": "Recuperación de Cuenta",
             "english": "Account Recovery",
             "mandarin": "帐户恢复",
@@ -928,7 +928,7 @@
         },
         "slide2Subtitle2": {
             "german": "Holen Sie sich Währungen zu einem der wettbewerbsfähigsten Kurse",
-            "korean": "가장 높은 환율로 암호화폐를 받아가세요.",
+            "korean": "최고의 우대비율로 암호화폐를 받아가세요.",
             "spanish": "Obtén monedas a los mejores rates",
             "english": "Get currencies at one of the most competitive rates",
             "mandarin": "以最具竞争力的价格获得货币",
@@ -960,7 +960,7 @@
         },
         "frictionless": {
             "german": "One-Click-Login für Web 3.0",
-            "korean": "Web 3.0에 대한 원 클릭 로그인",
+            "korean": "Web 3.0을 위한 원클릭 로그인",
             "spanish": "Inicio de sesión para Web 3.0 con un sólo click",
             "english": "One-Click login for Web 3.0",
             "mandarin": "一键登录Web 3.0",
@@ -1154,7 +1154,7 @@
         },
         "youNeedBackupPassword": {
             "german": "Sie müssen eine Sicherungskopie im Gerätespeicher erstellen oder ein Wiederherstellungskennwort einrichten, um Ihr tKey-Konto zu erstellen",
-            "korean": "tKey 계정을 생성하려면 장치 저장소에 백업하거나 복구 암호를 설정해야합니다.",
+            "korean": "tKey 어카운트을 생성하려면 디바이스 저장소에 백업하거나 복구 암호를 설정해야합니다.",
             "spanish": "Necesita hacer una copia de seguridad en el almacenamiento del dispositivo o configurar una contraseña de recuperación para crear su cuenta tKey",
             "english": "You need to backup on device storage or set up a recovery password to create your tKey account",
             "mandarin": "您需要备份设备存储或设置恢复密码才能创建tKey帐户",
@@ -1178,7 +1178,7 @@
         },
         "walletAuth": {
             "german": "Kontoauthentifizierungsfaktoren",
-            "korean": "계정 인증 팩터",
+            "korean": "어카운트 인증 팩터",
             "spanish": "Factores de autenticación de cuenta",
             "english": "Account authentication factors",
             "mandarin": "帐户认证因素",
@@ -1202,7 +1202,7 @@
         },
         "youWouldRequire3": {
             "german": "der folgenden Optionen, um Ihr tKey-Konto zu authentifizieren und darauf zuzugreifen.",
-            "korean": "다음 중 tKey 계정을 인증하고 액세스합니다.",
+            "korean": "다음 중 tKey 어카운트을 인증하고 액세스합니다.",
             "spanish": "de los siguientes para autenticar y acceder a su cuenta tKey.",
             "english": "of the following to authenticate and access your tKey account.",
             "mandarin": "以下内容用于验证和访问您的tKey帐户。",
@@ -1226,7 +1226,7 @@
         },
         "youMayWantTo": {
             "german": "Möglicherweise möchten Sie einen weiteren Authentifizierungsfaktor als Backup einrichten.",
-            "korean": "하나 이상의 인증 요소를 백업으로 설정할 수 있습니다.",
+            "korean": "하나 이상의 인증 팩터를 백업으로 설정할 수 있습니다.",
             "spanish": "Es posible que desee configurar un factor de autenticación más como respaldo.",
             "english": "You may want to set up one more authentication factor as a backup.",
             "mandarin": "您可能想再设置一个身份验证因子作为备份。",
@@ -1234,7 +1234,7 @@
         },
         "iUnderstand": {
             "german": "Ich verstehe, dass ich mindestens zwei Authentifizierungsfaktoren benötige, um auf mein tKey-Konto zuzugreifen. Andernfalls verliere ich den Zugriff auf mein tKey-Konto.",
-            "korean": "내 tKey 계정에 액세스하려면 최소한 두 가지 인증 요소가 필요하다는 것을 이해합니다. 그렇지 않으면 내 tKey 계정에 액세스 할 수 없습니다.",
+            "korean": "내 tKey 어카운트에 액세스하려면 최소한 두 가지 인증 팩터가 필요하다는 것을 이해합니다. 그렇지 않으면 내 tKey 어카운트에 액세스 할 수 없습니다.",
             "spanish": "Entiendo que necesito al menos dos factores de autenticación para acceder a mi cuenta tKey. De lo contrario, pierdo el acceso a mi cuenta tKey.",
             "english": "I understand that I need at least two authentication factors to access my tKey account. Otherwise,  I lose access to my tKey account.",
             "mandarin": "我了解我至少需要两个身份验证因素才能访问我的tKey帐户。否则，我将无法访问我的tKey帐户。",
@@ -1258,7 +1258,7 @@
         },
         "createWallet": {
             "german": "Erstellen Sie ein tKey-Konto",
-            "korean": "tKey 계정 생성",
+            "korean": "tKey 어카운트 생성",
             "spanish": "Crear cuenta tKey",
             "english": "Create tKey account",
             "mandarin": "创建tKey账户",
@@ -1274,7 +1274,7 @@
         },
         "youHaveSufficient": {
             "german": "Sie haben ausreichende Authentifizierungsfaktoren für Ihr tKey-Konto. Bravo!",
-            "korean": "tKey 계정에 대한 충분한 인증 요소가 있습니다. 대박!",
+            "korean": "tKey 어카운트에 대한 충분한 인증 팩터가 있습니다. 대박!",
             "spanish": "Tiene suficientes factores de autenticación para su cuenta tKey. ¡Bravo!",
             "english": "You have sufficient authentication factors for your tKey account. Bravo!",
             "mandarin": "您的tKey帐户具有足够的身份验证因素。太棒了！",
@@ -1298,7 +1298,7 @@
         },
         "youNeedOneMore": {
             "german": "Sie benötigen einen weiteren Authentifizierungsfaktor, um Ihr tKey-Konto einzurichten.",
-            "korean": "tKey 계정을 설정하려면 인증 요소가 하나 더 필요합니다.",
+            "korean": "tKey 어카운트을 설정하려면 인증 팩터가 하나 더 필요합니다.",
             "spanish": "Necesita un factor de autenticación más para configurar su cuenta tKey.",
             "english": "You need one more authentication factor to set up your tKey account.",
             "mandarin": "您还需要一个认证因素来设置您的tKey帐户。",
@@ -1364,7 +1364,7 @@
         },
         "copyShareMnemonic": {
             "german": "Kopieren Sie die Share-Mnemonik",
-            "korean": "공유 니모닉 복사",
+            "korean": "쉐어 니모닉 복사",
             "spanish": "Copiar compartir mnemónico",
             "english": "Copy share mnemonic",
             "mandarin": "复制共享助记符",
@@ -1436,7 +1436,7 @@
         },
         "copyShareNote": {
             "german": "Hinweis: Diese Sicherungsphrase enthält 1 Teil Ihrer Authentifizierungsfaktoren. Bewahren Sie es an einem anderen Ort auf, als Teil Ihrer zukünftigen Wiederherstellung Ihres Kontos.",
-            "korean": "참고 :이 백업 문구는 인증 요소의 한 부분을 포함합니다. 나중에 계정 복구의 일부로 저장하여 보관하십시오.",
+            "korean": "참고 :이 백업 문구는 인증 팩터의 한 부분을 포함합니다. 나중에 어카운트 복구의 일부로 저장하여 보관하십시오.",
             "spanish": "Nota: Esta frase de respaldo contiene 1 parte de sus factores de autenticación. Guárdelo en algún lugar guardado como parte de la recuperación de su cuenta en el futuro.",
             "english": "Note: This backup phrase containts 1 part of your authentication factors. Keep it somewhere save as a part of your account recovery in future.",
             "mandarin": "注意：此备用短语包含您的一部分身份验证因素。 将其保存在某处，以备日后恢复帐户时使用。",
@@ -1444,7 +1444,7 @@
         },
         "recoveryEmailDesc3": {
             "german": "Sie können eine Ihrer Schlüsselfreigaben für die Kontowiederherstellung zurückerhalten.",
-            "korean": "계정 복구를 위해 키 쉐어 중 하나를 되찾을 수 있습니다.",
+            "korean": "어카운트 복구를 위해 키 쉐어 중 하나를 되찾을 수 있습니다.",
             "spanish": "Le permite recuperar una de sus acciones clave para la recuperación de la cuenta.",
             "english": "It allows you to get back one of your key shares for account recovery.",
             "mandarin": "它使您可以取回其中的关键份额之一以进行帐户恢复。",
@@ -1518,7 +1518,7 @@
         },
         "selectDefault": {
             "german": "Wählen Sie Ihr Standardkonto",
-            "korean": "기본 계정 선택",
+            "korean": "기본 어카운트 선택",
             "spanish": "Seleccione su cuenta predeterminada",
             "english": "Select your default account",
             "mandarin": "选择您的默认帐户",
@@ -1526,7 +1526,7 @@
         },
         "theDefaultAccount": {
             "german": "Sie werden dieses Konto bei jeder Anmeldung verwenden. Sie können dies jederzeit in Ihren Einstellungen ändern.",
-            "korean": "로그인 할 때마다이 계정을 사용하게됩니다. 언제든지 설정에서 변경할 수 있습니다.",
+            "korean": "로그인 할 때마다이 어카운트을 사용하게됩니다. 언제든지 설정에서 변경할 수 있습니다.",
             "spanish": "Utilizará esta cuenta cada vez que inicie sesión. Puede cambiar esto en cualquier momento en su configuración.",
             "english": "You will use this account whenever you sign in. You can change this anytime in your settings.",
             "mandarin": "每次登录时都将使用此帐户。您可以随时在设置中更改此帐户。",
@@ -1534,7 +1534,7 @@
         },
         "yourSeedPhrase": {
             "german": "Ihr Seed Phrase Account",
-            "korean": "귀하의 Seed Phrase 계정",
+            "korean": "귀하의 Seed Phrase 어카운트",
             "spanish": "Su cuenta de frase de semillas",
             "english": "Your Seed Phrase Account",
             "mandarin": "您的种子短语帐户",
@@ -1542,7 +1542,7 @@
         },
         "yourWallet": {
             "german": "Ihr tKey-Konto",
-            "korean": "귀하의 tKey 계정",
+            "korean": "귀하의 tKey 어카운트",
             "spanish": "Tu cuenta tKey",
             "english": "Your tKey Account",
             "mandarin": "您的tKey账户",
@@ -1602,7 +1602,7 @@
         },
         "torusNotSupported": {
             "german": "Torus ist derzeit in deinem Land nicht verfügbar",
-            "korean": "현재 귀하의 국가에서는 토러스를 사용할 수 없습니다.",
+            "korean": "현재 귀하의 국가에서는 Torus를 사용할 수 없습니다.",
             "spanish": "Actualmente, Torus no está disponible en su país.",
             "english": "Torus is currently not available in your country",
             "mandarin": "Torus 目前在您所在的国家/地区不可用",
@@ -1630,7 +1630,7 @@
     "tkeyLogin": {
         "signIn": {
             "german": "Melden Sie sich mit einer der folgenden Optionen an, um ein Konto zu verknüpfen",
-            "korean": "계정을 연결하려면 다음 중 하나로 로그인하세요.",
+            "korean": "어카운트을 연결하려면 다음 중 하나로 로그인하세요.",
             "spanish": "Inicie sesión con cualquiera de los siguientes para vincular la cuenta",
             "english": "Sign in with any of the following to link account",
             "mandarin": "使用以下任何一种方式登录以链接帐户",
@@ -1638,7 +1638,7 @@
         },
         "byLinking": {
             "german": "Durch die Verknüpfung des Kontos teilen sich beide Konten dieselbe 2FA-Brieftasche und ihre Einstellungen.",
-            "korean": "계정을 연결하면 두 계정 모두 동일한 2FA 지갑과 해당 설정을 공유하게됩니다.",
+            "korean": "어카운트을 연결하면 두 어카운트 모두 동일한 2FA 지갑과 해당 설정을 공유하게됩니다.",
             "spanish": "Al vincular la cuenta, ambas cuentas compartirán la misma billetera 2FA y su configuración.",
             "english": "By linking account, both account will share the same 2FA Wallet and its settings.",
             "mandarin": "通过链接帐户，两个帐户将共享相同的2FA电子钱包及其设置。",

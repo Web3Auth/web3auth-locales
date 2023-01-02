@@ -44,7 +44,7 @@
 			"mandarin": "备份共享验证失败",
 			"german": "Überprüfung der Sicherungsfreigabe fehlgeschlagen",
 			"english": "Backup Share verification failed",
-			"korean": "백업 공유 확인 실패",
+			"korean": "백업 쉐어 확인 실패",
 			"spanish": "Error en la verificación del recurso compartido de copia de seguridad",
 			"japanese": "バックアップ共有の検証に失敗しました"
 		},
@@ -60,7 +60,7 @@
 			"mandarin": "不合规电邮",
 			"german": "Ungültige E-Mail",
 			"english": "Invalid email",
-			"korean": "잘못된 이메일",
+			"korean": "유효하지 않은 이메일",
 			"spanish": "Email inválido",
 			"japanese": "無効なメール"
 		},
@@ -84,7 +84,7 @@
 			"mandarin": "设备共享删除失败",
 			"german": "Löschen der Gerätefreigabe nicht erfolgreich",
 			"english": "Device share deletion unsuccessful",
-			"korean": "기기 공유 삭제 실패",
+			"korean": "디바이스 쉐어 삭제 실패",
 			"spanish": "No se pudo eliminar el dispositivo compartido",
 			"japanese": "デバイス共有の削除に失敗しました"
 		},
@@ -108,7 +108,7 @@
 			"mandarin": "不正确的共享助记符",
 			"german": "Falsche Share-Mnemonik",
 			"english": "Incorrect share mnemonic",
-			"korean": "잘못된 공유 니모닉",
+			"korean": "잘못된 쉐어 니모닉",
 			"spanish": "Mnemónico compartido incorrecto",
 			"japanese": "誤った共有ニーモニック"
 		},
@@ -148,7 +148,7 @@
 			"mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
 			"german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Zahl",
 			"english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
-			"korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자, 하나의 숫자",
+			"korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 소문자 및 숫자를 포함하세요.",
 			"spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
 			"japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、1つの数字"
 		},
@@ -188,7 +188,7 @@
 			"mandarin": "检测您的设备",
 			"german": "Erkennen Ihres Geräts",
 			"english": "Detecting your device",
-			"korean": "장치 감지",
+			"korean": "디바이스 감지중",
 			"spanish": "Detectando su dispositivo",
 			"japanese": "デバイスの検出"
 		},
@@ -212,7 +212,7 @@
 			"mandarin": "需要其他验证输入",
 			"german": "Benötigen Sie eine weitere Überprüfungseingabe",
 			"english": "Require another verification input",
-			"korean": "다른 확인 입력 필요",
+			"korean": "다른 인증 인풋이 필요합니다",
 			"spanish": "Requerir otra entrada de verificación",
 			"japanese": "別の検証入力が必要"
 		},
@@ -228,7 +228,7 @@
 			"mandarin": "恢复共享删除失败",
 			"german": "Das Löschen der Wiederherstellungsfreigabe ist fehlgeschlagen",
 			"english": "Recovery share deletion failed",
-			"korean": "복구 공유 삭제 실패",
+			"korean": "복구 쉐어 삭제 실패",
 			"spanish": "Error al eliminar el recurso compartido de recuperación",
 			"japanese": "リカバリ共有の削除に失敗しました"
 		},
@@ -236,7 +236,7 @@
 			"mandarin": "恢复共享已成功删除",
 			"german": "Wiederherstellungsfreigabe erfolgreich gelöscht",
 			"english": "Recovery share deleted successfully",
-			"korean": "복구 공유가 성공적으로 삭제되었습니다.",
+			"korean": "복구 쉐어가 성공적으로 삭제되었습니다.",
 			"spanish": "El recurso compartido de recuperación se eliminó correctamente",
 			"japanese": "リカバリ共有が正常に削除されました"
 		},
@@ -247,7 +247,7 @@
 			"mandarin": "管理帐户",
 			"german": "Konto verwalten",
 			"english": "Manage account",
-			"korean": "계정 관리",
+			"korean": "어카운트 관리",
 			"spanish": "Administrar cuenta",
 			"japanese": "アカウントを管理する"
 		},
@@ -287,7 +287,7 @@
 			"mandarin": "股份转让失败",
 			"german": "Freigabeübertragung fehlgeschlagen",
 			"english": "Share transfer failed",
-			"korean": "공유 전송 실패",
+			"korean": "쉐어 전송 실패",
 			"spanish": "Error al transferir el recurso compartido",
 			"japanese": "共有の転送に失敗しました"
 		},
@@ -295,7 +295,7 @@
 			"mandarin": "设备共享已成功删除",
 			"german": "Gerätefreigabe erfolgreich gelöscht",
 			"english": "Device share successfully deleted",
-			"korean": "장치 공유가 성공적으로 삭제되었습니다.",
+			"korean": "디바이스 쉐어가 성공적으로 삭제되었습니다.",
 			"spanish": "Dispositivo compartido eliminado correctamente",
 			"japanese": "デバイス共有が正常に削除されました"
 		},

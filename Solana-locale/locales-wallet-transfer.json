@@ -242,7 +242,7 @@
 			"spanish": "O"
 		},
 		"invalidAddress": {
-			"korean": "잘못된 토큰 계정 주소",
+			"korean": "잘못된 토큰 어카운트 주소",
 			"mandarin": "令牌账户地址无效",
 			"japanese": "トークンアカウントアドレスが無効です",
 			"english": "Invalid token account address",
@@ -427,7 +427,7 @@
 			"english": "Total amount payable"
 		},
 		"accountBalance": {
-			"korean": "계정 잔액",
+			"korean": "어카운트 잔액",
 			"mandarin": "账户余额",
 			"japanese": "残高",
 			"english": "Account Balance",
@@ -558,7 +558,7 @@
 			"spanish": "Precio del Gas"
 		},
 		"contactName": {
-			"korean": "연락 계정 이름",
+			"korean": "연락 어카운트 이름",
 			"mandarin": "联系人帐户名称",
 			"japanese": "連絡先アカウント名",
 			"english": "Contact Account Name",
@@ -774,7 +774,7 @@
 			"spanish": "Un número que comienza con 0, para indicar la secuencia de su transacción desde la dirección de su billetera."
 		},
 		"escrowAccount": {
-			"korean": "소유자는 에스크로 계정입니다",
+			"korean": "소유자는 에스크로 어카운트입니다",
 			"mandarin": "所有者是托管账户",
 			"japanese": "所有者はエスクローアカウントです",
 			"english": "Owner is an Escrow Account",
@@ -862,7 +862,7 @@
 			"spanish": "en {time}"
 		},
 		"twitterVerifyNote": {
-			"korean": "이것이 올바른 계정인지 확인하십시오",
+			"korean": "이것이 올바른 어카운트인지 확인하십시오",
 			"mandarin": "请验证这是否是正确的帐户",
 			"japanese": "これが正しいアカウントかどうかを確認してください",
 			"english": "Please verify if this is the right account",
