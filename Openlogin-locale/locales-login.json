@@ -1720,22 +1720,22 @@
       "portugese": "Verificação de OTP"
     },
     "verify-otp-description": {
-      "english": "Enter OTP-Code sent to {0}",
-      "german": "Geben Sie OTP-Code ein, das an gesendet wird {0}",
-      "mandarin": "输入发送到发送到的OTP代码 {0}",
-      "korean": "전송 된 OTP 코드를 입력하십시오 {0}",
-      "spanish": "Ingrese el código OTP enviado a {0}",
-      "japanese": "送信されるOTP-Codeを入力します {0}",
-      "portugese": "Digite o código OTP enviado para {0}"
+      "english": "Enter OTP-Code sent to {number}",
+      "german": "Geben Sie OTP-Code ein, das an gesendet wird {number}",
+      "mandarin": "输入发送到发送到的OTP代码 {number}",
+      "korean": "전송 된 OTP 코드를 입력하십시오 {number}",
+      "spanish": "Ingrese el código OTP enviado a {number}",
+      "japanese": "送信されるOTP-Codeを入力します {number}",
+      "portugese": "Digite o código OTP enviado para {number}"
     },
     "resend-otp-code": {
-      "english": "Resend Code in {0}",
-      "german": "Code in {0}",
-      "mandarin": "重新发送代码 {0}",
-      "korean": "코드를 재현하십시오 {0}",
-      "spanish": "Reenviar código en {0}",
-      "japanese": "コードを再送信します {0}",
-      "portugese": "Reduzir o código em {0}"
+      "english": "Resend Code in {time}",
+      "german": "Code in {time}",
+      "mandarin": "重新发送代码 {time}",
+      "korean": "코드를 재현하십시오 {time}",
+      "spanish": "Reenviar código en {time}",
+      "japanese": "コードを再送信します {time}",
+      "portugese": "Reduzir o código em {time}"
     },
     "resend-code-cta": {
       "english": "Resend Code",
@@ -1765,13 +1765,13 @@
       "portugese": "Digite seu OTP"
     },
     "verify-otp-heading-1": {
-      "english": "An OTP has been sent to {0}",
-      "german": "Ein OTP wurde an gesendet {0}",
-      "mandarin": "OTP已发送到 {0}",
-      "korean": "OTP가 전송되었습니다 {0}",
-      "spanish": "Se ha enviado un OTP a {0}",
-      "japanese": "OTPが送信されました {0}",
-      "portugese": "Um OTP foi enviado para {0}"
+      "english": "An OTP has been sent to {number}",
+      "german": "Ein OTP wurde an gesendet {number}",
+      "mandarin": "OTP已发送到 {number}",
+      "korean": "OTP가 전송되었습니다 {number}",
+      "spanish": "Se ha enviado un OTP a {number}",
+      "japanese": "OTPが送信されました {number}",
+      "portugese": "Um OTP foi enviado para {number}"
     },
     "verify-otp-heading-2": {
       "english": "Enter OTP to continue",
