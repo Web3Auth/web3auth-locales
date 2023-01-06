@@ -1701,6 +1701,114 @@
       "german": "Fahren Sie mit E-Mail fort",
       "portuguese": "Continuar com e-mail"
     },
+    "verifier-sms-desc": {
+      "english": "Continue with phone",
+      "german": "Fahren Sie mit dem Telefon fort",
+      "mandarin": "继续电话",
+      "korean": "전화로 계속하십시오",
+      "spanish": "Continuar con el teléfono",
+      "japanese": "電話を続けます",
+      "portugese": "Continue com o telefone"
+    },
+    "verify-otp-title-popup": {
+      "english": "OTP verification",
+      "german": "OTP -Überprüfung",
+      "mandarin": "OTP验证",
+      "korean": "OTP 검증",
+      "spanish": "Verificación OTP",
+      "japanese": "OTP検証",
+      "portugese": "Verificação de OTP"
+    },
+    "verify-otp-description": {
+      "english": "Enter OTP-Code sent to {0}",
+      "german": "Geben Sie OTP-Code ein, das an gesendet wird {0}",
+      "mandarin": "输入发送到发送到的OTP代码 {0}",
+      "korean": "전송 된 OTP 코드를 입력하십시오 {0}",
+      "spanish": "Ingrese el código OTP enviado a {0}",
+      "japanese": "送信されるOTP-Codeを入力します {0}",
+      "portugese": "Digite o código OTP enviado para {0}"
+    },
+    "resend-otp-code": {
+      "english": "Resend Code in {0}",
+      "german": "Code in {0}",
+      "mandarin": "重新发送代码 {0}",
+      "korean": "코드를 재현하십시오 {0}",
+      "spanish": "Reenviar código en {0}",
+      "japanese": "コードを再送信します {0}",
+      "portugese": "Reduzir o código em {0}"
+    },
+    "resend-code-cta": {
+      "english": "Resend Code",
+      "german": "Code wiedergeben",
+      "mandarin": "重新发送验证码",
+      "korean": "코드를 재현하십시오",
+      "spanish": "Reenviar codigo",
+      "japanese": "再送信コード",
+      "portugese": "Reenviar código"
+    },
+    "edit-phone-number-text": {
+      "english": "Edit phone number",
+      "german": "Telefonnummer bearbeiten",
+      "mandarin": "编辑电话号码",
+      "korean": "전화 번호 편집",
+      "spanish": "Editar número de teléfono",
+      "japanese": "電話番号を編集します",
+      "portugese": "Edite o número de telefone"
+    },
+    "verify-otp-title-redirect": {
+      "english": "Enter your OTP",
+      "german": "Geben Sie Ihre OTP ein",
+      "mandarin": "输入您的OTP",
+      "korean": "OTP를 입력하십시오",
+      "spanish": "Ingrese su OTP",
+      "japanese": "OTPを入力してください",
+      "portugese": "Digite seu OTP"
+    },
+    "verify-otp-heading-1": {
+      "english": "An OTP has been sent to {0}",
+      "german": "Ein OTP wurde an gesendet {0}",
+      "mandarin": "OTP已发送到 {0}",
+      "korean": "OTP가 전송되었습니다 {0}",
+      "spanish": "Se ha enviado un OTP a {0}",
+      "japanese": "OTPが送信されました {0}",
+      "portugese": "Um OTP foi enviado para {0}"
+    },
+    "verify-otp-heading-2": {
+      "english": "Enter OTP to continue",
+      "german": "Geben Sie OTP ein, um fortzufahren",
+      "mandarin": "输入OTP继续",
+      "korean": "계속하려면 OTP를 입력하십시오",
+      "spanish": "Ingrese OTP para continuar",
+      "japanese": "続行するにはOTPを入力します",
+      "portugese": "Digite o OTP para continuar"
+    },
+    "otp-verification-response-success": {
+      "english": "OTP verified",
+      "german": "OTP verifiziert",
+      "mandarin": "已验证OTP",
+      "korean": "OTP가 확인되었습니다",
+      "spanish": "OTP verificado",
+      "japanese": "OTP検証",
+      "portugese": "OTP Verificado"
+    },
+    "otp-verification-response-invalid": {
+      "english": "Invalid OTP",
+      "german": "Ungültiges OTP",
+      "mandarin": "无效的OTP",
+      "korean": "잘못된 OTP",
+      "spanish": "OTP no válido",
+      "japanese": "無効なOTP",
+      "portugese": "OTP inválido"
+    },
+    "otp-verification-response-expired": {
+      "english": "OTP Expired",
+      "german": "OTP abgelaufen",
+      "mandarin": "OTP过期",
+      "korean": "OTP가 만료되었습니다",
+      "spanish": "OTP expiró",
+      "japanese": "OTPの有効期限が切れました",
+      "portugese": "OTP expirou"
+    },
     "returning-exist-use-another": {
       "mandarin": "使用其他帐户",
       "spanish": "Usa otra cuenta",
