@@ -1809,6 +1809,15 @@
       "japanese": "OTPの有効期限が切れました",
       "portugese": "OTP expirou"
     },
+    "invalid-number-error-message": {
+      "english": "Invalid phone number",
+      "german": "Ungültige Telefonnummer",
+      "mandarin": "无效的电话号码",
+      "korean": "유효하지 않은 전화 번호",
+      "spanish": "Numero de telefono invalido",
+      "japanese": "無効な電話番号",
+      "portugese": "Número de telefone inválido"
+    },
     "returning-exist-use-another": {
       "mandarin": "使用其他帐户",
       "spanish": "Usa otra cuenta",
