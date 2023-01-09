@@ -1971,6 +1971,15 @@
       "german": "Email",
       "portuguese": "E-mail"
     },
+    "verifier-sms-placeholder": {
+      "mandarin": "例如：",
+      "spanish": "P.ej:",
+      "english": "Eg:",
+      "japanese": "例えば：",
+      "korean": "예 :",
+      "german": "Z.B:",
+      "portuguese": "Por exemplo:"
+    },
     "social-2fa-warning-cta-1": {
       "mandarin": "是的，我接受风险",
       "spanish": "Sí, acepto el riesgo",
