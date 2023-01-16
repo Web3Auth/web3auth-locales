@@ -1,172 +1,193 @@
 {
-	"webauthn": {
-		"webauthn-not-supported": {
-			"mandarin": "此设备不支持 Webauthn",
-			"german": "Webauthn wird auf diesem Gerät nicht unterstützt",
-			"japanese": "このデバイスではWeb認証はサポートされていません",
-			"korean": "Webauthn은 이 기기에서 지원되지 않습니다.",
-			"spanish": "Webauthn no es compatible con este dispositivo",
-			"english": "Webauthn is not supported on this device"
-		},
-		"action-sign-in": {
-			"mandarin": "登入",
-			"german": "Einloggen",
-			"japanese": "ログイン",
-			"korean": "로그인",
-			"spanish": "Registrarse",
-			"english": "Sign In"
-		},
-		"improve-experience": {
-			"mandarin": "改善您的体验",
-			"german": "Verbessern Sie Ihre Erfahrung",
-			"japanese": "あなたの経験を向上させる",
-			"korean": "경험 향상",
-			"spanish": "Mejora tu experiencia",
-			"english": "Improve your experience"
-		},
-		"something-wrong-note": {
-			"mandarin": "出问题了",
-			"german": "Etwas ist schief gelaufen",
-			"japanese": "何かがうまくいかなかった",
-			"korean": "문제가 발생했습니다.",
-			"spanish": "Algo salió mal",
-			"english": "Something went wrong"
-		},
-		"status-registered": {
-			"mandarin": "设备注册",
-			"german": "Gerät registriert",
-			"japanese": "登録済みのデバイス",
-			"korean": "등록된 기기",
-			"spanish": "Dispositivo registrado",
-			"english": "Device registered"
-		},
-		"browser-not-supported-note": {
-			"mandarin": "您正在使用我们不支持的浏览器。 尝试这些选项之一以获得在此应用程序上的更好体验。 如果您已经在使用以下列表中的浏览器，请更新到最新版本",
-			"german": "Sie verwenden einen von uns nicht unterstützten Browser. Probieren Sie eine dieser Optionen aus, um eine bessere Erfahrung mit dieser Anwendung zu erzielen. Wenn Sie bereits einen Browser aus der folgenden Liste verwenden, aktualisieren Sie bitte auf die neueste Version",
-			"japanese": "サポートされていないブラウザを使用しています。 これらのオプションのいずれかを試して、このアプリケーションのエクスペリエンスを向上させてください。 以下のリストのブラウザをすでに使用している場合は、最新バージョンに更新してください",
-			"korean": "지원하지 않는 브라우저를 사용하고 있습니다. 이 응용 프로그램에서 더 나은 경험을 얻으려면 다음 옵션 중 하나를 시도하십시오. 아래 목록의 브라우저를 이미 사용 중이라면 최신 버전으로 업데이트하십시오.",
-			"spanish": "Está utilizando un navegador que no admitimos. Pruebe una de estas opciones para tener una mejor experiencia en esta aplicación. Si ya está utilizando un navegador de la siguiente lista, actualice a la última versión",
-			"english": "You are using a browser we do not support. Try one of these options to have a better experience on this application. If you're already using a browser from the below list, Please update to the latest version"
-		},
-		"required-params-note": {
-			"mandarin": "缺少以下一项或多项必需参数",
-			"german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen",
-			"japanese": "次の必須パラメーターの1つ以上が欠落しています",
-			"korean": "다음 필수 매개변수 중 하나 이상이 누락되었습니다.",
-			"spanish": "Falta uno o más de los siguientes parámetros obligatorios",
-			"english": "One or more of the following required parameters is missing"
-		},
-		"status-loading": {
-			"mandarin": "加载中",
-			"german": "Wird geladen",
-			"japanese": "読み込み中",
-			"korean": "로딩 중",
-			"spanish": "Cargando",
-			"english": "Loading"
-		},
-		"operation-timeout": {
-			"mandarin": "操作超时或不允许",
-			"german": "Der Vorgang ist entweder abgelaufen oder nicht zulässig",
-			"japanese": "操作がタイムアウトしたか、許可されなかった",
-			"korean": "작업 시간이 초과되었거나 허용되지 않았습니다.",
-			"spanish": "La operación agotó el tiempo de espera o no se permitió",
-			"english": "The operation either timed out or was not allowed"
-		},
-		"action-yes": {
-			"mandarin": "是的",
-			"german": "Jawohl",
-			"japanese": "はい",
-			"korean": "예",
-			"spanish": "sí",
-			"english": "Yes"
-		},
-		"learn-more": {
-			"mandarin": "了解更多",
-			"german": "Mehr erfahren",
-			"japanese": "もっと詳しく知る",
-			"korean": "더 알아보기",
-			"spanish": "Aprende más",
-			"english": "Learn more"
-		},
-		"action-cancel": {
-			"mandarin": "取消",
-			"german": "Stornieren",
-			"japanese": "キャンセル",
-			"korean": "취소",
-			"spanish": "Cancelar",
-			"english": "Cancel"
-		},
-		"browser-not-supported": {
-			"mandarin": "浏览器不支持",
-			"german": "Browser nicht unterstützt",
-			"japanese": "ブラウザはサポートされていません",
-			"korean": "지원되지 않는 브라우저",
-			"spanish": "Navegador no compatible",
-			"english": "Browser not supported"
-		},
-		"action-no": {
-			"mandarin": "不",
-			"german": "Nein",
-			"japanese": "番号",
-			"korean": "아니요",
-			"spanish": "No",
-			"english": "No"
-		},
-		"registering-device": {
-			"mandarin": "注册您的设备",
-			"german": "Registrieren Ihres Geräts",
-			"japanese": "デバイスの登録",
-			"korean": "디바이스 등록",
-			"spanish": "Registro de su dispositivo",
-			"english": "Registering your device"
-		},
-		"sign-in": {
-			"mandarin": "通过 Touch ID / Face ID 登录？",
-			"german": "Über Touch ID / Face ID anmelden?",
-			"japanese": "Touch ID / Face IDでサインインしますか？",
-			"korean": "Touch ID/Face ID로 로그인하시겠습니까?",
-			"spanish": "¿Iniciar sesión a través de Touch ID / Face ID?",
-			"english": "Sign in via Touch ID / Face ID?"
-		},
-		"missing-params": {
-			"mandarin": "缺少参数",
-			"german": "Fehlende Parameter",
-			"japanese": "欠落しているパラメータ",
-			"korean": "누락된 매개변수",
-			"spanish": "Parámetros faltantes",
-			"english": "Missing params"
-		},
-		"user-denied": {
-			"mandarin": "用户已拒绝授权",
-			"german": "Benutzer hat die Autorisierung verweigert",
-			"japanese": "ユーザーが承認を拒否しました",
-			"korean": "사용자가 승인을 거부했습니다.",
-			"spanish": "El usuario ha denegado la autorización",
-			"english": "User has denied authorization"
-		},
-		"invalid-url": {
-			"mandarin": "重定向 URI 无效",
-			"german": "Ungültiger Weiterleitungs-URI",
-			"japanese": "リダイレクトURIが無効です",
-			"korean": "잘못된 리디렉션 URI",
-			"spanish": "URI de redireccionamiento no válido",
-			"english": "Invalid redirect URI"
-		},
-		"status-done": {
-			"mandarin": "完毕",
-			"german": "Erledigt",
-			"japanese": "終わり",
-			"korean": "완료",
-			"spanish": "Hecho",
-			"english": "Done"
-		},
-		"register-device": {
-			"mandarin": "您要注册此设备吗？",
-			"german": "Möchten Sie dieses Gerät registrieren?",
-			"japanese": "このデバイスを登録しますか？",
-			"korean": "이 디바이스를 등록하시겠습니까?",
-			"spanish": "¿Le gustaría registrar este dispositivo?",
-			"english": "Would you like to register this device?"
-		}
-	}
+  "webauthn": {
+    "webauthn-not-supported": {
+      "mandarin": "此设备不支持 Webauthn",
+      "german": "Webauthn wird auf diesem Gerät nicht unterstützt",
+      "japanese": "このデバイスではWeb認証はサポートされていません",
+      "korean": "Webauthn은 이 기기에서 지원되지 않습니다.",
+      "spanish": "Webauthn no es compatible con este dispositivo",
+      "english": "Webauthn is not supported on this device",
+      "portuguese": "Webauthn não é compatível com este dispositivo"
+    },
+    "action-sign-in": {
+      "mandarin": "登入",
+      "german": "Einloggen",
+      "japanese": "ログイン",
+      "korean": "로그인",
+      "spanish": "Registrarse",
+      "english": "Sign In",
+      "portuguese": "Entrar"
+    },
+    "improve-experience": {
+      "mandarin": "改善您的体验",
+      "german": "Verbessern Sie Ihre Erfahrung",
+      "japanese": "あなたの経験を向上させる",
+      "korean": "경험 향상",
+      "spanish": "Mejora tu experiencia",
+      "english": "Improve your experience",
+      "portuguese": "Melhore sua experiência"
+    },
+    "something-wrong-note": {
+      "mandarin": "出问题了",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다.",
+      "spanish": "Algo salió mal",
+      "english": "Something went wrong",
+      "portuguese": "Algo deu errado"
+    },
+    "status-registered": {
+      "mandarin": "设备注册",
+      "german": "Gerät registriert",
+      "japanese": "登録済みのデバイス",
+      "korean": "등록된 기기",
+      "spanish": "Dispositivo registrado",
+      "english": "Device registered",
+      "portuguese": "Dispositivo registrado"
+    },
+    "browser-not-supported-note": {
+      "mandarin": "您正在使用我们不支持的浏览器。 尝试这些选项之一以获得在此应用程序上的更好体验。 如果您已经在使用以下列表中的浏览器，请更新到最新版本",
+      "german": "Sie verwenden einen von uns nicht unterstützten Browser. Probieren Sie eine dieser Optionen aus, um eine bessere Erfahrung mit dieser Anwendung zu erzielen. Wenn Sie bereits einen Browser aus der folgenden Liste verwenden, aktualisieren Sie bitte auf die neueste Version",
+      "japanese": "サポートされていないブラウザを使用しています。 これらのオプションのいずれかを試して、このアプリケーションのエクスペリエンスを向上させてください。 以下のリストのブラウザをすでに使用している場合は、最新バージョンに更新してください",
+      "korean": "지원하지 않는 브라우저를 사용하고 있습니다. 이 응용 프로그램에서 더 나은 경험을 얻으려면 다음 옵션 중 하나를 시도하십시오. 아래 목록의 브라우저를 이미 사용 중이라면 최신 버전으로 업데이트하십시오.",
+      "spanish": "Está utilizando un navegador que no admitimos. Pruebe una de estas opciones para tener una mejor experiencia en esta aplicación. Si ya está utilizando un navegador de la siguiente lista, actualice a la última versión",
+      "english": "You are using a browser we do not support. Try one of these options to have a better experience on this application. If you're already using a browser from the below list, Please update to the latest version",
+      "portuguese": "Você está usando um navegador que não suportamos. Experimente uma dessas opções para ter uma melhor experiência neste aplicativo. Se você já estiver usando um navegador da lista abaixo, atualize para a versão mais recente"
+    },
+    "required-params-note": {
+      "mandarin": "缺少以下一项或多项必需参数",
+      "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen",
+      "japanese": "次の必須パラメーターの1つ以上が欠落しています",
+      "korean": "다음 필수 매개변수 중 하나 이상이 누락되었습니다.",
+      "spanish": "Falta uno o más de los siguientes parámetros obligatorios",
+      "english": "One or more of the following required parameters is missing",
+      "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes"
+    },
+    "status-loading": {
+      "mandarin": "加载中",
+      "german": "Wird geladen",
+      "japanese": "読み込み中",
+      "korean": "로딩 중",
+      "spanish": "Cargando",
+      "english": "Loading",
+      "portuguese": "Carregando"
+    },
+    "operation-timeout": {
+      "mandarin": "操作超时或不允许",
+      "german": "Der Vorgang ist entweder abgelaufen oder nicht zulässig",
+      "japanese": "操作がタイムアウトしたか、許可されなかった",
+      "korean": "작업 시간이 초과되었거나 허용되지 않았습니다.",
+      "spanish": "La operación agotó el tiempo de espera o no se permitió",
+      "english": "The operation either timed out or was not allowed",
+      "portuguese": "A operação expirou ou não foi permitida"
+    },
+    "action-yes": {
+      "mandarin": "是的",
+      "german": "Jawohl",
+      "japanese": "はい",
+      "korean": "예",
+      "spanish": "sí",
+      "english": "Yes",
+      "portuguese": "Sim"
+    },
+    "learn-more": {
+      "mandarin": "了解更多",
+      "german": "Mehr erfahren",
+      "japanese": "もっと詳しく知る",
+      "korean": "더 알아보기",
+      "spanish": "Aprende más",
+      "english": "Learn more",
+      "portuguese": "Saber mais"
+    },
+    "action-cancel": {
+      "mandarin": "取消",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "spanish": "Cancelar",
+      "english": "Cancel",
+      "portuguese": "Cancelar"
+    },
+    "browser-not-supported": {
+      "mandarin": "浏览器不支持",
+      "german": "Browser nicht unterstützt",
+      "japanese": "ブラウザはサポートされていません",
+      "korean": "지원되지 않는 브라우저",
+      "spanish": "Navegador no compatible",
+      "english": "Browser not supported",
+      "portuguese": "Navegador não suportado"
+    },
+    "action-no": {
+      "mandarin": "不",
+      "german": "Nein",
+      "japanese": "番号",
+      "korean": "아니요",
+      "spanish": "No",
+      "english": "No",
+      "portuguese": "Não"
+    },
+    "registering-device": {
+      "mandarin": "注册您的设备",
+      "german": "Registrieren Ihres Geräts",
+      "japanese": "デバイスの登録",
+      "korean": "장치 등록",
+      "spanish": "Registro de su dispositivo",
+      "english": "Registering your device",
+      "portuguese": "Registrando seu dispositivo"
+    },
+    "sign-in": {
+      "mandarin": "通过 Touch ID / Face ID 登录？",
+      "german": "Über Touch ID / Face ID anmelden?",
+      "japanese": "Touch ID / Face IDでサインインしますか？",
+      "korean": "Touch ID/Face ID로 로그인하시겠습니까?",
+      "spanish": "¿Iniciar sesión a través de Touch ID / Face ID?",
+      "english": "Sign in via Touch ID / Face ID?",
+      "portuguese": "Entrar via Touch ID / Face ID?"
+    },
+    "missing-params": {
+      "mandarin": "缺少参数",
+      "german": "Fehlende Parameter",
+      "japanese": "欠落しているパラメータ",
+      "korean": "누락된 매개변수",
+      "spanish": "Parámetros faltantes",
+      "english": "Missing params",
+      "portuguese": "Parâmetros ausentes"
+    },
+    "user-denied": {
+      "mandarin": "用户已拒绝授权",
+      "german": "Benutzer hat die Autorisierung verweigert",
+      "japanese": "ユーザーが承認を拒否しました",
+      "korean": "사용자가 승인을 거부했습니다.",
+      "spanish": "El usuario ha denegado la autorización",
+      "english": "User has denied authorization",
+      "portuguese": "O usuário negou a autorização"
+    },
+    "invalid-url": {
+      "mandarin": "重定向 URI 无效",
+      "german": "Ungültiger Weiterleitungs-URI",
+      "japanese": "リダイレクトURIが無効です",
+      "korean": "잘못된 리디렉션 URI",
+      "spanish": "URI de redireccionamiento no válido",
+      "english": "Invalid redirect URI",
+      "portuguese": "URI de redirecionamento inválido"
+    },
+    "status-done": {
+      "mandarin": "完毕",
+      "german": "Erledigt",
+      "japanese": "終わり",
+      "korean": "완료",
+      "spanish": "Hecho",
+      "english": "Done",
+      "portuguese": "Feito"
+    },
+    "register-device": {
+      "mandarin": "您要注册此设备吗？",
+      "german": "Möchten Sie dieses Gerät registrieren?",
+      "japanese": "このデバイスを登録しますか？",
+      "korean": "이 장치를 등록하시겠습니까?",
+      "spanish": "¿Le gustaría registrar este dispositivo?",
+      "english": "Would you like to register this device?",
+      "portuguese": "Deseja registrar este dispositivo?"
+    }
+  }
 }

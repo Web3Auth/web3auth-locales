@@ -1,44 +1,49 @@
 {
-	"nav": {
-		"link-apps": {
-			"mandarin": "授权应用",
-			"japanese": "認定アプリ",
-			"spanish": "Aplicaciones autorizadas",
-			"english": "Authorized Apps",
-			"german": "Autorisierte Apps",
-			"korean": "승인 된 앱"
-		},
-		"link-home": {
-			"mandarin": "主页",
-			"japanese": "ホームページ",
-			"spanish": "página principal",
-			"english": "Home",
-			"german": "Startseite",
-			"korean": "홈페이지"
-		},
-		"link-support": {
-			"mandarin": "支持",
-			"japanese": "サポート",
-			"spanish": "Apoyo",
-			"english": "Support",
-			"german": "Unterstützung",
-			"korean": "지원하다"
-		},
-		"link-account": {
-			"mandarin": "帐户",
-			"japanese": "アカウント",
-			"spanish": "Cuenta",
-			"english": "Account",
-			"german": "Konto",
-			"korean": "어카운트"
-		},
-		"link-logout": {
-			"mandarin": "登出",
-			"japanese": "ログアウト",
-			"spanish": "Cerrar sesión",
-			"english": "Logout",
-			"german": "Ausloggen",
-			"korean": "로그 아웃"
-		}
-	}
+  "nav": {
+    "link-apps": {
+      "mandarin": "授权应用",
+      "japanese": "認定アプリ",
+      "spanish": "Aplicaciones autorizadas",
+      "english": "Authorized Apps",
+      "german": "Autorisierte Apps",
+      "korean": "승인 된 앱",
+      "portuguese": "Aplicativos autorizados"
+    },
+    "link-home": {
+      "mandarin": "主页",
+      "japanese": "ホームページ",
+      "spanish": "página principal",
+      "english": "Home",
+      "german": "Startseite",
+      "korean": "홈페이지",
+      "portuguese": "Início"
+    },
+    "link-support": {
+      "mandarin": "支持",
+      "japanese": "サポート",
+      "spanish": "Apoyo",
+      "english": "Support",
+      "german": "Unterstützung",
+      "korean": "지원하다",
+      "portuguese": "Suporte"
+    },
+    "link-account": {
+      "mandarin": "帐户",
+      "japanese": "アカウント",
+      "spanish": "Cuenta",
+      "english": "Account",
+      "german": "Konto",
+      "korean": "계정",
+      "portuguese": "Conta"
+    },
+    "link-logout": {
+      "mandarin": "登出",
+      "japanese": "ログアウト",
+      "spanish": "Cerrar sesión",
+      "english": "Logout",
+      "german": "Ausloggen",
+      "korean": "로그 아웃",
+      "portuguese": "Sair"
+    }
+  }
 }
