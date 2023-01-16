@@ -77,7 +77,7 @@
       "spanish": "La última versión de Torus Wallet funciona con OpenLogin.",
       "english": "The latest version of Torus Wallet is powered by OpenLogin.",
       "japanese": "Torus Walletの最新バージョンは、OpenLoginを利用しています。",
-      "korean": "최신 버전의 Torus Wallet은 OpenLogin에 의해 구동됩니다.",
+      "korean": "최신 버전의 Torus Wallet은 OpenLogin으로 구동됩니다.",
       "german": "Die neueste Version von Torus Wallet wird von OpenLogin unterstützt.",
       "portuguese": "A versão mais recente do Torus Wallet é fornecida pelo OpenLogin."
     },
@@ -131,7 +131,7 @@
       "spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación",
       "english": "Login with any of the social account to set it as recovery factor",
       "japanese": "ソーシャルアカウントのいずれかでログインして、回復要因として設定します",
-      "korean": "소셜 계정에 로그인하여 복구 계수로 설정",
+      "korean": "소셜 계정에 로그인하여 복구 팩터로 설정",
       "german": "Melden Sie sich mit einem der sozialen Konto an, um es als Wiederherstellungsfaktor festzulegen",
       "portuguese": "Faça login com qualquer conta social para defini-la como fator de recuperação"
     },
@@ -140,7 +140,7 @@
       "spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?",
       "english": "You are using the same email for account login and social factor. This is insecure. Would you still like to proceed?",
       "japanese": "アカウントログインとソーシャルファクターに同じメールを使用しています。これは不安です。まだ進みたいですか？",
-      "korean": "계정 로그인 및 소셜 요소에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않습니다. 아직도 진행하고 싶습니까?",
+      "korean": "계정 로그인 및 소셜 팩터에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않은 설정입니다만, 그래도 진행하시겠습니까?",
       "german": "Sie verwenden dieselbe E -Mail für Kontoanmeldung und sozialer Faktor. Das ist unsicher. Möchten Sie immer noch fortfahren?",
       "portuguese": "Você está usando o mesmo e-mail para login da conta e fator social. Isso é inseguro. Você ainda gostaria de prosseguir?"
     },
@@ -158,7 +158,7 @@
       "spanish": "Agregue una capa adicional de seguridad a su cuenta",
       "english": "Add an extra layer of security to your account",
       "japanese": "アカウントにセキュリティの層を追加します",
-      "korean": "계정에 보안 계층 추가",
+      "korean": "계정에 보안 레이어 추가",
       "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu",
       "portuguese": "Adicione uma camada extra de segurança à sua conta"
     },
@@ -194,7 +194,7 @@
       "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.",
       "english": "Use the current browser to approve access from new devices/browsers.",
       "japanese": "現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。",
-      "korean": "현재 브라우저를 사용하여 새 장치/브라우저에서 액세스를 승인합니다.",
+      "korean": "현재 브라우저를 사용하여 새 디바이스/브라우저에서 액세스를 승인합니다.",
       "german": "Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen.",
       "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores."
     },
@@ -221,7 +221,7 @@
       "spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta.",
       "english": "Signing in with this Social factor at the login page will give you a new account.",
       "japanese": "ログインページでこのソーシャルファクターにサインインすると、新しいアカウントが提供されます。",
-      "korean": "로그인 페이지 에서이 소셜 요소에 로그인하면 새 계정이 제공됩니다.",
+      "korean": "로그인 페이지에서 이 소셜 팩터에 로그인하면 새 계정이 제공됩니다.",
       "german": "Wenn Sie sich bei diesem sozialen Faktor auf der Anmeldeseite anmelden, erhalten Sie ein neues Konto.",
       "portuguese": "Entrar com este fator social na página de login lhe dará uma nova conta."
     },
@@ -329,7 +329,7 @@
       "spanish": "Dispositivos",
       "english": "Device(s)",
       "japanese": "デバイス",
-      "korean": "장치",
+      "korean": "디바이스",
       "german": "Geräte",
       "portuguese": "Dispositivo(s)"
     },
@@ -500,7 +500,7 @@
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID.",
       "english": "It helps you with account recovery in case you lose your device with Touch ID / Face ID.",
       "japanese": "Touch ID / Face ID でデバイスを紛失した場合のアカウント回復に役立ちます。",
-      "korean": "Touch ID / Face ID로 기기를 분실 한 경우 계정 복구에 도움이됩니다.",
+      "korean": "Touch ID / Face ID가 있는 디바이스를 분실 한 경우 계정 복구에 도움이됩니다.",
       "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät mit Touch ID / Face ID verlieren.",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo com Touch ID / Face ID."
     },
@@ -536,7 +536,7 @@
       "spanish": "Establecer factor de recuperación social",
       "english": "Set Social recovery factor",
       "japanese": "社会的回復要因を設定します",
-      "korean": "사회 복구 요인을 설정하십시오",
+      "korean": "소셜 복구 요인을 설정하십시오",
       "german": "Setzen Sie den sozialen Genesungsfaktor",
       "portuguese": "Definir fator de recuperação social"
     },
@@ -545,7 +545,7 @@
       "spanish": "Ingrese el factor de recuperación",
       "english": "Enter recovery factor",
       "japanese": "回復係数を入力してください",
-      "korean": "회복 계수 입력",
+      "korean": "복구 팩터 입력",
       "german": "Erholungsfaktor eingeben",
       "portuguese": "Insira o fator de recuperação"
     },
@@ -635,7 +635,7 @@
       "spanish": "Quizás la próxima vez",
       "english": "Maybe next time",
       "japanese": "また今度",
-      "korean": "아마 다음 번에",
+      "korean": "다음 번에",
       "german": "Vielleicht nächstes Mal",
       "portuguese": "Talvez na próxima vez"
     },
@@ -644,7 +644,7 @@
       "spanish": "Guardar dispositivo actual",
       "english": "Save current device",
       "japanese": "現在のデバイスを保存",
-      "korean": "현재 장치 저장",
+      "korean": "현재 디바이스 저장",
       "german": "Aktuelles Gerät speichern",
       "portuguese": "Salvar dispositivo atual"
     },
@@ -707,7 +707,7 @@
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
       "english": "An email will be sent to you containing the backup phrase. It helps you with account recovery in case you lose your device.",
       "japanese": "バックアップフレーズを記載したメールが送信されます。デバイスを紛失した場合のアカウントの復旧に役立ちます。",
-      "korean": "백업 문구가 포함 된 이메일이 전송됩니다.  기기 분실시 계정 복구에 도움이됩니다.",
+      "korean": "백업 문구가 포함 된 이메일이 전송됩니다. 디바이스 분실시 계정 복구에 도움이 됩니다.",
       "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase. Sie hilft Ihnen bei der Wiederherstellung des Kontos, falls Sie Ihr Gerät verlieren.",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup. Ele ajuda na recuperação da conta caso você perca seu dispositivo."
     },
@@ -743,7 +743,7 @@
       "spanish": "Dispositivos habilitados con Face ID / Touch ID *",
       "english": "Face ID / Touch ID enabled device(s) *",
       "japanese": "Face ID / TouchID対応デバイス*",
-      "korean": "Face ID / Touch ID 지원 장치 *",
+      "korean": "Face ID / Touch ID 지원 디바이스 *",
       "german": "Face ID / Touch ID-fähige Geräte *",
       "portuguese": "Dispositivo(s) habilitado(s) para Face ID / Touch ID*"
     },
@@ -751,7 +751,7 @@
       "english": "Web Authentication Enabled Device(s)",
       "german": "Webauthentifizierung aktiviertes Geräte (en)",
       "mandarin": "Web身份验证启用设备",
-      "korean": "웹 인증 활성화 장치",
+      "korean": "웹 인증 활성화 디바이스",
       "japanese": "Web認証有効化デバイス",
       "spanish": "Dispositivo (s) de autenticación web",
       "portuguese": "Dispositivo(s) habilitado(s) para utenticação da Web"
@@ -815,7 +815,7 @@
       "spanish": "{0} dispositivos disponibles",
       "english": "{0} devices available",
       "japanese": "利用可能な{0}デバイス",
-      "korean": "사용 가능한 기기 {0}대",
+      "korean": "사용 가능한 디바이스 {0}대",
       "german": "{0} Geräte verfügbar",
       "portuguese": "{0} dispositivos disponíveis"
     },
@@ -869,7 +869,7 @@
       "spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta.",
       "english": "As an advanced user, I know that if I lose this recovery phrase, I bear the risk of losing my account.",
       "japanese": "上級ユーザーとして、この回復フレーズを失うと、アカウントを失うリスクがあることを私は知っています。",
-      "korean": "고급 사용자로서 나는 이 복구 문구를 잃어버리면 내 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
+      "korean": "숙련된 사용자로서 나는 이 복구 문구를 잃어버리면 내 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
       "german": "Als fortgeschrittener Benutzer weiß ich, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",
       "portuguese": "Como usuário avançado, sei que, se perder esta frase de recuperação, corro o risco de perder minha conta."
     },
@@ -878,7 +878,7 @@
       "spanish": "Quizás la próxima vez",
       "english": "Maybe next time",
       "japanese": "また今度",
-      "korean": "아마 다음 번에",
+      "korean": "다음 번에",
       "german": "Vielleicht nächstes Mal",
       "portuguese": "Talvez na próxima vez"
     },
@@ -923,7 +923,7 @@
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
       "english": "It helps you with account recovery in case you lose your device.",
       "japanese": "デバイスを紛失した場合のアカウントの回復に役立ちます。",
-      "korean": "기기 분실시 계정 복구에 도움이됩니다.",
+      "korean": "디바이스 분실시 계정 복구에 도움이됩니다.",
       "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät verlieren.",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo."
     },
@@ -932,7 +932,7 @@
       "spanish": "Verifique su factor de recuperación",
       "english": "Verify your recovery factor",
       "japanese": "回復率を確認する",
-      "korean": "회복 계수 확인",
+      "korean": "복구 팩터 확인",
       "german": "Überprüfen Sie Ihren Erholungsfaktor",
       "portuguese": "Verifique seu fator de recuperação"
     },
@@ -950,7 +950,7 @@
       "spanish": "No, usa otro correo electrónico",
       "english": "No, use another email",
       "japanese": "いいえ、別のメールを使用してください",
-      "korean": "아니요, 다른 이메일을 사용하십시오",
+      "korean": "아니요, 다른 이메일을 사용해 주세요",
       "german": "Nein, verwenden Sie eine andere E -Mail",
       "portuguese": "Não, use outro e-mail"
     },
@@ -968,7 +968,7 @@
       "spanish": "Cada inicio de sesión requiere 2 factores para la autenticación",
       "english": "Each login requires 2 factors for authentication",
       "japanese": "各ログインには、認証のために2つの要素が必要です",
-      "korean": "각 로그인에는 인증을 위해 2가지 요소가 필요합니다.",
+      "korean": "각 로그인에는 인증을 위해 2가지 팩터가 필요합니다.",
       "german": "Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
       "portuguese": "Cada login requer 2 fatores para autenticação"
     },
@@ -977,7 +977,7 @@
       "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}",
       "english": "Paste the recovery factor sent to your email {0}",
       "japanese": "メール {0} に送信された回復係数を貼り付けます",
-      "korean": "이메일로 전송된 복구 요소를 붙여넣습니다. {0}",
+      "korean": "이메일로 전송된 복구 팩터를 붙여넣습니다. {0}",
       "german": "Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0}",
       "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}"
     },
@@ -1004,7 +1004,7 @@
       "spanish": "Factor de recuperación",
       "english": "Recovery factor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 팩터",
       "german": "Erholungsfaktor",
       "portuguese": "Fator de recuperação"
     },
@@ -1013,7 +1013,7 @@
       "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd@xyz.com\".",
       "english": "This Social factor only acts as a backup share to recover your account linked to “abcd@xyz.com”.",
       "japanese": "このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
-      "korean": "이 사회적 요소는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
+      "korean": "이 소셜적 팩터는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
       "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen.",
       "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd@xyz.com”."
     },
@@ -1022,7 +1022,7 @@
       "spanish": "Descargar mi factor de recuperación",
       "english": "Download my recovery factor",
       "japanese": "私のリカバリーファクターをダウンロードする",
-      "korean": "내 회복 인자 다운로드",
+      "korean": "내 복구 팩터 다운로드",
       "german": "Laden Sie meinen Wiederherstellungsfaktor herunter",
       "portuguese": "Baixar meu fator de recuperação"
     },
@@ -1067,7 +1067,7 @@
       "spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad.",
       "english": "from any of the following devices to complete the security verification.",
       "japanese": "次のいずれかのデバイスからセキュリティ検証を完了します。",
-      "korean": "다음 장치 중 하나에서 보안 확인을 완료하십시오.",
+      "korean": "다음 디바이스 중 하나에서 보안 확인을 완료하십시오.",
       "german": "von einem der folgenden Geräte, um die Sicherheitsüberprüfung abzuschließen.",
       "portuguese": "de qualquer um dos seguintes dispositivos para concluir a verificação de segurança."
     },
@@ -1121,7 +1121,7 @@
       "spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?",
       "english": "Would you like to enable Touch ID / Face ID on this device?",
       "japanese": "このデバイスでTouchID / Face IDを有効にしますか？",
-      "korean": "이 장치에서 Touch ID / Face ID를 활성화 하시겠습니까?",
+      "korean": "이 디바이스에서 Touch ID / Face ID를 활성화 하시겠습니까?",
       "german": "Möchten Sie die Touch ID / Face ID auf diesem Gerät aktivieren?",
       "portuguese": "Gostaria de ativar o Touch ID / Face ID neste dispositivo?"
     },
@@ -1166,7 +1166,7 @@
       "spanish": "Guardar este dispositivo",
       "english": "Save this device",
       "japanese": "このデバイスを保存します",
-      "korean": "이 기기 저장",
+      "korean": "이 디바이스 저장",
       "german": "Speichern Sie dieses Gerät",
       "portuguese": "Salvar este dispositivo"
     },
@@ -1184,7 +1184,7 @@
       "spanish": "Factor de recuperación",
       "english": "Recovery factor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 팩터",
       "german": "Erholungsfaktor",
       "portuguese": "Fator de recuperação"
     },
@@ -1292,7 +1292,7 @@
       "spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}",
       "english": "Did not receive it? Resent. Check again in {0}",
       "japanese": "受け取りませんでしたか？ 憤る。 {0}でもう一度確認してください",
-      "korean": "받지 못하셨나요? 화내다. {0}에서 다시 확인",
+      "korean": "받지 못하셨나요? 재전송 했습니다. {0}에서 다시 확인하세요.",
       "german": "Nicht erhalten? Übelnehmen. Erneut einchecken in {0}",
       "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}"
     },
@@ -1355,7 +1355,7 @@
       "spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador.",
       "english": "I understand that clearing browser history and cookies will delete this factor on my browser.",
       "japanese": "ブラウザの履歴とCookieをクリアすると、ブラウザのこの要素が削除されることを理解しています。",
-      "korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 요소가 삭제된다는 것을 이해합니다.",
+      "korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 팩터가 삭제된다는 것을 이해합니다.",
       "german": "Mir ist bewusst, dass das Löschen des Browserverlaufs und der Cookies diesen Faktor in meinem Browser löscht.",
       "portuguese": "Entendo que limpar o histórico e os cookies do navegador excluirá esse fator do meu navegador."
     },
@@ -1364,7 +1364,7 @@
       "spanish": "Navegadores / dispositivos guardados",
       "english": "Saved browser(s) / devices",
       "japanese": "保存されたブラウザ/デバイス",
-      "korean": "저장된 브라우저/기기",
+      "korean": "저장된 브라우저/디바이스",
       "german": "Gespeicherte(r) Browser/Geräte",
       "portuguese": "Navegadores/dispositivos salvos"
     },
@@ -1373,7 +1373,7 @@
       "spanish": "Factor de recuperación",
       "english": "Recovery factor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 팩터",
       "german": "Erholungsfaktor",
       "portuguese": "Fator de recuperação"
     },
@@ -1445,7 +1445,7 @@
       "spanish": "¡Configúralo en 3 sencillos pasos!",
       "english": "Set it up in 3 simple steps!",
       "japanese": "3つの簡単なステップでセットアップしてください！",
-      "korean": "간단한 3단계로 설정하세요!",
+      "korean": "3단계로 간단하게 설정하세요!",
       "german": "Richten Sie es in 3 einfachen Schritten ein!",
       "portuguese": "Configure em 3 passos simples!"
     },
@@ -1517,7 +1517,7 @@
       "spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo.",
       "english": "Register your device with Face ID or Touch ID. Biometrics never leave your device.",
       "japanese": "デバイスを Face ID または Touch ID で登録します。 生体認証がデバイスから離れることはありません。",
-      "korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 장치를 떠나지 않습니다.",
+      "korean": "Face ID 또는 Touch ID로 디바이스를 등록하세요. 생체 인식은 디바이스를 떠나지 않습니다.",
       "german": "Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie.",
       "portuguese": "Registre seu dispositivo com Face ID ou Touch ID. A biometria nunca sai do seu dispositivo."
     },
@@ -1525,7 +1525,7 @@
       "english": "Register your device with biometrics or any web authentication methods.",
       "german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
       "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
-      "korean": "생체 인식 또는 웹 인증 방법으로 장치를 등록하십시오.",
+      "korean": "생체 인식 또는 웹 인증 방법으로 디바이스를 등록하십시오.",
       "japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
       "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web.",
       "portuguese": "Registre seu dispositivo com biometria ou qualquer método de autenticação da web."
@@ -1534,7 +1534,7 @@
       "english": "Register your device any web authentication methods.",
       "german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
       "mandarin": "注册您的设备任何Web身份验证方法。",
-      "korean": "웹 인증 방법을 장치에 등록하십시오.",
+      "korean": "웹 인증 방법을 디바이스에 등록하십시오.",
       "japanese": "Web認証方法をデバイスに登録してください。",
       "spanish": "Registre su dispositivo cualquier método de autenticación web.",
       "portuguese": "Registre seu dispositivo em qualquer método de autenticação da web."
@@ -1580,7 +1580,7 @@
       "spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:",
       "english": "* Only for Touch ID / Face ID previously set up on the following device(s):",
       "japanese": "*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：",
-      "korean": "* 다음 장치에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
+      "korean": "* 다음 디바이스에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
       "german": "* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:",
       "portuguese": "* Apenas para Touch ID / Face ID previamente configurado no(s) seguinte(s) dispositivo(s):"
     },
@@ -1588,7 +1588,7 @@
       "english": "Only for web authentication methods that was previously set up on the following device(s)",
       "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
       "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
-      "korean": "다음 장치에서 이전에 설정된 웹 인증 방법에 대해서만",
+      "korean": "다음 디바이스에서 이전에 설정된 웹 인증 방법에 대해서만",
       "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
       "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos",
       "portuguese": "Apenas para métodos de autenticação da web que foram configurados anteriormente no(s) seguinte(s) dispositivo(s)"
@@ -1616,7 +1616,7 @@
       "spanish": "Pegar el factor de recuperación",
       "english": "Paste the recovery factor",
       "japanese": "回復係数を貼り付けます",
-      "korean": "회복 인자 붙여넣기",
+      "korean": "복구 팩터 붙여넣기",
       "german": "Fügen Sie den Wiederherstellungsfaktor ein",
       "portuguese": "Cole o fator de recuperação"
     },
@@ -1670,7 +1670,7 @@
       "spanish": "Agregue una capa adicional de seguridad a su cuenta y proteja sus activos.",
       "english": "Add an extra layer of security to your account and safekeep your assets.",
       "japanese": "アカウントにセキュリティの層を追加し、資産を保護します。",
-      "korean": "계정에 보안 계층을 추가하고 자산을 보호하십시오.",
+      "korean": "계정에 보안 레이어을 추가하고 자산을 보호하십시오.",
       "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu und bewahren Sie Ihre Vermögenswerte sicher auf.",
       "portuguese": "Adicione uma camada extra de segurança à sua conta e proteja seus ativos."
     },
@@ -1705,7 +1705,7 @@
       "english": "Continue with phone",
       "german": "Fahren Sie mit dem Telefon fort",
       "mandarin": "继续电话",
-      "korean": "전화로 계속하십시오",
+      "korean": "전화기로 계속하기",
       "spanish": "Continuar con el teléfono",
       "japanese": "電話を続けます",
       "portugese": "Continue com o telefone"
@@ -1732,7 +1732,7 @@
       "english": "Resend Code in {time}",
       "german": "Code in {time}",
       "mandarin": "重新发送代码 {time}",
-      "korean": "코드를 재현하십시오 {time}",
+      "korean": "{time}뒤에 코드가 재전송됩니다",
       "spanish": "Reenviar código en {time}",
       "japanese": "コードを再送信します {time}",
       "portugese": "Reduzir o código em {time}"
@@ -1741,7 +1741,7 @@
       "english": "Resend Code",
       "german": "Code wiedergeben",
       "mandarin": "重新发送验证码",
-      "korean": "코드를 재현하십시오",
+      "korean": "코드 재전송",
       "spanish": "Reenviar codigo",
       "japanese": "再送信コード",
       "portugese": "Reenviar código"
@@ -1750,7 +1750,7 @@
       "english": "Edit phone number",
       "german": "Telefonnummer bearbeiten",
       "mandarin": "编辑电话号码",
-      "korean": "전화 번호 편집",
+      "korean": "전화번호 수정",
       "spanish": "Editar número de teléfono",
       "japanese": "電話番号を編集します",
       "portugese": "Edite o número de telefone"
@@ -1850,7 +1850,7 @@
       "spanish": "No guarde este navegador / dispositivo.",
       "english": "Do not save this brower/device.",
       "japanese": "このブラウザ/デバイスを保存しないでください。",
-      "korean": "이 브라우저/장치를 저장하지 마십시오.",
+      "korean": "이 브라우저/디바이스를 저장하지 마십시오.",
       "german": "Speichern Sie diesen Browser/dieses Gerät nicht.",
       "portuguese": "Não salve este navegador/dispositivo."
     },
@@ -1985,7 +1985,7 @@
       "spanish": "Sí, acepto el riesgo",
       "english": "Yes, I accept the risk",
       "japanese": "はい、私はリスクを受け入れます",
-      "korean": "예, 위험을 받아들입니다",
+      "korean": "예, 위험성을 받아들이겠습니다",
       "german": "Ja, ich akzeptiere das Risiko",
       "portuguese": "Sim, eu aceito o risco"
     },
@@ -2003,7 +2003,7 @@
       "spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?",
       "english": "Would you like to save this device as a trusted device?",
       "japanese": "このデバイスを信頼できるデバイスとして保存しますか？",
-      "korean": "이 장치를 신뢰할 수 있는 장치로 저장하시겠습니까?",
+      "korean": "이 디바이스를 신뢰할 수 있는 디바이스로 저장하시겠습니까?",
       "german": "Möchten Sie dieses Gerät als vertrauenswürdiges Gerät speichern?",
       "portuguese": "Deseja salvar este dispositivo como um dispositivo confiável?"
     },
@@ -2039,7 +2039,7 @@
       "spanish": "Factor de recuperación social",
       "english": "Social Recovery factor",
       "japanese": "社会的回復要因",
-      "korean": "사회 복구 요인",
+      "korean": "소셜 복구 요인",
       "german": "Sozialer Genesungsfaktor",
       "portuguese": "Fator de Recuperação Social"
     },
@@ -2075,7 +2075,7 @@
       "spanish": "Paso 1: Guarde su dispositivo",
       "english": "Step 1: Save your device",
       "japanese": "ステップ1：デバイスを保存する",
-      "korean": "1단계: 기기 저장",
+      "korean": "1단계: 디바이스 저장",
       "german": "Schritt 1: Speichern Sie Ihr Gerät",
       "portuguese": "Etapa 1: salve seu dispositivo"
     },
@@ -2093,7 +2093,7 @@
       "spanish": "Asegurado por SSO y dispositivo",
       "english": "Secured by SSO and device",
       "japanese": "SSOとデバイスによって保護されています",
-      "korean": "SSO 및 장치로 보호",
+      "korean": "SSO 및 디바이스로 보호",
       "german": "Durch SSO und Gerät gesichert",
       "portuguese": "Protegido por SSO e dispositivo"
     },
