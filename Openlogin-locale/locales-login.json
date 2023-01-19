@@ -1710,6 +1710,15 @@
       "japanese": "電話を続けます",
       "portugese": "Continue com o telefone"
     },
+    "verifier-sms-desc-2": {
+      "english": "Continue with mobile",
+      "german": "Fahren Sie mit Mobilgeräten fort",
+      "mandarin": "继续移动",
+      "korean": "모바일을 계속하십시오",
+      "spanish": "Continuar con Mobile",
+      "japanese": "モバイルを続けます",
+      "portugese": "Continue com o celular"
+    },
     "verify-otp-title-popup": {
       "english": "OTP verification",
       "german": "OTP -Überprüfung",
