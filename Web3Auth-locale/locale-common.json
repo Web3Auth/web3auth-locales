@@ -160,6 +160,26 @@
 			"french": "Mobile",
 			"portuguese": "Móvel"
 		},
+		"social.sms.invalid-number": {
+			"english": "Invalid phone number",
+			"german": "Ungültige Telefonnummer",
+			"mandarin": "无效的电话号码",
+			"korean": "유효하지 않은 전화 번호",
+			"japanese": "無効な電話番号",
+			"spanish": "Numero de telefono invalido",
+			"french": "Numéro de téléphone invalide",
+			"portugese": "Número de telefone inválido"
+		},
+		"errors-required": {
+			"mandarin": "必需的",
+			"german": "Erforderlich",
+			"english": "Required",
+			"korean": "필수",
+			"japanese": "必須",
+			"spanish": "Requerido",
+			"french": "Obligatoire",
+			"portuguese": "Requerido"
+		},
 		"external.connect": {
 			"english": "Connect with Wallet",
 			"german": "Verbinden Sie sich mit Wallet",
