@@ -160,7 +160,7 @@
 			"french": "Mobile",
 			"portuguese": "Móvel"
 		},
-		"social.sms.invalid-number": {
+		"social.sms-invalid-number": {
 			"english": "Invalid phone number",
 			"german": "Ungültige Telefonnummer",
 			"mandarin": "无效的电话号码",
