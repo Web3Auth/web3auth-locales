@@ -150,6 +150,16 @@
 			"french": "Email",
 			"portuguese": "Email"
 		},
+		"social.sms": {
+			"english": "Mobile",
+			"german": "Handy, Mobiltelefon",
+			"mandarin": "移动的",
+			"korean": "이동하는",
+			"japanese": "モバイル",
+			"spanish": "Móvil",
+			"french": "Mobile",
+			"portuguese": "Móvel"
+		},
 		"external.connect": {
 			"english": "Connect with Wallet",
 			"german": "Verbinden Sie sich mit Wallet",
@@ -279,6 +289,26 @@
 			"spanish": "Continuar con correo electrónico",
 			"french": "Continuer avec l'email",
 			"portuguese": "Continuar com email"
+		},
+		"social.sms-continue": {
+			"english": "Continue with Mobile",
+			"german": "Fahren Sie mit Mobilgeräten fort",
+			"mandarin": "继续移动",
+			"korean": "모바일을 계속하십시오",
+			"japanese": "モバイルを続けます",
+			"spanish": "Continuar con Mobile",
+			"french": "Continuer avec le mobile",
+			"portuguese": "Continue com o celular"
+		},
+		"social.sms-placeholder-text": {
+			"english": "Eg: ",
+			"german": "Z.B:",
+			"mandarin": "例如：",
+			"korean": "예 :",
+			"japanese": "例えば：",
+			"spanish": "P.ej:",
+			"french": "Par exemple:",
+			"portuguese": "Por exemplo:"
 		},
 		"social.continue": {
 			"english": " Continue with ",
