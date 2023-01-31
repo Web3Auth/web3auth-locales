@@ -2114,6 +2114,204 @@
       "korean": "검증",
       "german": "Verifizieren",
       "portuguese": "Verificar"
+    },
+    "2fa-setup-step1-sub1-desc": {
+      "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
+      "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación",
+      "english": "Add an extra layer of security to your account, Each login requires 2 factors for authentication",
+      "japanese": "アカウントにセキュリティのレイヤーを追加します。ログインごとに認証に 2 つの要素が必要です",
+      "korean": "계정에 추가 보안 계층을 추가하십시오. 로그인할 때마다 2가지 인증 요소가 필요합니다.",
+      "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu. Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
+      "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação"
+    },
+    "2fa-device-save-title": {
+      "mandarin": "将您的设备保存为第二因素",
+      "spanish": "Guarde su dispositivo como 2nd Factor",
+      "english": "Save your device as 2nd Factor",
+      "japanese": "デバイスを第 2 要素として保存する",
+      "korean": "기기를 2단계로 저장",
+      "german": "Speichern Sie Ihr Gerät als 2nd Factor",
+      "portuguese": "Salve seu dispositivo como 2º fator"
+    },
+    "2fa-device-save-desc": {
+      "mandarin": "使用当前设备作为第二个因素来验证和保护你的钱包",
+      "spanish": "Use el dispositivo actual como segundo factor para verificar y asegurar su billetera",
+      "english": "Use current device as a 2nd factor to verify and secure your wallet",
+      "japanese": "現在のデバイスを第 2 要素として使用して、ウォレットを確認して保護します",
+      "korean": "현재 장치를 두 번째 요소로 사용하여 지갑을 확인하고 보호하십시오.",
+      "german": "Verwenden Sie das aktuelle Gerät als zweiten Faktor, um Ihre Brieftasche zu überprüfen und zu sichern",
+      "portuguese": "Use o dispositivo atual como segundo fator para verificar e proteger sua carteira"
+    },
+    "2fa-device-save-input-label": {
+      "mandarin": "将此设备另存为",
+      "spanish": "Guardar este dispositivo como",
+      "english": "Save this device as",
+      "japanese": "このデバイスを名前を付けて保存",
+      "korean": "이 장치를 다른 이름으로 저장",
+      "german": "Speichern Sie dieses Gerät unter",
+      "portuguese": "Salve este dispositivo como"
+    },
+    "2fa-device-save-success-title": {
+      "mandarin": "您当前的设备已成功设置为第二个恢复因素",
+      "spanish": "Su dispositivo actual se configuró correctamente como segundo factor de recuperación",
+      "english": "Your Current device is set successfully as a 2nd recovery factor",
+      "japanese": "現在のデバイスが 2 番目の回復要素として正常に設定されました",
+      "korean": "현재 기기가 2차 복구 요인으로 성공적으로 설정되었습니다.",
+      "german": "Ihr aktuelles Gerät wurde erfolgreich als 2. Wiederherstellungsfaktor eingestellt",
+      "portuguese": "Seu dispositivo atual foi definido com sucesso como um segundo fator de recuperação"
+    },
+    "2fa-device-save-success-desc": {
+      "mandarin": "现在，如果您无法访问第二个因素，请设置您的恢复因素以取回您的帐户。",
+      "spanish": "Ahora, en caso de que pierda el acceso a su segundo factor, configure su factor de recuperación para recuperar su cuenta.",
+      "english": "Now In case you lose access to your 2nd factor, Set your recovery factor to get back your account.",
+      "japanese": "2 番目の要素にアクセスできなくなった場合に備えて、復元要素を設定してアカウントを取り戻してください。",
+      "korean": "이제 두 번째 요인에 대한 액세스 권한을 상실한 경우 복구 요인을 설정하여 계정을 되찾으십시오.",
+      "german": "Falls Sie jetzt den Zugriff auf Ihren 2. Faktor verlieren, stellen Sie Ihren Wiederherstellungsfaktor ein, um Ihr Konto wiederherzustellen.",
+      "portuguese": "Agora, caso você perca o acesso ao seu 2º fator, defina seu fator de recuperação para recuperar sua conta."
+    },
+    "2fa-device-save-success-cta": {
+      "mandarin": "设置回收率",
+      "spanish": "Configuración del factor de recuperación",
+      "english": "Setup recovery factor",
+      "japanese": "回復係数の設定",
+      "korean": "복구 계수 설정",
+      "german": "Wiederherstellungsfaktor einrichten",
+      "portuguese": "Fator de recuperação de configuração"
+    },
+    "2fa-recovery-factor-title": {
+      "mandarin": "获取我的恢复因子",
+      "spanish": "Obtener mi factor de recuperación",
+      "english": "Get my Recovery Factor",
+      "japanese": "回復係数を取得する",
+      "korean": "내 회복 인자 받기",
+      "german": "Holen Sie sich meinen Erholungsfaktor",
+      "portuguese": "Obter meu Fator de Recuperação"
+    },
+    "2fa-recovery-factor-desc": {
+      "mandarin": "输入您的电子邮件以接收钱包恢复系数。你需要它来恢复你的钱包。",
+      "spanish": "Ingrese su correo electrónico para recibir un factor de recuperación de billetera. Lo necesitas para recuperar tu billetera.",
+      "english": "Input your email to receive a wallet Recovery Factor. You need it to recover your wallet.",
+      "japanese": "電子メールを入力して、ウォレットの回復係数を受け取ります。ウォレットを復元するために必要です。",
+      "korean": "지갑 복구 팩터를 받으려면 이메일을 입력하세요. 지갑 복구에 필요합니다.",
+      "german": "Geben Sie Ihre E-Mail-Adresse ein, um einen Brieftaschen-Wiederherstellungsfaktor zu erhalten. Sie benötigen es, um Ihre Brieftasche wiederherzustellen.",
+      "portuguese": "Insira seu e-mail para receber um fator de recuperação da carteira. Você precisa dele para recuperar sua carteira."
+    },
+    "2fa-recovery-factor-send-btn": {
+      "mandarin": "给我我的恢复因子",
+      "spanish": "Envíame mi factor de recuperación",
+      "english": "Send me my recovery factor",
+      "japanese": "私の回復係数を送ってください",
+      "korean": "내 회복 인자를 보내주세요",
+      "german": "Senden Sie mir meinen Erholungsfaktor",
+      "portuguese": "Envie-me meu fator de recuperação"
+    },
+    "2fa-cpy-desc": {
+      "mandarin": "我们只是想确保您知道如何恢复您的帐户。",
+      "spanish": "Solo queremos asegurarnos de que sepas cómo recuperar tu cuenta.",
+      "english": "We just want to make sure you know how to recover your account.",
+      "japanese": "アカウントを復元する方法を確認したいだけです。",
+      "korean": "계정을 복구하는 방법을 알려드리고자 합니다.",
+      "german": "Wir möchten nur sicherstellen, dass Sie wissen, wie Sie Ihr Konto wiederherstellen können.",
+      "portuguese": "Queremos apenas ter certeza de que você sabe como recuperar sua conta."
+    },
+    "2fa-dwnld-desc": {
+      "mandarin": "上传您的恢复因子以确保它有效。",
+      "spanish": "Cargue su factor de recuperación para asegurarse de que funcione.",
+      "english": "Upload your Recovery Factor to ensure it works.",
+      "japanese": "回復係数をアップロードして、機能することを確認します。",
+      "korean": "복구 팩터를 업로드하여 제대로 작동하는지 확인하십시오.",
+      "german": "Laden Sie Ihren Wiederherstellungsfaktor hoch, um sicherzustellen, dass er funktioniert.",
+      "portuguese": "Carregue seu Fator de Recuperação para garantir que funcione."
+    },
+    "2fa-recovery-cpy-subTitle": {
+      "mandarin": "采收率验证",
+      "spanish": "Verificación del factor de recuperación",
+      "english": "Recovery Factor verification",
+      "japanese": "回復因子の検証",
+      "korean": "회복인자 검증",
+      "german": "Überprüfung des Wiederherstellungsfaktors",
+      "portuguese": "Verificação do Fator de Recuperação"
+    },
+    "2fa-recovery-cpy-subDesc": {
+      "mandarin": "输入发送到 {email} 的恢复短语",
+      "spanish": "Ingrese la frase de recuperación enviada a {email}",
+      "english": "Enter Recovery Fhrase sent to {email}",
+      "japanese": "{email} に送信されたリカバリ フレーズを入力してください",
+      "korean": "{email}로 전송된 복구 문구 입력",
+      "german": "Geben Sie die Wiederherstellungsphrase ein, die an {email} gesendet wurde",
+      "portuguese": "Insira a frase de recuperação enviada para {email}"
+    },
+    "2fa-recovery-cpy-textArea": {
+      "mandarin": "粘贴你的恢复因子",
+      "spanish": "Pega tu factor de recuperación",
+      "english": "Paste your Recovery Factor",
+      "japanese": "回復係数を貼り付けます",
+      "korean": "회복 인자 붙여넣기",
+      "german": "Fügen Sie Ihren Wiederherstellungsfaktor ein",
+      "portuguese": "Cole seu Fator de Recuperação"
+    },
+    "2fa-recovery-success-title": {
+      "mandarin": "您已保存恢复因子。",
+      "spanish": "Ha guardado su factor de recuperación.",
+      "english": "You have saved your Recovery Factor.",
+      "japanese": "回復係数を保存しました。",
+      "korean": "회복 인자를 저장했습니다.",
+      "german": "Sie haben Ihren Erholungsfaktor gespeichert.",
+      "portuguese": "Você salvou seu Fator de Recuperação."
+    },
+    "2fa-social-title": {
+      "mandarin": "设置社会恢复因素",
+      "spanish": "Configurar un factor de recuperación social",
+      "english": "Set up a Social recovery factor",
+      "japanese": "社会的回復係数を設定する",
+      "korean": "사회적 회복 요인 설정",
+      "german": "Richten Sie einen sozialen Erholungsfaktor ein",
+      "portuguese": "Configure um fator de recuperação social"
+    },
+    "2fa-social-desc": {
+      "mandarin": "继续执行以下操作之一，将其设置为您的恢复因素。",
+      "spanish": "Continúe con uno de los siguientes para configurarlo como su factor de recuperación.",
+      "english": "Continue with one of the following to set it as your recovery factor.",
+      "japanese": "次のいずれかを続行して、回復要素として設定します。",
+      "korean": "다음 중 하나를 계속하여 복구 요인으로 설정하십시오.",
+      "german": "Fahren Sie mit einem der folgenden Schritte fort, um ihn als Erholungsfaktor festzulegen.",
+      "portuguese": "Continue com um dos seguintes para defini-lo como seu fator de recuperação."
+    },
+    "2fa-social-success-title": {
+      "mandarin": "您的社交因素已成功设置为第二恢复因素",
+      "spanish": "Su factor social se ha configurado con éxito como un segundo factor de recuperación",
+      "english": "Your Social factor is successfully set up as a 2nd recovery factor",
+      "japanese": "あなたの社会的要因は、2 番目の回復要因として正常に設定されました",
+      "korean": "소셜 요인이 2차 회복 요인으로 성공적으로 설정되었습니다.",
+      "german": "Ihr Sozialfaktor wird erfolgreich als 2. Erholungsfaktor eingerichtet",
+      "portuguese": "Seu fator social foi configurado com sucesso como um segundo fator de recuperação"
+    },
+    "2fa-pwd-title": {
+      "mandarin": "将密码设置为恢复因子",
+      "spanish": "Establecer contraseña como factor de recuperación",
+      "english": "Set password as Recovery Factor",
+      "japanese": "パスワードを回復要素として設定する",
+      "korean": "암호를 복구 요소로 설정",
+      "german": "Legen Sie das Passwort als Wiederherstellungsfaktor fest",
+      "portuguese": "Definir senha como fator de recuperação"
+    },
+    "2fa-pwd-desc": {
+      "mandarin": "设置将用于访问您的帐户并用作恢复因素的密码。",
+      "spanish": "Establezca una contraseña que se utilizará para acceder a su cuenta y servirá como factor de recuperación.",
+      "english": "Set a password that will be used to access your account and serve as a Recovery Factor.",
+      "japanese": "アカウントへのアクセスに使用されるパスワードを設定し、回復要素として機能します。",
+      "korean": "계정에 액세스하고 복구 요인으로 사용할 비밀번호를 설정하십시오.",
+      "german": "Legen Sie ein Passwort fest, das für den Zugriff auf Ihr Konto verwendet wird und als Wiederherstellungsfaktor dient.",
+      "portuguese": "Defina uma senha que será usada para acessar sua conta e servir como Fator de Recuperação."
+    },
+    "2fa-pwd-success-title": {
+      "mandarin": "您的密码已成功设置为第二因素",
+      "spanish": "Su contraseña se establece con éxito como un segundo factor",
+      "english": "Your password is set successfully as a 2nd Factor",
+      "japanese": "パスワードが第 2 要素として正常に設定されました",
+      "korean": "비밀번호가 2차 인증으로 성공적으로 설정되었습니다.",
+      "german": "Ihr Passwort wird erfolgreich als 2. Faktor gesetzt",
+      "portuguese": "Sua senha foi definida com sucesso como 2º Fator"
     }
   }
 }

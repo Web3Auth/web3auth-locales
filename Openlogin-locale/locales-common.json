@@ -350,6 +350,87 @@
       "spanish": "Inicio de sesión con autocustodia por",
       "japanese": "による自己管理ログイン",
       "portuguese": "Login autocustodial por"
+    },
+    "advanced-options": {
+      "mandarin": "高级选项",
+      "german": "Erweiterte Optionen",
+      "english": "Advanced Options",
+      "korean": "고급 옵션",
+      "spanish": "Opciones avanzadas",
+      "japanese": "高度なオプション",
+      "portuguese": "Opções avançadas"
+    },
+    "hide-options": {
+      "mandarin": "隐藏选项",
+      "german": "Optionen ausblenden",
+      "english": "Hide Options",
+      "korean": "숨기기 옵션",
+      "spanish": "Ocultar opciones",
+      "japanese": "オプションを隠す",
+      "portuguese": "Ocultar opções"
+    },
+    "copy-paste": {
+      "mandarin": "复制和粘贴",
+      "german": "Kopieren und Einfügen",
+      "english": "Copy and Paste",
+      "korean": "복사 및 붙여 넣기",
+      "spanish": "Copiar y pegar",
+      "japanese": "コピーアンドペースト",
+      "portuguese": "Copiar e colar"
+    },
+    "edit-email": {
+      "mandarin": "",
+      "german": "",
+      "english": "Edit email",
+      "korean": "",
+      "spanish": "",
+      "japanese": "",
+      "portuguese": ""
+    },
+    "back-to-download": {
+      "mandarin": "编辑电子邮件",
+      "german": "E-Mail bearbeiten",
+      "english": "Back to download Recovery Factor",
+      "korean": "이메일 수정",
+      "spanish": "Editar correo electrónico",
+      "japanese": "メールを編集",
+      "portuguese": "Editar e-mail"
+    },
+    "resend-recovery": {
+      "mandarin": "重新发送恢复因子",
+      "german": "Wiederherstellungsfaktor erneut senden",
+      "english": "Resend Recovery Factor",
+      "korean": "복구 팩터 재전송",
+      "spanish": "Factor de recuperación de reenvío",
+      "japanese": "回復係数の再送",
+      "portuguese": "Reenviar Fator de Recuperação"
+    },
+    "password-label": {
+      "mandarin": "输入密码",
+      "spanish": "Ingresa tu password",
+      "english": "Enter password",
+      "japanese": "パスワードを入力する",
+			"korean": "암호를 입력",
+			"german": "Passwort eingeben",
+      "portuguese": "Digite a senha"
+    },
+    "verify": {
+      "mandarin": "核实",
+      "spanish": "Verificar",
+      "english": "Verify",
+      "japanese": "確認",
+      "korean": "검증",
+      "german": "Verifizieren",
+      "portuguese": "Verificar"
+    },
+    "upload-recovery-factor": {
+      "mandarin": "上传恢复因子",
+      "german": "Wiederherstellungsfaktor hochladen",
+      "english": "Upload Recovery Factor",
+      "korean": "회복 인자 업로드",
+      "spanish": "Subir factor de recuperación",
+      "japanese": "回復係数のアップロード",
+      "portuguese": "Carregar Fator de Recuperação"
     }
   },
   "error-block": {
