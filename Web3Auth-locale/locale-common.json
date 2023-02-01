@@ -220,6 +220,16 @@
 			"french": "Obligatoire",
 			"portuguese": "Requerido"
 		},
+		"errors-invalid-number-email": {
+			"english": "Invalid Email or Phone Number",
+			"german": "Ungültige E -Mail- oder Telefonnummer",
+			"mandarin": "无效的电子邮件或电话号码",
+			"korean": "잘못된 이메일 또는 전화 번호",
+			"japanese": "無効な電子メールまたは電話番号",
+			"spanish": "Correo electrónico o número de teléfono no válido",
+			"french": "E-mail ou numéro de téléphone non valide",
+			"portuguese": "Email inválido ou número de telefone"
+		},
 		"external.connect": {
 			"english": "Connect with Wallet",
 			"german": "Verbinden Sie sich mit Wallet",
