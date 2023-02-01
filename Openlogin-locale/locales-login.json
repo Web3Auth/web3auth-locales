@@ -2312,6 +2312,69 @@
       "korean": "비밀번호가 2차 인증으로 성공적으로 설정되었습니다.",
       "german": "Ihr Passwort wird erfolgreich als 2. Faktor gesetzt",
       "portuguese": "Sua senha foi definida com sucesso como 2º Fator"
+    },
+    "social-policy": {
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+			"english": "We do not store any data related to your social logins.",
+      "japanese": "ソーシャル ログインに関連するデータは保存されません。",
+			"korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+			"german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+			"portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social."
+		},
+    "connect-email": {
+      "mandarin": "连接电子邮件",
+      "spanish": "Conectar con correo electrónico",
+			"english": "Connect with Email",
+      "japanese": "メールでつながる",
+			"korean": "이메일로 연결",
+			"german": "Mit E-Mail verbinden",
+			"portuguese": "Conectar com e-mail"
+    },
+    "connect-wallet": {
+      "mandarin": "连接钱包",
+      "spanish": "Conectar con Monedero",
+			"english": "Connect with Wallet",
+      "japanese": "ウォレットと接続",
+			"korean": "월렛과 연결",
+			"german": "Verbinden Sie sich mit Wallet",
+			"portuguese": "Conecte-se com a Carteira"
+    },
+    "external-wallet": {
+      "mandarin": "外部钱包",
+      "spanish": "Monedero externo",
+			"english": "External wallet",
+			"japanese": "外部ウォレット",
+			"korean": "외부 지갑",
+			"german": "Externe Geldbörse",
+			"portuguese": "Carteira externa"
+		},
+    "footer-message-login": {
+      "mandarin": "Web3Auth 的自我托管登录",
+      "spanish": "Inicio de sesión con autocustodia por Web3Auth",
+			"english": "Self-custodial login by Web3Auth",
+			"japanese": "Web3Authによる自己管理ログイン",
+			"korean": "Web3Auth를 통한 자가 관리 로그인",
+			"german": "Self-custodial Login durch Web3Auth",
+			"portuguese": "Início de sessão com autocustódia por Web3Auth"
+		},
+    "login-page-title": {
+      "mandarin": "两因素钱包账户管理",
+      "spanish": "Gestión de cuenta de billetera de dos factores",
+			"english": "Two Factor Wallet Account Management",
+			"japanese": "2 要素ウォレット アカウント管理",
+			"korean": "이중 지갑 계정 관리",
+			"german": "Zwei-Faktor-Wallet-Kontoverwaltung",
+			"portuguese": "Gerenciamento de conta de carteira de dois fatores"
+    },
+    "login-page-desc": {
+      "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
+      "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth.",
+			"english": "Manage the access and security settings across all applications supported by Web3Auth.",
+			"japanese": "Web3Auth でサポートされているすべてのアプリケーションのアクセスとセキュリティ設定を管理します。",
+			"korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
+			"german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
+			"portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth."
     }
   }
 }
