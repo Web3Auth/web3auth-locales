@@ -2375,6 +2375,15 @@
 			"korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
 			"german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
 			"portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth."
+    },
+    "phone-email-label": {
+      "mandarin": "电话还是邮件",
+      "spanish": "Teléfono o correo electrónico",
+			"english": "Phone or Email",
+			"japanese": "電話かメール",
+			"korean": "전화 또는 이메일",
+			"german": "Telefon oder E-Mail",
+			"portuguese": "Telefone ou email"
     }
   }
 }
