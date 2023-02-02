@@ -2331,6 +2331,15 @@
 			"german": "Mit E-Mail verbinden",
 			"portuguese": "Conectar com e-mail"
     },
+    "connect-phone-email": {
+      "mandarin": "通过电话或电子邮件联系",
+      "spanish": "Conectar con teléfono o correo electrónico",
+			"english": "Connect with Phone or Email",
+      "japanese": "電話またはメールで接続",
+			"korean": "전화 또는 이메일로 연결",
+			"german": "Verbinden Sie sich mit Telefon oder E-Mail",
+			"portuguese": "Conecte-se com telefone ou e-mail"
+    },
     "connect-wallet": {
       "mandarin": "连接钱包",
       "spanish": "Conectar con Monedero",
