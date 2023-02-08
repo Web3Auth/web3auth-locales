@@ -62,6 +62,51 @@
       "german": "Navigationsstabschaltung",
       "korean": "내비게이션 바 전환",
       "portuguese": "Navigação Bargle de barra"
+    },
+    "drawer": {
+      "mandarin": "主要导航",
+      "japanese": "メインナビゲーション",
+      "spanish": "Navegación Principal",
+      "english": "Main Navigation",
+      "german": "Hauptnavigation",
+      "korean": "메인 탐색",
+      "portuguese": "Navegação Principal"
+    },
+    "logo": {
+      "mandarin": "标识",
+      "japanese": "ロゴ",
+      "spanish": "logo",
+      "english": "logo",
+      "german": "Logo",
+      "korean": "심벌 마크",
+      "portuguese": "logotipo"
+    },
+    "close-btn": {
+      "mandarin": "关闭",
+      "japanese": "近い",
+      "spanish": "cerca",
+      "english": "close",
+      "german": "schließen",
+      "korean": "닫다",
+      "portuguese": "fechar"
+    },
+    "user-info": {
+      "mandarin": "用户信息",
+      "japanese": "ユーザー情報",
+      "spanish": "Informacion del usuario",
+      "english": "User information",
+      "german": "Nutzerinformation",
+      "korean": "사용자 정보",
+      "portuguese": "Informação do usuário"
+    },
+    "lang-select": {
+      "mandarin": "语言选择器",
+      "japanese": "言語セレクター",
+      "spanish": "selector de idiomas",
+      "english": "language selector",
+      "german": "Sprachauswahl",
+      "korean": "언어 선택기",
+      "portuguese": "Seletor de idiomas"
     }
   }
 }
