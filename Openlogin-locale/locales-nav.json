@@ -44,6 +44,24 @@
       "german": "Ausloggen",
       "korean": "로그 아웃",
       "portuguese": "Sair"
+    },
+    "list-bottom": {
+      "mandarin": "主导航底部",
+      "japanese": "メインナビゲーションボトム",
+      "spanish": "Parte de la navegación principal",
+      "english": "Main Navigation bottom",
+      "german": "Hauptnavigation unten",
+      "korean": "메인 탐색 바닥",
+      "portuguese": "Principal de navegação principal"
+    },
+    "toggle-btn": {
+      "mandarin": "导航栏切换",
+      "japanese": "ナビゲーションバーの切り替え",
+      "spanish": "Barra de navegación",
+      "english": "Navigation Bar toggle",
+      "german": "Navigationsstabschaltung",
+      "korean": "내비게이션 바 전환",
+      "portuguese": "Navigação Bargle de barra"
     }
   }
 }
