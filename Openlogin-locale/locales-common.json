@@ -410,8 +410,8 @@
       "spanish": "Ingresa tu password",
       "english": "Enter password",
       "japanese": "パスワードを入力する",
-			"korean": "암호를 입력",
-			"german": "Passwort eingeben",
+      "korean": "암호를 입력",
+      "german": "Passwort eingeben",
       "portuguese": "Digite a senha"
     },
     "verify": {
@@ -431,7 +431,70 @@
       "spanish": "Subir factor de recuperación",
       "japanese": "回復係数のアップロード",
       "portuguese": "Carregar Fator de Recuperação"
-    }
+    },
+    "new-device-detected": {
+      "mandarin": "检测到新设备",
+      "german": "Neues Gerät erkannt",
+      "english": "New device detected",
+      "korean": "새 장치 감지됨",
+      "spanish": "Nuevo dispositivo detectado",
+      "japanese": "新しいデバイスが検出されました",
+      "portuguese": "Novo dispositivo detectado"
+    },
+    "verify-with-other-factors": {
+      "mandarin": "与其他因素验证",
+      "german": "Überprüfen Sie mit anderen Faktoren",
+      "english": "Verify with other factors",
+      "korean": "다른 요인으로 확인",
+      "spanish": "Verificar con otros factores",
+      "japanese": "他の要因で検証する",
+      "portuguese": "Verifique com outros fatores"
+    },
+    "socialLogin": {
+      "mandarin": "社交登录",
+      "german": "Sozialer Login",
+			"english": "Social login",
+      "korean": "소셜 로그인",
+			"spanish": "Inicio de sesión social",
+			"japanese": "ソーシャルログイン",
+			"portuguese": "Login social"
+		},
+    "devices": {
+      "mandarin": "设备）",
+      "german": "Geräte)",
+      "english": "Device (s)",
+      "korean": "장치",
+      "spanish": "Dispositivos)",
+      "japanese": "デバイス",
+      "portuguese": "Dispositivos)"
+    },
+    "webAuthentication": {
+      "mandarin": "网络认证",
+      "german": "Web-Authentifizierung",
+      "english": "Web Authentication",
+      "korean": "웹 인증",
+      "spanish": "Autenticación web",
+      "japanese": "ウェブ認証",
+      "portuguese": "Autenticação Web"
+    },
+    "socialFactor": {
+      "mandarin": "社会因素",
+      "german": "Sozialer Faktor",
+      "english": "Social Factor",
+      "korean": "사회적 요인",
+      "spanish": "Factor social",
+      "japanese": "社会的要因",
+      "portuguese": "Fator Social"
+    },
+    "password": {
+			"spanish": "Password",
+			"german": "Passwort",
+			"japanese": "パスワード",
+			"mandarin": "密码",
+			"korean": "암호",
+			"english": "Password",
+      "portuguese": "Senha"
+		}
   },
   "error-block": {
     "required-fields-title": {

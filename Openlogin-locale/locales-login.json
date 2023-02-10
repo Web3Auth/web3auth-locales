@@ -2316,83 +2316,146 @@
     "social-policy": {
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-			"english": "We do not store any data related to your social logins.",
+      "english": "We do not store any data related to your social logins.",
       "japanese": "ソーシャル ログインに関連するデータは保存されません。",
-			"korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
-			"german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
-			"portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social."
-		},
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social."
+    },
     "connect-email": {
       "mandarin": "连接电子邮件",
       "spanish": "Conectar con correo electrónico",
-			"english": "Connect with Email",
+      "english": "Connect with Email",
       "japanese": "メールでつながる",
-			"korean": "이메일로 연결",
-			"german": "Mit E-Mail verbinden",
-			"portuguese": "Conectar com e-mail"
+      "korean": "이메일로 연결",
+      "german": "Mit E-Mail verbinden",
+      "portuguese": "Conectar com e-mail"
     },
     "connect-phone-email": {
       "mandarin": "通过电话或电子邮件联系",
       "spanish": "Conectar con teléfono o correo electrónico",
-			"english": "Connect with Phone or Email",
+      "english": "Connect with Phone or Email",
       "japanese": "電話またはメールで接続",
-			"korean": "전화 또는 이메일로 연결",
-			"german": "Verbinden Sie sich mit Telefon oder E-Mail",
-			"portuguese": "Conecte-se com telefone ou e-mail"
+      "korean": "전화 또는 이메일로 연결",
+      "german": "Verbinden Sie sich mit Telefon oder E-Mail",
+      "portuguese": "Conecte-se com telefone ou e-mail"
     },
     "connect-wallet": {
       "mandarin": "连接钱包",
       "spanish": "Conectar con Monedero",
-			"english": "Connect with Wallet",
+      "english": "Connect with Wallet",
       "japanese": "ウォレットと接続",
-			"korean": "월렛과 연결",
-			"german": "Verbinden Sie sich mit Wallet",
-			"portuguese": "Conecte-se com a Carteira"
+      "korean": "월렛과 연결",
+      "german": "Verbinden Sie sich mit Wallet",
+      "portuguese": "Conecte-se com a Carteira"
     },
     "external-wallet": {
       "mandarin": "外部钱包",
       "spanish": "Monedero externo",
-			"english": "External wallet",
-			"japanese": "外部ウォレット",
-			"korean": "외부 지갑",
-			"german": "Externe Geldbörse",
-			"portuguese": "Carteira externa"
-		},
+      "english": "External wallet",
+      "japanese": "外部ウォレット",
+      "korean": "외부 지갑",
+      "german": "Externe Geldbörse",
+      "portuguese": "Carteira externa"
+    },
     "footer-message-login": {
       "mandarin": "Web3Auth 的自我托管登录",
       "spanish": "Inicio de sesión con autocustodia por Web3Auth",
-			"english": "Self-custodial login by Web3Auth",
-			"japanese": "Web3Authによる自己管理ログイン",
-			"korean": "Web3Auth를 통한 자가 관리 로그인",
-			"german": "Self-custodial Login durch Web3Auth",
-			"portuguese": "Início de sessão com autocustódia por Web3Auth"
-		},
+      "english": "Self-custodial login by Web3Auth",
+      "japanese": "Web3Authによる自己管理ログイン",
+      "korean": "Web3Auth를 통한 자가 관리 로그인",
+      "german": "Self-custodial Login durch Web3Auth",
+      "portuguese": "Início de sessão com autocustódia por Web3Auth"
+    },
     "login-page-title": {
       "mandarin": "两因素钱包账户管理",
       "spanish": "Gestión de cuenta de billetera de dos factores",
-			"english": "Two Factor Wallet Account Management",
-			"japanese": "2 要素ウォレット アカウント管理",
-			"korean": "이중 지갑 계정 관리",
-			"german": "Zwei-Faktor-Wallet-Kontoverwaltung",
-			"portuguese": "Gerenciamento de conta de carteira de dois fatores"
+      "english": "Two Factor Wallet Account Management",
+      "japanese": "2 要素ウォレット アカウント管理",
+      "korean": "이중 지갑 계정 관리",
+      "german": "Zwei-Faktor-Wallet-Kontoverwaltung",
+      "portuguese": "Gerenciamento de conta de carteira de dois fatores"
     },
     "login-page-desc": {
       "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
       "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth.",
-			"english": "Manage the access and security settings across all applications supported by Web3Auth.",
-			"japanese": "Web3Auth でサポートされているすべてのアプリケーションのアクセスとセキュリティ設定を管理します。",
-			"korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
-			"german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
-			"portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth."
+      "english": "Manage the access and security settings across all applications supported by Web3Auth.",
+      "japanese": "Web3Auth でサポートされているすべてのアプリケーションのアクセスとセキュリティ設定を管理します。",
+      "korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
+      "german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
+      "portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth."
     },
     "phone-email-label": {
       "mandarin": "电话还是邮件",
       "spanish": "Teléfono o correo electrónico",
-			"english": "Phone or Email",
-			"japanese": "電話かメール",
-			"korean": "전화 또는 이메일",
-			"german": "Telefon oder E-Mail",
-			"portuguese": "Telefone ou email"
+      "english": "Phone or Email",
+      "japanese": "電話かメール",
+      "korean": "전화 또는 이메일",
+      "german": "Telefon oder E-Mail",
+      "portuguese": "Telefone ou email"
+    },
+    "verify-with-recovery-factor-desc": {
+      "mandarin": "验证发送给您的恢复因子以继续",
+      "german": "Bestätigen Sie mit Ihrem Wiederherstellungsfaktor, der an gesendet wurde, um fortzufahren",
+      "english": "Verify with your recovery factor sent to to continue",
+      "korean": "계속하려면 로 전송된 복구 팩터를 확인하세요.",
+      "spanish": "Verifica con tu factor de recuperación enviado a para continuar",
+      "japanese": "続行するには、に送信された回復要素で確認してください",
+      "portuguese": "Verifique com seu fator de recuperação enviado para continuar"
+    },
+    "password-verification": {
+      "mandarin": "密码验证",
+      "german": "Kennwortprüfung",
+      "english": "Password verification",
+      "korean": "비밀번호 확인",
+      "spanish": "Verificación de contraseña",
+      "japanese": "パスワードの確認",
+      "portuguese": "verificação de senha"
+    },
+    "password-verification-desc": {
+      "mandarin": "输入您的恢复密码进行验证",
+      "german": "Geben Sie zur Bestätigung Ihr Wiederherstellungskennwort ein",
+      "english": "Enter your recovery password to verify",
+      "korean": "확인을 위해 복구 비밀번호를 입력하세요",
+      "spanish": "Ingrese su contraseña de recuperación para verificar",
+      "japanese": "確認のために回復パスワードを入力してください",
+      "portuguese": "Digite sua senha de recuperação para verificar"
+    },
+    "recovery-factor-sent-to": {
+      "mandarin": "输入在 {date} 发送到 {email} 的恢复因子",
+      "german": "Geben Sie den Wiederherstellungsfaktor ein, der am {date} an {email} gesendet wurde",
+      "english": "Enter Recovery factor sent to {email} on {date}",
+      "korean": "{date}에 {email}로 전송된 회복 인자 입력",
+      "spanish": "Ingrese el factor de recuperación enviado a {email} el {fecha}",
+      "japanese": "{date} に {email} に送信された回復係数を入力してください",
+      "portuguese": "Insira o fator de recuperação enviado para {email} em {data}"
+    },
+    "incorrectBackupPhrase": {
+      "korean": "잘못된 백업 문구",
+      "german": "Falsche Sicherungsphrase",
+      "english": "Incorrect backup phrase",
+      "mandarin": "备份短语不正确",
+      "japanese": "間違ったバックアップフレーズ",
+      "spanish": "Frase de respaldo incorrecta",
+      "portuguese": "Frase de backup incorreta"
+    },
+    "social-factor-verification": {
+      "mandarin": "社会因素验证",
+      "german": "Überprüfung des sozialen Faktors",
+      "english": "Social factor verification",
+      "korean": "사회적 요인 검증",
+      "spanish": "Verificación del factor social",
+      "japanese": "社会的要因の検証",
+      "portuguese": "Verificação do fator social"
+    },
+    "social-factor-verification-desc": {
+      "mandarin": "继续您设置为社会恢复因素的因素",
+      "german": "Fahren Sie mit einem fort, den Sie als sozialen Wiederherstellungsfaktor festgelegt haben",
+      "english": "Continue with one you set as a Social recovery factor",
+      "korean": "사회적 회복 요인으로 설정한 것으로 계속",
+      "spanish": "Continúe con uno que establezca como factor de recuperación social",
+      "japanese": "ソーシャル回復係数として設定したものを続行します",
+      "portuguese": "Continue com aquele que você definiu como um fator de recuperação social"
     }
   }
 }
