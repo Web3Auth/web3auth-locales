@@ -2456,6 +2456,24 @@
       "spanish": "Continúe con uno que establezca como factor de recuperación social",
       "japanese": "ソーシャル回復係数として設定したものを続行します",
       "portuguese": "Continue com aquele que você definiu como um fator de recuperação social"
+    },
+    "2fa-setup-done-title1": {
+      "mandarin": "您的恢复因子是设置",
+      "spanish": "Su factor de recuperación está configurado",
+      "english": "Your Recovery factor is setup",
+      "japanese": "回復係数はセットアップです",
+      "korean": "복구 계수가 설정됩니다",
+      "german": "Ihr Wiederherstellungsfaktor ist eingerichtet",
+      "portuguese": "Seu fator de recuperação está configurado"
+    },
+    "2fa-setup-done-sub1": {
+      "mandarin": "立即继续{0}",
+      "spanish": "Proceda a {0} ahora",
+      "english": "Proceed to {0} now",
+      "japanese": "今すぐ{0}に進みます",
+      "korean": "지금 {0}로 진행하십시오",
+      "german": "Fahren Sie jetzt mit {0} fort",
+      "portuguese": "Prossiga para {0} agora"
     }
   }
 }
