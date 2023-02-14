@@ -494,7 +494,70 @@
 			"korean": "암호",
 			"english": "Password",
       "portuguese": "Senha"
-		}
+		},
+    "factor1-social-login": {
+			"spanish": "Factor 1: inicio de sesión social",
+			"german": "Faktor 1: Social-Login",
+			"japanese": "要因 1: ソーシャル ログイン",
+			"mandarin": "因素 1：社交登录",
+			"korean": "요소 1: 소셜 로그인",
+			"english": "Factor 1: Social Login",
+      "portuguese": "Fator 1: Login social"
+		},
+    "backup-phrase-copied": {
+			"spanish": "Frase de respaldo copiada",
+			"german": "Sicherungssatz kopiert",
+			"japanese": "バックアップ フレーズがコピーされました",
+			"mandarin": "备份短语已复制",
+			"korean": "백업 문구 복사됨",
+			"english": "Backup Phrase Copied",
+      "portuguese": "Frase de backup copiada"
+		},
+    "factor2-devices": {
+			"spanish": "Factor 2: Dispositivo(s)",
+			"german": "Faktor 2: Gerät(e)",
+			"japanese": "要因 2: デバイス",
+			"mandarin": "因素 2：设备",
+			"korean": "요소 2: 장치(들)",
+			"english": "Factor 2: Device (s)",
+      "portuguese": "Fator 2: Dispositivo(s)"
+		},
+    "last-accessed-on": {
+      "spanish": "Último acceso el:",
+			"german": "Zuletzt aufgerufen am:",
+			"japanese": "最終アクセス日:",
+			"mandarin": "最后访问时间：",
+			"korean": "마지막으로 액세스한 날짜:",
+			"english": "Last accessed on:",
+      "portuguese": "Último acesso em:"
+    },
+    "copy-backup-phrase": {
+      "spanish": "Copiar frase de respaldo",
+			"german": "Sicherungssatz kopieren",
+			"japanese": "バックアップフレーズをコピー",
+			"mandarin": "复制备份短语",
+			"korean": "백업 문구 복사",
+			"english": "Copy Backup Phrase",
+      "portuguese": "Copiar Frase de Backup"
+    },
+    "other-factor-pwd": {
+      "spanish": "Otros factores: contraseña",
+			"german": "Andere Faktoren: Passwort",
+			"japanese": "その他の要因 : パスワード",
+			"mandarin": "其他因素：密码",
+			"korean": "기타 요소: 비밀번호",
+			"english": "Other Factors : Password",
+      "portuguese": "Outros fatores: senha"
+    },
+    "factor3-social-recovery": {
+      "spanish": "Factor 3: Recuperación Social",
+			"german": "Faktor 3: Soziale Erholung",
+			"japanese": "要因 3: 社会的回復",
+			"mandarin": "因素 3：社会恢复",
+			"korean": "요인 3: 사회적 회복",
+			"english": "Factor 3: Social Recovery",
+      "portuguese": "Fator 3: Recuperação Social"
+    }
   },
   "error-block": {
     "required-fields-title": {
