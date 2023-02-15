@@ -332,13 +332,13 @@
 		},
 		"social.continue": {
 			"english": " Continue with ",
-			"german": "Weitermachen mit",
+			"german": " Weitermachen mit ",
 			"mandarin": "继续",
 			"korean": "계속",
 			"japanese": "続ける",
-			"spanish": "Continua con",
-			"french": "  Continue avec",
-			"portuguese": "Continuar com"
+			"spanish": " Continua con ",
+			"french": "  Continue avec ",
+			"portuguese": " Continuar com "
 		},
 		"external.back": {
 			"english": "Back",
