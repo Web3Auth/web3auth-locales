@@ -386,6 +386,15 @@
       "german": "2FA aktivieren",
       "japanese": "2FA を有効にする",
       "portuguese": "Ativar 2FA"
+    },
+    "email-with-date": {
+      "korean": "{0}에 다음 주소로 이메일을 보냈습니다.",
+      "spanish": "Enviado por correo electrónico el {0} a:",
+      "english": "Emailed on {0} to :",
+      "mandarin": "于 {0} 通过电子邮件发送至：",
+      "german": "Am {0} per E-Mail gesendet an:",
+      "japanese": "{0} に電子メールを送信:",
+      "portuguese": "Enviado por e-mail em {0} para:"
     }
   }
 }

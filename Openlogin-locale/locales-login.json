@@ -2474,6 +2474,24 @@
       "korean": "지금 {0}로 진행하십시오",
       "german": "Fahren Sie jetzt mit {0} fort",
       "portuguese": "Prossiga para {0} agora"
+    },
+    "continue-with": {
+      "mandarin": "继续",
+      "spanish": "Continua con",
+      "english": " Continue with ",
+      "japanese": "続ける",
+      "korean": "계속",
+      "german": "Weitermachen mit",
+      "portuguese": "Continuar com"
+    },
+    "connect-phone": {
+      "mandarin": "连接手机",
+      "spanish": "Conectar con el teléfono",
+      "english": "Connect with Phone",
+      "japanese": "電話で接続",
+      "korean": "전화와 연결",
+      "german": "Mit Telefon verbinden",
+      "portuguese": "Conectar com telefone"
     }
   }
 }

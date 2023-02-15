@@ -557,6 +557,15 @@
 			"korean": "요인 3: 사회적 회복",
 			"english": "Factor 3: Social Recovery",
       "portuguese": "Fator 3: Recuperação Social"
+    },
+    "phone": {
+      "spanish": "Teléfono",
+			"german": "Telefon",
+			"japanese": "電話",
+			"mandarin": "电话",
+			"korean": "핸드폰",
+			"english": "Phone",
+      "portuguese": "Telefone"
     }
   },
   "error-block": {

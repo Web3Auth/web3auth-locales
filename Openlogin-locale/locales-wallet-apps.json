@@ -107,6 +107,15 @@
       "japanese": "すべてを見る",
       "korean": "모두보기",
       "portuguese": "Veja tudo"
+    },
+    "see-less": {
+      "mandarin": "少看",
+      "spanish": "Ver menos",
+      "english": "See Less",
+      "german": "Siehe Weniger",
+      "japanese": "詳細を隠す",
+      "korean": "간단히 보기",
+      "portuguese": "ver menos"
     }
   }
 }
