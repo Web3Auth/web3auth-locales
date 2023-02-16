@@ -395,6 +395,60 @@
       "german": "Am {0} per E-Mail gesendet an:",
       "japanese": "{0} に電子メールを送信:",
       "portuguese": "Enviado por e-mail em {0} para:"
+    },
+    "password-requirement": {
+      "korean": "암호 요구 사항:",
+      "spanish": "Requisitos de la contraseña:",
+      "english": "Password requirements:",
+      "mandarin": "密码要求：",
+      "german": "Passwortanforderungen:",
+      "japanese": "パスワード要件:",
+      "portuguese": "Requisitos de senha:"
+    },
+    "password-requirement-desc": {
+      "korean": "다음 요구 사항이 충족되는지 확인하십시오.",
+      "spanish": "Asegúrese de que se cumplan estos requisitos:",
+      "english": "Ensure that these requirements are met:",
+      "mandarin": "确保满足这些要求：",
+      "german": "Stellen Sie sicher, dass diese Anforderungen erfüllt sind:",
+      "japanese": "次の要件が満たされていることを確認します。",
+      "portuguese": "Certifique-se de que estes requisitos sejam atendidos:"
+    },
+    "password-requirement-10-char": {
+      "korean": "",
+      "spanish": "",
+      "english": "At least 10 characters (and up to 100 characters)",
+      "mandarin": "",
+      "german": "",
+      "japanese": "",
+      "portuguese": ""
+    },
+    "password-requirement-upercase": {
+      "korean": "최소 10자(최대 100자)",
+      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)",
+      "english": "At least one uppercase character",
+      "mandarin": "至少 10 个字符（最多 100 个字符）",
+      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
+      "japanese": "10文字以上（100文字以内）",
+      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)"
+    },
+    "password-requirement-lowercase": {
+      "korean": "하나 이상의 소문자",
+      "spanish": "Al menos un carácter en minúscula",
+      "english": "At least one lowercase character",
+      "mandarin": "至少一个小写字符",
+      "german": "Mindestens ein Kleinbuchstabe",
+      "japanese": "少なくとも 1 つの小文字",
+      "portuguese": "Pelo menos um caractere minúsculo"
+    },
+    "password-requirement-specialchar": {
+      "korean": "하나 이상의 특수 문자 포함(예: !) @ # ?",
+      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, ! @ # ?",
+      "english": "Inclusion of at least one special character, e.g., ! @ # ?",
+      "mandarin": "包含至少一个特殊字符，例如 ! @#？",
+      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. ! @ # ?",
+      "japanese": "少なくとも 1 つの特殊文字を含める (例: ! @ # ?",
+      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, ! @ # ?"
     }
   }
 }
