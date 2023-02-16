@@ -442,13 +442,13 @@
       "portuguese": "Pelo menos um caractere minúsculo"
     },
     "password-requirement-specialchar": {
-      "korean": "하나 이상의 특수 문자 포함(예: !) @ # ?",
-      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, ! @ # ?",
-      "english": "Inclusion of at least one special character, e.g., ! @ # ?",
-      "mandarin": "包含至少一个特殊字符，例如 ! @#？",
-      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. ! @ # ?",
-      "japanese": "少なくとも 1 つの特殊文字を含める (例: ! @ # ?",
-      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, ! @ # ?"
+      "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
+      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}",
+      "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
+      "mandarin": "包含至少一个特殊字符，例如 {'! @#？'}",
+      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
+      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
+      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}"
     }
   }
 }
