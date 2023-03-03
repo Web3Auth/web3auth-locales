@@ -1043,6 +1043,14 @@
 			"german": "Kehren Sie zur maskierten Sängererfahrung zurück",
 			"japanese": "マスクされた歌手体験に戻ります",
 			"english": "Return to Masked Singer Experience"
+		},
+		"returnToMoonsault": {
+			"korean": "WWE Moonsault로 돌아갑니다",
+			"spanish": "Regreso a la WWE Moonsault",
+			"mandarin": "返回WWE Moonsault",
+			"german": "Kehren Sie zu WWE Moonsault zurück",
+			"japanese": "WWEに戻るMoonsault",
+			"english": "Return to WWE Moonsault"
 		}
 	},
 	"walletConnect": {
