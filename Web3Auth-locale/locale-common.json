@@ -160,6 +160,16 @@
 			"french": "Mobile",
 			"portuguese": "Móvel"
 		},
+		"social.phone": {
+			"english": "Phone",
+			"german": "Telefon",
+			"mandarin": "电话",
+			"korean": "핸드폰",
+			"japanese": "電話",
+			"spanish": "Teléfono",
+			"french": "Téléphone",
+			"portuguese": "Telefone"
+		},
 		"social.sms-invalid-number": {
 			"english": "Invalid phone number",
 			"german": "Ungültige Telefonnummer",
