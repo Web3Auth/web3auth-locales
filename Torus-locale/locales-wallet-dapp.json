@@ -441,6 +441,22 @@
 			"mandarin": "解密请求",
 			"japanese": "復号化リクエスト",
 			"korean": "복호화 요청"
+		},
+		"networkHost": {
+			"english": "Network host",
+			"spanish": "Anfitrión de red",
+			"german": "Netzwerk-Host",
+			"mandarin": "网络主机",
+			"japanese": "ネットワーク ホスト",
+			"korean": "네트워크 호스트"
+		},
+		"chainId": {
+			"english": "Chain ID",
+			"spanish": "Cadena ID",
+			"german": "Kette ID",
+			"mandarin": "链 ID",
+			"japanese": "チェーンID",
+			"korean": "체인 ID"
 		}
 	},
 	"dappLogin": {
