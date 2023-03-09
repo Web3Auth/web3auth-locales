@@ -654,6 +654,30 @@
 			"japanese": "{host}がネットワークを{network}に変更することを許可します",
 			"korean": "{host} 네트워크를 {network} (으)로 변경하도록 허용"
 		},
+		"allowAddNetwork": {
+			"english": "Allow {host} to add a network ({network})",
+			"spanish": "Permitir que {host} agregue una red ({network})",
+			"german": "{host} erlauben, ein Netzwerk hinzuzufügen ({network})",
+			"mandarin": "允许 {host} 添加网络 ({network})",
+			"japanese": "{host} にネットワーク ({network}) の追加を許可する",
+			"korean": "{host}가 네트워크({network})를 추가하도록 허용"
+		},
+		"symbol": {
+			"english": "Currency Symbol",
+			"spanish": "Símbolo de moneda",
+			"german": "Währungszeichen",
+			"mandarin": "货币符号",
+			"japanese": "通貨記号",
+			"korean": "통화 기호"
+		},
+		"new": {
+			"english": "New",
+			"spanish": "nuevo",
+			"german": "neu",
+			"mandarin": "新的",
+			"japanese": "新しい",
+			"korean": "새로운"
+		},
 		"allowAccess": {
 			"english": "Allow {host} to access your Google Email Address, Profile Photo and Name",
 			"spanish": "Permita que {host} acceda a su dirección de correo electrónico, foto de perfil y nombre de Google",
