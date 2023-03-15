@@ -441,6 +441,22 @@
 			"mandarin": "解密请求",
 			"japanese": "復号化リクエスト",
 			"korean": "복호화 요청"
+		},
+		"networkHost": {
+			"english": "Network host",
+			"spanish": "Anfitrión de red",
+			"german": "Netzwerk-Host",
+			"mandarin": "网络主机",
+			"japanese": "ネットワーク ホスト",
+			"korean": "네트워크 호스트"
+		},
+		"chainId": {
+			"english": "Chain ID",
+			"spanish": "Cadena ID",
+			"german": "Kette ID",
+			"mandarin": "链 ID",
+			"japanese": "チェーンID",
+			"korean": "체인 ID"
 		}
 	},
 	"dappLogin": {
@@ -637,6 +653,30 @@
 			"mandarin": "允许{host}将您的网络更改为{network}",
 			"japanese": "{host}がネットワークを{network}に変更することを許可します",
 			"korean": "{host} 네트워크를 {network} (으)로 변경하도록 허용"
+		},
+		"allowAddNetwork": {
+			"english": "Allow {host} to add a network ({network})",
+			"spanish": "Permitir que {host} agregue una red ({network})",
+			"german": "{host} erlauben, ein Netzwerk hinzuzufügen ({network})",
+			"mandarin": "允许 {host} 添加网络 ({network})",
+			"japanese": "{host} にネットワーク ({network}) の追加を許可する",
+			"korean": "{host}가 네트워크({network})를 추가하도록 허용"
+		},
+		"symbol": {
+			"english": "Currency Symbol",
+			"spanish": "Símbolo de moneda",
+			"german": "Währungszeichen",
+			"mandarin": "货币符号",
+			"japanese": "通貨記号",
+			"korean": "통화 기호"
+		},
+		"new": {
+			"english": "New",
+			"spanish": "nuevo",
+			"german": "neu",
+			"mandarin": "新的",
+			"japanese": "新しい",
+			"korean": "새로운"
 		},
 		"allowAccess": {
 			"english": "Allow {host} to access your Google Email Address, Profile Photo and Name",

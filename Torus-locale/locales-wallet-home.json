@@ -1035,6 +1035,14 @@
 			"german": "Sie besitzen dieses NFT nicht.",
 			"japanese": "あなたはこのnftを所有していません。",
 			"english": "You don't own this nft."
+		},
+		"returnToMaskverse": {
+			"korean": "마스크 가수 경험으로 돌아갑니다",
+			"spanish": "Regresar a la experiencia de Singer enmascarado",
+			"mandarin": "返回蒙面歌手体验",
+			"german": "Kehren Sie zur maskierten Sängererfahrung zurück",
+			"japanese": "マスクされた歌手体験に戻ります",
+			"english": "Return to Masked Singer Experience"
 		}
 	},
 	"walletConnect": {
@@ -1047,12 +1055,12 @@
 			"english": "View guide"
 		},
 		"title": {
-			"korean": "WalletConnect를 통해 Web3 앱에 연결",
-			"spanish": "Conéctese a las aplicaciones Web3 a través de WalletConnect",
-			"mandarin": "通过 WalletConnect 连接到 Web3 应用程序",
-			"german": "Stellen Sie über WalletConnect eine Verbindung zu Web3-Apps her",
-			"japanese": "WalletConnectを介してWeb3アプリに接続します",
-			"english": "Connect to Web3 Apps via WalletConnect"
+			"korean": "WalletConnect를 통해 OpenSea에 연결하십시오",
+			"spanish": "Conectar a Opensea a través de WalletConnect",
+			"mandarin": "通过WalletConnect连接到OpenSea",
+			"german": "Stellen Sie über WalletConnect mit Opensea an",
+			"japanese": "WalletConnectを介してOpenseaに接続します",
+			"english": "Connect to OpenSea via WalletConnect"
 		},
 		"gotoApp": {
 			"korean": "디앱으로 이동",
