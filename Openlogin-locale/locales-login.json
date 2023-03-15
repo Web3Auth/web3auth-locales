@@ -864,6 +864,24 @@
       "german": "Mehr sehen",
       "portuguese": "Veja mais"
     },
+    "social-2fa-used-social": {
+      "mandarin": "{0} 已用于您的登录，请选择其他选项进行恢复。",
+      "spanish": "{0} se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
+      "english": "{0} has been used for your login, please select another option for recovery.",
+      "japanese": "ログインに {0} が使用されています。回復のための別のオプションを選択してください。",
+      "korean": "{0}이(가) 로그인에 사용되었습니다. 다른 복구 옵션을 선택하십시오.",
+      "german": "{0} wurde für Ihre Anmeldung verwendet, bitte wählen Sie eine andere Option zur Wiederherstellung.",
+      "portuguese": "{0} foi usado para seu login, selecione outra opção para recuperação."
+    },
+    "social-2fa-used-passwordless": {
+      "mandarin": "{0} 登录不可用，因为它已被用于您的登录，请选择其他选项进行恢复。",
+      "spanish": "El inicio de sesión de {0} no está disponible ya que se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
+      "english": "{0} login is not available since it has been used for your login, please select another option for recovery.",
+      "japanese": "ログインに使用されているため、{0} ログインは使用できません。別の回復オプションを選択してください。",
+      "korean": "{0} 로그인은 귀하의 로그인에 사용되었기 때문에 사용할 수 없습니다. 다른 복구 옵션을 선택하십시오.",
+      "german": "{0}-Login ist nicht verfügbar, da es für Ihr Login verwendet wurde. Bitte wählen Sie eine andere Option zur Wiederherstellung aus.",
+      "portuguese": "{0} login não está disponível porque foi usado para seu login, selecione outra opção para recuperação."
+    },
     "2fa-setup-step3-confirm-phrase": {
       "mandarin": "作为高级用户，我知道如果我丢失了此恢复短语，我将承担丢失帐户的风险。",
       "spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta.",
