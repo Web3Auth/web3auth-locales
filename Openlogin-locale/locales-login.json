@@ -2268,6 +2268,24 @@
       "german": "Fügen Sie Ihren Wiederherstellungsfaktor ein",
       "portuguese": "Cole seu Fator de Recuperação"
     },
+    "2fa-recovery-copied-subDesc": {
+      "mandarin": "输入复制的恢复因子",
+      "spanish": "Introduzca el factor de recuperación copiado",
+      "english": "Enter the copied Recovery factor",
+      "japanese": "コピーした回復係数を入力してください",
+      "korean": "복사한 Recovery factor 입력",
+      "german": "Geben Sie den kopierten Erholungsfaktor ein",
+      "portuguese": "Digite o fator de recuperação copiado"
+    },
+    "2fa-recovery-downloaded-subDesc": {
+      "mandarin": "上传下载的恢复因子",
+      "spanish": "Cargue el factor de recuperación descargado",
+      "english": "Upload the downloaded Recovery factor",
+      "japanese": "ダウンロードした回復係数をアップロードする",
+      "korean": "다운받은 회복인자 업로드",
+      "german": "Laden Sie den heruntergeladenen Wiederherstellungsfaktor hoch",
+      "portuguese": "Carregue o fator de recuperação baixado"
+    },
     "2fa-recovery-success-title": {
       "mandarin": "您已保存恢复因子。",
       "spanish": "Ha guardado su factor de recuperación.",
