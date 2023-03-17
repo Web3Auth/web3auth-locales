@@ -458,6 +458,15 @@
       "german": "Wiederherstellungsfaktor löschen",
       "japanese": "回復係数の削除",
       "portuguese": "Excluir fator de recuperação"
+    },
+    "copy-recovery-phrase-desc": {
+      "korean": "복구 문구 사본 저장",
+      "spanish": "Guarda una copia de tu frase de recuperación",
+      "english": "Save a copy of your recovery phrase",
+      "mandarin": "保存恢复短语的副本",
+      "german": "Speichern Sie eine Kopie Ihres Wiederherstellungssatzes",
+      "japanese": "リカバリーフレーズのコピーを保存する",
+      "portuguese": "Salve uma cópia da sua frase de recuperação"
     }
   }
 }

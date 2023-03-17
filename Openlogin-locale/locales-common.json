@@ -566,6 +566,24 @@
       "korean": "핸드폰",
       "english": "Phone",
       "portuguese": "Telefone"
+    },
+    "copy-recovery-phrase": {
+      "spanish": "Copiar frase de recuperación",
+      "german": "Wiederherstellungssatz kopieren",
+      "japanese": "リカバリーフレーズをコピー",
+      "mandarin": "复制助记词",
+      "korean": "복구 문구 복사",
+      "english": "Copy Recovery Phrase",
+      "portuguese": "Copiar frase de recuperação"
+    },
+    "recovery-phrase-copied": {
+      "spanish": "Frase de recuperación copiada",
+      "german": "Wiederherstellungssatz kopiert",
+      "japanese": "回復フレーズがコピーされました",
+      "mandarin": "助记词已复制",
+      "korean": "복구 문구 복사됨",
+      "english": "Recovery Phrase Copied",
+      "portuguese": "Frase de Recuperação Copiada"
     }
   },
   "error-block": {
