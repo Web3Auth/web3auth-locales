@@ -276,8 +276,8 @@
 			"mandarin": "在您的{{adapter}}上验证",
 			"korean": "{{adapter}}에서 확인",
 			"japanese": "{{adapter}} で確認する",
-			"spanish": "Verifique en su {{adaptador}}",
-			"french": "Vérifiez sur votre {{adaptateur}}",
+			"spanish": "Verifique en su {{adapter}}",
+			"french": "Vérifiez sur votre {{adapter}}",
 			"portuguese": "Verifique no seu {{adapter}}"
 		},
 		"footer.version": {
@@ -393,9 +393,9 @@
 		"social.continue": {
 			"english": " Continue with ",
 			"german": " Weitermachen mit ",
-			"mandarin": "继续",
-			"korean": "계속",
-			"japanese": "続ける",
+			"mandarin": "继续 ",
+			"korean": "계속 ",
+			"japanese": "続ける ",
 			"spanish": " Continua con ",
 			"french": "  Continue avec ",
 			"portuguese": " Continuar com "
