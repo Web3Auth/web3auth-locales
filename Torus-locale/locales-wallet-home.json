@@ -1043,6 +1043,14 @@
 			"german": "Kehren Sie zur maskierten Sängererfahrung zurück",
 			"japanese": "マスクされた歌手体験に戻ります",
 			"english": "Return to Masked Singer Experience"
+		},
+		"returnToUsfl": {
+			"korean": "USFL로 돌아가기",
+			"spanish": "Regresar a USFL",
+			"mandarin": "返回 USFL",
+			"german": "Zurück zur USFL",
+			"japanese": "USFLに戻る",
+			"english": "Return to USFL"
 		}
 	},
 	"walletConnect": {
