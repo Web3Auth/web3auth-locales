@@ -2114,6 +2114,15 @@
       "korean": "검증",
       "german": "Verifizieren",
       "portuguese": "Verificar"
+    },
+    "pageReloadWarning": {
+      "mandarin": "请不要重新加载页面",
+      "spanish": "Por favor, no vuelva a cargar la página.",
+      "english": "Please do not reload the page.",
+      "japanese": "ページをリロードしないでください。",
+      "korean": "페이지를 다시로드하지 마십시오.",
+      "german": "Bitte laden Sie die Seite nicht neu.",
+      "portuguese": "Por favor, não recarregue a página."
     }
   }
 }
