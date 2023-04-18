@@ -1060,7 +1060,7 @@
 			"mandarin": "通过 WalletConnect 连接到 DApp",
 			"german": "Verbinden Sie sich über WalletConnect mit DApp",
 			"japanese": "WalletConnect 経由で DApp に接続する",
-			"english": "Connect to OpenSea via WalletConnect"
+			"english": "Connect to DApp via WalletConnect"
 		},
 		"gotoApp": {
 			"korean": "디앱으로 이동",
