@@ -35,6 +35,7 @@
             "korean": "사용 가능한 모든 공급자를 구매하거나 지갑 주소를 공유하여 수신 할 수 있습니다."
         },
         "activateAccount": {
+            "english": "Activate account",
             "mandarin": "激活帐户",
             "spanish": "Activar la cuenta",
             "german": "Konto aktivieren",
@@ -42,6 +43,7 @@
             "korean": "계정을 활성화하십시오"
         },
         "selectTokenReceive": {
+            "english": "Select token to receive",
             "mandarin": "选择代币接收",
             "spanish": "Seleccione Token para recibir",
             "german": "Wählen Sie Token zum Empfang",
@@ -51,6 +53,7 @@
     },
     "trustLine": {
         "selectTrustLine": {
+            "english": "Select Trust line",
             "mandarin": "选择Trust line",
             "spanish": "Seleccionar Trust line",
             "german": "Wählen Sie Trust line",
@@ -74,13 +77,15 @@
             "korean": "새로운 Trust line을 설정하십시오"
         },
         "issuerFee": {
-            "mandarin": "发行人费",
-            "spanish": "Tarifa del emisor",
-            "german": "Emittentengebühr",
-            "japanese": "発行者料金",
-            "korean": "발행자 수수료"
+            "english": "Issuer fee",
+            "mandarin": "Issuer费用",
+            "spanish": "Tarifa de Issuer",
+            "german": "Issuer -Gebühr",
+            "japanese": "Issuer料金",
+            "korean": "Issuer 요금"
         },
         "balanceLimit": {
+            "english": "Balance limit",
             "mandarin": "余额限制",
             "spanish": "Límite de equilibrio",
             "german": "Gleichgewichtsgrenze",
@@ -88,6 +93,7 @@
             "korean": "잔액 제한"
         },
         "transactionFee": {
+            "english": "Transaction fee",
             "mandarin": "手续费",
             "spanish": "Tarifa de transacción",
             "german": "Transaktionsgebühr",

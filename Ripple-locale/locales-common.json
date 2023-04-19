@@ -59,6 +59,7 @@
             "korean": "집"
         },
         "activity": {
+            "english": "Activity",
             "mandarin": "活动",
             "spanish": "Actividad",
             "german": "Aktivität",
@@ -66,6 +67,7 @@
             "korean": "활동"
         },
         "settings": {
+            "english": "Settings",
             "mandarin": "设置",
             "spanish": "Ajustes",
             "german": "Einstellungen",
@@ -73,6 +75,7 @@
             "korean": "설정"
         },
         "profile": {
+            "english": "Profile",
             "mandarin": "轮廓",
             "spanish": "Perfil",
             "german": "Profil",
