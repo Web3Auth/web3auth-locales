@@ -1,10 +1,12 @@
 {
     "login": {
-        "english": "Your blockchain wallet in one click",
-        "german": "Ihre Blockchain -Brieftasche in einem Klick",
-        "mandarin": "您的区块链钱包一键",
-        "korean": "한 번의 클릭으로 블록 체인 지갑",
-        "japanese": "ワンクリックでブロックチェーンウォレット",
-        "spanish": "Su billetera blockchain en un solo clic"
+        "title": {
+            "english": "Your blockchain wallet in one click",
+            "german": "Ihre Blockchain -Brieftasche in einem Klick",
+            "mandarin": "您的区块链钱包一键",
+            "korean": "한 번의 클릭으로 블록 체인 지갑",
+            "japanese": "ワンクリックでブロックチェーンウォレット",
+            "spanish": "Su billetera blockchain en un solo clic"
+        }
     }
 }
