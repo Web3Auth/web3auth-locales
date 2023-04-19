@@ -1,0 +1,83 @@
+{
+    "common": {
+        "send": {
+            "german": "Senden",
+            "japanese": "送る",
+            "english": "Send",
+            "spanish": "Enviar",
+            "mandarin": "发送",
+            "korean": "보내다"
+        },
+        "receive": {
+            "german": "Erhalten",
+            "japanese": "受け取る",
+            "english": "Receive",
+            "spanish": "Recibir",
+            "mandarin": "接收",
+            "korean": "받다"
+        },
+        "buy": {
+            "english": "Buy",
+            "mandarin": "买",
+            "spanish": "Comprar",
+            "german": "Besorgen",
+            "japanese": "買う",
+            "korean": "구입하다"
+        },
+        "balance": {
+            "english": "Balance",
+            "mandarin": "平衡",
+            "spanish": "Balance",
+            "german": "Gleichgewicht",
+            "japanese": "バランス",
+            "korean": "균형"
+        },
+        "value": {
+            "english": "Value",
+            "mandarin": "价值",
+            "spanish": "Valor",
+            "german": "Wert",
+            "japanese": "価値",
+            "korean": "값"
+        },
+        "tokenReserved": {
+            "english": "{0} reserved",
+            "mandarin": "{0}保留",
+            "spanish": "{0} reservado",
+            "german": "{0} reserviert",
+            "japanese": "{0}予約",
+            "korean": "{0} 예약"
+        }
+    },
+    "navBar": {
+        "home": {
+            "english": "Home",
+            "mandarin": "家",
+            "spanish": "Hogar",
+            "german": "Heim",
+            "japanese": "家",
+            "korean": "집"
+        },
+        "activity": {
+            "mandarin": "活动",
+            "spanish": "Actividad",
+            "german": "Aktivität",
+            "japanese": "アクティビティ",
+            "korean": "활동"
+        },
+        "settings": {
+            "mandarin": "设置",
+            "spanish": "Ajustes",
+            "german": "Einstellungen",
+            "japanese": "設定",
+            "korean": "설정"
+        },
+        "profile": {
+            "mandarin": "轮廓",
+            "spanish": "Perfil",
+            "german": "Profil",
+            "japanese": "プロフィール",
+            "korean": "프로필"
+        }
+    }
+}
