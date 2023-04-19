@@ -1070,6 +1070,14 @@
 			"japanese": "WalletConnect 経由で DApp に接続する",
 			"english": "Connect to DApp via WalletConnect"
 		},
+		"titleOpensea": {
+			"korean": "WalletConnect를 통해 OpenSea에 연결하십시오",
+			"spanish": "Conectar a Opensea a través de WalletConnect",
+			"mandarin": "通过WalletConnect连接到OpenSea",
+			"german": "Stellen Sie über WalletConnect mit Opensea an",
+			"japanese": "WalletConnectを介してOpenseaに接続します",
+			"english": "Connect to OpenSea via WalletConnect"
+		},
 		"gotoApp": {
 			"korean": "디앱으로 이동",
 			"spanish": "Ir a dApp",
