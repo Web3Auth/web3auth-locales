@@ -22,7 +22,7 @@
             "mandarin": "Web3Auth 的自我托管登录",
             "korean": "Web3Auth를 통한 자가 관리 로그인",
             "japanese": "Web3Authによる自己管理ログイン",
-            "spanish": "Inicio de sesión con autocustodia por Web3Auth",
+            "spanish": "Inicio de sesión con autocustodia por Web3Auth"
         },
         "termsConditions": {
             "japanese": "利用規約",
@@ -54,7 +54,7 @@
             "english": "Continue with Google",
             "japanese": "Googleで続行",
             "korean": "Google로 계속",
-            "german": "Fahren Sie mit Google fort",
+            "german": "Fahren Sie mit Google fort"
         },
         "verifierEmailDesc": {
             "mandarin": "继续发送电子邮件",
@@ -62,7 +62,7 @@
             "english": "Continue with Email",
             "japanese": "メールを続ける",
             "korean": "이메일로 계속",
-            "german": "Fahren Sie mit E-Mail fort",
+            "german": "Fahren Sie mit E-Mail fort"
         },
         "viewLess": {
             "japanese": "少ないオプションを表示",
@@ -86,7 +86,7 @@
             "mandarin": "我们不存储与您的社交登录相关的任何数据。",
             "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
             "japanese": "ソーシャル ログインに関連するデータは保存されません。",
-            "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+            "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
         }
     }
 }
