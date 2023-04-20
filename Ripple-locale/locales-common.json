@@ -47,6 +47,38 @@
             "german": "{0} reserviert",
             "japanese": "{0}予約",
             "korean": "{0} 예약"
+        },
+        "close": {
+            "korean": "닫기",
+            "spanish": "Cerrar",
+            "german": "Schließen",
+            "english": "Close",
+            "mandarin": "关",
+            "japanese": "閉じる"
+        },
+        "availableBalance": {
+            "english": "Available Balance",
+            "mandarin": "可用余额",
+            "spanish": "Saldo disponible",
+            "german": "Verfügbares Guthaben",
+            "japanese": "利用可能残高",
+            "korean": "사용 가능한 잔액"
+        },
+        "continue": {
+            "german": "Fortsetzen",
+            "korean": "계속하다",
+            "spanish": "Seguir",
+            "english": "Continue",
+            "mandarin": "继续",
+            "japanese": "継続する"
+        },
+        "cancel": {
+            "german": "Stornieren",
+            "korean": "취소",
+            "spanish": "Cancelar",
+            "english": "Cancel",
+            "mandarin": "取消",
+            "japanese": "キャンセル"
         }
     },
     "navBar": {

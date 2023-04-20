@@ -15,9 +15,15 @@
             "german": "{0} reserviert für die Vertrauenslinie",
             "japanese": "{0}トラストライン用に予約されています",
             "korean": "{0} 신탁 라인을 위해 예약되었습니다"
-        }
-    },
-    "tokens": {
+        },
+        "activateWallet": {
+            "english": "Activate your Wallet",
+            "mandarin": "激活您的钱包",
+            "spanish": "Activa tu billetera",
+            "german": "Aktivieren Sie Ihre Brieftasche",
+            "japanese": "ウォレットをアクティブにします",
+            "korean": "지갑을 활성화하십시오"
+        },
         "activateNote1": {
             "english": "XRP Ledger wallet automatically activates when first 10 XRP is added to the account. This is required to create trust lines, which are necessary for receiving any tokens other than XRP.",
             "mandarin": "XRP LEDGER钱包将在第一个10 XRP添加到帐户中自动激活。这是创建信任行所需的，这对于接收XRP以外的任何代币都是必需的。",
@@ -34,6 +40,32 @@
             "japanese": "利用可能なプロバイダーをXRPフォームで購入するか、ウォレットアドレスを共有して受け取ることができます。",
             "korean": "사용 가능한 모든 공급자를 구매하거나 지갑 주소를 공유하여 수신 할 수 있습니다."
         },
+        "receive": {
+            "english": "Receive {0}",
+            "mandarin": "接收{0}",
+            "spanish": "Recibir {0}",
+            "german": "{0} erhalten",
+            "japanese": "{0}を受け取ります",
+            "korean": "{0}를 받으십시오"
+        },
+        "buy": {
+            "english": "Buy {0}",
+            "mandarin": "购买{0}",
+            "spanish": "Comprar {0}",
+            "german": "{0} kaufen",
+            "japanese": "{0}を購入します",
+            "korean": "{0}를 구매하십시오"
+        },
+        "doLater": {
+            "english": "Will do later",
+            "mandarin": "稍后会做",
+            "spanish": "Hará más tarde",
+            "german": "Wird später tun",
+            "japanese": "後でやります",
+            "korean": "나중에 할 것입니다"
+        }
+    },
+    "tokens": {
         "activateAccount": {
             "english": "Activate account",
             "mandarin": "激活帐户",
@@ -49,6 +81,62 @@
             "german": "Wählen Sie Token zum Empfang",
             "japanese": "受信するトークンを選択します",
             "korean": "받을 토큰을 선택하십시오"
+        },
+        "sendToken": {
+            "english": "Send Token",
+            "mandarin": "发送Token",
+            "spanish": "Enviar Token",
+            "german": "Token senden",
+            "japanese": "Tokenを送信します",
+            "korean": "Token를 보내십시오"
+        },
+        "sendTo": {
+            "english": "Send to",
+            "mandarin": "发给",
+            "spanish": "Enviar a",
+            "german": "Senden an",
+            "japanese": "に送る",
+            "korean": "보내십시오"
+        },
+        "amount": {
+            "german": "Menge",
+            "japanese": "量",
+            "english": "Amount",
+            "spanish": "Cantidad",
+            "mandarin": "量",
+            "korean": "양"
+        },
+        "transferSpeed": {
+            "english": "Transfer speed",
+            "mandarin": "传输速度",
+            "spanish": "Velocidad de transferencia",
+            "german": "Übertragungsgeschwindigkeit",
+            "japanese": "転送速度",
+            "korean": "전송 속도"
+        },
+        "transactionCost": {
+            "english": "Transaction cost",
+            "mandarin": "交易成本",
+            "spanish": "Costo de la transacción",
+            "german": "Transaktionsgebühr",
+            "japanese": "取引コスト",
+            "korean": "거래 비용"
+        },
+        "transfer": {
+            "mandarin": "传递",
+            "spanish": "Transferir",
+            "japanese": "転送",
+            "korean": "이전",
+            "german": "Transfer",
+            "english": "Transfer"
+        },
+        "receiveToken": {
+            "english": "Receive Token",
+            "mandarin": "接收Token",
+            "spanish": "Recibir Token",
+            "german": "Token erhalten",
+            "japanese": "Tokenを受け取ります",
+            "korean": "Token를 받으십시오"
         }
     },
     "trustLine": {
@@ -131,6 +219,136 @@
             "german": "Wählen Sie die issuer aus",
             "japanese": "issuerを選択します",
             "korean": "issuer를 선택하십시오"
+        },
+        "shareWalletAddress": {
+            "english": "Share wallet address",
+            "mandarin": "共享钱包地址",
+            "spanish": "Compartir la dirección de la billetera",
+            "german": "Brieftaschenadresse teilen",
+            "japanese": "ウォレットアドレスを共有します",
+            "korean": "지갑 주소를 공유하십시오"
+        }
+    },
+    "topup": {
+        "topup": {
+            "german": "Aufladen",
+            "japanese": "チャージ",
+            "english": "Topup",
+            "spanish": "Recarga",
+            "mandarin": "充值",
+            "korean": "충전"
+        },
+        "topupSuccess": {
+            "english": "Topup successful",
+            "mandarin": "托图成功",
+            "spanish": "Topup exitoso",
+            "german": "Überdachung erfolgreich",
+            "japanese": "トップアップが成功しました",
+            "korean": "Topup 성공"
+        },
+        "youReceived": {
+            "english": "You have received",
+            "mandarin": "你收到了",
+            "spanish": "Has recibido",
+            "german": "Du hast erhalten",
+            "japanese": "あなたは受け取りました",
+            "korean": "당신은 받았습니다"
+        },
+        "provider": {
+            "english": "Provider",
+            "mandarin": "提供者",
+            "spanish": "Proveedor",
+            "german": "Anbieter",
+            "japanese": "プロバイダー",
+            "korean": "공급자"
+        },
+        "limit": {
+            "english": "Limit",
+            "mandarin": "限制",
+            "spanish": "Límite",
+            "german": "Grenze",
+            "japanese": "制限",
+            "korean": "한계"
+        },
+        "paywith": {
+            "spanish": "Pagar con",
+            "english": "Pay with",
+            "japanese": "支払方法",
+            "german": "Bezahlen mit",
+            "mandarin": "支付方式",
+            "korean": "지불"
+        },
+        "wannaBuy": {
+            "spanish": "Compras",
+            "english": "You buy",
+            "japanese": "通貨の種類",
+            "german": "Sie kaufen",
+            "mandarin": "你买",
+            "korean": "지불"
+        },
+        "youPay": {
+            "japanese": "あなたが支払う",
+            "korean": "당신이 지불",
+            "spanish": "Tu pagas",
+            "german": "Sie bezahlen",
+            "mandarin": "你付钱",
+            "english": "You Pay"
+        },
+        "receive": {
+            "spanish": "Recibes",
+            "english": "You receive",
+            "japanese": "受取額",
+            "german": "Erhalten",
+            "mandarin": "接收",
+            "korean": "받다"
+        },
+        "includes": {
+            "spanish": "Incluye",
+            "english": "Includes",
+            "japanese": "含む",
+            "german": "Beinhaltet",
+            "mandarin": "包括",
+            "korean": "포함"
+        },
+        "processSpeed": {
+            "english": "The process would take approximately {0}.",
+            "mandarin": "该过程大约需要{0}。",
+            "spanish": "El proceso tomaría aproximadamente {0}.",
+            "german": "Der Prozess würde ungefähr {0} dauern.",
+            "japanese": "このプロセスには約{0}が必要です。",
+            "korean": "프로세스는 대략 {0}가 필요합니다."
+        },
+        "prepareId": {
+            "english": "Please prepare your Identity Card/Passport to complete the purchase.",
+            "mandarin": "请准备您的身份证/护照以完成购买。",
+            "spanish": "Prepare su tarjeta de identidad/pasaporte para completar la compra.",
+            "german": "Bitte bereiten Sie Ihre Identitätskarte/Ihren Reisepass vor, um den Kauf abzuschließen.",
+            "japanese": "購入を完了するには、身分証明書/パスポートを準備してください。",
+            "korean": "구매를 완료하려면 신분증/여권을 준비하십시오."
+        },
+        "redirectMessage": {
+            "spanish": "Visitarás una página externa",
+            "english": "You will be redirected to the third party page",
+            "japanese": "プロバイダーの購入ページに飛びます",
+            "german": "Sie werden auf die Seite eines Drittanbieters weitergeleitet",
+            "mandarin": "您将被重定向到第三方页面",
+            "korean": "당신은 제 3 자 페이지로 리디렉션됩니다"
+        },
+        "selectProvider": {
+            "english": "Select the provider",
+            "mandarin": "选择提供商",
+            "spanish": "Seleccione el proveedor",
+            "german": "Wählen Sie den Anbieter aus",
+            "japanese": "プロバイダーを選択します",
+            "korean": "제공자를 선택하십시오"
+        },
+        "fees": {
+            "spanish": "Cuota",
+            "english": "Fees",
+            "japanese": "料金",
+            "german": "Gebühren",
+            "mandarin": "费用",
+            "korean": "수수료"
         }
     }
 }
