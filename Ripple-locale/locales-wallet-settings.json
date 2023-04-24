@@ -208,6 +208,22 @@
             "japanese": "新しい連絡先を追加",
             "english": "Add new contact"
         },
+        "name": {
+            "english": "Name",
+            "mandarin": "姓名",
+            "spanish": "Nombre",
+            "german": "Name",
+            "japanese": "名前",
+            "korean": "이름"
+        },
+        "namePlaceholder": {
+            "english": "Enter Contact's Name",
+            "mandarin": "输入联系人的姓名",
+            "spanish": "Ingrese el nombre del contacto",
+            "german": "Geben Sie den Namen des Kontakts ein",
+            "japanese": "連絡先の名前を入力します",
+            "korean": "연락처 이름을 입력하십시오"
+        },
         "address": {
             "english": "Address",
             "mandarin": "地址",

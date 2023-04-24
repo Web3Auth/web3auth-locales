@@ -137,6 +137,14 @@
             "german": "Token erhalten",
             "japanese": "Tokenを受け取ります",
             "korean": "Token를 받으십시오"
+        },
+        "shareWalletAddress": {
+            "english": "Share wallet address",
+            "mandarin": "共享钱包地址",
+            "spanish": "Compartir la dirección de la billetera",
+            "german": "Brieftaschenadresse teilen",
+            "japanese": "ウォレットアドレスを共有します",
+            "korean": "지갑 주소를 공유하십시오"
         }
     },
     "trustLine": {
@@ -219,14 +227,6 @@
             "german": "Wählen Sie die issuer aus",
             "japanese": "issuerを選択します",
             "korean": "issuer를 선택하십시오"
-        },
-        "shareWalletAddress": {
-            "english": "Share wallet address",
-            "mandarin": "共享钱包地址",
-            "spanish": "Compartir la dirección de la billetera",
-            "german": "Brieftaschenadresse teilen",
-            "japanese": "ウォレットアドレスを共有します",
-            "korean": "지갑 주소를 공유하십시오"
         }
     },
     "topup": {
