@@ -79,6 +79,30 @@
             "english": "Cancel",
             "mandarin": "取消",
             "japanese": "キャンセル"
+        },
+        "successful": {
+            "german": "Erfolgreich",
+            "japanese": "成功した",
+            "english": "Successful",
+            "spanish": "Exitoso",
+            "mandarin": "成功",
+            "korean": "성공한"
+        },
+        "unsuccessful": {
+            "german": "Erfolglos",
+            "japanese": "失敗した",
+            "english": "Unsuccessful",
+            "spanish": "Fracasado",
+            "mandarin": "不成功",
+            "korean": "실패"
+        },
+        "pending": {
+            "german": "steht aus",
+            "japanese": "保留中",
+            "english": "Pending",
+            "spanish": "Pendiente",
+            "mandarin": "待定",
+            "korean": "대기 중"
         }
     },
     "navBar": {
