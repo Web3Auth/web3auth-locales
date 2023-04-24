@@ -127,6 +127,30 @@
             "german": "Transaktionszustand",
             "japanese": "トランザクション状態",
             "korean": "거래 상태"
+        },
+        "toAddress": {
+            "english": "to {0}",
+            "mandarin": "到{0}",
+            "spanish": "a {0}",
+            "german": "zu {0}",
+            "japanese": "{0}へ",
+            "korean": "{0}에"
+        },
+        "fromAddress": {
+            "english": "from {0}",
+            "mandarin": "来自{0}",
+            "spanish": "de {0}",
+            "german": "Von {0}",
+            "japanese": "{0}から",
+            "korean": "{0}에서"
+        },
+        "forToken": {
+            "english": "for {0}",
+            "mandarin": "对于{0}",
+            "spanish": "para {0}",
+            "german": "für {0}",
+            "japanese": "{0}の場合",
+            "korean": "{0} 용"
         }
     }
 }
