@@ -103,6 +103,22 @@
             "spanish": "Pendiente",
             "mandarin": "待定",
             "korean": "대기 중"
+        },
+        "important": {
+            "english": "Important",
+            "mandarin": "重要的",
+            "spanish": "Importante",
+            "german": "Wichtig",
+            "japanese": "重要",
+            "korean": "중요한"
+        },
+        "download": {
+            "english": "Download",
+            "mandarin": "下载",
+            "spanish": "Descargar",
+            "german": "Herunterladen",
+            "japanese": "ダウンロード",
+            "korean": "다운로드"
         }
     },
     "navBar": {
