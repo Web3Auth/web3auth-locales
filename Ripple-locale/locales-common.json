@@ -127,6 +127,14 @@
             "mandarin": "确认",
             "japanese": "確認",
             "spanish": "Confirmar"
+        },
+        "required": {
+            "mandarin": "必要",
+            "german": "Erforderlich",
+            "spanish": "Necesario",
+            "korean": "필수",
+            "japanese": "必須",
+            "english": "Required"
         }
     },
     "navBar": {

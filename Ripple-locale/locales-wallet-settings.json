@@ -343,6 +343,30 @@
             "german": "Aktivieren Sie dies, um alle In-App-Benachrichtigungen in Bezug auf Transaktionen in Ihrer Torus-Brieftasche zu erhalten.",
             "japanese": "これにより、Torusウォレットのトランザクションに関連するすべてのアプリ内通知を取得できます。",
             "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 모든 인앱 알림을 얻을 수 있습니다."
+        },
+        "xrplAddress": {
+            "mandarin": "XRPL 地址",
+            "german": "XRPL-Adresse",
+            "spanish": "Dirección de XRPL",
+            "korean": "XRPL 주소",
+            "japanese": "XRPLアドレス",
+            "english": "XRPL address"
+        },
+        "duplicateContact": {
+            "mandarin": "联系人重复",
+            "german": "Doppelter Kontakt",
+            "spanish": "Contacto duplicado",
+            "korean": "중복 연락처",
+            "japanese": "重複した連絡先",
+            "english": "Duplicate contact"
+        },
+        "invalidXrpl": {
+            "mandarin": "无效的 XRPL 地址",
+            "german": "Ungültige XRPL-Adresse",
+            "spanish": "Dirección XRPL no válida",
+            "korean": "잘못된 XRPL 주소",
+            "japanese": "無効なXRPLアドレス",
+            "english": "Invalid XRPL Address"
         }
     }
 }
