@@ -1,13 +1,5 @@
 {
     "walletActivity": {
-        "typeAll": {
-            "english": "All",
-            "mandarin": "全部",
-            "spanish": "Todo",
-            "german": "Alle",
-            "japanese": "全て",
-            "korean": "모두"
-        },
         "typeSent": {
             "english": "Sent",
             "mandarin": "发送",

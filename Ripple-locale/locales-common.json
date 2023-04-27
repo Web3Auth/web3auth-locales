@@ -135,6 +135,14 @@
             "korean": "필수",
             "japanese": "必須",
             "english": "Required"
+        },
+        "all": {
+            "english": "All",
+            "mandarin": "全部",
+            "spanish": "Todo",
+            "german": "Alle",
+            "japanese": "全て",
+            "korean": "모두"
         }
     },
     "navBar": {
