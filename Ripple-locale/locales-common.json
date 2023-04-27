@@ -119,6 +119,14 @@
             "german": "Herunterladen",
             "japanese": "ダウンロード",
             "korean": "다운로드"
+        },
+        "confirm": {
+            "korean": "확인",
+            "german": "Bestätigen",
+            "english": "Confirm",
+            "mandarin": "确认",
+            "japanese": "確認",
+            "spanish": "Confirmar"
         }
     },
     "navBar": {
