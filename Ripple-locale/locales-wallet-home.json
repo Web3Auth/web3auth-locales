@@ -164,6 +164,14 @@
             "japanese": "新しいTrust lineを作成します",
             "korean": "새 Trust line 만들기"
         },
+        "createATrustLine": {
+            "english": "Create a Trust line",
+            "mandarin": "创建一个Trust line",
+            "spanish": "Crear un Trust line",
+            "german": "Erstellen Sie eine Trust line",
+            "japanese": "Trust lineを作成します",
+            "korean": "Trust line을 만듭니다"
+        },
         "setupTrustLine": {
             "english": "Setup new Trust line",
             "mandarin": "设置新Trust line",
@@ -227,6 +235,22 @@
             "german": "Wählen Sie die issuer aus",
             "japanese": "issuerを選択します",
             "korean": "issuer를 선택하십시오"
+        },
+        "trustLineTooltipDetails": {
+            "english": "Trust line allows to establish a secure and reliable connection with other parties in a network, which can facilitate smoother and more efficient transactions. Additionally, it can help to mitigate potential risks and enhance overall trust and credibility within the network.",
+            "mandarin": "Trust line允许与网络中的其他方建立安全可靠的联系，这可以促进更流畅，更有效的交易。此外，它可以帮助减轻潜在的风险，并增强网络中的整体信任和信誉。",
+            "spanish": "Trust line permite establecer una conexión segura y confiable con otras partes en una red, que puede facilitar transacciones más suaves y eficientes. Además, puede ayudar a mitigar los riesgos potenciales y mejorar la confianza general y la credibilidad dentro de la red.",
+            "german": "Mit Trust line ermöglicht es, eine sichere und zuverlässige Verbindung zu anderen Parteien in einem Netzwerk herzustellen, was reibungslose und effizientere Transaktionen erleichtern kann. Darüber hinaus kann es dazu beitragen, potenzielle Risiken zu mildern und das allgemeine Vertrauen und die Glaubwürdigkeit innerhalb des Netzwerks zu verbessern.",
+            "japanese": "Trust lineは、ネットワーク内の他の関係者と安全で信頼できる接続を確立することができ、よりスムーズで効率的なトランザクションを促進できます。さらに、潜在的なリスクを軽減し、ネットワーク内の全体的な信頼と信頼性を高めるのに役立ちます。",
+            "korean": "Trust line을 사용하면 네트워크의 다른 당사자와 안전하고 안정적인 연결을 설정하여 더 부드럽고 효율적인 거래를 촉진 할 수 있습니다. 또한 잠재적 위험을 완화하고 네트워크 내에서 전반적인 신뢰와 신뢰성을 향상시키는 데 도움이 될 수 있습니다.",
+        },
+        "titleNote": {
+            "english": "Trust line enables secure and reliable connection and promotes trust and credibility within a network.",
+            "mandarin": "Trust line启用安全可靠的连接，并促进网络中的信任和信誉。",
+            "spanish": "Trust line permite una conexión segura y confiable y promueve la confianza y la credibilidad dentro de una red.",
+            "german": "Trust line ermöglicht eine sichere und zuverlässige Verbindung und fördert Vertrauen und Glaubwürdigkeit innerhalb eines Netzwerks.",
+            "japanese": "Trust lineは、安全で信頼できる接続を可能にし、ネットワーク内の信頼と信頼性を促進します。",
+            "korean": "Trust line은 안전하고 신뢰할 수있는 연결을 가능하게하고 네트워크 내에서 신뢰와 신뢰성을 촉진합니다."
         }
     },
     "topup": {
