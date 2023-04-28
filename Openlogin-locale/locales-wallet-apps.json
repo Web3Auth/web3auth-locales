@@ -62,6 +62,60 @@
       "japanese": "まだどのアプリケーションにも接続していません。",
       "korean": "아직 애플리케이션에 연결되어 있지 않습니다.",
       "portuguese": "Você ainda não está conectado a nenhum aplicativo."
+    },
+    "devices": {
+      "mandarin": "设备",
+      "spanish": "Dispositivos",
+      "english": "Device(s)",
+      "german": "Geräte",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "portuguese": "Dispositivos"
+    },
+    "last-access": {
+      "mandarin": "最后访问",
+      "spanish": "Último acceso en",
+      "english": "Last accessed on",
+      "german": "Zuletzt aufgerufen",
+      "japanese": "最後にアクセスしました",
+      "korean": "마지막으로 접근했습니다",
+      "portuguese": "Último acesso em"
+    },
+    "download-key": {
+      "mandarin": "下载密钥",
+      "spanish": "Tecla de descarga",
+      "english": "Download key",
+      "german": "Download Key",
+      "japanese": "キーをダウンロードします",
+      "korean": "키를 다운로드하십시오",
+      "portuguese": "Chave de download"
+    },
+    "revoke": {
+      "mandarin": "撤销",
+      "spanish": "Revocar",
+      "english": "Revoke",
+      "german": "Widerrufen",
+      "japanese": "取り消す",
+      "korean": "취소",
+      "portuguese": "Revogar"
+    },
+    "see-all": {
+      "mandarin": "查看全部",
+      "spanish": "Ver todo",
+      "english": "See All",
+      "german": "Alles sehen",
+      "japanese": "すべてを見る",
+      "korean": "모두보기",
+      "portuguese": "Veja tudo"
+    },
+    "see-less": {
+      "mandarin": "少看",
+      "spanish": "Ver menos",
+      "english": "See Less",
+      "german": "Siehe Weniger",
+      "japanese": "詳細を隠す",
+      "korean": "간단히 보기",
+      "portuguese": "ver menos"
     }
   }
 }

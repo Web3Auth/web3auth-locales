@@ -350,6 +350,240 @@
       "spanish": "Inicio de sesión con autocustodia por",
       "japanese": "による自己管理ログイン",
       "portuguese": "Login autocustodial por"
+    },
+    "advanced-options": {
+      "mandarin": "高级选项",
+      "german": "Erweiterte Optionen",
+      "english": "Advanced Options",
+      "korean": "고급 옵션",
+      "spanish": "Opciones avanzadas",
+      "japanese": "高度なオプション",
+      "portuguese": "Opções avançadas"
+    },
+    "hide-options": {
+      "mandarin": "隐藏选项",
+      "german": "Optionen ausblenden",
+      "english": "Hide Options",
+      "korean": "숨기기 옵션",
+      "spanish": "Ocultar opciones",
+      "japanese": "オプションを隠す",
+      "portuguese": "Ocultar opções"
+    },
+    "copy-paste": {
+      "mandarin": "复制和粘贴",
+      "german": "Kopieren und Einfügen",
+      "english": "Copy and Paste",
+      "korean": "복사 및 붙여 넣기",
+      "spanish": "Copiar y pegar",
+      "japanese": "コピーアンドペースト",
+      "portuguese": "Copiar e colar"
+    },
+    "edit-email": {
+      "mandarin": "",
+      "german": "",
+      "english": "Edit email",
+      "korean": "",
+      "spanish": "",
+      "japanese": "",
+      "portuguese": ""
+    },
+    "back-to-download": {
+      "mandarin": "编辑电子邮件",
+      "german": "E-Mail bearbeiten",
+      "english": "Back to download Recovery Factor",
+      "korean": "이메일 수정",
+      "spanish": "Editar correo electrónico",
+      "japanese": "メールを編集",
+      "portuguese": "Editar e-mail"
+    },
+    "resend-recovery": {
+      "mandarin": "重新发送恢复因子",
+      "german": "Wiederherstellungsfaktor erneut senden",
+      "english": "Resend Recovery Factor",
+      "korean": "복구 팩터 재전송",
+      "spanish": "Factor de recuperación de reenvío",
+      "japanese": "回復係数の再送",
+      "portuguese": "Reenviar Fator de Recuperação"
+    },
+    "password-label": {
+      "mandarin": "输入密码",
+      "spanish": "Ingresa tu password",
+      "english": "Enter password",
+      "japanese": "パスワードを入力する",
+      "korean": "암호를 입력",
+      "german": "Passwort eingeben",
+      "portuguese": "Digite a senha"
+    },
+    "verify": {
+      "mandarin": "核实",
+      "spanish": "Verificar",
+      "english": "Verify",
+      "japanese": "確認",
+      "korean": "검증",
+      "german": "Verifizieren",
+      "portuguese": "Verificar"
+    },
+    "upload-recovery-factor": {
+      "mandarin": "上传恢复因子",
+      "german": "Wiederherstellungsfaktor hochladen",
+      "english": "Upload Recovery Factor",
+      "korean": "회복 인자 업로드",
+      "spanish": "Subir factor de recuperación",
+      "japanese": "回復係数のアップロード",
+      "portuguese": "Carregar Fator de Recuperação"
+    },
+    "new-device-detected": {
+      "mandarin": "检测到新设备",
+      "german": "Neues Gerät erkannt",
+      "english": "New device detected",
+      "korean": "새 장치 감지됨",
+      "spanish": "Nuevo dispositivo detectado",
+      "japanese": "新しいデバイスが検出されました",
+      "portuguese": "Novo dispositivo detectado"
+    },
+    "verify-with-other-factors": {
+      "mandarin": "与其他因素验证",
+      "german": "Überprüfen Sie mit anderen Faktoren",
+      "english": "Verify with other factors",
+      "korean": "다른 요인으로 확인",
+      "spanish": "Verificar con otros factores",
+      "japanese": "他の要因で検証する",
+      "portuguese": "Verifique com outros fatores"
+    },
+    "socialLogin": {
+      "mandarin": "社交登录",
+      "german": "Sozialer Login",
+      "english": "Social login",
+      "korean": "소셜 로그인",
+      "spanish": "Inicio de sesión social",
+      "japanese": "ソーシャルログイン",
+      "portuguese": "Login social"
+    },
+    "devices": {
+      "mandarin": "设备）",
+      "german": "Geräte)",
+      "english": "Device (s)",
+      "korean": "장치",
+      "spanish": "Dispositivos)",
+      "japanese": "デバイス",
+      "portuguese": "Dispositivos)"
+    },
+    "webAuthentication": {
+      "mandarin": "网络认证",
+      "german": "Web-Authentifizierung",
+      "english": "Web Authentication",
+      "korean": "웹 인증",
+      "spanish": "Autenticación web",
+      "japanese": "ウェブ認証",
+      "portuguese": "Autenticação Web"
+    },
+    "socialFactor": {
+      "mandarin": "社会因素",
+      "german": "Sozialer Faktor",
+      "english": "Social Factor",
+      "korean": "사회적 요인",
+      "spanish": "Factor social",
+      "japanese": "社会的要因",
+      "portuguese": "Fator Social"
+    },
+    "password": {
+      "spanish": "Password",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "mandarin": "密码",
+      "korean": "암호",
+      "english": "Password",
+      "portuguese": "Senha"
+    },
+    "factor1-social-login": {
+      "spanish": "Factor 1: inicio de sesión social",
+      "german": "Faktor 1: Social-Login",
+      "japanese": "要因 1: ソーシャル ログイン",
+      "mandarin": "因素 1：社交登录",
+      "korean": "요소 1: 소셜 로그인",
+      "english": "Factor 1: Social Login",
+      "portuguese": "Fator 1: Login social"
+    },
+    "backup-phrase-copied": {
+      "spanish": "Frase de respaldo copiada",
+      "german": "Sicherungssatz kopiert",
+      "japanese": "バックアップ フレーズがコピーされました",
+      "mandarin": "备份短语已复制",
+      "korean": "백업 문구 복사됨",
+      "english": "Backup Phrase Copied",
+      "portuguese": "Frase de backup copiada"
+    },
+    "factor2-devices": {
+      "spanish": "Factor 2: Dispositivo(s)",
+      "german": "Faktor 2: Gerät(e)",
+      "japanese": "要因 2: デバイス",
+      "mandarin": "因素 2：设备",
+      "korean": "요소 2: 장치(들)",
+      "english": "Factor 2: Device (s)",
+      "portuguese": "Fator 2: Dispositivo(s)"
+    },
+    "last-accessed-on": {
+      "spanish": "Último acceso el:",
+      "german": "Zuletzt aufgerufen am:",
+      "japanese": "最終アクセス日:",
+      "mandarin": "最后访问时间：",
+      "korean": "마지막으로 액세스한 날짜:",
+      "english": "Last accessed on:",
+      "portuguese": "Último acesso em:"
+    },
+    "copy-backup-phrase": {
+      "spanish": "Copiar frase de respaldo",
+      "german": "Sicherungssatz kopieren",
+      "japanese": "バックアップフレーズをコピー",
+      "mandarin": "复制备份短语",
+      "korean": "백업 문구 복사",
+      "english": "Copy Backup Phrase",
+      "portuguese": "Copiar Frase de Backup"
+    },
+    "other-factor-pwd": {
+      "spanish": "Otros factores: contraseña",
+      "german": "Andere Faktoren: Passwort",
+      "japanese": "その他の要因 : パスワード",
+      "mandarin": "其他因素：密码",
+      "korean": "기타 요소: 비밀번호",
+      "english": "Other Factors : Password",
+      "portuguese": "Outros fatores: senha"
+    },
+    "factor3-social-recovery": {
+      "spanish": "Factor 3: Recuperación Social",
+      "german": "Faktor 3: Soziale Erholung",
+      "japanese": "要因 3: 社会的回復",
+      "mandarin": "因素 3：社会恢复",
+      "korean": "요인 3: 사회적 회복",
+      "english": "Factor 3: Social Recovery",
+      "portuguese": "Fator 3: Recuperação Social"
+    },
+    "phone": {
+      "spanish": "Teléfono",
+      "german": "Telefon",
+      "japanese": "電話",
+      "mandarin": "电话",
+      "korean": "핸드폰",
+      "english": "Phone",
+      "portuguese": "Telefone"
+    },
+    "copy-recovery-phrase": {
+      "spanish": "Copiar frase de recuperación",
+      "german": "Wiederherstellungssatz kopieren",
+      "japanese": "リカバリーフレーズをコピー",
+      "mandarin": "复制助记词",
+      "korean": "복구 문구 복사",
+      "english": "Copy Recovery Phrase",
+      "portuguese": "Copiar frase de recuperação"
+    },
+    "recovery-phrase-copied": {
+      "spanish": "Frase de recuperación copiada",
+      "german": "Wiederherstellungssatz kopiert",
+      "japanese": "回復フレーズがコピーされました",
+      "mandarin": "助记词已复制",
+      "korean": "복구 문구 복사됨",
+      "english": "Recovery Phrase Copied",
+      "portuguese": "Frase de Recuperação Copiada"
     }
   },
   "error-block": {
