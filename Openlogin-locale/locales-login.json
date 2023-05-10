@@ -1827,6 +1827,33 @@
       "japanese": "無効な電話番号",
       "portugese": "Número de telefone inválido"
     },
+    "tooltip-phone-header": {
+      "english": "Phone number and country code",
+      "german": "Telefonnummer und Ländercode",
+      "mandarin": "电话号码和国家代码",
+      "korean": "전화 번호 및 국가 코드",
+      "japanese": "電話番号と国コード",
+      "spanish": "Número de teléfono y código de país",
+      "portuguese": "Número de telefone e código de país"
+    },
+    "tooltip-phone-details": {
+      "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
+      "german": "Ihr Ländercode wird automatisch erkannt. Wenn Sie jedoch eine Telefonnummer aus einem anderen Land verwenden, müssen Sie den richtigen Ländercode manuell eingeben.",
+      "mandarin": "您的国家代码将自动检测到，但是如果您使用来自其他国家 /地区的电话号码，则需要手动输入正确的国家代码。",
+      "korean": "국가 코드는 자동으로 감지되지만 다른 국가의 전화 번호를 사용하는 경우 수동으로 올바른 국가 코드를 입력해야합니다.",
+      "japanese": "カントリーコードは自動的に検出されますが、別の国の電話番号を使用している場合は、正しい国コードを手動で入力する必要があります。",
+      "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente.",
+      "portuguese": "O código do seu país será detectado automaticamente, mas se você estiver usando um número de telefone de um país diferente, precisará inserir o código correto do país manualmente."
+    },
+    "invalid-number-email": {
+      "english": "Invalid Email or Phone Number",
+      "german": "Ungültige E -Mail- oder Telefonnummer",
+      "mandarin": "无效的电子邮件或电话号码",
+      "korean": "잘못된 이메일 또는 전화 번호",
+      "japanese": "無効な電子メールまたは電話番号",
+      "spanish": "Correo electrónico o número de teléfono no válido",
+      "portuguese": "Email inválido ou número de telefone"
+    },
     "returning-exist-use-another": {
       "mandarin": "使用其他帐户",
       "spanish": "Usa otra cuenta",
