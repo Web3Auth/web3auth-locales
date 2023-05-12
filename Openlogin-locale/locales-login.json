@@ -2564,6 +2564,15 @@
       "korean": "페이지를 다시로드하지 마십시오.",
       "german": "Bitte laden Sie die Seite nicht neu.",
       "portuguese": "Por favor, não recarregue a página."
+    },
+    "accountMismatchSocialFactor": {
+      "english": "Account mismatch, please continue with one you set as a social recovery factor",
+      "mandarin": "帐户不匹配，请继续将您设置为社会恢复因素",
+      "spanish": "Desacuadado de la cuenta, continúe con uno que establezca como factor de recuperación social",
+      "german": "Konto -Nichtübereinstimmung, bitte fahren Sie mit einem fort, den Sie als sozialer Wiederherstellungsfaktor festgelegt haben",
+      "japanese": "アカウントの不一致、ソーシャル回復要因として設定したものを続行してください",
+      "korean": "계정 불일치, 소셜 복구 요인으로 설정 한 것을 계속하십시오.",
+      "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de recuperação social"
     }
   }
 }
