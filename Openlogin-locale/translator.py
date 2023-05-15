@@ -12,7 +12,7 @@ I am going to provide you with snippets to which I want you to add dutch transla
 Here's a small example snippet from the file to show what you should do: 
 
 Original:
-    "share-approval-desc1": {
+    {
       "english": "A new login is trying to access your account.",
       "japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
       "german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
@@ -25,7 +25,7 @@ Original:
 
 Should become:
 
-    "share-approval-desc1": {
+    {  
       "english": "A new login is trying to access your account.",
       "japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
       "german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
@@ -39,27 +39,42 @@ Should become:
 Now do this for:
 """
 
-item = """
-"2fa-verify-share-send": {
-      "mandarin": "发送请求",
-      "spanish": "Enviar petición",
-      "english": "Send request",
-      "japanese": "リクエストを送信",
-      "korean": "요청 보내기",
-      "german": "Anfrage senden",
-      "portuguese": "Enviar pedido"
-    },
-"""
 
-content = preprompt + item
+def run_model(prompt):
+    print("Request sent for prompt: " + prompt)
+    print("\n")
 
-print("\n")
-print(content)
-print("\n")
+    # create a chat completion
+    chat_completion = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo", messages=[{"role": "user", "content": prompt}])
 
-# create a chat completion
-chat_completion = openai.ChatCompletion.create(
-    model="gpt-3.5-turbo", messages=[{"role": "user", "content": content}])
+    # print the chat completion
+    retValue = chat_completion.choices[0].message.content
+    print(retValue)
+    return retValue
 
-# print the chat completion
-print(chat_completion.choices[0].message.content)
+
+def transformCollection(items):
+    for key, value in items.items():
+        result = run_model(preprompt+json.dumps(value))
+        items[key] = json.loads(result)
+        # values = item.items()
+        # print(values)
+    print("-------------\n")
+    return items
+
+
+def openCollection(path):
+    with open(path) as json_file:
+        data = json.load(json_file)
+        return data
+
+
+def saveCollection(path, items):
+    with open(path, 'w') as outfile:
+        json.dump(items, outfile, ensure_ascii=False)
+
+
+collection = openCollection('./Openlogin-locale/locales-nav.json')
+collection["nav"] = transformCollection(collection["nav"])
+saveCollection('./Openlogin-locale/locales-nav.new.json', collection)
