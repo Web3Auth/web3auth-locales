@@ -7,7 +7,8 @@
       "english": "Authorized Apps",
       "german": "Autorisierte Apps",
       "korean": "승인 된 앱",
-      "portuguese": "Aplicativos autorizados"
+      "portuguese": "Aplicativos autorizados",
+      "dutch": "Geautoriseerde apps"
     },
     "link-home": {
       "mandarin": "主页",
@@ -16,7 +17,8 @@
       "english": "Home",
       "german": "Startseite",
       "korean": "홈페이지",
-      "portuguese": "Início"
+      "portuguese": "Início",
+      "dutch": "Startpagina"
     },
     "link-support": {
       "mandarin": "支持",
@@ -25,7 +27,8 @@
       "english": "Support",
       "german": "Unterstützung",
       "korean": "지원하다",
-      "portuguese": "Suporte"
+      "portuguese": "Suporte",
+      "dutch": "Ondersteuning"
     },
     "link-account": {
       "mandarin": "帐户",
@@ -34,7 +37,8 @@
       "english": "Account",
       "german": "Konto",
       "korean": "계정",
-      "portuguese": "Conta"
+      "portuguese": "Conta",
+      "dutch": "Account"
     },
     "link-logout": {
       "mandarin": "登出",
@@ -43,7 +47,8 @@
       "english": "Logout",
       "german": "Ausloggen",
       "korean": "로그 아웃",
-      "portuguese": "Sair"
+      "portuguese": "Sair",
+      "dutch": "Uitloggen"
     },
     "list-bottom": {
       "mandarin": "主导航底部",
@@ -52,7 +57,8 @@
       "english": "Main Navigation bottom",
       "german": "Hauptnavigation unten",
       "korean": "메인 탐색 바닥",
-      "portuguese": "Principal de navegação principal"
+      "portuguese": "Principal de navegação principal",
+      "dutch": "Hoofdnavigatie onderaan"
     },
     "toggle-btn": {
       "mandarin": "导航栏切换",
@@ -61,7 +67,8 @@
       "english": "Navigation Bar toggle",
       "german": "Navigationsstabschaltung",
       "korean": "내비게이션 바 전환",
-      "portuguese": "Navigação Bargle de barra"
+      "portuguese": "Navigação Bargle de barra",
+      "dutch": "Navigatiebalk schakelen"
     },
     "drawer": {
       "mandarin": "主要导航",
@@ -70,7 +77,8 @@
       "english": "Main Navigation",
       "german": "Hauptnavigation",
       "korean": "메인 탐색",
-      "portuguese": "Navegação Principal"
+      "portuguese": "Navegação Principal",
+      "dutch": "Hoofdnavigatie"
     },
     "logo": {
       "mandarin": "标识",
@@ -79,7 +87,8 @@
       "english": "logo",
       "german": "Logo",
       "korean": "심벌 마크",
-      "portuguese": "logotipo"
+      "portuguese": "logotipo",
+      "dutch": "Logo"
     },
     "close-btn": {
       "mandarin": "关闭",
@@ -88,7 +97,8 @@
       "english": "close",
       "german": "schließen",
       "korean": "닫다",
-      "portuguese": "fechar"
+      "portuguese": "fechar",
+      "dutch": "sluiten"
     },
     "user-info": {
       "mandarin": "用户信息",
@@ -97,7 +107,8 @@
       "english": "User information",
       "german": "Nutzerinformation",
       "korean": "사용자 정보",
-      "portuguese": "Informação do usuário"
+      "portuguese": "Informação do usuário",
+      "dutch": "Gebruikersinformatie"
     },
     "lang-select": {
       "mandarin": "语言选择器",
@@ -106,7 +117,8 @@
       "english": "language selector",
       "german": "Sprachauswahl",
       "korean": "언어 선택기",
-      "portuguese": "Seletor de idiomas"
+      "portuguese": "Seletor de idiomas",
+      "dutch": "Taalkeuze"
     }
   }
 }
