@@ -9,6 +9,13 @@ import pandas as pd
 # list models
 # models = openai.Model.list()
 
+fileKey = 'login'
+workingDir = './Openlogin-locale/'
+fileToTranslate = f'locales-{fileKey}.json'
+outputFile = f'locales-{fileKey}.new.json'
+max_tokens_per_minute = 90000
+
+
 preprompt = """
 I am going to provide you with json snippets to which I want you to add dutch translations for me. 
 Be consistent with the ordering, keep it as it is provided.
@@ -100,7 +107,8 @@ def batchProcess(collection):
     writeBatch(collection, './batch.jsonl')
     # clear file as it is otherwise appended to
     open('results.jsonl', 'w').close()
-    # os.system(f"python3 ./api_request_parallel_processor.py --requests_filepath=./batch.jsonl --save_filepath=./results.jsonl --request_url=https://api.openai.com/v1/chat/completions")
+    os.system(
+        f"python3 ./api_request_parallel_processor.py --requests_filepath=./batch.jsonl --save_filepath=./results.jsonl --request_url=https://api.openai.com/v1/chat/completions --max_tokens_per_minute={max_tokens_per_minute}")
 
 
 def add_results_to_collection(collection, resultsPath):
@@ -126,16 +134,11 @@ def add_results_to_collection(collection, resultsPath):
         return collection
 
 
-workingDir = './Openlogin-locale/'
-fileToTranslate = 'locales-webauthn.json'
-outputFile = 'locales-webauthn.new.json'
-fileKey = 'webauthn'
-
 collection = openJson(workingDir + fileToTranslate)
-# batchProcess(collection[fileKey])
+batchProcess(collection[fileKey])
 print("Done sending requests.")
 print("Now processing results...")
 
 collection = add_results_to_collection(
     collection,  "results.jsonl")
-# saveJson(workingDir + outputFile, collection)
+saveJson(workingDir + outputFile, collection)
