@@ -9,8 +9,8 @@ import pandas as pd
 # list models
 # models = openai.Model.list()
 
-jsonKey = 'account'
-fileKey = 'wallet-account'
+jsonKey = 'home'
+fileKey = 'wallet-home'
 workingDir = './Openlogin-locale/'
 fileToTranslate = f'locales-{fileKey}.json'
 outputFile = f'locales-{fileKey}.new.json'

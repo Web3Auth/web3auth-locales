@@ -7,7 +7,8 @@
       "german": "Aktuelles Gerät",
       "japanese": "現在のデバイス",
       "korean": "현재 기기",
-      "portuguese": "Dispositivo atual"
+      "portuguese": "Dispositivo atual",
+      "dutch": "Huidig apparaat"
     },
     "export-private-key": {
       "mandarin": "私钥",
@@ -16,7 +17,8 @@
       "german": "Privat Schlüssel",
       "japanese": "秘密鍵",
       "korean": "개인 키",
-      "portuguese": "Chave privada"
+      "portuguese": "Chave privada",
+      "dutch": "Privésleutel"
     },
     "apps-title": {
       "mandarin": "授权申请",
@@ -25,7 +27,8 @@
       "german": "Autorisierte Anträge",
       "japanese": "許可されたアプリケーション",
       "korean": "승인 된 애플리케이션",
-      "portuguese": "Aplicativos autorizados"
+      "portuguese": "Aplicativos autorizados",
+      "dutch": "Geautoriseerde applicaties"
     },
     "apps-subtitle": {
       "mandarin": "应用清单",
@@ -34,7 +37,8 @@
       "german": "Liste der Apps",
       "japanese": "アプリのリスト",
       "korean": "앱 목록",
-      "portuguese": "Lista de aplicativos"
+      "portuguese": "Lista de aplicativos",
+      "dutch": "Lijst met apps"
     },
     "title": {
       "mandarin": "授权应用",
@@ -43,7 +47,8 @@
       "german": "Autorisierte Apps",
       "japanese": "認定アプリ",
       "korean": "승인 된 앱",
-      "portuguese": "Apps autorizados"
+      "portuguese": "Apps autorizados",
+      "dutch": "Geautoriseerde apps"
     },
     "desc": {
       "mandarin": "在这里管理您的授权应用程序",
@@ -52,7 +57,8 @@
       "german": "Verwalten Sie hier Ihre autorisierten Anwendungen",
       "japanese": "ここで承認されたアプリケーションを管理します",
       "korean": "여기에서 승인 된 애플리케이션 관리",
-      "portuguese": "Gerencie seus aplicativos autorizados aqui"
+      "portuguese": "Gerencie seus aplicativos autorizados aqui",
+      "dutch": "Beheer hier uw geautoriseerde applicaties"
     },
     "apps-empty": {
       "mandarin": "您尚未连接到任何应用程序。",
@@ -61,7 +67,8 @@
       "german": "Sie sind noch nicht mit Anwendungen verbunden.",
       "japanese": "まだどのアプリケーションにも接続していません。",
       "korean": "아직 애플리케이션에 연결되어 있지 않습니다.",
-      "portuguese": "Você ainda não está conectado a nenhum aplicativo."
+      "portuguese": "Você ainda não está conectado a nenhum aplicativo.",
+      "dutch": "Je bent nog niet verbonden met enige applicaties."
     },
     "devices": {
       "mandarin": "设备",
@@ -70,7 +77,8 @@
       "german": "Geräte",
       "japanese": "デバイス",
       "korean": "장치",
-      "portuguese": "Dispositivos"
+      "portuguese": "Dispositivos",
+      "dutch": "Apparaat/Apparaten"
     },
     "last-access": {
       "mandarin": "最后访问",
@@ -79,7 +87,8 @@
       "german": "Zuletzt aufgerufen",
       "japanese": "最後にアクセスしました",
       "korean": "마지막으로 접근했습니다",
-      "portuguese": "Último acesso em"
+      "portuguese": "Último acesso em",
+      "dutch": "Laatst bezocht op"
     },
     "download-key": {
       "mandarin": "下载密钥",
@@ -88,7 +97,8 @@
       "german": "Download Key",
       "japanese": "キーをダウンロードします",
       "korean": "키를 다운로드하십시오",
-      "portuguese": "Chave de download"
+      "portuguese": "Chave de download",
+      "dutch": "Download sleutel"
     },
     "revoke": {
       "mandarin": "撤销",
@@ -97,7 +107,8 @@
       "german": "Widerrufen",
       "japanese": "取り消す",
       "korean": "취소",
-      "portuguese": "Revogar"
+      "portuguese": "Revogar",
+      "dutch": "Intrekken"
     },
     "see-all": {
       "mandarin": "查看全部",
@@ -106,7 +117,8 @@
       "german": "Alles sehen",
       "japanese": "すべてを見る",
       "korean": "모두보기",
-      "portuguese": "Veja tudo"
+      "portuguese": "Veja tudo",
+      "dutch": "Bekijk alles"
     },
     "see-less": {
       "mandarin": "少看",
@@ -115,7 +127,8 @@
       "german": "Siehe Weniger",
       "japanese": "詳細を隠す",
       "korean": "간단히 보기",
-      "portuguese": "ver menos"
+      "portuguese": "ver menos",
+      "dutch": "Minder bekijken"
     }
   }
 }
