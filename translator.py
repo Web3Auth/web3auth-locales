@@ -9,7 +9,8 @@ import pandas as pd
 # list models
 # models = openai.Model.list()
 
-fileKey = 'passwordless'
+jsonKey = 'account'
+fileKey = 'wallet-account'
 workingDir = './Openlogin-locale/'
 fileToTranslate = f'locales-{fileKey}.json'
 outputFile = f'locales-{fileKey}.new.json'
@@ -125,9 +126,9 @@ def add_results_to_collection(collection, resultsPath):
                 # print(type(loaded))
                 if (isinstance(loaded, dict)):
                     for key, value in loaded.items():
-                        collection[fileKey][key] = value
+                        collection[jsonKey][key] = value
                 else:
-                    collection[fileKey][loaded[0]] = loaded[1]
+                    collection[jsonKey][loaded[0]] = loaded[1]
             except:
                 print("Errored")
                 print("Error parsing result: " + result)
@@ -136,7 +137,7 @@ def add_results_to_collection(collection, resultsPath):
 
 
 collection = openJson(workingDir + fileToTranslate)
-batchProcess(collection[fileKey])
+batchProcess(collection[jsonKey])
 print("Done sending requests.")
 print("Now processing results...")
 
