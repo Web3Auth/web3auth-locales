@@ -9,7 +9,7 @@ import pandas as pd
 # list models
 # models = openai.Model.list()
 
-fileKey = 'login'
+fileKey = 'passwordless'
 workingDir = './Openlogin-locale/'
 fileToTranslate = f'locales-{fileKey}.json'
 outputFile = f'locales-{fileKey}.new.json'
@@ -21,7 +21,7 @@ I am going to provide you with json snippets to which I want you to add dutch tr
 Be consistent with the ordering, keep it as it is provided.
 Do not add in [ or ], and be sure to escape " with \"
 Make sure it complies with RFC 8259
-No more than 
+Return no more than 1 collection
 Here's a small example snippet from the file thats show what you should do: 
 
 Original:
