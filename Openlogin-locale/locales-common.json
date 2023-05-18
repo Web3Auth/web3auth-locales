@@ -593,6 +593,33 @@
       "korean": "복구 문구 복사됨",
       "english": "Recovery Phrase Copied",
       "portuguese": "Frase de Recuperação Copiada"
+    },
+    "device": {
+      "english": "Device",
+      "mandarin": "设备",
+      "spanish": "Dispositivo",
+      "german": "Gerät",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "portuguese": "Dispositivo"
+    },
+    "recoveryFactor": {
+      "english": "Recovery Factor",
+      "mandarin": "恢复因子",
+      "spanish": "Factor de recuperación",
+      "german": "Erholungsfaktor",
+      "japanese": "回復係数",
+      "korean": "복구 계수",
+      "portuguese": "Fator de recuperação"
+    },
+    "social": {
+      "english": "Social",
+      "mandarin": "社会的",
+      "spanish": "Social",
+      "german": "Sozial",
+      "japanese": "社交",
+      "korean": "사회의",
+      "portuguese": "Social"
     }
   },
   "error-block": {
