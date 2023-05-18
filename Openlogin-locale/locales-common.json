@@ -73,13 +73,13 @@
       "portuguese": "E-mail inválido"
     },
     "errors-same-email-verifier": {
-      "english": "Email cannot be the same as the verifier id",
-      "mandarin": "电子邮件不能与验证者ID相同",
-      "spanish": "El correo electrónico no puede ser el mismo que el ID del verificador",
-      "german": "E -Mail kann nicht mit der Verifier -ID übereinstimmen",
-      "japanese": "電子メールはVerifier IDと同じではありません",
-      "korean": "이메일은 검증 자 ID와 동일 할 수 없습니다",
-      "portuguese": "O email não pode ser o mesmo que o ID do verificador"
+      "english": "Email cannot be the same as the social login id",
+      "mandarin": "电子邮件不能与社交登录ID相同",
+      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social",
+      "german": "E -Mail kann nicht mit der sozialen Anmelde -ID übereinstimmen",
+      "japanese": "電子メールはソーシャルログインIDと同じではありません",
+      "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
+      "portuguese": "O email não pode ser o mesmo que o ID de login social"
     },
     "errors-required": {
       "mandarin": "必需的",
