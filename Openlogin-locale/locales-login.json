@@ -2458,13 +2458,22 @@
       "portuguese": "Telefone ou email"
     },
     "verify-with-recovery-factor-desc": {
-      "mandarin": "验证发送给您的恢复因子以继续",
-      "german": "Bestätigen Sie mit Ihrem Wiederherstellungsfaktor, der an gesendet wurde, um fortzufahren",
-      "english": "Verify with your recovery factor sent to to continue",
-      "korean": "계속하려면 로 전송된 복구 팩터를 확인하세요.",
-      "spanish": "Verifica con tu factor de recuperación enviado a para continuar",
-      "japanese": "続行するには、に送信された回復要素で確認してください",
+      "english": "Verify with your recovery factor sent to continue",
+      "mandarin": "验证您发送的恢复因素继续",
+      "spanish": "Verifique con su factor de recuperación enviado para continuar",
+      "german": "Überprüfen Sie mit Ihrem Wiederherstellungsfaktor, um fortzufahren",
+      "japanese": "継続するために送信される回復係数を確認します",
+      "korean": "회복 요소가 계속되도록 확인하십시오",
       "portuguese": "Verifique com seu fator de recuperação enviado para continuar"
+    },
+    "verify-with-password-factor-desc": {
+      "english": "Verify with your password to continue",
+      "mandarin": "验证密码继续",
+      "spanish": "Verifique con su contraseña para continuar",
+      "german": "Überprüfen Sie mit Ihrem Passwort, um fortzufahren",
+      "japanese": "パスワードで確認してください",
+      "korean": "계속하려면 비밀번호로 확인하십시오",
+      "portuguese": "Verifique com sua senha para continuar"
     },
     "password-verification": {
       "mandarin": "密码验证",
