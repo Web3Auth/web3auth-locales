@@ -2278,13 +2278,13 @@
       "portuguese": "Verificação do Fator de Recuperação"
     },
     "2fa-recovery-cpy-subDesc": {
-      "english": "Enter Recovery Fhrase sent to {email}",
-      "mandarin": "输入发送到{email}的恢复FHRASE",
-      "spanish": "Ingrese la recuperación fhrase enviada a {email}",
-      "german": "Geben Sie die an {email} gesendete Wiederherstellung ein",
-      "japanese": "{email}に送信されるrecovery fhraseを入力します",
-      "korean": "복구 입력 fhrase가 {email}으로 전송됩니다.",
-      "portuguese": "Digite a recuperação fhrase enviada para {email}"
+      "english": "Enter Recovery Phrase sent to {email}",
+      "mandarin": "输入发送到{email}的恢复短语",
+      "spanish": "Ingrese la frase de recuperación enviada a {email}",
+      "german": "Geben Sie die an {eamil} gesendete Wiederherstellungsausstellung ein",
+      "japanese": "{email}に送信されたリカバリフレーズを入力します",
+      "korean": "{email}으로 전송 된 복구 구절을 입력하십시오.",
+      "portuguese": "Digite a frase de recuperação enviada para {email}"
     },
     "2fa-recovery-cpy-textArea": {
       "mandarin": "粘贴你的恢复因子",
