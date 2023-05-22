@@ -2278,13 +2278,13 @@
       "portuguese": "Verificação do Fator de Recuperação"
     },
     "2fa-recovery-cpy-subDesc": {
-      "mandarin": "输入发送到 {email} 的恢复短语",
-      "spanish": "Ingrese la frase de recuperación enviada a {email}",
       "english": "Enter Recovery Fhrase sent to {email}",
-      "japanese": "{email} に送信されたリカバリ フレーズを入力してください",
-      "korean": "{email}로 전송된 복구 문구 입력",
-      "german": "Geben Sie die Wiederherstellungsphrase ein, die an {email} gesendet wurde",
-      "portuguese": "Insira a frase de recuperação enviada para {email}"
+      "mandarin": "输入发送到{email}的恢复FHRASE",
+      "spanish": "Ingrese la recuperación fhrase enviada a {email}",
+      "german": "Geben Sie die an {email} gesendete Wiederherstellung ein",
+      "japanese": "{email}に送信されるrecovery fhraseを入力します",
+      "korean": "복구 입력 fhrase가 {email}으로 전송됩니다.",
+      "portuguese": "Digite a recuperação fhrase enviada para {email}"
     },
     "2fa-recovery-cpy-textArea": {
       "mandarin": "粘贴你的恢复因子",
@@ -2467,13 +2467,13 @@
       "portuguese": "Verifique com seu fator de recuperação enviado para continuar"
     },
     "verify-with-password-factor-desc": {
-      "english": "Verify with your password to continue",
-      "mandarin": "验证密码继续",
-      "spanish": "Verifique con su contraseña para continuar",
-      "german": "Überprüfen Sie mit Ihrem Passwort, um fortzufahren",
-      "japanese": "パスワードで確認してください",
-      "korean": "계속하려면 비밀번호로 확인하십시오",
-      "portuguese": "Verifique com sua senha para continuar"
+      "english": "Verify with one more factor to continue",
+      "mandarin": "验证另一个因素继续",
+      "spanish": "Verifique con un factor más para continuar",
+      "german": "Überprüfen Sie mit einem weiteren Faktor, um fortzufahren",
+      "japanese": "もう1つの要因を確認してください",
+      "korean": "계속할 요소가 하나 더 확인하십시오",
+      "portuguese": "Verifique com mais um fator para continuar"
     },
     "password-verification": {
       "mandarin": "密码验证",
@@ -2582,6 +2582,15 @@
       "japanese": "アカウントの不一致、ソーシャル回復要因として設定したものを続行してください",
       "korean": "계정 불일치, 소셜 복구 요인으로 설정 한 것을 계속하십시오.",
       "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de recuperação social"
+    },
+    "pasteRecoveryFactor": {
+      "english": "Please paste your recovery factor",
+      "mandarin": "请粘贴您的恢复因素",
+      "spanish": "Pegue su factor de recuperación",
+      "german": "Bitte fügen Sie Ihren Wiederherstellungsfaktor ein",
+      "japanese": "回復係数を貼り付けてください",
+      "korean": "복구 계수를 붙여 넣으십시오",
+      "portuguese": "Cole o seu fator de recuperação"
     }
   }
 }
