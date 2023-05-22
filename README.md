@@ -1,4 +1,4 @@
-# Web3Auth Localization (w3a-l10n)
+# Web3Auth Localization (w3a-i18n)
 
 Web3Auth Localization repository containing words/sentences used in the
 Web3Auth's Product Modal Screen.
@@ -9,12 +9,12 @@ Please make a
 [Pull Request to this repo](https://github.com/Web3Auth/web3auth-locales/pulls)
 with your translated/localized strings.
 
-| Contribute                                | See Implementation                                                                   | Languages Supported | 
-| ----------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- |
-| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`|
-| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`|
-| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`|
-| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`|
+| Contribute                                | See Implementation                                                                   | Languages Supported                      |
+| ----------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr` |
+| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr` |
+| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`       |
+| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`       |
 
 ## Requesting new language support?
 
