@@ -2279,11 +2279,11 @@
     },
     "2fa-recovery-cpy-subDesc": {
       "english": "Enter Recovery Phrase sent to {email}",
-      "mandarin": "输入发送到{email}的恢复短语",
+      "mandarin": "输入发送到 {email} 的恢复短语",
       "spanish": "Ingrese la frase de recuperación enviada a {email}",
       "german": "Geben Sie die an {eamil} gesendete Wiederherstellungsausstellung ein",
-      "japanese": "{email}に送信されたリカバリフレーズを入力します",
-      "korean": "{email}으로 전송 된 복구 구절을 입력하십시오.",
+      "japanese": "{email} に送信されたリカバリフレーズを入力します",
+      "korean": "{email} 으로 전송 된 복구 구절을 입력하십시오.",
       "portuguese": "Digite a frase de recuperação enviada para {email}"
     },
     "2fa-recovery-cpy-textArea": {
