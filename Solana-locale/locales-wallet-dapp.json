@@ -554,7 +554,7 @@
 		"selfCustodial": {
 			"mandarin": "自托管登录由",
 			"spanish": "Inicio de sesión con autocustodia por",
-			"japanese": "による自己管理ログイン",
+			"japanese": "自己管理ログイン by",
 			"korean": "자가 관리 로그인",
 			"german": "Selbstverwahrungs-Login durch",
 			"english": "Self-custodial login by"

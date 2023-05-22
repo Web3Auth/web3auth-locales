@@ -80,6 +80,15 @@
       "portuguese": "E-mail inválido",
       "dutch": "Ongeldig e-mailadres"
     },
+    "errors-same-email-verifier": {
+      "english": "Email cannot be the same as the social login id",
+      "mandarin": "电子邮件不能与社交登录ID相同",
+      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social",
+      "german": "E -Mail kann nicht mit der sozialen Anmelde -ID übereinstimmen",
+      "japanese": "電子メールはソーシャルログインIDと同じではありません",
+      "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
+      "portuguese": "O email não pode ser o mesmo que o ID de login social"
+    },
     "errors-required": {
       "mandarin": "必需的",
       "german": "Erforderlich",
@@ -386,7 +395,7 @@
       "english": "Self-custodial login by",
       "korean": "자가 관리 로그인",
       "spanish": "Inicio de sesión con autocustodia por",
-      "japanese": "による自己管理ログイン",
+      "japanese": "自己管理ログイン by",
       "portuguese": "Login autocustodial por",
       "dutch": "Zelfbewarend inloggen door"
     },
@@ -649,6 +658,36 @@
       "english": "Recovery Phrase Copied",
       "portuguese": "Frase de Recuperação Copiada",
       "dutch": "Herstelzin gekopieerd"
+    },
+    "device": {
+      "english": "Device",
+      "mandarin": "设备",
+      "spanish": "Dispositivo",
+      "german": "Gerät",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "portuguese": "Dispositivo",
+      "dutch": "Apparaat"
+    },
+    "recoveryFactor": {
+      "english": "Recovery Factor",
+      "mandarin": "恢复因子",
+      "spanish": "Factor de recuperación",
+      "german": "Erholungsfaktor",
+      "japanese": "回復係数",
+      "korean": "복구 계수",
+      "portuguese": "Fator de recuperação",
+      "dutch": "Herstelfactor"
+    },
+    "social": {
+      "english": "Social",
+      "mandarin": "社会的",
+      "spanish": "Social",
+      "german": "Sozial",
+      "japanese": "社交",
+      "korean": "사회의",
+      "portuguese": "Social",
+      "dutch": "Sociaal"
     }
   },
   "error-block": {
