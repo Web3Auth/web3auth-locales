@@ -65,12 +65,12 @@
             "korean": "{0}를 보냈습니다"
         },
         "receivedToken": {
-            "english": "Received XRP",
-            "mandarin": "收到XRP",
-            "spanish": "Recibido XRP",
-            "german": "XRP erhalten",
-            "japanese": "XRPを受け取りました",
-            "korean": "XRP를 받았습니다"
+            "english": "Received {0}",
+            "mandarin": "收到{0}",
+            "spanish": "Recibido {0}",
+            "german": "{0} erhalten",
+            "japanese": "{0}を受け取りました",
+            "korean": "{0}를 받았습니다"
         },
         "createdTrustLine": {
             "english": "Created Trust Line",
