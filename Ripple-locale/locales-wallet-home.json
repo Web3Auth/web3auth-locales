@@ -145,6 +145,22 @@
             "german": "Brieftaschenadresse teilen",
             "japanese": "ウォレットアドレスを共有します",
             "korean": "지갑 주소를 공유하십시오"
+        },
+        "confirmRemoveTokenTitle": {
+            "english": "Confirm Token Removal",
+            "mandarin": "确认删除Token",
+            "spanish": "Confirmar la eliminación del token",
+            "german": "Entfernung des Token bestätigen",
+            "japanese": "Token の削除を確認する",
+            "korean": "Token 제거 확인"
+        },
+        "confirmRemoveTokenDescription": {
+            "english": "Are you sure to remove this token from your XRP Ledger account?",
+            "mandarin": "你确定要从你的 XRP Ledger 账户中删除这个 Token 吗？",
+            "spanish": "¿Estás seguro de eliminar este Token de tu cuenta de XRP Ledger?",
+            "german": "Sind Sie sicher, dass Sie dieses Token von Ihrem XRP Ledger-Konto entfernen möchten?",
+            "japanese": "この Token をあなたの XRP Ledger アカウントから削除してもよろしいですか？",
+            "korean": "Token을 귀하의 XRP Ledger 계정에서 삭제하시겠습니까?"
         }
     },
     "trustLine": {
