@@ -267,6 +267,14 @@
       "german": "Trust line ermöglicht eine sichere und zuverlässige Verbindung und fördert Vertrauen und Glaubwürdigkeit innerhalb eines Netzwerks.",
       "japanese": "Trust lineは、安全で信頼できる接続を可能にし、ネットワーク内の信頼と信頼性を促進します。",
       "korean": "Trust line은 안전하고 신뢰할 수있는 연결을 가능하게하고 네트워크 내에서 신뢰와 신뢰성을 촉진합니다."
+    },
+    "insufficientReserve": {
+      "english": "You will need a reserve of at least {0} XRP.",
+      "mandarin": "你将需要至少{0}个XRP的储备。",
+      "spanish": "Necesitarás una reserva de al menos {0} XRP",
+      "german": "Sie benötigen eine Reserve von mindestens {0} XRP",
+      "japanese": "最低でも{0}XRPのリザーブが必要です",
+      "korean": "최소 {0}XRP의 예치금이 필요합니다."
     }
   },
   "topup": {
