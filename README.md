@@ -1,26 +1,59 @@
-# Web3Auth Localization (w3a-l10n)
+# Web3Auth Localization (w3a-L10n)
 
-Web3Auth Localization repository containing words/sentences used in the
-Web3Auth's Product Modal Screen.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-## Wish to add your locale?
+Welcome to the Web3Auth L10n, an open-source localization project! This project aims to provide translations of Web3Auth into multiple languages, making it accessible to a wider global audience.
 
-Please make a
-[Pull Request to this repo](https://github.com/Web3Auth/web3auth-locales/pulls)
-with your translated/localized strings.
+| Contribute                                | See Implementation                                                                   | Languages Supported                            |
+| ----------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt` |
+| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt` |
+| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Ripple Wallet Screens](./Ripple-locale/) | [Ripple Wallet Screens](#)     | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Casper Wallet Screens](./Casper-locale/) | [Casper Wallet Screens](https://casper.tor.us/)                                      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+## Features
 
-| Contribute                                | See Implementation                                                                   | Languages Supported | 
-| ----------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- |
-| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`|
-| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`|
-| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`|
-| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`|
+- Localized versions of Web3Auth in multiple languages.
+- Easy contribution process for translators.
+- Clear guidelines for maintaining translation consistency.
+## Getting Started
 
-## Requesting new language support?
+To get started with contributing translations, please refer to the [Contribution Guidelines](CONTRIBUTING.md).
 
-Please
-[create a Github Discussion as Feature Request](https://github.com/orgs/Web3Auth/discussions/new)
-requesting your language to be added here.
+## Available Languages
+
+- English (en)
+- French (fr)
+- German (de)
+- Japanese (ja)
+- Korean (ko)
+- Mandarin (zh)
+- Portuguese (pt)
+- Spanish (es)
+- and counting...
+
+## Contributing
+
+We welcome and appreciate contributions from the community. If you would like to contribute to the localization efforts, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+## Code of Conduct
+
+We have adopted a Code of Conduct to ensure a respectful and inclusive environment for all contributors. Please review and adhere to it: [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions, suggestions, or feedback, please feel free to contact us at [hello@web3auth.io](mailto:hello@web3auth.io).
+
+
+
+
+
 
 # Web3Auth Modal Screens
 

@@ -1,100 +1,100 @@
 {
   "login": {
-    "title": {
-      "english": "Your blockchain wallet in one click",
-      "german": "Ihre Blockchain -Brieftasche in einem Klick",
-      "mandarin": "您的区块链钱包一键",
-      "korean": "한 번의 클릭으로 블록 체인 지갑",
-      "japanese": "ワンクリックでブロックチェーンウォレット",
-      "spanish": "Su billetera blockchain en un solo clic"
-    },
-    "loader": {
-      "korean": "이 탭을 닫지 마십시오! 로그인을 완료하면 이 탭으로 다시 리디렉션됩니다.",
-      "german": "Diese Registerkarte nicht schließen! Nach Abschluss der Anmeldung werden Sie zu dieser Registerkarte zurückgeleitet.",
-      "english": "Don't close this tab! You will be redirected back to this tab on completing login.",
-      "mandarin": "不要关闭此选项卡！完成登录后，您将被重定向回此选项卡。",
-      "japanese": "このタブを閉じないでください！。ログインが完了すると、このタブにリダイレクトされます",
-      "spanish": "¡No cierres esta pestaña! Se le redirigirá a esta pestaña al completar el inicio de sesión."
+    "contactUs": {
+      "english": "Contact us",
+      "german": "Kontaktiere uns",
+      "japanese": "お問い合わせ",
+      "korean": "문의하기",
+      "mandarin": "联系我们",
+      "spanish": "Contáctenos"
     },
     "footerMessage": {
       "english": "Self-custodial login by Web3Auth",
       "german": "Self-custodial Login durch Web3Auth",
-      "mandarin": "Web3Auth 的自我托管登录",
-      "korean": "Web3Auth를 통한 자가 관리 로그인",
       "japanese": "Web3Authによる自己管理ログイン",
+      "korean": "Web3Auth를 통한 자가 관리 로그인",
+      "mandarin": "Web3Auth 的自我托管登录",
       "spanish": "Inicio de sesión con autocustodia por Web3Auth"
     },
-    "termsConditions": {
-      "japanese": "利用規約",
-      "korean": "서비스 약관",
-      "spanish": "Términos de servicio",
-      "german": "Nutzungsbedingungen",
-      "mandarin": "服务条款",
-      "english": "Terms of Service"
+    "loader": {
+      "english": "Don't close this tab! You will be redirected back to this tab on completing login.",
+      "german": "Diese Registerkarte nicht schließen! Nach Abschluss der Anmeldung werden Sie zu dieser Registerkarte zurückgeleitet.",
+      "japanese": "このタブを閉じないでください！。ログインが完了すると、このタブにリダイレクトされます",
+      "korean": "이 탭을 닫지 마십시오! 로그인을 완료하면 이 탭으로 다시 리디렉션됩니다.",
+      "mandarin": "不要关闭此选项卡！完成登录后，您将被重定向回此选项卡。",
+      "spanish": "¡No cierres esta pestaña! Se le redirigirá a esta pestaña al completar el inicio de sesión."
+    },
+    "loginError": {
+      "english": "Something went wrong. Please reload and try again",
+      "german": "Etwas ist schief gelaufen. Bitte neu laden und erneut versuchen",
+      "japanese": "問題が発生しました。再読み込みしてもう一度お試しください",
+      "korean": "문제가 발생했습니다. 다시로드하고 다시 시도하십시오",
+      "mandarin": "出问题了。请重新加载，然后重试",
+      "spanish": "Ha ocurrido un error. Por favor refresca y trata de nuevo"
     },
     "privacyPolicy": {
+      "english": "Privacy Policy",
+      "german": "Datenschutz-Bestimmungen",
       "japanese": "個人情報保護方針",
       "korean": "개인 정보 정책",
-      "spanish": "Política de privacidad",
-      "german": "Datenschutz-Bestimmungen",
       "mandarin": "隐私政策",
-      "english": "Privacy Policy"
-    },
-    "contactUs": {
-      "japanese": "お問い合わせ",
-      "korean": "문의하기",
-      "spanish": "Contáctenos",
-      "german": "Kontaktiere uns",
-      "mandarin": "联系我们",
-      "english": "Contact us"
-    },
-    "verifierGoogleDesc": {
-      "mandarin": "继续使用Google",
-      "spanish": "Continuar con Google",
-      "english": "Continue with Google",
-      "japanese": "Googleで続行",
-      "korean": "Google로 계속",
-      "german": "Fahren Sie mit Google fort"
-    },
-    "verifierEmailDesc": {
-      "mandarin": "继续发送电子邮件",
-      "spanish": "Continuar con el correo electrónico",
-      "english": "Continue with Email",
-      "japanese": "メールを続ける",
-      "korean": "이메일로 계속",
-      "german": "Fahren Sie mit E-Mail fort"
-    },
-    "viewLess": {
-      "japanese": "少ないオプションを表示",
-      "korean": "옵션 간략히보기",
-      "spanish": "Ver menos opciones",
-      "german": "Weniger Optionen anzeigen",
-      "mandarin": "查看较少的选项",
-      "english": "View less options"
-    },
-    "viewMore": {
-      "japanese": "その他のオプションを表示",
-      "korean": "더 많은 옵션보기",
-      "spanish": "Ver más opciones",
-      "german": "Weitere Optionen anzeigen",
-      "mandarin": "查看更多选项",
-      "english": "View more options"
+      "spanish": "Política de privacidad"
     },
     "socialPolicy": {
       "english": "We do not store any data related to your social logins.",
       "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
-      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
-      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
       "japanese": "ソーシャル ログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
     },
-    "loginError": {
-      "english": "Something went wrong. Please reload and try again",
-      "spanish": "Ha ocurrido un error. Por favor refresca y trata de nuevo",
-      "korean": "문제가 발생했습니다. 다시로드하고 다시 시도하십시오",
-      "german": "Etwas ist schief gelaufen. Bitte neu laden und erneut versuchen",
-      "japanese": "問題が発生しました。再読み込みしてもう一度お試しください",
-      "mandarin": "出问题了。请重新加载，然后重试"
+    "termsConditions": {
+      "english": "Terms of Service",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "서비스 약관",
+      "mandarin": "服务条款",
+      "spanish": "Términos de servicio"
+    },
+    "title": {
+      "english": "Your blockchain wallet in one click",
+      "german": "Ihre Blockchain -Brieftasche in einem Klick",
+      "japanese": "ワンクリックでブロックチェーンウォレット",
+      "korean": "한 번의 클릭으로 블록 체인 지갑",
+      "mandarin": "您的区块链钱包一键",
+      "spanish": "Su billetera blockchain en un solo clic"
+    },
+    "verifierEmailDesc": {
+      "english": "Continue with Email",
+      "german": "Fahren Sie mit E-Mail fort",
+      "japanese": "メールを続ける",
+      "korean": "이메일로 계속",
+      "mandarin": "继续发送电子邮件",
+      "spanish": "Continuar con el correo electrónico"
+    },
+    "verifierGoogleDesc": {
+      "english": "Continue with Google",
+      "german": "Fahren Sie mit Google fort",
+      "japanese": "Googleで続行",
+      "korean": "Google로 계속",
+      "mandarin": "继续使用Google",
+      "spanish": "Continuar con Google"
+    },
+    "viewLess": {
+      "english": "View less options",
+      "german": "Weniger Optionen anzeigen",
+      "japanese": "少ないオプションを表示",
+      "korean": "옵션 간략히보기",
+      "mandarin": "查看较少的选项",
+      "spanish": "Ver menos opciones"
+    },
+    "viewMore": {
+      "english": "View more options",
+      "german": "Weitere Optionen anzeigen",
+      "japanese": "その他のオプションを表示",
+      "korean": "더 많은 옵션보기",
+      "mandarin": "查看更多选项",
+      "spanish": "Ver más opciones"
     }
   }
 }

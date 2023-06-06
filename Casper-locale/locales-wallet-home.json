@@ -1,1058 +1,1058 @@
 {
-    "walletHome": {
-        "obNo2Title2": {
-            "japanese": "アカウント復旧",
-            "english": "Account Recovery",
-            "korean": "계정 복구",
-            "spanish": "Recuperación de Cuenta",
-            "mandarin": "帐户恢复",
-            "german": "Konto-richtet"
-        },
-        "gettingStartedDesc": {
-            "japanese": "ここにあなたを導くいくつかの重要な用語があります",
-            "english": "Here are some key terms to guide you along",
-            "korean": "다음은 몇 가지 주요 용어를 안내합니다.",
-            "spanish": "Aquí términos claves para ayudarte",
-            "mandarin": "以下是一些指导您前进的关键术语",
-            "german": "Hier sind einige Schlüsselbegriffe, die Ihnen dabei helfen sollen"
-        },
-        "transfer": {
-            "japanese": "送金",
-            "english": "Transfer",
-            "korean": "이전",
-            "spanish": "Transferir",
-            "mandarin": "传递",
-            "german": "Transfer"
-        },
-        "goSettings": {
-            "japanese": "設定に行く",
-            "english": "Go Settings",
-            "korean": "이동 설정",
-            "spanish": "Ir a Configuración",
-            "mandarin": "转到设置",
-            "german": "Ir a Configuración"
-        },
-        "obNoNext": {
-            "japanese": "次へ",
-            "english": "Next",
-            "korean": "다음",
-            "spanish": "Siguiente",
-            "mandarin": "下一个",
-            "german": "Nächster"
-        },
-        "getDigital": {
-            "japanese": "仮想通貨を取得する",
-            "english": "Get Digital Currency and Tokens",
-            "korean": "디지털 통화 및 토큰 받기",
-            "spanish": "Obtén Monedas Digitales y Tokens",
-            "mandarin": "获取数字货币和代币",
-            "german": "Holen Sie sich digitale Währung und Token"
-        },
-        "lessInfo": {
-            "japanese": "概要",
-            "english": "Less Info",
-            "korean": "적은 정보",
-            "spanish": "Menos información",
-            "mandarin": "较少的信息",
-            "german": "Weniger Informationen"
-        },
-        "topupTransactionTitle": {
-            "japanese": "よくやった",
-            "english": "Well Done",
-            "korean": "잘 했어",
-            "spanish": "Bien Hecho",
-            "mandarin": "做得好",
-            "german": "Gut gemacht"
-        },
-        "getFirstCollectible": {
-            "japanese": "OpenSeaから最初のグッズを入手する",
-            "english": "Get your first Collectible from OpenSea",
-            "korean": "OpenSea에서 첫 소장품 받기",
-            "spanish": "Obtén tu primer coleccionable con OpenSea",
-            "mandarin": "从OpenSea获得第一个收藏品",
-            "german": "Holen Sie sich Ihr erstes Sammlerstück bei OpenSea"
-        },
-        "obSetupTitle": {
-            "japanese": "セットアップしましょう",
-            "english": "Let us get you set up",
-            "korean": "우리가 당신을 설정하자",
-            "spanish": "Prepararemos todo para ti",
-            "mandarin": "让我们为您设置",
-            "german": "Lassen Sie sich von uns einrichten"
-        },
-        "privacySecurity": {
-            "japanese": "プライバシーとセキュリティ",
-            "english": "Privacy and Security",
-            "korean": "개인 정보 및 보안",
-            "spanish": "Privacidad y Seguridad",
-            "mandarin": "隐私权与安全性",
-            "german": "Privatsphäre und Sicherheit"
-        },
-        "close": {
-            "japanese": "閉じる",
-            "english": "Close",
-            "korean": "닫기",
-            "spanish": "Cerrar",
-            "mandarin": "关",
-            "german": "Schließen"
-        },
-        "tokens": {
-            "japanese": "トークン",
-            "english": "Tokens",
-            "korean": "토큰",
-            "spanish": "Tokens",
-            "mandarin": "代币",
-            "german": "Tokens"
-        },
-        "obNo2Title1": {
-            "japanese": "秘密鍵",
-            "english": "Private Key",
-            "korean": "개인 키",
-            "spanish": "Llave Privada",
-            "mandarin": "私钥",
-            "german": "Privat Schlüssel"
-        },
-        "goToTopUp": {
-            "japanese": "トップページへ",
-            "english": "Go to Top-up Page",
-            "korean": "톱 페이지로 이동",
-            "spanish": "Ir a Depositar",
-            "mandarin": "转到充值页面",
-            "german": "Gehen Sie zur Aufladeseite"
-        },
-        "obYesTitle1": {
-            "japanese": "いつものような機能をお楽しみください",
-            "english": "Enjoy features like you have always been",
-            "korean": "항상 그랬던 것처럼 기능을 즐기십시오",
-            "spanish": "Disfruta los beneficios que siempre haz usado.",
-            "mandarin": "享受与以往一样的功能",
-            "german": "Genießen Sie Funktionen wie immer"
-        },
-        "obNo2Subtitle2": {
-            "japanese": "TorusはGoogle / Facebook 2 Factor-Authenticationを使用してアカウントを復旧します。",
-            "english": "Torus uses Google/Facebook 2 Factor-Authentication for account recovery.",
-            "korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
-            "spanish": "Torus usa Google/Facebook 2 Factor-Authentication para recuperar la cuenta.",
-            "mandarin": "Torus使用Google / Facebook 2 Factor-Authentication进行帐户恢复。",
-            "german": "Torus verwendet Google / Facebook 2 Faktor-Authentifizierung zur Kontrolle des Kontos."
-        },
-        "collectiblesTitle": {
-            "japanese": "あなたはそれを釘付けにした",
-            "english": "You nailed it",
-            "korean": "니가 끝냈어",
-            "spanish": "Lo has hecho mucho bien!",
-            "mandarin": "你钉了",
-            "german": "Du hast den Nagel auf den Kopf getroffen"
-        },
-        "assets": {
-            "japanese": "資産",
-            "english": "Assets",
-            "korean": "자산",
-            "spanish": "Activos",
-            "mandarin": "资产",
-            "german": "Vermögenswerte"
-        },
-        "totalValue": {
-            "japanese": "総額",
-            "english": "TOTAL VALUE",
-            "korean": "총 가치",
-            "spanish": "VALOR TOTAL",
-            "mandarin": "总价值",
-            "german": "GESAMTWERT"
-        },
-        "curious": {
-            "japanese": "トークンを取得するには？",
-            "english": "Curious about how to get Tokens?",
-            "korean": "토큰을 얻는 방법이 궁금하십니까?",
-            "spanish": "Obtén más información sobre cómo obtener tokens.",
-            "mandarin": "好奇如何获得代币？",
-            "german": "Neugierig, wie man Tokens bekommt?"
-        },
-        "verifyLoginDesc1": {
-            "japanese": "このアカウントへのログインは、新しいデバイスから検出されます。",
-            "english": "A login to this account is detected from a new device.",
-            "korean": "이 계정에 대한 로그인은 새 장치에서 감지됩니다.",
-            "spanish": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo.",
-            "mandarin": "从新设备检测到该帐户的登录。",
-            "german": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo."
-        },
-        "topupTransactionDetails2": {
-            "japanese": "あなたは間違いなく正しい軌道に乗っています！",
-            "english": "You are definitely on the right track!",
-            "korean": "당신은 확실히 올바른 길을 가고 있습니다!",
-            "spanish": "Estás en la dirección correcta!",
-            "mandarin": "您绝对是在正确的轨道上！",
-            "german": "Sie sind definitiv auf dem richtigen Weg!"
-        },
-        "obSetupYes": {
-            "japanese": "私はデジタル資産を所有しています",
-            "english": "I own digital assets",
-            "korean": "나는 디지털 자산을 소유",
-            "spanish": "Tengo activos digitales",
-            "mandarin": "我拥有数字资产",
-            "german": "Ich besitze digitale Assets"
-        },
-        "exploreTitle": {
-            "japanese": "日本最大の取引所「Miime」でデジタルアイテムを入手する",
-            "english": "Get your first item from OpenSea",
-            "korean": "OpenSea에서 첫 번째 아이템 받기",
-            "spanish": "Obtén tu primer item en OpenSea ",
-            "mandarin": "从OpenSea获取您的第一个项目",
-            "german": "Holen Sie sich Ihren ersten Artikel bei OpenSea"
-        },
-        "privateKey": {
-            "japanese": "秘密鍵",
-            "english": "Private Key",
-            "korean": "개인 키",
-            "spanish": "Llave Privada",
-            "mandarin": "私钥",
-            "german": "Privat Schlüssel"
-        },
-        "returnHome": {
-            "japanese": "帰宅",
-            "english": "Return Home",
-            "korean": "집에 돌아 간다",
-            "spanish": "Regresar a Home",
-            "mandarin": "回家",
-            "german": "Nach Hause zurückkehren"
-        },
-        "topUp": {
-            "japanese": "チャージ",
-            "english": "Top up",
-            "korean": "위로",
-            "spanish": "Depositar",
-            "mandarin": "充值",
-            "german": "Nachfüllen"
-        },
-        "walletHome": {
-            "japanese": "残高",
-            "english": "Account Balance",
-            "korean": "계정 잔액",
-            "spanish": "Balance de Cuenta",
-            "mandarin": "账户余额",
-            "german": "Kontostand"
-        },
-        "obSetupNo": {
-            "japanese": "私はデジタル資産を所有していません",
-            "english": "I do not own digital assets",
-            "korean": "나는 디지털 자산을 소유하지 않습니다",
-            "spanish": "No tengo activos digitales",
-            "mandarin": "我没有数字资产",
-            "german": "Ich besitze keine digitalen Assets"
-        },
-        "accountRecoveryDesc": {
-            "japanese": "Torusは、アカウントの復旧にGoogle / Facebookの二段階認証を利用しています。",
-            "english": "Torus uses Google/Facebook 2 Factor-Authentication for account recovery.",
-            "korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
-            "spanish": "Torus usa Google/Facebook 2  Factor-Authentication para recuperar la cuenta",
-            "mandarin": "Torus使用Google / Facebook 2 Factor-Authentication进行帐户恢复。",
-            "german": "Torus verwendet Google / Facebook 2 Factor-Authentication zur Wiederherstellung des Kontos."
-        },
-        "explore": {
-            "japanese": "検索",
-            "english": "Explore",
-            "korean": "탐색",
-            "spanish": "Explorar",
-            "mandarin": "探索",
-            "german": "Erkunden"
-        },
-        "whatIsDesc": {
-            "japanese": "トーラスは、ブロックチェーンで実行されているサービスへの簡単なアクセスを提供することを目的とする重要な管理ソリューションです。",
-            "english": "Torus is a key management solution that aims to provide an easy access to services running on Blockchain.",
-            "korean": "Torus는 블록 체인에서 실행되는 서비스에 쉽게 액세스 할 수 있도록하는 핵심 관리 솔루션입니다.",
-            "spanish": "Torus es una solución para administrar llaves que busca proveer un fácil acceso a los servicios en Blockchain.",
-            "mandarin": "Torus是一个关键管理解决方案，旨在提供对在区块链上运行的服务的轻松访问。",
-            "german": "Torus ist eine Schlüsselverwaltungslösung mit dem Ziel, einen einfachen Zugriff auf Dienste zu ermöglichen, die in Blockchain ausgeführt werden."
-        },
-        "topUpWallet": {
-            "japanese": "ウォレットにチャージする",
-            "english": "Top-up your<br/>Wallet",
-            "korean": "월렛 충전",
-            "spanish": "Depositar en tu<br/>Billetera",
-            "mandarin": "充值电子钱包",
-            "german": "Laden Sie Ihre Brieftasche auf"
-        },
-        "yourPublicAddress": {
-            "japanese": "あなたのウォレットアドレス",
-            "english": "Your Public Address",
-            "korean": "당신의 공개 주소",
-            "spanish": "Tu dirección pública",
-            "mandarin": "您的公开钱包地址",
-            "german": "Ihre öffentliche Adresse"
-        },
-        "obNoTitle1": {
-            "japanese": "ウォレットアドレスを確認",
-            "english": "Know your Wallet Address",
-            "korean": "지갑 주소를 알고",
-            "spanish": "Conoce tu Dirección de Billetera ",
-            "mandarin": "知道你的钱包地址",
-            "german": "Kennen Sie Ihre Brieftaschenadresse"
-        },
-        "welcome": {
-            "japanese": "へようこそ",
-            "english": "Welcome to",
-            "korean": "에 오신 것을 환영합니다",
-            "spanish": "Bienvenido a",
-            "mandarin": "欢迎来到",
-            "german": "Willkommen zu"
-        },
-        "obYesTitle2": {
-            "japanese": "Gmailを使ってトークンを送信する",
-            "english": "Send tokens to your friend's gmail",
-            "korean": "친구의 Gmail로 토큰 보내기",
-            "spanish": "Envía tokens utilizando el correo de tus amigos",
-            "mandarin": "将令牌发送到您朋友的gmail",
-            "german": "Senden Sie Token an Google Mail Ihres Freundes"
-        },
-        "gettingStarted": {
-            "japanese": "開始",
-            "english": "Getting Started",
-            "korean": "시작하기",
-            "spanish": "Empezar",
-            "mandarin": "开始",
-            "german": "Beginnen"
-        },
-        "privateKeyDesc": {
-            "japanese": "これは、アカウントの所有権を確認するためのパスワードです。Torusではパスワードを管理していません。パスワードをなくした場合、アカウントで管理している全ての資産を失う可能性があります。",
-            "english": "This is your password to verify account ownership. Only you are able to access it. If you lose this, you potentially lose ownership of your account and ALL your money.",
-            "korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정과 모든 돈의 소유권을 잃게됩니다.",
-            "spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta.",
-            "mandarin": "这是您用来验证帐户所有权的密码。只有您可以存取它。如果您把密码弄丢了，则可能会失去帐户所有权和所有资金。",
-            "german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu bestätigen. Nur Sie können darauf zugreifen. Wenn Sie dies verlieren, verlieren Sie möglicherweise den Besitz Ihres Kontos und Ihr gesamtes Geld."
-        },
-        "viewLess": {
-            "japanese": "表示を減らす",
-            "english": "view less",
-            "korean": "적게보기",
-            "spanish": "ver menos",
-            "mandarin": "少看",
-            "german": "weniger anzeigen"
-        },
-        "copyToClipboard": {
-            "japanese": "クリップボードにコピー",
-            "english": "Copy to clipboard",
-            "korean": "클립 보드에 복사",
-            "spanish": "Copiado al portapapeles",
-            "mandarin": "复制到剪贴板",
-            "german": "In die Zwischenablage kopieren"
-        },
-        "getEth": {
-            "japanese": "ETHを取得",
-            "english": "Get ETH",
-            "korean": "ETH 받기",
-            "spanish": "Obtener ETH",
-            "mandarin": "获取ETH",
-            "german": "Holen Sie sich die ETH"
-        },
-        "copy": {
-            "japanese": "コピーされました",
-            "english": "Copied",
-            "korean": "복사",
-            "spanish": "Copiado",
-            "mandarin": "复制的",
-            "german": "Kopiert"
-        },
-        "topupTitle": {
-            "japanese": "おめでとう",
-            "english": "Congratulations",
-            "korean": "축하합니다",
-            "spanish": "Felicidades",
-            "mandarin": "恭喜啦",
-            "german": "Herzliche Glückwünsche"
-        },
-        "description": {
-            "japanese": "説明",
-            "english": "Description",
-            "korean": "기술",
-            "spanish": "Descripción",
-            "mandarin": "描述",
-            "german": "Beschreibung"
-        },
-        "auth0Title": {
-            "japanese": "パスワードなしのログイン",
-            "english": "Passwordless Login",
-            "korean": "비밀번호없는 로그인",
-            "spanish": "Iniciar sesión sin password",
-            "mandarin": "无密码登录",
-            "german": "Passwortloses Login"
-        },
-        "exploreSubtitle": {
-            "japanese": "日本円でデジタルアイテム が購入可能（クレジット・pring）",
-            "english": "Explore the largest decentralised marketplace for blockchain assets",
-            "korean": "블록 체인 자산을위한 가장 큰 탈 중앙화 시장을 탐색하십시오",
-            "spanish": "Explora el más grande mercado decentralizado de blockchain",
-            "mandarin": "探索最大的去中心化区块链资产市场",
-            "german": "Entdecken Sie den größten dezentralen Marktplatz für Blockchain-Assets"
-        },
-        "privacySecurityDesc": {
-            "japanese": "あなたのプライバシーは私たちの最優先事項です",
-            "english": "Your Privacy are our top priority",
-            "korean": "당신의 프라이버시는 우리의 최우선입니다",
-            "spanish": "Tu privacidad es nuestra prioridad",
-            "mandarin": "您的隐私是我们的首要任务",
-            "german": "Ihre Privatsphäre hat für uns oberste Priorität"
-        },
-        "obNoTitle2": {
-            "japanese": "仮想通貨を入手する",
-            "english": "Get Digital Currency and Tokens",
-            "korean": "디지털 통화 및 토큰 받기",
-            "spanish": "Obtén Monedas Digitales y Tokens",
-            "mandarin": "获取数字货币和代币",
-            "german": "Holen Sie sich digitale Währung und Token"
-        },
-        "walletCreated": {
-            "japanese": "トーラスウォレットが作成されました",
-            "english": "Torus Wallet created",
-            "korean": "Torus Wallet이 생성되었습니다",
-            "spanish": "Billetera Torus creada",
-            "mandarin": "创建Torus钱包",
-            "german": "Torus Wallet erstellt"
-        },
-        "goToOpensea": {
-            "japanese": "OpenSeaに移動",
-            "english": "Go to OpenSea",
-            "korean": "OpenSea로 이동",
-            "spanish": "Ir a OpenSea",
-            "mandarin": "前往OpenSea",
-            "german": "Gehen Sie zu OpenSea"
-        },
-        "accountRecovery": {
-            "japanese": "アカウント復旧",
-            "english": "Account Recovery",
-            "korean": "계정 복구",
-            "spanish": "Recuperar Cuenta",
-            "mandarin": "帐户恢复",
-            "german": "Konto-Wiederherstellung"
-        },
-        "learnMore": {
-            "japanese": "もっと詳しく知る",
-            "english": "Learn more",
-            "korean": "더 알아보기",
-            "spanish": "Aprende más",
-            "mandarin": "更多详情",
-            "german": "Erfahren Sie mehr"
-        },
-        "home": {
-            "japanese": "ホーム",
-            "english": "Home",
-            "korean": "홈페이지",
-            "spanish": "Home",
-            "mandarin": "主页",
-            "german": "Startseite"
-        },
-        "collectiblesDetails1": {
-            "japanese": "最初のコレクションを開始しました。",
-            "english": "You have started your first collection.",
-            "korean": "첫 번째 컬렉션을 시작했습니다.",
-            "spanish": "Haz empezado tu primera colección.",
-            "mandarin": "您已开始第一个收藏。",
-            "german": "Sie haben Ihre erste Sammlung gestartet."
-        },
-        "obNoSubtitle1": {
-            "japanese": "ウォレットアドレスは、銀行の口座番号のようなものです。文字と数字の組み合わせで構成されています。",
-            "english": "A wallet address is similar to a bank account number. It’s a unique combination of letters and numbers that looks like this:",
-            "korean": "지갑 주소는 은행 계좌 번호와 유사합니다. 다음과 같은 문자와 숫자의 고유 한 조합입니다.",
-            "spanish": "La dirección de la billetera es similar al número de cuenta bancario. Es un código único alfanúmerico como este: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
-            "mandarin": "钱包地址类似于银行帐号。它是字母和数字的独特组合，如下所示：",
-            "german": "Eine Brieftaschenadresse ähnelt einer Bankkontonummer. Es ist eine einzigartige Kombination aus Buchstaben und Zahlen, die so aussieht:"
-        },
-        "viewMore": {
-            "japanese": "もっと見る",
-            "english": "view more",
-            "korean": "더보기",
-            "spanish": "ver más",
-            "mandarin": "查看更多",
-            "german": "mehr sehen"
-        },
-        "collectibles": {
-            "japanese": "コレクション",
-            "english": "Collectibles",
-            "korean": "수집품",
-            "spanish": "Collecionables",
-            "mandarin": "收藏品",
-            "german": "Sammlerstücke"
-        },
-        "obSetupSubtitle": {
-            "japanese": "次の中から、自分に最も当てはまるものを1つ選択してください。",
-            "english": "Select one of the following statements that best describes you.",
-            "korean": "가장 잘 설명 된 다음 설명 중 하나를 선택하십시오.",
-            "spanish": " Selecciona cuál opción te describe mejor.",
-            "mandarin": "选择以下最能描述您的语句之一。",
-            "german": "Wählen Sie eine der folgenden Aussagen aus, die Sie am besten beschreibt."
-        },
-        "downloadQR": {
-            "japanese": "QRコードをダウンロード",
-            "english": "Download QR",
-            "korean": "QR 코드 다운로드",
-            "spanish": "Bajar QR Code",
-            "mandarin": "下载二维码",
-            "german": "Laden den QR-Code herunter"
-        },
-        "obYesSubtitle1": {
-            "japanese": "トークンとコレクションを送信、購入します。\nアカウントをインポートすることで、Torus Wallet内の機能を体験できます。",
-            "english": "Send and purchase tokens and collectibles. Import your account to experience the features within your Torus Wallet.",
-            "korean": "토큰과 수집품을 보내고 구매하십시오. Torus Wallet 내에서 기능을 사용하려면 계정을 가져 오십시오.",
-            "spanish": "Envía y compra tokens y coleccionables. Importa tu cuenta existente y utiliza los beneficios de Torus.",
-            "mandarin": "发送和购买令牌和收藏品。导入您的帐户以体验Torus钱包中的功能。",
-            "german": "Senden und kaufen Sie Token und Sammlerstücke. Importieren Sie Ihr Konto, um die Funktionen in Ihrer Torus-Brieftasche zu nutzen."
-        },
-        "obSetupEg": {
-            "japanese": "例：ETH、DAI、収集品など",
-            "english": "E.g: ETH, DAI, Collectibles etc",
-            "korean": "예 : ETH, DAI, 수집품 등",
-            "spanish": "Por ejemplo: ETH, DAI, Coleccionables, etc",
-            "mandarin": "例如：ETH，DAI，收藏品等",
-            "german": "Zum Beispiel: ETH, DAI, Sammlerstücke usw."
-        },
-        "verifyLogin": {
-            "japanese": "ログインを確認",
-            "english": "Verify login",
-            "korean": "로그인 확인",
-            "spanish": "Verificar inicio de sesión",
-            "mandarin": "验证登录",
-            "german": "Überprüfen Sie die Anmeldung"
-        },
-        "asset": {
-            "japanese": "資産",
-            "english": "Asset",
-            "korean": "유산",
-            "spanish": "Activo",
-            "mandarin": "资产",
-            "german": "Anlagegut"
-        },
-        "buyThem": {
-            "japanese": "ここで購入する",
-            "english": "Buy them here",
-            "korean": "여기에서 구입",
-            "spanish": "Puedes comprarlos aquí",
-            "mandarin": "在这里买",
-            "german": "Kaufen Sie sie hier"
-        },
-        "collectiblesDetails2": {
-            "japanese": "続けて！",
-            "english": "Keep it going!",
-            "korean": "계속해!",
-            "spanish": "Continúa!",
-            "mandarin": "保持下去！",
-            "german": "Lass es laufen!"
-        },
-        "whatIs": {
-            "japanese": "とは",
-            "english": "What is",
-            "korean": "뭐가",
-            "spanish": "Qué es",
-            "mandarin": "什么是",
-            "german": "Was ist"
-        },
-        "goToTransfer": {
-            "japanese": "転送ページに移動",
-            "english": "Go to Transfer Page",
-            "korean": "전송 페이지로 이동",
-            "spanish": "Ir a Transferir",
-            "mandarin": "转到转移页面",
-            "german": "Gehen Sie zur Übertragungsseite"
-        },
-        "moreInfo": {
-            "japanese": "詳細",
-            "english": "More Info",
-            "korean": "추가 정보",
-            "spanish": "Más información",
-            "mandarin": "更多信息",
-            "german": "Mehr Informationen"
-        },
-        "obYesOk": {
-            "japanese": "わかりました！",
-            "english": "Ok, got it",
-            "korean": "알았어",
-            "spanish": "Ok, entendido",
-            "mandarin": "好的，我知道了",
-            "german": "OK habe es"
-        },
-        "currency": {
-            "japanese": "通貨",
-            "english": "CURRENCY",
-            "korean": "통화",
-            "spanish": "MONEDA",
-            "mandarin": "货币",
-            "german": "WÄHRUNG"
-        },
-        "obNoSkip": {
-            "japanese": "スキップ",
-            "english": "Skip",
-            "korean": "건너 뛰기",
-            "spanish": "Omitir",
-            "mandarin": "跳跃",
-            "german": "Überspringen"
-        },
-        "conductFirstTransaction": {
-            "japanese": "最初の取引を行う",
-            "english": "Conduct your<br/>first Transaction",
-            "korean": "첫 거래 수행",
-            "spanish": "Realiza tu<br/>Primera Transacción",
-            "mandarin": "进行第一次交易",
-            "german": "Führen Sie Ihre erste Transaktion durch"
-        },
-        "getDigitalDesc": {
-            "japanese": "ウォレットアドレスを共有して、仮想通貨を送金してもらえます。",
-            "english": "You can share your wallet address with others to receive digital currency and tokens.",
-            "korean": "지갑 주소를 다른 사람과 공유하여 디지털 통화 및 토큰을받을 수 있습니다.",
-            "spanish": "Puedes compartir tu dirección de billetera con otros para recibir monedas digitales y tokens.",
-            "mandarin": "您可以与他人共享您的钱包地址，以接收数字货币和令牌。",
-            "german": "Sie können Ihre Brieftaschenadresse mit anderen teilen, um digitale Währung und Token zu erhalten."
-        },
-        "lastUpdate": {
-            "japanese": "最終更新日",
-            "english": "Last update",
-            "korean": "마지막 업데이트",
-            "spanish": "últimas actualizaciones",
-            "mandarin": "最后更新",
-            "german": "Letztes Update"
-        },
-        "obYesSubtitle2": {
-            "japanese": "Torus Walletの特徴です。長いウォレットアドレスではなく、Gmailを使ってクールなアセットを届けることができます。",
-            "english": "A feature unique to Torus' Wallet. Do away with long public addresses. A gmail address is all you need to get that cool asset across to your friend.",
-            "korean": "Torus 월렛 만의 고유 한 기능입니다. 긴 공개 주소를 사용하지 마십시오. Gmail 주소 만 있으면 멋진 자산을 친구에게 전달할 수 있습니다.",
-            "spanish": "Un beneficio único de Toris. No más direcciones largas. Sólo necesitas las dirección de correo de tus contactos para compartir activos digitales",
-            "mandarin": "Torus钱包独有的功能。删除冗长的公共地址。您只需将gmail地址发送给您的朋友即可。",
-            "german": "Eine Besonderheit von Torus 'Geldbörse. Beseitigen Sie lange öffentliche Adressen. Eine Google Mail-Adresse ist alles, was Sie brauchen, um Ihrem Freund dieses coole Asset zu vermitteln."
-        },
-        "obNoSubtitle2": {
-            "japanese": "ウォレットアドレスを共有して、仮想通貨やトークンを送受信することができます。",
-            "english": "You can share your wallet address with others to receive digital currency and tokens.",
-            "korean": "지갑 주소를 다른 사람과 공유하여 디지털 통화 및 토큰을받을 수 있습니다.",
-            "spanish": "Puedes compartir tu dirección de billetera con otros para recibir monedas digitales y tokens.",
-            "mandarin": "您可以与他人共享您的钱包地址，以接收数字货币和令牌。",
-            "german": "Sie können Ihre Brieftaschenadresse mit anderen teilen, um digitale Währungen und Token zu erhalten."
-        },
-        "knowYourWalletDesc": {
-            "japanese": "ウォレットアドレスは、銀行口座番号のようなものです。次のような文字と数字のユニークな組み合わせです：0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
-            "english": "A wallet address is similar to a bank account number. It's a unique combination of letters and numbers that looks like this: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
-            "korean": "지갑 주소는 은행 계좌 번호와 유사합니다. 다음과 같은 문자와 숫자의 고유 한 조합입니다. 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
-            "spanish": "La dirección de la billetera es similar al número de cuenta bancario. Es un código único alfanúmerico como este: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
-            "mandarin": "钱包地址类似于银行帐号。它是字母和数字的独特组合，如下所示：0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
-            "german": "Eine Brieftaschenadresse ähnelt einer Bankkontonummer. Es ist eine eindeutige Kombination aus Buchstaben und Zahlen, die so aussieht: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5"
-        },
-        "obNo2Subtitle1": {
-            "japanese": "これは、アカウントの所有権を確認するためのパスワードです。あなただけがそれにアクセスできます。これを失うと、アカウントとすべてのお金の所有権を失う可能性があります。",
-            "english": "This is your password to verify account ownership. Only you are able to access it. If you lose this, you potentially lose ownership of your account and ALL your money.",
-            "korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정의 소유권과 모든 돈을 잃게됩니다.",
-            "spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta.",
-            "mandarin": "这是您用来验证帐户所有权的密码。只有您可以访问它。如果您输了这笔钱，则可能会失去帐户所有权和所有资金。",
-            "german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu Rechte. Nur Sie können daran gehört,. Wenn Sie sterben verlieren, verlieren Sie verlieren den Besitz Ihres Kontos und Ihr gesamtes Geld."
-        },
-        "verifyLoginDesc2": {
-            "japanese": "リクエストを表示するには、[設定]ページに進んでください。",
-            "english": "Please proceed to your 'Settings' page to view the request.",
-            "korean": "요청을 보려면 '설정'페이지로 이동하십시오.",
-            "spanish": "Vaya a la página \"Configuración\" para ver la solicitud.",
-            "mandarin": "请进入“设置”页面以查看请求。",
-            "german": "Vaya a la página \"Configuración\" para ver la solicitud."
-        },
-        "aboutWallet": {
-            "japanese": "あなたのウォレット",
-            "english": "about your wallet today",
-            "korean": "오늘 지갑에 대해",
-            "spanish": "Acerca de tu billetera",
-            "mandarin": "今天关于你的钱包",
-            "german": "über deine Brieftasche heute"
-        },
-        "topupDetails1": {
-            "japanese": "最初のトップアップを完了するには良い仕事です。",
-            "english": "Good work in completing your first Top up.",
-            "korean": "첫 번째 탑업을 완료하는 데 도움이됩니다.",
-            "spanish": "Buen trabajo completando tu primer depósito.",
-            "mandarin": "在完成您的第一个充值方面做得很好。",
-            "german": "Gute Arbeit bei der Fertigstellung Ihrer ersten Aufladung."
-        },
-        "showAllTokens": {
-            "japanese": "すべてのトークンを表示",
-            "english": "Show all Tokens",
-            "korean": "모든 토큰 표시",
-            "spanish": "Mostrar todas las fichas",
-            "mandarin": "显示所有代币",
-            "german": "Alle Token anzeigen"
-        },
-        "topupDetails2": {
-            "japanese": "これで準備は完了です。",
-            "english": "You are all set up!",
-            "korean": "당신은 모두 설정되었습니다!",
-            "spanish": "Todo listo para empezar!",
-            "mandarin": "你们都准备好了！",
-            "german": "Sie sind alle eingerichtet!"
-        },
-        "knowYourWallet": {
-            "japanese": "ウォレットアドレスを確認する",
-            "english": "Know your Wallet Address",
-            "korean": "지갑 주소를 알고",
-            "spanish": "Conoce la dirección de tu billetera",
-            "mandarin": "知道你的钱包地址",
-            "german": "Kennen Sie Ihre Brieftasche Adresse"
-        },
-        "obNoReturnHome": {
-            "japanese": "ホームページに戻る",
-            "english": "Return Home",
-            "korean": "홈페이지로 돌아 가기",
-            "spanish": "Regresar a Home",
-            "mandarin": "返回首页",
-            "german": "Zurück zur Startseite"
-        },
-        "topupTransactionDetails1": {
-            "japanese": "あなたは最初の取引をしました。",
-            "english": "You just made your first transaction.",
-            "korean": "방금 첫 거래를하셨습니다.",
-            "spanish": "Haz hecho tu primera transacción. ",
-            "mandarin": "您刚刚完成了第一笔交易。",
-            "german": "Sie haben gerade Ihre erste Transaktion durchgeführt."
-        }
-    },
     "homeAssets": {
-        "tokenName": {
-            "japanese": "トークン名",
-            "english": "Token Name",
-            "korean": "토큰 이름",
-            "spanish": "Nombre del token",
-            "mandarin": "代币名称",
-            "german": "Token-Name"
-        },
-        "noOwnership": {
-            "japanese": "あなたはこのnftを所有していません。",
-            "english": "You don't own this nft.",
-            "korean": "당신은 이 nft를 소유하고 있지 않습니다.",
-            "spanish": "No eres dueña de esta nft.",
-            "mandarin": "你不拥有这个 nft。",
-            "german": "Sie besitzen dieses NFT nicht."
-        },
-        "viewMore": {
-            "japanese": "もっと見る",
-            "english": "View more",
-            "korean": "더보기",
-            "spanish": "Ver más",
-            "mandarin": "查看更多",
-            "german": "Mehr sehen"
-        },
-        "infoExplorer": {
-            "japanese": "ブロックエクスプローラー",
-            "english": "Block explorer",
-            "korean": "블록 탐색기",
-            "spanish": "Explorador de bloques",
-            "mandarin": "区块浏览器",
-            "german": "Explorer blockieren"
-        },
-        "didNotSee": {
-            "japanese": "あなたの収集品を見ませんでしたか？",
-            "english": "Did not see your collectibles?",
-            "korean": "수집품을 보지 못하셨나요?",
-            "spanish": "¿No viste tus coleccionables?",
-            "mandarin": "没有看到您的收藏品？",
-            "german": "Sie haben Ihre Sammlerstücke nicht gesehen?"
-        },
-        "infoContractAdd": {
-            "japanese": "契約住所",
-            "english": "Contract address",
-            "korean": "계약 주소",
-            "spanish": "Dirección del contrato",
-            "mandarin": "合约地址",
-            "german": "Vertragsadresse"
-        },
-        "infoDesc": {
-            "japanese": "説明",
-            "english": "Description",
-            "korean": "설명",
-            "spanish": "Descripción",
-            "mandarin": "描述",
-            "german": "Beschreibung"
+        "add": {
+            "english": "Add Collectible",
+            "german": "Sammlerstück hinzufügen",
+            "japanese": "収集品を追加する",
+            "korean": "수집품 추가",
+            "mandarin": "添加收藏品",
+            "spanish": "Agregar coleccionable"
         },
         "contractAddress": {
-            "japanese": "NFT契約アドレス",
             "english": "NFT Contract Address",
+            "german": "NFT-Vertragsadresse",
+            "japanese": "NFT契約アドレス",
             "korean": "NFT 계약 주소",
-            "spanish": "Dirección del contrato NFT",
             "mandarin": "NFT 合约地址",
-            "german": "NFT-Vertragsadresse"
+            "spanish": "Dirección del contrato NFT"
         },
-        "infoId": {
-            "japanese": "ID",
-            "english": "ID",
-            "korean": "ID",
-            "spanish": "IDENTIFICACIÓN",
-            "mandarin": "ID",
-            "german": "ICH WÜRDE"
+        "didNotSee": {
+            "english": "Did not see your collectibles?",
+            "german": "Sie haben Ihre Sammlerstücke nicht gesehen?",
+            "japanese": "あなたの収集品を見ませんでしたか？",
+            "korean": "수집품을 보지 못하셨나요?",
+            "mandarin": "没有看到您的收藏品？",
+            "spanish": "¿No viste tus coleccionables?"
         },
         "duplicateNft": {
-            "japanese": "このnftはすでに存在します。",
             "english": "This nft already exists.",
+            "german": "Diese Nft existiert bereits.",
+            "japanese": "このnftはすでに存在します。",
             "korean": "이 nft는 이미 존재합니다.",
-            "spanish": "Esta nft ya existe.",
             "mandarin": "这个 nft 已经存在。",
-            "german": "Diese Nft existiert bereits."
-        },
-        "nonExistentTokenId": {
-            "japanese": "このトークンIDは存在しません。",
-            "english": "This token id doesn't exist.",
-            "korean": "이 토큰 ID는 존재하지 않습니다.",
-            "spanish": "Esta identificación de token no existe.",
-            "mandarin": "此令牌 ID 不存在。",
-            "german": "This token id doesn't exist."
-        },
-        "viewLess": {
-            "japanese": "表示を減らす",
-            "english": "View less",
-            "korean": "적게보기",
-            "spanish": "Ver menos",
-            "mandarin": "少看",
-            "german": "Weniger anzeigen"
-        },
-        "invalidOwnership": {
-            "japanese": "あなたはこのnftを所有していません。",
-            "english": "You don't own this nft.",
-            "korean": "당신은 이 nft를 소유하고 있지 않습니다.",
-            "spanish": "No eres dueña de esta nft",
-            "mandarin": "你不拥有这个 nft。",
-            "german": "Sie besitzen dieses NFT nicht."
-        },
-        "add": {
-            "japanese": "収集品を追加する",
-            "english": "Add Collectible",
-            "korean": "수집품 추가",
-            "spanish": "Agregar coleccionable",
-            "mandarin": "添加收藏品",
-            "german": "Sammlerstück hinzufügen"
-        },
-        "unSupportedStandard": {
-            "japanese": "サポートされていないnft契約標準。",
-            "english": "Unsupported nft contract standard.",
-            "korean": "지원되지 않는 nft 계약 표준입니다.",
-            "spanish": "Estándar de contrato nft no admitido.",
-            "mandarin": "不受支持的 nft 合同标准。",
-            "german": "Nicht unterstützter NFT-Vertragsstandard."
-        },
-        "infoTitle": {
-            "japanese": "この収集品を追加しますか？",
-            "english": "Would you like to add this Collectible?",
-            "korean": "이 수집품을 추가하시겠습니까?",
-            "spanish": "¿Le gustaría agregar este coleccionable?",
-            "mandarin": "您想添加此收藏品吗？",
-            "german": "Möchten Sie dieses Sammlerstück hinzufügen?"
-        },
-        "infoCollectible": {
-            "japanese": "コレクタブル",
-            "english": "Collectible",
-            "korean": "수집품",
-            "spanish": "Coleccionable",
-            "mandarin": "收藏品",
-            "german": "Sammlerstück"
-        },
-        "invalidContractAddress": {
-            "japanese": "この契約アドレスは無効です",
-            "english": "This contract address is invalid",
-            "korean": "이 계약 주소가 잘못되었습니다.",
-            "spanish": "Esta dirección de contrato no es válida",
-            "mandarin": "此合約地址無效",
-            "german": "Diese Vertragsadresse ist ungültig"
-        },
-        "tokenId": {
-            "japanese": "トークンID",
-            "english": "Token ID",
-            "korean": "토큰 ID",
-            "spanish": "ID de token",
-            "mandarin": "令牌标识",
-            "german": "Token-ID"
+            "spanish": "Esta nft ya existe."
         },
         "formTitle": {
-            "japanese": "カスタムコレクタブル",
             "english": "Custom Collectible",
+            "german": "Benutzerdefiniertes Sammlerstück",
+            "japanese": "カスタムコレクタブル",
             "korean": "커스텀 수집품",
-            "spanish": "Coleccionable personalizado",
             "mandarin": "定制收藏品",
-            "german": "Benutzerdefiniertes Sammlerstück"
+            "spanish": "Coleccionable personalizado"
+        },
+        "infoCollectible": {
+            "english": "Collectible",
+            "german": "Sammlerstück",
+            "japanese": "コレクタブル",
+            "korean": "수집품",
+            "mandarin": "收藏品",
+            "spanish": "Coleccionable"
+        },
+        "infoContractAdd": {
+            "english": "Contract address",
+            "german": "Vertragsadresse",
+            "japanese": "契約住所",
+            "korean": "계약 주소",
+            "mandarin": "合约地址",
+            "spanish": "Dirección del contrato"
+        },
+        "infoDesc": {
+            "english": "Description",
+            "german": "Beschreibung",
+            "japanese": "説明",
+            "korean": "설명",
+            "mandarin": "描述",
+            "spanish": "Descripción"
+        },
+        "infoExplorer": {
+            "english": "Block explorer",
+            "german": "Explorer blockieren",
+            "japanese": "ブロックエクスプローラー",
+            "korean": "블록 탐색기",
+            "mandarin": "区块浏览器",
+            "spanish": "Explorador de bloques"
+        },
+        "infoId": {
+            "english": "ID",
+            "german": "ICH WÜRDE",
+            "japanese": "ID",
+            "korean": "ID",
+            "mandarin": "ID",
+            "spanish": "IDENTIFICACIÓN"
+        },
+        "infoTitle": {
+            "english": "Would you like to add this Collectible?",
+            "german": "Möchten Sie dieses Sammlerstück hinzufügen?",
+            "japanese": "この収集品を追加しますか？",
+            "korean": "이 수집품을 추가하시겠습니까?",
+            "mandarin": "您想添加此收藏品吗？",
+            "spanish": "¿Le gustaría agregar este coleccionable?"
+        },
+        "invalidContractAddress": {
+            "english": "This contract address is invalid",
+            "german": "Diese Vertragsadresse ist ungültig",
+            "japanese": "この契約アドレスは無効です",
+            "korean": "이 계약 주소가 잘못되었습니다.",
+            "mandarin": "此合約地址無效",
+            "spanish": "Esta dirección de contrato no es válida"
+        },
+        "invalidOwnership": {
+            "english": "You don't own this nft.",
+            "german": "Sie besitzen dieses NFT nicht.",
+            "japanese": "あなたはこのnftを所有していません。",
+            "korean": "당신은 이 nft를 소유하고 있지 않습니다.",
+            "mandarin": "你不拥有这个 nft。",
+            "spanish": "No eres dueña de esta nft"
+        },
+        "nonExistentTokenId": {
+            "english": "This token id doesn't exist.",
+            "german": "This token id doesn't exist.",
+            "japanese": "このトークンIDは存在しません。",
+            "korean": "이 토큰 ID는 존재하지 않습니다.",
+            "mandarin": "此令牌 ID 不存在。",
+            "spanish": "Esta identificación de token no existe."
+        },
+        "noOwnership": {
+            "english": "You don't own this nft.",
+            "german": "Sie besitzen dieses NFT nicht.",
+            "japanese": "あなたはこのnftを所有していません。",
+            "korean": "당신은 이 nft를 소유하고 있지 않습니다.",
+            "mandarin": "你不拥有这个 nft。",
+            "spanish": "No eres dueña de esta nft."
+        },
+        "tokenId": {
+            "english": "Token ID",
+            "german": "Token-ID",
+            "japanese": "トークンID",
+            "korean": "토큰 ID",
+            "mandarin": "令牌标识",
+            "spanish": "ID de token"
+        },
+        "tokenName": {
+            "english": "Token Name",
+            "german": "Token-Name",
+            "japanese": "トークン名",
+            "korean": "토큰 이름",
+            "mandarin": "代币名称",
+            "spanish": "Nombre del token"
+        },
+        "unSupportedStandard": {
+            "english": "Unsupported nft contract standard.",
+            "german": "Nicht unterstützter NFT-Vertragsstandard.",
+            "japanese": "サポートされていないnft契約標準。",
+            "korean": "지원되지 않는 nft 계약 표준입니다.",
+            "mandarin": "不受支持的 nft 合同标准。",
+            "spanish": "Estándar de contrato nft no admitido."
+        },
+        "viewLess": {
+            "english": "View less",
+            "german": "Weniger anzeigen",
+            "japanese": "表示を減らす",
+            "korean": "적게보기",
+            "mandarin": "少看",
+            "spanish": "Ver menos"
+        },
+        "viewMore": {
+            "english": "View more",
+            "german": "Mehr sehen",
+            "japanese": "もっと見る",
+            "korean": "더보기",
+            "mandarin": "查看更多",
+            "spanish": "Ver más"
         }
     },
     "homeToken": {
-        "invalidContractAddress": {
-            "japanese": "このトークンはすでに存在します",
-            "english": "This contract address is invalid",
-            "korean": "이 토큰은 이미 존재합니다.",
-            "spanish": "Este token ya existe",
-            "mandarin": "该令牌已存在",
-            "german": "Dieses Token ist bereits vorhanden"
-        },
-        "symbol": {
-            "japanese": "トークン記号",
-            "english": "Token Symbol",
-            "korean": "토큰 심볼",
-            "spanish": "Símbolo de token",
-            "mandarin": "代币符号",
-            "german": "Tokensymbol"
-        },
-        "likeToAddToken": {
-            "japanese": "このトークンを追加しますか？",
-            "english": "Would you like to add this Token?",
-            "korean": "이 토큰을 추가 하시겠습니까?",
-            "spanish": "¿Le gustaría agregar este token?",
-            "mandarin": "您要添加此令牌吗？",
-            "german": "Möchten Sie dieses Token hinzufügen?"
-        },
-        "cancel": {
-            "japanese": "キャンセル",
-            "english": "Cancel",
-            "korean": "취소",
-            "spanish": "Cancelar",
-            "mandarin": "取消",
-            "german": "Stornieren"
-        },
-        "editTokens": {
-            "japanese": "トークンの編集",
-            "english": "Edit Tokens",
-            "korean": "토큰 편집",
-            "spanish": "Editar tokens",
-            "mandarin": "编辑令牌",
-            "german": "Token bearbeiten"
-        },
-        "token": {
-            "japanese": "トークン",
-            "english": "Token",
-            "korean": "토큰",
-            "spanish": "Simbólico",
-            "mandarin": "代币",
-            "german": "Zeichen"
-        },
-        "likeToHideToken": {
-            "japanese": "このトークンを非表示にしますか？",
-            "english": "Would you like to hide this Token?",
-            "korean": "이 토큰을 숨기시겠습니까?",
-            "spanish": "¿Le gustaría ocultar este token?",
-            "mandarin": "您要隐藏此令牌吗？",
-            "german": "Möchten Sie dieses Token verstecken?"
-        },
-        "didNotSee": {
-            "japanese": "新しいトークンが表示されませんでしたか？",
-            "english": "Did not see your new Token?",
-            "korean": "새 토큰을 보지 못하셨습니까?",
-            "spanish": "¿No vio su nuevo Token?",
-            "mandarin": "没有看到您的新令牌？",
-            "german": "Hast du dein neues Token nicht gesehen?"
-        },
-        "next": {
-            "japanese": "次",
-            "english": "Next",
-            "korean": "다음",
-            "spanish": "Siguiente",
-            "mandarin": "下一个",
-            "german": "Nächster"
-        },
-        "name": {
-            "japanese": "トークン名",
-            "english": "Token Name",
-            "korean": "토큰 이름",
-            "spanish": "Nombre del token",
-            "mandarin": "代币名称",
-            "german": "Token Name"
-        },
-        "balance": {
-            "japanese": "残高",
-            "english": "Balance",
-            "korean": "밸런스",
-            "spanish": "Equilibrar",
-            "mandarin": "平衡",
-            "german": "Gleichgewicht"
-        },
         "addToken": {
-            "japanese": "トークンを追加",
             "english": "Add Token",
+            "german": "Token hinzufügen",
+            "japanese": "トークンを追加",
             "korean": "토큰 추가하기",
-            "spanish": "Agregar token",
             "mandarin": "添加令牌",
-            "german": "Token hinzufügen"
-        },
-        "contract": {
-            "japanese": "トークン契約アドレス",
-            "english": "Token Contract Address",
-            "korean": "토큰 계약 주소",
-            "spanish": "Dirección del contrato de token",
-            "mandarin": "代币合约地址",
-            "german": "Token-Vertragsadresse"
-        },
-        "back": {
-            "japanese": "バック",
-            "english": "Back",
-            "korean": "뒤",
-            "spanish": "atrás",
-            "mandarin": "背部",
-            "german": "Zurück"
-        },
-        "duplicateToken": {
-            "japanese": "このトークンはすでに存在します",
-            "english": "This token already exists",
-            "korean": "이 토큰은 이미 존재합니다.",
-            "spanish": "Este token ya existe",
-            "mandarin": "该令牌已存在",
-            "german": "Dieses Token ist bereits vorhanden"
-        },
-        "hideTokens": {
-            "japanese": "トークンを隠す",
-            "english": "Hide Tokens",
-            "korean": "토큰 숨기기",
-            "spanish": "Ocultar tokens",
-            "mandarin": "隐藏令牌",
-            "german": "Token verstecken"
+            "spanish": "Agregar token"
         },
         "addTokenHere": {
-            "japanese": "ここにトークンを追加",
             "english": "Add Token here",
+            "german": "Token hier hinzufügen",
+            "japanese": "ここにトークンを追加",
             "korean": "여기에 토큰 추가",
-            "spanish": "Agregar token aquí",
             "mandarin": "在此处添加令牌",
-            "german": "Token hier hinzufügen"
-        },
-        "decimal": {
-            "japanese": "精度の小数",
-            "english": "Decimals of Precision",
-            "korean": "정밀도의 소수",
-            "spanish": "Decimales de precisión",
-            "mandarin": "小数精度",
-            "german": "Dezimalstellen der Präzision"
+            "spanish": "Agregar token aquí"
         },
         "addTokens": {
-            "japanese": "トークンを追加する",
             "english": "Add Tokens",
+            "german": "Token hinzufügen",
+            "japanese": "トークンを追加する",
             "korean": "토큰 추가",
-            "spanish": "Agregar tokens",
             "mandarin": "添加令牌",
-            "german": "Token hinzufügen"
+            "spanish": "Agregar tokens"
         },
-        "hideTokenDesc": {
-            "japanese": "ウォレットのホームページで「トークンの追加」をクリックすると、将来このトークンを追加し直すことができます。",
-            "english": "You can add this Token back in the future by clicking on “Add Token” in the wallet homepage.",
-            "korean": "지갑 홈페이지에서 \"토큰 추가\"를 클릭하여 나중에이 토큰을 다시 추가 할 수 있습니다.",
-            "spanish": "Puede volver a agregar este token en el futuro haciendo clic en \"Agregar token\" en la página de inicio de la billetera.",
-            "mandarin": "您可以在将来通过在钱包主页上单击“添加令牌”来添加此令牌。",
-            "german": "Sie können dieses Token in Zukunft wieder hinzufügen, indem Sie auf der Brieftaschen-Homepage auf \"Token hinzufügen\" klicken."
+        "back": {
+            "english": "Back",
+            "german": "Zurück",
+            "japanese": "バック",
+            "korean": "뒤",
+            "mandarin": "背部",
+            "spanish": "atrás"
+        },
+        "balance": {
+            "english": "Balance",
+            "german": "Gleichgewicht",
+            "japanese": "残高",
+            "korean": "밸런스",
+            "mandarin": "平衡",
+            "spanish": "Equilibrar"
+        },
+        "cancel": {
+            "english": "Cancel",
+            "german": "Stornieren",
+            "japanese": "キャンセル",
+            "korean": "취소",
+            "mandarin": "取消",
+            "spanish": "Cancelar"
+        },
+        "contract": {
+            "english": "Token Contract Address",
+            "german": "Token-Vertragsadresse",
+            "japanese": "トークン契約アドレス",
+            "korean": "토큰 계약 주소",
+            "mandarin": "代币合约地址",
+            "spanish": "Dirección del contrato de token"
+        },
+        "decimal": {
+            "english": "Decimals of Precision",
+            "german": "Dezimalstellen der Präzision",
+            "japanese": "精度の小数",
+            "korean": "정밀도의 소수",
+            "mandarin": "小数精度",
+            "spanish": "Decimales de precisión"
+        },
+        "didNotSee": {
+            "english": "Did not see your new Token?",
+            "german": "Hast du dein neues Token nicht gesehen?",
+            "japanese": "新しいトークンが表示されませんでしたか？",
+            "korean": "새 토큰을 보지 못하셨습니까?",
+            "mandarin": "没有看到您的新令牌？",
+            "spanish": "¿No vio su nuevo Token?"
+        },
+        "duplicateToken": {
+            "english": "This token already exists",
+            "german": "Dieses Token ist bereits vorhanden",
+            "japanese": "このトークンはすでに存在します",
+            "korean": "이 토큰은 이미 존재합니다.",
+            "mandarin": "该令牌已存在",
+            "spanish": "Este token ya existe"
+        },
+        "editTokens": {
+            "english": "Edit Tokens",
+            "german": "Token bearbeiten",
+            "japanese": "トークンの編集",
+            "korean": "토큰 편집",
+            "mandarin": "编辑令牌",
+            "spanish": "Editar tokens"
         },
         "hideToken": {
-            "japanese": "トークンを隠す",
             "english": "Hide Token",
+            "german": "Token ausblenden",
+            "japanese": "トークンを隠す",
             "korean": "토큰 숨기기",
-            "spanish": "Ocultar token",
             "mandarin": "隐藏令牌",
-            "german": "Token ausblenden"
+            "spanish": "Ocultar token"
+        },
+        "hideTokenDesc": {
+            "english": "You can add this Token back in the future by clicking on “Add Token” in the wallet homepage.",
+            "german": "Sie können dieses Token in Zukunft wieder hinzufügen, indem Sie auf der Brieftaschen-Homepage auf \"Token hinzufügen\" klicken.",
+            "japanese": "ウォレットのホームページで「トークンの追加」をクリックすると、将来このトークンを追加し直すことができます。",
+            "korean": "지갑 홈페이지에서 \"토큰 추가\"를 클릭하여 나중에이 토큰을 다시 추가 할 수 있습니다.",
+            "mandarin": "您可以在将来通过在钱包主页上单击“添加令牌”来添加此令牌。",
+            "spanish": "Puede volver a agregar este token en el futuro haciendo clic en \"Agregar token\" en la página de inicio de la billetera."
+        },
+        "hideTokens": {
+            "english": "Hide Tokens",
+            "german": "Token verstecken",
+            "japanese": "トークンを隠す",
+            "korean": "토큰 숨기기",
+            "mandarin": "隐藏令牌",
+            "spanish": "Ocultar tokens"
+        },
+        "invalidContractAddress": {
+            "english": "This contract address is invalid",
+            "german": "Dieses Token ist bereits vorhanden",
+            "japanese": "このトークンはすでに存在します",
+            "korean": "이 토큰은 이미 존재합니다.",
+            "mandarin": "该令牌已存在",
+            "spanish": "Este token ya existe"
+        },
+        "likeToAddToken": {
+            "english": "Would you like to add this Token?",
+            "german": "Möchten Sie dieses Token hinzufügen?",
+            "japanese": "このトークンを追加しますか？",
+            "korean": "이 토큰을 추가 하시겠습니까?",
+            "mandarin": "您要添加此令牌吗？",
+            "spanish": "¿Le gustaría agregar este token?"
+        },
+        "likeToHideToken": {
+            "english": "Would you like to hide this Token?",
+            "german": "Möchten Sie dieses Token verstecken?",
+            "japanese": "このトークンを非表示にしますか？",
+            "korean": "이 토큰을 숨기시겠습니까?",
+            "mandarin": "您要隐藏此令牌吗？",
+            "spanish": "¿Le gustaría ocultar este token?"
+        },
+        "name": {
+            "english": "Token Name",
+            "german": "Token Name",
+            "japanese": "トークン名",
+            "korean": "토큰 이름",
+            "mandarin": "代币名称",
+            "spanish": "Nombre del token"
+        },
+        "next": {
+            "english": "Next",
+            "german": "Nächster",
+            "japanese": "次",
+            "korean": "다음",
+            "mandarin": "下一个",
+            "spanish": "Siguiente"
+        },
+        "symbol": {
+            "english": "Token Symbol",
+            "german": "Tokensymbol",
+            "japanese": "トークン記号",
+            "korean": "토큰 심볼",
+            "mandarin": "代币符号",
+            "spanish": "Símbolo de token"
+        },
+        "token": {
+            "english": "Token",
+            "german": "Zeichen",
+            "japanese": "トークン",
+            "korean": "토큰",
+            "mandarin": "代币",
+            "spanish": "Simbólico"
         }
     },
     "walletDiscover": {
-        "noData": {
-            "japanese": "現在のクエリのDappが見つかりません。",
-            "english": "No Dapp found for current query.",
-            "korean": "현재 쿼리에 대한 Dapp을 찾을 수 없습니다.",
-            "spanish": "No se encontró Dapp para la consulta actual.",
-            "mandarin": "没有找到当前查询的 Dapp",
-            "german": "Kein Dapp für die aktuelle Abfrage gefunden."
-        },
         "loading": {
-            "japanese": "サーバーからデータを取得するまでお待ちください。",
             "english": "Please wait while we fetch data from our servers.",
+            "german": "Bitte warten Sie, während wir Daten von unseren Servern abrufen.",
+            "japanese": "サーバーからデータを取得するまでお待ちください。",
             "korean": "서버에서 데이터를 가져오는 동안 기다려 주십시오.",
-            "spanish": "Espere mientras buscamos datos de nuestros servidores.",
             "mandarin": "我们正在从我们的服务器获取数据，请稍候。",
-            "german": "Bitte warten Sie, während wir Daten von unseren Servern abrufen."
+            "spanish": "Espere mientras buscamos datos de nuestros servidores."
+        },
+        "noData": {
+            "english": "No Dapp found for current query.",
+            "german": "Kein Dapp für die aktuelle Abfrage gefunden.",
+            "japanese": "現在のクエリのDappが見つかりません。",
+            "korean": "현재 쿼리에 대한 Dapp을 찾을 수 없습니다.",
+            "mandarin": "没有找到当前查询的 Dapp",
+            "spanish": "No se encontró Dapp para la consulta actual."
+        }
+    },
+    "walletHome": {
+        "aboutWallet": {
+            "english": "about your wallet today",
+            "german": "über deine Brieftasche heute",
+            "japanese": "あなたのウォレット",
+            "korean": "오늘 지갑에 대해",
+            "mandarin": "今天关于你的钱包",
+            "spanish": "Acerca de tu billetera"
+        },
+        "accountRecovery": {
+            "english": "Account Recovery",
+            "german": "Konto-Wiederherstellung",
+            "japanese": "アカウント復旧",
+            "korean": "계정 복구",
+            "mandarin": "帐户恢复",
+            "spanish": "Recuperar Cuenta"
+        },
+        "accountRecoveryDesc": {
+            "english": "Torus uses Google/Facebook 2 Factor-Authentication for account recovery.",
+            "german": "Torus verwendet Google / Facebook 2 Factor-Authentication zur Wiederherstellung des Kontos.",
+            "japanese": "Torusは、アカウントの復旧にGoogle / Facebookの二段階認証を利用しています。",
+            "korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
+            "mandarin": "Torus使用Google / Facebook 2 Factor-Authentication进行帐户恢复。",
+            "spanish": "Torus usa Google/Facebook 2  Factor-Authentication para recuperar la cuenta"
+        },
+        "asset": {
+            "english": "Asset",
+            "german": "Anlagegut",
+            "japanese": "資産",
+            "korean": "유산",
+            "mandarin": "资产",
+            "spanish": "Activo"
+        },
+        "assets": {
+            "english": "Assets",
+            "german": "Vermögenswerte",
+            "japanese": "資産",
+            "korean": "자산",
+            "mandarin": "资产",
+            "spanish": "Activos"
+        },
+        "auth0Title": {
+            "english": "Passwordless Login",
+            "german": "Passwortloses Login",
+            "japanese": "パスワードなしのログイン",
+            "korean": "비밀번호없는 로그인",
+            "mandarin": "无密码登录",
+            "spanish": "Iniciar sesión sin password"
+        },
+        "buyThem": {
+            "english": "Buy them here",
+            "german": "Kaufen Sie sie hier",
+            "japanese": "ここで購入する",
+            "korean": "여기에서 구입",
+            "mandarin": "在这里买",
+            "spanish": "Puedes comprarlos aquí"
+        },
+        "close": {
+            "english": "Close",
+            "german": "Schließen",
+            "japanese": "閉じる",
+            "korean": "닫기",
+            "mandarin": "关",
+            "spanish": "Cerrar"
+        },
+        "collectibles": {
+            "english": "Collectibles",
+            "german": "Sammlerstücke",
+            "japanese": "コレクション",
+            "korean": "수집품",
+            "mandarin": "收藏品",
+            "spanish": "Collecionables"
+        },
+        "collectiblesDetails1": {
+            "english": "You have started your first collection.",
+            "german": "Sie haben Ihre erste Sammlung gestartet.",
+            "japanese": "最初のコレクションを開始しました。",
+            "korean": "첫 번째 컬렉션을 시작했습니다.",
+            "mandarin": "您已开始第一个收藏。",
+            "spanish": "Haz empezado tu primera colección."
+        },
+        "collectiblesDetails2": {
+            "english": "Keep it going!",
+            "german": "Lass es laufen!",
+            "japanese": "続けて！",
+            "korean": "계속해!",
+            "mandarin": "保持下去！",
+            "spanish": "Continúa!"
+        },
+        "collectiblesTitle": {
+            "english": "You nailed it",
+            "german": "Du hast den Nagel auf den Kopf getroffen",
+            "japanese": "あなたはそれを釘付けにした",
+            "korean": "니가 끝냈어",
+            "mandarin": "你钉了",
+            "spanish": "Lo has hecho mucho bien!"
+        },
+        "conductFirstTransaction": {
+            "english": "Conduct your<br/>first Transaction",
+            "german": "Führen Sie Ihre erste Transaktion durch",
+            "japanese": "最初の取引を行う",
+            "korean": "첫 거래 수행",
+            "mandarin": "进行第一次交易",
+            "spanish": "Realiza tu<br/>Primera Transacción"
+        },
+        "copy": {
+            "english": "Copied",
+            "german": "Kopiert",
+            "japanese": "コピーされました",
+            "korean": "복사",
+            "mandarin": "复制的",
+            "spanish": "Copiado"
+        },
+        "copyToClipboard": {
+            "english": "Copy to clipboard",
+            "german": "In die Zwischenablage kopieren",
+            "japanese": "クリップボードにコピー",
+            "korean": "클립 보드에 복사",
+            "mandarin": "复制到剪贴板",
+            "spanish": "Copiado al portapapeles"
+        },
+        "curious": {
+            "english": "Curious about how to get Tokens?",
+            "german": "Neugierig, wie man Tokens bekommt?",
+            "japanese": "トークンを取得するには？",
+            "korean": "토큰을 얻는 방법이 궁금하십니까?",
+            "mandarin": "好奇如何获得代币？",
+            "spanish": "Obtén más información sobre cómo obtener tokens."
+        },
+        "currency": {
+            "english": "CURRENCY",
+            "german": "WÄHRUNG",
+            "japanese": "通貨",
+            "korean": "통화",
+            "mandarin": "货币",
+            "spanish": "MONEDA"
+        },
+        "description": {
+            "english": "Description",
+            "german": "Beschreibung",
+            "japanese": "説明",
+            "korean": "기술",
+            "mandarin": "描述",
+            "spanish": "Descripción"
+        },
+        "downloadQR": {
+            "english": "Download QR",
+            "german": "Laden den QR-Code herunter",
+            "japanese": "QRコードをダウンロード",
+            "korean": "QR 코드 다운로드",
+            "mandarin": "下载二维码",
+            "spanish": "Bajar QR Code"
+        },
+        "explore": {
+            "english": "Explore",
+            "german": "Erkunden",
+            "japanese": "検索",
+            "korean": "탐색",
+            "mandarin": "探索",
+            "spanish": "Explorar"
+        },
+        "exploreSubtitle": {
+            "english": "Explore the largest decentralised marketplace for blockchain assets",
+            "german": "Entdecken Sie den größten dezentralen Marktplatz für Blockchain-Assets",
+            "japanese": "日本円でデジタルアイテム が購入可能（クレジット・pring）",
+            "korean": "블록 체인 자산을위한 가장 큰 탈 중앙화 시장을 탐색하십시오",
+            "mandarin": "探索最大的去中心化区块链资产市场",
+            "spanish": "Explora el más grande mercado decentralizado de blockchain"
+        },
+        "exploreTitle": {
+            "english": "Get your first item from OpenSea",
+            "german": "Holen Sie sich Ihren ersten Artikel bei OpenSea",
+            "japanese": "日本最大の取引所「Miime」でデジタルアイテムを入手する",
+            "korean": "OpenSea에서 첫 번째 아이템 받기",
+            "mandarin": "从OpenSea获取您的第一个项目",
+            "spanish": "Obtén tu primer item en OpenSea "
+        },
+        "getDigital": {
+            "english": "Get Digital Currency and Tokens",
+            "german": "Holen Sie sich digitale Währung und Token",
+            "japanese": "仮想通貨を取得する",
+            "korean": "디지털 통화 및 토큰 받기",
+            "mandarin": "获取数字货币和代币",
+            "spanish": "Obtén Monedas Digitales y Tokens"
+        },
+        "getDigitalDesc": {
+            "english": "You can share your wallet address with others to receive digital currency and tokens.",
+            "german": "Sie können Ihre Brieftaschenadresse mit anderen teilen, um digitale Währung und Token zu erhalten.",
+            "japanese": "ウォレットアドレスを共有して、仮想通貨を送金してもらえます。",
+            "korean": "지갑 주소를 다른 사람과 공유하여 디지털 통화 및 토큰을받을 수 있습니다.",
+            "mandarin": "您可以与他人共享您的钱包地址，以接收数字货币和令牌。",
+            "spanish": "Puedes compartir tu dirección de billetera con otros para recibir monedas digitales y tokens."
+        },
+        "getEth": {
+            "english": "Get ETH",
+            "german": "Holen Sie sich die ETH",
+            "japanese": "ETHを取得",
+            "korean": "ETH 받기",
+            "mandarin": "获取ETH",
+            "spanish": "Obtener ETH"
+        },
+        "getFirstCollectible": {
+            "english": "Get your first Collectible from OpenSea",
+            "german": "Holen Sie sich Ihr erstes Sammlerstück bei OpenSea",
+            "japanese": "OpenSeaから最初のグッズを入手する",
+            "korean": "OpenSea에서 첫 소장품 받기",
+            "mandarin": "从OpenSea获得第一个收藏品",
+            "spanish": "Obtén tu primer coleccionable con OpenSea"
+        },
+        "gettingStarted": {
+            "english": "Getting Started",
+            "german": "Beginnen",
+            "japanese": "開始",
+            "korean": "시작하기",
+            "mandarin": "开始",
+            "spanish": "Empezar"
+        },
+        "gettingStartedDesc": {
+            "english": "Here are some key terms to guide you along",
+            "german": "Hier sind einige Schlüsselbegriffe, die Ihnen dabei helfen sollen",
+            "japanese": "ここにあなたを導くいくつかの重要な用語があります",
+            "korean": "다음은 몇 가지 주요 용어를 안내합니다.",
+            "mandarin": "以下是一些指导您前进的关键术语",
+            "spanish": "Aquí términos claves para ayudarte"
+        },
+        "goSettings": {
+            "english": "Go Settings",
+            "german": "Ir a Configuración",
+            "japanese": "設定に行く",
+            "korean": "이동 설정",
+            "mandarin": "转到设置",
+            "spanish": "Ir a Configuración"
+        },
+        "goToOpensea": {
+            "english": "Go to OpenSea",
+            "german": "Gehen Sie zu OpenSea",
+            "japanese": "OpenSeaに移動",
+            "korean": "OpenSea로 이동",
+            "mandarin": "前往OpenSea",
+            "spanish": "Ir a OpenSea"
+        },
+        "goToTopUp": {
+            "english": "Go to Top-up Page",
+            "german": "Gehen Sie zur Aufladeseite",
+            "japanese": "トップページへ",
+            "korean": "톱 페이지로 이동",
+            "mandarin": "转到充值页面",
+            "spanish": "Ir a Depositar"
+        },
+        "goToTransfer": {
+            "english": "Go to Transfer Page",
+            "german": "Gehen Sie zur Übertragungsseite",
+            "japanese": "転送ページに移動",
+            "korean": "전송 페이지로 이동",
+            "mandarin": "转到转移页面",
+            "spanish": "Ir a Transferir"
+        },
+        "home": {
+            "english": "Home",
+            "german": "Startseite",
+            "japanese": "ホーム",
+            "korean": "홈페이지",
+            "mandarin": "主页",
+            "spanish": "Home"
+        },
+        "knowYourWallet": {
+            "english": "Know your Wallet Address",
+            "german": "Kennen Sie Ihre Brieftasche Adresse",
+            "japanese": "ウォレットアドレスを確認する",
+            "korean": "지갑 주소를 알고",
+            "mandarin": "知道你的钱包地址",
+            "spanish": "Conoce la dirección de tu billetera"
+        },
+        "knowYourWalletDesc": {
+            "english": "A wallet address is similar to a bank account number. It's a unique combination of letters and numbers that looks like this: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
+            "german": "Eine Brieftaschenadresse ähnelt einer Bankkontonummer. Es ist eine eindeutige Kombination aus Buchstaben und Zahlen, die so aussieht: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
+            "japanese": "ウォレットアドレスは、銀行口座番号のようなものです。次のような文字と数字のユニークな組み合わせです：0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
+            "korean": "지갑 주소는 은행 계좌 번호와 유사합니다. 다음과 같은 문자와 숫자의 고유 한 조합입니다. 0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
+            "mandarin": "钱包地址类似于银行帐号。它是字母和数字的独特组合，如下所示：0x09438E46Ea66647EA65E4b104C125c82076FDcE5",
+            "spanish": "La dirección de la billetera es similar al número de cuenta bancario. Es un código único alfanúmerico como este: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5"
+        },
+        "lastUpdate": {
+            "english": "Last update",
+            "german": "Letztes Update",
+            "japanese": "最終更新日",
+            "korean": "마지막 업데이트",
+            "mandarin": "最后更新",
+            "spanish": "últimas actualizaciones"
+        },
+        "learnMore": {
+            "english": "Learn more",
+            "german": "Erfahren Sie mehr",
+            "japanese": "もっと詳しく知る",
+            "korean": "더 알아보기",
+            "mandarin": "更多详情",
+            "spanish": "Aprende más"
+        },
+        "lessInfo": {
+            "english": "Less Info",
+            "german": "Weniger Informationen",
+            "japanese": "概要",
+            "korean": "적은 정보",
+            "mandarin": "较少的信息",
+            "spanish": "Menos información"
+        },
+        "moreInfo": {
+            "english": "More Info",
+            "german": "Mehr Informationen",
+            "japanese": "詳細",
+            "korean": "추가 정보",
+            "mandarin": "更多信息",
+            "spanish": "Más información"
+        },
+        "obNo2Subtitle1": {
+            "english": "This is your password to verify account ownership. Only you are able to access it. If you lose this, you potentially lose ownership of your account and ALL your money.",
+            "german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu Rechte. Nur Sie können daran gehört,. Wenn Sie sterben verlieren, verlieren Sie verlieren den Besitz Ihres Kontos und Ihr gesamtes Geld.",
+            "japanese": "これは、アカウントの所有権を確認するためのパスワードです。あなただけがそれにアクセスできます。これを失うと、アカウントとすべてのお金の所有権を失う可能性があります。",
+            "korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정의 소유권과 모든 돈을 잃게됩니다.",
+            "mandarin": "这是您用来验证帐户所有权的密码。只有您可以访问它。如果您输了这笔钱，则可能会失去帐户所有权和所有资金。",
+            "spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta."
+        },
+        "obNo2Subtitle2": {
+            "english": "Torus uses Google/Facebook 2 Factor-Authentication for account recovery.",
+            "german": "Torus verwendet Google / Facebook 2 Faktor-Authentifizierung zur Kontrolle des Kontos.",
+            "japanese": "TorusはGoogle / Facebook 2 Factor-Authenticationを使用してアカウントを復旧します。",
+            "korean": "Torus는 계정 복구를 위해 Google / Facebook 2 Factor-Authentication을 사용합니다.",
+            "mandarin": "Torus使用Google / Facebook 2 Factor-Authentication进行帐户恢复。",
+            "spanish": "Torus usa Google/Facebook 2 Factor-Authentication para recuperar la cuenta."
+        },
+        "obNo2Title1": {
+            "english": "Private Key",
+            "german": "Privat Schlüssel",
+            "japanese": "秘密鍵",
+            "korean": "개인 키",
+            "mandarin": "私钥",
+            "spanish": "Llave Privada"
+        },
+        "obNo2Title2": {
+            "english": "Account Recovery",
+            "german": "Konto-richtet",
+            "japanese": "アカウント復旧",
+            "korean": "계정 복구",
+            "mandarin": "帐户恢复",
+            "spanish": "Recuperación de Cuenta"
+        },
+        "obNoNext": {
+            "english": "Next",
+            "german": "Nächster",
+            "japanese": "次へ",
+            "korean": "다음",
+            "mandarin": "下一个",
+            "spanish": "Siguiente"
+        },
+        "obNoReturnHome": {
+            "english": "Return Home",
+            "german": "Zurück zur Startseite",
+            "japanese": "ホームページに戻る",
+            "korean": "홈페이지로 돌아 가기",
+            "mandarin": "返回首页",
+            "spanish": "Regresar a Home"
+        },
+        "obNoSkip": {
+            "english": "Skip",
+            "german": "Überspringen",
+            "japanese": "スキップ",
+            "korean": "건너 뛰기",
+            "mandarin": "跳跃",
+            "spanish": "Omitir"
+        },
+        "obNoSubtitle1": {
+            "english": "A wallet address is similar to a bank account number. It’s a unique combination of letters and numbers that looks like this:",
+            "german": "Eine Brieftaschenadresse ähnelt einer Bankkontonummer. Es ist eine einzigartige Kombination aus Buchstaben und Zahlen, die so aussieht:",
+            "japanese": "ウォレットアドレスは、銀行の口座番号のようなものです。文字と数字の組み合わせで構成されています。",
+            "korean": "지갑 주소는 은행 계좌 번호와 유사합니다. 다음과 같은 문자와 숫자의 고유 한 조합입니다.",
+            "mandarin": "钱包地址类似于银行帐号。它是字母和数字的独特组合，如下所示：",
+            "spanish": "La dirección de la billetera es similar al número de cuenta bancario. Es un código único alfanúmerico como este: 0x09438E46Ea66647EA65E4b104C125c82076FDcE5"
+        },
+        "obNoSubtitle2": {
+            "english": "You can share your wallet address with others to receive digital currency and tokens.",
+            "german": "Sie können Ihre Brieftaschenadresse mit anderen teilen, um digitale Währungen und Token zu erhalten.",
+            "japanese": "ウォレットアドレスを共有して、仮想通貨やトークンを送受信することができます。",
+            "korean": "지갑 주소를 다른 사람과 공유하여 디지털 통화 및 토큰을받을 수 있습니다.",
+            "mandarin": "您可以与他人共享您的钱包地址，以接收数字货币和令牌。",
+            "spanish": "Puedes compartir tu dirección de billetera con otros para recibir monedas digitales y tokens."
+        },
+        "obNoTitle1": {
+            "english": "Know your Wallet Address",
+            "german": "Kennen Sie Ihre Brieftaschenadresse",
+            "japanese": "ウォレットアドレスを確認",
+            "korean": "지갑 주소를 알고",
+            "mandarin": "知道你的钱包地址",
+            "spanish": "Conoce tu Dirección de Billetera "
+        },
+        "obNoTitle2": {
+            "english": "Get Digital Currency and Tokens",
+            "german": "Holen Sie sich digitale Währung und Token",
+            "japanese": "仮想通貨を入手する",
+            "korean": "디지털 통화 및 토큰 받기",
+            "mandarin": "获取数字货币和代币",
+            "spanish": "Obtén Monedas Digitales y Tokens"
+        },
+        "obSetupEg": {
+            "english": "E.g: ETH, DAI, Collectibles etc",
+            "german": "Zum Beispiel: ETH, DAI, Sammlerstücke usw.",
+            "japanese": "例：ETH、DAI、収集品など",
+            "korean": "예 : ETH, DAI, 수집품 등",
+            "mandarin": "例如：ETH，DAI，收藏品等",
+            "spanish": "Por ejemplo: ETH, DAI, Coleccionables, etc"
+        },
+        "obSetupNo": {
+            "english": "I do not own digital assets",
+            "german": "Ich besitze keine digitalen Assets",
+            "japanese": "私はデジタル資産を所有していません",
+            "korean": "나는 디지털 자산을 소유하지 않습니다",
+            "mandarin": "我没有数字资产",
+            "spanish": "No tengo activos digitales"
+        },
+        "obSetupSubtitle": {
+            "english": "Select one of the following statements that best describes you.",
+            "german": "Wählen Sie eine der folgenden Aussagen aus, die Sie am besten beschreibt.",
+            "japanese": "次の中から、自分に最も当てはまるものを1つ選択してください。",
+            "korean": "가장 잘 설명 된 다음 설명 중 하나를 선택하십시오.",
+            "mandarin": "选择以下最能描述您的语句之一。",
+            "spanish": " Selecciona cuál opción te describe mejor."
+        },
+        "obSetupTitle": {
+            "english": "Let us get you set up",
+            "german": "Lassen Sie sich von uns einrichten",
+            "japanese": "セットアップしましょう",
+            "korean": "우리가 당신을 설정하자",
+            "mandarin": "让我们为您设置",
+            "spanish": "Prepararemos todo para ti"
+        },
+        "obSetupYes": {
+            "english": "I own digital assets",
+            "german": "Ich besitze digitale Assets",
+            "japanese": "私はデジタル資産を所有しています",
+            "korean": "나는 디지털 자산을 소유",
+            "mandarin": "我拥有数字资产",
+            "spanish": "Tengo activos digitales"
+        },
+        "obYesOk": {
+            "english": "Ok, got it",
+            "german": "OK habe es",
+            "japanese": "わかりました！",
+            "korean": "알았어",
+            "mandarin": "好的，我知道了",
+            "spanish": "Ok, entendido"
+        },
+        "obYesSubtitle1": {
+            "english": "Send and purchase tokens and collectibles. Import your account to experience the features within your Torus Wallet.",
+            "german": "Senden und kaufen Sie Token und Sammlerstücke. Importieren Sie Ihr Konto, um die Funktionen in Ihrer Torus-Brieftasche zu nutzen.",
+            "japanese": "トークンとコレクションを送信、購入します。\nアカウントをインポートすることで、Torus Wallet内の機能を体験できます。",
+            "korean": "토큰과 수집품을 보내고 구매하십시오. Torus Wallet 내에서 기능을 사용하려면 계정을 가져 오십시오.",
+            "mandarin": "发送和购买令牌和收藏品。导入您的帐户以体验Torus钱包中的功能。",
+            "spanish": "Envía y compra tokens y coleccionables. Importa tu cuenta existente y utiliza los beneficios de Torus."
+        },
+        "obYesSubtitle2": {
+            "english": "A feature unique to Torus' Wallet. Do away with long public addresses. A gmail address is all you need to get that cool asset across to your friend.",
+            "german": "Eine Besonderheit von Torus 'Geldbörse. Beseitigen Sie lange öffentliche Adressen. Eine Google Mail-Adresse ist alles, was Sie brauchen, um Ihrem Freund dieses coole Asset zu vermitteln.",
+            "japanese": "Torus Walletの特徴です。長いウォレットアドレスではなく、Gmailを使ってクールなアセットを届けることができます。",
+            "korean": "Torus 월렛 만의 고유 한 기능입니다. 긴 공개 주소를 사용하지 마십시오. Gmail 주소 만 있으면 멋진 자산을 친구에게 전달할 수 있습니다.",
+            "mandarin": "Torus钱包独有的功能。删除冗长的公共地址。您只需将gmail地址发送给您的朋友即可。",
+            "spanish": "Un beneficio único de Toris. No más direcciones largas. Sólo necesitas las dirección de correo de tus contactos para compartir activos digitales"
+        },
+        "obYesTitle1": {
+            "english": "Enjoy features like you have always been",
+            "german": "Genießen Sie Funktionen wie immer",
+            "japanese": "いつものような機能をお楽しみください",
+            "korean": "항상 그랬던 것처럼 기능을 즐기십시오",
+            "mandarin": "享受与以往一样的功能",
+            "spanish": "Disfruta los beneficios que siempre haz usado."
+        },
+        "obYesTitle2": {
+            "english": "Send tokens to your friend's gmail",
+            "german": "Senden Sie Token an Google Mail Ihres Freundes",
+            "japanese": "Gmailを使ってトークンを送信する",
+            "korean": "친구의 Gmail로 토큰 보내기",
+            "mandarin": "将令牌发送到您朋友的gmail",
+            "spanish": "Envía tokens utilizando el correo de tus amigos"
+        },
+        "privacySecurity": {
+            "english": "Privacy and Security",
+            "german": "Privatsphäre und Sicherheit",
+            "japanese": "プライバシーとセキュリティ",
+            "korean": "개인 정보 및 보안",
+            "mandarin": "隐私权与安全性",
+            "spanish": "Privacidad y Seguridad"
+        },
+        "privacySecurityDesc": {
+            "english": "Your Privacy are our top priority",
+            "german": "Ihre Privatsphäre hat für uns oberste Priorität",
+            "japanese": "あなたのプライバシーは私たちの最優先事項です",
+            "korean": "당신의 프라이버시는 우리의 최우선입니다",
+            "mandarin": "您的隐私是我们的首要任务",
+            "spanish": "Tu privacidad es nuestra prioridad"
+        },
+        "privateKey": {
+            "english": "Private Key",
+            "german": "Privat Schlüssel",
+            "japanese": "秘密鍵",
+            "korean": "개인 키",
+            "mandarin": "私钥",
+            "spanish": "Llave Privada"
+        },
+        "privateKeyDesc": {
+            "english": "This is your password to verify account ownership. Only you are able to access it. If you lose this, you potentially lose ownership of your account and ALL your money.",
+            "german": "Dies ist Ihr Passwort, um den Besitz des Kontos zu bestätigen. Nur Sie können darauf zugreifen. Wenn Sie dies verlieren, verlieren Sie möglicherweise den Besitz Ihres Kontos und Ihr gesamtes Geld.",
+            "japanese": "これは、アカウントの所有権を確認するためのパスワードです。Torusではパスワードを管理していません。パスワードをなくした場合、アカウントで管理している全ての資産を失う可能性があります。",
+            "korean": "계정 소유권을 확인하기위한 비밀번호입니다. 당신 만이 접근 할 수 있습니다. 당신이 이것을 잃으면, 당신은 잠재적으로 당신의 계정과 모든 돈의 소유권을 잃게됩니다.",
+            "mandarin": "这是您用来验证帐户所有权的密码。只有您可以存取它。如果您把密码弄丢了，则可能会失去帐户所有权和所有资金。",
+            "spanish": "Este es un password para verificar que eres dueño de la cuenta. Sólo tú eres capaz de acceder. Si lo pierdes, potencialmente puedes perder el control y dinero de tu cuenta."
+        },
+        "returnHome": {
+            "english": "Return Home",
+            "german": "Nach Hause zurückkehren",
+            "japanese": "帰宅",
+            "korean": "집에 돌아 간다",
+            "mandarin": "回家",
+            "spanish": "Regresar a Home"
+        },
+        "showAllTokens": {
+            "english": "Show all Tokens",
+            "german": "Alle Token anzeigen",
+            "japanese": "すべてのトークンを表示",
+            "korean": "모든 토큰 표시",
+            "mandarin": "显示所有代币",
+            "spanish": "Mostrar todas las fichas"
+        },
+        "tokens": {
+            "english": "Tokens",
+            "german": "Tokens",
+            "japanese": "トークン",
+            "korean": "토큰",
+            "mandarin": "代币",
+            "spanish": "Tokens"
+        },
+        "topUp": {
+            "english": "Top up",
+            "german": "Nachfüllen",
+            "japanese": "チャージ",
+            "korean": "위로",
+            "mandarin": "充值",
+            "spanish": "Depositar"
+        },
+        "topupDetails1": {
+            "english": "Good work in completing your first Top up.",
+            "german": "Gute Arbeit bei der Fertigstellung Ihrer ersten Aufladung.",
+            "japanese": "最初のトップアップを完了するには良い仕事です。",
+            "korean": "첫 번째 탑업을 완료하는 데 도움이됩니다.",
+            "mandarin": "在完成您的第一个充值方面做得很好。",
+            "spanish": "Buen trabajo completando tu primer depósito."
+        },
+        "topupDetails2": {
+            "english": "You are all set up!",
+            "german": "Sie sind alle eingerichtet!",
+            "japanese": "これで準備は完了です。",
+            "korean": "당신은 모두 설정되었습니다!",
+            "mandarin": "你们都准备好了！",
+            "spanish": "Todo listo para empezar!"
+        },
+        "topupTitle": {
+            "english": "Congratulations",
+            "german": "Herzliche Glückwünsche",
+            "japanese": "おめでとう",
+            "korean": "축하합니다",
+            "mandarin": "恭喜啦",
+            "spanish": "Felicidades"
+        },
+        "topupTransactionDetails1": {
+            "english": "You just made your first transaction.",
+            "german": "Sie haben gerade Ihre erste Transaktion durchgeführt.",
+            "japanese": "あなたは最初の取引をしました。",
+            "korean": "방금 첫 거래를하셨습니다.",
+            "mandarin": "您刚刚完成了第一笔交易。",
+            "spanish": "Haz hecho tu primera transacción. "
+        },
+        "topupTransactionDetails2": {
+            "english": "You are definitely on the right track!",
+            "german": "Sie sind definitiv auf dem richtigen Weg!",
+            "japanese": "あなたは間違いなく正しい軌道に乗っています！",
+            "korean": "당신은 확실히 올바른 길을 가고 있습니다!",
+            "mandarin": "您绝对是在正确的轨道上！",
+            "spanish": "Estás en la dirección correcta!"
+        },
+        "topupTransactionTitle": {
+            "english": "Well Done",
+            "german": "Gut gemacht",
+            "japanese": "よくやった",
+            "korean": "잘 했어",
+            "mandarin": "做得好",
+            "spanish": "Bien Hecho"
+        },
+        "topUpWallet": {
+            "english": "Top-up your<br/>Wallet",
+            "german": "Laden Sie Ihre Brieftasche auf",
+            "japanese": "ウォレットにチャージする",
+            "korean": "월렛 충전",
+            "mandarin": "充值电子钱包",
+            "spanish": "Depositar en tu<br/>Billetera"
+        },
+        "totalValue": {
+            "english": "TOTAL VALUE",
+            "german": "GESAMTWERT",
+            "japanese": "総額",
+            "korean": "총 가치",
+            "mandarin": "总价值",
+            "spanish": "VALOR TOTAL"
+        },
+        "transfer": {
+            "english": "Transfer",
+            "german": "Transfer",
+            "japanese": "送金",
+            "korean": "이전",
+            "mandarin": "传递",
+            "spanish": "Transferir"
+        },
+        "verifyLogin": {
+            "english": "Verify login",
+            "german": "Überprüfen Sie die Anmeldung",
+            "japanese": "ログインを確認",
+            "korean": "로그인 확인",
+            "mandarin": "验证登录",
+            "spanish": "Verificar inicio de sesión"
+        },
+        "verifyLoginDesc1": {
+            "english": "A login to this account is detected from a new device.",
+            "german": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo.",
+            "japanese": "このアカウントへのログインは、新しいデバイスから検出されます。",
+            "korean": "이 계정에 대한 로그인은 새 장치에서 감지됩니다.",
+            "mandarin": "从新设备检测到该帐户的登录。",
+            "spanish": "Se detecta un inicio de sesión en esta cuenta desde un nuevo dispositivo."
+        },
+        "verifyLoginDesc2": {
+            "english": "Please proceed to your 'Settings' page to view the request.",
+            "german": "Vaya a la página \"Configuración\" para ver la solicitud.",
+            "japanese": "リクエストを表示するには、[設定]ページに進んでください。",
+            "korean": "요청을 보려면 '설정'페이지로 이동하십시오.",
+            "mandarin": "请进入“设置”页面以查看请求。",
+            "spanish": "Vaya a la página \"Configuración\" para ver la solicitud."
+        },
+        "viewLess": {
+            "english": "view less",
+            "german": "weniger anzeigen",
+            "japanese": "表示を減らす",
+            "korean": "적게보기",
+            "mandarin": "少看",
+            "spanish": "ver menos"
+        },
+        "viewMore": {
+            "english": "view more",
+            "german": "mehr sehen",
+            "japanese": "もっと見る",
+            "korean": "더보기",
+            "mandarin": "查看更多",
+            "spanish": "ver más"
+        },
+        "walletCreated": {
+            "english": "Torus Wallet created",
+            "german": "Torus Wallet erstellt",
+            "japanese": "トーラスウォレットが作成されました",
+            "korean": "Torus Wallet이 생성되었습니다",
+            "mandarin": "创建Torus钱包",
+            "spanish": "Billetera Torus creada"
+        },
+        "walletHome": {
+            "english": "Account Balance",
+            "german": "Kontostand",
+            "japanese": "残高",
+            "korean": "계정 잔액",
+            "mandarin": "账户余额",
+            "spanish": "Balance de Cuenta"
+        },
+        "welcome": {
+            "english": "Welcome to",
+            "german": "Willkommen zu",
+            "japanese": "へようこそ",
+            "korean": "에 오신 것을 환영합니다",
+            "mandarin": "欢迎来到",
+            "spanish": "Bienvenido a"
+        },
+        "whatIs": {
+            "english": "What is",
+            "german": "Was ist",
+            "japanese": "とは",
+            "korean": "뭐가",
+            "mandarin": "什么是",
+            "spanish": "Qué es"
+        },
+        "whatIsDesc": {
+            "english": "Torus is a key management solution that aims to provide an easy access to services running on Blockchain.",
+            "german": "Torus ist eine Schlüsselverwaltungslösung mit dem Ziel, einen einfachen Zugriff auf Dienste zu ermöglichen, die in Blockchain ausgeführt werden.",
+            "japanese": "トーラスは、ブロックチェーンで実行されているサービスへの簡単なアクセスを提供することを目的とする重要な管理ソリューションです。",
+            "korean": "Torus는 블록 체인에서 실행되는 서비스에 쉽게 액세스 할 수 있도록하는 핵심 관리 솔루션입니다.",
+            "mandarin": "Torus是一个关键管理解决方案，旨在提供对在区块链上运行的服务的轻松访问。",
+            "spanish": "Torus es una solución para administrar llaves que busca proveer un fácil acceso a los servicios en Blockchain."
+        },
+        "yourPublicAddress": {
+            "english": "Your Public Address",
+            "german": "Ihre öffentliche Adresse",
+            "japanese": "あなたのウォレットアドレス",
+            "korean": "당신의 공개 주소",
+            "mandarin": "您的公开钱包地址",
+            "spanish": "Tu dirección pública"
         }
     }
 }
