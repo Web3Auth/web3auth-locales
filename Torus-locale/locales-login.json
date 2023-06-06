@@ -1,1694 +1,1694 @@
 {
-  "tkeyCreateSetup": {
-    "youNeedBackup": {
-      "korean": "비밀번호를 잊어 버린 경우 디바이스 저장소에 백업 할 수 있습니다.",
-      "german": "Sie können eine Sicherungskopie im Gerätespeicher erstellen, falls Sie Ihr Kennwort vergessen haben",
-      "english": "You may want to backup on device storage in case you forget your password",
-      "mandarin": "您可能希望备份设备存储，以防忘记密码",
-      "japanese": "パスワードを忘れた場合に備えて、デバイスのストレージにバックアップすることをお勧めします",
-      "spanish": "Es posible que desee realizar una copia de seguridad en el almacenamiento del dispositivo en caso de que olvide su contraseña"
-    },
-    "walletAuth": {
-      "korean": "어카운트 인증 팩터",
-      "german": "Kontoauthentifizierungsfaktoren",
-      "english": "Account authentication factors",
-      "mandarin": "帐户认证因素",
-      "japanese": "アカウント認証要素",
-      "spanish": "Factores de autenticación de cuenta"
-    },
-    "browser": {
-      "korean": "브라우저",
-      "german": "Browser",
-      "english": "Browser",
-      "mandarin": "浏览器",
-      "japanese": "ブラウザ",
-      "spanish": "Navegador"
-    },
-    "youWouldRequire3": {
-      "korean": "다음 중 tKey 어카운트을 인증하고 액세스합니다.",
-      "german": "der folgenden Optionen, um Ihr tKey-Konto zu authentifizieren und darauf zuzugreifen.",
-      "english": "of the following to authenticate and access your tKey account.",
-      "mandarin": "以下内容用于验证和访问您的tKey帐户。",
-      "japanese": "次のいずれかを使用して、tKeyアカウントを認証およびアクセスします。",
-      "spanish": "de los siguientes para autenticar y acceder a su cuenta tKey."
-    },
-    "passwordRequired": {
-      "korean": "비밀번호가 필요합니다",
-      "german": "Passwort wird benötigt",
-      "english": "Password is required",
-      "mandarin": "密码是必需的",
-      "japanese": "パスワードが必要",
-      "spanish": "Se requiere contraseña"
-    },
-    "authViaBrowser1": {
-      "korean": "브라우저를 통한 인증은 저장된 쿠키로 제한됩니다.",
-      "german": "Die Authentifizierung über den Browser ist auf die gespeicherten Cookies beschränkt.",
-      "english": "Authentication via browser is limited to the cookies stored.",
-      "mandarin": "通过浏览器的身份验证仅限于存储的cookie。",
-      "japanese": "ブラウザ経由の認証は、保存されているCookieに限定されます。",
-      "spanish": "La autenticación a través del navegador se limita a las cookies almacenadas."
-    },
-    "youWouldRequire2": {
-      "korean": "두",
-      "german": "ZWEI",
-      "english": "TWO",
-      "mandarin": "ZWEI",
-      "japanese": "二",
-      "spanish": "DOS"
-    },
-    "youWouldRequire1": {
-      "korean": "당신은",
-      "german": "Sie würden keine benötigen",
-      "english": "You would require any",
-      "mandarin": "您需要任何",
-      "japanese": "あなたは",
-      "spanish": "Necesitarías cualquier"
-    },
-    "youNeedOneMore": {
-      "korean": "tKey 어카운트을 설정하려면 인증 팩터가 하나 더 필요합니다.",
-      "german": "Sie benötigen einen weiteren Authentifizierungsfaktor, um Ihr tKey-Konto einzurichten.",
-      "english": "You need one more authentication factor to set up your tKey account.",
-      "mandarin": "您还需要一个认证因素来设置您的tKey帐户。",
-      "japanese": "tKeyアカウントを設定するには、もう1つの認証要素が必要です。",
-      "spanish": "Necesita un factor de autenticación más para configurar su cuenta tKey."
-    },
-    "minAlphaNumeric": {
-      "korean": "최소 10 자리 영숫자",
-      "german": "Mindestens 10 alphanumerische Zeichen",
-      "english": "Min 10 alphanumeric characters",
-      "mandarin": "最少10个字母数字字符",
-      "japanese": "10文字以上の英数字",
-      "spanish": "Mínimo 10 caracteres alfanuméricos"
-    },
-    "confirmPassword": {
-      "korean": "비밀번호 재 입력",
-      "german": "Passwort erneut eingeben",
-      "english": "Retype password",
-      "mandarin": "重新输入密码",
-      "japanese": "パスワードを再入力してください",
-      "spanish": "Vuelva a escribir la contraseña"
-    },
-    "excellent": {
-      "korean": "우수한",
-      "german": "Ausgezeichnet",
-      "english": "Excellent",
-      "mandarin": "优秀的",
-      "japanese": "優れた",
-      "spanish": "Excelente"
-    },
-    "cancel": {
-      "korean": "취소",
-      "german": "Stornieren",
-      "english": "Cancel",
-      "mandarin": "取消",
-      "japanese": "キャンセル",
-      "spanish": "Cancelar"
-    },
-    "backupOnDevice": {
-      "korean": "디바이스 저장소를 백업으로 허용합니다.",
-      "german": "Gerätespeicher als Backup zulassen.",
-      "english": "Allow device storage as backup. ",
-      "mandarin": "允许设备存储作为备份。",
-      "japanese": "デバイスのストレージをバックアップとして許可します。",
-      "spanish": "Permita el almacenamiento del dispositivo como respaldo."
-    },
-    "authViaBrowser2": {
-      "korean": "클릭",
-      "german": "Klicke um",
-      "english": " Click to",
-      "mandarin": "点击到",
-      "japanese": "クリックして",
-      "spanish": "Haga clic para"
-    },
-    "passwordRules": {
-      "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자 및 하나의 숫자",
-      "german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe und eine Zahl",
-      "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
-      "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母和一个数字",
-      "japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、および1つの数字",
-      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula y un número"
-    },
-    "passwordMatch": {
-      "korean": "암호가 일치해야합니다",
-      "german": "Passwort muss übereinstimmen",
-      "english": "Password must match",
-      "mandarin": "密码必须匹配",
-      "japanese": "パスワードが一致している必要があります",
-      "spanish": "Contraseña debe coincidir con"
-    },
-    "youMayWantTo": {
-      "korean": "하나 이상의 인증 팩터를 백업으로 설정할 수 있습니다.",
-      "german": "Möglicherweise möchten Sie einen weiteren Authentifizierungsfaktor als Backup einrichten.",
-      "english": "You may want to set up one more authentication factor as a backup.",
-      "mandarin": "您可能想再设置一个身份验证因子作为备份。",
-      "japanese": "バックアップとしてもう1つの認証要素を設定することをお勧めします。",
-      "spanish": "Es posible que desee configurar un factor de autenticación más como respaldo."
-    },
-    "iUnderstand": {
-      "korean": "내 tKey 어카운트에 액세스하려면 최소한 두 가지 인증 팩터가 필요하다는 것을 이해합니다. 그렇지 않으면 내 tKey 어카운트에 액세스 할 수 없습니다.",
-      "german": "Ich verstehe, dass ich mindestens zwei Authentifizierungsfaktoren benötige, um auf mein tKey-Konto zuzugreifen. Andernfalls verliere ich den Zugriff auf mein tKey-Konto.",
-      "english": "I understand that I need at least two authentication factors to access my tKey account. Otherwise,  I lose access to my tKey account.",
-      "mandarin": "我了解我至少需要两个身份验证因素才能访问我的tKey帐户。否则，我将无法访问我的tKey帐户。",
-      "japanese": "tKeyアカウントにアクセスするには、少なくとも2つの認証要素が必要であることを理解しています。そうしないと、tKeyアカウントにアクセスできなくなります。",
-      "spanish": "Entiendo que necesito al menos dos factores de autenticación para acceder a mi cuenta tKey. De lo contrario, pierdo el acceso a mi cuenta tKey."
-    },
-    "youNeedPassword": {
-      "korean": "기기를 분실 한 경우를 대비하여 복구 비밀번호를 설정하는 것이 좋습니다.",
-      "german": "Möglicherweise möchten Sie ein Wiederherstellungskennwort einrichten, falls Sie Ihr Gerät verlieren.",
-      "english": "You may want to set up a recovery password in case you lose your device.",
-      "mandarin": "您可能需要设置恢复密码，以防设备丢失。",
-      "japanese": "デバイスを紛失した場合に備えて、回復パスワードを設定することをお勧めします。",
-      "spanish": "Es posible que desee configurar una contraseña de recuperación en caso de que pierda su dispositivo."
-    },
-    "average": {
-      "korean": "평균",
-      "german": "Durchschnittlich",
-      "english": "Average",
-      "mandarin": "平均",
-      "japanese": "平均",
-      "spanish": "Promedio"
-    },
-    "createWallet": {
-      "korean": "tKey 어카운트 생성",
-      "german": "Erstellen Sie ein tKey-Konto",
-      "english": "Create tKey account",
-      "mandarin": "创建tKey账户",
-      "japanese": "tKeyアカウントを作成する",
-      "spanish": "Crear cuenta tKey"
-    },
-    "good": {
-      "korean": "좋은",
-      "german": "Gut",
-      "english": "Good",
-      "mandarin": "好",
-      "japanese": "良い",
-      "spanish": "Bueno"
-    },
-    "youHaveSufficient": {
-      "korean": "tKey 어카운트에 대한 충분한 인증 팩터가 있습니다. 브라보!",
-      "german": "Sie haben ausreichende Authentifizierungsfaktoren für Ihr tKey-Konto. Bravo!",
-      "english": "You have sufficient authentication factors for your tKey account. Bravo!",
-      "mandarin": "您的tKey帐户具有足够的身份验证因素。太棒了！",
-      "japanese": "tKeyアカウントに十分な認証要素があります。ブラボー！",
-      "spanish": "Tiene suficientes factores de autenticación para su cuenta tKey. ¡Bravo!"
-    },
-    "recoveryPass": {
-      "korean": "tKey 비밀번호",
-      "german": "tKey Passwort",
-      "english": "tKey Password",
-      "mandarin": "tKey密码",
-      "japanese": "tKeyパスワード",
-      "spanish": "tKey Contraseña"
-    },
-    "authViaBrowser3": {
-      "korean": "디바이스 저장을 백업으로 허용하십시오.",
-      "german": "Gerätespeicher als Backup zulassen.",
-      "english": "allow device storage as backup.",
-      "mandarin": "允许设备存储作为备份。",
-      "japanese": "バックアップとしてデバイスストレージを許可します。",
-      "spanish": "permitir el almacenamiento del dispositivo como copia de seguridad."
-    },
-    "authFactors": {
-      "korean": "인증 팩터",
-      "german": "Authentifizierungsfaktoren",
-      "english": "Authentication factors",
-      "mandarin": "认证因素",
-      "japanese": "認証要素",
-      "spanish": "Factores de autenticación"
-    },
-    "youNeedBackupPassword": {
-      "korean": "tKey 어카운트을 생성하려면 디바이스 저장소에 백업하거나 복구 암호를 설정해야합니다.",
-      "german": "Sie müssen eine Sicherungskopie im Gerätespeicher erstellen oder ein Wiederherstellungskennwort einrichten, um Ihr tKey-Konto zu erstellen",
-      "english": "You need to backup on device storage or set up a recovery password to create your tKey account",
-      "mandarin": "您需要备份设备存储或设置恢复密码才能创建tKey帐户",
-      "japanese": "tKeyアカウントを作成するには、デバイスストレージにバックアップするか、回復パスワードを設定する必要があります",
-      "spanish": "Necesita hacer una copia de seguridad en el almacenamiento del dispositivo o configurar una contraseña de recuperación para crear su cuenta tKey"
-    }
-  },
-  "tkeyNew": {
-    "youCanEdit": {
-      "korean": "'설정'페이지에서 수정할 수 있습니다.",
-      "german": "Sie können es auf der Seite \"Einstellungen\" bearbeiten.",
-      "english": "You can edit it from the ‘Settings’ page.",
-      "mandarin": "您可以从“设置”页面进行编辑。",
-      "japanese": "「設定」ページから編集できます。",
-      "spanish": "Puede editarlo desde la página \"Configuración\"."
-    },
-    "setPassword": {
-      "korean": "암호를 설정하세요",
-      "german": "Passwort festlegen",
-      "english": "Set password",
-      "mandarin": "设置密码",
-      "japanese": "パスワードを設定してください",
-      "spanish": "Configurar la clave"
-    },
-    "typeInPass": {
-      "korean": "비밀번호 입력",
-      "german": "Geben Sie das Passwort ein",
-      "english": "Type in password",
-      "mandarin": "输入密码",
-      "japanese": "パスワードを入力してください",
-      "spanish": "Escriba la contraseña"
-    },
-    "theFollowing": {
-      "korean": "다음이 인증 자로 추가되었습니다.",
-      "german": "Folgendes wurde als Authentifikator hinzugefügt.",
-      "english": "The following has been added as an authenticator.",
-      "mandarin": "以下已添加为验证者。",
-      "japanese": "オーセンティケーターとして以下を追加しました。",
-      "spanish": "Se ha agregado lo siguiente como autenticador."
-    },
-    "skip": {
-      "korean": "건너 뛰고 먼저 내 {verifier} 지갑으로 이동",
-      "german": "Überspringen Sie, gehen Sie zuerst zu meiner {verifier} Wallet",
-      "english": "Skip, go to my {verifier} Wallet first",
-      "mandarin": "跳过，先进入我的{verifier}电子钱包",
-      "japanese": "スキップして、最初に{verifier}ウォレットに移動",
-      "spanish": "Omitir, primero ve a mi {verifier} Wallet"
-    },
-    "errorIncorrectPass": {
-      "korean": "잘못된 비밀번호. 다시 시도하십시오",
-      "german": "Contraseña incorrecta. Inténtalo de nuevo",
-      "english": "Incorrect password. Please try again",
-      "mandarin": "密码错误。请再试一遍",
-      "japanese": "パスワードが間違っています。もう一度お試しください",
-      "spanish": "Contraseña incorrecta. Inténtalo de nuevo"
-    },
-    "oopsDidntWork": {
-      "korean": "죄송합니다. 작동하지 않았습니다. 새로 고침하고 다시 시도하십시오.",
-      "german": "Ups, das hat nicht funktioniert. Bitte neu laden und erneut versuchen.",
-      "english": "Oops, That didn't work. Please reload and try again.",
-      "mandarin": "糟糕，那没有用。请重新加载，然后重试。",
-      "japanese": "おっと、それはうまくいきませんでした。リロードして再試行してください。",
-      "spanish": "Vaya, eso no funcionó. Vuelva a cargar e inténtelo de nuevo."
-    },
-    "itSeems4": {
-      "korean": "다음 중 {num} 개",
-      "german": "mit {num} der folgenden",
-      "english": "with {num} of the following",
-      "mandarin": "与以下{num}",
-      "japanese": "次の{num}",
-      "spanish": "con {num} de los siguientes"
-    },
-    "error": {
-      "korean": "오류",
-      "german": "Error",
-      "english": "Error",
-      "mandarin": "错误",
-      "japanese": "エラー",
-      "spanish": "Error"
-    },
-    "matchRefId1": {
-      "korean": "참조 ID와 일치",
-      "german": "Passen Sie die Referenz-ID an",
-      "english": "Match the Reference ID",
-      "mandarin": "匹配参考编号",
-      "japanese": "参照IDと一致する",
-      "spanish": "Coincidir con el ID de referencia"
-    },
-    "saveDevice": {
-      "korean": "브라우저 저장",
-      "german": "Sicherer Browser",
-      "english": "Save browser",
-      "mandarin": "保存浏览器",
-      "japanese": "ブラウザを保存する",
-      "spanish": "Guardar Navegador"
-    },
-    "browser": {
-      "korean": "브라우저",
-      "german": "Browser",
-      "english": "Browser",
-      "mandarin": "浏览器",
-      "japanese": "ブラウザ",
-      "spanish": "Navegador"
-    },
-    "reportNotMe2": {
-      "korean": "신고",
-      "german": "Berichte Es",
-      "english": "report it",
-      "mandarin": "报告它",
-      "japanese": "それを報告する",
-      "spanish": "reportalo"
-    },
-    "device": {
-      "korean": "디바이스",
-      "german": "Gerät",
-      "english": "Device",
-      "mandarin": "设备",
-      "japanese": "端末",
-      "spanish": "Dispositivo"
-    },
-    "uploadAFile": {
-      "korean": "파일을 올리다",
-      "german": "Eine Datei hochladen",
-      "english": "Upload a file",
-      "mandarin": "上传一个文件",
-      "japanese": "ファイルをアップロードする",
-      "spanish": "Cargar un archivo"
-    },
-    "uploadFile": {
-      "korean": "파일 업로드",
-      "german": "Datei hochladen",
-      "english": "Upload File",
-      "mandarin": "上传文件",
-      "japanese": "ファイルをアップロードする",
-      "spanish": "Subir archivo"
-    },
-    "verificationReq": {
-      "korean": "확인 필요",
-      "german": "Bestätigung notwendig",
-      "english": "Verification required",
-      "mandarin": "需要验证",
-      "japanese": "確認が必要です",
-      "spanish": "Verificación requerida"
-    },
-    "verifyViaAnother": {
-      "korean": "다른 방법을 통해 확인",
-      "german": "Überprüfen Sie mit einer anderen Methode",
-      "english": "Verify via another method",
-      "mandarin": "通过其他方法验证",
-      "japanese": "別の方法で確認",
-      "spanish": "Verificar mediante otro método"
-    },
-    "verified": {
-      "korean": "확인 됨",
-      "german": "Verifiziert",
-      "english": "Verified",
-      "mandarin": "已验证",
-      "japanese": "確認済み",
-      "spanish": "Verificado"
-    },
-    "contactSupport": {
-      "korean": "지원 연락",
-      "german": "Kontaktieren Sie Support",
-      "english": "Contact support",
-      "mandarin": "联系支持",
-      "japanese": "サポート問い合わせ先",
-      "spanish": "Soporte de contacto"
-    },
-    "somethingWentWrong": {
-      "korean": "문제가 발생했습니다. 다시 시도하십시오",
-      "german": "Etwas ist schief gelaufen. Bitte versuche es erneut",
-      "english": "Something went wrong. Please try again",
-      "mandarin": "出了些问题。请再试一次",
-      "japanese": "何かがうまくいかなかった。もう一度やり直してください",
-      "spanish": "Algo salió mal. Inténtalo de nuevo"
-    },
-    "verificationMethods": {
-      "korean": "검증 방법",
-      "german": "Überprüfungsmethoden",
-      "english": "Verification methods",
-      "mandarin": "验证方式",
-      "japanese": "検証方法",
-      "spanish": "Métodos de verificación"
-    },
-    "saveNewDevice": {
-      "korean": "새 브라우저를 별도의 인증 팩터로 저장하거나 기존 디바이스로 추가",
-      "german": "Speichern Sie den neuen Browser als separaten Authentifizierungsfaktor oder fügen Sie ihn als vorhandenes Gerät hinzu",
-      "english": "Save new browser as a separate authentication factor or add it as an existing device",
-      "mandarin": "将新浏览器另存为单独的身份验证因素，或将其添加为现有设备",
-      "japanese": "新しいブラウザを別の認証要素として保存するか、既存のデバイスとして追加します",
-      "spanish": "Guarde el nuevo navegador como un factor de autenticación independiente o agréguelo como un dispositivo existente"
-    },
-    "cancel": {
-      "korean": "취소",
-      "german": "Stornieren",
-      "english": "Cancel",
-      "mandarin": "取消",
-      "japanese": "キャンセル",
-      "spanish": "Cancelar"
-    },
-    "refId": {
-      "korean": "참조 ID",
-      "german": "Referenz ID",
-      "english": "Reference ID",
-      "mandarin": "参考编号",
-      "japanese": "参照ID",
-      "spanish": "Identificación de referencia"
-    },
-    "youAreAccessing": {
-      "korean": "새 기기 / 브라우저에서 로그인하려는 것 같습니다.",
-      "german": "Anscheinend versuchen Sie, sich von einem neuen Gerät / Browser aus anzumelden.",
-      "english": "It seems like you trying to login from a new device/browser.",
-      "mandarin": "似乎您尝试从新设备/浏览器登录。",
-      "japanese": "新しいデバイス/ブラウザからログインしようとしているようです。",
-      "spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo / navegador."
-    },
-    "itSeems2": {
-      "korean": "보안 단계로서",
-      "german": "Als Sicherheitsschritt",
-      "english": "As a security step,",
-      "mandarin": "作为安全措施，",
-      "japanese": "セキュリティ手順として、",
-      "spanish": "Como paso de seguridad,"
-    },
-    "accountRecovery": {
-      "korean": "어카운트 복구",
-      "german": "Konto-Wiederherstellung",
-      "english": "Account Recovery",
-      "mandarin": "帐户恢复",
-      "japanese": "アカウント復旧",
-      "spanish": "Recuperación de Cuenta"
-    },
-    "verifyYourIdentity": {
-      "korean": "신원 확인",
-      "german": "Bestätigen Sie Ihre Identität",
-      "english": "Verify your identity",
-      "mandarin": "验证您的身份",
-      "japanese": "本人確認",
-      "spanish": "Verifica tu identidad"
-    },
-    "confirmAndAdd": {
-      "korean": "확인 및 추가",
-      "german": "Bestätigen und hinzufügen",
-      "english": "Confirm and Add",
-      "mandarin": "确认并添加",
-      "japanese": "確認して追加",
-      "spanish": "Confirmar y agregar"
-    },
-    "currentDevice": {
-      "korean": "현재 새 디바이스",
-      "german": "Aktuelles neues Gerät",
-      "english": "Current new device",
-      "mandarin": "当前的新设备",
-      "japanese": "現在の新しいデバイス",
-      "spanish": "Nuevo dispositivo actual"
-    },
-    "enterPassword": {
-      "korean": "여기에 비밀번호 입력",
-      "german": "Geben Sie hier das Passwort ein",
-      "english": "Enter Password here",
-      "mandarin": "在这里输入密码",
-      "japanese": "ここにパスワードを入力してください",
-      "spanish": "Ingrese la contraseña aquí"
-    },
-    "newLoginTrying": {
-      "korean": "새 로그인으로 tKey 어카운트에 액세스하려고합니다.",
-      "german": "Ein neues Login versucht, auf Ihr tKey-Konto zuzugreifen.",
-      "english": "A new login is trying to access your tKey account.",
-      "mandarin": "新的登录名正在尝试访问您的tKey帐户。",
-      "japanese": "新しいログインがtKeyアカウントにアクセスしようとしています。",
-      "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta tKey."
-    },
-    "errorCannotRecover": {
-      "korean": "키를 복구 할 수 없습니다.",
-      "german": "No se puede recuperar la clave",
-      "english": "Cannot recover key",
-      "mandarin": "无法恢复密钥",
-      "japanese": "キーを回復できません",
-      "spanish": "No se puede recuperar la clave"
-    },
-    "returnHome": {
-      "korean": "집에 돌아 간다",
-      "german": "Nach Hause zurückkehren",
-      "english": "Return Home",
-      "mandarin": "回家",
-      "japanese": "帰宅",
-      "spanish": "Volver a casa"
-    },
-    "recoveryPass": {
-      "korean": "tKey 비밀번호",
-      "german": "tKey Passwort",
-      "english": "tKey Password",
-      "mandarin": "tKey密码",
-      "japanese": "tKeyパスワード",
-      "spanish": "tKey Contraseña"
-    },
-    "doNotSave": {
-      "korean": "브라우저를 저장하지 마십시오",
-      "german": "Browser nicht speichern",
-      "english": "Do not save browser",
-      "mandarin": "不保存浏览器",
-      "japanese": "ブラウザを保存しないでください",
-      "spanish": "No guardar navegador"
-    },
-    "oldDevice": {
-      "korean": "기존 디바이스",
-      "german": "Vorhandenes Gerät",
-      "english": "Existing Device",
-      "mandarin": "现有设备",
-      "japanese": "既存のデバイス",
-      "spanish": "Dispositivo existente"
-    },
-    "newLoginDetected": {
-      "korean": "새 로그인 감지",
-      "german": "Neues Login erkannt",
-      "english": "New login detected",
-      "mandarin": "检测到新登录",
-      "japanese": "新しいログインが検出されました",
-      "spanish": "Nuevo inicio de sesión detectado"
-    },
-    "errorNotSupported": {
-      "korean": "지원되지 않음",
-      "german": "Not supported",
-      "english": "Not supported",
-      "mandarin": "不支持",
-      "japanese": "サポートされていません",
-      "spanish": "No soportado"
-    },
-    "confirmYourBrowser": {
-      "korean": "브라우저 및 디바이스 세부 정보를 확인하십시오.",
-      "german": "Bestätigen Sie Ihre Browser- und Gerätedetails.",
-      "english": "Confirm your browser and device details.",
-      "mandarin": "确认您的浏览器和设备详细信息。",
-      "japanese": "ブラウザとデバイスの詳細を確認します。",
-      "spanish": "Confirme los detalles de su navegador y dispositivo."
-    },
-    "doNotAdd": {
-      "korean": "브라우저를 추가하지 마십시오",
-      "german": "Fügen Sie keinen Browser hinzu",
-      "english": "Do not add browser",
-      "mandarin": "不添加浏览器",
-      "japanese": "ブラウザを追加しないでください",
-      "spanish": "No agregue navegador"
-    },
-    "verifyFail": {
-      "korean": "확인할 수 없습니다. {countdown} 후에 {verifier} 지갑으로 리디렉션됩니다.",
-      "german": "Überprüfung nicht möglich. Sie werden in {countdown} zu Ihrer {verifier} Brieftasche weitergeleitet",
-      "english": "Unable to verify. You will be redirected to your {verifier} wallet in {countdown}",
-      "mandarin": "无法验证。您将被重定向到{倒数}中的{验证者}钱包",
-      "japanese": "確認できません。 {countdown}の{verifier}ウォレットにリダイレクトされます",
-      "spanish": "No se puede verificar. Serás redirigido a tu billetera {verifier} en {countdown}"
-    },
-    "returnToNewPlatform": {
-      "korean": "로그인을 계속하려면 새 플랫폼으로 돌아가십시오.",
-      "german": "Kehren Sie zu Ihrer neuen Plattform zurück, um mit der Anmeldung fortzufahren",
-      "english": "Return to your new platform to continue with the login",
-      "mandarin": "返回您的新平台以继续登录",
-      "japanese": "ログインを続行するには、新しいプラットフォームに戻ってください",
-      "spanish": "Regrese a su nueva plataforma para continuar con el inicio de sesión"
-    },
-    "required": {
-      "korean": "필수",
-      "german": "Erforderlich",
-      "english": "Required",
-      "mandarin": "必要",
-      "japanese": "必須",
-      "spanish": "Necesario"
-    },
-    "verifyWithPass": {
-      "korean": "계속하려면이 어카운트과 연결된 암호를 입력하십시오.",
-      "german": "Bitte geben Sie das diesem Konto zugeordnete Passwort ein, um fortzufahren.",
-      "english": "Please enter the password associated with this account to continue.",
-      "mandarin": "请输入与此帐户关联的密码以继续。",
-      "japanese": "続行するには、このアカウントに関連付けられているパスワードを入力してください。",
-      "spanish": "Ingrese la contraseña asociada con esta cuenta para continuar."
-    },
-    "itSeems3": {
-      "korean": "신원 확인",
-      "german": "Bestätigen Sie Ihre Identität",
-      "english": "verify your identity",
-      "mandarin": "验证您的身份",
-      "japanese": "本人確認",
-      "spanish": "Verifica tu identidad"
-    },
-    "newDeviceLong": {
-      "korean": "새 디바이스로 저장",
-      "german": "Als neues Gerät speichern",
-      "english": "Save as new device",
-      "mandarin": "另存为新设备",
-      "japanese": "新しいデバイスとして保存",
-      "spanish": "Guardar como dispositivo nuevo"
-    },
-    "secureTorus": {
-      "korean": "보안 Torus 로그인",
-      "german": "Sichere Torus-Anmeldung",
-      "english": "Secure Torus sign in",
-      "mandarin": "安全Torus登录",
-      "japanese": "セキュアトーラスのサインイン",
-      "spanish": "Iniciar sesión Secure Torus"
-    },
-    "newDeviceAdded": {
-      "korean": "새 디바이스 및 브라우저 추가",
-      "german": "Neues Gerät und neuer Browser hinzugefügt",
-      "english": "New device and browser added",
-      "mandarin": "添加了新设备和浏览器",
-      "japanese": "新しいデバイスとブラウザが追加されました",
-      "spanish": "Se agregaron un nuevo dispositivo y navegador"
-    },
-    "verifySuccess": {
-      "korean": "성공적으로 확인되었습니다.",
-      "german": "Erfolgreich verifiziert",
-      "english": "Successfully verified",
-      "mandarin": "成功验证",
-      "japanese": "正常に検証されました",
-      "spanish": "Verificado con éxito"
-    },
-    "confirm": {
-      "korean": "확인",
-      "german": "Bestätigen",
-      "english": "Confirm",
-      "mandarin": "确认",
-      "japanese": "確認",
-      "spanish": "Confirmar"
-    },
-    "oldDeviceLong": {
-      "korean": "기존 디바이스로 저장",
-      "german": "Als vorhandenes Gerät speichern",
-      "english": "Save as existing device",
-      "mandarin": "另存为现有设备",
-      "japanese": "既存のデバイスとして保存",
-      "spanish": "Guardar como dispositivo existente"
-    },
-    "matchRefId2": {
-      "korean": "그리고 이것이 당신인지 확인하십시오",
-      "german": "und bestätige, dass du es bist",
-      "english": "and confirm this is you",
-      "mandarin": "并确认这是你",
-      "japanese": "これがあなたであることを確認します",
-      "spanish": "y confirma que eres tú"
-    },
-    "loginToTorus": {
-      "korean": "아래 저장된 브라우저에서 {deviceLink}에 로그인하여 신원을 확인하세요.",
-      "german": "Melden Sie sich über den unten gespeicherten Browser bei {deviceLink} an, um Ihre Identität zu überprüfen.",
-      "english": "Login to {deviceLink} from the stored browser below to verify your identity.",
-      "mandarin": "从下面存储的浏览器登录到{deviceLink}以验证您的身份。",
-      "japanese": "以下の保存されているブラウザから{deviceLink}にログインして、本人確認を行ってください。",
-      "spanish": "Inicie sesión en {deviceLink} desde el navegador almacenado a continuación para verificar su identidad."
-    },
-    "identifyVerified": {
-      "korean": "신원 확인",
-      "german": "Identität überprüft",
-      "english": "Identity verified",
-      "mandarin": "身份验证",
-      "japanese": "本人確認済み",
-      "spanish": "Identidad verificada"
-    },
-    "itSeems1": {
-      "korean": "새 디바이스에서 로그인을 시도하는 것 같습니다.",
-      "german": "Anscheinend versuchen Sie, sich von einem neuen Gerät aus anzumelden.",
-      "english": "It seems like you are trying to log in from a new device.",
-      "mandarin": "似乎您正在尝试从新设备登录。",
-      "japanese": "新しいデバイスからログインしようとしているようです。",
-      "spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo."
-    },
-    "verifyWithTheFf": {
-      "korean": "다음과 함께",
-      "german": "mit den folgenden",
-      "english": "with the following",
-      "mandarin": "与以下",
-      "japanese": "次の",
-      "spanish": "con lo siguiente"
-    },
-    "verifyWithAny": {
-      "korean": "다음 중 하나로",
-      "german": "mit einer der folgenden",
-      "english": "with any of the following",
-      "mandarin": "具有以下任何一项",
-      "japanese": "次のいずれか",
-      "spanish": "con cualquiera de los siguientes"
-    },
-    "reportNotMe1": {
-      "korean": "이건 내가 아니야",
-      "german": "Das bin nicht ich",
-      "english": "This is not me",
-      "mandarin": "这不是我",
-      "japanese": "これは私ではない",
-      "spanish": "Este no soy yo"
-    },
-    "confirmAndSave": {
-      "korean": "확인 및 저장",
-      "german": "Bestätigen und speichern",
-      "english": "Confirm and save",
-      "mandarin": "确认并保存",
-      "japanese": "確認して保存",
-      "spanish": "Confirmar y guardar"
-    },
-    "newDevice": {
-      "korean": "새 디바이스",
-      "german": "Neues Gerät",
-      "english": "New Device",
-      "mandarin": "新装置",
-      "japanese": "新しいデバイス",
-      "spanish": "Nuevo dispositivo"
-    }
-  },
-  "tkeyCreateDone": {
-    "walletAddress": {
-      "korean": "지갑 주소",
-      "german": "Brieftaschenadresse",
-      "english": "Wallet address",
-      "mandarin": "钱包地址",
-      "japanese": "ウォレットアドレス",
-      "spanish": "Dirección de billetera"
-    },
-    "letsExplore": {
-      "korean": "탐험하자",
-      "german": "Lass uns erforschen",
-      "english": "Let's explore",
-      "mandarin": "让我们来探索",
-      "japanese": "探検しよう",
-      "spanish": "Vamos a explorar"
-    },
-    "success": {
-      "korean": "tKey가 성공적으로 생성되었습니다!",
-      "german": "tKey erfolgreich erstellt!",
-      "english": "tKey successfully created!",
-      "mandarin": "tKey创建成功！",
-      "japanese": "tKeyが正常に作成されました！",
-      "spanish": "¡tKey creada correctamente!"
-    },
-    "theDefaultAccount": {
-      "korean": "로그인 할 때마다이 어카운트을 사용하게됩니다. 언제든지 설정에서 변경할 수 있습니다.",
-      "german": "Sie werden dieses Konto bei jeder Anmeldung verwenden. Sie können dies jederzeit in Ihren Einstellungen ändern.",
-      "english": "You will use this account whenever you sign in. You can change this anytime in your settings.",
-      "mandarin": "每次登录时都将使用此帐户。您可以随时在设置中更改此帐户。",
-      "japanese": "サインインするたびにこのアカウントを使用します。これは設定でいつでも変更できます。",
-      "spanish": "Utilizará esta cuenta cada vez que inicie sesión. Puede cambiar esto en cualquier momento en su configuración."
-    },
-    "yourSeedPhrase": {
-      "korean": "귀하의 Seed Phrase 어카운트",
-      "german": "Ihr Seed Phrase Account",
-      "english": "Your Seed Phrase Account",
-      "mandarin": "您的种子短语帐户",
-      "japanese": "あなたのシードフレーズアカウント",
-      "spanish": "Su cuenta de frase de semillas"
-    },
-    "yourWallet": {
-      "korean": "귀하의 tKey 어카운트",
-      "german": "Ihr tKey-Konto",
-      "english": "Your tKey Account",
-      "mandarin": "您的tKey账户",
-      "japanese": "あなたのtKeyアカウント",
-      "spanish": "Tu cuenta tKey"
-    },
-    "selectDefault": {
-      "korean": "기본 어카운트 선택",
-      "german": "Wählen Sie Ihr Standardkonto",
-      "english": "Select your default account",
-      "mandarin": "选择您的默认帐户",
-      "japanese": "デフォルトのアカウントを選択します",
-      "spanish": "Seleccione su cuenta predeterminada"
-    }
-  },
   "login": {
-    "titleNew": {
-      "korean": "한 번의 클릭으로 지갑",
-      "german": "Brieftasche mit einem Klick",
-      "english": " wallet in one click",
-      "mandarin": "一键钱包",
-      "japanese": "ワンクリックでウォレット",
-      "spanish": "billetera en un clic"
-    },
-    "returnHome": {
-      "korean": "홈페이지로 돌아 가기",
-      "german": "Nach Hause zurückkehren",
-      "english": "Return Home",
-      "mandarin": "返回主页",
-      "japanese": "ホームページに戻る",
-      "spanish": "Regresar a Home"
-    },
-    "signIn": {
-      "korean": "으로 로그인",
-      "german": "Melden Sie sich mit an",
-      "english": "Sign in with",
-      "mandarin": "登陆使用",
-      "japanese": "でサインイン",
-      "spanish": "Inicia sesión con"
-    },
-    "dataPrivacy": {
-      "korean": "Web3Auth는 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
-      "german": "Web3Auth speichert keine Daten in Bezug auf Ihre sozialen Logins.",
-      "english": "Web3Auth does not store any data related to your social logins.",
-      "mandarin": "Web3Auth不存储与您的社交登录相关的任何数据。",
-      "japanese": "Web3Authは、ソーシャルログインに関連するデータを保存しません。",
-      "spanish": "Web3Auth no almacena ningún dato relacionado con sus inicios de sesión sociales."
-    },
-    "slide2Subtitle1": {
-      "korean": "범위 제공자 중에서 선택",
-      "german": "Wählen Sie aus einem Sortimentsanbieter",
-      "english": "Choose from a range of providers",
-      "mandarin": "从范围提供商中选择",
-      "japanese": "販売者を選択",
-      "spanish": "Escoge desde nuestra lista de proveedores"
-    },
-    "digitalWallet": {
-      "korean": "한 번의 클릭으로 디지털 지갑",
-      "german": "digitale Geldbörse mit einem Klick",
-      "english": "digital wallet in one-click",
-      "mandarin": "注册/登录",
-      "japanese": "ワンクリックでデジタルウォレットを",
-      "spanish": "billetera digital en un sólo click"
-    },
-    "forDapps": {
-      "korean": "마찰없는 로그인",
-      "german": "für DApps",
-      "english": "for DApps",
-      "mandarin": "迅速登录",
-      "japanese": "DAppsへ",
-      "spanish": "para DApps"
-    },
-    "signUpBiometrics": {
-      "korean": "생체 인식 가입 / 로그인",
-      "german": "Biometrische anmelden",
-      "english": "Sign up/in with biometrics",
-      "mandarin": "生物识别注册/登录",
-      "japanese": "生体認証サインイン",
-      "spanish": "Inicio de sesión biométrico"
-    },
     "acceptTerms": {
-      "korean": "로그인하면 Torus '에 동의합니다",
-      "german": "Mit dem Einloggen akzeptierst du Torus '",
       "english": "By logging in, you accept Torus'",
-      "mandarin": "登录后，您接受Torus'",
+      "german": "Mit dem Einloggen akzeptierst du Torus '",
       "japanese": "Torus の「利用規約」に同意してログインする",
+      "korean": "로그인하면 Torus '에 동의합니다",
+      "mandarin": "登录后，您接受Torus'",
       "spanish": "Al iniciar sesión, acepto los términos de Torus"
     },
-    "enablePopups": {
-      "korean": "팝업 활성화",
-      "german": "Popups aktivieren",
-      "english": "enable Pop-ups",
-      "mandarin": "启用弹出窗口",
-      "japanese": "ポップアップを有効にする",
-      "spanish": "permite Pop-ups"
-    },
     "beenLoggedOut": {
-      "korean": "로그 아웃했습니다",
-      "german": "Sie sind abgemeldet",
       "english": "You are logged out",
-      "mandarin": "您已登出",
+      "german": "Sie sind abgemeldet",
       "japanese": "ログアウトしました",
+      "korean": "로그 아웃했습니다",
+      "mandarin": "您已登出",
       "spanish": "Haz cerrado sesión"
     },
-    "slide1Subtitle1": {
-      "korean": "블록 체인에서의 거래가 훨씬 쉬워졌습니다.",
-      "german": "Transaktionen in Blockchain waren noch nie einfacher.",
-      "english": "Transacting on blockchain has never been easier.",
-      "mandarin": "在区块链上进行交易从未如此简单。",
-      "japanese": "ブロックチェーンを使うことで取引が簡単に行えるようになりました。",
-      "spanish": "La manera más fácil de hacer transacción en blockchain."
-    },
-    "loader": {
-      "korean": "이 탭을 닫지 마십시오! 로그인을 완료하면 이 탭으로 다시 리디렉션됩니다.",
-      "german": "Diese Registerkarte nicht schließen! Nach Abschluss der Anmeldung werden Sie zu dieser Registerkarte zurückgeleitet.",
-      "english": "Don't close this tab! You will be redirected back to this tab on completing login.",
-      "mandarin": "不要关闭此选项卡！完成登录后，您将被重定向回此选项卡。",
-      "japanese": "このタブを閉じないでください！。ログインが完了すると、このタブにリダイレクトされます",
-      "spanish": "¡No cierres esta pestaña! Se le redirigirá a esta pestaña al completar el inicio de sesión."
-    },
-    "message": {
-      "korean": "디지털 지갑이 거의 완성되었습니다.",
-      "german": "Sie sind nur einen Schritt von Ihrer digitalen Geldbörse entfernt",
-      "english": "You are just one step away from your digital wallet",
-      "mandarin": "您距数字钱包仅一步之遥",
-      "japanese": "デジタルウォレットを手に入れる最初のステップです。",
-      "spanish": "A un sólo paso de tu billitera virtual"
-    },
-    "gainAccess": {
-      "korean": "Torus Wallet에 액세스",
-      "german": "um Zugriff auf Ihre Torus-Brieftasche zu erhalten",
-      "english": "to gain access to your Torus Wallet",
-      "mandarin": "进入您的Torus钱包",
-      "japanese": "Torus Walletにアクセスするため",
-      "spanish": "para acceder a tu billetera de Torus"
-    },
-    "slide3Subtitle1": {
-      "korean": "금융, 게임, 거래소 등",
-      "german": "Von Finanzen, Spielen, Börsen und mehr",
-      "english": "From Finance, Games, Exchanges and more",
-      "mandarin": "来自金融，游戏，交易所等",
-      "japanese": "ファイナンス、ゲーム、エクスチェンジなど",
-      "spanish": "Desde finanzas, juegos, intercambios y más"
-    },
-    "signUpEmail": {
-      "korean": "이메일로 가입 / 로그인",
-      "german": "E-Mail anmelden",
-      "english": "Sign up/in with Email",
-      "mandarin": "使用电子邮件注册/登录",
-      "japanese": "メールでサインアップ/サインイン",
-      "spanish": "Inicia sesión con Email"
-    },
-    "linkExpire": {
-      "korean": "링크는 24 시간 후에 만료되므로 곧 사용해야합니다.",
-      "german": "Der Link läuft in 24 Stunden ab. Verwenden Sie ihn daher bald",
-      "english": "The link expires in 24 hours, so be sure sure to use it soon",
-      "mandarin": "该链接将在24小时后失效，因此请确保尽快使用它",
-      "japanese": "リンクの有効期限は24時間です。必ずすぐに使用してください",
-      "spanish": "El link expirará en 24 horas. Asegúrate de usarlo pronto"
-    },
-    "visitOurWebsite": {
-      "korean": "우리 홈페이지에 방문 해주세요",
-      "german": "Besuche unsere Webseite",
-      "english": "Visit our website",
-      "mandarin": "访问我们的网站",
-      "japanese": "当社のウェブサイトを訪問",
-      "spanish": "Visita nuestro website"
-    },
-    "simpleSecure": {
-      "korean": "OAuth 로그인을 통해 탈 중앙화 된 에코 시스템으로 간단하고 안전한 게이트웨이",
-      "german": "Ein einfaches und sicheres Tor zum dezentralen Ökosystem über OAuth-Logins",
-      "english": "A simple and secure gateway to the decentralized ecosystem via Google OAuth logins",
-      "mandarin": "通过OAuth登录到分散式生态系统的简单安全网关",
-      "japanese": "OAuthログインによる分散型エコシステムへのシンプルで安全なゲートウェイ",
-      "spanish": "Simple y segura vía para el ecosistema decentralizado con Google OAuth logins"
-    },
-    "title": {
-      "korean": "한 번의 클릭으로 블록 체인 지갑",
-      "german": "Ihre Blockchain -Brieftasche in einem Klick",
-      "english": "Your blockchain wallet in one click",
-      "mandarin": "您的区块链钱包一键",
-      "japanese": "ワンクリックでブロックチェーンウォレット",
-      "spanish": "Su billetera blockchain en un solo clic"
-    },
-    "slide2Title": {
-      "korean": "신용 카드로 전 세계 디지털 통화 구매",
-      "german": "Kaufen Sie digitale Währungen weltweit mit Kreditkarte",
-      "english": "Purchase digital currencies globally with credit card",
-      "mandarin": "使用信用卡在全球范围内购买数字货币",
-      "japanese": "クレジットカードで仮想通貨を購入",
-      "spanish": "Compra monedas digitales con tu tarjeta de crédito"
-    },
-    "sendLink": {
-      "korean": "매직 링크 보내기",
-      "german": "Senden Sie Magic Link",
-      "english": "Send Magic Link",
-      "mandarin": "发送魔术链接",
-      "japanese": "マジックリンクを送る",
-      "spanish": "Enviar link de activación"
-    },
-    "signUpPhone": {
-      "korean": "전화로 가입 / 로그인",
-      "german": "Mit Telefon anmelden / anmelden",
-      "english": "Sign up / in with Phone",
-      "mandarin": "使用手机注册/登录",
-      "japanese": "電話でサインアップ/サインイン",
-      "spanish": "Inicia sesión con móvil"
-    },
-    "slide1Subtitle2": {
-      "korean": "이메일을 시작하기 만하면됩니다.",
-      "german": "Eine E-Mail ist alles, was Sie brauchen, um loszulegen.",
-      "english": "An email is all you need to get started.",
-      "mandarin": "电子邮件是您入门所需的全部。",
-      "japanese": "メールアドレスさえあれば開始できます。",
-      "spanish": "Sólo ocupas un email para empezar."
-    },
     "constructYourKey": {
-      "korean": "키 구성",
-      "german": "Bauen Sie Ihren Schlüssel auf",
       "english": "Constructing your key on",
-      "mandarin": "构建您的密钥",
+      "german": "Bauen Sie Ihren Schlüssel auf",
       "japanese": "キーを作成する",
+      "korean": "키 구성",
+      "mandarin": "构建您的密钥",
       "spanish": "Construyendo tu clave en"
     },
-    "note": {
-      "korean": "주의",
-      "german": "Hinweis",
-      "english": "Note",
-      "mandarin": "注意",
-      "japanese": "備考",
-      "spanish": "la nota"
-    },
-    "slide3Title": {
-      "korean": "블록 체인에서 수천 개의 앱과 상호 작용",
-      "german": "Interagiere mit Tausenden von Apps in der Blockchain",
-      "english": "Interact with thousands of apps on the blockchain",
-      "mandarin": "与区块链上的数千个应用程序进行交互",
-      "japanese": "ブロックチェーン上の様々なアプリを利用する",
-      "spanish": "Interactúa con miles de app en la red blockchain"
-    },
-    "selectAnAccount": {
-      "korean": "계속하려면 어카운트을 선택하세요.",
-      "german": "Wählen Sie ein Konto aus, um fortzufahren",
-      "english": "Select an account to continue",
-      "mandarin": "选择一个帐户以继续",
-      "japanese": "続行するにはアカウントを選択してください",
-      "spanish": "Seleccione una cuenta para continuar"
-    },
-    "slideBinance1Subtitle1": {
-      "korean": "Torus에서 Binance Smart Chain 지갑을 생성 한 처음 5000 명의 사용자는 BNB를 지갑으로 에어 드랍합니다.",
-      "german": "Die ersten 5000 Benutzer, die ihre Binance Smart Chain Brieftaschen auf Torus erstellen, erhalten BNB in ihre Brieftaschen.",
-      "english": "The first 5000 users who create their Binance Smart Chain wallets on Torus will get BNB airdropped into their wallets.",
-      "mandarin": "在Torus上创建Binance Smart Chain钱包的前5000个用户将BNB空投到他们的钱包中。",
-      "japanese": "TorusでBinanceSmart Chainウォレットを作成した最初の5000人のユーザーは、BNBをウォレットに空中投下します。",
-      "spanish": "Los primeros 5000 usuarios que creen sus carteras de Binance Smart Chain en Torus recibirán BNB en sus carteras."
-    },
-    "errorVerifyEmail": {
-      "korean": "먼저 이메일을 확인하십시오",
-      "german": "Bitte überprüfen Sie zuerst Ihre E-Mail-Adresse",
-      "english": "Please verify your email first",
-      "mandarin": "请先验证您的电子邮件",
-      "japanese": "最初にメールアドレスを確認してください",
-      "spanish": "Por favor verifique su correo electrónico primero"
-    },
     "continueToApp": {
-      "korean": "앱으로 계속",
-      "german": "Weiter zur Anwendung",
       "english": "Continue to app",
-      "mandarin": "继续应用",
+      "german": "Weiter zur Anwendung",
       "japanese": "アプリを続ける",
+      "korean": "앱으로 계속",
+      "mandarin": "继续应用",
       "spanish": "Continuar a la aplicación"
     },
-    "loginError": {
-      "korean": "문제가 발생했습니다. 다시로드하고 다시 시도하십시오",
-      "german": "Etwas ist schief gelaufen. Bitte neu laden und erneut versuchen",
-      "english": "Something went wrong. Please reload and try again",
-      "mandarin": "出问题了。请重新加载，然后重试",
-      "japanese": "問題が発生しました。再読み込みしてもう一度お試しください",
-      "spanish": "Ha ocurrido un error. Por favor refresca y trata de nuevo"
+    "dataPrivacy": {
+      "english": "Web3Auth does not store any data related to your social logins.",
+      "german": "Web3Auth speichert keine Daten in Bezug auf Ihre sozialen Logins.",
+      "japanese": "Web3Authは、ソーシャルログインに関連するデータを保存しません。",
+      "korean": "Web3Auth는 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "Web3Auth不存储与您的社交登录相关的任何数据。",
+      "spanish": "Web3Auth no almacena ningún dato relacionado con sus inicios de sesión sociales."
+    },
+    "digitalWallet": {
+      "english": "digital wallet in one-click",
+      "german": "digitale Geldbörse mit einem Klick",
+      "japanese": "ワンクリックでデジタルウォレットを",
+      "korean": "한 번의 클릭으로 디지털 지갑",
+      "mandarin": "注册/登录",
+      "spanish": "billetera digital en un sólo click"
+    },
+    "emailOnItsWay": {
+      "english": "An email is on its way!",
+      "german": "Eine E-Mail ist unterwegs!",
+      "japanese": "メールが送信されています！",
+      "korean": "이메일이 왔습니다!",
+      "mandarin": "一封电子邮件正在发送中！",
+      "spanish": "Recibirás pronto un email!"
+    },
+    "enablePopups": {
+      "english": "enable Pop-ups",
+      "german": "Popups aktivieren",
+      "japanese": "ポップアップを有効にする",
+      "korean": "팝업 활성화",
+      "mandarin": "启用弹出窗口",
+      "spanish": "permite Pop-ups"
+    },
+    "enterEmail": {
+      "english": "Enter Email",
+      "german": "Email eingeben",
+      "japanese": "メールアドレスを入力して",
+      "korean": "이메일 입력",
+      "mandarin": "输入电子邮件",
+      "spanish": "Ingresa tu email"
+    },
+    "enterYourEmail": {
+      "english": "Enter your email",
+      "german": "Geben sie ihre E-Mail Adresse ein",
+      "japanese": "メールアドレスを入力",
+      "korean": "이메일을 입력하십시오",
+      "mandarin": "输入你的电子邮箱",
+      "spanish": "Ingresa tu email"
+    },
+    "errorVerifyEmail": {
+      "english": "Please verify your email first",
+      "german": "Bitte überprüfen Sie zuerst Ihre E-Mail-Adresse",
+      "japanese": "最初にメールアドレスを確認してください",
+      "korean": "먼저 이메일을 확인하십시오",
+      "mandarin": "请先验证您的电子邮件",
+      "spanish": "Por favor verifique su correo electrónico primero"
+    },
+    "forDapps": {
+      "english": "for DApps",
+      "german": "für DApps",
+      "japanese": "DAppsへ",
+      "korean": "마찰없는 로그인",
+      "mandarin": "迅速登录",
+      "spanish": "para DApps"
+    },
+    "frictionless": {
+      "english": "One-Click login for Web 3.0",
+      "german": "One-Click-Login für Web 3.0",
+      "japanese": "Web 3.0のワンクリックログイン",
+      "korean": "Web 3.0에 대한 원 클릭 로그인",
+      "mandarin": "一键登录Web 3.0",
+      "spanish": "Inicio de sesión para Web 3.0 con un sólo click"
+    },
+    "gainAccess": {
+      "english": "to gain access to your Torus Wallet",
+      "german": "um Zugriff auf Ihre Torus-Brieftasche zu erhalten",
+      "japanese": "Torus Walletにアクセスするため",
+      "korean": "Torus Wallet에 액세스",
+      "mandarin": "进入您的Torus钱包",
+      "spanish": "para acceder a tu billetera de Torus"
+    },
+    "howWorks": {
+      "english": "How does this work?",
+      "german": "Wie funktioniert das?",
+      "japanese": "これはどのように作動しますか？",
+      "korean": "어떻게 작동합니까?",
+      "mandarin": "这是如何运作的？",
+      "spanish": "¿Como funciona esto?"
     },
     "invalid_user_password": {
-      "korean": "오류, 잘못된 인증 코드가 입력되었습니다",
-      "german": "Fehler, falscher Bestätigungscode eingegeben",
       "english": "Error, incorrect verification code entered",
-      "mandarin": "错误，输入了错误的验证码",
+      "german": "Fehler, falscher Bestätigungscode eingegeben",
       "japanese": "エラー、不正な確認コードが入力されました",
+      "korean": "오류, 잘못된 인증 코드가 입력되었습니다",
+      "mandarin": "错误，输入了错误的验证码",
       "spanish": "Error, código de verificación incorrecto"
     },
     "learnMore": {
-      "korean": "더 알아보기",
-      "german": "Erfahren Sie mehr",
       "english": "Learn More",
-      "mandarin": "更多详情",
+      "german": "Erfahren Sie mehr",
       "japanese": "詳細を見る",
+      "korean": "더 알아보기",
+      "mandarin": "更多详情",
       "spanish": "Más información"
     },
-    "enterEmail": {
-      "korean": "이메일 입력",
-      "german": "Email eingeben",
-      "english": "Enter Email",
-      "mandarin": "输入电子邮件",
-      "japanese": "メールアドレスを入力して",
-      "spanish": "Ingresa tu email"
-    },
-    "or": {
-      "korean": "또는",
-      "german": "oder",
-      "english": "or",
-      "mandarin": "要么",
-      "japanese": "または",
-      "spanish": "0"
-    },
-    "slide2Subtitle2": {
-      "korean": "가장 경쟁력있는 환율 중 하나로 통화하십시오",
-      "german": "Holen Sie sich Währungen zu einem der wettbewerbsfähigsten Kurse",
-      "english": "Get currencies at one of the most competitive rates",
-      "mandarin": "以最具竞争力的价格获得货币",
-      "japanese": "もっともお得なレートを取得",
-      "spanish": "Obtén monedas a los mejores rates"
-    },
-    "slide3Subtitle2": {
-      "korean": "Torus로 탈 중앙화 세계에 접근",
-      "german": "Greifen Sie mit Torus auf die dezentrale Welt zu",
-      "english": "Access the decentralised world with Torus",
-      "mandarin": "使用Torus进入去中心化世界",
-      "japanese": "世界中のブロックチェーンアプリにTorusを通じてアクセス",
-      "spanish": "Accede el mundo decentralizado con Torus"
-    },
-    "noteFirstTime": {
-      "korean": "참고 : 처음 사용하시는 분은 친절하게",
-      "german": "Hinweis: Für Erstanwender, bitte",
-      "english": "Note : For first time users, kindly",
-      "mandarin": "注意：对于初次使用的用户，请",
-      "japanese": "注：初めてのユーザーは、親切に",
-      "spanish": "Nota: Para usuarios primerizos, por favor"
-    },
-    "frictionless": {
-      "korean": "Web 3.0에 대한 원 클릭 로그인",
-      "german": "One-Click-Login für Web 3.0",
-      "english": "One-Click login for Web 3.0",
-      "mandarin": "一键登录Web 3.0",
-      "japanese": "Web 3.0のワンクリックログイン",
-      "spanish": "Inicio de sesión para Web 3.0 con un sólo click"
-    },
-    "slideBinance1Title": {
-      "korean": "새로운 Binance Smart Chain Wallet을 만들어 BNB를 획득하세요",
-      "german": "Erstellen Sie Ihre neue Binance Smart Chain Wallet, um BNB zu verdienen",
-      "english": "Create your new Binance Smart Chain Wallet to earn BNB",
-      "mandarin": "创建新的Binance Smart Chain Wallet以赚取BNB",
-      "japanese": "新しいBinanceSmart Chain Walletを作成して、BNBを獲得しましょう",
-      "spanish": "Crea tu nueva Binance Smart Chain Wallet para ganar BNB"
-    },
-    "enterYourEmail": {
-      "korean": "이메일을 입력하십시오",
-      "german": "Geben sie ihre E-Mail Adresse ein",
-      "english": "Enter your email",
-      "mandarin": "输入你的电子邮箱",
-      "japanese": "メールアドレスを入力",
-      "spanish": "Ingresa tu email"
-    },
-    "welcome": {
-      "korean": "환영합니다",
-      "german": "Willkommen zu",
-      "english": "Welcome to",
-      "mandarin": "欢迎来到",
-      "japanese": "へようこそ",
-      "spanish": "Bienvenido a"
-    },
-    "secured-by": {
-      "korean": "보안",
-      "german": "Gesichert durch",
-      "english": "Secured by",
-      "mandarin": "担保人",
-      "japanese": "によって保護",
-      "spanish": "Asegurado por"
-    },
-    "slide1Title": {
-      "korean": "이메일을 통해 디지털 통화를주고받습니다.",
-      "german": "Senden und empfangen Sie digitale Währungen per E-Mail",
-      "english": "Send and receive digital currencies via email",
-      "mandarin": "通过电子邮件发送和接收数字货币",
-      "japanese": "メールアドレスを使って仮想通貨を送受信",
-      "spanish": "Envía y recibe monedas digitales usando email"
-    },
-    "howWorks": {
-      "korean": "어떻게 작동합니까?",
-      "german": "Wie funktioniert das?",
-      "english": "How does this work?",
-      "mandarin": "这是如何运作的？",
-      "japanese": "これはどのように作動しますか？",
-      "spanish": "¿Como funciona esto?"
+    "linkExpire": {
+      "english": "The link expires in 24 hours, so be sure sure to use it soon",
+      "german": "Der Link läuft in 24 Stunden ab. Verwenden Sie ihn daher bald",
+      "japanese": "リンクの有効期限は24時間です。必ずすぐに使用してください",
+      "korean": "링크는 24 시간 후에 만료되므로 곧 사용해야합니다.",
+      "mandarin": "该链接将在24小时后失效，因此请确保尽快使用它",
+      "spanish": "El link expirará en 24 horas. Asegúrate de usarlo pronto"
     },
     "linkSent": {
-      "korean": "매직 링크가 {email} (으)로 전송되었으므로 Torus Wallet에 즉시 로그인 할 수 있습니다!",
-      "german": "Ein magischer Link wurde an {email} gesendet, sodass Sie sich sofort bei Torus Wallet anmelden können!",
       "english": "A magic link has been sent to {email}, so you can sign in to Torus Wallet instantly!",
-      "mandarin": "魔术链接已发送到{email}，因此您可以立即登录Torus Wallet！",
+      "german": "Ein magischer Link wurde an {email} gesendet, sodass Sie sich sofort bei Torus Wallet anmelden können!",
       "japanese": "マジックリンクが{email}に送信されたので、すぐにTorus Walletにサインインできます！",
+      "korean": "매직 링크가 {email} (으)로 전송되었으므로 Torus Wallet에 즉시 로그인 할 수 있습니다!",
+      "mandarin": "魔术链接已发送到{email}，因此您可以立即登录Torus Wallet！",
       "spanish": "Hemos enviado un link de activación a {email} para que puedas iniciar sesión en tu billetera Torus de forma instantánea"
     },
+    "loader": {
+      "english": "Don't close this tab! You will be redirected back to this tab on completing login.",
+      "german": "Diese Registerkarte nicht schließen! Nach Abschluss der Anmeldung werden Sie zu dieser Registerkarte zurückgeleitet.",
+      "japanese": "このタブを閉じないでください！。ログインが完了すると、このタブにリダイレクトされます",
+      "korean": "이 탭을 닫지 마십시오! 로그인을 완료하면 이 탭으로 다시 리디렉션됩니다.",
+      "mandarin": "不要关闭此选项卡！完成登录后，您将被重定向回此选项卡。",
+      "spanish": "¡No cierres esta pestaña! Se le redirigirá a esta pestaña al completar el inicio de sesión."
+    },
+    "loginError": {
+      "english": "Something went wrong. Please reload and try again",
+      "german": "Etwas ist schief gelaufen. Bitte neu laden und erneut versuchen",
+      "japanese": "問題が発生しました。再読み込みしてもう一度お試しください",
+      "korean": "문제가 발생했습니다. 다시로드하고 다시 시도하십시오",
+      "mandarin": "出问题了。请重新加载，然后重试",
+      "spanish": "Ha ocurrido un error. Por favor refresca y trata de nuevo"
+    },
     "loginWith": {
-      "korean": "로 로그인",
-      "german": "Einloggen mit",
       "english": "Login with",
-      "mandarin": "登入",
+      "german": "Einloggen mit",
       "japanese": "でログイン",
+      "korean": "로 로그인",
+      "mandarin": "登入",
       "spanish": "Inicia sesión con"
     },
-    "signUpIn": {
-      "korean": "가입 / 로그인",
-      "german": "Anmelden / Anmelden mit",
-      "english": "Sign up/in with",
-      "mandarin": "注册/登录",
-      "japanese": "サインアップ/サインイン",
-      "spanish": "Registrarse / entrar con"
+    "message": {
+      "english": "You are just one step away from your digital wallet",
+      "german": "Sie sind nur einen Schritt von Ihrer digitalen Geldbörse entfernt",
+      "japanese": "デジタルウォレットを手に入れる最初のステップです。",
+      "korean": "디지털 지갑이 거의 완성되었습니다.",
+      "mandarin": "您距数字钱包仅一步之遥",
+      "spanish": "A un sólo paso de tu billitera virtual"
+    },
+    "note": {
+      "english": "Note",
+      "german": "Hinweis",
+      "japanese": "備考",
+      "korean": "주의",
+      "mandarin": "注意",
+      "spanish": "la nota"
+    },
+    "noteFirstTime": {
+      "english": "Note : For first time users, kindly",
+      "german": "Hinweis: Für Erstanwender, bitte",
+      "japanese": "注：初めてのユーザーは、親切に",
+      "korean": "참고 : 처음 사용하시는 분은 친절하게",
+      "mandarin": "注意：对于初次使用的用户，请",
+      "spanish": "Nota: Para usuarios primerizos, por favor"
+    },
+    "or": {
+      "english": "or",
+      "german": "oder",
+      "japanese": "または",
+      "korean": "또는",
+      "mandarin": "要么",
+      "spanish": "0"
+    },
+    "returnHome": {
+      "english": "Return Home",
+      "german": "Nach Hause zurückkehren",
+      "japanese": "ホームページに戻る",
+      "korean": "홈페이지로 돌아 가기",
+      "mandarin": "返回主页",
+      "spanish": "Regresar a Home"
+    },
+    "secured-by": {
+      "english": "Secured by",
+      "german": "Gesichert durch",
+      "japanese": "によって保護",
+      "korean": "보안",
+      "mandarin": "担保人",
+      "spanish": "Asegurado por"
+    },
+    "selectAnAccount": {
+      "english": "Select an account to continue",
+      "german": "Wählen Sie ein Konto aus, um fortzufahren",
+      "japanese": "続行するにはアカウントを選択してください",
+      "korean": "계속하려면 어카운트을 선택하세요.",
+      "mandarin": "选择一个帐户以继续",
+      "spanish": "Seleccione una cuenta para continuar"
     },
     "selfCustodial": {
-      "korean": "자가 관리 로그인",
-      "german": "Selbstverwahrungs-Login durch",
       "english": "Self-custodial login by",
-      "mandarin": "自托管登录由",
+      "german": "Selbstverwahrungs-Login durch",
       "japanese": "による自己管理ログイン",
+      "korean": "자가 관리 로그인",
+      "mandarin": "自托管登录由",
       "spanish": "Inicio de sesión con autocustodia por"
     },
-    "your": {
-      "korean": "당신",
-      "german": "Sie",
-      "english": "Your",
-      "mandarin": "您",
-      "japanese": "あなたの",
-      "spanish": "Tu"
+    "sendLink": {
+      "english": "Send Magic Link",
+      "german": "Senden Sie Magic Link",
+      "japanese": "マジックリンクを送る",
+      "korean": "매직 링크 보내기",
+      "mandarin": "发送魔术链接",
+      "spanish": "Enviar link de activación"
     },
-    "emailOnItsWay": {
-      "korean": "이메일이 왔습니다!",
-      "german": "Eine E-Mail ist unterwegs!",
-      "english": "An email is on its way!",
-      "mandarin": "一封电子邮件正在发送中！",
-      "japanese": "メールが送信されています！",
-      "spanish": "Recibirás pronto un email!"
+    "signIn": {
+      "english": "Sign in with",
+      "german": "Melden Sie sich mit an",
+      "japanese": "でサインイン",
+      "korean": "으로 로그인",
+      "mandarin": "登陆使用",
+      "spanish": "Inicia sesión con"
+    },
+    "signUpBiometrics": {
+      "english": "Sign up/in with biometrics",
+      "german": "Biometrische anmelden",
+      "japanese": "生体認証サインイン",
+      "korean": "생체 인식 가입 / 로그인",
+      "mandarin": "生物识别注册/登录",
+      "spanish": "Inicio de sesión biométrico"
+    },
+    "signUpEmail": {
+      "english": "Sign up/in with Email",
+      "german": "E-Mail anmelden",
+      "japanese": "メールでサインアップ/サインイン",
+      "korean": "이메일로 가입 / 로그인",
+      "mandarin": "使用电子邮件注册/登录",
+      "spanish": "Inicia sesión con Email"
+    },
+    "signUpIn": {
+      "english": "Sign up/in with",
+      "german": "Anmelden / Anmelden mit",
+      "japanese": "サインアップ/サインイン",
+      "korean": "가입 / 로그인",
+      "mandarin": "注册/登录",
+      "spanish": "Registrarse / entrar con"
+    },
+    "signUpPhone": {
+      "english": "Sign up / in with Phone",
+      "german": "Mit Telefon anmelden / anmelden",
+      "japanese": "電話でサインアップ/サインイン",
+      "korean": "전화로 가입 / 로그인",
+      "mandarin": "使用手机注册/登录",
+      "spanish": "Inicia sesión con móvil"
+    },
+    "simpleSecure": {
+      "english": "A simple and secure gateway to the decentralized ecosystem via Google OAuth logins",
+      "german": "Ein einfaches und sicheres Tor zum dezentralen Ökosystem über OAuth-Logins",
+      "japanese": "OAuthログインによる分散型エコシステムへのシンプルで安全なゲートウェイ",
+      "korean": "OAuth 로그인을 통해 탈 중앙화 된 에코 시스템으로 간단하고 안전한 게이트웨이",
+      "mandarin": "通过OAuth登录到分散式生态系统的简单安全网关",
+      "spanish": "Simple y segura vía para el ecosistema decentralizado con Google OAuth logins"
+    },
+    "slide1Subtitle1": {
+      "english": "Transacting on blockchain has never been easier.",
+      "german": "Transaktionen in Blockchain waren noch nie einfacher.",
+      "japanese": "ブロックチェーンを使うことで取引が簡単に行えるようになりました。",
+      "korean": "블록 체인에서의 거래가 훨씬 쉬워졌습니다.",
+      "mandarin": "在区块链上进行交易从未如此简单。",
+      "spanish": "La manera más fácil de hacer transacción en blockchain."
+    },
+    "slide1Subtitle2": {
+      "english": "An email is all you need to get started.",
+      "german": "Eine E-Mail ist alles, was Sie brauchen, um loszulegen.",
+      "japanese": "メールアドレスさえあれば開始できます。",
+      "korean": "이메일을 시작하기 만하면됩니다.",
+      "mandarin": "电子邮件是您入门所需的全部。",
+      "spanish": "Sólo ocupas un email para empezar."
+    },
+    "slide1Title": {
+      "english": "Send and receive digital currencies via email",
+      "german": "Senden und empfangen Sie digitale Währungen per E-Mail",
+      "japanese": "メールアドレスを使って仮想通貨を送受信",
+      "korean": "이메일을 통해 디지털 통화를주고받습니다.",
+      "mandarin": "通过电子邮件发送和接收数字货币",
+      "spanish": "Envía y recibe monedas digitales usando email"
+    },
+    "slide2Subtitle1": {
+      "english": "Choose from a range of providers",
+      "german": "Wählen Sie aus einem Sortimentsanbieter",
+      "japanese": "販売者を選択",
+      "korean": "범위 제공자 중에서 선택",
+      "mandarin": "从范围提供商中选择",
+      "spanish": "Escoge desde nuestra lista de proveedores"
+    },
+    "slide2Subtitle2": {
+      "english": "Get currencies at one of the most competitive rates",
+      "german": "Holen Sie sich Währungen zu einem der wettbewerbsfähigsten Kurse",
+      "japanese": "もっともお得なレートを取得",
+      "korean": "가장 경쟁력있는 환율 중 하나로 통화하십시오",
+      "mandarin": "以最具竞争力的价格获得货币",
+      "spanish": "Obtén monedas a los mejores rates"
+    },
+    "slide2Title": {
+      "english": "Purchase digital currencies globally with credit card",
+      "german": "Kaufen Sie digitale Währungen weltweit mit Kreditkarte",
+      "japanese": "クレジットカードで仮想通貨を購入",
+      "korean": "신용 카드로 전 세계 디지털 통화 구매",
+      "mandarin": "使用信用卡在全球范围内购买数字货币",
+      "spanish": "Compra monedas digitales con tu tarjeta de crédito"
+    },
+    "slide3Subtitle1": {
+      "english": "From Finance, Games, Exchanges and more",
+      "german": "Von Finanzen, Spielen, Börsen und mehr",
+      "japanese": "ファイナンス、ゲーム、エクスチェンジなど",
+      "korean": "금융, 게임, 거래소 등",
+      "mandarin": "来自金融，游戏，交易所等",
+      "spanish": "Desde finanzas, juegos, intercambios y más"
+    },
+    "slide3Subtitle2": {
+      "english": "Access the decentralised world with Torus",
+      "german": "Greifen Sie mit Torus auf die dezentrale Welt zu",
+      "japanese": "世界中のブロックチェーンアプリにTorusを通じてアクセス",
+      "korean": "Torus로 탈 중앙화 세계에 접근",
+      "mandarin": "使用Torus进入去中心化世界",
+      "spanish": "Accede el mundo decentralizado con Torus"
+    },
+    "slide3Title": {
+      "english": "Interact with thousands of apps on the blockchain",
+      "german": "Interagiere mit Tausenden von Apps in der Blockchain",
+      "japanese": "ブロックチェーン上の様々なアプリを利用する",
+      "korean": "블록 체인에서 수천 개의 앱과 상호 작용",
+      "mandarin": "与区块链上的数千个应用程序进行交互",
+      "spanish": "Interactúa con miles de app en la red blockchain"
+    },
+    "slideBinance1Subtitle1": {
+      "english": "The first 5000 users who create their Binance Smart Chain wallets on Torus will get BNB airdropped into their wallets.",
+      "german": "Die ersten 5000 Benutzer, die ihre Binance Smart Chain Brieftaschen auf Torus erstellen, erhalten BNB in ihre Brieftaschen.",
+      "japanese": "TorusでBinanceSmart Chainウォレットを作成した最初の5000人のユーザーは、BNBをウォレットに空中投下します。",
+      "korean": "Torus에서 Binance Smart Chain 지갑을 생성 한 처음 5000 명의 사용자는 BNB를 지갑으로 에어 드랍합니다.",
+      "mandarin": "在Torus上创建Binance Smart Chain钱包的前5000个用户将BNB空投到他们的钱包中。",
+      "spanish": "Los primeros 5000 usuarios que creen sus carteras de Binance Smart Chain en Torus recibirán BNB en sus carteras."
+    },
+    "slideBinance1Title": {
+      "english": "Create your new Binance Smart Chain Wallet to earn BNB",
+      "german": "Erstellen Sie Ihre neue Binance Smart Chain Wallet, um BNB zu verdienen",
+      "japanese": "新しいBinanceSmart Chain Walletを作成して、BNBを獲得しましょう",
+      "korean": "새로운 Binance Smart Chain Wallet을 만들어 BNB를 획득하세요",
+      "mandarin": "创建新的Binance Smart Chain Wallet以赚取BNB",
+      "spanish": "Crea tu nueva Binance Smart Chain Wallet para ganar BNB"
     },
     "termsAndConditions": {
-      "korean": "이용 약관",
-      "german": "Geschäftsbedingungen",
       "english": "Terms and Conditions",
-      "mandarin": "条款和条件",
+      "german": "Geschäftsbedingungen",
       "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "条款和条件",
       "spanish": "Términos y Condiciones"
-    }
-  },
-  "tkeyCreateAdd": {
-    "continue": {
-      "korean": "계속하다",
-      "german": "Fortsetzen",
-      "english": "Continue",
-      "mandarin": "继续",
-      "japanese": "継続する",
-      "spanish": "Seguir"
     },
-    "sureLetsAdd": {
-      "korean": "물론입니다. 하나 추가하겠습니다.",
-      "german": "Klar, lassen Sie uns einen hinzufügen",
-      "english": "Sure, let's add one",
-      "mandarin": "当然，让我们添加一个",
-      "japanese": "確かに、1つ追加しましょう",
-      "spanish": "Claro, agreguemos uno"
+    "title": {
+      "english": "Your blockchain wallet in one click",
+      "german": "Ihre Blockchain -Brieftasche in einem Klick",
+      "japanese": "ワンクリックでブロックチェーンウォレット",
+      "korean": "한 번의 클릭으로 블록 체인 지갑",
+      "mandarin": "您的区块链钱包一键",
+      "spanish": "Su billetera blockchain en un solo clic"
     },
-    "settingUp": {
-      "korean": "tKey 설정",
-      "german": "Einrichten Ihres Schlüssels",
-      "english": "Setting up your tKey",
-      "mandarin": "设置您的tKey",
-      "japanese": "tKeyの設定",
-      "spanish": "Configurando su tKey"
+    "titleNew": {
+      "english": " wallet in one click",
+      "german": "Brieftasche mit einem Klick",
+      "japanese": "ワンクリックでウォレット",
+      "korean": "한 번의 클릭으로 지갑",
+      "mandarin": "一键钱包",
+      "spanish": "billetera en un clic"
     },
-    "letsTry": {
-      "korean": "시도 해보자!",
-      "german": "Probieren wir es aus!",
-      "english": "Let's try it out!",
-      "mandarin": "让我们尝试一下！",
-      "japanese": "やってみよう！",
-      "spanish": "¡Probémoslo!"
+    "visitOurWebsite": {
+      "english": "Visit our website",
+      "german": "Besuche unsere Webseite",
+      "japanese": "当社のウェブサイトを訪問",
+      "korean": "우리 홈페이지에 방문 해주세요",
+      "mandarin": "访问我们的网站",
+      "spanish": "Visita nuestro website"
     },
-    "selfCustodial": {
-      "korean": "자기 관리",
-      "german": "Selbstverwahrung",
-      "english": "Self-custodial",
-      "mandarin": "自我监护",
-      "japanese": "自己管理",
-      "spanish": "Auto-custodia"
+    "welcome": {
+      "english": "Welcome to",
+      "german": "Willkommen zu",
+      "japanese": "へようこそ",
+      "korean": "환영합니다",
+      "mandarin": "欢迎来到",
+      "spanish": "Bienvenido a"
     },
-    "browserDesc": {
-      "korean": "MacOS Chrome, Safari, Opera",
-      "german": "MacOS Chrome, Safari, Opera",
-      "english": "MacOS Chrome, Safari, Opera",
-      "mandarin": "MacOS Chrome, Safari, Opera",
-      "japanese": "MacOS Chrome、Safari、Opera",
-      "spanish": "MacOS Chrome, Safari, Opera"
-    },
-    "passwordDesc": {
-      "korean": "비밀번호 또는 파일 다운로드",
-      "german": "Passwort oder Datei herunterladen",
-      "english": "Password or Download a file",
-      "mandarin": "密码或下载文件",
-      "japanese": "パスワードまたはファイルのダウンロード",
-      "spanish": "Contraseña o descargar un archivo"
-    },
-    "tryTkeyDesc": {
-      "korean": "보안이 강화 된 별도의 어카운트",
-      "german": "Ein separates Konto mit zusätzlicher Sicherheit",
-      "english": "A separate account with added security",
-      "mandarin": "具有增强安全性的单独帐户",
-      "japanese": "セキュリティが強化された別のアカウント",
-      "spanish": "Una cuenta separada con mayor seguridad"
-    },
-    "browser": {
-      "korean": "브라우저",
-      "german": "Browser",
-      "english": "Browser",
-      "mandarin": "浏览器",
-      "japanese": "ブラウザ",
-      "spanish": "Navegador"
-    },
-    "password": {
-      "korean": "암호",
-      "german": "Passwort",
-      "english": "Password",
-      "mandarin": "密码",
-      "japanese": "パスワード",
-      "spanish": "Contraseña"
-    },
-    "noWorry": {
-      "korean": "걱정하지 마세요, 무료입니다",
-      "german": "Mach dir keine Sorgen, es ist kostenlos",
-      "english": "Don't worry, it is free",
-      "mandarin": "不用担心，它是免费的",
-      "japanese": "心配しないでください、それは無料です",
-      "spanish": "No te preocupes es gratis"
-    },
-    "skip": {
-      "korean": "건너 뛰기",
-      "german": "Überspringen",
-      "english": "Skip",
-      "mandarin": "跳跃",
-      "japanese": "スキップ",
-      "spanish": "Omitir"
-    },
-    "tkeyManaged": {
-      "korean": "tKey 어카운트은 로그인 (예 : Google), 기기 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
-      "german": "Ihr tKey-Konto wird von Ihrem Login (z. B. Google), Ihrem Gerät und einem Passwort verwaltet. Richten Sie Ihr Konto ein und greifen Sie bei jeder Anmeldung mit zwei beliebigen Authentifizierungsfaktoren darauf zu.",
-      "english": "Your tKey account is managed by your login (e.g. Google), your device, and a password. Set up your account and access it with any two of the authentication factors during each login.",
-      "mandarin": "您的tKey帐户由您的登录名（例如Google），设备和密码来管理。设置您的帐户，并在每次登录时使用任意两个身份验证因子进行访问。",
-      "japanese": "tKeyアカウントは、ログイン（Googleなど）、デバイス、およびパスワードによって管理されます。アカウントを設定し、ログインするたびに2つの認証要素を使用してアカウントにアクセスします。",
-      "spanish": "Su cuenta tKey es administrada por su nombre de usuario (por ejemplo, Google), su dispositivo y una contraseña. Configure su cuenta y acceda a ella con dos de los factores de autenticación durante cada inicio de sesión."
-    },
-    "learnMore": {
-      "korean": "tKey에 대해 더 알아보기",
-      "german": "Erfahren Sie mehr über tKey",
-      "english": "Learn more about tKey",
-      "mandarin": "了解有关tKey的更多信息",
-      "japanese": "tKeyの詳細",
-      "spanish": "Más información sobre tKey"
-    },
-    "tkeyIs1": {
-      "korean": "tKey는",
-      "german": "tKey ist ein",
-      "english": "tKey is a",
-      "mandarin": "tKey是一个",
-      "japanese": "tKeyは",
-      "spanish": "TKey es un"
-    },
-    "notNow": {
-      "korean": "지금은 아니야",
-      "german": "Nicht jetzt",
-      "english": "Not now",
-      "mandarin": "现在不要",
-      "japanese": "今はやめろ",
-      "spanish": "Ahora no"
-    },
-    "of": {
-      "korean": "중",
-      "german": "von",
-      "english": "of",
-      "mandarin": "之",
-      "japanese": "の",
-      "spanish": "de"
-    },
-    "tkeyIs2": {
-      "korean": "별도의 안전한 어카운트",
-      "german": "separates, sicheres Konto",
-      "english": "separate, secure account",
-      "mandarin": "独立的安全帐户",
-      "japanese": "個別の安全なアカウント",
-      "spanish": "cuenta separada y segura"
-    },
-    "access": {
-      "korean": "{verifier} 유무에 관계없이 액세스",
-      "german": "Zugriff mit oder ohne {verifier}",
-      "english": "Access with or without {verifier}",
-      "mandarin": "使用或不使用{verifier}均可访问",
-      "japanese": "{verifier}の有無にかかわらずアクセス",
-      "spanish": "Accede con o sin {verifier}"
-    },
-    "tkeyIs3": {
-      "korean": "로그인에 액세스 할 수 없을 때 개인 키를 검색 할 수 있습니다.",
-      "german": "Auf diese Weise können Sie Ihren privaten Schlüssel abrufen, wenn Sie den Zugriff auf Ihr Login verlieren.",
-      "english": "that allows you to retrieve your private key when you lose access to your login.",
-      "mandarin": "当您无法登录时，可以使用它检索私钥。",
-      "japanese": "これにより、ログインにアクセスできなくなったときに秘密鍵を取得できます。",
-      "spanish": "que le permite recuperar su clave privada cuando pierde el acceso a su inicio de sesión."
-    },
-    "tkeyUseful": {
-      "korean": "이는 특히 향후 지갑에 상당한 금액이있을 때 자신의 어카운트을 더 많이 제어하려는 사용자에게 유용합니다.",
-      "german": "Dies ist nützlich für Benutzer, die mehr Kontrolle über ihr Konto haben möchten, insbesondere wenn sie in Zukunft eine erhebliche Summe in ihrer Brieftasche haben.",
-      "english": "This is useful for users who would like to have more control over their account, especially when they have a significant sum in their wallet in future.",
-      "mandarin": "这对于希望对自己的帐户有更多控制权的用户很有用，尤其是在将来他们的钱包中有大量现金时。",
-      "japanese": "これは、アカウントをより細かく制御したいユーザー、特に将来ウォレットに多額の金額がある場合に役立ちます。",
-      "spanish": "Esto es útil para los usuarios que desean tener más control sobre su cuenta, especialmente cuando tienen una suma significativa en su billetera en el futuro."
-    },
-    "socialLoginDesc": {
-      "korean": "예 : Google, Twitter, GitHub 등",
-      "german": "ZB Google, Twitter, GitHub usw.",
-      "english": "Eg Google, Twitter, GitHub etc",
-      "mandarin": "例如Google，Twitter，GitHub等",
-      "japanese": "例：Google、Twitter、GitHubなど",
-      "spanish": "Por ejemplo, Google, Twitter, GitHub, etc."
-    },
-    "tryTkey": {
-      "korean": "tKey 사용해보기",
-      "german": "Probieren Sie tKey aus",
-      "english": "Try out tKey",
-      "mandarin": "试用tKey",
-      "japanese": "tKeyをお試しください",
-      "spanish": "Prueba tKey"
-    },
-    "secureAssets": {
-      "korean": "자산 보호",
-      "german": "Sichern Sie Ihr Vermögen",
-      "english": "Secure your assets",
-      "mandarin": "保护您的资产",
-      "japanese": "資産を保護する",
-      "spanish": "Asegure sus activos"
-    },
-    "socialLogin": {
-      "korean": "소셜 로그인",
-      "german": "Sozialer Login",
-      "english": "Social login",
-      "mandarin": "社交登录",
-      "japanese": "ソーシャルログイン",
-      "spanish": "Inicio de sesión social"
-    },
-    "multipleFactors": {
-      "korean": "여러 인증 팩터",
-      "german": "Mehrere Authentifizierungsfaktoren",
-      "english": "Multiple factors of authentication",
-      "mandarin": "认证的多重因素",
-      "japanese": "認証の複数の要素",
-      "spanish": "Múltiples factores de autenticación"
-    }
-  },
-  "tkeyCreate": {
-    "walletAddress": {
-      "korean": "지갑 주소",
-      "german": "Brieftaschenadresse",
-      "english": "Wallet Address",
-      "mandarin": "钱包地址",
-      "japanese": "ウォレットアドレス",
-      "spanish": "Dirección de billetera"
-    },
-    "setUpWallet": {
-      "korean": "tKey 어카운트 설정",
-      "german": "Richten Sie Ihr tKey-Konto ein",
-      "english": "Setup your tKey account",
-      "mandarin": "设置您的tKey帐户",
-      "japanese": "tKeyアカウントを設定します",
-      "spanish": "Configura tu cuenta tKey"
-    },
-    "yourSignedIn": {
-      "korean": "로그인했습니다",
-      "german": "Du bist angemeldet",
-      "english": "You're signed in",
-      "mandarin": "您已登录",
-      "japanese": "ログインしています",
-      "spanish": "Estás registrado"
-    },
-    "greatCreated": {
-      "korean": "큰! 설정이 완료되었습니다!",
-      "german": "Toll! Sie sind alle eingerichtet!",
-      "english": "Great! You are all set up!",
-      "mandarin": "大！你们都准备好了！",
-      "japanese": "すごい！これで準備は完了です。",
-      "spanish": "¡Excelente! ¡Ya está todo listo!"
-    },
-    "walletAddressDesc": {
-      "korean": "지급금을받는 데 사용되는 은행 계좌 번호와 유사한 고유 주소입니다.",
-      "german": "Dies ist Ihre eindeutige Adresse, ähnlich einer Bankkontonummer, die zum Empfangen von Zahlungen verwendet wird.",
-      "english": "This is your unique address, similar to a bank account number used to receive payments.",
-      "mandarin": "这是您的唯一地址，类似于用于接收付款的银行帐号。",
-      "japanese": "これは、支払いを受け取るために使用される銀行口座番号に似た、あなたの一意の住所です。",
-      "spanish": "Esta es su dirección única, similar a un número de cuenta bancaria que se utiliza para recibir pagos."
-    }
-  },
-  "tkeyBackup": {
-    "recoveryEmail": {
-      "korean": "복구 이메일",
-      "german": "Wiederherstellungs-E-Mail",
-      "english": "Recovery Email",
-      "mandarin": "辅助邮箱",
-      "japanese": "回復メール",
-      "spanish": "Correo electrónico de recuperación"
-    },
-    "tkeyBackupPhrase": {
-      "korean": "tKey 백업 문구",
-      "german": "tKey Backup Phrase",
-      "english": "tKey Backup Phrase",
-      "mandarin": "tKey备份短语",
-      "japanese": "tKeyバックアップフレーズ",
-      "spanish": "tKey Frase de respaldo"
-    },
-    "enterBackupPhrase1": {
-      "korean": "여기에 백업 문구 입력",
-      "german": "Geben Sie hier die Sicherungsphrase ein",
-      "english": "Enter backup phrase here",
-      "mandarin": "在此处输入备用词组",
-      "japanese": "ここにバックアップフレーズを入力してください",
-      "spanish": "Ingrese la frase de respaldo aquí"
-    },
-    "enterEmail": {
-      "korean": "이메일 입력",
-      "german": "Email eingeben",
-      "english": "Enter email",
-      "mandarin": "输入电子邮件",
-      "japanese": "メールアドレスを入力して",
-      "spanish": "Ingrese correo electrónico"
-    },
-    "copyShareNote": {
-      "korean": "참고 :이 백업 문구는 인증 팩터의 한 부분을 포함합니다. 나중에 어카운트 복구의 일부로 저장하여 보관하십시오.",
-      "german": "Hinweis: Diese Sicherungsphrase enthält 1 Teil Ihrer Authentifizierungsfaktoren. Bewahren Sie es an einem anderen Ort auf, als Teil Ihrer zukünftigen Wiederherstellung Ihres Kontos.",
-      "english": "Note: This backup phrase containts 1 part of your authentication factors. Keep it somewhere save as a part of your account recovery in future.",
-      "mandarin": "注意：此备用短语包含您的一部分身份验证因素。 将其保存在某处，以备日后恢复帐户时使用。",
-      "japanese": "注：このバックアップフレーズには、認証要素の一部が含まれています。 将来のアカウント回復の一環として、どこかに保存しておいてください。",
-      "spanish": "Nota: Esta frase de respaldo contiene 1 parte de sus factores de autenticación. Guárdelo en algún lugar guardado como parte de la recuperación de su cuenta en el futuro."
-    },
-    "recoveryEmailDesc3": {
-      "korean": "어카운트 복구를 위해 키 쉐어 중 하나를 되 찾을 수 있습니다.",
-      "german": "Sie können eine Ihrer Schlüsselfreigaben für die Kontowiederherstellung zurückerhalten.",
-      "english": "It allows you to get back one of your key shares for account recovery.",
-      "mandarin": "它使您可以取回其中的关键份额之一以进行帐户恢复。",
-      "japanese": "それはあなたがアカウント回復のためにあなたの主要な共有の1つを取り戻すことを可能にします。",
-      "spanish": "Le permite recuperar una de sus acciones clave para la recuperación de la cuenta."
-    },
-    "authenticateWith": {
-      "korean": "별도의 백업 문구로 인증",
-      "german": "Authentifizieren Sie sich mit einer separaten Sicherungsphrase",
-      "english": "Authenticate with a separate Backup Phrase",
-      "mandarin": "使用单独的备份短语进行身份验证",
-      "japanese": "別のバックアップフレーズで認証する",
-      "spanish": "Autenticar con una frase de respaldo separada"
-    },
-    "thisIsSentToEmail": {
-      "korean": "이것은 복구 이메일로 전송되거나 지갑 설정 페이지에서 다운로드됩니다.",
-      "german": "Dies wird an Ihre Wiederherstellungs-E-Mail gesendet oder von der Seite mit den Brieftascheneinstellungen heruntergeladen.",
-      "english": "This is sent to your Recovery email or downloaded from wallet setttings page.",
-      "mandarin": "这将发送到您的辅助邮箱或从钱包设置页面下载。",
-      "japanese": "これは、リカバリメールに送信されるか、ウォレット設定ページからダウンロードされます。",
-      "spanish": "Esto se envía a su correo electrónico de recuperación o se descarga desde la página de configuración de billetera."
-    },
-    "recoveryEmailDesc1": {
-      "korean": "복구 이메일 주소를 입력하세요.",
-      "german": "Geben Sie eine Wiederherstellungs-E-Mail-Adresse an.",
-      "english": "Provide a recovery email address.",
-      "mandarin": "提供辅助邮箱地址。",
-      "japanese": "回復用の電子メールアドレスを入力します。",
-      "spanish": "Proporcione una dirección de correo electrónico de recuperación."
-    },
-    "backupPhrase": {
-      "korean": "백업 문구",
-      "german": "Sicherungssatz",
-      "english": "Backup Phrase",
-      "mandarin": "备用词组",
-      "japanese": "バックアップフレーズ",
-      "spanish": "Frase de respaldo"
-    },
-    "enterBackupPhrase": {
-      "korean": "여기에 백업 문구 입력",
-      "german": "Geben Sie hier die Sicherungsphrase ein",
-      "english": "Enter backup phrase here",
-      "mandarin": "在此处输入备用词组",
-      "japanese": "ここにバックアップフレーズを入力してください",
-      "spanish": "Ingrese la frase de respaldo aquí"
-    },
-    "copyShareMnemonic": {
-      "korean": "쉐어 니모닉 복사",
-      "german": "Kopieren Sie die Share-Mnemonik",
-      "english": "Copy share mnemonic",
-      "mandarin": "复制共享助记符",
-      "japanese": "コピー共有ニーモニック",
-      "spanish": "Copiar compartir mnemónico"
-    },
-    "saveCopy": {
-      "korean": "백업 문구 사본 저장",
-      "german": "Speichern Sie eine Kopie Ihrer Sicherungsphrase",
-      "english": "Save a copy of your backup phrase",
-      "mandarin": "保存备份短语的副本",
-      "japanese": "バックアップフレーズのコピーを保存します",
-      "spanish": "Guarde una copia de su frase de respaldo"
-    },
-    "enterBackupPhrase2": {
-      "korean": "여기에 다른 인증 팩터의 백업 문구를 입력합니다.",
-      "german": "Geben Sie hier die Sicherungsphrase von einem anderen Authentifizierungsfaktor ein.",
-      "english": "Enter the Backup Phrase from another authentication factor here.",
-      "mandarin": "在此处输入其他身份验证因素的备份短语。",
-      "japanese": "ここに別の認証要素からのバックアップフレーズを入力します。",
-      "spanish": "Introduzca aquí la Frase de seguridad de otro factor de autenticación."
-    },
-    "clickToCopy": {
-      "korean": "복사하려면 클릭",
-      "german": "Klicken Sie zum Kopieren",
-      "english": "Click to copy",
-      "mandarin": "点击复制",
-      "japanese": "クリックしてコピー",
-      "spanish": "Haga clic para copiar"
-    },
-    "incorrectBackupPhrase": {
-      "korean": "잘못된 백업 문구",
-      "german": "Falsche Sicherungsphrase",
-      "english": "Incorrect backup phrase",
-      "mandarin": "备份短语不正确",
-      "japanese": "間違ったバックアップフレーズ",
-      "spanish": "Frase de respaldo incorrecta"
-    },
-    "recoveryEmailDesc2": {
-      "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
-      "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase.",
-      "english": "An email will be sent to you containing the backup phrase.",
-      "mandarin": "包含备用短语的电子邮件将发送给您。",
-      "japanese": "バックアップフレーズを記載したメールが送信されます。",
-      "spanish": "Se le enviará un correo electrónico con la frase de respaldo."
+    "your": {
+      "english": "Your",
+      "german": "Sie",
+      "japanese": "あなたの",
+      "korean": "당신",
+      "mandarin": "您",
+      "spanish": "Tu"
     }
   },
   "loginCountry": {
+    "email": {
+      "english": "Email",
+      "german": "Email",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "spanish": "Correo electrónico"
+    },
     "notifyMe": {
-      "korean": "나를 통지",
-      "german": "Benachrichtige mich",
       "english": "Notify me",
-      "mandarin": "通知我",
+      "german": "Benachrichtige mich",
       "japanese": "私に通知する",
+      "korean": "나를 통지",
+      "mandarin": "通知我",
       "spanish": "Notificarme"
     },
-    "supportedCountries3": {
-      "korean": "연락하시면 가입을 도와드리겠습니다.",
-      "german": "Kontaktieren Sie uns und wir helfen Ihnen bei der Anmeldung.",
-      "english": "get in touch and we'll help you sign up.",
-      "mandarin": "联系我们，我们会帮助您注册。",
-      "japanese": "お問い合わせいただければ、サインアップのお手伝いをいたします。",
-      "spanish": "ponte en contacto y te ayudaremos a registrarte."
-    },
-    "torusNotSupported": {
-      "korean": "현재 귀하의 국가에서는 Torus를 사용할 수 없습니다.",
-      "german": "Torus ist derzeit in deinem Land nicht verfügbar",
-      "english": "Torus is currently not available in your country",
-      "mandarin": "Torus 目前在您所在的国家/地区不可用",
-      "japanese": "トーラスは現在、お住まいの国ではご利用いただけません",
-      "spanish": "Actualmente, Torus no está disponible en su país."
+    "stayTuned": {
+      "english": "Stay tuned for updates to hear about availability in more regions.",
+      "german": "Bleiben Sie dran für Updates, um mehr über die Verfügbarkeit in weiteren Regionen zu erfahren.",
+      "japanese": "より多くの地域での可用性について聞くために更新をお楽しみに。",
+      "korean": "더 많은 지역에서 사용 가능 여부에 대한 소식을 들을 수 있는 업데이트를 계속 지켜봐 주십시오.",
+      "mandarin": "请继续关注更新以了解更多地区的可用性。",
+      "spanish": "Esté atento a las actualizaciones para conocer la disponibilidad en más regiones."
     },
     "supportedCountries1": {
-      "korean": "당신이 실제로 우리 중 하나에 살고 있다면",
-      "german": "Wenn du tatsächlich in einem unserer wohnst",
       "english": "If you actually live in one of our",
-      "mandarin": "如果你真的住在我们的其中之一",
+      "german": "Wenn du tatsächlich in einem unserer wohnst",
       "japanese": "あなたが実際に私たちのいずれかに住んでいる場合",
+      "korean": "당신이 실제로 우리 중 하나에 살고 있다면",
+      "mandarin": "如果你真的住在我们的其中之一",
       "spanish": "Si vive en uno de nuestros"
     },
     "supportedCountries2": {
-      "korean": "지원 국가,",
-      "german": "unterstützte Länder,",
       "english": "supported countries,",
-      "mandarin": "支持的国家，",
+      "german": "unterstützte Länder,",
       "japanese": "サポートされている国、",
+      "korean": "지원 국가,",
+      "mandarin": "支持的国家，",
       "spanish": "países apoyados,"
     },
-    "stayTuned": {
-      "korean": "더 많은 지역에서 사용 가능 여부에 대한 소식을 들을 수 있는 업데이트를 계속 지켜봐 주십시오.",
-      "german": "Bleiben Sie dran für Updates, um mehr über die Verfügbarkeit in weiteren Regionen zu erfahren.",
-      "english": "Stay tuned for updates to hear about availability in more regions.",
-      "mandarin": "请继续关注更新以了解更多地区的可用性。",
-      "japanese": "より多くの地域での可用性について聞くために更新をお楽しみに。",
-      "spanish": "Esté atento a las actualizaciones para conocer la disponibilidad en más regiones."
+    "supportedCountries3": {
+      "english": "get in touch and we'll help you sign up.",
+      "german": "Kontaktieren Sie uns und wir helfen Ihnen bei der Anmeldung.",
+      "japanese": "お問い合わせいただければ、サインアップのお手伝いをいたします。",
+      "korean": "연락하시면 가입을 도와드리겠습니다.",
+      "mandarin": "联系我们，我们会帮助您注册。",
+      "spanish": "ponte en contacto y te ayudaremos a registrarte."
     },
-    "email": {
-      "korean": "이메일",
-      "german": "Email",
-      "english": "Email",
-      "mandarin": "电子邮件",
-      "japanese": "Eメール",
-      "spanish": "Correo electrónico"
-    }
-  },
-  "tkeyLogin": {
-    "signIn": {
-      "korean": "어카운트을 연결하려면 다음 중 하나로 로그인하세요.",
-      "german": "Melden Sie sich mit einer der folgenden Optionen an, um ein Konto zu verknüpfen",
-      "english": "Sign in with any of the following to link account",
-      "mandarin": "使用以下任何一种方式登录以链接帐户",
-      "japanese": "アカウントをリンクするには、次のいずれかでサインインしてください",
-      "spanish": "Inicie sesión con cualquiera de los siguientes para vincular la cuenta"
-    },
-    "byLinking": {
-      "korean": "어카운트을 연결하면 두 어카운트 모두 동일한 2FA 지갑과 해당 설정을 공유하게됩니다.",
-      "german": "Durch die Verknüpfung des Kontos teilen sich beide Konten dieselbe 2FA-Brieftasche und ihre Einstellungen.",
-      "english": "By linking account, both account will share the same 2FA Wallet and its settings.",
-      "mandarin": "通过链接帐户，两个帐户将共享相同的2FA电子钱包及其设置。",
-      "japanese": "アカウントをリンクすると、両方のアカウントが同じ2FAウォレットとその設定を共有します。",
-      "spanish": "Al vincular la cuenta, ambas cuentas compartirán la misma billetera 2FA y su configuración."
+    "torusNotSupported": {
+      "english": "Torus is currently not available in your country",
+      "german": "Torus ist derzeit in deinem Land nicht verfügbar",
+      "japanese": "トーラスは現在、お住まいの国ではご利用いただけません",
+      "korean": "현재 귀하의 국가에서는 Torus를 사용할 수 없습니다.",
+      "mandarin": "Torus 目前在您所在的国家/地区不可用",
+      "spanish": "Actualmente, Torus no está disponible en su país."
     }
   },
   "noDataText": {
     "": {
-      "korean": "데이터가 없습니다.",
-      "german": "Keine Daten vorhanden",
       "english": "No data available",
-      "mandarin": "没有数据",
+      "german": "Keine Daten vorhanden",
       "japanese": "取引履歴はありません",
+      "korean": "데이터가 없습니다.",
+      "mandarin": "没有数据",
       "spanish": "No hay información disponible"
+    }
+  },
+  "tkeyBackup": {
+    "authenticateWith": {
+      "english": "Authenticate with a separate Backup Phrase",
+      "german": "Authentifizieren Sie sich mit einer separaten Sicherungsphrase",
+      "japanese": "別のバックアップフレーズで認証する",
+      "korean": "별도의 백업 문구로 인증",
+      "mandarin": "使用单独的备份短语进行身份验证",
+      "spanish": "Autenticar con una frase de respaldo separada"
+    },
+    "backupPhrase": {
+      "english": "Backup Phrase",
+      "german": "Sicherungssatz",
+      "japanese": "バックアップフレーズ",
+      "korean": "백업 문구",
+      "mandarin": "备用词组",
+      "spanish": "Frase de respaldo"
+    },
+    "clickToCopy": {
+      "english": "Click to copy",
+      "german": "Klicken Sie zum Kopieren",
+      "japanese": "クリックしてコピー",
+      "korean": "복사하려면 클릭",
+      "mandarin": "点击复制",
+      "spanish": "Haga clic para copiar"
+    },
+    "copyShareMnemonic": {
+      "english": "Copy share mnemonic",
+      "german": "Kopieren Sie die Share-Mnemonik",
+      "japanese": "コピー共有ニーモニック",
+      "korean": "쉐어 니모닉 복사",
+      "mandarin": "复制共享助记符",
+      "spanish": "Copiar compartir mnemónico"
+    },
+    "copyShareNote": {
+      "english": "Note: This backup phrase containts 1 part of your authentication factors. Keep it somewhere save as a part of your account recovery in future.",
+      "german": "Hinweis: Diese Sicherungsphrase enthält 1 Teil Ihrer Authentifizierungsfaktoren. Bewahren Sie es an einem anderen Ort auf, als Teil Ihrer zukünftigen Wiederherstellung Ihres Kontos.",
+      "japanese": "注：このバックアップフレーズには、認証要素の一部が含まれています。 将来のアカウント回復の一環として、どこかに保存しておいてください。",
+      "korean": "참고 :이 백업 문구는 인증 팩터의 한 부분을 포함합니다. 나중에 어카운트 복구의 일부로 저장하여 보관하십시오.",
+      "mandarin": "注意：此备用短语包含您的一部分身份验证因素。 将其保存在某处，以备日后恢复帐户时使用。",
+      "spanish": "Nota: Esta frase de respaldo contiene 1 parte de sus factores de autenticación. Guárdelo en algún lugar guardado como parte de la recuperación de su cuenta en el futuro."
+    },
+    "enterBackupPhrase": {
+      "english": "Enter backup phrase here",
+      "german": "Geben Sie hier die Sicherungsphrase ein",
+      "japanese": "ここにバックアップフレーズを入力してください",
+      "korean": "여기에 백업 문구 입력",
+      "mandarin": "在此处输入备用词组",
+      "spanish": "Ingrese la frase de respaldo aquí"
+    },
+    "enterBackupPhrase1": {
+      "english": "Enter backup phrase here",
+      "german": "Geben Sie hier die Sicherungsphrase ein",
+      "japanese": "ここにバックアップフレーズを入力してください",
+      "korean": "여기에 백업 문구 입력",
+      "mandarin": "在此处输入备用词组",
+      "spanish": "Ingrese la frase de respaldo aquí"
+    },
+    "enterBackupPhrase2": {
+      "english": "Enter the Backup Phrase from another authentication factor here.",
+      "german": "Geben Sie hier die Sicherungsphrase von einem anderen Authentifizierungsfaktor ein.",
+      "japanese": "ここに別の認証要素からのバックアップフレーズを入力します。",
+      "korean": "여기에 다른 인증 팩터의 백업 문구를 입력합니다.",
+      "mandarin": "在此处输入其他身份验证因素的备份短语。",
+      "spanish": "Introduzca aquí la Frase de seguridad de otro factor de autenticación."
+    },
+    "enterEmail": {
+      "english": "Enter email",
+      "german": "Email eingeben",
+      "japanese": "メールアドレスを入力して",
+      "korean": "이메일 입력",
+      "mandarin": "输入电子邮件",
+      "spanish": "Ingrese correo electrónico"
+    },
+    "incorrectBackupPhrase": {
+      "english": "Incorrect backup phrase",
+      "german": "Falsche Sicherungsphrase",
+      "japanese": "間違ったバックアップフレーズ",
+      "korean": "잘못된 백업 문구",
+      "mandarin": "备份短语不正确",
+      "spanish": "Frase de respaldo incorrecta"
+    },
+    "recoveryEmail": {
+      "english": "Recovery Email",
+      "german": "Wiederherstellungs-E-Mail",
+      "japanese": "回復メール",
+      "korean": "복구 이메일",
+      "mandarin": "辅助邮箱",
+      "spanish": "Correo electrónico de recuperación"
+    },
+    "recoveryEmailDesc1": {
+      "english": "Provide a recovery email address.",
+      "german": "Geben Sie eine Wiederherstellungs-E-Mail-Adresse an.",
+      "japanese": "回復用の電子メールアドレスを入力します。",
+      "korean": "복구 이메일 주소를 입력하세요.",
+      "mandarin": "提供辅助邮箱地址。",
+      "spanish": "Proporcione una dirección de correo electrónico de recuperación."
+    },
+    "recoveryEmailDesc2": {
+      "english": "An email will be sent to you containing the backup phrase.",
+      "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase.",
+      "japanese": "バックアップフレーズを記載したメールが送信されます。",
+      "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
+      "mandarin": "包含备用短语的电子邮件将发送给您。",
+      "spanish": "Se le enviará un correo electrónico con la frase de respaldo."
+    },
+    "recoveryEmailDesc3": {
+      "english": "It allows you to get back one of your key shares for account recovery.",
+      "german": "Sie können eine Ihrer Schlüsselfreigaben für die Kontowiederherstellung zurückerhalten.",
+      "japanese": "それはあなたがアカウント回復のためにあなたの主要な共有の1つを取り戻すことを可能にします。",
+      "korean": "어카운트 복구를 위해 키 쉐어 중 하나를 되 찾을 수 있습니다.",
+      "mandarin": "它使您可以取回其中的关键份额之一以进行帐户恢复。",
+      "spanish": "Le permite recuperar una de sus acciones clave para la recuperación de la cuenta."
+    },
+    "saveCopy": {
+      "english": "Save a copy of your backup phrase",
+      "german": "Speichern Sie eine Kopie Ihrer Sicherungsphrase",
+      "japanese": "バックアップフレーズのコピーを保存します",
+      "korean": "백업 문구 사본 저장",
+      "mandarin": "保存备份短语的副本",
+      "spanish": "Guarde una copia de su frase de respaldo"
+    },
+    "thisIsSentToEmail": {
+      "english": "This is sent to your Recovery email or downloaded from wallet setttings page.",
+      "german": "Dies wird an Ihre Wiederherstellungs-E-Mail gesendet oder von der Seite mit den Brieftascheneinstellungen heruntergeladen.",
+      "japanese": "これは、リカバリメールに送信されるか、ウォレット設定ページからダウンロードされます。",
+      "korean": "이것은 복구 이메일로 전송되거나 지갑 설정 페이지에서 다운로드됩니다.",
+      "mandarin": "这将发送到您的辅助邮箱或从钱包设置页面下载。",
+      "spanish": "Esto se envía a su correo electrónico de recuperación o se descarga desde la página de configuración de billetera."
+    },
+    "tkeyBackupPhrase": {
+      "english": "tKey Backup Phrase",
+      "german": "tKey Backup Phrase",
+      "japanese": "tKeyバックアップフレーズ",
+      "korean": "tKey 백업 문구",
+      "mandarin": "tKey备份短语",
+      "spanish": "tKey Frase de respaldo"
+    }
+  },
+  "tkeyCreate": {
+    "greatCreated": {
+      "english": "Great! You are all set up!",
+      "german": "Toll! Sie sind alle eingerichtet!",
+      "japanese": "すごい！これで準備は完了です。",
+      "korean": "큰! 설정이 완료되었습니다!",
+      "mandarin": "大！你们都准备好了！",
+      "spanish": "¡Excelente! ¡Ya está todo listo!"
+    },
+    "setUpWallet": {
+      "english": "Setup your tKey account",
+      "german": "Richten Sie Ihr tKey-Konto ein",
+      "japanese": "tKeyアカウントを設定します",
+      "korean": "tKey 어카운트 설정",
+      "mandarin": "设置您的tKey帐户",
+      "spanish": "Configura tu cuenta tKey"
+    },
+    "walletAddress": {
+      "english": "Wallet Address",
+      "german": "Brieftaschenadresse",
+      "japanese": "ウォレットアドレス",
+      "korean": "지갑 주소",
+      "mandarin": "钱包地址",
+      "spanish": "Dirección de billetera"
+    },
+    "walletAddressDesc": {
+      "english": "This is your unique address, similar to a bank account number used to receive payments.",
+      "german": "Dies ist Ihre eindeutige Adresse, ähnlich einer Bankkontonummer, die zum Empfangen von Zahlungen verwendet wird.",
+      "japanese": "これは、支払いを受け取るために使用される銀行口座番号に似た、あなたの一意の住所です。",
+      "korean": "지급금을받는 데 사용되는 은행 계좌 번호와 유사한 고유 주소입니다.",
+      "mandarin": "这是您的唯一地址，类似于用于接收付款的银行帐号。",
+      "spanish": "Esta es su dirección única, similar a un número de cuenta bancaria que se utiliza para recibir pagos."
+    },
+    "yourSignedIn": {
+      "english": "You're signed in",
+      "german": "Du bist angemeldet",
+      "japanese": "ログインしています",
+      "korean": "로그인했습니다",
+      "mandarin": "您已登录",
+      "spanish": "Estás registrado"
+    }
+  },
+  "tkeyCreateAdd": {
+    "access": {
+      "english": "Access with or without {verifier}",
+      "german": "Zugriff mit oder ohne {verifier}",
+      "japanese": "{verifier}の有無にかかわらずアクセス",
+      "korean": "{verifier} 유무에 관계없이 액세스",
+      "mandarin": "使用或不使用{verifier}均可访问",
+      "spanish": "Accede con o sin {verifier}"
+    },
+    "browser": {
+      "english": "Browser",
+      "german": "Browser",
+      "japanese": "ブラウザ",
+      "korean": "브라우저",
+      "mandarin": "浏览器",
+      "spanish": "Navegador"
+    },
+    "browserDesc": {
+      "english": "MacOS Chrome, Safari, Opera",
+      "german": "MacOS Chrome, Safari, Opera",
+      "japanese": "MacOS Chrome、Safari、Opera",
+      "korean": "MacOS Chrome, Safari, Opera",
+      "mandarin": "MacOS Chrome, Safari, Opera",
+      "spanish": "MacOS Chrome, Safari, Opera"
+    },
+    "continue": {
+      "english": "Continue",
+      "german": "Fortsetzen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "spanish": "Seguir"
+    },
+    "learnMore": {
+      "english": "Learn more about tKey",
+      "german": "Erfahren Sie mehr über tKey",
+      "japanese": "tKeyの詳細",
+      "korean": "tKey에 대해 더 알아보기",
+      "mandarin": "了解有关tKey的更多信息",
+      "spanish": "Más información sobre tKey"
+    },
+    "letsTry": {
+      "english": "Let's try it out!",
+      "german": "Probieren wir es aus!",
+      "japanese": "やってみよう！",
+      "korean": "시도 해보자!",
+      "mandarin": "让我们尝试一下！",
+      "spanish": "¡Probémoslo!"
+    },
+    "multipleFactors": {
+      "english": "Multiple factors of authentication",
+      "german": "Mehrere Authentifizierungsfaktoren",
+      "japanese": "認証の複数の要素",
+      "korean": "여러 인증 팩터",
+      "mandarin": "认证的多重因素",
+      "spanish": "Múltiples factores de autenticación"
+    },
+    "notNow": {
+      "english": "Not now",
+      "german": "Nicht jetzt",
+      "japanese": "今はやめろ",
+      "korean": "지금은 아니야",
+      "mandarin": "现在不要",
+      "spanish": "Ahora no"
+    },
+    "noWorry": {
+      "english": "Don't worry, it is free",
+      "german": "Mach dir keine Sorgen, es ist kostenlos",
+      "japanese": "心配しないでください、それは無料です",
+      "korean": "걱정하지 마세요, 무료입니다",
+      "mandarin": "不用担心，它是免费的",
+      "spanish": "No te preocupes es gratis"
+    },
+    "of": {
+      "english": "of",
+      "german": "von",
+      "japanese": "の",
+      "korean": "중",
+      "mandarin": "之",
+      "spanish": "de"
+    },
+    "password": {
+      "english": "Password",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "암호",
+      "mandarin": "密码",
+      "spanish": "Contraseña"
+    },
+    "passwordDesc": {
+      "english": "Password or Download a file",
+      "german": "Passwort oder Datei herunterladen",
+      "japanese": "パスワードまたはファイルのダウンロード",
+      "korean": "비밀번호 또는 파일 다운로드",
+      "mandarin": "密码或下载文件",
+      "spanish": "Contraseña o descargar un archivo"
+    },
+    "secureAssets": {
+      "english": "Secure your assets",
+      "german": "Sichern Sie Ihr Vermögen",
+      "japanese": "資産を保護する",
+      "korean": "자산 보호",
+      "mandarin": "保护您的资产",
+      "spanish": "Asegure sus activos"
+    },
+    "selfCustodial": {
+      "english": "Self-custodial",
+      "german": "Selbstverwahrung",
+      "japanese": "自己管理",
+      "korean": "자기 관리",
+      "mandarin": "自我监护",
+      "spanish": "Auto-custodia"
+    },
+    "settingUp": {
+      "english": "Setting up your tKey",
+      "german": "Einrichten Ihres Schlüssels",
+      "japanese": "tKeyの設定",
+      "korean": "tKey 설정",
+      "mandarin": "设置您的tKey",
+      "spanish": "Configurando su tKey"
+    },
+    "skip": {
+      "english": "Skip",
+      "german": "Überspringen",
+      "japanese": "スキップ",
+      "korean": "건너 뛰기",
+      "mandarin": "跳跃",
+      "spanish": "Omitir"
+    },
+    "socialLogin": {
+      "english": "Social login",
+      "german": "Sozialer Login",
+      "japanese": "ソーシャルログイン",
+      "korean": "소셜 로그인",
+      "mandarin": "社交登录",
+      "spanish": "Inicio de sesión social"
+    },
+    "socialLoginDesc": {
+      "english": "Eg Google, Twitter, GitHub etc",
+      "german": "ZB Google, Twitter, GitHub usw.",
+      "japanese": "例：Google、Twitter、GitHubなど",
+      "korean": "예 : Google, Twitter, GitHub 등",
+      "mandarin": "例如Google，Twitter，GitHub等",
+      "spanish": "Por ejemplo, Google, Twitter, GitHub, etc."
+    },
+    "sureLetsAdd": {
+      "english": "Sure, let's add one",
+      "german": "Klar, lassen Sie uns einen hinzufügen",
+      "japanese": "確かに、1つ追加しましょう",
+      "korean": "물론입니다. 하나 추가하겠습니다.",
+      "mandarin": "当然，让我们添加一个",
+      "spanish": "Claro, agreguemos uno"
+    },
+    "tkeyIs1": {
+      "english": "tKey is a",
+      "german": "tKey ist ein",
+      "japanese": "tKeyは",
+      "korean": "tKey는",
+      "mandarin": "tKey是一个",
+      "spanish": "TKey es un"
+    },
+    "tkeyIs2": {
+      "english": "separate, secure account",
+      "german": "separates, sicheres Konto",
+      "japanese": "個別の安全なアカウント",
+      "korean": "별도의 안전한 어카운트",
+      "mandarin": "独立的安全帐户",
+      "spanish": "cuenta separada y segura"
+    },
+    "tkeyIs3": {
+      "english": "that allows you to retrieve your private key when you lose access to your login.",
+      "german": "Auf diese Weise können Sie Ihren privaten Schlüssel abrufen, wenn Sie den Zugriff auf Ihr Login verlieren.",
+      "japanese": "これにより、ログインにアクセスできなくなったときに秘密鍵を取得できます。",
+      "korean": "로그인에 액세스 할 수 없을 때 개인 키를 검색 할 수 있습니다.",
+      "mandarin": "当您无法登录时，可以使用它检索私钥。",
+      "spanish": "que le permite recuperar su clave privada cuando pierde el acceso a su inicio de sesión."
+    },
+    "tkeyManaged": {
+      "english": "Your tKey account is managed by your login (e.g. Google), your device, and a password. Set up your account and access it with any two of the authentication factors during each login.",
+      "german": "Ihr tKey-Konto wird von Ihrem Login (z. B. Google), Ihrem Gerät und einem Passwort verwaltet. Richten Sie Ihr Konto ein und greifen Sie bei jeder Anmeldung mit zwei beliebigen Authentifizierungsfaktoren darauf zu.",
+      "japanese": "tKeyアカウントは、ログイン（Googleなど）、デバイス、およびパスワードによって管理されます。アカウントを設定し、ログインするたびに2つの認証要素を使用してアカウントにアクセスします。",
+      "korean": "tKey 어카운트은 로그인 (예 : Google), 기기 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
+      "mandarin": "您的tKey帐户由您的登录名（例如Google），设备和密码来管理。设置您的帐户，并在每次登录时使用任意两个身份验证因子进行访问。",
+      "spanish": "Su cuenta tKey es administrada por su nombre de usuario (por ejemplo, Google), su dispositivo y una contraseña. Configure su cuenta y acceda a ella con dos de los factores de autenticación durante cada inicio de sesión."
+    },
+    "tkeyUseful": {
+      "english": "This is useful for users who would like to have more control over their account, especially when they have a significant sum in their wallet in future.",
+      "german": "Dies ist nützlich für Benutzer, die mehr Kontrolle über ihr Konto haben möchten, insbesondere wenn sie in Zukunft eine erhebliche Summe in ihrer Brieftasche haben.",
+      "japanese": "これは、アカウントをより細かく制御したいユーザー、特に将来ウォレットに多額の金額がある場合に役立ちます。",
+      "korean": "이는 특히 향후 지갑에 상당한 금액이있을 때 자신의 어카운트을 더 많이 제어하려는 사용자에게 유용합니다.",
+      "mandarin": "这对于希望对自己的帐户有更多控制权的用户很有用，尤其是在将来他们的钱包中有大量现金时。",
+      "spanish": "Esto es útil para los usuarios que desean tener más control sobre su cuenta, especialmente cuando tienen una suma significativa en su billetera en el futuro."
+    },
+    "tryTkey": {
+      "english": "Try out tKey",
+      "german": "Probieren Sie tKey aus",
+      "japanese": "tKeyをお試しください",
+      "korean": "tKey 사용해보기",
+      "mandarin": "试用tKey",
+      "spanish": "Prueba tKey"
+    },
+    "tryTkeyDesc": {
+      "english": "A separate account with added security",
+      "german": "Ein separates Konto mit zusätzlicher Sicherheit",
+      "japanese": "セキュリティが強化された別のアカウント",
+      "korean": "보안이 강화 된 별도의 어카운트",
+      "mandarin": "具有增强安全性的单独帐户",
+      "spanish": "Una cuenta separada con mayor seguridad"
+    }
+  },
+  "tkeyCreateDone": {
+    "letsExplore": {
+      "english": "Let's explore",
+      "german": "Lass uns erforschen",
+      "japanese": "探検しよう",
+      "korean": "탐험하자",
+      "mandarin": "让我们来探索",
+      "spanish": "Vamos a explorar"
+    },
+    "selectDefault": {
+      "english": "Select your default account",
+      "german": "Wählen Sie Ihr Standardkonto",
+      "japanese": "デフォルトのアカウントを選択します",
+      "korean": "기본 어카운트 선택",
+      "mandarin": "选择您的默认帐户",
+      "spanish": "Seleccione su cuenta predeterminada"
+    },
+    "success": {
+      "english": "tKey successfully created!",
+      "german": "tKey erfolgreich erstellt!",
+      "japanese": "tKeyが正常に作成されました！",
+      "korean": "tKey가 성공적으로 생성되었습니다!",
+      "mandarin": "tKey创建成功！",
+      "spanish": "¡tKey creada correctamente!"
+    },
+    "theDefaultAccount": {
+      "english": "You will use this account whenever you sign in. You can change this anytime in your settings.",
+      "german": "Sie werden dieses Konto bei jeder Anmeldung verwenden. Sie können dies jederzeit in Ihren Einstellungen ändern.",
+      "japanese": "サインインするたびにこのアカウントを使用します。これは設定でいつでも変更できます。",
+      "korean": "로그인 할 때마다이 어카운트을 사용하게됩니다. 언제든지 설정에서 변경할 수 있습니다.",
+      "mandarin": "每次登录时都将使用此帐户。您可以随时在设置中更改此帐户。",
+      "spanish": "Utilizará esta cuenta cada vez que inicie sesión. Puede cambiar esto en cualquier momento en su configuración."
+    },
+    "walletAddress": {
+      "english": "Wallet address",
+      "german": "Brieftaschenadresse",
+      "japanese": "ウォレットアドレス",
+      "korean": "지갑 주소",
+      "mandarin": "钱包地址",
+      "spanish": "Dirección de billetera"
+    },
+    "yourSeedPhrase": {
+      "english": "Your Seed Phrase Account",
+      "german": "Ihr Seed Phrase Account",
+      "japanese": "あなたのシードフレーズアカウント",
+      "korean": "귀하의 Seed Phrase 어카운트",
+      "mandarin": "您的种子短语帐户",
+      "spanish": "Su cuenta de frase de semillas"
+    },
+    "yourWallet": {
+      "english": "Your tKey Account",
+      "german": "Ihr tKey-Konto",
+      "japanese": "あなたのtKeyアカウント",
+      "korean": "귀하의 tKey 어카운트",
+      "mandarin": "您的tKey账户",
+      "spanish": "Tu cuenta tKey"
+    }
+  },
+  "tkeyCreateSetup": {
+    "authFactors": {
+      "english": "Authentication factors",
+      "german": "Authentifizierungsfaktoren",
+      "japanese": "認証要素",
+      "korean": "인증 팩터",
+      "mandarin": "认证因素",
+      "spanish": "Factores de autenticación"
+    },
+    "authViaBrowser1": {
+      "english": "Authentication via browser is limited to the cookies stored.",
+      "german": "Die Authentifizierung über den Browser ist auf die gespeicherten Cookies beschränkt.",
+      "japanese": "ブラウザ経由の認証は、保存されているCookieに限定されます。",
+      "korean": "브라우저를 통한 인증은 저장된 쿠키로 제한됩니다.",
+      "mandarin": "通过浏览器的身份验证仅限于存储的cookie。",
+      "spanish": "La autenticación a través del navegador se limita a las cookies almacenadas."
+    },
+    "authViaBrowser2": {
+      "english": " Click to",
+      "german": "Klicke um",
+      "japanese": "クリックして",
+      "korean": "클릭",
+      "mandarin": "点击到",
+      "spanish": "Haga clic para"
+    },
+    "authViaBrowser3": {
+      "english": "allow device storage as backup.",
+      "german": "Gerätespeicher als Backup zulassen.",
+      "japanese": "バックアップとしてデバイスストレージを許可します。",
+      "korean": "디바이스 저장을 백업으로 허용하십시오.",
+      "mandarin": "允许设备存储作为备份。",
+      "spanish": "permitir el almacenamiento del dispositivo como copia de seguridad."
+    },
+    "average": {
+      "english": "Average",
+      "german": "Durchschnittlich",
+      "japanese": "平均",
+      "korean": "평균",
+      "mandarin": "平均",
+      "spanish": "Promedio"
+    },
+    "backupOnDevice": {
+      "english": "Allow device storage as backup. ",
+      "german": "Gerätespeicher als Backup zulassen.",
+      "japanese": "デバイスのストレージをバックアップとして許可します。",
+      "korean": "디바이스 저장소를 백업으로 허용합니다.",
+      "mandarin": "允许设备存储作为备份。",
+      "spanish": "Permita el almacenamiento del dispositivo como respaldo."
+    },
+    "browser": {
+      "english": "Browser",
+      "german": "Browser",
+      "japanese": "ブラウザ",
+      "korean": "브라우저",
+      "mandarin": "浏览器",
+      "spanish": "Navegador"
+    },
+    "cancel": {
+      "english": "Cancel",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "mandarin": "取消",
+      "spanish": "Cancelar"
+    },
+    "confirmPassword": {
+      "english": "Retype password",
+      "german": "Passwort erneut eingeben",
+      "japanese": "パスワードを再入力してください",
+      "korean": "비밀번호 재 입력",
+      "mandarin": "重新输入密码",
+      "spanish": "Vuelva a escribir la contraseña"
+    },
+    "createWallet": {
+      "english": "Create tKey account",
+      "german": "Erstellen Sie ein tKey-Konto",
+      "japanese": "tKeyアカウントを作成する",
+      "korean": "tKey 어카운트 생성",
+      "mandarin": "创建tKey账户",
+      "spanish": "Crear cuenta tKey"
+    },
+    "excellent": {
+      "english": "Excellent",
+      "german": "Ausgezeichnet",
+      "japanese": "優れた",
+      "korean": "우수한",
+      "mandarin": "优秀的",
+      "spanish": "Excelente"
+    },
+    "good": {
+      "english": "Good",
+      "german": "Gut",
+      "japanese": "良い",
+      "korean": "좋은",
+      "mandarin": "好",
+      "spanish": "Bueno"
+    },
+    "iUnderstand": {
+      "english": "I understand that I need at least two authentication factors to access my tKey account. Otherwise,  I lose access to my tKey account.",
+      "german": "Ich verstehe, dass ich mindestens zwei Authentifizierungsfaktoren benötige, um auf mein tKey-Konto zuzugreifen. Andernfalls verliere ich den Zugriff auf mein tKey-Konto.",
+      "japanese": "tKeyアカウントにアクセスするには、少なくとも2つの認証要素が必要であることを理解しています。そうしないと、tKeyアカウントにアクセスできなくなります。",
+      "korean": "내 tKey 어카운트에 액세스하려면 최소한 두 가지 인증 팩터가 필요하다는 것을 이해합니다. 그렇지 않으면 내 tKey 어카운트에 액세스 할 수 없습니다.",
+      "mandarin": "我了解我至少需要两个身份验证因素才能访问我的tKey帐户。否则，我将无法访问我的tKey帐户。",
+      "spanish": "Entiendo que necesito al menos dos factores de autenticación para acceder a mi cuenta tKey. De lo contrario, pierdo el acceso a mi cuenta tKey."
+    },
+    "minAlphaNumeric": {
+      "english": "Min 10 alphanumeric characters",
+      "german": "Mindestens 10 alphanumerische Zeichen",
+      "japanese": "10文字以上の英数字",
+      "korean": "최소 10 자리 영숫자",
+      "mandarin": "最少10个字母数字字符",
+      "spanish": "Mínimo 10 caracteres alfanuméricos"
+    },
+    "passwordMatch": {
+      "english": "Password must match",
+      "german": "Passwort muss übereinstimmen",
+      "japanese": "パスワードが一致している必要があります",
+      "korean": "암호가 일치해야합니다",
+      "mandarin": "密码必须匹配",
+      "spanish": "Contraseña debe coincidir con"
+    },
+    "passwordRequired": {
+      "english": "Password is required",
+      "german": "Passwort wird benötigt",
+      "japanese": "パスワードが必要",
+      "korean": "비밀번호가 필요합니다",
+      "mandarin": "密码是必需的",
+      "spanish": "Se requiere contraseña"
+    },
+    "passwordRules": {
+      "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
+      "german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe und eine Zahl",
+      "japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、および1つの数字",
+      "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자 및 하나의 숫자",
+      "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母和一个数字",
+      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula y un número"
+    },
+    "recoveryPass": {
+      "english": "tKey Password",
+      "german": "tKey Passwort",
+      "japanese": "tKeyパスワード",
+      "korean": "tKey 비밀번호",
+      "mandarin": "tKey密码",
+      "spanish": "tKey Contraseña"
+    },
+    "walletAuth": {
+      "english": "Account authentication factors",
+      "german": "Kontoauthentifizierungsfaktoren",
+      "japanese": "アカウント認証要素",
+      "korean": "어카운트 인증 팩터",
+      "mandarin": "帐户认证因素",
+      "spanish": "Factores de autenticación de cuenta"
+    },
+    "youHaveSufficient": {
+      "english": "You have sufficient authentication factors for your tKey account. Bravo!",
+      "german": "Sie haben ausreichende Authentifizierungsfaktoren für Ihr tKey-Konto. Bravo!",
+      "japanese": "tKeyアカウントに十分な認証要素があります。ブラボー！",
+      "korean": "tKey 어카운트에 대한 충분한 인증 팩터가 있습니다. 브라보!",
+      "mandarin": "您的tKey帐户具有足够的身份验证因素。太棒了！",
+      "spanish": "Tiene suficientes factores de autenticación para su cuenta tKey. ¡Bravo!"
+    },
+    "youMayWantTo": {
+      "english": "You may want to set up one more authentication factor as a backup.",
+      "german": "Möglicherweise möchten Sie einen weiteren Authentifizierungsfaktor als Backup einrichten.",
+      "japanese": "バックアップとしてもう1つの認証要素を設定することをお勧めします。",
+      "korean": "하나 이상의 인증 팩터를 백업으로 설정할 수 있습니다.",
+      "mandarin": "您可能想再设置一个身份验证因子作为备份。",
+      "spanish": "Es posible que desee configurar un factor de autenticación más como respaldo."
+    },
+    "youNeedBackup": {
+      "english": "You may want to backup on device storage in case you forget your password",
+      "german": "Sie können eine Sicherungskopie im Gerätespeicher erstellen, falls Sie Ihr Kennwort vergessen haben",
+      "japanese": "パスワードを忘れた場合に備えて、デバイスのストレージにバックアップすることをお勧めします",
+      "korean": "비밀번호를 잊어 버린 경우 디바이스 저장소에 백업 할 수 있습니다.",
+      "mandarin": "您可能希望备份设备存储，以防忘记密码",
+      "spanish": "Es posible que desee realizar una copia de seguridad en el almacenamiento del dispositivo en caso de que olvide su contraseña"
+    },
+    "youNeedBackupPassword": {
+      "english": "You need to backup on device storage or set up a recovery password to create your tKey account",
+      "german": "Sie müssen eine Sicherungskopie im Gerätespeicher erstellen oder ein Wiederherstellungskennwort einrichten, um Ihr tKey-Konto zu erstellen",
+      "japanese": "tKeyアカウントを作成するには、デバイスストレージにバックアップするか、回復パスワードを設定する必要があります",
+      "korean": "tKey 어카운트을 생성하려면 디바이스 저장소에 백업하거나 복구 암호를 설정해야합니다.",
+      "mandarin": "您需要备份设备存储或设置恢复密码才能创建tKey帐户",
+      "spanish": "Necesita hacer una copia de seguridad en el almacenamiento del dispositivo o configurar una contraseña de recuperación para crear su cuenta tKey"
+    },
+    "youNeedOneMore": {
+      "english": "You need one more authentication factor to set up your tKey account.",
+      "german": "Sie benötigen einen weiteren Authentifizierungsfaktor, um Ihr tKey-Konto einzurichten.",
+      "japanese": "tKeyアカウントを設定するには、もう1つの認証要素が必要です。",
+      "korean": "tKey 어카운트을 설정하려면 인증 팩터가 하나 더 필요합니다.",
+      "mandarin": "您还需要一个认证因素来设置您的tKey帐户。",
+      "spanish": "Necesita un factor de autenticación más para configurar su cuenta tKey."
+    },
+    "youNeedPassword": {
+      "english": "You may want to set up a recovery password in case you lose your device.",
+      "german": "Möglicherweise möchten Sie ein Wiederherstellungskennwort einrichten, falls Sie Ihr Gerät verlieren.",
+      "japanese": "デバイスを紛失した場合に備えて、回復パスワードを設定することをお勧めします。",
+      "korean": "기기를 분실 한 경우를 대비하여 복구 비밀번호를 설정하는 것이 좋습니다.",
+      "mandarin": "您可能需要设置恢复密码，以防设备丢失。",
+      "spanish": "Es posible que desee configurar una contraseña de recuperación en caso de que pierda su dispositivo."
+    },
+    "youWouldRequire1": {
+      "english": "You would require any",
+      "german": "Sie würden keine benötigen",
+      "japanese": "あなたは",
+      "korean": "당신은",
+      "mandarin": "您需要任何",
+      "spanish": "Necesitarías cualquier"
+    },
+    "youWouldRequire2": {
+      "english": "TWO",
+      "german": "ZWEI",
+      "japanese": "二",
+      "korean": "두",
+      "mandarin": "ZWEI",
+      "spanish": "DOS"
+    },
+    "youWouldRequire3": {
+      "english": "of the following to authenticate and access your tKey account.",
+      "german": "der folgenden Optionen, um Ihr tKey-Konto zu authentifizieren und darauf zuzugreifen.",
+      "japanese": "次のいずれかを使用して、tKeyアカウントを認証およびアクセスします。",
+      "korean": "다음 중 tKey 어카운트을 인증하고 액세스합니다.",
+      "mandarin": "以下内容用于验证和访问您的tKey帐户。",
+      "spanish": "de los siguientes para autenticar y acceder a su cuenta tKey."
+    }
+  },
+  "tkeyLogin": {
+    "byLinking": {
+      "english": "By linking account, both account will share the same 2FA Wallet and its settings.",
+      "german": "Durch die Verknüpfung des Kontos teilen sich beide Konten dieselbe 2FA-Brieftasche und ihre Einstellungen.",
+      "japanese": "アカウントをリンクすると、両方のアカウントが同じ2FAウォレットとその設定を共有します。",
+      "korean": "어카운트을 연결하면 두 어카운트 모두 동일한 2FA 지갑과 해당 설정을 공유하게됩니다.",
+      "mandarin": "通过链接帐户，两个帐户将共享相同的2FA电子钱包及其设置。",
+      "spanish": "Al vincular la cuenta, ambas cuentas compartirán la misma billetera 2FA y su configuración."
+    },
+    "signIn": {
+      "english": "Sign in with any of the following to link account",
+      "german": "Melden Sie sich mit einer der folgenden Optionen an, um ein Konto zu verknüpfen",
+      "japanese": "アカウントをリンクするには、次のいずれかでサインインしてください",
+      "korean": "어카운트을 연결하려면 다음 중 하나로 로그인하세요.",
+      "mandarin": "使用以下任何一种方式登录以链接帐户",
+      "spanish": "Inicie sesión con cualquiera de los siguientes para vincular la cuenta"
+    }
+  },
+  "tkeyNew": {
+    "accountRecovery": {
+      "english": "Account Recovery",
+      "german": "Konto-Wiederherstellung",
+      "japanese": "アカウント復旧",
+      "korean": "어카운트 복구",
+      "mandarin": "帐户恢复",
+      "spanish": "Recuperación de Cuenta"
+    },
+    "browser": {
+      "english": "Browser",
+      "german": "Browser",
+      "japanese": "ブラウザ",
+      "korean": "브라우저",
+      "mandarin": "浏览器",
+      "spanish": "Navegador"
+    },
+    "cancel": {
+      "english": "Cancel",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "mandarin": "取消",
+      "spanish": "Cancelar"
+    },
+    "confirm": {
+      "english": "Confirm",
+      "german": "Bestätigen",
+      "japanese": "確認",
+      "korean": "확인",
+      "mandarin": "确认",
+      "spanish": "Confirmar"
+    },
+    "confirmAndAdd": {
+      "english": "Confirm and Add",
+      "german": "Bestätigen und hinzufügen",
+      "japanese": "確認して追加",
+      "korean": "확인 및 추가",
+      "mandarin": "确认并添加",
+      "spanish": "Confirmar y agregar"
+    },
+    "confirmAndSave": {
+      "english": "Confirm and save",
+      "german": "Bestätigen und speichern",
+      "japanese": "確認して保存",
+      "korean": "확인 및 저장",
+      "mandarin": "确认并保存",
+      "spanish": "Confirmar y guardar"
+    },
+    "confirmYourBrowser": {
+      "english": "Confirm your browser and device details.",
+      "german": "Bestätigen Sie Ihre Browser- und Gerätedetails.",
+      "japanese": "ブラウザとデバイスの詳細を確認します。",
+      "korean": "브라우저 및 디바이스 세부 정보를 확인하십시오.",
+      "mandarin": "确认您的浏览器和设备详细信息。",
+      "spanish": "Confirme los detalles de su navegador y dispositivo."
+    },
+    "contactSupport": {
+      "english": "Contact support",
+      "german": "Kontaktieren Sie Support",
+      "japanese": "サポート問い合わせ先",
+      "korean": "지원 연락",
+      "mandarin": "联系支持",
+      "spanish": "Soporte de contacto"
+    },
+    "currentDevice": {
+      "english": "Current new device",
+      "german": "Aktuelles neues Gerät",
+      "japanese": "現在の新しいデバイス",
+      "korean": "현재 새 디바이스",
+      "mandarin": "当前的新设备",
+      "spanish": "Nuevo dispositivo actual"
+    },
+    "device": {
+      "english": "Device",
+      "german": "Gerät",
+      "japanese": "端末",
+      "korean": "디바이스",
+      "mandarin": "设备",
+      "spanish": "Dispositivo"
+    },
+    "doNotAdd": {
+      "english": "Do not add browser",
+      "german": "Fügen Sie keinen Browser hinzu",
+      "japanese": "ブラウザを追加しないでください",
+      "korean": "브라우저를 추가하지 마십시오",
+      "mandarin": "不添加浏览器",
+      "spanish": "No agregue navegador"
+    },
+    "doNotSave": {
+      "english": "Do not save browser",
+      "german": "Browser nicht speichern",
+      "japanese": "ブラウザを保存しないでください",
+      "korean": "브라우저를 저장하지 마십시오",
+      "mandarin": "不保存浏览器",
+      "spanish": "No guardar navegador"
+    },
+    "enterPassword": {
+      "english": "Enter Password here",
+      "german": "Geben Sie hier das Passwort ein",
+      "japanese": "ここにパスワードを入力してください",
+      "korean": "여기에 비밀번호 입력",
+      "mandarin": "在这里输入密码",
+      "spanish": "Ingrese la contraseña aquí"
+    },
+    "error": {
+      "english": "Error",
+      "german": "Error",
+      "japanese": "エラー",
+      "korean": "오류",
+      "mandarin": "错误",
+      "spanish": "Error"
+    },
+    "errorCannotRecover": {
+      "english": "Cannot recover key",
+      "german": "No se puede recuperar la clave",
+      "japanese": "キーを回復できません",
+      "korean": "키를 복구 할 수 없습니다.",
+      "mandarin": "无法恢复密钥",
+      "spanish": "No se puede recuperar la clave"
+    },
+    "errorIncorrectPass": {
+      "english": "Incorrect password. Please try again",
+      "german": "Contraseña incorrecta. Inténtalo de nuevo",
+      "japanese": "パスワードが間違っています。もう一度お試しください",
+      "korean": "잘못된 비밀번호. 다시 시도하십시오",
+      "mandarin": "密码错误。请再试一遍",
+      "spanish": "Contraseña incorrecta. Inténtalo de nuevo"
+    },
+    "errorNotSupported": {
+      "english": "Not supported",
+      "german": "Not supported",
+      "japanese": "サポートされていません",
+      "korean": "지원되지 않음",
+      "mandarin": "不支持",
+      "spanish": "No soportado"
+    },
+    "identifyVerified": {
+      "english": "Identity verified",
+      "german": "Identität überprüft",
+      "japanese": "本人確認済み",
+      "korean": "신원 확인",
+      "mandarin": "身份验证",
+      "spanish": "Identidad verificada"
+    },
+    "itSeems1": {
+      "english": "It seems like you are trying to log in from a new device.",
+      "german": "Anscheinend versuchen Sie, sich von einem neuen Gerät aus anzumelden.",
+      "japanese": "新しいデバイスからログインしようとしているようです。",
+      "korean": "새 디바이스에서 로그인을 시도하는 것 같습니다.",
+      "mandarin": "似乎您正在尝试从新设备登录。",
+      "spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo."
+    },
+    "itSeems2": {
+      "english": "As a security step,",
+      "german": "Als Sicherheitsschritt",
+      "japanese": "セキュリティ手順として、",
+      "korean": "보안 단계로서",
+      "mandarin": "作为安全措施，",
+      "spanish": "Como paso de seguridad,"
+    },
+    "itSeems3": {
+      "english": "verify your identity",
+      "german": "Bestätigen Sie Ihre Identität",
+      "japanese": "本人確認",
+      "korean": "신원 확인",
+      "mandarin": "验证您的身份",
+      "spanish": "Verifica tu identidad"
+    },
+    "itSeems4": {
+      "english": "with {num} of the following",
+      "german": "mit {num} der folgenden",
+      "japanese": "次の{num}",
+      "korean": "다음 중 {num} 개",
+      "mandarin": "与以下{num}",
+      "spanish": "con {num} de los siguientes"
+    },
+    "loginToTorus": {
+      "english": "Login to {deviceLink} from the stored browser below to verify your identity.",
+      "german": "Melden Sie sich über den unten gespeicherten Browser bei {deviceLink} an, um Ihre Identität zu überprüfen.",
+      "japanese": "以下の保存されているブラウザから{deviceLink}にログインして、本人確認を行ってください。",
+      "korean": "아래 저장된 브라우저에서 {deviceLink}에 로그인하여 신원을 확인하세요.",
+      "mandarin": "从下面存储的浏览器登录到{deviceLink}以验证您的身份。",
+      "spanish": "Inicie sesión en {deviceLink} desde el navegador almacenado a continuación para verificar su identidad."
+    },
+    "matchRefId1": {
+      "english": "Match the Reference ID",
+      "german": "Passen Sie die Referenz-ID an",
+      "japanese": "参照IDと一致する",
+      "korean": "참조 ID와 일치",
+      "mandarin": "匹配参考编号",
+      "spanish": "Coincidir con el ID de referencia"
+    },
+    "matchRefId2": {
+      "english": "and confirm this is you",
+      "german": "und bestätige, dass du es bist",
+      "japanese": "これがあなたであることを確認します",
+      "korean": "그리고 이것이 당신인지 확인하십시오",
+      "mandarin": "并确认这是你",
+      "spanish": "y confirma que eres tú"
+    },
+    "newDevice": {
+      "english": "New Device",
+      "german": "Neues Gerät",
+      "japanese": "新しいデバイス",
+      "korean": "새 디바이스",
+      "mandarin": "新装置",
+      "spanish": "Nuevo dispositivo"
+    },
+    "newDeviceAdded": {
+      "english": "New device and browser added",
+      "german": "Neues Gerät und neuer Browser hinzugefügt",
+      "japanese": "新しいデバイスとブラウザが追加されました",
+      "korean": "새 디바이스 및 브라우저 추가",
+      "mandarin": "添加了新设备和浏览器",
+      "spanish": "Se agregaron un nuevo dispositivo y navegador"
+    },
+    "newDeviceLong": {
+      "english": "Save as new device",
+      "german": "Als neues Gerät speichern",
+      "japanese": "新しいデバイスとして保存",
+      "korean": "새 디바이스로 저장",
+      "mandarin": "另存为新设备",
+      "spanish": "Guardar como dispositivo nuevo"
+    },
+    "newLoginDetected": {
+      "english": "New login detected",
+      "german": "Neues Login erkannt",
+      "japanese": "新しいログインが検出されました",
+      "korean": "새 로그인 감지",
+      "mandarin": "检测到新登录",
+      "spanish": "Nuevo inicio de sesión detectado"
+    },
+    "newLoginTrying": {
+      "english": "A new login is trying to access your tKey account.",
+      "german": "Ein neues Login versucht, auf Ihr tKey-Konto zuzugreifen.",
+      "japanese": "新しいログインがtKeyアカウントにアクセスしようとしています。",
+      "korean": "새 로그인으로 tKey 어카운트에 액세스하려고합니다.",
+      "mandarin": "新的登录名正在尝试访问您的tKey帐户。",
+      "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta tKey."
+    },
+    "oldDevice": {
+      "english": "Existing Device",
+      "german": "Vorhandenes Gerät",
+      "japanese": "既存のデバイス",
+      "korean": "기존 디바이스",
+      "mandarin": "现有设备",
+      "spanish": "Dispositivo existente"
+    },
+    "oldDeviceLong": {
+      "english": "Save as existing device",
+      "german": "Als vorhandenes Gerät speichern",
+      "japanese": "既存のデバイスとして保存",
+      "korean": "기존 디바이스로 저장",
+      "mandarin": "另存为现有设备",
+      "spanish": "Guardar como dispositivo existente"
+    },
+    "oopsDidntWork": {
+      "english": "Oops, That didn't work. Please reload and try again.",
+      "german": "Ups, das hat nicht funktioniert. Bitte neu laden und erneut versuchen.",
+      "japanese": "おっと、それはうまくいきませんでした。リロードして再試行してください。",
+      "korean": "죄송합니다. 작동하지 않았습니다. 새로 고침하고 다시 시도하십시오.",
+      "mandarin": "糟糕，那没有用。请重新加载，然后重试。",
+      "spanish": "Vaya, eso no funcionó. Vuelva a cargar e inténtelo de nuevo."
+    },
+    "recoveryPass": {
+      "english": "tKey Password",
+      "german": "tKey Passwort",
+      "japanese": "tKeyパスワード",
+      "korean": "tKey 비밀번호",
+      "mandarin": "tKey密码",
+      "spanish": "tKey Contraseña"
+    },
+    "refId": {
+      "english": "Reference ID",
+      "german": "Referenz ID",
+      "japanese": "参照ID",
+      "korean": "참조 ID",
+      "mandarin": "参考编号",
+      "spanish": "Identificación de referencia"
+    },
+    "reportNotMe1": {
+      "english": "This is not me",
+      "german": "Das bin nicht ich",
+      "japanese": "これは私ではない",
+      "korean": "이건 내가 아니야",
+      "mandarin": "这不是我",
+      "spanish": "Este no soy yo"
+    },
+    "reportNotMe2": {
+      "english": "report it",
+      "german": "Berichte Es",
+      "japanese": "それを報告する",
+      "korean": "신고",
+      "mandarin": "报告它",
+      "spanish": "reportalo"
+    },
+    "required": {
+      "english": "Required",
+      "german": "Erforderlich",
+      "japanese": "必須",
+      "korean": "필수",
+      "mandarin": "必要",
+      "spanish": "Necesario"
+    },
+    "returnHome": {
+      "english": "Return Home",
+      "german": "Nach Hause zurückkehren",
+      "japanese": "帰宅",
+      "korean": "집에 돌아 간다",
+      "mandarin": "回家",
+      "spanish": "Volver a casa"
+    },
+    "returnToNewPlatform": {
+      "english": "Return to your new platform to continue with the login",
+      "german": "Kehren Sie zu Ihrer neuen Plattform zurück, um mit der Anmeldung fortzufahren",
+      "japanese": "ログインを続行するには、新しいプラットフォームに戻ってください",
+      "korean": "로그인을 계속하려면 새 플랫폼으로 돌아가십시오.",
+      "mandarin": "返回您的新平台以继续登录",
+      "spanish": "Regrese a su nueva plataforma para continuar con el inicio de sesión"
+    },
+    "saveDevice": {
+      "english": "Save browser",
+      "german": "Sicherer Browser",
+      "japanese": "ブラウザを保存する",
+      "korean": "브라우저 저장",
+      "mandarin": "保存浏览器",
+      "spanish": "Guardar Navegador"
+    },
+    "saveNewDevice": {
+      "english": "Save new browser as a separate authentication factor or add it as an existing device",
+      "german": "Speichern Sie den neuen Browser als separaten Authentifizierungsfaktor oder fügen Sie ihn als vorhandenes Gerät hinzu",
+      "japanese": "新しいブラウザを別の認証要素として保存するか、既存のデバイスとして追加します",
+      "korean": "새 브라우저를 별도의 인증 팩터로 저장하거나 기존 디바이스로 추가",
+      "mandarin": "将新浏览器另存为单独的身份验证因素，或将其添加为现有设备",
+      "spanish": "Guarde el nuevo navegador como un factor de autenticación independiente o agréguelo como un dispositivo existente"
+    },
+    "secureTorus": {
+      "english": "Secure Torus sign in",
+      "german": "Sichere Torus-Anmeldung",
+      "japanese": "セキュアトーラスのサインイン",
+      "korean": "보안 Torus 로그인",
+      "mandarin": "安全Torus登录",
+      "spanish": "Iniciar sesión Secure Torus"
+    },
+    "setPassword": {
+      "english": "Set password",
+      "german": "Passwort festlegen",
+      "japanese": "パスワードを設定してください",
+      "korean": "암호를 설정하세요",
+      "mandarin": "设置密码",
+      "spanish": "Configurar la clave"
+    },
+    "skip": {
+      "english": "Skip, go to my {verifier} Wallet first",
+      "german": "Überspringen Sie, gehen Sie zuerst zu meiner {verifier} Wallet",
+      "japanese": "スキップして、最初に{verifier}ウォレットに移動",
+      "korean": "건너 뛰고 먼저 내 {verifier} 지갑으로 이동",
+      "mandarin": "跳过，先进入我的{verifier}电子钱包",
+      "spanish": "Omitir, primero ve a mi {verifier} Wallet"
+    },
+    "somethingWentWrong": {
+      "english": "Something went wrong. Please try again",
+      "german": "Etwas ist schief gelaufen. Bitte versuche es erneut",
+      "japanese": "何かがうまくいかなかった。もう一度やり直してください",
+      "korean": "문제가 발생했습니다. 다시 시도하십시오",
+      "mandarin": "出了些问题。请再试一次",
+      "spanish": "Algo salió mal. Inténtalo de nuevo"
+    },
+    "theFollowing": {
+      "english": "The following has been added as an authenticator.",
+      "german": "Folgendes wurde als Authentifikator hinzugefügt.",
+      "japanese": "オーセンティケーターとして以下を追加しました。",
+      "korean": "다음이 인증 자로 추가되었습니다.",
+      "mandarin": "以下已添加为验证者。",
+      "spanish": "Se ha agregado lo siguiente como autenticador."
+    },
+    "typeInPass": {
+      "english": "Type in password",
+      "german": "Geben Sie das Passwort ein",
+      "japanese": "パスワードを入力してください",
+      "korean": "비밀번호 입력",
+      "mandarin": "输入密码",
+      "spanish": "Escriba la contraseña"
+    },
+    "uploadAFile": {
+      "english": "Upload a file",
+      "german": "Eine Datei hochladen",
+      "japanese": "ファイルをアップロードする",
+      "korean": "파일을 올리다",
+      "mandarin": "上传一个文件",
+      "spanish": "Cargar un archivo"
+    },
+    "uploadFile": {
+      "english": "Upload File",
+      "german": "Datei hochladen",
+      "japanese": "ファイルをアップロードする",
+      "korean": "파일 업로드",
+      "mandarin": "上传文件",
+      "spanish": "Subir archivo"
+    },
+    "verificationMethods": {
+      "english": "Verification methods",
+      "german": "Überprüfungsmethoden",
+      "japanese": "検証方法",
+      "korean": "검증 방법",
+      "mandarin": "验证方式",
+      "spanish": "Métodos de verificación"
+    },
+    "verificationReq": {
+      "english": "Verification required",
+      "german": "Bestätigung notwendig",
+      "japanese": "確認が必要です",
+      "korean": "확인 필요",
+      "mandarin": "需要验证",
+      "spanish": "Verificación requerida"
+    },
+    "verified": {
+      "english": "Verified",
+      "german": "Verifiziert",
+      "japanese": "確認済み",
+      "korean": "확인 됨",
+      "mandarin": "已验证",
+      "spanish": "Verificado"
+    },
+    "verifyFail": {
+      "english": "Unable to verify. You will be redirected to your {verifier} wallet in {countdown}",
+      "german": "Überprüfung nicht möglich. Sie werden in {countdown} zu Ihrer {verifier} Brieftasche weitergeleitet",
+      "japanese": "確認できません。 {countdown}の{verifier}ウォレットにリダイレクトされます",
+      "korean": "확인할 수 없습니다. {countdown} 후에 {verifier} 지갑으로 리디렉션됩니다.",
+      "mandarin": "无法验证。您将被重定向到{倒数}中的{验证者}钱包",
+      "spanish": "No se puede verificar. Serás redirigido a tu billetera {verifier} en {countdown}"
+    },
+    "verifySuccess": {
+      "english": "Successfully verified",
+      "german": "Erfolgreich verifiziert",
+      "japanese": "正常に検証されました",
+      "korean": "성공적으로 확인되었습니다.",
+      "mandarin": "成功验证",
+      "spanish": "Verificado con éxito"
+    },
+    "verifyViaAnother": {
+      "english": "Verify via another method",
+      "german": "Überprüfen Sie mit einer anderen Methode",
+      "japanese": "別の方法で確認",
+      "korean": "다른 방법을 통해 확인",
+      "mandarin": "通过其他方法验证",
+      "spanish": "Verificar mediante otro método"
+    },
+    "verifyWithAny": {
+      "english": "with any of the following",
+      "german": "mit einer der folgenden",
+      "japanese": "次のいずれか",
+      "korean": "다음 중 하나로",
+      "mandarin": "具有以下任何一项",
+      "spanish": "con cualquiera de los siguientes"
+    },
+    "verifyWithPass": {
+      "english": "Please enter the password associated with this account to continue.",
+      "german": "Bitte geben Sie das diesem Konto zugeordnete Passwort ein, um fortzufahren.",
+      "japanese": "続行するには、このアカウントに関連付けられているパスワードを入力してください。",
+      "korean": "계속하려면이 어카운트과 연결된 암호를 입력하십시오.",
+      "mandarin": "请输入与此帐户关联的密码以继续。",
+      "spanish": "Ingrese la contraseña asociada con esta cuenta para continuar."
+    },
+    "verifyWithTheFf": {
+      "english": "with the following",
+      "german": "mit den folgenden",
+      "japanese": "次の",
+      "korean": "다음과 함께",
+      "mandarin": "与以下",
+      "spanish": "con lo siguiente"
+    },
+    "verifyYourIdentity": {
+      "english": "Verify your identity",
+      "german": "Bestätigen Sie Ihre Identität",
+      "japanese": "本人確認",
+      "korean": "신원 확인",
+      "mandarin": "验证您的身份",
+      "spanish": "Verifica tu identidad"
+    },
+    "youAreAccessing": {
+      "english": "It seems like you trying to login from a new device/browser.",
+      "german": "Anscheinend versuchen Sie, sich von einem neuen Gerät / Browser aus anzumelden.",
+      "japanese": "新しいデバイス/ブラウザからログインしようとしているようです。",
+      "korean": "새 기기 / 브라우저에서 로그인하려는 것 같습니다.",
+      "mandarin": "似乎您尝试从新设备/浏览器登录。",
+      "spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo / navegador."
+    },
+    "youCanEdit": {
+      "english": "You can edit it from the ‘Settings’ page.",
+      "german": "Sie können es auf der Seite \"Einstellungen\" bearbeiten.",
+      "japanese": "「設定」ページから編集できます。",
+      "korean": "'설정'페이지에서 수정할 수 있습니다.",
+      "mandarin": "您可以从“设置”页面进行编辑。",
+      "spanish": "Puede editarlo desde la página \"Configuración\"."
     }
   }
 }

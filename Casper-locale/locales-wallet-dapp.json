@@ -1,942 +1,942 @@
 {
-    "dappTransfer": {
-        "pleaseTopup1": {
-            "japanese": "お願いします",
-            "korean": "부디",
-            "spanish": "Por favor",
-            "german": "Bitte",
-            "mandarin": "请",
-            "english": "Please"
+    "dappAlert": {
+        "actionRequired": {
+            "english": "Action Required",
+            "german": "Handlung erforderlich",
+            "japanese": "必要なアクション",
+            "korean": "필요한 조치",
+            "mandarin": "需要采取的行动",
+            "spanish": "Acción requerida"
         },
-        "insufficientFunds": {
-            "japanese": "残高不足",
-            "korean": "부족한 자금",
-            "spanish": "Fondos insuficientes",
-            "german": "Unzureichende Mittel",
-            "mandarin": "不充足的资金",
-            "english": "Insufficient Funds"
-        },
-        "wallet": {
-            "japanese": "ウォレット",
-            "korean": "지갑",
-            "spanish": "Billetera",
-            "german": "Brieftasche",
-            "mandarin": "钱包",
-            "english": "Wallet"
-        },
-        "youSend": {
-            "japanese": "送信額",
-            "korean": "보내기",
-            "spanish": "Usted envía",
-            "german": "Du sendest",
-            "mandarin": "您发送",
-            "english": "You send"
-        },
-        "txGasUtil": {
-            "japanese": "TxGasUtil - コントラクトアドレス以外で実行しようとしています。",
-            "korean": "TxGasUtil- 컨트랙트가 아닌 주소에서 함수 호출",
-            "spanish": "TxGasUtil: intentar llamar a una función en una dirección sin contrato",
-            "german": "TxGasUtil - Es wird versucht, eine Funktion für eine Adresse ohne Vertrag aufzurufen",
-            "mandarin": "TxGasUtil-尝试在非合同地址上调用函数",
-            "english": "TxGasUtil - Trying to call a function on a non-contract address"
-        },
-        "sendEth": {
-            "japanese": "ETHを送信",
-            "korean": "ETH 보내기",
-            "spanish": "Enviar ETH",
-            "german": "Senden Sie ETH",
-            "mandarin": "发送ETH",
-            "english": "Send ETH"
-        },
-        "to": {
-            "japanese": "に",
-            "korean": "에",
-            "spanish": "A",
-            "german": "Zu",
-            "mandarin": "至",
-            "english": "To"
-        },
-        "transfer": {
-            "japanese": "転送",
-            "korean": "이전",
-            "spanish": "Transferir",
-            "german": "Transfer",
-            "mandarin": "传递",
-            "english": "Transfer"
-        },
-        "onYourBehalf": {
-            "japanese": "あなたに代わって",
-            "korean": "사용자를 대신하여",
-            "spanish": "en su nombre",
-            "german": "in Ihrem Namen",
-            "mandarin": "花费",
-            "english": "on your behalf"
-        },
-        "lessDetails": {
-            "japanese": "少ない詳細",
-            "korean": "세부정보 간략히 보기",
-            "spanish": "Menos detalles",
-            "german": "Weniger Details",
-            "mandarin": "较少的细节",
-            "english": "Less Details"
-        },
-        "rate": {
-            "japanese": "レート",
-            "korean": "비율",
-            "spanish": "Velocidad",
-            "german": "Bewertung",
-            "mandarin": "率",
-            "english": "Rate"
-        },
-        "sendTo": {
-            "japanese": "送信先",
-            "korean": "보내기",
-            "spanish": "Enviar a",
-            "german": "Senden an",
-            "mandarin": "发给",
-            "english": "Send To"
-        },
-        "cancel": {
-            "japanese": "キャンセル",
-            "korean": "취소",
-            "spanish": "Cancelar",
-            "german": "Stornieren",
-            "mandarin": "取消",
-            "english": "Cancel"
-        },
-        "claimMon": {
-            "japanese": "monを請求する",
-            "korean": "mon 클레임",
-            "spanish": "Reclamar un MON",
-            "german": "Fordern Sie einen mon an",
-            "mandarin": "申请mon",
-            "english": "Claim a MON"
-        },
-        "transferFrom": {
-            "japanese": "からの転送",
-            "korean": "전송",
-            "spanish": "Transferido de",
-            "german": "Übertragen von",
-            "mandarin": "从转移",
-            "english": "Transfer From"
-        },
-        "total": {
-            "japanese": "合計",
-            "korean": "합계",
-            "spanish": "Total",
-            "german": "Gesamt",
-            "mandarin": "总",
-            "english": "Total"
-        },
-        "confirmation": {
+        "Confirm": {
+            "english": "Confirm",
+            "german": "Bestätigen",
             "japanese": "確認",
             "korean": "확인",
-            "spanish": "Confirmación",
-            "german": "Bestätigung",
             "mandarin": "确认",
-            "english": "Confirmation"
+            "spanish": "Confirmar"
         },
-        "contractInteraction": {
-            "japanese": "コントラクトを操作",
-            "korean": "컨트랙트 상호 작용",
-            "spanish": "Interacción de contrato",
-            "german": "Vertragsinteraktion",
-            "mandarin": "合约互动",
-            "english": "Contract Interaction"
-        },
-        "byConfirming2": {
-            "japanese": "トークンの",
-            "korean": "토큰 중",
-            "spanish": "de tus tokens",
-            "german": "von Ihren Token",
-            "mandarin": "您的代币",
-            "english": "of your tokens"
-        },
-        "thisApplication": {
-            "japanese": "このアプリケーションは、デジタル署名を要求しています。",
-            "korean": "이 응용 프로그램은 디지털 서명을 요청하고 있습니다.",
-            "spanish": "Esta aplicación solicita su firma digital.",
-            "german": "Diese Anwendung fordert Ihre digitale Signatur an.",
-            "mandarin": "此应用程序正在请求您的数字签名。",
-            "english": "This application is requesting for your digital signature."
-        },
-        "newContract": {
-            "japanese": "新しいコントラクト",
-            "korean": "새 컨트랙트",
-            "spanish": "Nuevo contrato",
-            "german": "Neuer Vertrag",
-            "mandarin": "新合约",
-            "english": "New Contract"
-        },
-        "unknownNetwork": {
-            "japanese": "不明なネットワーク",
-            "korean": "알수없는 네트워크",
-            "spanish": "Red desconocida",
-            "german": "Unbekanntes Netzwerk",
-            "mandarin": "未知的网络",
-            "english": "Unknown Network"
-        },
-        "notApplicable": {
-            "japanese": "適用できません",
-            "korean": "해당 사항 없음",
-            "spanish": "No aplica",
-            "german": "Unzutreffend",
-            "mandarin": "不适用",
-            "english": "Not Applicable"
-        },
-        "dataSmall": {
-            "japanese": "署名するデータ",
-            "korean": "서명할 데이터",
-            "spanish": "datos",
-            "german": "Zu unterzeichnende Daten",
-            "mandarin": "要签名的数据",
-            "english": "data"
-        },
-        "collectibleSafe": {
-            "japanese": "収集可能な安全な転送元",
-            "korean": "에서 수집 가능한 안전 전송",
-            "spanish": "Transferencia segura coleccionable desde",
-            "german": "Sammelsicherer Transfer von",
-            "mandarin": "可收集的安全转移自",
-            "english": "Collectible Safe Transfer From"
+        "youHavePending": {
+            "english": "You have a pending action that needs to be completed in a pop-up window",
+            "german": "Sie haben eine ausstehende Aktion, die in einem Popup-Fenster ausgeführt werden muss",
+            "japanese": "ポップアップウィンドウで完了する必要がある保留中のアクションがあります",
+            "korean": "팝업 창에서 완료해야하는 보류중인 조치가 있습니다.",
+            "mandarin": "您有一个待完成的操作，需要在弹出窗口中完成",
+            "spanish": "Tiene una acción pendiente que debe completarse en una ventana emergente"
+        }
+    },
+    "dappConfirm": {
+        "confirmTransaction": {
+            "english": "Confirm Transaction",
+            "german": "Transaktion bestätigen",
+            "japanese": "取引を確認",
+            "korean": "거래 확인",
+            "mandarin": "确认交易",
+            "spanish": "Confirmar Transacción"
         },
         "data": {
-            "japanese": "署名するデータ",
-            "korean": "서명할 데이터",
-            "spanish": "Datos",
-            "german": "Zu unterzeichnende Daten",
-            "mandarin": "要签名的数据",
-            "english": "Data"
+            "english": "Data",
+            "german": "Daten",
+            "japanese": "データ",
+            "korean": "데이터",
+            "mandarin": "数据",
+            "spanish": "Datos"
         },
-        "network": {
-            "japanese": "ネットワーク",
-            "korean": "네트워크",
-            "spanish": "Red",
-            "german": "Netzwerk",
-            "mandarin": "网络",
-            "english": "Network"
+        "deployHash": {
+            "english": "Deploy Hash",
+            "german": "Hash bereitstellen",
+            "japanese": "ハッシュを展開する",
+            "korean": "해시 배포",
+            "mandarin": "部署哈希",
+            "spanish": "Implementar hash"
         },
-        "approve": {
-            "japanese": "承認する",
-            "korean": "승인",
-            "spanish": "Aprobar",
-            "german": "Genehmigen",
-            "mandarin": "批准",
-            "english": "Approve"
+        "total": {
+            "english": "Total Cost",
+            "german": "Gesamtkosten",
+            "japanese": "総費用",
+            "korean": "총 비용",
+            "mandarin": "总花费",
+            "spanish": "Coste total"
         },
-        "confirm": {
-            "japanese": "確認",
-            "korean": "확인",
-            "spanish": "Confirmar",
-            "german": "Bestätigen",
-            "mandarin": "确认",
-            "english": "Confirm"
+        "transactionFee": {
+            "english": "Transaction Fee",
+            "german": "Transaktionsgebühr",
+            "japanese": "取引料金",
+            "korean": "거래 수수료",
+            "mandarin": "手续费",
+            "spanish": "Tarifa de transacción"
         },
-        "moreDetails": {
-            "japanese": "詳細",
-            "korean": "더 자세한 내용",
-            "spanish": "Más detalles",
-            "german": "Mehr Details",
-            "mandarin": "更多细节",
-            "english": "More Details"
+        "transactionType": {
+            "english": "Transaction Type",
+            "german": "Art der Transaktion",
+            "japanese": "トランザクションタイプ",
+            "korean": "거래 유형",
+            "mandarin": "交易类型",
+            "spanish": "tipo de transacción"
         },
-        "transactionRequest": {
-            "japanese": "トランザクションリクエスト",
-            "korean": "트랜잭션 요청",
-            "spanish": "Solicitud de transacción",
-            "german": "Transaktionsanfrage",
-            "mandarin": "交易要求",
-            "english": "Transaction Request"
+        "viewLess": {
+            "english": "View less details",
+            "german": "Weniger Details anzeigen",
+            "japanese": "詳細を表示しない",
+            "korean": "세부정보 간략히 보기",
+            "mandarin": "查看较少的详细信息",
+            "spanish": "Ver menos detalles"
         },
-        "amount": {
-            "japanese": "量",
-            "korean": "양",
-            "spanish": "Cantidad",
-            "german": "Menge",
-            "mandarin": "量",
-            "english": "Amount"
+        "viewMore": {
+            "english": "View more details",
+            "german": "Weitere Details anzeigen",
+            "japanese": "詳細を見る",
+            "korean": "자세히 보기",
+            "mandarin": "查看更多详情",
+            "spanish": "Ver más detalles"
         },
-        "toSpend": {
-            "japanese": "過ごす",
-            "korean": "지출",
-            "spanish": "gastar",
-            "german": "ausgeben",
-            "mandarin": "代表你",
-            "english": "to spend"
-        },
-        "pleaseTopup2": {
-            "japanese": "チャージ",
-            "korean": "다시 채우기",
-            "spanish": "Completar",
-            "german": "Nachfüllen",
-            "mandarin": "充值",
-            "english": "Top up"
-        },
-        "transaction": {
-            "japanese": "トランザクション",
-            "korean": "트랜잭션",
-            "spanish": "Transacción",
-            "german": "Transaktion",
-            "mandarin": "交易",
-            "english": "Transaction"
-        },
-        "type": {
-            "japanese": "タイプ",
-            "korean": "유형",
-            "spanish": "Tipo",
-            "german": "Art",
-            "mandarin": "类型",
-            "english": "Type"
-        },
-        "requestFrom": {
-            "japanese": "からのリクエスト",
-            "korean": "로부터 요청",
-            "spanish": "Solicitud de",
-            "german": "Anfrage von",
-            "mandarin": "要求",
-            "english": "Request from"
-        },
-        "deploy": {
-            "japanese": "展開する",
-            "korean": "배포",
-            "spanish": "Desplegar",
-            "german": "Bereitstellen",
-            "mandarin": "部署",
-            "english": "Deploy"
-        },
-        "permission": {
-            "japanese": "下記の内容を許可しますか",
-            "korean": "허가",
-            "spanish": "Permiso",
-            "german": "Genehmigung",
-            "mandarin": "允许",
-            "english": "Permission"
-        },
-        "byConfirming1": {
-            "japanese": "このコントラクトに最大を○○を委譲します。",
-            "korean": "이를 확인함으로써 귀하는 이 컨트랙트에 대해 최대 비용을 지출 할 수있는 권한을 부여합니다",
-            "spanish": "Al confirmar esto, otorga permiso para que este contrato gaste hasta",
-            "german": "Indem Sie dies bestätigen, erteilen Sie diesem Vertrag die Erlaubnis, bis zu",
-            "mandarin": "确认后，即表示您同意此合同花费最多",
-            "english": "By confirming this, you grant permission for this contract to spend up to"
-        },
-        "constOfTrans": {
-            "japanese": "トランザクション手数料",
-            "korean": "트랜잭션 비용",
-            "spanish": "Costo de transacción",
-            "german": "Transaktionskosten",
-            "mandarin": "交易成本",
-            "english": "Cost of Transaction"
-        },
-        "pleaseTopup3": {
-            "japanese": "あなたのウォレット",
-            "korean": "당신의 지갑",
-            "spanish": "tu billetera",
-            "german": "deine Geldbörse",
-            "mandarin": "你的钱包",
-            "english": "your wallet"
+        "youPay": {
+            "english": "You Pay",
+            "german": "Sie bezahlen",
+            "japanese": "あなたが支払う",
+            "korean": "당신이 지불",
+            "mandarin": "你付钱",
+            "spanish": "Tu pagas"
         }
     },
     "dappCreateTkey": {
         "linkDesc1": {
+            "english": "A tKey account is available on Torus Wallet. You can login",
+            "german": "Ein tKey-Konto ist auf Torus Wallet verfügbar. Sie können sich anmelden",
             "japanese": "tKeyアカウントはTorusWalletで利用できます。ログインできます",
             "korean": "tKey 어카운트은 Torus Wallet에서 사용할 수 있습니다. 로그인 가능합니다.",
-            "spanish": "Una cuenta tKey está disponible en Torus Wallet. Puede iniciar sesión",
-            "german": "Ein tKey-Konto ist auf Torus Wallet verfügbar. Sie können sich anmelden",
             "mandarin": "在Torus钱包上可以使用tKey帐户。您可以登入",
-            "english": "A tKey account is available on Torus Wallet. You can login"
+            "spanish": "Una cuenta tKey está disponible en Torus Wallet. Puede iniciar sesión"
         },
         "linkDesc2": {
+            "english": "here",
+            "german": "Hier",
             "japanese": "ここに",
             "korean": "여기",
-            "spanish": "aquí",
-            "german": "Hier",
             "mandarin": "这里",
-            "english": "here"
+            "spanish": "aquí"
         },
         "linkDesc3": {
+            "english": "to try it out and use it as your preferred account for transactions on this DApp",
+            "german": "um es auszuprobieren und als Ihr bevorzugtes Konto für Transaktionen auf dieser DApp zu verwenden",
             "japanese": "それを試して、このDAppでのトランザクションの優先アカウントとして使用するには",
             "korean": "시험 해보고, 이 DApp에서 트랜잭션 보내기를 선호하는 어카운트으로 사용하려면",
-            "spanish": "para probarlo y usarlo como su cuenta preferida para transacciones en esta DApp",
-            "german": "um es auszuprobieren und als Ihr bevorzugtes Konto für Transaktionen auf dieser DApp zu verwenden",
             "mandarin": "试用一下，并将其用作此DApp上交易的首选帐户",
-            "english": "to try it out and use it as your preferred account for transactions on this DApp"
-        }
-    },
-    "dappPermission": {
-        "note": {
-            "japanese": "注：[許可]をクリックすると、次の{num}時間以内にアカウントとの無制限のやり取りをDAppに許可します",
-            "korean": "참고 : 허용을 클릭하면 다음 {num} 시간 동안 어카운트에 대해 DApp에게 무제한 권한을 부여합니다",
-            "spanish": "NOTA: Al hacer clic en permitir, otorga permiso a la DApp para interacción ilimitada con su cuenta dentro de las próximas {num} horas.",
-            "german": "HINWEIS: Wenn Sie auf Zulassen klicken, erteilen Sie die DApp-Berechtigung für die uneingeschränkte Interaktion mit Ihrem Konto innerhalb der nächsten {num} Stunden",
-            "mandarin": "注意：通过单击允许，您授予DApp权限，以便在接下来的{num}小时内与您的帐户进行无限制的互动",
-            "english": "NOTE: By clicking allow, you grant the DApp permission for unlimited interaction with your account within the next {num} hrs"
-        },
-        "cancel": {
-            "japanese": "キャンセル",
-            "korean": "취소",
-            "spanish": "Cancelar",
-            "german": "Stornieren",
-            "mandarin": "取消",
-            "english": "Cancel"
-        },
-        "currentNetwork": {
-            "japanese": "現在のネットワーク",
-            "korean": "현재 네트워크",
-            "spanish": "Red actual",
-            "german": "Aktuelles Netzwerk",
-            "mandarin": "当前网络",
-            "english": "Current network"
-        },
-        "transactHours": {
-            "japanese": "次の{num}時間はリクエスターで取引する",
-            "korean": "다음 6 시간 동안 요청한 자와 거래",
-            "spanish": "Realice la transacción con el solicitante durante las próximas {num} horas",
-            "german": "Transaktion mit dem Anforderer für die nächsten 6 Stunden",
-            "mandarin": "在接下来的6小时内与请求者进行交易",
-            "english": "Transact with requestor for the next {num} hrs"
-        },
-        "toAllow": {
-            "japanese": "以下を許可するには",
-            "korean": "다음을 허용하려면",
-            "spanish": "Para permitir lo siguiente",
-            "german": "Folgendes zulassen",
-            "mandarin": "允许以下",
-            "english": "To allow the following"
-        },
-        "allow": {
-            "japanese": "許可",
-            "korean": "허용",
-            "spanish": "Permitir",
-            "german": "Erlaube",
-            "mandarin": "允许",
-            "english": "Allow"
-        },
-        "accessUserInfo": {
-            "japanese": "Googleメール、写真、名前にアクセスするには",
-            "korean": "Google 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
-            "spanish": "Para acceder a su dirección de correo electrónico de Google, foto de perfil y nombre",
-            "german": "So greifen Sie auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
-            "mandarin": "要访问您的Google电子邮件地址，个人资料照片和姓名",
-            "english": "To access your Google Email Address, Profile Photo and Name"
-        },
-        "learnMore": {
-            "japanese": "もっと詳しく知る",
-            "korean": "더 알아보기",
-            "spanish": "Aprende más",
-            "german": "Erfahren Sie mehr",
-            "mandarin": "学到更多",
-            "english": "Learn More"
-        },
-        "permission": {
-            "japanese": "許可",
-            "korean": "허가",
-            "spanish": "Permiso",
-            "german": "Genehmigung",
-            "mandarin": "允许",
-            "english": "Permission"
-        },
-        "allowNetworkChange": {
-            "japanese": "{host}がネットワークを{network}に変更することを許可します",
-            "korean": "{host} 네트워크를 {network} (으)로 변경하도록 허용",
-            "spanish": "Permita que {host} cambie su red a {network}",
-            "german": "Erlaube {host}, dein Netzwerk in {network} zu ändern",
-            "mandarin": "允许{host}将您的网络更改为{network}",
-            "english": "Allow {host} change your network to {network}"
-        },
-        "allowAccess": {
-            "japanese": "{host}にGoogleのメールアドレス、プロフィール写真、名前へのアクセスを許可します",
-            "korean": "{host}이 (가) Google 이메일 주소, 프로필 사진 및 이름에 액세스하도록 허용",
-            "spanish": "Permita que {host} acceda a su dirección de correo electrónico, foto de perfil y nombre de Google",
-            "german": "Ermöglichen Sie {host} den Zugriff auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen",
-            "mandarin": "允许{host}访问您的Google电子邮件地址，个人资料照片和姓名",
-            "english": "Allow {host} to access your Google Email Address, Profile Photo and Name"
-        },
-        "changeNetwork": {
-            "japanese": "ネットワークを{network}に変更します",
-            "korean": "네트워크를 {network}로 변경",
-            "spanish": "Cambie su red a {network}",
-            "german": "Ändern Sie Ihr Netzwerk in {network}",
-            "mandarin": "将您的网络更改为{network}",
-            "english": "Change your network to {network}"
-        },
-        "displayUserInfo": {
-            "japanese": "DAppは、この情報をアプリに表示して体験を最適化します。 DAppは上記の情報を保存または共有しません。",
-            "korean": "DApp은 사용자 경험을 개인화하기 위해 이 정보를 앱에 표시할 겁니다. Dapp은 위에 있는 정보를 저장하거나 공유하지 않습니다.",
-            "spanish": "DApp mostrará esta información en la aplicación para personalizar su experiencia. Dapp nunca almacenará ni compartirá la información anterior.",
-            "german": "DApp zeigt diese Informationen in der App an, um Ihre Erfahrung zu personalisieren. Dapp wird die oben genannten Informationen niemals speichern oder weitergeben.",
-            "mandarin": "DApp将在应用程序中显示此信息，以个性化您的体验。 Dapp绝不会存储或共享上述信息。",
-            "english": "DApp will display this information in app to personalise your experience. Dapp will never store or share the information above."
-        }
-    },
-    "dappLogin": {
-        "termsLearnMore": {
-            "japanese": "もっと詳しく知る",
-            "korean": "더 알아보기",
-            "spanish": "Aprende más",
-            "german": "Mehr erfahren",
-            "mandarin": "学到更多",
-            "english": "Learn more"
-        },
-        "termsAuth02": {
-            "japanese": "Apple、GitHub、LinkedIn、Twitter、LINE、パスワードなし。",
-            "korean": "애플, github, 링크드인, 트위터, LINE, 비밀번호없음 설정.",
-            "spanish": "Apple, GitHub, LinkedIn, Twitter, LINE, sin contraseña.",
-            "german": "Apple, GitHub, LinkedIn, Twitter, LINE, Passwortlos.",
-            "mandarin": "苹果，GitHub，LinkedIn，Twitter，LINE，无密码。",
-            "english": "Apple, GitHub, LinkedIn, Twitter, LINE, Passwordless."
-        },
-        "termsConditions": {
-            "japanese": "利用規約",
-            "korean": "서비스 약관",
-            "spanish": "Términos de servicio",
-            "german": "Nutzungsbedingungen",
-            "mandarin": "服务条款",
-            "english": "Terms of Service"
-        },
-        "privacyPolicy": {
-            "japanese": "個人情報保護方針",
-            "korean": "개인 정보 정책",
-            "spanish": "Política de privacidad",
-            "german": "Datenschutz-Bestimmungen",
-            "mandarin": "隐私政策",
-            "english": "Privacy Policy"
-        },
-        "continueWithBiometrics": {
-            "japanese": "生体認証を続ける",
-            "korean": "생체 인식으로 계속",
-            "spanish": "Continuar con biometría",
-            "german": "Fahren Sie mit der Biometrie fort",
-            "mandarin": "继续进行生物识别",
-            "english": "Continue with biometrics"
-        },
-        "termsAuth01": {
-            "japanese": "次のサインインには、サードパーティの認証システムが関係しています。",
-            "korean": "다음 로그인에는 외부 인증자(써드 파티)가 포함됩니다.",
-            "spanish": "Los siguientes inicios de sesión involucran a un autenticador de terceros:",
-            "german": "An den folgenden Anmeldungen ist ein Authentifizierer eines Drittanbieters beteiligt:",
-            "mandarin": "以下登录涉及第三方身份验证器：",
-            "english": "The following sign-ins involve a third party authenticator:"
-        },
-        "continue": {
-            "japanese": "{verifier}に進みます",
-            "korean": "{verifier} 계속",
-            "spanish": "Continuar con {verifier}",
-            "german": "Weiter mit {Verifier}",
-            "mandarin": "继续{verifier}",
-            "english": "Continue with {verifier}"
-        },
-        "howWorks": {
-            "japanese": "これはどのように作動しますか？",
-            "korean": "어떻게 작동하나요?",
-            "spanish": "¿Como funciona esto?",
-            "german": "Wie funktioniert das?",
-            "mandarin": "这是如何运作的？",
-            "english": "How does this work?"
-        },
-        "note": {
-            "japanese": "注意：",
-            "korean": "참고 :",
-            "spanish": "Nota:",
-            "german": "Hinweis:",
-            "mandarin": "注意：",
-            "english": "Note:"
-        },
-        "continueWith": {
-            "japanese": "既存の{verifier}を続行します",
-            "korean": "기존 {verifier} 계속",
-            "spanish": "Continuar con {verifier} existente",
-            "german": "Weiter mit vorhandenem {verifier}",
-            "mandarin": "继续使用现有的{verifier}",
-            "english": "Continue with existing {verifier}"
-        },
-        "viewMore": {
-            "japanese": "その他のオプションを表示",
-            "korean": "더 많은 옵션보기",
-            "spanish": "Ver más opciones",
-            "german": "Weitere Optionen anzeigen",
-            "mandarin": "查看更多选项",
-            "english": "View more options"
-        },
-        "signIn": {
-            "japanese": "サインイン",
-            "korean": "로그인",
-            "spanish": "Registrarse",
-            "german": "Anmelden",
-            "mandarin": "登入",
-            "english": "Sign in"
-        },
-        "selfCustodial": {
-            "japanese": "による自己管理ログイン",
-            "korean": "자가 관리 로그인",
-            "spanish": "Inicio de sesión con autocustodia por",
-            "german": "Selbstverwahrungs-Login durch",
-            "mandarin": "自托管登录由",
-            "english": "Self-custodial login by"
-        },
-        "poweredBy": {
-            "japanese": "搭載",
-            "korean": "제공",
-            "spanish": "Energizado por",
-            "german": "Unterstützt von",
-            "mandarin": "供电",
-            "english": "Powered by"
-        },
-        "termsHandle": {
-            "japanese": "TwitterおよびGithubアカウントは、それぞれのユーザー名に固有です。ユーザー名を変更すると、既存のアカウントが置き換えられます。",
-            "korean": "Twitter 및 Github 어카운트은 해당 사용자 이름에 고유합니다. 사용자 이름 변경은 기존 어카운트을 대체합니다.",
-            "spanish": "Las cuentas de Twitter y Github son únicas para sus respectivos nombres de usuario. Un cambio en el nombre de usuario reemplazará la cuenta existente.",
-            "german": "Twitter- und Github-Konten sind für ihren jeweiligen Benutzernamen eindeutig. Eine Änderung des Benutzernamens ersetzt das vorhandene Konto.",
-            "mandarin": "Twitter和Github帐户对于各自的用户名是独特的。更改用户名将会取代现有帐户。",
-            "english": "Twitter and Github accounts are unique to their respective username. A change in username will replace the existing account."
-        },
-        "constructYourKey": {
-            "japanese": "キーを作成する",
-            "korean": "키 구성",
-            "spanish": "Construyendo tu clave en",
-            "german": "Bauen Sie Ihren Schlüssel auf",
-            "mandarin": "构建您的密钥",
-            "english": "Constructing your key on"
-        },
-        "viewLess": {
-            "japanese": "少ないオプションを表示",
-            "korean": "옵션 간략히보기",
-            "spanish": "Ver menos opciones",
-            "german": "Weniger Optionen anzeigen",
-            "mandarin": "查看较少的选项",
-            "english": "View less options"
-        },
-        "contactUs": {
-            "japanese": "お問い合わせ",
-            "korean": "문의하기",
-            "spanish": "Contáctenos",
-            "german": "Kontaktiere uns",
-            "mandarin": "联系我们",
-            "english": "Contact us"
-        },
-        "yourDigital": {
-            "japanese": "あなたのデジタルウォレット",
-            "korean": "당신의 디지털 지갑",
-            "spanish": "Tu billetera digital con",
-            "german": "Ihre digitale Geldbörse mit",
-            "mandarin": "您的电子钱包",
-            "english": "Your digital wallet with"
-        }
-    },
-    "dappProvider": {
-        "decryptMessage": {
-            "japanese": "メッセージを復号化する",
-            "korean": "메시지 암호 해독(복호화)하기",
-            "spanish": "Descifrar mensaje",
-            "german": "Nachricht entschlüsseln",
-            "mandarin": "解密消息",
-            "english": "Decrypt message"
-        },
-        "copyEncrypted": {
-            "japanese": "暗号化されたメッセージをコピーする",
-            "korean": "암호화 된 메시지 복사",
-            "spanish": "Copiar mensaje encriptado",
-            "german": "Verschlüsselte Nachricht kopieren",
-            "mandarin": "复制加密的邮件",
-            "english": "Copy encrypted message"
-        },
-        "decryptionRequest": {
-            "japanese": "復号化リクエスト",
-            "korean": "암호 해독(복호화) 요청",
-            "spanish": "Solicitud de descifrado",
-            "german": "Entschlüsselungsanforderung",
-            "mandarin": "解密请求",
-            "english": "Decryption request"
-        },
-        "allowRead": {
-            "japanese": "{dappname}がこのメッセージを読み取って、アクションを完了することを許可します。",
-            "korean": "작업을 완료하려면 {dappname}이 이 메시지를 읽을 수 있도록 허용하세요.",
-            "spanish": "Permita que {dappname} lea este mensaje para completar su acción.",
-            "german": "Erlauben Sie {dappname}, diese Nachricht zu lesen, um Ihre Aktion abzuschließen.",
-            "mandarin": "允许{dappname}阅读此消息以完成操作。",
-            "english": "Allow {dappname} to read this message to complete your action."
-        },
-        "deny": {
-            "japanese": "拒否",
-            "korean": "거부",
-            "spanish": "Negar",
-            "german": "Verweigern",
-            "mandarin": "拒绝",
-            "english": "Deny"
-        },
-        "allowCompose": {
-            "japanese": "{dappname}が暗号化されたメッセージを作成できるようにする",
-            "korean": "{dappname}이 암호화 된 메시지를 작성하도록 허용",
-            "spanish": "Permita que {dappname} redacte mensajes cifrados por usted",
-            "german": "Erlauben Sie {dappname}, verschlüsselte Nachrichten für Sie zu verfassen",
-            "mandarin": "允许{dappname}为您撰写加密的邮件",
-            "english": "Allow {dappname} to compose encrypted messages for you"
-        },
-        "requestFrom": {
-            "japanese": "許可を求めているアプリケーション",
-            "korean": "요청",
-            "spanish": "Solicitud de",
-            "german": "Anfrage von",
-            "mandarin": "要求",
-            "english": "Request from"
-        },
-        "allow": {
-            "japanese": "許可する",
-            "korean": "허용하다",
-            "spanish": "Permitir",
-            "german": "Ermöglichen",
-            "mandarin": "允许",
-            "english": "Allow"
-        },
-        "confirm": {
-            "japanese": "確認",
-            "korean": "확인",
-            "spanish": "Confirmar",
-            "german": "Bestätigen",
-            "mandarin": "确认",
-            "english": "Confirm"
-        },
-        "cancel": {
-            "japanese": "キャンセル",
-            "korean": "취소",
-            "spanish": "Cancelar",
-            "german": "Stornieren",
-            "mandarin": "取消",
-            "english": "Cancel"
-        },
-        "permission": {
-            "japanese": "下記の内容を許可しますか",
-            "korean": "허가",
-            "spanish": "Permiso",
-            "german": "Genehmigung",
-            "mandarin": "允许",
-            "english": "Permission"
-        },
-        "encryptionRequest": {
-            "japanese": "暗号化キーを要求する",
-            "korean": "암호화 키 요청",
-            "spanish": "Solicitar clave de cifrado",
-            "german": "Verschlüsselungsschlüssel anfordern",
-            "mandarin": "请求加密密钥",
-            "english": "Request encryption key"
-        },
-        "toChangeNetwork": {
-            "japanese": "ネットワークを変更するには",
-            "korean": "네트워크를 변경하려면",
-            "spanish": "Para cambiar su red a",
-            "german": "So ändern Sie Ihr Netzwerk auf",
-            "mandarin": "要将您的网络更改为",
-            "english": "To change your network to "
-        }
-    },
-    "dappConfirm": {
-        "deployHash": {
-            "japanese": "ハッシュを展開する",
-            "korean": "해시 배포",
-            "spanish": "Implementar hash",
-            "german": "Hash bereitstellen",
-            "mandarin": "部署哈希",
-            "english": "Deploy Hash"
-        },
-        "viewMore": {
-            "japanese": "詳細を見る",
-            "korean": "자세히 보기",
-            "spanish": "Ver más detalles",
-            "german": "Weitere Details anzeigen",
-            "mandarin": "查看更多详情",
-            "english": "View more details"
-        },
-        "youPay": {
-            "japanese": "あなたが支払う",
-            "korean": "당신이 지불",
-            "spanish": "Tu pagas",
-            "german": "Sie bezahlen",
-            "mandarin": "你付钱",
-            "english": "You Pay"
-        },
-        "transactionType": {
-            "japanese": "トランザクションタイプ",
-            "korean": "거래 유형",
-            "spanish": "tipo de transacción",
-            "german": "Art der Transaktion",
-            "mandarin": "交易类型",
-            "english": "Transaction Type"
-        },
-        "data": {
-            "japanese": "データ",
-            "korean": "데이터",
-            "spanish": "Datos",
-            "german": "Daten",
-            "mandarin": "数据",
-            "english": "Data"
-        },
-        "viewLess": {
-            "japanese": "詳細を表示しない",
-            "korean": "세부정보 간략히 보기",
-            "spanish": "Ver menos detalles",
-            "german": "Weniger Details anzeigen",
-            "mandarin": "查看较少的详细信息",
-            "english": "View less details"
-        },
-        "confirmTransaction": {
-            "japanese": "取引を確認",
-            "korean": "거래 확인",
-            "spanish": "Confirmar Transacción",
-            "german": "Transaktion bestätigen",
-            "mandarin": "确认交易",
-            "english": "Confirm Transaction"
-        },
-        "total": {
-            "japanese": "総費用",
-            "korean": "총 비용",
-            "spanish": "Coste total",
-            "german": "Gesamtkosten",
-            "mandarin": "总花费",
-            "english": "Total Cost"
-        },
-        "transactionFee": {
-            "japanese": "取引料金",
-            "korean": "거래 수수료",
-            "spanish": "Tarifa de transacción",
-            "german": "Transaktionsgebühr",
-            "mandarin": "手续费",
-            "english": "Transaction Fee"
+            "spanish": "para probarlo y usarlo como su cuenta preferida para transacciones en esta DApp"
         }
     },
     "dappGeneral": {
         "loading": {
+            "english": "You can close this window now",
+            "german": "Sie können dieses Fenster jetzt schließen",
             "japanese": "このウィンドウを閉じることができます",
             "korean": "이제이 창을 닫을 수 있습니다",
-            "spanish": "Puedes cerrar esta ventana ahora",
-            "german": "Sie können dieses Fenster jetzt schließen",
             "mandarin": "您现在可以关闭此窗口",
-            "english": "You can close this window now"
+            "spanish": "Puedes cerrar esta ventana ahora"
         }
     },
     "dappInfo": {
         "cancel": {
+            "english": "Cancel",
+            "german": "Stornieren",
             "japanese": "キャンセル",
             "korean": "취소",
-            "spanish": "Cancelar",
-            "german": "Stornieren",
             "mandarin": "取消",
-            "english": "Cancel"
+            "spanish": "Cancelar"
         },
         "confirm": {
+            "english": "Confirm",
+            "german": "Bestätigen",
             "japanese": "確認",
             "korean": "확인",
-            "spanish": "Confirmar",
-            "german": "Bestätigen",
             "mandarin": "确认",
-            "english": "Confirm"
+            "spanish": "Confirmar"
         },
         "permission": {
+            "english": "Permission",
+            "german": "Genehmigung",
             "japanese": "下記の内容を許可しますか",
             "korean": "허가",
-            "spanish": "Permiso",
-            "german": "Genehmigung",
             "mandarin": "允许",
-            "english": "Permission"
-        },
-        "toAccessFacebook": {
-            "japanese": "受け取る情報: Facebookメール、プロフィール写真、名前",
-            "korean": "Facebook 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
-            "spanish": "Para acceder a su dirección de correo electrónico de Facebook, foto de perfil y nombre",
-            "german": "So greifen Sie auf Ihre Facebook-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
-            "mandarin": "要访问您的Facebook电子邮件地址，个人资料照片和姓名",
-            "english": "To access your Facebook Email Address, Profile Photo and Name"
-        },
-        "toAccessTwitch": {
-            "japanese": "受け取る情報: Twitchメール、プロフィール写真、名前",
-            "korean": "Twitch 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
-            "spanish": "Para acceder a su dirección de correo electrónico de Twitch, foto de perfil y nombre",
-            "german": "So greifen Sie auf Ihre Twitch-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
-            "mandarin": "要访问您的Twitch电子邮件地址，个人资料照片和姓名",
-            "english": "To access your Twitch Email Address, Profile Photo and Name"
-        },
-        "toAccessReddit": {
-            "japanese": "受け取る情報: Redditメール、プロフィール写真、名前",
-            "korean": "Reddit 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
-            "spanish": "Para acceder a su dirección de correo electrónico, foto de perfil y nombre de Reddit",
-            "german": "So greifen Sie auf Ihre Reddit-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
-            "mandarin": "要访问您的Reddit电子邮件地址，个人资料照片和姓名",
-            "english": "To access your Reddit Email Address, Profile Photo and Name"
+            "spanish": "Permiso"
         },
         "requestFrom": {
+            "english": "Request from",
+            "german": "Anfrage von",
             "japanese": "許可を求めているアプリケーション",
             "korean": "요청",
-            "spanish": "Solicitud de",
-            "german": "Anfrage von",
             "mandarin": "要求",
-            "english": "Request from"
-        },
-        "toAccessGoogle": {
-            "japanese": "受け取る情報: Googleメール、プロフィール写真、名前",
-            "korean": "Google 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
-            "spanish": "Para acceder a su dirección de correo electrónico de Google, foto de perfil y nombre",
-            "german": "So greifen Sie auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
-            "mandarin": "要访问您的Google电子邮件地址，个人资料照片和姓名",
-            "english": "To access your Google Email Address, Profile Photo and Name"
+            "spanish": "Solicitud de"
         },
         "toAccessDiscord": {
+            "english": "To access your Discord Email Address, Profile Photo and Name",
+            "german": "Zugriff auf Ihre Discord-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen",
             "japanese": "受け取る情報: Discordメール、プロフィール写真、名前",
             "korean": "Discord 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
-            "spanish": "Para acceder a su dirección de correo electrónico, foto de perfil y nombre de Discord",
-            "german": "Zugriff auf Ihre Discord-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen",
             "mandarin": "要访问您的Discord电子邮件地址，个人资料照片和姓名",
-            "english": "To access your Discord Email Address, Profile Photo and Name"
+            "spanish": "Para acceder a su dirección de correo electrónico, foto de perfil y nombre de Discord"
+        },
+        "toAccessFacebook": {
+            "english": "To access your Facebook Email Address, Profile Photo and Name",
+            "german": "So greifen Sie auf Ihre Facebook-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
+            "japanese": "受け取る情報: Facebookメール、プロフィール写真、名前",
+            "korean": "Facebook 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
+            "mandarin": "要访问您的Facebook电子邮件地址，个人资料照片和姓名",
+            "spanish": "Para acceder a su dirección de correo electrónico de Facebook, foto de perfil y nombre"
+        },
+        "toAccessGoogle": {
+            "english": "To access your Google Email Address, Profile Photo and Name",
+            "german": "So greifen Sie auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
+            "japanese": "受け取る情報: Googleメール、プロフィール写真、名前",
+            "korean": "Google 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
+            "mandarin": "要访问您的Google电子邮件地址，个人资料照片和姓名",
+            "spanish": "Para acceder a su dirección de correo electrónico de Google, foto de perfil y nombre"
+        },
+        "toAccessReddit": {
+            "english": "To access your Reddit Email Address, Profile Photo and Name",
+            "german": "So greifen Sie auf Ihre Reddit-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
+            "japanese": "受け取る情報: Redditメール、プロフィール写真、名前",
+            "korean": "Reddit 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
+            "mandarin": "要访问您的Reddit电子邮件地址，个人资料照片和姓名",
+            "spanish": "Para acceder a su dirección de correo electrónico, foto de perfil y nombre de Reddit"
+        },
+        "toAccessTwitch": {
+            "english": "To access your Twitch Email Address, Profile Photo and Name",
+            "german": "So greifen Sie auf Ihre Twitch-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
+            "japanese": "受け取る情報: Twitchメール、プロフィール写真、名前",
+            "korean": "Twitch 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
+            "mandarin": "要访问您的Twitch电子邮件地址，个人资料照片和姓名",
+            "spanish": "Para acceder a su dirección de correo electrónico de Twitch, foto de perfil y nombre"
+        }
+    },
+    "dappLogin": {
+        "constructYourKey": {
+            "english": "Constructing your key on",
+            "german": "Bauen Sie Ihren Schlüssel auf",
+            "japanese": "キーを作成する",
+            "korean": "키 구성",
+            "mandarin": "构建您的密钥",
+            "spanish": "Construyendo tu clave en"
+        },
+        "contactUs": {
+            "english": "Contact us",
+            "german": "Kontaktiere uns",
+            "japanese": "お問い合わせ",
+            "korean": "문의하기",
+            "mandarin": "联系我们",
+            "spanish": "Contáctenos"
+        },
+        "continue": {
+            "english": "Continue with {verifier}",
+            "german": "Weiter mit {Verifier}",
+            "japanese": "{verifier}に進みます",
+            "korean": "{verifier} 계속",
+            "mandarin": "继续{verifier}",
+            "spanish": "Continuar con {verifier}"
+        },
+        "continueWith": {
+            "english": "Continue with existing {verifier}",
+            "german": "Weiter mit vorhandenem {verifier}",
+            "japanese": "既存の{verifier}を続行します",
+            "korean": "기존 {verifier} 계속",
+            "mandarin": "继续使用现有的{verifier}",
+            "spanish": "Continuar con {verifier} existente"
+        },
+        "continueWithBiometrics": {
+            "english": "Continue with biometrics",
+            "german": "Fahren Sie mit der Biometrie fort",
+            "japanese": "生体認証を続ける",
+            "korean": "생체 인식으로 계속",
+            "mandarin": "继续进行生物识别",
+            "spanish": "Continuar con biometría"
+        },
+        "howWorks": {
+            "english": "How does this work?",
+            "german": "Wie funktioniert das?",
+            "japanese": "これはどのように作動しますか？",
+            "korean": "어떻게 작동하나요?",
+            "mandarin": "这是如何运作的？",
+            "spanish": "¿Como funciona esto?"
+        },
+        "note": {
+            "english": "Note:",
+            "german": "Hinweis:",
+            "japanese": "注意：",
+            "korean": "참고 :",
+            "mandarin": "注意：",
+            "spanish": "Nota:"
+        },
+        "poweredBy": {
+            "english": "Powered by",
+            "german": "Unterstützt von",
+            "japanese": "搭載",
+            "korean": "제공",
+            "mandarin": "供电",
+            "spanish": "Energizado por"
+        },
+        "privacyPolicy": {
+            "english": "Privacy Policy",
+            "german": "Datenschutz-Bestimmungen",
+            "japanese": "個人情報保護方針",
+            "korean": "개인 정보 정책",
+            "mandarin": "隐私政策",
+            "spanish": "Política de privacidad"
+        },
+        "selfCustodial": {
+            "english": "Self-custodial login by",
+            "german": "Selbstverwahrungs-Login durch",
+            "japanese": "による自己管理ログイン",
+            "korean": "자가 관리 로그인",
+            "mandarin": "自托管登录由",
+            "spanish": "Inicio de sesión con autocustodia por"
+        },
+        "signIn": {
+            "english": "Sign in",
+            "german": "Anmelden",
+            "japanese": "サインイン",
+            "korean": "로그인",
+            "mandarin": "登入",
+            "spanish": "Registrarse"
+        },
+        "termsAuth01": {
+            "english": "The following sign-ins involve a third party authenticator:",
+            "german": "An den folgenden Anmeldungen ist ein Authentifizierer eines Drittanbieters beteiligt:",
+            "japanese": "次のサインインには、サードパーティの認証システムが関係しています。",
+            "korean": "다음 로그인에는 외부 인증자(써드 파티)가 포함됩니다.",
+            "mandarin": "以下登录涉及第三方身份验证器：",
+            "spanish": "Los siguientes inicios de sesión involucran a un autenticador de terceros:"
+        },
+        "termsAuth02": {
+            "english": "Apple, GitHub, LinkedIn, Twitter, LINE, Passwordless.",
+            "german": "Apple, GitHub, LinkedIn, Twitter, LINE, Passwortlos.",
+            "japanese": "Apple、GitHub、LinkedIn、Twitter、LINE、パスワードなし。",
+            "korean": "애플, github, 링크드인, 트위터, LINE, 비밀번호없음 설정.",
+            "mandarin": "苹果，GitHub，LinkedIn，Twitter，LINE，无密码。",
+            "spanish": "Apple, GitHub, LinkedIn, Twitter, LINE, sin contraseña."
+        },
+        "termsConditions": {
+            "english": "Terms of Service",
+            "german": "Nutzungsbedingungen",
+            "japanese": "利用規約",
+            "korean": "서비스 약관",
+            "mandarin": "服务条款",
+            "spanish": "Términos de servicio"
+        },
+        "termsHandle": {
+            "english": "Twitter and Github accounts are unique to their respective username. A change in username will replace the existing account.",
+            "german": "Twitter- und Github-Konten sind für ihren jeweiligen Benutzernamen eindeutig. Eine Änderung des Benutzernamens ersetzt das vorhandene Konto.",
+            "japanese": "TwitterおよびGithubアカウントは、それぞれのユーザー名に固有です。ユーザー名を変更すると、既存のアカウントが置き換えられます。",
+            "korean": "Twitter 및 Github 어카운트은 해당 사용자 이름에 고유합니다. 사용자 이름 변경은 기존 어카운트을 대체합니다.",
+            "mandarin": "Twitter和Github帐户对于各自的用户名是独特的。更改用户名将会取代现有帐户。",
+            "spanish": "Las cuentas de Twitter y Github son únicas para sus respectivos nombres de usuario. Un cambio en el nombre de usuario reemplazará la cuenta existente."
+        },
+        "termsLearnMore": {
+            "english": "Learn more",
+            "german": "Mehr erfahren",
+            "japanese": "もっと詳しく知る",
+            "korean": "더 알아보기",
+            "mandarin": "学到更多",
+            "spanish": "Aprende más"
+        },
+        "viewLess": {
+            "english": "View less options",
+            "german": "Weniger Optionen anzeigen",
+            "japanese": "少ないオプションを表示",
+            "korean": "옵션 간략히보기",
+            "mandarin": "查看较少的选项",
+            "spanish": "Ver menos opciones"
+        },
+        "viewMore": {
+            "english": "View more options",
+            "german": "Weitere Optionen anzeigen",
+            "japanese": "その他のオプションを表示",
+            "korean": "더 많은 옵션보기",
+            "mandarin": "查看更多选项",
+            "spanish": "Ver más opciones"
+        },
+        "yourDigital": {
+            "english": "Your digital wallet with",
+            "german": "Ihre digitale Geldbörse mit",
+            "japanese": "あなたのデジタルウォレット",
+            "korean": "당신의 디지털 지갑",
+            "mandarin": "您的电子钱包",
+            "spanish": "Tu billetera digital con"
+        }
+    },
+    "dappPermission": {
+        "accessUserInfo": {
+            "english": "To access your Google Email Address, Profile Photo and Name",
+            "german": "So greifen Sie auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen zu",
+            "japanese": "Googleメール、写真、名前にアクセスするには",
+            "korean": "Google 이메일 주소, 프로필 사진 및 이름에 액세스하려면",
+            "mandarin": "要访问您的Google电子邮件地址，个人资料照片和姓名",
+            "spanish": "Para acceder a su dirección de correo electrónico de Google, foto de perfil y nombre"
+        },
+        "allow": {
+            "english": "Allow",
+            "german": "Erlaube",
+            "japanese": "許可",
+            "korean": "허용",
+            "mandarin": "允许",
+            "spanish": "Permitir"
+        },
+        "allowAccess": {
+            "english": "Allow {host} to access your Google Email Address, Profile Photo and Name",
+            "german": "Ermöglichen Sie {host} den Zugriff auf Ihre Google-E-Mail-Adresse, Ihr Profilfoto und Ihren Namen",
+            "japanese": "{host}にGoogleのメールアドレス、プロフィール写真、名前へのアクセスを許可します",
+            "korean": "{host}이 (가) Google 이메일 주소, 프로필 사진 및 이름에 액세스하도록 허용",
+            "mandarin": "允许{host}访问您的Google电子邮件地址，个人资料照片和姓名",
+            "spanish": "Permita que {host} acceda a su dirección de correo electrónico, foto de perfil y nombre de Google"
+        },
+        "allowNetworkChange": {
+            "english": "Allow {host} change your network to {network}",
+            "german": "Erlaube {host}, dein Netzwerk in {network} zu ändern",
+            "japanese": "{host}がネットワークを{network}に変更することを許可します",
+            "korean": "{host} 네트워크를 {network} (으)로 변경하도록 허용",
+            "mandarin": "允许{host}将您的网络更改为{network}",
+            "spanish": "Permita que {host} cambie su red a {network}"
+        },
+        "cancel": {
+            "english": "Cancel",
+            "german": "Stornieren",
+            "japanese": "キャンセル",
+            "korean": "취소",
+            "mandarin": "取消",
+            "spanish": "Cancelar"
+        },
+        "changeNetwork": {
+            "english": "Change your network to {network}",
+            "german": "Ändern Sie Ihr Netzwerk in {network}",
+            "japanese": "ネットワークを{network}に変更します",
+            "korean": "네트워크를 {network}로 변경",
+            "mandarin": "将您的网络更改为{network}",
+            "spanish": "Cambie su red a {network}"
+        },
+        "currentNetwork": {
+            "english": "Current network",
+            "german": "Aktuelles Netzwerk",
+            "japanese": "現在のネットワーク",
+            "korean": "현재 네트워크",
+            "mandarin": "当前网络",
+            "spanish": "Red actual"
+        },
+        "displayUserInfo": {
+            "english": "DApp will display this information in app to personalise your experience. Dapp will never store or share the information above.",
+            "german": "DApp zeigt diese Informationen in der App an, um Ihre Erfahrung zu personalisieren. Dapp wird die oben genannten Informationen niemals speichern oder weitergeben.",
+            "japanese": "DAppは、この情報をアプリに表示して体験を最適化します。 DAppは上記の情報を保存または共有しません。",
+            "korean": "DApp은 사용자 경험을 개인화하기 위해 이 정보를 앱에 표시할 겁니다. Dapp은 위에 있는 정보를 저장하거나 공유하지 않습니다.",
+            "mandarin": "DApp将在应用程序中显示此信息，以个性化您的体验。 Dapp绝不会存储或共享上述信息。",
+            "spanish": "DApp mostrará esta información en la aplicación para personalizar su experiencia. Dapp nunca almacenará ni compartirá la información anterior."
+        },
+        "learnMore": {
+            "english": "Learn More",
+            "german": "Erfahren Sie mehr",
+            "japanese": "もっと詳しく知る",
+            "korean": "더 알아보기",
+            "mandarin": "学到更多",
+            "spanish": "Aprende más"
+        },
+        "note": {
+            "english": "NOTE: By clicking allow, you grant the DApp permission for unlimited interaction with your account within the next {num} hrs",
+            "german": "HINWEIS: Wenn Sie auf Zulassen klicken, erteilen Sie die DApp-Berechtigung für die uneingeschränkte Interaktion mit Ihrem Konto innerhalb der nächsten {num} Stunden",
+            "japanese": "注：[許可]をクリックすると、次の{num}時間以内にアカウントとの無制限のやり取りをDAppに許可します",
+            "korean": "참고 : 허용을 클릭하면 다음 {num} 시간 동안 어카운트에 대해 DApp에게 무제한 권한을 부여합니다",
+            "mandarin": "注意：通过单击允许，您授予DApp权限，以便在接下来的{num}小时内与您的帐户进行无限制的互动",
+            "spanish": "NOTA: Al hacer clic en permitir, otorga permiso a la DApp para interacción ilimitada con su cuenta dentro de las próximas {num} horas."
+        },
+        "permission": {
+            "english": "Permission",
+            "german": "Genehmigung",
+            "japanese": "許可",
+            "korean": "허가",
+            "mandarin": "允许",
+            "spanish": "Permiso"
+        },
+        "toAllow": {
+            "english": "To allow the following",
+            "german": "Folgendes zulassen",
+            "japanese": "以下を許可するには",
+            "korean": "다음을 허용하려면",
+            "mandarin": "允许以下",
+            "spanish": "Para permitir lo siguiente"
+        },
+        "transactHours": {
+            "english": "Transact with requestor for the next {num} hrs",
+            "german": "Transaktion mit dem Anforderer für die nächsten 6 Stunden",
+            "japanese": "次の{num}時間はリクエスターで取引する",
+            "korean": "다음 6 시간 동안 요청한 자와 거래",
+            "mandarin": "在接下来的6小时内与请求者进行交易",
+            "spanish": "Realice la transacción con el solicitante durante las próximas {num} horas"
         }
     },
     "dappPopup": {
-        "totalValue": {
-            "japanese": "総価値",
-            "korean": "총 가치",
-            "spanish": "VALOR TOTAL",
-            "german": "GESAMTWERT",
-            "mandarin": "总价值",
-            "english": "TOTAL VALUE"
-        },
         "openWallet": {
+            "english": "Open Wallet",
+            "german": "Brieftasche öffnen",
             "japanese": "ウォレットを開く",
             "korean": "월렛 열기",
-            "spanish": "Billetera abierta",
-            "german": "Brieftasche öffnen",
             "mandarin": "打开钱包",
-            "english": "Open Wallet"
+            "spanish": "Billetera abierta"
         },
         "recentActivity": {
+            "english": "LATEST ACTIVITY",
+            "german": "LETZTE AKTIVITÄT",
             "japanese": "最近の活動",
             "korean": "최근 활동",
-            "spanish": "ÚLTIMA ACTIVIDAD",
-            "german": "LETZTE AKTIVITÄT",
             "mandarin": "近期活动",
-            "english": "LATEST ACTIVITY"
+            "spanish": "ÚLTIMA ACTIVIDAD"
+        },
+        "totalValue": {
+            "english": "TOTAL VALUE",
+            "german": "GESAMTWERT",
+            "japanese": "総価値",
+            "korean": "총 가치",
+            "mandarin": "总价值",
+            "spanish": "VALOR TOTAL"
         }
     },
-    "dappAlert": {
-        "youHavePending": {
-            "japanese": "ポップアップウィンドウで完了する必要がある保留中のアクションがあります",
-            "korean": "팝업 창에서 완료해야하는 보류중인 조치가 있습니다.",
-            "spanish": "Tiene una acción pendiente que debe completarse en una ventana emergente",
-            "german": "Sie haben eine ausstehende Aktion, die in einem Popup-Fenster ausgeführt werden muss",
-            "mandarin": "您有一个待完成的操作，需要在弹出窗口中完成",
-            "english": "You have a pending action that needs to be completed in a pop-up window"
+    "dappProvider": {
+        "allow": {
+            "english": "Allow",
+            "german": "Ermöglichen",
+            "japanese": "許可する",
+            "korean": "허용하다",
+            "mandarin": "允许",
+            "spanish": "Permitir"
         },
-        "actionRequired": {
-            "japanese": "必要なアクション",
-            "korean": "필요한 조치",
-            "spanish": "Acción requerida",
-            "german": "Handlung erforderlich",
-            "mandarin": "需要采取的行动",
-            "english": "Action Required"
+        "allowCompose": {
+            "english": "Allow {dappname} to compose encrypted messages for you",
+            "german": "Erlauben Sie {dappname}, verschlüsselte Nachrichten für Sie zu verfassen",
+            "japanese": "{dappname}が暗号化されたメッセージを作成できるようにする",
+            "korean": "{dappname}이 암호화 된 메시지를 작성하도록 허용",
+            "mandarin": "允许{dappname}为您撰写加密的邮件",
+            "spanish": "Permita que {dappname} redacte mensajes cifrados por usted"
         },
-        "Confirm": {
+        "allowRead": {
+            "english": "Allow {dappname} to read this message to complete your action.",
+            "german": "Erlauben Sie {dappname}, diese Nachricht zu lesen, um Ihre Aktion abzuschließen.",
+            "japanese": "{dappname}がこのメッセージを読み取って、アクションを完了することを許可します。",
+            "korean": "작업을 완료하려면 {dappname}이 이 메시지를 읽을 수 있도록 허용하세요.",
+            "mandarin": "允许{dappname}阅读此消息以完成操作。",
+            "spanish": "Permita que {dappname} lea este mensaje para completar su acción."
+        },
+        "cancel": {
+            "english": "Cancel",
+            "german": "Stornieren",
+            "japanese": "キャンセル",
+            "korean": "취소",
+            "mandarin": "取消",
+            "spanish": "Cancelar"
+        },
+        "confirm": {
+            "english": "Confirm",
+            "german": "Bestätigen",
             "japanese": "確認",
             "korean": "확인",
-            "spanish": "Confirmar",
-            "german": "Bestätigen",
             "mandarin": "确认",
-            "english": "Confirm"
+            "spanish": "Confirmar"
+        },
+        "copyEncrypted": {
+            "english": "Copy encrypted message",
+            "german": "Verschlüsselte Nachricht kopieren",
+            "japanese": "暗号化されたメッセージをコピーする",
+            "korean": "암호화 된 메시지 복사",
+            "mandarin": "复制加密的邮件",
+            "spanish": "Copiar mensaje encriptado"
+        },
+        "decryptionRequest": {
+            "english": "Decryption request",
+            "german": "Entschlüsselungsanforderung",
+            "japanese": "復号化リクエスト",
+            "korean": "암호 해독(복호화) 요청",
+            "mandarin": "解密请求",
+            "spanish": "Solicitud de descifrado"
+        },
+        "decryptMessage": {
+            "english": "Decrypt message",
+            "german": "Nachricht entschlüsseln",
+            "japanese": "メッセージを復号化する",
+            "korean": "메시지 암호 해독(복호화)하기",
+            "mandarin": "解密消息",
+            "spanish": "Descifrar mensaje"
+        },
+        "deny": {
+            "english": "Deny",
+            "german": "Verweigern",
+            "japanese": "拒否",
+            "korean": "거부",
+            "mandarin": "拒绝",
+            "spanish": "Negar"
+        },
+        "encryptionRequest": {
+            "english": "Request encryption key",
+            "german": "Verschlüsselungsschlüssel anfordern",
+            "japanese": "暗号化キーを要求する",
+            "korean": "암호화 키 요청",
+            "mandarin": "请求加密密钥",
+            "spanish": "Solicitar clave de cifrado"
+        },
+        "permission": {
+            "english": "Permission",
+            "german": "Genehmigung",
+            "japanese": "下記の内容を許可しますか",
+            "korean": "허가",
+            "mandarin": "允许",
+            "spanish": "Permiso"
+        },
+        "requestFrom": {
+            "english": "Request from",
+            "german": "Anfrage von",
+            "japanese": "許可を求めているアプリケーション",
+            "korean": "요청",
+            "mandarin": "要求",
+            "spanish": "Solicitud de"
+        },
+        "toChangeNetwork": {
+            "english": "To change your network to ",
+            "german": "So ändern Sie Ihr Netzwerk auf",
+            "japanese": "ネットワークを変更するには",
+            "korean": "네트워크를 변경하려면",
+            "mandarin": "要将您的网络更改为",
+            "spanish": "Para cambiar su red a"
+        }
+    },
+    "dappTransfer": {
+        "amount": {
+            "english": "Amount",
+            "german": "Menge",
+            "japanese": "量",
+            "korean": "양",
+            "mandarin": "量",
+            "spanish": "Cantidad"
+        },
+        "approve": {
+            "english": "Approve",
+            "german": "Genehmigen",
+            "japanese": "承認する",
+            "korean": "승인",
+            "mandarin": "批准",
+            "spanish": "Aprobar"
+        },
+        "byConfirming1": {
+            "english": "By confirming this, you grant permission for this contract to spend up to",
+            "german": "Indem Sie dies bestätigen, erteilen Sie diesem Vertrag die Erlaubnis, bis zu",
+            "japanese": "このコントラクトに最大を○○を委譲します。",
+            "korean": "이를 확인함으로써 귀하는 이 컨트랙트에 대해 최대 비용을 지출 할 수있는 권한을 부여합니다",
+            "mandarin": "确认后，即表示您同意此合同花费最多",
+            "spanish": "Al confirmar esto, otorga permiso para que este contrato gaste hasta"
+        },
+        "byConfirming2": {
+            "english": "of your tokens",
+            "german": "von Ihren Token",
+            "japanese": "トークンの",
+            "korean": "토큰 중",
+            "mandarin": "您的代币",
+            "spanish": "de tus tokens"
+        },
+        "cancel": {
+            "english": "Cancel",
+            "german": "Stornieren",
+            "japanese": "キャンセル",
+            "korean": "취소",
+            "mandarin": "取消",
+            "spanish": "Cancelar"
+        },
+        "claimMon": {
+            "english": "Claim a MON",
+            "german": "Fordern Sie einen mon an",
+            "japanese": "monを請求する",
+            "korean": "mon 클레임",
+            "mandarin": "申请mon",
+            "spanish": "Reclamar un MON"
+        },
+        "collectibleSafe": {
+            "english": "Collectible Safe Transfer From",
+            "german": "Sammelsicherer Transfer von",
+            "japanese": "収集可能な安全な転送元",
+            "korean": "에서 수집 가능한 안전 전송",
+            "mandarin": "可收集的安全转移自",
+            "spanish": "Transferencia segura coleccionable desde"
+        },
+        "confirm": {
+            "english": "Confirm",
+            "german": "Bestätigen",
+            "japanese": "確認",
+            "korean": "확인",
+            "mandarin": "确认",
+            "spanish": "Confirmar"
+        },
+        "confirmation": {
+            "english": "Confirmation",
+            "german": "Bestätigung",
+            "japanese": "確認",
+            "korean": "확인",
+            "mandarin": "确认",
+            "spanish": "Confirmación"
+        },
+        "constOfTrans": {
+            "english": "Cost of Transaction",
+            "german": "Transaktionskosten",
+            "japanese": "トランザクション手数料",
+            "korean": "트랜잭션 비용",
+            "mandarin": "交易成本",
+            "spanish": "Costo de transacción"
+        },
+        "contractInteraction": {
+            "english": "Contract Interaction",
+            "german": "Vertragsinteraktion",
+            "japanese": "コントラクトを操作",
+            "korean": "컨트랙트 상호 작용",
+            "mandarin": "合约互动",
+            "spanish": "Interacción de contrato"
+        },
+        "data": {
+            "english": "Data",
+            "german": "Zu unterzeichnende Daten",
+            "japanese": "署名するデータ",
+            "korean": "서명할 데이터",
+            "mandarin": "要签名的数据",
+            "spanish": "Datos"
+        },
+        "dataSmall": {
+            "english": "data",
+            "german": "Zu unterzeichnende Daten",
+            "japanese": "署名するデータ",
+            "korean": "서명할 데이터",
+            "mandarin": "要签名的数据",
+            "spanish": "datos"
+        },
+        "deploy": {
+            "english": "Deploy",
+            "german": "Bereitstellen",
+            "japanese": "展開する",
+            "korean": "배포",
+            "mandarin": "部署",
+            "spanish": "Desplegar"
+        },
+        "insufficientFunds": {
+            "english": "Insufficient Funds",
+            "german": "Unzureichende Mittel",
+            "japanese": "残高不足",
+            "korean": "부족한 자금",
+            "mandarin": "不充足的资金",
+            "spanish": "Fondos insuficientes"
+        },
+        "lessDetails": {
+            "english": "Less Details",
+            "german": "Weniger Details",
+            "japanese": "少ない詳細",
+            "korean": "세부정보 간략히 보기",
+            "mandarin": "较少的细节",
+            "spanish": "Menos detalles"
+        },
+        "moreDetails": {
+            "english": "More Details",
+            "german": "Mehr Details",
+            "japanese": "詳細",
+            "korean": "더 자세한 내용",
+            "mandarin": "更多细节",
+            "spanish": "Más detalles"
+        },
+        "network": {
+            "english": "Network",
+            "german": "Netzwerk",
+            "japanese": "ネットワーク",
+            "korean": "네트워크",
+            "mandarin": "网络",
+            "spanish": "Red"
+        },
+        "newContract": {
+            "english": "New Contract",
+            "german": "Neuer Vertrag",
+            "japanese": "新しいコントラクト",
+            "korean": "새 컨트랙트",
+            "mandarin": "新合约",
+            "spanish": "Nuevo contrato"
+        },
+        "notApplicable": {
+            "english": "Not Applicable",
+            "german": "Unzutreffend",
+            "japanese": "適用できません",
+            "korean": "해당 사항 없음",
+            "mandarin": "不适用",
+            "spanish": "No aplica"
+        },
+        "onYourBehalf": {
+            "english": "on your behalf",
+            "german": "in Ihrem Namen",
+            "japanese": "あなたに代わって",
+            "korean": "사용자를 대신하여",
+            "mandarin": "花费",
+            "spanish": "en su nombre"
+        },
+        "permission": {
+            "english": "Permission",
+            "german": "Genehmigung",
+            "japanese": "下記の内容を許可しますか",
+            "korean": "허가",
+            "mandarin": "允许",
+            "spanish": "Permiso"
+        },
+        "pleaseTopup1": {
+            "english": "Please",
+            "german": "Bitte",
+            "japanese": "お願いします",
+            "korean": "부디",
+            "mandarin": "请",
+            "spanish": "Por favor"
+        },
+        "pleaseTopup2": {
+            "english": "Top up",
+            "german": "Nachfüllen",
+            "japanese": "チャージ",
+            "korean": "다시 채우기",
+            "mandarin": "充值",
+            "spanish": "Completar"
+        },
+        "pleaseTopup3": {
+            "english": "your wallet",
+            "german": "deine Geldbörse",
+            "japanese": "あなたのウォレット",
+            "korean": "당신의 지갑",
+            "mandarin": "你的钱包",
+            "spanish": "tu billetera"
+        },
+        "rate": {
+            "english": "Rate",
+            "german": "Bewertung",
+            "japanese": "レート",
+            "korean": "비율",
+            "mandarin": "率",
+            "spanish": "Velocidad"
+        },
+        "requestFrom": {
+            "english": "Request from",
+            "german": "Anfrage von",
+            "japanese": "からのリクエスト",
+            "korean": "로부터 요청",
+            "mandarin": "要求",
+            "spanish": "Solicitud de"
+        },
+        "sendEth": {
+            "english": "Send ETH",
+            "german": "Senden Sie ETH",
+            "japanese": "ETHを送信",
+            "korean": "ETH 보내기",
+            "mandarin": "发送ETH",
+            "spanish": "Enviar ETH"
+        },
+        "sendTo": {
+            "english": "Send To",
+            "german": "Senden an",
+            "japanese": "送信先",
+            "korean": "보내기",
+            "mandarin": "发给",
+            "spanish": "Enviar a"
+        },
+        "thisApplication": {
+            "english": "This application is requesting for your digital signature.",
+            "german": "Diese Anwendung fordert Ihre digitale Signatur an.",
+            "japanese": "このアプリケーションは、デジタル署名を要求しています。",
+            "korean": "이 응용 프로그램은 디지털 서명을 요청하고 있습니다.",
+            "mandarin": "此应用程序正在请求您的数字签名。",
+            "spanish": "Esta aplicación solicita su firma digital."
+        },
+        "to": {
+            "english": "To",
+            "german": "Zu",
+            "japanese": "に",
+            "korean": "에",
+            "mandarin": "至",
+            "spanish": "A"
+        },
+        "toSpend": {
+            "english": "to spend",
+            "german": "ausgeben",
+            "japanese": "過ごす",
+            "korean": "지출",
+            "mandarin": "代表你",
+            "spanish": "gastar"
+        },
+        "total": {
+            "english": "Total",
+            "german": "Gesamt",
+            "japanese": "合計",
+            "korean": "합계",
+            "mandarin": "总",
+            "spanish": "Total"
+        },
+        "transaction": {
+            "english": "Transaction",
+            "german": "Transaktion",
+            "japanese": "トランザクション",
+            "korean": "트랜잭션",
+            "mandarin": "交易",
+            "spanish": "Transacción"
+        },
+        "transactionRequest": {
+            "english": "Transaction Request",
+            "german": "Transaktionsanfrage",
+            "japanese": "トランザクションリクエスト",
+            "korean": "트랜잭션 요청",
+            "mandarin": "交易要求",
+            "spanish": "Solicitud de transacción"
+        },
+        "transfer": {
+            "english": "Transfer",
+            "german": "Transfer",
+            "japanese": "転送",
+            "korean": "이전",
+            "mandarin": "传递",
+            "spanish": "Transferir"
+        },
+        "transferFrom": {
+            "english": "Transfer From",
+            "german": "Übertragen von",
+            "japanese": "からの転送",
+            "korean": "전송",
+            "mandarin": "从转移",
+            "spanish": "Transferido de"
+        },
+        "txGasUtil": {
+            "english": "TxGasUtil - Trying to call a function on a non-contract address",
+            "german": "TxGasUtil - Es wird versucht, eine Funktion für eine Adresse ohne Vertrag aufzurufen",
+            "japanese": "TxGasUtil - コントラクトアドレス以外で実行しようとしています。",
+            "korean": "TxGasUtil- 컨트랙트가 아닌 주소에서 함수 호출",
+            "mandarin": "TxGasUtil-尝试在非合同地址上调用函数",
+            "spanish": "TxGasUtil: intentar llamar a una función en una dirección sin contrato"
+        },
+        "type": {
+            "english": "Type",
+            "german": "Art",
+            "japanese": "タイプ",
+            "korean": "유형",
+            "mandarin": "类型",
+            "spanish": "Tipo"
+        },
+        "unknownNetwork": {
+            "english": "Unknown Network",
+            "german": "Unbekanntes Netzwerk",
+            "japanese": "不明なネットワーク",
+            "korean": "알수없는 네트워크",
+            "mandarin": "未知的网络",
+            "spanish": "Red desconocida"
+        },
+        "wallet": {
+            "english": "Wallet",
+            "german": "Brieftasche",
+            "japanese": "ウォレット",
+            "korean": "지갑",
+            "mandarin": "钱包",
+            "spanish": "Billetera"
+        },
+        "youSend": {
+            "english": "You send",
+            "german": "Du sendest",
+            "japanese": "送信額",
+            "korean": "보내기",
+            "mandarin": "您发送",
+            "spanish": "Usted envía"
         }
     }
 }

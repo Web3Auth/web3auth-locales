@@ -1,49 +1,49 @@
 {
   "nav": {
-    "link-apps": {
-      "mandarin": "授权应用",
-      "japanese": "認定アプリ",
-      "spanish": "Aplicaciones autorizadas",
-      "english": "Authorized Apps",
-      "german": "Autorisierte Apps",
-      "korean": "승인 된 앱",
-      "portuguese": "Aplicativos autorizados"
-    },
-    "link-home": {
-      "mandarin": "主页",
-      "japanese": "ホームページ",
-      "spanish": "página principal",
-      "english": "Home",
-      "german": "Startseite",
-      "korean": "홈페이지",
-      "portuguese": "Início"
-    },
-    "link-support": {
-      "mandarin": "支持",
-      "japanese": "サポート",
-      "spanish": "Apoyo",
-      "english": "Support",
-      "german": "Unterstützung",
-      "korean": "지원하다",
-      "portuguese": "Suporte"
-    },
     "link-account": {
-      "mandarin": "帐户",
-      "japanese": "アカウント",
-      "spanish": "Cuenta",
       "english": "Account",
       "german": "Konto",
+      "japanese": "アカウント",
       "korean": "계정",
-      "portuguese": "Conta"
+      "mandarin": "帐户",
+      "portuguese": "Conta",
+      "spanish": "Cuenta"
+    },
+    "link-apps": {
+      "english": "Authorized Apps",
+      "german": "Autorisierte Apps",
+      "japanese": "認定アプリ",
+      "korean": "승인 된 앱",
+      "mandarin": "授权应用",
+      "portuguese": "Aplicativos autorizados",
+      "spanish": "Aplicaciones autorizadas"
+    },
+    "link-home": {
+      "english": "Home",
+      "german": "Startseite",
+      "japanese": "ホームページ",
+      "korean": "홈페이지",
+      "mandarin": "主页",
+      "portuguese": "Início",
+      "spanish": "página principal"
     },
     "link-logout": {
-      "mandarin": "登出",
-      "japanese": "ログアウト",
-      "spanish": "Cerrar sesión",
       "english": "Logout",
       "german": "Ausloggen",
+      "japanese": "ログアウト",
       "korean": "로그 아웃",
-      "portuguese": "Sair"
+      "mandarin": "登出",
+      "portuguese": "Sair",
+      "spanish": "Cerrar sesión"
+    },
+    "link-support": {
+      "english": "Support",
+      "german": "Unterstützung",
+      "japanese": "サポート",
+      "korean": "지원하다",
+      "mandarin": "支持",
+      "portuguese": "Suporte",
+      "spanish": "Apoyo"
     }
   }
 }

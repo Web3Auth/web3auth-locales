@@ -1,2110 +1,2110 @@
 {
   "login": {
-    "2fa-verify-share-send": {
-      "mandarin": "发送请求",
-      "spanish": "Enviar petición",
-      "english": "Send request",
-      "japanese": "リクエストを送信",
-      "korean": "요청 보내기",
-      "german": "Anfrage senden",
-      "portuguese": "Enviar pedido"
-    },
-    "2fa-setup-step5-return-app": {
-      "mandarin": "返回申请",
-      "spanish": "Volver a la aplicación",
-      "english": "Return to application",
-      "japanese": "アプリケーションに戻る",
-      "korean": "애플리케이션으로 돌아가기",
-      "german": "Zurück zur Anwendung",
-      "portuguese": "Voltar ao aplicativo"
-    },
-    "2fa-setup-step3-sub21": {
-      "mandarin": "粘贴您发送到 {0} 的辅助短语",
-      "spanish": "Pegue su frase de recuperación enviada a {0}",
-      "english": "Paste your recovery phrase sent to {0}",
-      "japanese": "{0}に送信されたリカバリフレーズを貼り付けます",
-      "korean": "{0}(으)로 전송된 복구 문구를 붙여넣으세요.",
-      "german": "Fügen Sie Ihren Wiederherstellungssatz ein, der an {0} gesendet wurde",
-      "portuguese": "Cole sua frase de recuperação enviada para {0}"
-    },
-    "reconstruct-backup-phrase-desc-2": {
-      "mandarin": "确认已设置的备份集",
-      "spanish": "Compruebe el conjunto de copia de seguridad establecido",
-      "english": "Verify with your backup phrase that was setup on",
-      "japanese": "セットしたバックアップセットを確認する",
-      "korean": "설정된 백업 세트 확인",
-      "german": "Bestätigen Sie mit Ihrem Backup-Satz, der eingerichtet wurde",
-      "portuguese": "Verifique com sua frase de recuperação que foi configurada em"
-    },
-    "2fa-verify-share-subhead": {
-      "mandarin": "您需要以下其中一项才能登录",
-      "spanish": "Necesita uno de los siguientes para iniciar sesión",
-      "english": "You need one of the following to login",
-      "japanese": "ログインするには、次のいずれかが必要です",
-      "korean": "로그인하려면 다음 중 하나가 필요합니다.",
-      "german": "Sie benötigen eine der folgenden Möglichkeiten, um sich anzumelden",
-      "portuguese": "Você precisa de um dos seguintes para fazer login"
-    },
-    "reconstruct-biometrics-verify": {
-      "mandarin": "使用Touch ID / Face ID进行验证",
-      "spanish": "Verificar con Touch ID / Face ID",
-      "english": "Verify with Touch ID / Face ID",
-      "japanese": "Touch ID / FaceIDで確認する",
-      "korean": "Touch ID / Face ID로 확인",
-      "german": "Überprüfen Sie mit Touch ID / Face ID",
-      "portuguese": "Verificar com Touch ID / Face ID"
-    },
-    "reconstruct-multiple-transports-verify": {
-      "english": "Verify now",
-      "german": "Jetzt Prüfen",
-      "mandarin": "立即验证",
-      "korean": "지금 인증하십시오",
-      "japanese": "今すぐ確認してください",
-      "spanish": "Verifica ahora",
-      "portuguese": "Verifique agora"
-    },
-    "2fa-setup-step3-next": {
-      "mandarin": "继续",
-      "spanish": "Continuar",
-      "english": "Continue",
-      "japanese": "継続する",
-      "korean": "계속하다",
-      "german": "Weitermachen",
-      "portuguese": "Continuar"
-    },
-    "migrate-desc1": {
-      "mandarin": "最新版本的Torus Wallet由OpenLogin提供支持。",
-      "spanish": "La última versión de Torus Wallet funciona con OpenLogin.",
-      "english": "The latest version of Torus Wallet is powered by OpenLogin.",
-      "japanese": "Torus Walletの最新バージョンは、OpenLoginを利用しています。",
-      "korean": "최신 버전의 Torus Wallet은 OpenLogin으로 구동됩니다.",
-      "german": "Die neueste Version von Torus Wallet wird von OpenLogin unterstützt.",
-      "portuguese": "A versão mais recente do Torus Wallet é fornecida pelo OpenLogin."
-    },
-    "2fa-setup-title1": {
-      "mandarin": "保护您的帐户",
-      "spanish": "Asegure su cuenta",
-      "english": "Secure your account",
-      "japanese": "アカウントを保護する",
-      "korean": "계정 보안",
-      "german": "Sichern Sie Ihr Konto",
-      "portuguese": "Proteja sua conta"
-    },
-    "register-password-title": {
-      "mandarin": "设置帐号密码",
-      "spanish": "Configurar la contraseña de la cuenta",
-      "english": "Set up account password",
-      "japanese": "アカウントのパスワードを設定する",
-      "korean": "계정 비밀번호 설정",
-      "german": "Richten Sie das Kontokennwort ein",
-      "portuguese": "Configurar senha da conta"
-    },
-    "reconstruct-support": {
-      "mandarin": "联系支持",
-      "spanish": "Soporte de contacto",
-      "english": "Contact support",
-      "japanese": "サポート問い合わせ先",
-      "korean": "연락처 지원",
-      "german": "Kontaktieren Sie Support",
-      "portuguese": "Entre em contato com o suporte"
-    },
-    "returning-sign-in-header1": {
-      "mandarin": "使用其他帐户",
-      "spanish": "Usa otra cuenta",
-      "english": "Use another account",
-      "japanese": "別のアカウントを使用する",
-      "korean": "다른 계정 사용",
-      "german": "Benutze einen anderen Account",
-      "portuguese": "Usar outra conta"
-    },
-    "2fa-verify-multi-head": {
-      "mandarin": "允许从您保存的浏览器访问",
-      "spanish": "Permitir el acceso desde su navegador guardado",
-      "english": "Allow access from your saved browser",
-      "japanese": "保存したブラウザからのアクセスを許可する",
-      "korean": "저장된 브라우저에서 액세스 허용",
-      "german": "Erlauben Sie den Zugriff von Ihrem gespeicherten Browser",
-      "portuguese": "Permita o acesso do seu navegador salvo"
-    },
-    "social-2fa-subtitle-1": {
-      "mandarin": "用任何社会帐户登录将其设置为恢复因素",
-      "spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación",
-      "english": "Login with any of the social account to set it as recovery factor",
-      "japanese": "ソーシャルアカウントのいずれかでログインして、回復要因として設定します",
-      "korean": "소셜 계정에 로그인하여 복구 팩터로 설정",
-      "german": "Melden Sie sich mit einem der sozialen Konto an, um es als Wiederherstellungsfaktor festzulegen",
-      "portuguese": "Faça login com qualquer conta social para defini-la como fator de recuperação"
-    },
-    "social-2fa-warning-text": {
-      "mandarin": "您正在使用同一电子邮件进行帐户登录和社会因素。这是不安全的。您还想继续吗？",
-      "spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?",
-      "english": "You are using the same email for account login and social factor. This is insecure. Would you still like to proceed?",
-      "japanese": "アカウントログインとソーシャルファクターに同じメールを使用しています。これは不安です。まだ進みたいですか？",
-      "korean": "계정 로그인 및 소셜 팩터에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않은 설정입니다만, 그래도 진행하시겠습니까?",
-      "german": "Sie verwenden dieselbe E -Mail für Kontoanmeldung und sozialer Faktor. Das ist unsicher. Möchten Sie immer noch fortfahren?",
-      "portuguese": "Você está usando o mesmo e-mail para login da conta e fator social. Isso é inseguro. Você ainda gostaria de prosseguir?"
-    },
-    "2fa-setup-step3-download-phrase": {
-      "mandarin": "下载短语",
-      "spanish": "Descargar frase",
-      "english": "Download phrase",
-      "japanese": "フレーズをダウンロード",
-      "korean": "구문 다운로드",
-      "german": "Redewendung herunterladen",
-      "portuguese": "Baixar frase"
-    },
-    "2fa-setup-step1-sub2": {
-      "mandarin": "为您的帐户添加额外的安全层",
-      "spanish": "Agregue una capa adicional de seguridad a su cuenta",
-      "english": "Add an extra layer of security to your account",
-      "japanese": "アカウントにセキュリティの層を追加します",
-      "korean": "계정에 보안 레이어 추가",
-      "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu",
-      "portuguese": "Adicione uma camada extra de segurança à sua conta"
-    },
-    "2fa-verify-title2": {
-      "mandarin": "2FA 激活",
-      "spanish": "2FA activado",
-      "english": "2FA activated",
-      "japanese": "2FAがアクティブ化",
-      "korean": "2FA 활성화",
-      "german": "2FA aktiviert",
-      "portuguese": "2FA ativado"
-    },
-    "2fa-setup-step5-next": {
-      "mandarin": "完毕",
-      "spanish": "Hecho",
-      "english": "Done",
-      "japanese": "終わり",
-      "korean": "완료",
-      "german": "Fertig",
-      "portuguese": "Feito"
-    },
-    "reconstruct-fail": {
-      "mandarin": "无法找回帐户？",
-      "spanish": "¿No puede recuperar la cuenta?",
-      "english": "Unable to recover account?",
-      "japanese": "アカウントを回復できませんか？",
-      "korean": "계정을 복구 할 수 없습니까?",
-      "german": "Konto kann nicht wiederhergestellt werden?",
-      "portuguese": "Não é possível recuperar a conta?"
-    },
-    "2fa-setup-step2-sub2": {
-      "mandarin": "使用当前浏览器批准来自新设备/浏览器的访问。",
-      "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.",
-      "english": "Use the current browser to approve access from new devices/browsers.",
-      "japanese": "現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。",
-      "korean": "현재 브라우저를 사용하여 새 디바이스/브라우저에서 액세스를 승인합니다.",
-      "german": "Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen.",
-      "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores."
-    },
-    "reconstruct-device-desc1": {
-      "mandarin": "登录到",
-      "spanish": "Iniciar sesión en",
-      "english": "Login to",
-      "japanese": "ログインする",
-      "korean": "로그인",
-      "german": "Einloggen in",
-      "portuguese": "Logar em"
-    },
-    "migrate-title": {
-      "mandarin": "变得简单而安全",
-      "spanish": "hecho simple y seguro con",
-      "english": "made simple and secure with",
-      "japanese": "シンプルで安全に",
-      "korean": "간단하고 안전하게",
-      "german": "einfach und sicher gemacht mit",
-      "portuguese": "simples e seguro com"
-    },
-    "social-2fa-warn-text-2": {
-      "mandarin": "在登录页面上使用此社交因素签名将为您提供一个新帐户。",
-      "spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta.",
-      "english": "Signing in with this Social factor at the login page will give you a new account.",
-      "japanese": "ログインページでこのソーシャルファクターにサインインすると、新しいアカウントが提供されます。",
-      "korean": "로그인 페이지에서 이 소셜 팩터에 로그인하면 새 계정이 제공됩니다.",
-      "german": "Wenn Sie sich bei diesem sozialen Faktor auf der Anmeldeseite anmelden, erhalten Sie ein neues Konto.",
-      "portuguese": "Entrar com este fator social na página de login lhe dará uma nova conta."
-    },
-    "reconstruct-always-skip": {
-      "mandarin": "总是跳过",
-      "spanish": "Saltar siempre",
-      "english": "Always skip",
-      "japanese": "常にスキップする",
-      "korean": "항상 건너뛰기",
-      "german": "Immer überspringen",
-      "portuguese": "Sempre pular"
-    },
-    "2fa-setup-step1-desc21": {
-      "mandarin": "我们强烈建议为像您这样的活跃用户设置 2FA。",
-      "spanish": "Recomendamos encarecidamente una configuración 2FA para un usuario activo como usted.",
-      "english": "We highly recommend a 2FA set up for an active user like yourself.",
-      "japanese": "あなたのようなアクティブユーザーには2FAを設定することを強くお勧めします。",
-      "korean": "귀하와 같은 활성 사용자를 위해 2FA 설정을 적극 권장합니다.",
-      "german": "Wir empfehlen dringend ein 2FA-Setup für einen aktiven Benutzer wie Sie.",
-      "portuguese": "Recomendamos fortemente uma configuração 2FA para um usuário ativo como você."
-    },
-    "2fa-setup-step3-copy-phrase": {
-      "mandarin": "复制短语",
-      "spanish": "Copiar frase",
-      "english": "Copy phrase",
-      "japanese": "フレーズをコピーする",
-      "korean": "문구 복사",
-      "german": "Satz kopieren",
-      "portuguese": "Copiar frase"
-    },
-    "2fa-verify-recovery-placeholder": {
-      "mandarin": "恢复短语",
-      "spanish": "Frase de recuperación",
-      "english": "Recovery phrase",
-      "japanese": "回復フレーズ",
-      "korean": "복구 문구",
-      "german": "Wiederherstellungsphrase",
-      "portuguese": "Frase de recuperação"
-    },
-    "2fa-verify-share-resend": {
-      "mandarin": "重新发送请求",
-      "spanish": "Reenviar solicitud",
-      "english": "Resend request",
-      "japanese": "再送信リクエスト",
-      "korean": "재전송 요청",
-      "german": "Anfrage erneut senden",
-      "portuguese": "Reenviar solicitação"
-    },
-    "reconstruct-password-desc": {
-      "mandarin": "在此处输入您的帐户恢复密码",
-      "spanish": "Ingrese la contraseña de recuperación de su cuenta aquí",
-      "english": "Enter your account recovery password here",
-      "japanese": "ここにアカウント回復パスワードを入力してください",
-      "korean": "여기에 계정 복구 비밀번호를 입력하세요.",
-      "german": "Geben Sie hier Ihr Passwort für die Kontowiederherstellung ein",
-      "portuguese": "Digite sua senha de recuperação de conta aqui"
-    },
-    "2fa-setup-step3-cancel": {
-      "mandarin": "后退",
-      "spanish": "atrás",
-      "english": "Back",
-      "japanese": "戻る",
-      "korean": "뒤",
-      "german": "Zurück",
-      "portuguese": "Voltar"
-    },
-    "2fa-verify-step1-panel2": {
-      "mandarin": "恢复短语",
-      "spanish": "Frase de recuperación",
-      "english": "Recovery phrase",
-      "japanese": "回復フレーズ",
-      "korean": "복구 문구",
-      "german": "Wiederherstellungsphrase",
-      "portuguese": "Frase de recuperação"
-    },
-    "popup-title": {
-      "mandarin": "欢迎登机",
-      "spanish": "La bienvenida a bordo",
-      "english": "Welcome onboard",
-      "japanese": "ご乗車（搭乗）ありがとうございます",
-      "korean": "보드에 오신 것을 환영합니다",
-      "german": "Willkommen an Bord",
-      "portuguese": "Bem-vindo a bordo"
-    },
-    "2fa-setup-step5-sub2": {
-      "mandarin": "在 app.openlogin.com 上管理未来的帐户设置",
-      "spanish": "Administre la configuración de la cuenta futura en app.openlogin.com",
-      "english": "Manage future account settings on app.openlogin.com",
-      "japanese": "app.openlogin.comで将来のアカウント設定を管理します",
-      "korean": "app.openlogin.com에서 향후 계정 설정 관리",
-      "german": "Verwalten Sie zukünftige Kontoeinstellungen auf app.openlogin.com",
-      "portuguese": "Gerencie as configurações futuras da conta em app.openlogin.com"
-    },
-    "reconstruct-password-placeholder": {
-      "mandarin": "户口密码",
-      "spanish": "Contraseña de la cuenta",
-      "english": "Account password",
-      "japanese": "アカウントパスワード",
-      "korean": "계정 비밀번호",
-      "german": "Konto Passwort",
-      "portuguese": "Senha da conta"
-    },
-    "reconstruct-device-title": {
-      "mandarin": "设备",
-      "spanish": "Dispositivos",
-      "english": "Device(s)",
-      "japanese": "デバイス",
-      "korean": "디바이스",
-      "german": "Geräte",
-      "portuguese": "Dispositivo(s)"
-    },
-    "2fa-verify-recovery-title": {
-      "mandarin": "恢复代码",
-      "spanish": "Código de recuperación",
-      "english": "Recovery code",
-      "japanese": "リカバリコード",
-      "korean": "복구 코드",
-      "german": "Wiederherstellungscode",
-      "portuguese": "Código de recuperação"
-    },
-    "migrate-list1": {
-      "mandarin": "支持面部识别/触摸识别",
-      "spanish": "Soporta Face ID / Touch ID",
-      "english": "Supports Face ID / Touch ID",
-      "japanese": "Face ID / TouchIDをサポート",
-      "korean": "Face ID / Touch ID 지원",
-      "german": "Unterstützt Face ID / Touch ID",
-      "portuguese": "Suporta Face ID / Touch ID"
-    },
-    "register-biometrics-title": {
-      "mandarin": "继续使用Face ID或Touch ID",
-      "spanish": "Continuar con Face ID o Touch ID",
-      "english": "Continue with Face ID or Touch ID",
-      "japanese": "FaceIDまたはTouchIDに進む",
-      "korean": "Face ID 또는 Touch ID로 계속",
-      "german": "Fahren Sie mit Face ID oder Touch ID fort",
-      "portuguese": "Continue com Face ID ou Touch ID"
-    },
-    "register-multiple-transports-webauthn-title": {
-      "english": "Continue with Biometrics or any Web Authentication Methods",
-      "german": "Fahren Sie mit Biometrie oder Webauthentifizierungsmethoden fort",
-      "mandarin": "继续使用生物识别技术或任何Web身份验证方法",
-      "korean": "생체 인식 또는 웹 인증 방법을 계속하십시오",
-      "japanese": "生体認証またはWeb認証方法を継続します",
-      "spanish": "Continuar con biometría o cualquier método de autenticación web",
-      "portuguese": "Continue com a biometria ou qualquer método de autenticação da Web"
-    },
-    "register-external-transports-webauthn-title": {
-      "english": "Continue with any Web Authentication Methods",
-      "german": "Fahren Sie mit allen Webauthentifizierungsmethoden fort",
-      "mandarin": "继续使用任何Web身份验证方法",
-      "korean": "웹 인증 방법을 계속하십시오",
-      "japanese": "Web認証方法を続行します",
-      "spanish": "Continuar con cualquier método de autenticación web",
-      "portuguese": "Continue com qualquer método de autenticação da web"
-    },
-    "popup-view-more": {
-      "mandarin": "查看更多选项",
-      "spanish": "Ver más opciones",
-      "english": "View more options",
-      "japanese": "その他のオプションを表示",
-      "korean": "더 많은 옵션보기",
-      "german": "Weitere Optionen anzeigen",
-      "portuguese": "Ver mais opções"
-    },
-    "returning-confirm-title": {
-      "mandarin": "我们只是想确定一下。",
-      "spanish": "Solo queremos estar seguros.",
-      "english": "We just want to be sure.",
-      "japanese": "確認したいだけです。",
-      "korean": "우리는 확신하고 싶습니다.",
-      "german": "Wir wollen nur sicher sein.",
-      "portuguese": "Só queremos ter certeza."
-    },
-    "migrate-subtitle": {
-      "mandarin": "迁移您的tKey",
-      "spanish": "Migrar su tKey",
-      "english": "Migrating your tKey",
-      "japanese": "tKeyの移行",
-      "korean": "tKey 마이그레이션",
-      "german": "Migrieren Sie Ihren tKey",
-      "portuguese": "Migrando sua tKey"
-    },
-    "2fa-setup-step4-recovery": {
-      "mandarin": "恢复短语",
-      "spanish": "Frase de recuperación",
-      "english": "Recovery phrase",
-      "japanese": "回復フレーズ",
-      "korean": "복구 문구",
-      "german": "Wiederherstellungsphrase",
-      "portuguese": "Frase de recuperação"
-    },
-    "reconstruct-device-prev1": {
-      "mandarin": "登录到您的",
-      "spanish": "Inicie sesión en su",
-      "english": "Login to your",
-      "japanese": "あなたのログイン",
-      "korean": "귀하의",
-      "german": "Melden Sie sich bei Ihrem an",
-      "portuguese": "Entre no seu"
-    },
-    "register-backup-phrase-confirm-desc3": {
-      "mandarin": "重新输入辅助邮箱",
-      "spanish": "vuelve a ingresar el correo de recuperación",
-      "english": "re-enter recovery email",
-      "japanese": "リカバリメールを再入力してください",
-      "korean": "복구 이메일 다시 입력",
-      "german": "wiederherstellungs-E-Mail erneut eingeben",
-      "portuguese": "digite novamente o e-mail de recuperação"
-    },
-    "2fa-verify-step1-rec-label": {
-      "mandarin": "输入恢复短语",
-      "spanish": "Ingrese la frase de recuperación",
-      "english": "Enter recovery phrase",
-      "japanese": "回復フレーズを入力してください",
-      "korean": "복구 문구 입력",
-      "german": "Geben Sie den Wiederherstellungssatz ein",
-      "portuguese": "Digite a frase de recuperação"
-    },
-    "migrate-continue": {
-      "mandarin": "继续",
-      "spanish": "Continuar",
-      "english": "Continue",
-      "japanese": "継続する",
-      "korean": "계속하다",
-      "german": "Fortsetzen",
-      "portuguese": "Continuar"
-    },
-    "2fa-setup-step3-enter-email": {
-      "mandarin": "输入你的电子邮箱地址",
-      "spanish": "Ingrese su dirección de correo electrónico",
-      "english": "Enter your email address",
-      "japanese": "メールアドレスを入力してください",
-      "korean": "이메일 주소를 입력하세요",
-      "german": "Geben sie ihre E-Mailadresse ein",
-      "portuguese": "Insira o seu endereço de email"
-    },
-    "reconstruct-password-title": {
-      "mandarin": "找回密码",
-      "spanish": "Contraseña de recuperación",
-      "english": "Recovery password",
-      "japanese": "回復パスワード",
-      "korean": "복구 암호",
-      "german": "Passwort zum Zurücksetzen",
-      "portuguese": "Senha de recuperação"
-    },
-    "2fa-setup-step5-sub1": {
-      "mandarin": "您的 2FA 已激活！",
-      "spanish": "¡Su 2FA ha sido activado!",
-      "english": "Your 2FA has been activated!",
-      "japanese": "2FAがアクティブになりました！",
-      "korean": "2FA가 활성화되었습니다!",
-      "german": "Ihre 2FA wurde aktiviert!",
-      "portuguese": "Seu 2FA foi ativado!"
-    },
-    "2fa-setup-title32": {
-      "mandarin": "第 3 步：验证恢复短语",
-      "spanish": "Paso 3: Verificar la frase de recuperación",
-      "english": "Step 3: Verify Recovery Phrase",
-      "japanese": "ステップ3：リカバリフレーズを確認する",
-      "korean": "3단계: 복구 문구 확인",
-      "german": "Schritt 3: Überprüfen Sie die Wiederherstellungsphrase",
-      "portuguese": "Etapa 3: verificar a frase de recuperação"
-    },
-    "2fa-setup-step3-verified": {
-      "mandarin": "已验证",
-      "spanish": "Verificado",
-      "english": "Verified",
-      "japanese": "確認済み",
-      "korean": "확인됨",
-      "german": "Verifiziert",
-      "portuguese": "Verificado"
-    },
-    "register-backup-phrase-additional-security-desc2": {
-      "mandarin": "如果您丢失带有 Touch ID / Face ID 的设备，它可以帮助您恢复帐户。",
-      "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID.",
-      "english": "It helps you with account recovery in case you lose your device with Touch ID / Face ID.",
-      "japanese": "Touch ID / Face ID でデバイスを紛失した場合のアカウント回復に役立ちます。",
-      "korean": "Touch ID / Face ID가 있는 디바이스를 분실 한 경우 계정 복구에 도움이됩니다.",
-      "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät mit Touch ID / Face ID verlieren.",
-      "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo com Touch ID / Face ID."
-    },
-    "2fa-setup-title2": {
-      "mandarin": "设置 2FA",
-      "spanish": "Configurar 2FA",
-      "english": "Set up 2FA",
-      "japanese": "2FAを設定する",
-      "korean": "2FA 설정",
-      "german": "2FA einrichten",
-      "portuguese": "Configurar 2FA"
-    },
-    "2fa-verify-verify": {
-      "mandarin": "核实",
-      "spanish": "Verificar",
-      "english": "Verify",
-      "japanese": "確認",
-      "korean": "검증",
-      "german": "Verifizieren",
-      "portuguese": "Verificar"
-    },
-    "2fa-setup-step3-enter-recovery": {
-      "mandarin": "输入您的辅助短语",
-      "spanish": "Introduce tu frase de recuperación",
-      "english": "Enter your recovery phrase",
-      "japanese": "回復フレーズを入力してください",
-      "korean": "복구 문구를 입력하세요",
-      "german": "Geben Sie Ihren Wiederherstellungssatz ein",
-      "portuguese": "Digite sua frase de recuperação"
-    },
-    "social-2fa-heading": {
-      "mandarin": "设定社会恢复因素",
-      "spanish": "Establecer factor de recuperación social",
-      "english": "Set Social recovery factor",
-      "japanese": "社会的回復要因を設定します",
-      "korean": "소셜 복구 요인을 설정하십시오",
-      "german": "Setzen Sie den sozialen Genesungsfaktor",
-      "portuguese": "Definir fator de recuperação social"
-    },
-    "mpc-2fa-verify-step1-rec-label": {
-      "mandarin": "输入恢复系数",
-      "spanish": "Ingrese el factor de recuperación",
-      "english": "Enter recovery factor",
-      "japanese": "回復係数を入力してください",
-      "korean": "복구 팩터 입력",
-      "german": "Erholungsfaktor eingeben",
-      "portuguese": "Insira o fator de recuperação"
-    },
-    "reconstruct-device-desc": {
-      "mandarin": "从下面存储的浏览器登录到{0}以验证您的身份。",
-      "spanish": "Inicie sesión en {0} desde el navegador almacenado a continuación para verificar su identidad.",
-      "english": "Login to {0} from the stored browser below to verify your identity.",
-      "japanese": "以下の保存されているブラウザから{0}にログインして、本人確認を行ってください。",
-      "korean": "아래 저장된 브라우저에서 {0}에 로그인하여 신원을 확인하세요.",
-      "german": "Melden Sie sich über den unten gespeicherten Browser bei {0} an, um Ihre Identität zu überprüfen.",
-      "portuguese": "Faça login em {0} no navegador armazenado abaixo para verificar sua identidade."
-    },
-    "2fa-setup-step2-current-browser": {
-      "mandarin": "当前浏览器",
-      "spanish": "Navegador actual",
-      "english": "Current browser",
-      "japanese": "現在のブラウザ",
-      "korean": "현재 브라우저",
-      "german": "Aktueller Browser",
-      "portuguese": "Navegador atual"
-    },
-    "2fa-setup-step4-cancel": {
-      "mandarin": "后退",
-      "spanish": "atrás",
-      "english": "Back",
-      "japanese": "戻る",
-      "korean": "뒤",
-      "german": "Zurück",
-      "portuguese": "Voltar"
-    },
-    "social-2fa-view-less": {
-      "mandarin": "少查看",
-      "spanish": "Ver menos",
-      "english": "View less",
-      "japanese": "表示が少なくなります",
-      "korean": "덜보십시오",
-      "german": "Weniger anzeigen",
-      "portuguese": "Ver menos"
-    },
-    "2fa-verify-success-title": {
-      "mandarin": "2FA 验证",
-      "spanish": "2FA verificado",
-      "english": "2FA verified",
-      "japanese": "2FA検証済み",
-      "korean": "2FA 인증",
-      "german": "2FA verifiziert",
-      "portuguese": "2FA verificado"
-    },
-    "popup-terms": {
-      "mandarin": "使用条款",
-      "spanish": "Condiciones de uso",
-      "english": "Terms of use",
-      "japanese": "利用規約",
-      "korean": "이용 약관",
-      "german": "Nutzungsbedingungen",
-      "portuguese": "Termos de uso"
-    },
-    "migrate-list3": {
-      "mandarin": "受保护的用户数据和隐私",
-      "spanish": "Privacidad y datos de usuario protegidos",
-      "english": "Protected user Data and Privacy",
-      "japanese": "保護されたユーザーデータとプライバシー",
-      "korean": "보호 된 사용자 데이터 및 개인 정보",
-      "german": "Geschützte Benutzerdaten und Datenschutz",
-      "portuguese": "Dados e privacidade protegidos do usuário"
-    },
-    "popup-continue": {
-      "mandarin": "继续",
-      "spanish": "Continuar",
-      "english": "Continue",
-      "japanese": "継続する",
-      "korean": "계속하다",
-      "german": "Fortsetzen",
-      "portuguese": "Continuar"
-    },
-    "reconstruct-backup-phrase-title": {
-      "mandarin": "备用词组",
-      "spanish": "Frase de respaldo",
-      "english": "Backup phrase",
-      "japanese": "バックアップフレーズ",
-      "korean": "백업 문구",
-      "german": "Sicherungssatz",
-      "portuguese": "Frase de backup"
-    },
-    "2fa-verify-save-nosave": {
-      "mandarin": "下次吧",
-      "spanish": "Quizás la próxima vez",
-      "english": "Maybe next time",
-      "japanese": "また今度",
-      "korean": "다음 번에",
-      "german": "Vielleicht nächstes Mal",
-      "portuguese": "Talvez na próxima vez"
-    },
-    "2fa-setup-step2-save-device": {
-      "mandarin": "保存当前设备",
-      "spanish": "Guardar dispositivo actual",
-      "english": "Save current device",
-      "japanese": "現在のデバイスを保存",
-      "korean": "현재 디바이스 저장",
-      "german": "Aktuelles Gerät speichern",
-      "portuguese": "Salvar dispositivo atual"
-    },
-    "2fa-setup-step4-sub22": {
-      "mandarin": "粘贴发送到您的电子邮件的恢复短语 {0}",
-      "spanish": "Pega la frase de recuperación enviada a tu correo electrónico {0}",
-      "english": "Paste the recovery phrase sent to your email {0}",
-      "japanese": "メールに送信されたリカバリフレーズを貼り付けます{0}",
-      "korean": "이메일로 전송된 복구 문구를 붙여넣으세요 {0}",
-      "german": "Fügen Sie den Wiederherstellungssatz ein, der an Ihre E-Mail-Adresse {0} gesendet wurde.",
-      "portuguese": "Cole a frase de recuperação enviada para seu e-mail {0}"
-    },
-    "returning-sign-in-header2": {
-      "mandarin": "您似乎尚未登录帐户",
-      "spanish": "Parece que aún no ha iniciado sesión en una cuenta",
-      "english": "It seems like you are not signed in to an account yet",
-      "japanese": "アカウントにまだサインインしていないようです",
-      "korean": "아직 계정에 로그인하지 않은 것 같습니다.",
-      "german": "Anscheinend bist du noch nicht bei einem Konto angemeldet",
-      "portuguese": "Parece que você ainda não está conectado a uma conta"
-    },
-    "register-backup-phrase-confirm-desc1": {
-      "mandarin": "我确认我已收到恢复电子邮件。",
-      "spanish": "Confirmo que he recibido el correo de recuperación.",
-      "english": "I confirm that I have received the recovery email.",
-      "japanese": "復旧メールを受信したことを確認しました。",
-      "korean": "我确认我已收到恢复电子邮件。",
-      "german": "Ich bestätige, dass ich die Wiederherstellungs-E-Mail erhalten habe.",
-      "portuguese": "Confirmo que recebi o e-mail de recuperação."
-    },
-    "2fa-verify-recovery-label": {
-      "mandarin": "输入恢复短语",
-      "spanish": "Ingrese la frase de recuperación",
-      "english": "Enter recovery phrase",
-      "japanese": "回復フレーズを入力してください",
-      "korean": "복구 문구 입력",
-      "german": "Geben Sie den Wiederherstellungssatz ein",
-      "portuguese": "Digite a frase de recuperação"
-    },
-    "constructYourKey": {
-      "mandarin": "构建您的密钥",
-      "spanish": "Construyendo tu clave en",
-      "english": "Constructing your key on",
-      "japanese": "キーを作成する",
-      "korean": "키 구성",
-      "german": "Bauen Sie Ihren Schlüssel auf",
-      "portuguese": "Construindo sua chave em"
-    },
-    "2fa-verify-save-head": {
-      "mandarin": "帐户已恢复",
-      "spanish": "Cuenta recuperada",
-      "english": "Account recovered",
-      "japanese": "アカウントが回復しました",
-      "korean": "계정 복구됨",
-      "german": "Konto wiederhergestellt",
-      "portuguese": "Conta recuperada"
-    },
-    "register-backup-phrase-desc": {
-      "mandarin": "包含备用短语的电子邮件将发送给您。如果您丢失了设备，它将帮助您进行帐户恢复。",
-      "spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
-      "english": "An email will be sent to you containing the backup phrase. It helps you with account recovery in case you lose your device.",
-      "japanese": "バックアップフレーズを記載したメールが送信されます。デバイスを紛失した場合のアカウントの復旧に役立ちます。",
-      "korean": "백업 문구가 포함 된 이메일이 전송됩니다. 디바이스 분실시 계정 복구에 도움이 됩니다.",
-      "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase. Sie hilft Ihnen bei der Wiederherstellung des Kontos, falls Sie Ihr Gerät verlieren.",
-      "portuguese": "Um e-mail será enviado para você contendo a frase de backup. Ele ajuda na recuperação da conta caso você perca seu dispositivo."
-    },
-    "2fa-setup-step3-note11": {
-      "mandarin": "笔记：",
-      "spanish": "Nota:",
-      "english": "Note:",
-      "japanese": "ノート：",
-      "korean": "메모:",
-      "german": "Notiz:",
-      "portuguese": "Observação:"
-    },
-    "verifier-webauth-desc": {
-      "mandarin": "继续使用WebAuthn",
-      "spanish": "Continuar con WebAuthn",
-      "english": "Continue with WebAuthn",
-      "japanese": "WebAuthnを続行します",
-      "korean": "WebAuthn으로 계속",
-      "german": "Fahren Sie mit WebAuthn fort",
-      "portuguese": "Continuar com WebAuthn"
-    },
-    "2fa-setup-step4-not-received": {
-      "mandarin": "没有收到吗？",
-      "spanish": "¿No lo recibiste?",
-      "english": "Did not receive it?",
-      "japanese": "受け取りませんでしたか？",
-      "korean": "받지 못하셨나요?",
-      "german": "Nicht erhalten?",
-      "portuguese": "Não recebeu?"
-    },
-    "reconstruct-biometrics-title": {
-      "mandarin": "支持面部识别/触摸识别的设备*",
-      "spanish": "Dispositivos habilitados con Face ID / Touch ID *",
-      "english": "Face ID / Touch ID enabled device(s) *",
-      "japanese": "Face ID / TouchID対応デバイス*",
-      "korean": "Face ID / Touch ID 지원 디바이스 *",
-      "german": "Face ID / Touch ID-fähige Geräte *",
-      "portuguese": "Dispositivo(s) habilitado(s) para Face ID / Touch ID*"
-    },
-    "reconstruct-multiple-transports-title": {
-      "english": "Web Authentication Enabled Device(s)",
-      "german": "Webauthentifizierung aktiviertes Geräte (en)",
-      "mandarin": "Web身份验证启用设备",
-      "korean": "웹 인증 활성화 디바이스",
-      "japanese": "Web認証有効化デバイス",
-      "spanish": "Dispositivo (s) de autenticación web",
-      "portuguese": "Dispositivo(s) habilitado(s) para utenticação da Web"
-    },
-    "returning-sign-in-desc": {
-      "mandarin": "继续执行以下操作之一以继续",
-      "spanish": "Continúe con uno de los siguientes para continuar",
-      "english": "Continue with one of the following to proceed",
-      "japanese": "次のいずれかを続行して続行します",
-      "korean": "계속하려면 다음 중 하나를 계속하십시오.",
-      "german": "Fahren Sie mit einem der folgenden Schritte fort, um fortzufahren",
-      "portuguese": "Continue com um dos seguintes"
-    },
-    "2fa-verify-step1-sub2": {
-      "mandarin": "您需要以下其中一项才能登录",
-      "spanish": "Necesita uno de los siguientes para iniciar sesión",
-      "english": "You need one of the following to login",
-      "japanese": "ログインするには、次のいずれかが必要です",
-      "korean": "로그인하려면 다음 중 하나가 필요합니다.",
-      "german": "Sie benötigen eine der folgenden Möglichkeiten, um sich anzumelden",
-      "portuguese": "Você precisa de um dos seguintes para fazer login"
-    },
-    "2fa-setup-step3-email": {
-      "mandarin": "电子邮件",
-      "spanish": "Correo electrónico",
-      "english": "Email",
-      "japanese": "Eメール",
-      "korean": "이메일",
-      "german": "Email",
-      "portuguese": "E-mail"
-    },
-    "2fa-setup-title4": {
-      "mandarin": "恢复验证",
-      "spanish": "Verificación de recuperación",
-      "english": "Recovery verification",
-      "japanese": "回復の検証",
-      "korean": "복구 확인",
-      "german": "Wiederherstellungsüberprüfung",
-      "portuguese": "Verificação de recuperação"
-    },
-    "2fa-setup-step4-resend": {
-      "mandarin": "重发",
-      "spanish": "Reenviar",
-      "english": "Resend",
-      "japanese": "再送",
-      "korean": "재전송",
-      "german": "Erneut senden",
-      "portuguese": "Reenviar"
-    },
-    "2fa-setup-step1-sub1": {
-      "mandarin": "启用 2 因素身份验证 (2FA)",
-      "spanish": "Habilitar la autenticación de 2 factores (2FA)",
-      "english": "Enable 2 Factor Authentication (2FA)",
-      "japanese": "2要素認証（2FA）を有効にする",
-      "korean": "2단계 인증(2FA) 활성화",
-      "german": "2-Faktor-Authentifizierung (2FA) aktivieren",
-      "portuguese": "Ativar autenticação de 2 fatores (2FA)"
-    },
-    "2fa-verify-multi-title": {
-      "mandarin": "{0} 台设备可用",
-      "spanish": "{0} dispositivos disponibles",
-      "english": "{0} devices available",
-      "japanese": "利用可能な{0}デバイス",
-      "korean": "사용 가능한 디바이스 {0}대",
-      "german": "{0} Geräte verfügbar",
-      "portuguese": "{0} dispositivos disponíveis"
-    },
-    "start": {
-      "mandarin": "开始使用",
-      "spanish": "Empezar",
-      "english": "Get Started",
-      "japanese": "はじめに",
-      "korean": "시작하다",
-      "german": "Loslegen",
-      "portuguese": "Começar"
-    },
-    "2fa-setup-step4-sub1": {
-      "mandarin": "验证您的恢复短语",
-      "spanish": "Verifica tu frase de recuperación",
-      "english": "Verify your recovery phrase",
-      "japanese": "回復フレーズを確認する",
-      "korean": "복구 문구 확인",
-      "german": "Bestätigen Sie Ihren Wiederherstellungssatz",
-      "portuguese": "Verifique sua frase de recuperação"
-    },
-    "popup-already": {
-      "mandarin": "已经有账户？",
-      "spanish": "¿Ya tienes una cuenta?",
-      "english": "Already have an account?",
-      "japanese": "すでにアカウントをお持ちですか？",
-      "korean": "이미 계정이 있습니까?",
-      "german": "Sie haben bereits ein Konto?",
-      "portuguese": "Já possui uma conta?"
-    },
-    "social-2fa-continue-text": {
-      "mandarin": "选择您喜欢如何继续",
-      "spanish": "Seleccione cómo le gusta continuar",
-      "english": "Select how you like to continue",
-      "japanese": "続行する方法を選択してください",
-      "korean": "계속하는 방법을 선택하십시오",
-      "german": "Wählen Sie, wie Sie fortfahren möchten",
-      "portuguese": "Selecione como você gostaria de continuar"
-    },
-    "social-2fa-view-more": {
-      "mandarin": "查看更多",
-      "spanish": "Ver más",
-      "english": "View more",
-      "japanese": "もっと見る",
-      "korean": "더보기",
-      "german": "Mehr sehen",
-      "portuguese": "Veja mais"
-    },
-    "2fa-setup-step3-confirm-phrase": {
-      "mandarin": "作为高级用户，我知道如果我丢失了此恢复短语，我将承担丢失帐户的风险。",
-      "spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta.",
-      "english": "As an advanced user, I know that if I lose this recovery phrase, I bear the risk of losing my account.",
-      "japanese": "上級ユーザーとして、この回復フレーズを失うと、アカウントを失うリスクがあることを私は知っています。",
-      "korean": "숙련된 사용자로서 나는 이 복구 문구를 잃어버리면 내 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
-      "german": "Als fortgeschrittener Benutzer weiß ich, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",
-      "portuguese": "Como usuário avançado, sei que, se perder esta frase de recuperação, corro o risco de perder minha conta."
-    },
     "2fa-setup-step1-cancel": {
-      "mandarin": "下次吧",
-      "spanish": "Quizás la próxima vez",
       "english": "Maybe next time",
+      "german": "Vielleicht nächstes Mal",
       "japanese": "また今度",
       "korean": "다음 번에",
-      "german": "Vielleicht nächstes Mal",
-      "portuguese": "Talvez na próxima vez"
-    },
-    "2fa-setup-step2-cancel": {
-      "mandarin": "后退",
-      "spanish": "atrás",
-      "english": "Back",
-      "japanese": "戻る",
-      "korean": "뒤",
-      "german": "Zurück",
-      "portuguese": "Voltar"
-    },
-    "popup-privacy": {
-      "mandarin": "隐私政策",
-      "spanish": "Política de privacidad",
-      "english": "Privacy policy",
-      "japanese": "個人情報保護方針",
-      "korean": "개인 정보 정책",
-      "german": "Datenschutz-Bestimmungen",
-      "portuguese": "Política de Privacidade"
-    },
-    "2fa-setup-step3-toggle1": {
-      "mandarin": "无需电子邮件即可保存我的恢复短语",
-      "spanish": "Guardar mi frase de recuperación sin correo electrónico",
-      "english": "Save my recovery phrase without email",
-      "japanese": "メールなしで回復フレーズを保存する",
-      "korean": "이메일 없이 내 복구 문구 저장",
-      "german": "Meine Wiederherstellungsphrase ohne E-Mail speichern",
-      "portuguese": "Salvar minha frase de recuperação sem e-mail"
-    },
-    "register-backup-phrase-confirm-desc2": {
-      "mandarin": "如果不，",
-      "spanish": "Que no,",
-      "english": "If not,",
-      "japanese": "そうでない場合は、",
-      "korean": "如果不，",
-      "german": "Wenn nicht,",
-      "portuguese": "Se não,"
-    },
-    "register-backup-phrase-desc2": {
-      "mandarin": "它可以帮助您在丢失设备时恢复帐户。",
-      "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
-      "english": "It helps you with account recovery in case you lose your device.",
-      "japanese": "デバイスを紛失した場合のアカウントの回復に役立ちます。",
-      "korean": "디바이스 분실시 계정 복구에 도움이됩니다.",
-      "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät verlieren.",
-      "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo."
-    },
-    "mpc-2fa-setup-step4-sub1": {
-      "mandarin": "验证您的恢复系数",
-      "spanish": "Verifique su factor de recuperación",
-      "english": "Verify your recovery factor",
-      "japanese": "回復率を確認する",
-      "korean": "복구 팩터 확인",
-      "german": "Überprüfen Sie Ihren Erholungsfaktor",
-      "portuguese": "Verifique seu fator de recuperação"
-    },
-    "register-continue": {
-      "mandarin": "继续",
-      "spanish": "Continuar",
-      "english": "Continue",
-      "japanese": "継続する",
-      "korean": "계속하다",
-      "german": "Fortsetzen",
-      "portuguese": "Continuar"
-    },
-    "social-2fa-warning-cta-2": {
-      "mandarin": "不，使用另一封电子邮件",
-      "spanish": "No, usa otro correo electrónico",
-      "english": "No, use another email",
-      "japanese": "いいえ、別のメールを使用してください",
-      "korean": "아니요, 다른 이메일을 사용해 주세요",
-      "german": "Nein, verwenden Sie eine andere E -Mail",
-      "portuguese": "Não, use outro e-mail"
-    },
-    "reconstruct-always-skip-note": {
-      "mandarin": "通过选择“始终跳过”，您将不会收到再次登录 OpenLogin 帐户的提示。 如果您改变主意，您可以随时在“设置”中更改此首选项。",
-      "spanish": "Si selecciona 'Omitir siempre', no se le pedirá que vuelva a iniciar sesión en su cuenta de OpenLogin. Si cambia de opinión, puede cambiar esta preferencia en cualquier momento en 'Configuración'.",
-      "english": "By selecting 'Always skip', you will not be prompted to login to your OpenLogin account again. If you change your mind, you may change this preference anytime in 'Settings'.",
-      "japanese": "[常にスキップ]を選択すると、OpenLoginアカウントに再度ログインするように求められることはありません。 気が変わった場合は、「設定」でいつでもこの設定を変更できます。",
-      "korean": "'항상 건너뛰기'를 선택하면 OpenLogin 계정에 다시 로그인하라는 메시지가 표시되지 않습니다. 마음이 바뀌면 '설정'에서 언제든지 이 환경설정을 변경할 수 있습니다.",
-      "german": "Wenn Sie „Immer überspringen“ auswählen, werden Sie nicht aufgefordert, sich erneut bei Ihrem OpenLogin-Konto anzumelden. Wenn Sie Ihre Meinung ändern, können Sie diese Einstellung jederzeit in den \"Einstellungen\" ändern.",
-      "portuguese": "Ao selecionar 'Sempre pular', você não será solicitado a fazer login na sua conta OpenLogin novamente. Se mudar de ideia, você pode alterar essa preferência a qualquer momento em 'Configurações'."
+      "mandarin": "下次吧",
+      "portuguese": "Talvez na próxima vez",
+      "spanish": "Quizás la próxima vez"
     },
     "2fa-setup-step1-desc1": {
-      "mandarin": "每次登录需要 2 个身份验证因素",
-      "spanish": "Cada inicio de sesión requiere 2 factores para la autenticación",
       "english": "Each login requires 2 factors for authentication",
+      "german": "Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
       "japanese": "各ログインには、認証のために2つの要素が必要です",
       "korean": "각 로그인에는 인증을 위해 2가지 팩터가 필요합니다.",
-      "german": "Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
-      "portuguese": "Cada login requer 2 fatores para autenticação"
+      "mandarin": "每次登录需要 2 个身份验证因素",
+      "portuguese": "Cada login requer 2 fatores para autenticação",
+      "spanish": "Cada inicio de sesión requiere 2 factores para la autenticación"
     },
-    "mpc-2fa-setup-step4-sub22": {
-      "mandarin": "粘贴发送到您的电子邮件 {0} 的恢复因素",
-      "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}",
-      "english": "Paste the recovery factor sent to your email {0}",
-      "japanese": "メール {0} に送信された回復係数を貼り付けます",
-      "korean": "이메일로 전송된 복구 팩터를 붙여넣습니다. {0}",
-      "german": "Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0}",
-      "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}"
-    },
-    "2fa-setup-step2-next": {
-      "mandarin": "继续",
-      "spanish": "Continuar",
-      "english": "Continue",
-      "japanese": "継続する",
-      "korean": "계속하다",
-      "german": "Weitermachen",
-      "portuguese": "Continuar"
-    },
-    "migrate-desc21": {
-      "mandarin": "享受Torus钱包的最新功能",
-      "spanish": "Para disfrutar de las últimas funciones de Torus Wallet",
-      "english": "To enjoy the latest features of the Torus Wallet",
-      "japanese": "トーラスウォレットの最新機能をお楽しみください",
-      "korean": "Torus Wallet의 최신 기능을 즐기려면",
-      "german": "Genießen Sie die neuesten Funktionen der Torus-Brieftasche",
-      "portuguese": "Para aproveitar os recursos mais recentes da Torus Wallet"
-    },
-    "mpc-2fa-verify-step1-panel2": {
-      "mandarin": "恢复系数",
-      "spanish": "Factor de recuperación",
-      "english": "Recovery factor",
-      "japanese": "回収率",
-      "korean": "복구 팩터",
-      "german": "Erholungsfaktor",
-      "portuguese": "Fator de recuperação"
-    },
-    "social-2fa-warn-text-1": {
-      "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd@xyz.com”。",
-      "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd@xyz.com\".",
-      "english": "This Social factor only acts as a backup share to recover your account linked to “abcd@xyz.com”.",
-      "japanese": "このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
-      "korean": "이 소셜적 팩터는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
-      "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen.",
-      "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd@xyz.com”."
-    },
-    "mpc-2fa-setup-step3-download": {
-      "mandarin": "下载我的恢复因子",
-      "spanish": "Descargar mi factor de recuperación",
-      "english": "Download my recovery factor",
-      "japanese": "私のリカバリーファクターをダウンロードする",
-      "korean": "내 복구 팩터 다운로드",
-      "german": "Laden Sie meinen Wiederherstellungsfaktor herunter",
-      "portuguese": "Baixar meu fator de recuperação"
-    },
-    "returning-exist-title": {
-      "mandarin": "欢迎回来，{0}",
-      "spanish": "Bienvenido de nuevo, {0}",
-      "english": "Welcome back, {0}",
-      "japanese": "おかえりなさい、{0}",
-      "korean": "다시 오신 것을 환영합니다. {0}",
-      "german": "Willkommen zurück, {0}",
-      "portuguese": "Bem-vindo de volta, {0}"
-    },
-    "returning-header-title": {
-      "mandarin": "登入",
-      "spanish": "Registrarse",
-      "english": "Sign in",
-      "japanese": "サインイン",
-      "korean": "로그인",
-      "german": "Einloggen",
-      "portuguese": "Entrar"
-    },
-    "2fa-verify-success-head": {
-      "mandarin": "成功的",
-      "spanish": "Exitoso",
-      "english": "Successful",
-      "japanese": "成功",
-      "korean": "성공적인",
-      "german": "Erfolgreich",
-      "portuguese": "Bem sucedido"
-    },
-    "2fa-setup-step3-next1": {
-      "mandarin": "完成设置",
-      "spanish": "Terminar de configurar",
-      "english": "Finish setting up",
-      "japanese": "セットアップを完了します",
-      "korean": "설정 완료",
-      "german": "Beenden Sie die Einrichtung",
-      "portuguese": "Concluir a configuração"
-    },
-    "reconstruct-device-desc2": {
-      "mandarin": "从以下任何设备中完成安全性验证。",
-      "spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad.",
-      "english": "from any of the following devices to complete the security verification.",
-      "japanese": "次のいずれかのデバイスからセキュリティ検証を完了します。",
-      "korean": "다음 디바이스 중 하나에서 보안 확인을 완료하십시오.",
-      "german": "von einem der folgenden Geräte, um die Sicherheitsüberprüfung abzuschließen.",
-      "portuguese": "de qualquer um dos seguintes dispositivos para concluir a verificação de segurança."
-    },
-    "reconstruct-backup-phrase-desc": {
-      "mandarin": "输入先前发送到您的辅助邮箱的备份短语。",
-      "spanish": "Ingrese la frase de respaldo enviada a su correo electrónico de recuperación anteriormente.",
-      "english": "Enter the backup phrase sent to your recovery email previously.",
-      "japanese": "以前にリカバリメールに送信されたバックアップフレーズを入力します。",
-      "korean": "이전에 복구 이메일로 전송 된 백업 문구를 입력하십시오.",
-      "german": "Geben Sie den Sicherungssatz ein, der zuvor an Ihre Wiederherstellungs-E-Mail gesendet wurde.",
-      "portuguese": "Digite a frase de backup enviada para seu e-mail de recuperação anteriormente."
-    },
-    "returning-continue": {
-      "mandarin": "继续{0}",
-      "spanish": "Continuar con {0}",
-      "english": "Continue with {0}",
-      "japanese": "{0}に進む",
-      "korean": "{0}로 계속",
-      "german": "Weiter mit {0}",
-      "portuguese": "Continuar com {0}"
-    },
-    "register-password-password-confirm": {
-      "mandarin": "重新输入密码",
-      "spanish": "reingresa tu contraseña",
-      "english": "Re-enter your password",
-      "japanese": "パスワードを再入力してください",
-      "korean": "비밀번호 재 입력",
-      "german": "Wiederhole die Eingabe deines Passwortes",
-      "portuguese": "Redigite sua senha"
-    },
-    "2fa-setup-step4-contact-support": {
-      "mandarin": "联系支持",
-      "spanish": "Soporte de contacto",
-      "english": "Contact Support",
-      "japanese": "サポート問い合わせ先",
-      "korean": "연락처 지원",
-      "german": "Kontaktieren Sie Support",
-      "portuguese": "Entre em contato com o suporte"
-    },
-    "reconstruct-backup-phrase-placeholder": {
-      "mandarin": "输入备用词组",
-      "spanish": "Ingrese la frase de respaldo",
-      "english": "Enter backup phrase",
-      "japanese": "バックアップフレーズを入力してください",
-      "korean": "백업 문구 입력",
-      "german": "Geben Sie die Sicherungsphrase ein",
-      "portuguese": "Digite a frase de backup"
-    },
-    "register-subtitle-try-webauth": {
-      "mandarin": "您要在此设备上启用Touch ID / Face ID吗？",
-      "spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?",
-      "english": "Would you like to enable Touch ID / Face ID on this device?",
-      "japanese": "このデバイスでTouchID / Face IDを有効にしますか？",
-      "korean": "이 디바이스에서 Touch ID / Face ID를 활성화 하시겠습니까?",
-      "german": "Möchten Sie die Touch ID / Face ID auf diesem Gerät aktivieren?",
-      "portuguese": "Gostaria de ativar o Touch ID / Face ID neste dispositivo?"
-    },
-    "2fa-setup-step3-note12": {
-      "mandarin": "您需要在下一个屏幕上确认此短语",
-      "spanish": "Deberá confirmar esta frase en la siguiente pantalla",
-      "english": "You will need to confirm this phrase on the next screen",
-      "japanese": "次の画面でこのフレーズを確認する必要があります",
-      "korean": "다음 화면에서 이 문구를 확인해야 합니다.",
-      "german": "Sie müssen diesen Satz auf dem nächsten Bildschirm bestätigen",
-      "portuguese": "Você precisará confirmar esta frase na próxima tela"
-    },
-    "2fa-setup-title31": {
-      "mandarin": "第 2 步：保存恢复短语",
-      "spanish": "Paso 2: Guarda la frase de recuperación",
-      "english": "Step 2: Save recovery phrase",
-      "japanese": "ステップ2：リカバリフレーズを保存する",
-      "korean": "2단계: 복구 문구 저장",
-      "german": "Schritt 2: Speichern Sie die Wiederherstellungsphrase",
-      "portuguese": "Etapa 2: salvar a frase de recuperação"
-    },
-    "2fa-verify-step1-go-app": {
-      "mandarin": "转到应用程序",
-      "spanish": "Ir a la aplicación",
-      "english": "Go to App",
-      "japanese": "アプリに行きます",
-      "korean": "앱으로 이동",
-      "german": "Gehe zu App",
-      "portuguese": "Vá para o aplicativo"
-    },
-    "2fa-setup-step3-sub2": {
-      "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
-      "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación.",
-      "english": "In case you lose access to your saved browser, you can authenticate with your recovery phrase.",
-      "japanese": "保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。",
-      "korean": "저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.",
-      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",
-      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com sua frase de recuperação."
-    },
-    "2fa-verify-save-save": {
-      "mandarin": "保存此设备",
-      "spanish": "Guardar este dispositivo",
-      "english": "Save this device",
-      "japanese": "このデバイスを保存します",
-      "korean": "이 디바이스 저장",
-      "german": "Speichern Sie dieses Gerät",
-      "portuguese": "Salvar este dispositivo"
-    },
-    "2fa-verify-share-head": {
-      "mandarin": "选择以下之一",
-      "spanish": "Selecciona uno de los siguientes",
-      "english": "Select one of the following",
-      "japanese": "次のいずれかを選択してください",
-      "korean": "다음 중 하나를 선택하십시오.",
-      "german": "Wählen Sie eine der folgenden Optionen",
-      "portuguese": "Selecione um dos seguintes"
-    },
-    "mpc-2fa-setup-step4-recovery": {
-      "mandarin": "恢复系数",
-      "spanish": "Factor de recuperación",
-      "english": "Recovery factor",
-      "japanese": "回収率",
-      "korean": "복구 팩터",
-      "german": "Erholungsfaktor",
-      "portuguese": "Fator de recuperação"
-    },
-    "2fa-verify-reference-id": {
-      "mandarin": "参考编号",
-      "spanish": "Identificación de referencia",
-      "english": "Reference ID",
-      "japanese": "参照ID",
-      "korean": "참조 ID",
-      "german": "Referenz ID",
-      "portuguese": "Identificador de referência"
-    },
-    "2fa-setup-step4-sub21": {
-      "mandarin": "粘贴恢复短语",
-      "spanish": "Pega la frase de recuperación",
-      "english": "Paste the recovery phrase",
-      "japanese": "回復フレーズを貼り付けます",
-      "korean": "복구 문구 붙여넣기",
-      "german": "Fügen Sie den Wiederherstellungssatz ein",
-      "portuguese": "Cole a frase de recuperação"
-    },
-    "2fa-verify-recovery-note": {
-      "mandarin": "如果您无法验证上述任何一项，则无法登录您的帐户。",
-      "spanish": "Si no puede verificar ninguno de los anteriores, no puede iniciar sesión en su cuenta.",
-      "english": "If you are unable to verify any of the above, you are unable to login to your account.",
-      "japanese": "上記のいずれかを確認できない場合は、アカウントにログインできません。",
-      "korean": "위의 항목 중 하나라도 확인할 수 없으면 계정에 로그인할 수 없습니다.",
-      "german": "Wenn Sie keinen der oben genannten Punkte bestätigen können, können Sie sich nicht bei Ihrem Konto anmelden.",
-      "portuguese": "Se você não conseguir verificar nenhum dos itens acima, não poderá fazer login na sua conta."
-    },
-    "register-backup-phrase-placeholder": {
-      "mandarin": "输入辅助邮箱",
-      "spanish": "Ingresa el correo de recuperación",
-      "english": "Enter recovery email",
-      "japanese": "復旧メールを入力してください",
-      "korean": "복구 이메일 입력",
-      "german": "Geben Sie die Wiederherstellungs-E-Mail ein",
-      "portuguese": "Digite o e-mail de recuperação"
-    },
-    "2fa-setup-step3-sub1": {
-      "mandarin": "提供电子邮件以接收恢复短语",
-      "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación",
-      "english": "Provide an email to receive recovery phrase",
-      "japanese": "回復フレーズを受け取るための電子メールを提供する",
-      "korean": "복구 문구를 받을 이메일 제공",
-      "german": "Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",
-      "portuguese": "Forneça um e-mail para receber a frase de recuperação"
-    },
-    "register-skip": {
-      "mandarin": "立即跳过",
-      "spanish": "Saltar por ahora",
-      "english": "Skip for Now",
-      "japanese": "今はスキップ",
-      "korean": "일단은 스킵",
-      "german": "Für jetzt überspringen",
-      "portuguese": "Pular por agora"
-    },
-    "returning-confirm-desc": {
-      "mandarin": "继续通过生物识别登录？",
-      "spanish": "¿Continuar con el inicio de sesión mediante datos biométricos?",
-      "english": "Continue your sign in via biometrics?",
-      "japanese": "生体認証を介してサインインを続行しますか？",
-      "korean": "생체 인식을 통해 계속 로그인 하시겠습니까?",
-      "german": "Mit der Anmeldung über Biometrie fortfahren?",
-      "portuguese": "Continuar seu login via biometria?"
-    },
-    "register-biometrics-enable": {
-      "mandarin": "启用触摸ID /面部ID",
-      "spanish": "Habilitar Touch ID / Face ID",
-      "english": "Enable Touch ID / Face ID",
-      "japanese": "Touch ID / FaceIDを有効にする",
-      "korean": "Touch ID / Face ID 활성화",
-      "german": "Aktivieren Sie Touch ID / Face ID",
-      "portuguese": "Ativar Touch ID / Face ID"
-    },
-    "register-multiple-transports-cta": {
-      "english": "Set it up",
-      "german": "Es einrichten",
-      "mandarin": "设置它",
-      "korean": "설정하십시오",
-      "japanese": "準備する",
-      "spanish": "Prepararlo",
-      "portuguese": "Configurá-lo"
-    },
-    "reconstruct-backup-phrase-desc-3": {
-      "mandarin": "并发送到电子邮件：",
-      "spanish": "y enviado al correo electrónico:",
-      "english": "and sent to email: ",
-      "japanese": "そして電子メールに送られる：",
-      "korean": "이메일로 전송:",
-      "german": "und an E-Mail gesendet:",
-      "portuguese": "e enviado para o e-mail:"
-    },
-    "2fa-verify-share-browser": {
-      "mandarin": "浏览器",
-      "spanish": "Navegador",
-      "english": "Browser",
-      "japanese": "ブラウザ",
-      "korean": "브라우저",
-      "german": "Browser",
-      "portuguese": "Navegador"
-    },
-    "2fa-setup-step4-check-time": {
-      "mandarin": "没有收到吗？ 反感。 再次签入{0}",
-      "spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}",
-      "english": "Did not receive it? Resent. Check again in {0}",
-      "japanese": "受け取りませんでしたか？ 憤る。 {0}でもう一度確認してください",
-      "korean": "받지 못하셨나요? 재전송 했습니다. {0}에서 다시 확인하세요.",
-      "german": "Nicht erhalten? Übelnehmen. Erneut einchecken in {0}",
-      "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}"
-    },
-    "2fa-verify-multi-subhead": {
-      "mandarin": "登录到以下已保存的浏览器以批准访问",
-      "spanish": "Inicie sesión en el siguiente navegador guardado para aprobar el acceso",
-      "english": "Login to the following saved browser to approve access",
-      "japanese": "次の保存されたブラウザにログインして、アクセスを承認します",
-      "korean": "액세스를 승인하려면 다음 저장된 브라우저에 로그인하십시오.",
-      "german": "Melden Sie sich beim folgenden gespeicherten Browser an, um den Zugriff zu genehmigen",
-      "portuguese": "Faça login no seguinte navegador salvo para aprovar o acesso"
-    },
-    "2fa-setup-title12": {
-      "mandarin": "设置 2 因素身份验证",
-      "spanish": "Configurar autenticación de 2 factores",
-      "english": "Set up 2 Factor Authentication",
-      "japanese": "2要素認証を設定する",
-      "korean": "2단계 인증 설정",
-      "german": "2-Faktor-Authentifizierung einrichten",
-      "portuguese": "Configure a autenticação de 2 fatores"
-    },
-    "verifier-google-desc": {
-      "mandarin": "继续使用Google",
-      "spanish": "Continuar con Google",
-      "english": "Continue with Google",
-      "japanese": "Googleで続行",
-      "korean": "Google로 계속",
-      "german": "Fahren Sie mit Google fort",
-      "portuguese": "Continuar com o Google"
-    },
-    "2fa-setup-step3-manual-save": {
-      "mandarin": "手动保存您的短语",
-      "spanish": "Guarde manualmente su frase",
-      "english": "Manually save your phrase",
-      "japanese": "フレーズを手動で保存する",
-      "korean": "수동으로 문구 저장",
-      "german": "Speichern Sie Ihren Satz manuell",
-      "portuguese": "Salve manualmente sua frase"
-    },
-    "2fa-setup-step3-toggle2": {
-      "mandarin": "通过电子邮件向我发送恢复短语",
-      "spanish": "Envíame mi frase de recuperación por correo electrónico",
-      "english": "Email me my recovery phrase",
-      "japanese": "私の回復フレーズを私にメールしてください",
-      "korean": "내 복구 문구를 이메일로 보내주세요",
-      "german": "Senden Sie mir meinen Wiederherstellungssatz per E-Mail",
-      "portuguese": "Envie-me um e-mail com minha frase de recuperação"
-    },
-    "2fa-setup-step1-next": {
-      "mandarin": "设置 2FA",
-      "spanish": "Configurar 2FA",
-      "english": "Set up 2FA",
-      "japanese": "2FAを設定する",
-      "korean": "2FA 설정",
-      "german": "2FA einrichten",
-      "portuguese": "Configurar 2FA"
-    },
-    "2fa-setup-step2-confirm-note": {
-      "mandarin": "我了解清除浏览器历史记录和 cookie 将删除我浏览器上的这个因素。",
-      "spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador.",
-      "english": "I understand that clearing browser history and cookies will delete this factor on my browser.",
-      "japanese": "ブラウザの履歴とCookieをクリアすると、ブラウザのこの要素が削除されることを理解しています。",
-      "korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 팩터가 삭제된다는 것을 이해합니다.",
-      "german": "Mir ist bewusst, dass das Löschen des Browserverlaufs und der Cookies diesen Faktor in meinem Browser löscht.",
-      "portuguese": "Entendo que limpar o histórico e os cookies do navegador excluirá esse fator do meu navegador."
-    },
-    "2fa-verify-step1-panel1": {
-      "mandarin": "保存的浏览器/设备",
-      "spanish": "Navegadores / dispositivos guardados",
-      "english": "Saved browser(s) / devices",
-      "japanese": "保存されたブラウザ/デバイス",
-      "korean": "저장된 브라우저/디바이스",
-      "german": "Gespeicherte(r) Browser/Geräte",
-      "portuguese": "Navegadores/dispositivos salvos"
-    },
-    "mpc-2fa-verify-step1-rec-placeholder": {
-      "mandarin": "恢复系数",
-      "spanish": "Factor de recuperación",
-      "english": "Recovery factor",
-      "japanese": "回収率",
-      "korean": "복구 팩터",
-      "german": "Erholungsfaktor",
-      "portuguese": "Fator de recuperação"
-    },
-    "social-2fa-verify-email": {
-      "mandarin": "通过电子邮件验证",
-      "spanish": "Verifique con su correo electrónico",
-      "english": "Verify with your email",
-      "japanese": "メールで確認してください",
-      "korean": "이메일로 확인하십시오",
-      "german": "Überprüfen Sie mit Ihrer E -Mail",
-      "portuguese": "Verifique com seu e-mail"
-    },
-    "popup-continue-existing": {
-      "mandarin": "继续使用现有的{0}",
-      "spanish": "Continuar con {0} existente",
-      "english": "Continue with existing {0}",
-      "japanese": "既存の{0}を続行します",
-      "korean": "기존 {0} 계속",
-      "german": "Weiter mit vorhandenem {0}",
-      "portuguese": "Continuar com {0} existente"
-    },
-    "register-title-additional-security": {
-      "mandarin": "出发前的最后一步",
-      "spanish": "Un último paso antes de irte",
-      "english": "One last step before you go",
-      "japanese": "行く前の最後の一歩",
-      "korean": "가기 전에 마지막 단계",
-      "german": "Ein letzter Schritt bevor du gehst",
-      "portuguese": "Um último passo antes de ir"
-    },
-    "2fa-setup-step2-sub1": {
-      "mandarin": "使用当前浏览器设置",
-      "spanish": "Configurar usando el navegador actual",
-      "english": "Set up using current browser",
-      "japanese": "現在のブラウザを使用して設定",
-      "korean": "현재 브라우저를 사용하여 설정",
-      "german": "Mit aktuellem Browser einrichten",
-      "portuguese": "Configurar usando o navegador atual"
-    },
-    "register-backup-phrase-desc1": {
-      "mandarin": "将向您发送一封包含备份短语的电子邮件。",
-      "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
-      "english": "An email will be sent to you containing the backup phrase.",
-      "japanese": "バックアップ フレーズを含むメールが送信されます。",
-      "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
-      "german": "Sie erhalten eine E-Mail mit der Backup-Phrase.",
-      "portuguese": "Um e-mail será enviado para você contendo a frase de backup."
-    },
-    "2fa-setup-step3-hide-adv": {
-      "mandarin": "隐藏高级选项",
-      "spanish": "Ocultar opción avanzada",
-      "english": "Hide advanced option",
-      "japanese": "詳細オプションを非表示",
-      "korean": "고급 옵션 숨기기",
-      "german": "Erweiterte Option ausblenden",
-      "portuguese": "Ocultar opção avançada"
-    },
-    "2fa-verify-success-subtitle": {
-      "mandarin": "登录",
-      "spanish": "iniciando sesión",
-      "english": "Logging you in",
-      "japanese": "ログインします",
-      "korean": "로그인",
-      "german": "Melden Sie sich an",
-      "portuguese": "Conectando você"
+    "2fa-setup-step1-desc21": {
+      "english": "We highly recommend a 2FA set up for an active user like yourself.",
+      "german": "Wir empfehlen dringend ein 2FA-Setup für einen aktiven Benutzer wie Sie.",
+      "japanese": "あなたのようなアクティブユーザーには2FAを設定することを強くお勧めします。",
+      "korean": "귀하와 같은 활성 사용자를 위해 2FA 설정을 적극 권장합니다.",
+      "mandarin": "我们强烈建议为像您这样的活跃用户设置 2FA。",
+      "portuguese": "Recomendamos fortemente uma configuração 2FA para um usuário ativo como você.",
+      "spanish": "Recomendamos encarecidamente una configuración 2FA para un usuario activo como usted."
     },
     "2fa-setup-step1-desc22": {
-      "mandarin": "只需 3 个简单的步骤即可完成设置！",
-      "spanish": "¡Configúralo en 3 sencillos pasos!",
       "english": "Set it up in 3 simple steps!",
+      "german": "Richten Sie es in 3 einfachen Schritten ein!",
       "japanese": "3つの簡単なステップでセットアップしてください！",
       "korean": "3단계로 간단하게 설정하세요!",
-      "german": "Richten Sie es in 3 einfachen Schritten ein!",
-      "portuguese": "Configure em 3 passos simples!"
+      "mandarin": "只需 3 个简单的步骤即可完成设置！",
+      "portuguese": "Configure em 3 passos simples!",
+      "spanish": "¡Configúralo en 3 sencillos pasos!"
     },
-    "2fa-setup-step3-next3": {
-      "mandarin": "发送恢复短语",
-      "spanish": "Enviar frase de recuperación",
-      "english": "Send recovery phrase",
-      "japanese": "回復フレーズを送信する",
-      "korean": "복구 문구 보내기",
-      "german": "Wiederherstellungsphrase senden",
-      "portuguese": "Enviar frase de recuperação"
+    "2fa-setup-step1-next": {
+      "english": "Set up 2FA",
+      "german": "2FA einrichten",
+      "japanese": "2FAを設定する",
+      "korean": "2FA 설정",
+      "mandarin": "设置 2FA",
+      "portuguese": "Configurar 2FA",
+      "spanish": "Configurar 2FA"
     },
-    "register-backup-phrase-send": {
-      "mandarin": "发送恢复电子邮件",
-      "spanish": "Enviar correo de recuperación",
-      "english": "Send recovery email",
-      "japanese": "復旧メールを送信する",
-      "korean": "복구 이메일 보내기",
-      "german": "Wiederherstellungs-E-Mail senden",
-      "portuguese": "Enviar e-mail de recuperação"
+    "2fa-setup-step1-sub1": {
+      "english": "Enable 2 Factor Authentication (2FA)",
+      "german": "2-Faktor-Authentifizierung (2FA) aktivieren",
+      "japanese": "2要素認証（2FA）を有効にする",
+      "korean": "2단계 인증(2FA) 활성화",
+      "mandarin": "启用 2 因素身份验证 (2FA)",
+      "portuguese": "Ativar autenticação de 2 fatores (2FA)",
+      "spanish": "Habilitar la autenticación de 2 factores (2FA)"
     },
-    "mpc-2fa-setup-step3-sub1": {
-      "mandarin": "提供电子邮件以接收恢复短语",
-      "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación",
-      "english": "Provide an email to receive recovery factor",
-      "japanese": "回復フレーズを受け取るための電子メールを提供する",
-      "korean": "복구 문구를 받을 이메일 제공",
-      "german": "Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",
-      "portuguese": "Forneça um e-mail para receber o fator de recuperação"
-    },
-    "2fa-setup-step3-show-adv": {
-      "mandarin": "查看高级选项",
-      "spanish": "Ver opción avanzada",
-      "english": "View advanced option",
-      "japanese": "詳細オプションを表示",
-      "korean": "고급 옵션 보기",
-      "german": "Erweiterte Option anzeigen",
-      "portuguese": "Ver opção avançada"
-    },
-    "2fa-verify-step1-rec-placeholder": {
-      "mandarin": "恢复短语",
-      "spanish": "Frase de recuperación",
-      "english": "Recovery phrase",
-      "japanese": "回復フレーズ",
-      "korean": "복구 문구",
-      "german": "Wiederherstellungsphrase",
-      "portuguese": "Frase de recuperação"
-    },
-    "2fa-verify-step2-sub1": {
-      "mandarin": "验证成功",
-      "spanish": "Verificación exitosa",
-      "english": "Successful verification",
-      "japanese": "検証の成功",
-      "korean": "인증 성공",
-      "german": "Erfolgreiche Verifizierung",
-      "portuguese": "Verificação bem-sucedida"
-    },
-    "title": {
-      "mandarin": "一站式管理所有网络互动",
-      "spanish": "Administre todas sus interacciones web en un solo lugar",
-      "english": "Manage all your web interactions in one place",
-      "japanese": "すべてのWebインタラクションを1か所で管理します",
-      "korean": "모든 웹 상호 작용을 한 곳에서 관리",
-      "german": "Verwalten Sie alle Ihre Webinteraktionen an einem Ort",
-      "portuguese": "Gerencie todas as suas interações na web em um só lugar"
-    },
-    "register-biometrics-desc": {
-      "mandarin": "使用面容 ID 或触控 ID 注册您的设备。 生物识别技术永远不会离开您的设备。",
-      "spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo.",
-      "english": "Register your device with Face ID or Touch ID. Biometrics never leave your device.",
-      "japanese": "デバイスを Face ID または Touch ID で登録します。 生体認証がデバイスから離れることはありません。",
-      "korean": "Face ID 또는 Touch ID로 디바이스를 등록하세요. 생체 인식은 디바이스를 떠나지 않습니다.",
-      "german": "Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie.",
-      "portuguese": "Registre seu dispositivo com Face ID ou Touch ID. A biometria nunca sai do seu dispositivo."
-    },
-    "register-multiple-transports-desc": {
-      "english": "Register your device with biometrics or any web authentication methods.",
-      "german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
-      "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
-      "korean": "생체 인식 또는 웹 인증 방법으로 디바이스를 등록하십시오.",
-      "japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
-      "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web.",
-      "portuguese": "Registre seu dispositivo com biometria ou qualquer método de autenticação da web."
-    },
-    "register-external-transports-desc": {
-      "english": "Register your device any web authentication methods.",
-      "german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
-      "mandarin": "注册您的设备任何Web身份验证方法。",
-      "korean": "웹 인증 방법을 디바이스에 등록하십시오.",
-      "japanese": "Web認証方法をデバイスに登録してください。",
-      "spanish": "Registre su dispositivo cualquier método de autenticación web.",
-      "portuguese": "Registre seu dispositivo em qualquer método de autenticação da web."
-    },
-    "mpc-2fa-setup-title3": {
-      "mandarin": "保存恢复短语",
-      "spanish": "Guardar frase de recuperación",
-      "english": "Save recovery factor",
-      "japanese": "回復フレーズを保存する",
-      "korean": "복구 문구 저장",
-      "german": "Wiederherstellungsphrase speichern",
-      "portuguese": "Salvar fator de recuperação"
-    },
-    "reconstruct-device-prev2": {
-      "mandarin": "Torus钱包的先前版本",
-      "spanish": "versión anterior de Torus Wallet",
-      "english": "previous version of the Torus Wallet",
-      "japanese": "トーラスウォレットの以前のバージョン",
-      "korean": "이전 버전의 토러스 지갑",
-      "german": "vorherige Version der Torus-Brieftasche",
-      "portuguese": "versão anterior da Torus Wallet"
-    },
-    "2fa-setup-step3-next4": {
-      "mandarin": "我已经保存了我的恢复短语",
-      "spanish": "He guardado mi frase de recuperación",
-      "english": "I have saved my recovery phrase",
-      "japanese": "回復フレーズを保存しました",
-      "korean": "복구 문구를 저장했습니다",
-      "german": "Ich habe meine Wiederherstellungsphrase gespeichert",
-      "portuguese": "Salvei minha frase de recuperação"
-    },
-    "2fa-setup-step3-download": {
-      "mandarin": "下载我的恢复短语",
-      "spanish": "Descarga mi frase de recuperación",
-      "english": "Download my recovery phrase",
-      "japanese": "私の回復フレーズをダウンロードする",
-      "korean": "내 복구 문구 다운로드",
-      "german": "Laden Sie meinen Wiederherstellungssatz herunter",
-      "portuguese": "Baixar minha frase de recuperação"
-    },
-    "reconstruct-biometrics-desc": {
-      "mandarin": "*仅适用于先前在以下设备上设置的Touch ID / Face ID：",
-      "spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:",
-      "english": "* Only for Touch ID / Face ID previously set up on the following device(s):",
-      "japanese": "*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：",
-      "korean": "* 다음 디바이스에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
-      "german": "* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:",
-      "portuguese": "* Apenas para Touch ID / Face ID previamente configurado no(s) seguinte(s) dispositivo(s):"
-    },
-    "reconstruct-multiple-transports-desc": {
-      "english": "Only for web authentication methods that was previously set up on the following device(s)",
-      "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
-      "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
-      "korean": "다음 디바이스에서 이전에 설정된 웹 인증 방법에 대해서만",
-      "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
-      "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos",
-      "portuguese": "Apenas para métodos de autenticação da web que foram configurados anteriormente no(s) seguinte(s) dispositivo(s)"
-    },
-    "register-password-confirm": {
-      "mandarin": "设定密码",
-      "spanish": "Configurar contraseña",
-      "english": "Set up password",
-      "japanese": "パスワードを設定する",
-      "korean": "비밀번호 설정",
-      "german": "Passwort einrichten",
-      "portuguese": "Configurar senha"
-    },
-    "register-backup-phrase-title": {
-      "mandarin": "继续发送辅助邮箱",
-      "spanish": "Continuar con un correo de recuperación",
-      "english": "Continue with a recovery email",
-      "japanese": "復旧メールを続行します",
-      "korean": "복구 이메일로 계속",
-      "german": "Fahren Sie mit einer Wiederherstellungs-E-Mail fort",
-      "portuguese": "Continuar com um e-mail de recuperação"
-    },
-    "mpc-2fa-setup-step4-sub21": {
-      "mandarin": "粘贴恢复因子",
-      "spanish": "Pegar el factor de recuperación",
-      "english": "Paste the recovery factor",
-      "japanese": "回復係数を貼り付けます",
-      "korean": "복구 팩터 붙여넣기",
-      "german": "Fügen Sie den Wiederherstellungsfaktor ein",
-      "portuguese": "Cole o fator de recuperação"
-    },
-    "2fa-verify-step1-sub1": {
-      "mandarin": "使用以下之一进行身份验证",
-      "spanish": "Autenticarse con uno de los siguientes",
-      "english": "Authenticate with one of the following",
-      "japanese": "次のいずれかで認証します",
-      "korean": "다음 중 하나로 인증",
-      "german": "Authentifizieren Sie sich mit einer der folgenden Optionen",
-      "portuguese": "Autenticar com um dos seguintes"
-    },
-    "2fa-verify-title1": {
-      "mandarin": "验证您的登录信息",
-      "spanish": "Verifique su inicio de sesión",
-      "english": "Verify your login",
-      "japanese": "ログインを確認する",
-      "korean": "로그인 확인",
-      "german": "Bestätigen Sie Ihre Anmeldung",
-      "portuguese": "Verifique seu login"
-    },
-    "migrate-desc22": {
-      "mandarin": "请在此新版本上验证您的身份",
-      "spanish": "por favor verifique su identidad en esta nueva versión",
-      "english": "kindly verify your identity on this new version",
-      "japanese": "この新しいバージョンであなたの身元を確認してください",
-      "korean": "이 새 버전에서 신원을 확인하십시오.",
-      "german": "Bitte überprüfen Sie Ihre Identität in dieser neuen Version",
-      "portuguese": "gentilmente verifique sua identidade nesta nova versão"
-    },
-    "social-2fa-verify-account": {
-      "mandarin": "验证您的社交帐户",
-      "spanish": "Verifique con su cuenta social",
-      "english": "Verify with your social account",
-      "japanese": "ソーシャルアカウントで確認します",
-      "korean": "소셜 계정으로 확인하십시오",
-      "german": "Überprüfen Sie mit Ihrem sozialen Konto",
-      "portuguese": "Verifique com sua conta social"
-    },
-    "register-subtitle-additional-security": {
-      "mandarin": "您的帐户安全很重要。 让我们支持它。",
-      "spanish": "La seguridad de su cuenta es importante. Hagamos una copia de seguridad.",
-      "english": "Your account security matters. Let’s back it up.",
-      "japanese": "アカウントのセキュリティが重要です。 後押ししましょう。",
-      "korean": "귀하의 계정 보안이 중요합니다. 백업합시다.",
-      "german": "Die Sicherheit Ihres Kontos ist wichtig. Lass es uns sichern.",
-      "portuguese": "A segurança da sua conta é importante. Vamos fazer backup."
+    "2fa-setup-step1-sub2": {
+      "english": "Add an extra layer of security to your account",
+      "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu",
+      "japanese": "アカウントにセキュリティの層を追加します",
+      "korean": "계정에 보안 레이어 추가",
+      "mandarin": "为您的帐户添加额外的安全层",
+      "portuguese": "Adicione uma camada extra de segurança à sua conta",
+      "spanish": "Agregue una capa adicional de seguridad a su cuenta"
     },
     "2fa-setup-step1-sub3": {
-      "mandarin": "为您的帐户添加额外的安全层并妥善保管您的资产。",
-      "spanish": "Agregue una capa adicional de seguridad a su cuenta y proteja sus activos.",
       "english": "Add an extra layer of security to your account and safekeep your assets.",
+      "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu und bewahren Sie Ihre Vermögenswerte sicher auf.",
       "japanese": "アカウントにセキュリティの層を追加し、資産を保護します。",
       "korean": "계정에 보안 레이어을 추가하고 자산을 보호하십시오.",
-      "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu und bewahren Sie Ihre Vermögenswerte sicher auf.",
-      "portuguese": "Adicione uma camada extra de segurança à sua conta e proteja seus ativos."
+      "mandarin": "为您的帐户添加额外的安全层并妥善保管您的资产。",
+      "portuguese": "Adicione uma camada extra de segurança à sua conta e proteja seus ativos.",
+      "spanish": "Agregue una capa adicional de seguridad a su cuenta y proteja sus activos."
     },
-    "social-2fa-subtitle-2": {
-      "mandarin": "如果您无法访问保存的浏览器，则可以通过社交帐户进行身份验证。",
-      "spanish": "En caso de que pierda acceso a su navegador guardado, puede autenticarse con su cuenta social.",
-      "english": "In case you lose access to your saved browser, you can authenticate with your Social account.",
-      "japanese": "保存されたブラウザへのアクセスを失う場合は、ソーシャルアカウントで認証できます。",
-      "korean": "저장된 브라우저에 대한 액세스 권한을 잃어버린 경우 소셜 계정으로 인증 할 수 있습니다.",
-      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrem sozialen Konto authentifizieren.",
-      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode se autenticar com sua conta Social."
+    "2fa-setup-step2-cancel": {
+      "english": "Back",
+      "german": "Zurück",
+      "japanese": "戻る",
+      "korean": "뒤",
+      "mandarin": "后退",
+      "portuguese": "Voltar",
+      "spanish": "atrás"
     },
-    "popup-here": {
-      "mandarin": "这里",
-      "spanish": "aquí",
-      "english": "here",
-      "japanese": "ここに",
-      "korean": "여기",
-      "german": "Hier",
-      "portuguese": "aqui"
+    "2fa-setup-step2-confirm-note": {
+      "english": "I understand that clearing browser history and cookies will delete this factor on my browser.",
+      "german": "Mir ist bewusst, dass das Löschen des Browserverlaufs und der Cookies diesen Faktor in meinem Browser löscht.",
+      "japanese": "ブラウザの履歴とCookieをクリアすると、ブラウザのこの要素が削除されることを理解しています。",
+      "korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 팩터가 삭제된다는 것을 이해합니다.",
+      "mandarin": "我了解清除浏览器历史记录和 cookie 将删除我浏览器上的这个因素。",
+      "portuguese": "Entendo que limpar o histórico e os cookies do navegador excluirá esse fator do meu navegador.",
+      "spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador."
     },
-    "verifier-email-desc": {
-      "mandarin": "继续发送电子邮件",
-      "spanish": "Continuar con el correo electrónico",
-      "english": "Continue with Email",
-      "japanese": "メールを続ける",
-      "korean": "이메일로 계속",
-      "german": "Fahren Sie mit E-Mail fort",
-      "portuguese": "Continuar com e-mail"
+    "2fa-setup-step2-current-browser": {
+      "english": "Current browser",
+      "german": "Aktueller Browser",
+      "japanese": "現在のブラウザ",
+      "korean": "현재 브라우저",
+      "mandarin": "当前浏览器",
+      "portuguese": "Navegador atual",
+      "spanish": "Navegador actual"
     },
-    "verifier-sms-desc": {
-      "english": "Continue with phone",
-      "german": "Fahren Sie mit dem Telefon fort",
-      "mandarin": "继续电话",
-      "korean": "전화기로 계속하기",
-      "spanish": "Continuar con el teléfono",
-      "japanese": "電話を続けます",
-      "portugese": "Continue com o telefone"
+    "2fa-setup-step2-next": {
+      "english": "Continue",
+      "german": "Weitermachen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "portuguese": "Continuar",
+      "spanish": "Continuar"
     },
-    "verify-otp-title-popup": {
-      "english": "OTP verification",
-      "german": "OTP -Überprüfung",
-      "mandarin": "OTP验证",
-      "korean": "OTP 검증",
-      "spanish": "Verificación OTP",
-      "japanese": "OTP検証",
-      "portugese": "Verificação de OTP"
+    "2fa-setup-step2-save-device": {
+      "english": "Save current device",
+      "german": "Aktuelles Gerät speichern",
+      "japanese": "現在のデバイスを保存",
+      "korean": "현재 디바이스 저장",
+      "mandarin": "保存当前设备",
+      "portuguese": "Salvar dispositivo atual",
+      "spanish": "Guardar dispositivo actual"
     },
-    "verify-otp-description": {
-      "english": "Enter OTP-Code sent to {number}",
-      "german": "Geben Sie OTP-Code ein, das an gesendet wird {number}",
-      "mandarin": "输入发送到发送到的OTP代码 {number}",
-      "korean": "전송 된 OTP 코드를 입력하십시오 {number}",
-      "spanish": "Ingrese el código OTP enviado a {number}",
-      "japanese": "送信されるOTP-Codeを入力します {number}",
-      "portugese": "Digite o código OTP enviado para {number}"
+    "2fa-setup-step2-sub1": {
+      "english": "Set up using current browser",
+      "german": "Mit aktuellem Browser einrichten",
+      "japanese": "現在のブラウザを使用して設定",
+      "korean": "현재 브라우저를 사용하여 설정",
+      "mandarin": "使用当前浏览器设置",
+      "portuguese": "Configurar usando o navegador atual",
+      "spanish": "Configurar usando el navegador actual"
     },
-    "resend-otp-code": {
-      "english": "Resend Code in {time}",
-      "german": "Code in {time}",
-      "mandarin": "重新发送代码 {time}",
-      "korean": "{time}뒤에 코드가 재전송됩니다",
-      "spanish": "Reenviar código en {time}",
-      "japanese": "コードを再送信します {time}",
-      "portugese": "Reduzir o código em {time}"
+    "2fa-setup-step2-sub2": {
+      "english": "Use the current browser to approve access from new devices/browsers.",
+      "german": "Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen.",
+      "japanese": "現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。",
+      "korean": "현재 브라우저를 사용하여 새 디바이스/브라우저에서 액세스를 승인합니다.",
+      "mandarin": "使用当前浏览器批准来自新设备/浏览器的访问。",
+      "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores.",
+      "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores."
     },
-    "resend-code-cta": {
-      "english": "Resend Code",
-      "german": "Code wiedergeben",
-      "mandarin": "重新发送验证码",
-      "korean": "코드 재전송",
-      "spanish": "Reenviar codigo",
-      "japanese": "再送信コード",
-      "portugese": "Reenviar código"
+    "2fa-setup-step3-cancel": {
+      "english": "Back",
+      "german": "Zurück",
+      "japanese": "戻る",
+      "korean": "뒤",
+      "mandarin": "后退",
+      "portuguese": "Voltar",
+      "spanish": "atrás"
+    },
+    "2fa-setup-step3-confirm-phrase": {
+      "english": "As an advanced user, I know that if I lose this recovery phrase, I bear the risk of losing my account.",
+      "german": "Als fortgeschrittener Benutzer weiß ich, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",
+      "japanese": "上級ユーザーとして、この回復フレーズを失うと、アカウントを失うリスクがあることを私は知っています。",
+      "korean": "숙련된 사용자로서 나는 이 복구 문구를 잃어버리면 내 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
+      "mandarin": "作为高级用户，我知道如果我丢失了此恢复短语，我将承担丢失帐户的风险。",
+      "portuguese": "Como usuário avançado, sei que, se perder esta frase de recuperação, corro o risco de perder minha conta.",
+      "spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta."
+    },
+    "2fa-setup-step3-copy-phrase": {
+      "english": "Copy phrase",
+      "german": "Satz kopieren",
+      "japanese": "フレーズをコピーする",
+      "korean": "문구 복사",
+      "mandarin": "复制短语",
+      "portuguese": "Copiar frase",
+      "spanish": "Copiar frase"
+    },
+    "2fa-setup-step3-download": {
+      "english": "Download my recovery phrase",
+      "german": "Laden Sie meinen Wiederherstellungssatz herunter",
+      "japanese": "私の回復フレーズをダウンロードする",
+      "korean": "내 복구 문구 다운로드",
+      "mandarin": "下载我的恢复短语",
+      "portuguese": "Baixar minha frase de recuperação",
+      "spanish": "Descarga mi frase de recuperación"
+    },
+    "2fa-setup-step3-download-phrase": {
+      "english": "Download phrase",
+      "german": "Redewendung herunterladen",
+      "japanese": "フレーズをダウンロード",
+      "korean": "구문 다운로드",
+      "mandarin": "下载短语",
+      "portuguese": "Baixar frase",
+      "spanish": "Descargar frase"
+    },
+    "2fa-setup-step3-email": {
+      "english": "Email",
+      "german": "Email",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "portuguese": "E-mail",
+      "spanish": "Correo electrónico"
+    },
+    "2fa-setup-step3-enter-email": {
+      "english": "Enter your email address",
+      "german": "Geben sie ihre E-Mailadresse ein",
+      "japanese": "メールアドレスを入力してください",
+      "korean": "이메일 주소를 입력하세요",
+      "mandarin": "输入你的电子邮箱地址",
+      "portuguese": "Insira o seu endereço de email",
+      "spanish": "Ingrese su dirección de correo electrónico"
+    },
+    "2fa-setup-step3-enter-recovery": {
+      "english": "Enter your recovery phrase",
+      "german": "Geben Sie Ihren Wiederherstellungssatz ein",
+      "japanese": "回復フレーズを入力してください",
+      "korean": "복구 문구를 입력하세요",
+      "mandarin": "输入您的辅助短语",
+      "portuguese": "Digite sua frase de recuperação",
+      "spanish": "Introduce tu frase de recuperación"
+    },
+    "2fa-setup-step3-hide-adv": {
+      "english": "Hide advanced option",
+      "german": "Erweiterte Option ausblenden",
+      "japanese": "詳細オプションを非表示",
+      "korean": "고급 옵션 숨기기",
+      "mandarin": "隐藏高级选项",
+      "portuguese": "Ocultar opção avançada",
+      "spanish": "Ocultar opción avanzada"
+    },
+    "2fa-setup-step3-manual-save": {
+      "english": "Manually save your phrase",
+      "german": "Speichern Sie Ihren Satz manuell",
+      "japanese": "フレーズを手動で保存する",
+      "korean": "수동으로 문구 저장",
+      "mandarin": "手动保存您的短语",
+      "portuguese": "Salve manualmente sua frase",
+      "spanish": "Guarde manualmente su frase"
+    },
+    "2fa-setup-step3-next": {
+      "english": "Continue",
+      "german": "Weitermachen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "portuguese": "Continuar",
+      "spanish": "Continuar"
+    },
+    "2fa-setup-step3-next1": {
+      "english": "Finish setting up",
+      "german": "Beenden Sie die Einrichtung",
+      "japanese": "セットアップを完了します",
+      "korean": "설정 완료",
+      "mandarin": "完成设置",
+      "portuguese": "Concluir a configuração",
+      "spanish": "Terminar de configurar"
+    },
+    "2fa-setup-step3-next2": {
+      "english": "Verify",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "확인하다",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "2fa-setup-step3-next3": {
+      "english": "Send recovery phrase",
+      "german": "Wiederherstellungsphrase senden",
+      "japanese": "回復フレーズを送信する",
+      "korean": "복구 문구 보내기",
+      "mandarin": "发送恢复短语",
+      "portuguese": "Enviar frase de recuperação",
+      "spanish": "Enviar frase de recuperación"
+    },
+    "2fa-setup-step3-next4": {
+      "english": "I have saved my recovery phrase",
+      "german": "Ich habe meine Wiederherstellungsphrase gespeichert",
+      "japanese": "回復フレーズを保存しました",
+      "korean": "복구 문구를 저장했습니다",
+      "mandarin": "我已经保存了我的恢复短语",
+      "portuguese": "Salvei minha frase de recuperação",
+      "spanish": "He guardado mi frase de recuperación"
+    },
+    "2fa-setup-step3-note11": {
+      "english": "Note:",
+      "german": "Notiz:",
+      "japanese": "ノート：",
+      "korean": "메모:",
+      "mandarin": "笔记：",
+      "portuguese": "Observação:",
+      "spanish": "Nota:"
+    },
+    "2fa-setup-step3-note12": {
+      "english": "You will need to confirm this phrase on the next screen",
+      "german": "Sie müssen diesen Satz auf dem nächsten Bildschirm bestätigen",
+      "japanese": "次の画面でこのフレーズを確認する必要があります",
+      "korean": "다음 화면에서 이 문구를 확인해야 합니다.",
+      "mandarin": "您需要在下一个屏幕上确认此短语",
+      "portuguese": "Você precisará confirmar esta frase na próxima tela",
+      "spanish": "Deberá confirmar esta frase en la siguiente pantalla"
+    },
+    "2fa-setup-step3-show-adv": {
+      "english": "View advanced option",
+      "german": "Erweiterte Option anzeigen",
+      "japanese": "詳細オプションを表示",
+      "korean": "고급 옵션 보기",
+      "mandarin": "查看高级选项",
+      "portuguese": "Ver opção avançada",
+      "spanish": "Ver opción avanzada"
+    },
+    "2fa-setup-step3-sub1": {
+      "english": "Provide an email to receive recovery phrase",
+      "german": "Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",
+      "japanese": "回復フレーズを受け取るための電子メールを提供する",
+      "korean": "복구 문구를 받을 이메일 제공",
+      "mandarin": "提供电子邮件以接收恢复短语",
+      "portuguese": "Forneça um e-mail para receber a frase de recuperação",
+      "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación"
+    },
+    "2fa-setup-step3-sub2": {
+      "english": "In case you lose access to your saved browser, you can authenticate with your recovery phrase.",
+      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",
+      "japanese": "保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。",
+      "korean": "저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.",
+      "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
+      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com sua frase de recuperação.",
+      "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación."
+    },
+    "2fa-setup-step3-sub21": {
+      "english": "Paste your recovery phrase sent to {0}",
+      "german": "Fügen Sie Ihren Wiederherstellungssatz ein, der an {0} gesendet wurde",
+      "japanese": "{0}に送信されたリカバリフレーズを貼り付けます",
+      "korean": "{0}(으)로 전송된 복구 문구를 붙여넣으세요.",
+      "mandarin": "粘贴您发送到 {0} 的辅助短语",
+      "portuguese": "Cole sua frase de recuperação enviada para {0}",
+      "spanish": "Pegue su frase de recuperación enviada a {0}"
+    },
+    "2fa-setup-step3-sub22": {
+      "english": "I know that if I lose this recovery phrase, I will bear the risk of losing my account.",
+      "german": "Ich weiß, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",
+      "japanese": "この回復フレーズを失った場合、アカウントを失うリスクを負うことを私は知っています。",
+      "korean": "이 복구 문구를 잃어버리면 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
+      "mandarin": "我知道如果我丢失了这个恢复短语，我将承担丢失帐户的风险。",
+      "portuguese": "Sei que se eu perder esta frase de recuperação, correrei o risco de perder minha conta.",
+      "spanish": "Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta."
+    },
+    "2fa-setup-step3-toggle1": {
+      "english": "Save my recovery phrase without email",
+      "german": "Meine Wiederherstellungsphrase ohne E-Mail speichern",
+      "japanese": "メールなしで回復フレーズを保存する",
+      "korean": "이메일 없이 내 복구 문구 저장",
+      "mandarin": "无需电子邮件即可保存我的恢复短语",
+      "portuguese": "Salvar minha frase de recuperação sem e-mail",
+      "spanish": "Guardar mi frase de recuperación sin correo electrónico"
+    },
+    "2fa-setup-step3-toggle2": {
+      "english": "Email me my recovery phrase",
+      "german": "Senden Sie mir meinen Wiederherstellungssatz per E-Mail",
+      "japanese": "私の回復フレーズを私にメールしてください",
+      "korean": "내 복구 문구를 이메일로 보내주세요",
+      "mandarin": "通过电子邮件向我发送恢复短语",
+      "portuguese": "Envie-me um e-mail com minha frase de recuperação",
+      "spanish": "Envíame mi frase de recuperación por correo electrónico"
+    },
+    "2fa-setup-step3-verified": {
+      "english": "Verified",
+      "german": "Verifiziert",
+      "japanese": "確認済み",
+      "korean": "확인됨",
+      "mandarin": "已验证",
+      "portuguese": "Verificado",
+      "spanish": "Verificado"
+    },
+    "2fa-setup-step4-cancel": {
+      "english": "Back",
+      "german": "Zurück",
+      "japanese": "戻る",
+      "korean": "뒤",
+      "mandarin": "后退",
+      "portuguese": "Voltar",
+      "spanish": "atrás"
+    },
+    "2fa-setup-step4-check-time": {
+      "english": "Did not receive it? Resent. Check again in {0}",
+      "german": "Nicht erhalten? Übelnehmen. Erneut einchecken in {0}",
+      "japanese": "受け取りませんでしたか？ 憤る。 {0}でもう一度確認してください",
+      "korean": "받지 못하셨나요? 재전송 했습니다. {0}에서 다시 확인하세요.",
+      "mandarin": "没有收到吗？ 反感。 再次签入{0}",
+      "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}",
+      "spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}"
+    },
+    "2fa-setup-step4-contact-support": {
+      "english": "Contact Support",
+      "german": "Kontaktieren Sie Support",
+      "japanese": "サポート問い合わせ先",
+      "korean": "연락처 지원",
+      "mandarin": "联系支持",
+      "portuguese": "Entre em contato com o suporte",
+      "spanish": "Soporte de contacto"
+    },
+    "2fa-setup-step4-next": {
+      "english": "Verify",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "검증",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "2fa-setup-step4-not-received": {
+      "english": "Did not receive it?",
+      "german": "Nicht erhalten?",
+      "japanese": "受け取りませんでしたか？",
+      "korean": "받지 못하셨나요?",
+      "mandarin": "没有收到吗？",
+      "portuguese": "Não recebeu?",
+      "spanish": "¿No lo recibiste?"
+    },
+    "2fa-setup-step4-recovery": {
+      "english": "Recovery phrase",
+      "german": "Wiederherstellungsphrase",
+      "japanese": "回復フレーズ",
+      "korean": "복구 문구",
+      "mandarin": "恢复短语",
+      "portuguese": "Frase de recuperação",
+      "spanish": "Frase de recuperación"
+    },
+    "2fa-setup-step4-resend": {
+      "english": "Resend",
+      "german": "Erneut senden",
+      "japanese": "再送",
+      "korean": "재전송",
+      "mandarin": "重发",
+      "portuguese": "Reenviar",
+      "spanish": "Reenviar"
+    },
+    "2fa-setup-step4-sub1": {
+      "english": "Verify your recovery phrase",
+      "german": "Bestätigen Sie Ihren Wiederherstellungssatz",
+      "japanese": "回復フレーズを確認する",
+      "korean": "복구 문구 확인",
+      "mandarin": "验证您的恢复短语",
+      "portuguese": "Verifique sua frase de recuperação",
+      "spanish": "Verifica tu frase de recuperación"
+    },
+    "2fa-setup-step4-sub21": {
+      "english": "Paste the recovery phrase",
+      "german": "Fügen Sie den Wiederherstellungssatz ein",
+      "japanese": "回復フレーズを貼り付けます",
+      "korean": "복구 문구 붙여넣기",
+      "mandarin": "粘贴恢复短语",
+      "portuguese": "Cole a frase de recuperação",
+      "spanish": "Pega la frase de recuperación"
+    },
+    "2fa-setup-step4-sub22": {
+      "english": "Paste the recovery phrase sent to your email {0}",
+      "german": "Fügen Sie den Wiederherstellungssatz ein, der an Ihre E-Mail-Adresse {0} gesendet wurde.",
+      "japanese": "メールに送信されたリカバリフレーズを貼り付けます{0}",
+      "korean": "이메일로 전송된 복구 문구를 붙여넣으세요 {0}",
+      "mandarin": "粘贴发送到您的电子邮件的恢复短语 {0}",
+      "portuguese": "Cole a frase de recuperação enviada para seu e-mail {0}",
+      "spanish": "Pega la frase de recuperación enviada a tu correo electrónico {0}"
+    },
+    "2fa-setup-step5-next": {
+      "english": "Done",
+      "german": "Fertig",
+      "japanese": "終わり",
+      "korean": "완료",
+      "mandarin": "完毕",
+      "portuguese": "Feito",
+      "spanish": "Hecho"
+    },
+    "2fa-setup-step5-return-app": {
+      "english": "Return to application",
+      "german": "Zurück zur Anwendung",
+      "japanese": "アプリケーションに戻る",
+      "korean": "애플리케이션으로 돌아가기",
+      "mandarin": "返回申请",
+      "portuguese": "Voltar ao aplicativo",
+      "spanish": "Volver a la aplicación"
+    },
+    "2fa-setup-step5-sub1": {
+      "english": "Your 2FA has been activated!",
+      "german": "Ihre 2FA wurde aktiviert!",
+      "japanese": "2FAがアクティブになりました！",
+      "korean": "2FA가 활성화되었습니다!",
+      "mandarin": "您的 2FA 已激活！",
+      "portuguese": "Seu 2FA foi ativado!",
+      "spanish": "¡Su 2FA ha sido activado!"
+    },
+    "2fa-setup-step5-sub2": {
+      "english": "Manage future account settings on app.openlogin.com",
+      "german": "Verwalten Sie zukünftige Kontoeinstellungen auf app.openlogin.com",
+      "japanese": "app.openlogin.comで将来のアカウント設定を管理します",
+      "korean": "app.openlogin.com에서 향후 계정 설정 관리",
+      "mandarin": "在 app.openlogin.com 上管理未来的帐户设置",
+      "portuguese": "Gerencie as configurações futuras da conta em app.openlogin.com",
+      "spanish": "Administre la configuración de la cuenta futura en app.openlogin.com"
+    },
+    "2fa-setup-title1": {
+      "english": "Secure your account",
+      "german": "Sichern Sie Ihr Konto",
+      "japanese": "アカウントを保護する",
+      "korean": "계정 보안",
+      "mandarin": "保护您的帐户",
+      "portuguese": "Proteja sua conta",
+      "spanish": "Asegure su cuenta"
+    },
+    "2fa-setup-title12": {
+      "english": "Set up 2 Factor Authentication",
+      "german": "2-Faktor-Authentifizierung einrichten",
+      "japanese": "2要素認証を設定する",
+      "korean": "2단계 인증 설정",
+      "mandarin": "设置 2 因素身份验证",
+      "portuguese": "Configure a autenticação de 2 fatores",
+      "spanish": "Configurar autenticación de 2 factores"
+    },
+    "2fa-setup-title2": {
+      "english": "Set up 2FA",
+      "german": "2FA einrichten",
+      "japanese": "2FAを設定する",
+      "korean": "2FA 설정",
+      "mandarin": "设置 2FA",
+      "portuguese": "Configurar 2FA",
+      "spanish": "Configurar 2FA"
+    },
+    "2fa-setup-title21": {
+      "english": "Step 1: Save your device",
+      "german": "Schritt 1: Speichern Sie Ihr Gerät",
+      "japanese": "ステップ1：デバイスを保存する",
+      "korean": "1단계: 디바이스 저장",
+      "mandarin": "第 1 步：保存您的设备",
+      "portuguese": "Etapa 1: salve seu dispositivo",
+      "spanish": "Paso 1: Guarde su dispositivo"
+    },
+    "2fa-setup-title3": {
+      "english": "Save recovery phrase",
+      "german": "Wiederherstellungsphrase speichern",
+      "japanese": "回復フレーズを保存する",
+      "korean": "복구 문구 저장",
+      "mandarin": "保存恢复短语",
+      "portuguese": "Salvar frase de recuperação",
+      "spanish": "Guardar frase de recuperación"
+    },
+    "2fa-setup-title31": {
+      "english": "Step 2: Save recovery phrase",
+      "german": "Schritt 2: Speichern Sie die Wiederherstellungsphrase",
+      "japanese": "ステップ2：リカバリフレーズを保存する",
+      "korean": "2단계: 복구 문구 저장",
+      "mandarin": "第 2 步：保存恢复短语",
+      "portuguese": "Etapa 2: salvar a frase de recuperação",
+      "spanish": "Paso 2: Guarda la frase de recuperación"
+    },
+    "2fa-setup-title32": {
+      "english": "Step 3: Verify Recovery Phrase",
+      "german": "Schritt 3: Überprüfen Sie die Wiederherstellungsphrase",
+      "japanese": "ステップ3：リカバリフレーズを確認する",
+      "korean": "3단계: 복구 문구 확인",
+      "mandarin": "第 3 步：验证恢复短语",
+      "portuguese": "Etapa 3: verificar a frase de recuperação",
+      "spanish": "Paso 3: Verificar la frase de recuperación"
+    },
+    "2fa-setup-title4": {
+      "english": "Recovery verification",
+      "german": "Wiederherstellungsüberprüfung",
+      "japanese": "回復の検証",
+      "korean": "복구 확인",
+      "mandarin": "恢复验证",
+      "portuguese": "Verificação de recuperação",
+      "spanish": "Verificación de recuperación"
+    },
+    "2fa-setup-title5": {
+      "english": "2FA activated",
+      "german": "2FA aktiviert",
+      "japanese": "2FAがアクティブ化",
+      "korean": "2FA 활성화",
+      "mandarin": "2FA 激活",
+      "portuguese": "2FA ativado",
+      "spanish": "2FA activado"
+    },
+    "2fa-verify-multi-head": {
+      "english": "Allow access from your saved browser",
+      "german": "Erlauben Sie den Zugriff von Ihrem gespeicherten Browser",
+      "japanese": "保存したブラウザからのアクセスを許可する",
+      "korean": "저장된 브라우저에서 액세스 허용",
+      "mandarin": "允许从您保存的浏览器访问",
+      "portuguese": "Permita o acesso do seu navegador salvo",
+      "spanish": "Permitir el acceso desde su navegador guardado"
+    },
+    "2fa-verify-multi-subhead": {
+      "english": "Login to the following saved browser to approve access",
+      "german": "Melden Sie sich beim folgenden gespeicherten Browser an, um den Zugriff zu genehmigen",
+      "japanese": "次の保存されたブラウザにログインして、アクセスを承認します",
+      "korean": "액세스를 승인하려면 다음 저장된 브라우저에 로그인하십시오.",
+      "mandarin": "登录到以下已保存的浏览器以批准访问",
+      "portuguese": "Faça login no seguinte navegador salvo para aprovar o acesso",
+      "spanish": "Inicie sesión en el siguiente navegador guardado para aprobar el acceso"
+    },
+    "2fa-verify-multi-subhead2": {
+      "english": "A login request will be sent to your saved browser",
+      "german": "Eine Anmeldeanfrage wird an Ihren gespeicherten Browser gesendet",
+      "japanese": "保存したブラウザにログインリクエストが送信されます",
+      "korean": "저장된 브라우저로 로그인 요청이 전송됩니다.",
+      "mandarin": "登录请求将发送到您保存的浏览器",
+      "portuguese": "Uma solicitação de login será enviada para o seu navegador salvo",
+      "spanish": "Se enviará una solicitud de inicio de sesión a su navegador guardado"
+    },
+    "2fa-verify-multi-title": {
+      "english": "{0} devices available",
+      "german": "{0} Geräte verfügbar",
+      "japanese": "利用可能な{0}デバイス",
+      "korean": "사용 가능한 디바이스 {0}대",
+      "mandarin": "{0} 台设备可用",
+      "portuguese": "{0} dispositivos disponíveis",
+      "spanish": "{0} dispositivos disponibles"
+    },
+    "2fa-verify-recovery-label": {
+      "english": "Enter recovery phrase",
+      "german": "Geben Sie den Wiederherstellungssatz ein",
+      "japanese": "回復フレーズを入力してください",
+      "korean": "복구 문구 입력",
+      "mandarin": "输入恢复短语",
+      "portuguese": "Digite a frase de recuperação",
+      "spanish": "Ingrese la frase de recuperación"
+    },
+    "2fa-verify-recovery-note": {
+      "english": "If you are unable to verify any of the above, you are unable to login to your account.",
+      "german": "Wenn Sie keinen der oben genannten Punkte bestätigen können, können Sie sich nicht bei Ihrem Konto anmelden.",
+      "japanese": "上記のいずれかを確認できない場合は、アカウントにログインできません。",
+      "korean": "위의 항목 중 하나라도 확인할 수 없으면 계정에 로그인할 수 없습니다.",
+      "mandarin": "如果您无法验证上述任何一项，则无法登录您的帐户。",
+      "portuguese": "Se você não conseguir verificar nenhum dos itens acima, não poderá fazer login na sua conta.",
+      "spanish": "Si no puede verificar ninguno de los anteriores, no puede iniciar sesión en su cuenta."
+    },
+    "2fa-verify-recovery-placeholder": {
+      "english": "Recovery phrase",
+      "german": "Wiederherstellungsphrase",
+      "japanese": "回復フレーズ",
+      "korean": "복구 문구",
+      "mandarin": "恢复短语",
+      "portuguese": "Frase de recuperação",
+      "spanish": "Frase de recuperación"
+    },
+    "2fa-verify-recovery-title": {
+      "english": "Recovery code",
+      "german": "Wiederherstellungscode",
+      "japanese": "リカバリコード",
+      "korean": "복구 코드",
+      "mandarin": "恢复代码",
+      "portuguese": "Código de recuperação",
+      "spanish": "Código de recuperación"
+    },
+    "2fa-verify-reference-id": {
+      "english": "Reference ID",
+      "german": "Referenz ID",
+      "japanese": "参照ID",
+      "korean": "참조 ID",
+      "mandarin": "参考编号",
+      "portuguese": "Identificador de referência",
+      "spanish": "Identificación de referencia"
+    },
+    "2fa-verify-save-head": {
+      "english": "Account recovered",
+      "german": "Konto wiederhergestellt",
+      "japanese": "アカウントが回復しました",
+      "korean": "계정 복구됨",
+      "mandarin": "帐户已恢复",
+      "portuguese": "Conta recuperada",
+      "spanish": "Cuenta recuperada"
+    },
+    "2fa-verify-save-nosave": {
+      "english": "Maybe next time",
+      "german": "Vielleicht nächstes Mal",
+      "japanese": "また今度",
+      "korean": "다음 번에",
+      "mandarin": "下次吧",
+      "portuguese": "Talvez na próxima vez",
+      "spanish": "Quizás la próxima vez"
+    },
+    "2fa-verify-save-save": {
+      "english": "Save this device",
+      "german": "Speichern Sie dieses Gerät",
+      "japanese": "このデバイスを保存します",
+      "korean": "이 디바이스 저장",
+      "mandarin": "保存此设备",
+      "portuguese": "Salvar este dispositivo",
+      "spanish": "Guardar este dispositivo"
+    },
+    "2fa-verify-save-subhead": {
+      "english": "Would you like to save this device as a trusted device?",
+      "german": "Möchten Sie dieses Gerät als vertrauenswürdiges Gerät speichern?",
+      "japanese": "このデバイスを信頼できるデバイスとして保存しますか？",
+      "korean": "이 디바이스를 신뢰할 수 있는 디바이스로 저장하시겠습니까?",
+      "mandarin": "您想将此设备保存为受信任的设备吗？",
+      "portuguese": "Deseja salvar este dispositivo como um dispositivo confiável?",
+      "spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?"
+    },
+    "2fa-verify-share-browser": {
+      "english": "Browser",
+      "german": "Browser",
+      "japanese": "ブラウザ",
+      "korean": "브라우저",
+      "mandarin": "浏览器",
+      "portuguese": "Navegador",
+      "spanish": "Navegador"
+    },
+    "2fa-verify-share-head": {
+      "english": "Select one of the following",
+      "german": "Wählen Sie eine der folgenden Optionen",
+      "japanese": "次のいずれかを選択してください",
+      "korean": "다음 중 하나를 선택하십시오.",
+      "mandarin": "选择以下之一",
+      "portuguese": "Selecione um dos seguintes",
+      "spanish": "Selecciona uno de los siguientes"
+    },
+    "2fa-verify-share-resend": {
+      "english": "Resend request",
+      "german": "Anfrage erneut senden",
+      "japanese": "再送信リクエスト",
+      "korean": "재전송 요청",
+      "mandarin": "重新发送请求",
+      "portuguese": "Reenviar solicitação",
+      "spanish": "Reenviar solicitud"
+    },
+    "2fa-verify-share-send": {
+      "english": "Send request",
+      "german": "Anfrage senden",
+      "japanese": "リクエストを送信",
+      "korean": "요청 보내기",
+      "mandarin": "发送请求",
+      "portuguese": "Enviar pedido",
+      "spanish": "Enviar petición"
+    },
+    "2fa-verify-share-subhead": {
+      "english": "You need one of the following to login",
+      "german": "Sie benötigen eine der folgenden Möglichkeiten, um sich anzumelden",
+      "japanese": "ログインするには、次のいずれかが必要です",
+      "korean": "로그인하려면 다음 중 하나가 필요합니다.",
+      "mandarin": "您需要以下其中一项才能登录",
+      "portuguese": "Você precisa de um dos seguintes para fazer login",
+      "spanish": "Necesita uno de los siguientes para iniciar sesión"
+    },
+    "2fa-verify-step1-do-not-save": {
+      "english": "Do not save this brower/device.",
+      "german": "Speichern Sie diesen Browser/dieses Gerät nicht.",
+      "japanese": "このブラウザ/デバイスを保存しないでください。",
+      "korean": "이 브라우저/디바이스를 저장하지 마십시오.",
+      "mandarin": "不要保存此浏览器/设备。",
+      "portuguese": "Não salve este navegador/dispositivo.",
+      "spanish": "No guarde este navegador / dispositivo."
+    },
+    "2fa-verify-step1-go-app": {
+      "english": "Go to App",
+      "german": "Gehe zu App",
+      "japanese": "アプリに行きます",
+      "korean": "앱으로 이동",
+      "mandarin": "转到应用程序",
+      "portuguese": "Vá para o aplicativo",
+      "spanish": "Ir a la aplicación"
+    },
+    "2fa-verify-step1-panel1": {
+      "english": "Saved browser(s) / devices",
+      "german": "Gespeicherte(r) Browser/Geräte",
+      "japanese": "保存されたブラウザ/デバイス",
+      "korean": "저장된 브라우저/디바이스",
+      "mandarin": "保存的浏览器/设备",
+      "portuguese": "Navegadores/dispositivos salvos",
+      "spanish": "Navegadores / dispositivos guardados"
+    },
+    "2fa-verify-step1-panel2": {
+      "english": "Recovery phrase",
+      "german": "Wiederherstellungsphrase",
+      "japanese": "回復フレーズ",
+      "korean": "복구 문구",
+      "mandarin": "恢复短语",
+      "portuguese": "Frase de recuperação",
+      "spanish": "Frase de recuperación"
+    },
+    "2fa-verify-step1-rec-label": {
+      "english": "Enter recovery phrase",
+      "german": "Geben Sie den Wiederherstellungssatz ein",
+      "japanese": "回復フレーズを入力してください",
+      "korean": "복구 문구 입력",
+      "mandarin": "输入恢复短语",
+      "portuguese": "Digite a frase de recuperação",
+      "spanish": "Ingrese la frase de recuperación"
+    },
+    "2fa-verify-step1-rec-placeholder": {
+      "english": "Recovery phrase",
+      "german": "Wiederherstellungsphrase",
+      "japanese": "回復フレーズ",
+      "korean": "복구 문구",
+      "mandarin": "恢复短语",
+      "portuguese": "Frase de recuperação",
+      "spanish": "Frase de recuperación"
+    },
+    "2fa-verify-step1-sub1": {
+      "english": "Authenticate with one of the following",
+      "german": "Authentifizieren Sie sich mit einer der folgenden Optionen",
+      "japanese": "次のいずれかで認証します",
+      "korean": "다음 중 하나로 인증",
+      "mandarin": "使用以下之一进行身份验证",
+      "portuguese": "Autenticar com um dos seguintes",
+      "spanish": "Autenticarse con uno de los siguientes"
+    },
+    "2fa-verify-step1-sub2": {
+      "english": "You need one of the following to login",
+      "german": "Sie benötigen eine der folgenden Möglichkeiten, um sich anzumelden",
+      "japanese": "ログインするには、次のいずれかが必要です",
+      "korean": "로그인하려면 다음 중 하나가 필요합니다.",
+      "mandarin": "您需要以下其中一项才能登录",
+      "portuguese": "Você precisa de um dos seguintes para fazer login",
+      "spanish": "Necesita uno de los siguientes para iniciar sesión"
+    },
+    "2fa-verify-step1-verify": {
+      "english": "Verify",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "검증",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "2fa-verify-step2-sub1": {
+      "english": "Successful verification",
+      "german": "Erfolgreiche Verifizierung",
+      "japanese": "検証の成功",
+      "korean": "인증 성공",
+      "mandarin": "验证成功",
+      "portuguese": "Verificação bem-sucedida",
+      "spanish": "Verificación exitosa"
+    },
+    "2fa-verify-success-head": {
+      "english": "Successful",
+      "german": "Erfolgreich",
+      "japanese": "成功",
+      "korean": "성공적인",
+      "mandarin": "成功的",
+      "portuguese": "Bem sucedido",
+      "spanish": "Exitoso"
+    },
+    "2fa-verify-success-subtitle": {
+      "english": "Logging you in",
+      "german": "Melden Sie sich an",
+      "japanese": "ログインします",
+      "korean": "로그인",
+      "mandarin": "登录",
+      "portuguese": "Conectando você",
+      "spanish": "iniciando sesión"
+    },
+    "2fa-verify-success-title": {
+      "english": "2FA verified",
+      "german": "2FA verifiziert",
+      "japanese": "2FA検証済み",
+      "korean": "2FA 인증",
+      "mandarin": "2FA 验证",
+      "portuguese": "2FA verificado",
+      "spanish": "2FA verificado"
+    },
+    "2fa-verify-title1": {
+      "english": "Verify your login",
+      "german": "Bestätigen Sie Ihre Anmeldung",
+      "japanese": "ログインを確認する",
+      "korean": "로그인 확인",
+      "mandarin": "验证您的登录信息",
+      "portuguese": "Verifique seu login",
+      "spanish": "Verifique su inicio de sesión"
+    },
+    "2fa-verify-title2": {
+      "english": "2FA activated",
+      "german": "2FA aktiviert",
+      "japanese": "2FAがアクティブ化",
+      "korean": "2FA 활성화",
+      "mandarin": "2FA 激活",
+      "portuguese": "2FA ativado",
+      "spanish": "2FA activado"
+    },
+    "2fa-verify-try-other": {
+      "english": "Try other methods",
+      "german": "Probieren Sie andere Methoden aus",
+      "japanese": "他の方法を試す",
+      "korean": "다른 방법 시도",
+      "mandarin": "尝试其他方法",
+      "portuguese": "Tente outros métodos",
+      "spanish": "Pruebe otros métodos"
+    },
+    "2fa-verify-verify": {
+      "english": "Verify",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "검증",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "constructYourKey": {
+      "english": "Constructing your key on",
+      "german": "Bauen Sie Ihren Schlüssel auf",
+      "japanese": "キーを作成する",
+      "korean": "키 구성",
+      "mandarin": "构建您的密钥",
+      "portuguese": "Construindo sua chave em",
+      "spanish": "Construyendo tu clave en"
     },
     "edit-phone-number-text": {
       "english": "Edit phone number",
       "german": "Telefonnummer bearbeiten",
-      "mandarin": "编辑电话号码",
-      "korean": "전화번호 수정",
-      "spanish": "Editar número de teléfono",
       "japanese": "電話番号を編集します",
-      "portugese": "Edite o número de telefone"
-    },
-    "verify-otp-title-redirect": {
-      "english": "Enter your OTP",
-      "german": "Geben Sie Ihre OTP ein",
-      "mandarin": "输入您的OTP",
-      "korean": "OTP를 입력하십시오",
-      "spanish": "Ingrese su OTP",
-      "japanese": "OTPを入力してください",
-      "portugese": "Digite seu OTP"
-    },
-    "verify-otp-heading-1": {
-      "english": "An OTP has been sent to {number}",
-      "german": "Ein OTP wurde an gesendet {number}",
-      "mandarin": "OTP已发送到 {number}",
-      "korean": "OTP가 전송되었습니다 {number}",
-      "spanish": "Se ha enviado un OTP a {number}",
-      "japanese": "OTPが送信されました {number}",
-      "portugese": "Um OTP foi enviado para {number}"
-    },
-    "verify-otp-heading-2": {
-      "english": "Enter OTP to continue",
-      "german": "Geben Sie OTP ein, um fortzufahren",
-      "mandarin": "输入OTP继续",
-      "korean": "계속하려면 OTP를 입력하십시오",
-      "spanish": "Ingrese OTP para continuar",
-      "japanese": "続行するにはOTPを入力します",
-      "portugese": "Digite o OTP para continuar"
-    },
-    "otp-verification-response-success": {
-      "english": "OTP verified",
-      "german": "OTP verifiziert",
-      "mandarin": "已验证OTP",
-      "korean": "OTP가 확인되었습니다",
-      "spanish": "OTP verificado",
-      "japanese": "OTP検証",
-      "portugese": "OTP Verificado"
-    },
-    "otp-verification-response-invalid": {
-      "english": "Invalid OTP",
-      "german": "Ungültiges OTP",
-      "mandarin": "无效的OTP",
-      "korean": "잘못된 OTP",
-      "spanish": "OTP no válido",
-      "japanese": "無効なOTP",
-      "portugese": "OTP inválido"
-    },
-    "otp-verification-response-expired": {
-      "english": "OTP Expired",
-      "german": "OTP abgelaufen",
-      "mandarin": "OTP过期",
-      "korean": "OTP가 만료되었습니다",
-      "spanish": "OTP expiró",
-      "japanese": "OTPの有効期限が切れました",
-      "portugese": "OTP expirou"
+      "korean": "전화번호 수정",
+      "mandarin": "编辑电话号码",
+      "portugese": "Edite o número de telefone",
+      "spanish": "Editar número de teléfono"
     },
     "invalid-number-error-message": {
       "english": "Invalid phone number",
       "german": "Ungültige Telefonnummer",
-      "mandarin": "无效的电话号码",
-      "korean": "유효하지 않은 전화 번호",
-      "spanish": "Numero de telefono invalido",
       "japanese": "無効な電話番号",
-      "portugese": "Número de telefone inválido"
+      "korean": "유효하지 않은 전화 번호",
+      "mandarin": "无效的电话号码",
+      "portugese": "Número de telefone inválido",
+      "spanish": "Numero de telefono invalido"
     },
-    "returning-exist-use-another": {
-      "mandarin": "使用其他帐户",
-      "spanish": "Usa otra cuenta",
-      "english": "Use another account",
-      "japanese": "別のアカウントを使用する",
-      "korean": "다른 계정 사용",
-      "german": "Benutze einen anderen Account",
-      "portuguese": "Usar outra conta"
+    "migrate-continue": {
+      "english": "Continue",
+      "german": "Fortsetzen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "portuguese": "Continuar",
+      "spanish": "Continuar"
     },
-    "popup-view-less": {
-      "mandarin": "查看较少的选项",
-      "spanish": "Ver menos opciones",
-      "english": "View less options",
-      "japanese": "少ないオプションを表示",
-      "korean": "옵션 간략히보기",
-      "german": "Weniger Optionen anzeigen",
-      "portuguese": "Ver menos opções"
+    "migrate-desc1": {
+      "english": "The latest version of Torus Wallet is powered by OpenLogin.",
+      "german": "Die neueste Version von Torus Wallet wird von OpenLogin unterstützt.",
+      "japanese": "Torus Walletの最新バージョンは、OpenLoginを利用しています。",
+      "korean": "최신 버전의 Torus Wallet은 OpenLogin으로 구동됩니다.",
+      "mandarin": "最新版本的Torus Wallet由OpenLogin提供支持。",
+      "portuguese": "A versão mais recente do Torus Wallet é fornecida pelo OpenLogin.",
+      "spanish": "La última versión de Torus Wallet funciona con OpenLogin."
     },
-    "2fa-setup-title3": {
-      "mandarin": "保存恢复短语",
-      "spanish": "Guardar frase de recuperación",
-      "english": "Save recovery phrase",
-      "japanese": "回復フレーズを保存する",
-      "korean": "복구 문구 저장",
-      "german": "Wiederherstellungsphrase speichern",
-      "portuguese": "Salvar frase de recuperação"
+    "migrate-desc21": {
+      "english": "To enjoy the latest features of the Torus Wallet",
+      "german": "Genießen Sie die neuesten Funktionen der Torus-Brieftasche",
+      "japanese": "トーラスウォレットの最新機能をお楽しみください",
+      "korean": "Torus Wallet의 최신 기능을 즐기려면",
+      "mandarin": "享受Torus钱包的最新功能",
+      "portuguese": "Para aproveitar os recursos mais recentes da Torus Wallet",
+      "spanish": "Para disfrutar de las últimas funciones de Torus Wallet"
     },
-    "2fa-verify-step1-do-not-save": {
-      "mandarin": "不要保存此浏览器/设备。",
-      "spanish": "No guarde este navegador / dispositivo.",
-      "english": "Do not save this brower/device.",
-      "japanese": "このブラウザ/デバイスを保存しないでください。",
-      "korean": "이 브라우저/디바이스를 저장하지 마십시오.",
-      "german": "Speichern Sie diesen Browser/dieses Gerät nicht.",
-      "portuguese": "Não salve este navegador/dispositivo."
+    "migrate-desc22": {
+      "english": "kindly verify your identity on this new version",
+      "german": "Bitte überprüfen Sie Ihre Identität in dieser neuen Version",
+      "japanese": "この新しいバージョンであなたの身元を確認してください",
+      "korean": "이 새 버전에서 신원을 확인하십시오.",
+      "mandarin": "请在此新版本上验证您的身份",
+      "portuguese": "gentilmente verifique sua identidade nesta nova versão",
+      "spanish": "por favor verifique su identidad en esta nueva versión"
     },
-    "2fa-setup-step3-sub22": {
-      "mandarin": "我知道如果我丢失了这个恢复短语，我将承担丢失帐户的风险。",
-      "spanish": "Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta.",
-      "english": "I know that if I lose this recovery phrase, I will bear the risk of losing my account.",
-      "japanese": "この回復フレーズを失った場合、アカウントを失うリスクを負うことを私は知っています。",
-      "korean": "이 복구 문구를 잃어버리면 계정을 잃을 위험을 감수해야 한다는 것을 알고 있습니다.",
-      "german": "Ich weiß, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",
-      "portuguese": "Sei que se eu perder esta frase de recuperação, correrei o risco de perder minha conta."
-    },
-    "returning-header-desc": {
-      "mandarin": "您的数字钱包通过",
-      "spanish": "Tu billetera digital a través de",
-      "english": "Your digital wallet via",
-      "japanese": "経由であなたのデジタルウォレット",
-      "korean": "디지털 지갑을 통해",
-      "german": "Ihre digitale Geldbörse über",
-      "portuguese": "Sua carteira digital via"
-    },
-    "2fa-setup-step4-next": {
-      "mandarin": "核实",
-      "spanish": "Verificar",
-      "english": "Verify",
-      "japanese": "確認",
-      "korean": "검증",
-      "german": "Verifizieren",
-      "portuguese": "Verificar"
-    },
-    "reconstruct-title": {
-      "mandarin": "验证您的登录名",
-      "spanish": "Verifique su inicio de sesión",
-      "english": "Verify your login",
-      "japanese": "ログインを確認する",
-      "korean": "로그인 확인",
-      "german": "Überprüfen Sie Ihr Login",
-      "portuguese": "Verifique seu login"
-    },
-    "popup-subtitle": {
-      "mandarin": "选择您想继续的方式",
-      "spanish": "Seleccione cómo le gustaría continuar",
-      "english": "Select how you would like to continue",
-      "japanese": "続行する方法を選択してください",
-      "korean": "계속할 방법을 선택하십시오.",
-      "german": "Wählen Sie aus, wie Sie fortfahren möchten",
-      "portuguese": "Selecione como você gostaria de continuar"
-    },
-    "2fa-verify-multi-subhead2": {
-      "mandarin": "登录请求将发送到您保存的浏览器",
-      "spanish": "Se enviará una solicitud de inicio de sesión a su navegador guardado",
-      "english": "A login request will be sent to your saved browser",
-      "japanese": "保存したブラウザにログインリクエストが送信されます",
-      "korean": "저장된 브라우저로 로그인 요청이 전송됩니다.",
-      "german": "Eine Anmeldeanfrage wird an Ihren gespeicherten Browser gesendet",
-      "portuguese": "Uma solicitação de login será enviada para o seu navegador salvo"
-    },
-    "returning-confirm-btn": {
-      "mandarin": "是的，继续生物识别",
-      "spanish": "Sí, continuar con la biometría",
-      "english": "Yes, continue with biometrics",
-      "japanese": "はい、生体認証を続行します",
-      "korean": "예, 생체 인식을 계속합니다.",
-      "german": "Ja, weiter mit Biometrie",
-      "portuguese": "Sim, continuar com a biometria"
-    },
-    "register-subtitle": {
-      "mandarin": "选择以下之一",
-      "spanish": "Selecciona uno de los siguientes",
-      "english": "Select one of the following",
-      "japanese": "次のいずれかを選択してください",
-      "korean": "다음 중 하나를 선택하십시오.",
-      "german": "Wählen Sie eine der folgenden Optionen",
-      "portuguese": "Selecione um dos seguintes"
-    },
-    "reconstruct-subtitle": {
-      "mandarin": "验证以下内容之一以访问您的帐户",
-      "spanish": "Verifique con uno de los siguientes para acceder a su cuenta",
-      "english": "Verify with one of the following to access your account",
-      "japanese": "アカウントにアクセスするには、次のいずれかで確認してください",
-      "korean": "계정에 액세스하려면 다음 중 하나로 확인하세요.",
-      "german": "Überprüfen Sie mit einem der folgenden Punkte, um auf Ihr Konto zuzugreifen",
-      "portuguese": "Verifique com um dos seguintes para acessar sua conta"
-    },
-    "register-title": {
-      "mandarin": "保护您的{0}帐户",
-      "spanish": "Asegurar su cuenta de {0}",
-      "english": "Securing your {0} account",
-      "japanese": "{0}アカウントを保護する",
-      "korean": "{0} 계정 보안",
-      "german": "Sichern Sie Ihr {0} Konto",
-      "portuguese": "Protegendo sua conta {0}"
-    },
-    "register-title-try-webauth": {
-      "mandarin": "保护您的帐户",
-      "spanish": "Asegurar su cuenta",
-      "english": "Securing your account",
-      "japanese": "アカウントを保護する",
-      "korean": "계정 보안",
-      "german": "Sichern Sie Ihr Konto",
-      "portuguese": "Protegendo sua conta"
-    },
-    "reconstruct-device-prev3": {
-      "mandarin": "从下面存储的浏览器中验证您的身份。",
-      "spanish": "desde el navegador almacenado a continuación para verificar su identidad.",
-      "english": "from the stored browser below to verify your identity.",
-      "japanese": "以下の保存されているブラウザから本人確認を行ってください。",
-      "korean": "아래 저장된 브라우저에서 귀하의 신원을 확인하십시오.",
-      "german": "über den unten gespeicherten Browser, um Ihre Identität zu überprüfen.",
-      "portuguese": "do navegador armazenado abaixo para verificar sua identidade."
-    },
-    "verifier-email-placeholder": {
-      "mandarin": "电子邮件",
-      "spanish": "Correo electrónico",
-      "english": "Email",
-      "japanese": "Eメール",
-      "korean": "이메일",
-      "german": "Email",
-      "portuguese": "E-mail"
-    },
-    "verifier-sms-placeholder": {
-      "mandarin": "例如：",
-      "spanish": "P.ej:",
-      "english": "Eg:",
-      "japanese": "例えば：",
-      "korean": "예 :",
-      "german": "Z.B:",
-      "portuguese": "Por exemplo:"
-    },
-    "social-2fa-warning-cta-1": {
-      "mandarin": "是的，我接受风险",
-      "spanish": "Sí, acepto el riesgo",
-      "english": "Yes, I accept the risk",
-      "japanese": "はい、私はリスクを受け入れます",
-      "korean": "예, 위험성을 받아들이겠습니다",
-      "german": "Ja, ich akzeptiere das Risiko",
-      "portuguese": "Sim, eu aceito o risco"
-    },
-    "subtitle": {
-      "mandarin": "点击开始以继续",
-      "spanish": "Haga clic en comenzar para continuar",
-      "english": "Click Get Started to continue",
-      "japanese": "[開始]をクリックして続行します",
-      "korean": "계속하려면 시작하기를 클릭하세요.",
-      "german": "Klicken Sie auf Erste Schritte, um fortzufahren",
-      "portuguese": "Clique em Começar para continuar"
-    },
-    "2fa-verify-save-subhead": {
-      "mandarin": "您想将此设备保存为受信任的设备吗？",
-      "spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?",
-      "english": "Would you like to save this device as a trusted device?",
-      "japanese": "このデバイスを信頼できるデバイスとして保存しますか？",
-      "korean": "이 디바이스를 신뢰할 수 있는 디바이스로 저장하시겠습니까?",
-      "german": "Möchten Sie dieses Gerät als vertrauenswürdiges Gerät speichern?",
-      "portuguese": "Deseja salvar este dispositivo como um dispositivo confiável?"
-    },
-    "2fa-setup-title5": {
-      "mandarin": "2FA 激活",
-      "spanish": "2FA activado",
-      "english": "2FA activated",
-      "japanese": "2FAがアクティブ化",
-      "korean": "2FA 활성화",
-      "german": "2FA aktiviert",
-      "portuguese": "2FA ativado"
-    },
-    "mpc-2fa-setup-step3-sub2": {
-      "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
-      "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación.",
-      "english": "In case you lose access to your saved browser, you can authenticate with your recovery factor.",
-      "japanese": "保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。",
-      "korean": "저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.",
-      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",
-      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com seu fator de recuperação."
-    },
-    "register-password-password": {
-      "mandarin": "输入密码",
-      "spanish": "Ingresa tu contraseña",
-      "english": "Enter your password",
-      "japanese": "パスワードを入力してください",
-      "korean": "비밀번호를 입력하세요",
-      "german": "Geben Sie Ihr Passwort ein",
-      "portuguese": "Coloque sua senha"
-    },
-    "social-2fa-verify-heading": {
-      "mandarin": "社会恢复因素",
-      "spanish": "Factor de recuperación social",
-      "english": "Social Recovery factor",
-      "japanese": "社会的回復要因",
-      "korean": "소셜 복구 요인",
-      "german": "Sozialer Genesungsfaktor",
-      "portuguese": "Fator de Recuperação Social"
-    },
-    "register-backup-phrase-additional-security-desc1": {
-      "mandarin": "将向您发送一封包含备份短语的电子邮件。",
-      "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
-      "english": "An email will be sent to you containing the backup phrase.",
-      "japanese": "バックアップ フレーズを含むメールが送信されます。",
-      "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
-      "german": "Sie erhalten eine E-Mail mit der Backup-Phrase.",
-      "portuguese": "Um e-mail será enviado para você contendo a frase de backup."
-    },
-    "popup-manage": {
-      "mandarin": "管理帐户",
-      "spanish": "Administrar cuenta",
-      "english": "Manage account",
-      "japanese": "アカウントを管理する",
-      "korean": "계정 관리",
-      "german": "Konto verwalten",
-      "portuguese": "Gerenciar conta"
-    },
-    "2fa-verify-try-other": {
-      "mandarin": "尝试其他方法",
-      "spanish": "Pruebe otros métodos",
-      "english": "Try other methods",
-      "japanese": "他の方法を試す",
-      "korean": "다른 방법 시도",
-      "german": "Probieren Sie andere Methoden aus",
-      "portuguese": "Tente outros métodos"
-    },
-    "2fa-setup-title21": {
-      "mandarin": "第 1 步：保存您的设备",
-      "spanish": "Paso 1: Guarde su dispositivo",
-      "english": "Step 1: Save your device",
-      "japanese": "ステップ1：デバイスを保存する",
-      "korean": "1단계: 디바이스 저장",
-      "german": "Schritt 1: Speichern Sie Ihr Gerät",
-      "portuguese": "Etapa 1: salve seu dispositivo"
-    },
-    "2fa-setup-step3-next2": {
-      "mandarin": "核实",
-      "spanish": "Verificar",
-      "english": "Verify",
-      "japanese": "確認",
-      "korean": "확인하다",
-      "german": "Verifizieren",
-      "portuguese": "Verificar"
+    "migrate-list1": {
+      "english": "Supports Face ID / Touch ID",
+      "german": "Unterstützt Face ID / Touch ID",
+      "japanese": "Face ID / TouchIDをサポート",
+      "korean": "Face ID / Touch ID 지원",
+      "mandarin": "支持面部识别/触摸识别",
+      "portuguese": "Suporta Face ID / Touch ID",
+      "spanish": "Soporta Face ID / Touch ID"
     },
     "migrate-list2": {
-      "mandarin": "由SSO和设备保护",
-      "spanish": "Asegurado por SSO y dispositivo",
       "english": "Secured by SSO and device",
+      "german": "Durch SSO und Gerät gesichert",
       "japanese": "SSOとデバイスによって保護されています",
       "korean": "SSO 및 디바이스로 보호",
-      "german": "Durch SSO und Gerät gesichert",
-      "portuguese": "Protegido por SSO e dispositivo"
+      "mandarin": "由SSO和设备保护",
+      "portuguese": "Protegido por SSO e dispositivo",
+      "spanish": "Asegurado por SSO y dispositivo"
     },
-    "2fa-verify-step1-verify": {
-      "mandarin": "核实",
-      "spanish": "Verificar",
-      "english": "Verify",
-      "japanese": "確認",
-      "korean": "검증",
-      "german": "Verifizieren",
-      "portuguese": "Verificar"
+    "migrate-list3": {
+      "english": "Protected user Data and Privacy",
+      "german": "Geschützte Benutzerdaten und Datenschutz",
+      "japanese": "保護されたユーザーデータとプライバシー",
+      "korean": "보호 된 사용자 데이터 및 개인 정보",
+      "mandarin": "受保护的用户数据和隐私",
+      "portuguese": "Dados e privacidade protegidos do usuário",
+      "spanish": "Privacidad y datos de usuario protegidos"
+    },
+    "migrate-subtitle": {
+      "english": "Migrating your tKey",
+      "german": "Migrieren Sie Ihren tKey",
+      "japanese": "tKeyの移行",
+      "korean": "tKey 마이그레이션",
+      "mandarin": "迁移您的tKey",
+      "portuguese": "Migrando sua tKey",
+      "spanish": "Migrar su tKey"
+    },
+    "migrate-title": {
+      "english": "made simple and secure with",
+      "german": "einfach und sicher gemacht mit",
+      "japanese": "シンプルで安全に",
+      "korean": "간단하고 안전하게",
+      "mandarin": "变得简单而安全",
+      "portuguese": "simples e seguro com",
+      "spanish": "hecho simple y seguro con"
+    },
+    "mpc-2fa-setup-step3-download": {
+      "english": "Download my recovery factor",
+      "german": "Laden Sie meinen Wiederherstellungsfaktor herunter",
+      "japanese": "私のリカバリーファクターをダウンロードする",
+      "korean": "내 복구 팩터 다운로드",
+      "mandarin": "下载我的恢复因子",
+      "portuguese": "Baixar meu fator de recuperação",
+      "spanish": "Descargar mi factor de recuperación"
+    },
+    "mpc-2fa-setup-step3-sub1": {
+      "english": "Provide an email to receive recovery factor",
+      "german": "Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",
+      "japanese": "回復フレーズを受け取るための電子メールを提供する",
+      "korean": "복구 문구를 받을 이메일 제공",
+      "mandarin": "提供电子邮件以接收恢复短语",
+      "portuguese": "Forneça um e-mail para receber o fator de recuperação",
+      "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación"
+    },
+    "mpc-2fa-setup-step3-sub2": {
+      "english": "In case you lose access to your saved browser, you can authenticate with your recovery factor.",
+      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",
+      "japanese": "保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。",
+      "korean": "저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.",
+      "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
+      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com seu fator de recuperação.",
+      "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación."
+    },
+    "mpc-2fa-setup-step4-recovery": {
+      "english": "Recovery factor",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "복구 팩터",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+    "mpc-2fa-setup-step4-sub1": {
+      "english": "Verify your recovery factor",
+      "german": "Überprüfen Sie Ihren Erholungsfaktor",
+      "japanese": "回復率を確認する",
+      "korean": "복구 팩터 확인",
+      "mandarin": "验证您的恢复系数",
+      "portuguese": "Verifique seu fator de recuperação",
+      "spanish": "Verifique su factor de recuperación"
+    },
+    "mpc-2fa-setup-step4-sub21": {
+      "english": "Paste the recovery factor",
+      "german": "Fügen Sie den Wiederherstellungsfaktor ein",
+      "japanese": "回復係数を貼り付けます",
+      "korean": "복구 팩터 붙여넣기",
+      "mandarin": "粘贴恢复因子",
+      "portuguese": "Cole o fator de recuperação",
+      "spanish": "Pegar el factor de recuperación"
+    },
+    "mpc-2fa-setup-step4-sub22": {
+      "english": "Paste the recovery factor sent to your email {0}",
+      "german": "Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0}",
+      "japanese": "メール {0} に送信された回復係数を貼り付けます",
+      "korean": "이메일로 전송된 복구 팩터를 붙여넣습니다. {0}",
+      "mandarin": "粘贴发送到您的电子邮件 {0} 的恢复因素",
+      "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}",
+      "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}"
+    },
+    "mpc-2fa-setup-title3": {
+      "english": "Save recovery factor",
+      "german": "Wiederherstellungsphrase speichern",
+      "japanese": "回復フレーズを保存する",
+      "korean": "복구 문구 저장",
+      "mandarin": "保存恢复短语",
+      "portuguese": "Salvar fator de recuperação",
+      "spanish": "Guardar frase de recuperación"
+    },
+    "mpc-2fa-verify-step1-panel2": {
+      "english": "Recovery factor",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "복구 팩터",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+    "mpc-2fa-verify-step1-rec-label": {
+      "english": "Enter recovery factor",
+      "german": "Erholungsfaktor eingeben",
+      "japanese": "回復係数を入力してください",
+      "korean": "복구 팩터 입력",
+      "mandarin": "输入恢复系数",
+      "portuguese": "Insira o fator de recuperação",
+      "spanish": "Ingrese el factor de recuperación"
+    },
+    "mpc-2fa-verify-step1-rec-placeholder": {
+      "english": "Recovery factor",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "복구 팩터",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+    "otp-verification-response-expired": {
+      "english": "OTP Expired",
+      "german": "OTP abgelaufen",
+      "japanese": "OTPの有効期限が切れました",
+      "korean": "OTP가 만료되었습니다",
+      "mandarin": "OTP过期",
+      "portugese": "OTP expirou",
+      "spanish": "OTP expiró"
+    },
+    "otp-verification-response-invalid": {
+      "english": "Invalid OTP",
+      "german": "Ungültiges OTP",
+      "japanese": "無効なOTP",
+      "korean": "잘못된 OTP",
+      "mandarin": "无效的OTP",
+      "portugese": "OTP inválido",
+      "spanish": "OTP no válido"
+    },
+    "otp-verification-response-success": {
+      "english": "OTP verified",
+      "german": "OTP verifiziert",
+      "japanese": "OTP検証",
+      "korean": "OTP가 확인되었습니다",
+      "mandarin": "已验证OTP",
+      "portugese": "OTP Verificado",
+      "spanish": "OTP verificado"
+    },
+    "popup-already": {
+      "english": "Already have an account?",
+      "german": "Sie haben bereits ein Konto?",
+      "japanese": "すでにアカウントをお持ちですか？",
+      "korean": "이미 계정이 있습니까?",
+      "mandarin": "已经有账户？",
+      "portuguese": "Já possui uma conta?",
+      "spanish": "¿Ya tienes una cuenta?"
+    },
+    "popup-continue": {
+      "english": "Continue",
+      "german": "Fortsetzen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "portuguese": "Continuar",
+      "spanish": "Continuar"
+    },
+    "popup-continue-existing": {
+      "english": "Continue with existing {0}",
+      "german": "Weiter mit vorhandenem {0}",
+      "japanese": "既存の{0}を続行します",
+      "korean": "기존 {0} 계속",
+      "mandarin": "继续使用现有的{0}",
+      "portuguese": "Continuar com {0} existente",
+      "spanish": "Continuar con {0} existente"
+    },
+    "popup-here": {
+      "english": "here",
+      "german": "Hier",
+      "japanese": "ここに",
+      "korean": "여기",
+      "mandarin": "这里",
+      "portuguese": "aqui",
+      "spanish": "aquí"
+    },
+    "popup-manage": {
+      "english": "Manage account",
+      "german": "Konto verwalten",
+      "japanese": "アカウントを管理する",
+      "korean": "계정 관리",
+      "mandarin": "管理帐户",
+      "portuguese": "Gerenciar conta",
+      "spanish": "Administrar cuenta"
+    },
+    "popup-privacy": {
+      "english": "Privacy policy",
+      "german": "Datenschutz-Bestimmungen",
+      "japanese": "個人情報保護方針",
+      "korean": "개인 정보 정책",
+      "mandarin": "隐私政策",
+      "portuguese": "Política de Privacidade",
+      "spanish": "Política de privacidad"
+    },
+    "popup-subtitle": {
+      "english": "Select how you would like to continue",
+      "german": "Wählen Sie aus, wie Sie fortfahren möchten",
+      "japanese": "続行する方法を選択してください",
+      "korean": "계속할 방법을 선택하십시오.",
+      "mandarin": "选择您想继续的方式",
+      "portuguese": "Selecione como você gostaria de continuar",
+      "spanish": "Seleccione cómo le gustaría continuar"
+    },
+    "popup-terms": {
+      "english": "Terms of use",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "使用条款",
+      "portuguese": "Termos de uso",
+      "spanish": "Condiciones de uso"
+    },
+    "popup-title": {
+      "english": "Welcome onboard",
+      "german": "Willkommen an Bord",
+      "japanese": "ご乗車（搭乗）ありがとうございます",
+      "korean": "보드에 오신 것을 환영합니다",
+      "mandarin": "欢迎登机",
+      "portuguese": "Bem-vindo a bordo",
+      "spanish": "La bienvenida a bordo"
+    },
+    "popup-view-less": {
+      "english": "View less options",
+      "german": "Weniger Optionen anzeigen",
+      "japanese": "少ないオプションを表示",
+      "korean": "옵션 간략히보기",
+      "mandarin": "查看较少的选项",
+      "portuguese": "Ver menos opções",
+      "spanish": "Ver menos opciones"
+    },
+    "popup-view-more": {
+      "english": "View more options",
+      "german": "Weitere Optionen anzeigen",
+      "japanese": "その他のオプションを表示",
+      "korean": "더 많은 옵션보기",
+      "mandarin": "查看更多选项",
+      "portuguese": "Ver mais opções",
+      "spanish": "Ver más opciones"
+    },
+    "reconstruct-always-skip": {
+      "english": "Always skip",
+      "german": "Immer überspringen",
+      "japanese": "常にスキップする",
+      "korean": "항상 건너뛰기",
+      "mandarin": "总是跳过",
+      "portuguese": "Sempre pular",
+      "spanish": "Saltar siempre"
+    },
+    "reconstruct-always-skip-note": {
+      "english": "By selecting 'Always skip', you will not be prompted to login to your OpenLogin account again. If you change your mind, you may change this preference anytime in 'Settings'.",
+      "german": "Wenn Sie „Immer überspringen“ auswählen, werden Sie nicht aufgefordert, sich erneut bei Ihrem OpenLogin-Konto anzumelden. Wenn Sie Ihre Meinung ändern, können Sie diese Einstellung jederzeit in den \"Einstellungen\" ändern.",
+      "japanese": "[常にスキップ]を選択すると、OpenLoginアカウントに再度ログインするように求められることはありません。 気が変わった場合は、「設定」でいつでもこの設定を変更できます。",
+      "korean": "'항상 건너뛰기'를 선택하면 OpenLogin 계정에 다시 로그인하라는 메시지가 표시되지 않습니다. 마음이 바뀌면 '설정'에서 언제든지 이 환경설정을 변경할 수 있습니다.",
+      "mandarin": "通过选择“始终跳过”，您将不会收到再次登录 OpenLogin 帐户的提示。 如果您改变主意，您可以随时在“设置”中更改此首选项。",
+      "portuguese": "Ao selecionar 'Sempre pular', você não será solicitado a fazer login na sua conta OpenLogin novamente. Se mudar de ideia, você pode alterar essa preferência a qualquer momento em 'Configurações'.",
+      "spanish": "Si selecciona 'Omitir siempre', no se le pedirá que vuelva a iniciar sesión en su cuenta de OpenLogin. Si cambia de opinión, puede cambiar esta preferencia en cualquier momento en 'Configuración'."
+    },
+    "reconstruct-backup-phrase-desc": {
+      "english": "Enter the backup phrase sent to your recovery email previously.",
+      "german": "Geben Sie den Sicherungssatz ein, der zuvor an Ihre Wiederherstellungs-E-Mail gesendet wurde.",
+      "japanese": "以前にリカバリメールに送信されたバックアップフレーズを入力します。",
+      "korean": "이전에 복구 이메일로 전송 된 백업 문구를 입력하십시오.",
+      "mandarin": "输入先前发送到您的辅助邮箱的备份短语。",
+      "portuguese": "Digite a frase de backup enviada para seu e-mail de recuperação anteriormente.",
+      "spanish": "Ingrese la frase de respaldo enviada a su correo electrónico de recuperación anteriormente."
+    },
+    "reconstruct-backup-phrase-desc-2": {
+      "english": "Verify with your backup phrase that was setup on",
+      "german": "Bestätigen Sie mit Ihrem Backup-Satz, der eingerichtet wurde",
+      "japanese": "セットしたバックアップセットを確認する",
+      "korean": "설정된 백업 세트 확인",
+      "mandarin": "确认已设置的备份集",
+      "portuguese": "Verifique com sua frase de recuperação que foi configurada em",
+      "spanish": "Compruebe el conjunto de copia de seguridad establecido"
+    },
+    "reconstruct-backup-phrase-desc-3": {
+      "english": "and sent to email: ",
+      "german": "und an E-Mail gesendet:",
+      "japanese": "そして電子メールに送られる：",
+      "korean": "이메일로 전송:",
+      "mandarin": "并发送到电子邮件：",
+      "portuguese": "e enviado para o e-mail:",
+      "spanish": "y enviado al correo electrónico:"
+    },
+    "reconstruct-backup-phrase-placeholder": {
+      "english": "Enter backup phrase",
+      "german": "Geben Sie die Sicherungsphrase ein",
+      "japanese": "バックアップフレーズを入力してください",
+      "korean": "백업 문구 입력",
+      "mandarin": "输入备用词组",
+      "portuguese": "Digite a frase de backup",
+      "spanish": "Ingrese la frase de respaldo"
+    },
+    "reconstruct-backup-phrase-title": {
+      "english": "Backup phrase",
+      "german": "Sicherungssatz",
+      "japanese": "バックアップフレーズ",
+      "korean": "백업 문구",
+      "mandarin": "备用词组",
+      "portuguese": "Frase de backup",
+      "spanish": "Frase de respaldo"
+    },
+    "reconstruct-biometrics-desc": {
+      "english": "* Only for Touch ID / Face ID previously set up on the following device(s):",
+      "german": "* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:",
+      "japanese": "*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：",
+      "korean": "* 다음 디바이스에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
+      "mandarin": "*仅适用于先前在以下设备上设置的Touch ID / Face ID：",
+      "portuguese": "* Apenas para Touch ID / Face ID previamente configurado no(s) seguinte(s) dispositivo(s):",
+      "spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:"
+    },
+    "reconstruct-biometrics-title": {
+      "english": "Face ID / Touch ID enabled device(s) *",
+      "german": "Face ID / Touch ID-fähige Geräte *",
+      "japanese": "Face ID / TouchID対応デバイス*",
+      "korean": "Face ID / Touch ID 지원 디바이스 *",
+      "mandarin": "支持面部识别/触摸识别的设备*",
+      "portuguese": "Dispositivo(s) habilitado(s) para Face ID / Touch ID*",
+      "spanish": "Dispositivos habilitados con Face ID / Touch ID *"
+    },
+    "reconstruct-biometrics-verify": {
+      "english": "Verify with Touch ID / Face ID",
+      "german": "Überprüfen Sie mit Touch ID / Face ID",
+      "japanese": "Touch ID / FaceIDで確認する",
+      "korean": "Touch ID / Face ID로 확인",
+      "mandarin": "使用Touch ID / Face ID进行验证",
+      "portuguese": "Verificar com Touch ID / Face ID",
+      "spanish": "Verificar con Touch ID / Face ID"
+    },
+    "reconstruct-device-desc": {
+      "english": "Login to {0} from the stored browser below to verify your identity.",
+      "german": "Melden Sie sich über den unten gespeicherten Browser bei {0} an, um Ihre Identität zu überprüfen.",
+      "japanese": "以下の保存されているブラウザから{0}にログインして、本人確認を行ってください。",
+      "korean": "아래 저장된 브라우저에서 {0}에 로그인하여 신원을 확인하세요.",
+      "mandarin": "从下面存储的浏览器登录到{0}以验证您的身份。",
+      "portuguese": "Faça login em {0} no navegador armazenado abaixo para verificar sua identidade.",
+      "spanish": "Inicie sesión en {0} desde el navegador almacenado a continuación para verificar su identidad."
+    },
+    "reconstruct-device-desc1": {
+      "english": "Login to",
+      "german": "Einloggen in",
+      "japanese": "ログインする",
+      "korean": "로그인",
+      "mandarin": "登录到",
+      "portuguese": "Logar em",
+      "spanish": "Iniciar sesión en"
+    },
+    "reconstruct-device-desc2": {
+      "english": "from any of the following devices to complete the security verification.",
+      "german": "von einem der folgenden Geräte, um die Sicherheitsüberprüfung abzuschließen.",
+      "japanese": "次のいずれかのデバイスからセキュリティ検証を完了します。",
+      "korean": "다음 디바이스 중 하나에서 보안 확인을 완료하십시오.",
+      "mandarin": "从以下任何设备中完成安全性验证。",
+      "portuguese": "de qualquer um dos seguintes dispositivos para concluir a verificação de segurança.",
+      "spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad."
+    },
+    "reconstruct-device-prev1": {
+      "english": "Login to your",
+      "german": "Melden Sie sich bei Ihrem an",
+      "japanese": "あなたのログイン",
+      "korean": "귀하의",
+      "mandarin": "登录到您的",
+      "portuguese": "Entre no seu",
+      "spanish": "Inicie sesión en su"
+    },
+    "reconstruct-device-prev2": {
+      "english": "previous version of the Torus Wallet",
+      "german": "vorherige Version der Torus-Brieftasche",
+      "japanese": "トーラスウォレットの以前のバージョン",
+      "korean": "이전 버전의 토러스 지갑",
+      "mandarin": "Torus钱包的先前版本",
+      "portuguese": "versão anterior da Torus Wallet",
+      "spanish": "versión anterior de Torus Wallet"
+    },
+    "reconstruct-device-prev3": {
+      "english": "from the stored browser below to verify your identity.",
+      "german": "über den unten gespeicherten Browser, um Ihre Identität zu überprüfen.",
+      "japanese": "以下の保存されているブラウザから本人確認を行ってください。",
+      "korean": "아래 저장된 브라우저에서 귀하의 신원을 확인하십시오.",
+      "mandarin": "从下面存储的浏览器中验证您的身份。",
+      "portuguese": "do navegador armazenado abaixo para verificar sua identidade.",
+      "spanish": "desde el navegador almacenado a continuación para verificar su identidad."
+    },
+    "reconstruct-device-title": {
+      "english": "Device(s)",
+      "german": "Geräte",
+      "japanese": "デバイス",
+      "korean": "디바이스",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo(s)",
+      "spanish": "Dispositivos"
+    },
+    "reconstruct-fail": {
+      "english": "Unable to recover account?",
+      "german": "Konto kann nicht wiederhergestellt werden?",
+      "japanese": "アカウントを回復できませんか？",
+      "korean": "계정을 복구 할 수 없습니까?",
+      "mandarin": "无法找回帐户？",
+      "portuguese": "Não é possível recuperar a conta?",
+      "spanish": "¿No puede recuperar la cuenta?"
+    },
+    "reconstruct-multiple-transports-desc": {
+      "english": "Only for web authentication methods that was previously set up on the following device(s)",
+      "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
+      "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
+      "korean": "다음 디바이스에서 이전에 설정된 웹 인증 방법에 대해서만",
+      "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
+      "portuguese": "Apenas para métodos de autenticação da web que foram configurados anteriormente no(s) seguinte(s) dispositivo(s)",
+      "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos"
+    },
+    "reconstruct-multiple-transports-title": {
+      "english": "Web Authentication Enabled Device(s)",
+      "german": "Webauthentifizierung aktiviertes Geräte (en)",
+      "japanese": "Web認証有効化デバイス",
+      "korean": "웹 인증 활성화 디바이스",
+      "mandarin": "Web身份验证启用设备",
+      "portuguese": "Dispositivo(s) habilitado(s) para utenticação da Web",
+      "spanish": "Dispositivo (s) de autenticación web"
+    },
+    "reconstruct-multiple-transports-verify": {
+      "english": "Verify now",
+      "german": "Jetzt Prüfen",
+      "japanese": "今すぐ確認してください",
+      "korean": "지금 인증하십시오",
+      "mandarin": "立即验证",
+      "portuguese": "Verifique agora",
+      "spanish": "Verifica ahora"
+    },
+    "reconstruct-password-desc": {
+      "english": "Enter your account recovery password here",
+      "german": "Geben Sie hier Ihr Passwort für die Kontowiederherstellung ein",
+      "japanese": "ここにアカウント回復パスワードを入力してください",
+      "korean": "여기에 계정 복구 비밀번호를 입력하세요.",
+      "mandarin": "在此处输入您的帐户恢复密码",
+      "portuguese": "Digite sua senha de recuperação de conta aqui",
+      "spanish": "Ingrese la contraseña de recuperación de su cuenta aquí"
+    },
+    "reconstruct-password-placeholder": {
+      "english": "Account password",
+      "german": "Konto Passwort",
+      "japanese": "アカウントパスワード",
+      "korean": "계정 비밀번호",
+      "mandarin": "户口密码",
+      "portuguese": "Senha da conta",
+      "spanish": "Contraseña de la cuenta"
+    },
+    "reconstruct-password-title": {
+      "english": "Recovery password",
+      "german": "Passwort zum Zurücksetzen",
+      "japanese": "回復パスワード",
+      "korean": "복구 암호",
+      "mandarin": "找回密码",
+      "portuguese": "Senha de recuperação",
+      "spanish": "Contraseña de recuperación"
+    },
+    "reconstruct-subtitle": {
+      "english": "Verify with one of the following to access your account",
+      "german": "Überprüfen Sie mit einem der folgenden Punkte, um auf Ihr Konto zuzugreifen",
+      "japanese": "アカウントにアクセスするには、次のいずれかで確認してください",
+      "korean": "계정에 액세스하려면 다음 중 하나로 확인하세요.",
+      "mandarin": "验证以下内容之一以访问您的帐户",
+      "portuguese": "Verifique com um dos seguintes para acessar sua conta",
+      "spanish": "Verifique con uno de los siguientes para acceder a su cuenta"
+    },
+    "reconstruct-support": {
+      "english": "Contact support",
+      "german": "Kontaktieren Sie Support",
+      "japanese": "サポート問い合わせ先",
+      "korean": "연락처 지원",
+      "mandarin": "联系支持",
+      "portuguese": "Entre em contato com o suporte",
+      "spanish": "Soporte de contacto"
+    },
+    "reconstruct-title": {
+      "english": "Verify your login",
+      "german": "Überprüfen Sie Ihr Login",
+      "japanese": "ログインを確認する",
+      "korean": "로그인 확인",
+      "mandarin": "验证您的登录名",
+      "portuguese": "Verifique seu login",
+      "spanish": "Verifique su inicio de sesión"
+    },
+    "register-backup-phrase-additional-security-desc1": {
+      "english": "An email will be sent to you containing the backup phrase.",
+      "german": "Sie erhalten eine E-Mail mit der Backup-Phrase.",
+      "japanese": "バックアップ フレーズを含むメールが送信されます。",
+      "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
+      "mandarin": "将向您发送一封包含备份短语的电子邮件。",
+      "portuguese": "Um e-mail será enviado para você contendo a frase de backup.",
+      "spanish": "Se le enviará un correo electrónico con la frase de respaldo."
+    },
+    "register-backup-phrase-additional-security-desc2": {
+      "english": "It helps you with account recovery in case you lose your device with Touch ID / Face ID.",
+      "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät mit Touch ID / Face ID verlieren.",
+      "japanese": "Touch ID / Face ID でデバイスを紛失した場合のアカウント回復に役立ちます。",
+      "korean": "Touch ID / Face ID가 있는 디바이스를 분실 한 경우 계정 복구에 도움이됩니다.",
+      "mandarin": "如果您丢失带有 Touch ID / Face ID 的设备，它可以帮助您恢复帐户。",
+      "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo com Touch ID / Face ID.",
+      "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID."
+    },
+    "register-backup-phrase-confirm-desc1": {
+      "english": "I confirm that I have received the recovery email.",
+      "german": "Ich bestätige, dass ich die Wiederherstellungs-E-Mail erhalten habe.",
+      "japanese": "復旧メールを受信したことを確認しました。",
+      "korean": "我确认我已收到恢复电子邮件。",
+      "mandarin": "我确认我已收到恢复电子邮件。",
+      "portuguese": "Confirmo que recebi o e-mail de recuperação.",
+      "spanish": "Confirmo que he recibido el correo de recuperación."
+    },
+    "register-backup-phrase-confirm-desc2": {
+      "english": "If not,",
+      "german": "Wenn nicht,",
+      "japanese": "そうでない場合は、",
+      "korean": "如果不，",
+      "mandarin": "如果不，",
+      "portuguese": "Se não,",
+      "spanish": "Que no,"
+    },
+    "register-backup-phrase-confirm-desc3": {
+      "english": "re-enter recovery email",
+      "german": "wiederherstellungs-E-Mail erneut eingeben",
+      "japanese": "リカバリメールを再入力してください",
+      "korean": "복구 이메일 다시 입력",
+      "mandarin": "重新输入辅助邮箱",
+      "portuguese": "digite novamente o e-mail de recuperação",
+      "spanish": "vuelve a ingresar el correo de recuperación"
+    },
+    "register-backup-phrase-desc": {
+      "english": "An email will be sent to you containing the backup phrase. It helps you with account recovery in case you lose your device.",
+      "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase. Sie hilft Ihnen bei der Wiederherstellung des Kontos, falls Sie Ihr Gerät verlieren.",
+      "japanese": "バックアップフレーズを記載したメールが送信されます。デバイスを紛失した場合のアカウントの復旧に役立ちます。",
+      "korean": "백업 문구가 포함 된 이메일이 전송됩니다. 디바이스 분실시 계정 복구에 도움이 됩니다.",
+      "mandarin": "包含备用短语的电子邮件将发送给您。如果您丢失了设备，它将帮助您进行帐户恢复。",
+      "portuguese": "Um e-mail será enviado para você contendo a frase de backup. Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
+      "spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo."
+    },
+    "register-backup-phrase-desc1": {
+      "english": "An email will be sent to you containing the backup phrase.",
+      "german": "Sie erhalten eine E-Mail mit der Backup-Phrase.",
+      "japanese": "バックアップ フレーズを含むメールが送信されます。",
+      "korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
+      "mandarin": "将向您发送一封包含备份短语的电子邮件。",
+      "portuguese": "Um e-mail será enviado para você contendo a frase de backup.",
+      "spanish": "Se le enviará un correo electrónico con la frase de respaldo."
+    },
+    "register-backup-phrase-desc2": {
+      "english": "It helps you with account recovery in case you lose your device.",
+      "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät verlieren.",
+      "japanese": "デバイスを紛失した場合のアカウントの回復に役立ちます。",
+      "korean": "디바이스 분실시 계정 복구에 도움이됩니다.",
+      "mandarin": "它可以帮助您在丢失设备时恢复帐户。",
+      "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
+      "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo."
+    },
+    "register-backup-phrase-placeholder": {
+      "english": "Enter recovery email",
+      "german": "Geben Sie die Wiederherstellungs-E-Mail ein",
+      "japanese": "復旧メールを入力してください",
+      "korean": "복구 이메일 입력",
+      "mandarin": "输入辅助邮箱",
+      "portuguese": "Digite o e-mail de recuperação",
+      "spanish": "Ingresa el correo de recuperación"
+    },
+    "register-backup-phrase-send": {
+      "english": "Send recovery email",
+      "german": "Wiederherstellungs-E-Mail senden",
+      "japanese": "復旧メールを送信する",
+      "korean": "복구 이메일 보내기",
+      "mandarin": "发送恢复电子邮件",
+      "portuguese": "Enviar e-mail de recuperação",
+      "spanish": "Enviar correo de recuperación"
+    },
+    "register-backup-phrase-title": {
+      "english": "Continue with a recovery email",
+      "german": "Fahren Sie mit einer Wiederherstellungs-E-Mail fort",
+      "japanese": "復旧メールを続行します",
+      "korean": "복구 이메일로 계속",
+      "mandarin": "继续发送辅助邮箱",
+      "portuguese": "Continuar com um e-mail de recuperação",
+      "spanish": "Continuar con un correo de recuperación"
+    },
+    "register-biometrics-desc": {
+      "english": "Register your device with Face ID or Touch ID. Biometrics never leave your device.",
+      "german": "Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie.",
+      "japanese": "デバイスを Face ID または Touch ID で登録します。 生体認証がデバイスから離れることはありません。",
+      "korean": "Face ID 또는 Touch ID로 디바이스를 등록하세요. 생체 인식은 디바이스를 떠나지 않습니다.",
+      "mandarin": "使用面容 ID 或触控 ID 注册您的设备。 生物识别技术永远不会离开您的设备。",
+      "portuguese": "Registre seu dispositivo com Face ID ou Touch ID. A biometria nunca sai do seu dispositivo.",
+      "spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo."
+    },
+    "register-biometrics-enable": {
+      "english": "Enable Touch ID / Face ID",
+      "german": "Aktivieren Sie Touch ID / Face ID",
+      "japanese": "Touch ID / FaceIDを有効にする",
+      "korean": "Touch ID / Face ID 활성화",
+      "mandarin": "启用触摸ID /面部ID",
+      "portuguese": "Ativar Touch ID / Face ID",
+      "spanish": "Habilitar Touch ID / Face ID"
+    },
+    "register-biometrics-title": {
+      "english": "Continue with Face ID or Touch ID",
+      "german": "Fahren Sie mit Face ID oder Touch ID fort",
+      "japanese": "FaceIDまたはTouchIDに進む",
+      "korean": "Face ID 또는 Touch ID로 계속",
+      "mandarin": "继续使用Face ID或Touch ID",
+      "portuguese": "Continue com Face ID ou Touch ID",
+      "spanish": "Continuar con Face ID o Touch ID"
+    },
+    "register-continue": {
+      "english": "Continue",
+      "german": "Fortsetzen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "portuguese": "Continuar",
+      "spanish": "Continuar"
+    },
+    "register-external-transports-desc": {
+      "english": "Register your device any web authentication methods.",
+      "german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
+      "japanese": "Web認証方法をデバイスに登録してください。",
+      "korean": "웹 인증 방법을 디바이스에 등록하십시오.",
+      "mandarin": "注册您的设备任何Web身份验证方法。",
+      "portuguese": "Registre seu dispositivo em qualquer método de autenticação da web.",
+      "spanish": "Registre su dispositivo cualquier método de autenticación web."
+    },
+    "register-external-transports-webauthn-title": {
+      "english": "Continue with any Web Authentication Methods",
+      "german": "Fahren Sie mit allen Webauthentifizierungsmethoden fort",
+      "japanese": "Web認証方法を続行します",
+      "korean": "웹 인증 방법을 계속하십시오",
+      "mandarin": "继续使用任何Web身份验证方法",
+      "portuguese": "Continue com qualquer método de autenticação da web",
+      "spanish": "Continuar con cualquier método de autenticación web"
+    },
+    "register-multiple-transports-cta": {
+      "english": "Set it up",
+      "german": "Es einrichten",
+      "japanese": "準備する",
+      "korean": "설정하십시오",
+      "mandarin": "设置它",
+      "portuguese": "Configurá-lo",
+      "spanish": "Prepararlo"
+    },
+    "register-multiple-transports-desc": {
+      "english": "Register your device with biometrics or any web authentication methods.",
+      "german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
+      "japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
+      "korean": "생체 인식 또는 웹 인증 방법으로 디바이스를 등록하십시오.",
+      "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
+      "portuguese": "Registre seu dispositivo com biometria ou qualquer método de autenticação da web.",
+      "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web."
+    },
+    "register-multiple-transports-webauthn-title": {
+      "english": "Continue with Biometrics or any Web Authentication Methods",
+      "german": "Fahren Sie mit Biometrie oder Webauthentifizierungsmethoden fort",
+      "japanese": "生体認証またはWeb認証方法を継続します",
+      "korean": "생체 인식 또는 웹 인증 방법을 계속하십시오",
+      "mandarin": "继续使用生物识别技术或任何Web身份验证方法",
+      "portuguese": "Continue com a biometria ou qualquer método de autenticação da Web",
+      "spanish": "Continuar con biometría o cualquier método de autenticación web"
+    },
+    "register-password-confirm": {
+      "english": "Set up password",
+      "german": "Passwort einrichten",
+      "japanese": "パスワードを設定する",
+      "korean": "비밀번호 설정",
+      "mandarin": "设定密码",
+      "portuguese": "Configurar senha",
+      "spanish": "Configurar contraseña"
+    },
+    "register-password-password": {
+      "english": "Enter your password",
+      "german": "Geben Sie Ihr Passwort ein",
+      "japanese": "パスワードを入力してください",
+      "korean": "비밀번호를 입력하세요",
+      "mandarin": "输入密码",
+      "portuguese": "Coloque sua senha",
+      "spanish": "Ingresa tu contraseña"
+    },
+    "register-password-password-confirm": {
+      "english": "Re-enter your password",
+      "german": "Wiederhole die Eingabe deines Passwortes",
+      "japanese": "パスワードを再入力してください",
+      "korean": "비밀번호 재 입력",
+      "mandarin": "重新输入密码",
+      "portuguese": "Redigite sua senha",
+      "spanish": "reingresa tu contraseña"
+    },
+    "register-password-title": {
+      "english": "Set up account password",
+      "german": "Richten Sie das Kontokennwort ein",
+      "japanese": "アカウントのパスワードを設定する",
+      "korean": "계정 비밀번호 설정",
+      "mandarin": "设置帐号密码",
+      "portuguese": "Configurar senha da conta",
+      "spanish": "Configurar la contraseña de la cuenta"
+    },
+    "register-skip": {
+      "english": "Skip for Now",
+      "german": "Für jetzt überspringen",
+      "japanese": "今はスキップ",
+      "korean": "일단은 스킵",
+      "mandarin": "立即跳过",
+      "portuguese": "Pular por agora",
+      "spanish": "Saltar por ahora"
+    },
+    "register-subtitle": {
+      "english": "Select one of the following",
+      "german": "Wählen Sie eine der folgenden Optionen",
+      "japanese": "次のいずれかを選択してください",
+      "korean": "다음 중 하나를 선택하십시오.",
+      "mandarin": "选择以下之一",
+      "portuguese": "Selecione um dos seguintes",
+      "spanish": "Selecciona uno de los siguientes"
+    },
+    "register-subtitle-additional-security": {
+      "english": "Your account security matters. Let’s back it up.",
+      "german": "Die Sicherheit Ihres Kontos ist wichtig. Lass es uns sichern.",
+      "japanese": "アカウントのセキュリティが重要です。 後押ししましょう。",
+      "korean": "귀하의 계정 보안이 중요합니다. 백업합시다.",
+      "mandarin": "您的帐户安全很重要。 让我们支持它。",
+      "portuguese": "A segurança da sua conta é importante. Vamos fazer backup.",
+      "spanish": "La seguridad de su cuenta es importante. Hagamos una copia de seguridad."
+    },
+    "register-subtitle-try-webauth": {
+      "english": "Would you like to enable Touch ID / Face ID on this device?",
+      "german": "Möchten Sie die Touch ID / Face ID auf diesem Gerät aktivieren?",
+      "japanese": "このデバイスでTouchID / Face IDを有効にしますか？",
+      "korean": "이 디바이스에서 Touch ID / Face ID를 활성화 하시겠습니까?",
+      "mandarin": "您要在此设备上启用Touch ID / Face ID吗？",
+      "portuguese": "Gostaria de ativar o Touch ID / Face ID neste dispositivo?",
+      "spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?"
+    },
+    "register-title": {
+      "english": "Securing your {0} account",
+      "german": "Sichern Sie Ihr {0} Konto",
+      "japanese": "{0}アカウントを保護する",
+      "korean": "{0} 계정 보안",
+      "mandarin": "保护您的{0}帐户",
+      "portuguese": "Protegendo sua conta {0}",
+      "spanish": "Asegurar su cuenta de {0}"
+    },
+    "register-title-additional-security": {
+      "english": "One last step before you go",
+      "german": "Ein letzter Schritt bevor du gehst",
+      "japanese": "行く前の最後の一歩",
+      "korean": "가기 전에 마지막 단계",
+      "mandarin": "出发前的最后一步",
+      "portuguese": "Um último passo antes de ir",
+      "spanish": "Un último paso antes de irte"
+    },
+    "register-title-try-webauth": {
+      "english": "Securing your account",
+      "german": "Sichern Sie Ihr Konto",
+      "japanese": "アカウントを保護する",
+      "korean": "계정 보안",
+      "mandarin": "保护您的帐户",
+      "portuguese": "Protegendo sua conta",
+      "spanish": "Asegurar su cuenta"
+    },
+    "resend-code-cta": {
+      "english": "Resend Code",
+      "german": "Code wiedergeben",
+      "japanese": "再送信コード",
+      "korean": "코드 재전송",
+      "mandarin": "重新发送验证码",
+      "portugese": "Reenviar código",
+      "spanish": "Reenviar codigo"
+    },
+    "resend-otp-code": {
+      "english": "Resend Code in {time}",
+      "german": "Code in {time}",
+      "japanese": "コードを再送信します {time}",
+      "korean": "{time}뒤에 코드가 재전송됩니다",
+      "mandarin": "重新发送代码 {time}",
+      "portugese": "Reduzir o código em {time}",
+      "spanish": "Reenviar código en {time}"
+    },
+    "returning-confirm-btn": {
+      "english": "Yes, continue with biometrics",
+      "german": "Ja, weiter mit Biometrie",
+      "japanese": "はい、生体認証を続行します",
+      "korean": "예, 생체 인식을 계속합니다.",
+      "mandarin": "是的，继续生物识别",
+      "portuguese": "Sim, continuar com a biometria",
+      "spanish": "Sí, continuar con la biometría"
+    },
+    "returning-confirm-desc": {
+      "english": "Continue your sign in via biometrics?",
+      "german": "Mit der Anmeldung über Biometrie fortfahren?",
+      "japanese": "生体認証を介してサインインを続行しますか？",
+      "korean": "생체 인식을 통해 계속 로그인 하시겠습니까?",
+      "mandarin": "继续通过生物识别登录？",
+      "portuguese": "Continuar seu login via biometria?",
+      "spanish": "¿Continuar con el inicio de sesión mediante datos biométricos?"
+    },
+    "returning-confirm-title": {
+      "english": "We just want to be sure.",
+      "german": "Wir wollen nur sicher sein.",
+      "japanese": "確認したいだけです。",
+      "korean": "우리는 확신하고 싶습니다.",
+      "mandarin": "我们只是想确定一下。",
+      "portuguese": "Só queremos ter certeza.",
+      "spanish": "Solo queremos estar seguros."
+    },
+    "returning-continue": {
+      "english": "Continue with {0}",
+      "german": "Weiter mit {0}",
+      "japanese": "{0}に進む",
+      "korean": "{0}로 계속",
+      "mandarin": "继续{0}",
+      "portuguese": "Continuar com {0}",
+      "spanish": "Continuar con {0}"
+    },
+    "returning-exist-title": {
+      "english": "Welcome back, {0}",
+      "german": "Willkommen zurück, {0}",
+      "japanese": "おかえりなさい、{0}",
+      "korean": "다시 오신 것을 환영합니다. {0}",
+      "mandarin": "欢迎回来，{0}",
+      "portuguese": "Bem-vindo de volta, {0}",
+      "spanish": "Bienvenido de nuevo, {0}"
+    },
+    "returning-exist-use-another": {
+      "english": "Use another account",
+      "german": "Benutze einen anderen Account",
+      "japanese": "別のアカウントを使用する",
+      "korean": "다른 계정 사용",
+      "mandarin": "使用其他帐户",
+      "portuguese": "Usar outra conta",
+      "spanish": "Usa otra cuenta"
+    },
+    "returning-header-desc": {
+      "english": "Your digital wallet via",
+      "german": "Ihre digitale Geldbörse über",
+      "japanese": "経由であなたのデジタルウォレット",
+      "korean": "디지털 지갑을 통해",
+      "mandarin": "您的数字钱包通过",
+      "portuguese": "Sua carteira digital via",
+      "spanish": "Tu billetera digital a través de"
+    },
+    "returning-header-title": {
+      "english": "Sign in",
+      "german": "Einloggen",
+      "japanese": "サインイン",
+      "korean": "로그인",
+      "mandarin": "登入",
+      "portuguese": "Entrar",
+      "spanish": "Registrarse"
+    },
+    "returning-sign-in-desc": {
+      "english": "Continue with one of the following to proceed",
+      "german": "Fahren Sie mit einem der folgenden Schritte fort, um fortzufahren",
+      "japanese": "次のいずれかを続行して続行します",
+      "korean": "계속하려면 다음 중 하나를 계속하십시오.",
+      "mandarin": "继续执行以下操作之一以继续",
+      "portuguese": "Continue com um dos seguintes",
+      "spanish": "Continúe con uno de los siguientes para continuar"
+    },
+    "returning-sign-in-header1": {
+      "english": "Use another account",
+      "german": "Benutze einen anderen Account",
+      "japanese": "別のアカウントを使用する",
+      "korean": "다른 계정 사용",
+      "mandarin": "使用其他帐户",
+      "portuguese": "Usar outra conta",
+      "spanish": "Usa otra cuenta"
+    },
+    "returning-sign-in-header2": {
+      "english": "It seems like you are not signed in to an account yet",
+      "german": "Anscheinend bist du noch nicht bei einem Konto angemeldet",
+      "japanese": "アカウントにまだサインインしていないようです",
+      "korean": "아직 계정에 로그인하지 않은 것 같습니다.",
+      "mandarin": "您似乎尚未登录帐户",
+      "portuguese": "Parece que você ainda não está conectado a uma conta",
+      "spanish": "Parece que aún no ha iniciado sesión en una cuenta"
+    },
+    "social-2fa-continue-text": {
+      "english": "Select how you like to continue",
+      "german": "Wählen Sie, wie Sie fortfahren möchten",
+      "japanese": "続行する方法を選択してください",
+      "korean": "계속하는 방법을 선택하십시오",
+      "mandarin": "选择您喜欢如何继续",
+      "portuguese": "Selecione como você gostaria de continuar",
+      "spanish": "Seleccione cómo le gusta continuar"
+    },
+    "social-2fa-heading": {
+      "english": "Set Social recovery factor",
+      "german": "Setzen Sie den sozialen Genesungsfaktor",
+      "japanese": "社会的回復要因を設定します",
+      "korean": "소셜 복구 요인을 설정하십시오",
+      "mandarin": "设定社会恢复因素",
+      "portuguese": "Definir fator de recuperação social",
+      "spanish": "Establecer factor de recuperación social"
+    },
+    "social-2fa-subtitle-1": {
+      "english": "Login with any of the social account to set it as recovery factor",
+      "german": "Melden Sie sich mit einem der sozialen Konto an, um es als Wiederherstellungsfaktor festzulegen",
+      "japanese": "ソーシャルアカウントのいずれかでログインして、回復要因として設定します",
+      "korean": "소셜 계정에 로그인하여 복구 팩터로 설정",
+      "mandarin": "用任何社会帐户登录将其设置为恢复因素",
+      "portuguese": "Faça login com qualquer conta social para defini-la como fator de recuperação",
+      "spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación"
+    },
+    "social-2fa-subtitle-2": {
+      "english": "In case you lose access to your saved browser, you can authenticate with your Social account.",
+      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrem sozialen Konto authentifizieren.",
+      "japanese": "保存されたブラウザへのアクセスを失う場合は、ソーシャルアカウントで認証できます。",
+      "korean": "저장된 브라우저에 대한 액세스 권한을 잃어버린 경우 소셜 계정으로 인증 할 수 있습니다.",
+      "mandarin": "如果您无法访问保存的浏览器，则可以通过社交帐户进行身份验证。",
+      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode se autenticar com sua conta Social.",
+      "spanish": "En caso de que pierda acceso a su navegador guardado, puede autenticarse con su cuenta social."
+    },
+    "social-2fa-verify-account": {
+      "english": "Verify with your social account",
+      "german": "Überprüfen Sie mit Ihrem sozialen Konto",
+      "japanese": "ソーシャルアカウントで確認します",
+      "korean": "소셜 계정으로 확인하십시오",
+      "mandarin": "验证您的社交帐户",
+      "portuguese": "Verifique com sua conta social",
+      "spanish": "Verifique con su cuenta social"
+    },
+    "social-2fa-verify-email": {
+      "english": "Verify with your email",
+      "german": "Überprüfen Sie mit Ihrer E -Mail",
+      "japanese": "メールで確認してください",
+      "korean": "이메일로 확인하십시오",
+      "mandarin": "通过电子邮件验证",
+      "portuguese": "Verifique com seu e-mail",
+      "spanish": "Verifique con su correo electrónico"
+    },
+    "social-2fa-verify-heading": {
+      "english": "Social Recovery factor",
+      "german": "Sozialer Genesungsfaktor",
+      "japanese": "社会的回復要因",
+      "korean": "소셜 복구 요인",
+      "mandarin": "社会恢复因素",
+      "portuguese": "Fator de Recuperação Social",
+      "spanish": "Factor de recuperación social"
+    },
+    "social-2fa-view-less": {
+      "english": "View less",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "portuguese": "Ver menos",
+      "spanish": "Ver menos"
+    },
+    "social-2fa-view-more": {
+      "english": "View more",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "portuguese": "Veja mais",
+      "spanish": "Ver más"
+    },
+    "social-2fa-warn-text-1": {
+      "english": "This Social factor only acts as a backup share to recover your account linked to “abcd@xyz.com”.",
+      "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen.",
+      "japanese": "このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
+      "korean": "이 소셜적 팩터는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
+      "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd@xyz.com”。",
+      "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd@xyz.com”.",
+      "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd@xyz.com\"."
+    },
+    "social-2fa-warn-text-2": {
+      "english": "Signing in with this Social factor at the login page will give you a new account.",
+      "german": "Wenn Sie sich bei diesem sozialen Faktor auf der Anmeldeseite anmelden, erhalten Sie ein neues Konto.",
+      "japanese": "ログインページでこのソーシャルファクターにサインインすると、新しいアカウントが提供されます。",
+      "korean": "로그인 페이지에서 이 소셜 팩터에 로그인하면 새 계정이 제공됩니다.",
+      "mandarin": "在登录页面上使用此社交因素签名将为您提供一个新帐户。",
+      "portuguese": "Entrar com este fator social na página de login lhe dará uma nova conta.",
+      "spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta."
+    },
+    "social-2fa-warning-cta-1": {
+      "english": "Yes, I accept the risk",
+      "german": "Ja, ich akzeptiere das Risiko",
+      "japanese": "はい、私はリスクを受け入れます",
+      "korean": "예, 위험성을 받아들이겠습니다",
+      "mandarin": "是的，我接受风险",
+      "portuguese": "Sim, eu aceito o risco",
+      "spanish": "Sí, acepto el riesgo"
+    },
+    "social-2fa-warning-cta-2": {
+      "english": "No, use another email",
+      "german": "Nein, verwenden Sie eine andere E -Mail",
+      "japanese": "いいえ、別のメールを使用してください",
+      "korean": "아니요, 다른 이메일을 사용해 주세요",
+      "mandarin": "不，使用另一封电子邮件",
+      "portuguese": "Não, use outro e-mail",
+      "spanish": "No, usa otro correo electrónico"
+    },
+    "social-2fa-warning-text": {
+      "english": "You are using the same email for account login and social factor. This is insecure. Would you still like to proceed?",
+      "german": "Sie verwenden dieselbe E -Mail für Kontoanmeldung und sozialer Faktor. Das ist unsicher. Möchten Sie immer noch fortfahren?",
+      "japanese": "アカウントログインとソーシャルファクターに同じメールを使用しています。これは不安です。まだ進みたいですか？",
+      "korean": "계정 로그인 및 소셜 팩터에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않은 설정입니다만, 그래도 진행하시겠습니까?",
+      "mandarin": "您正在使用同一电子邮件进行帐户登录和社会因素。这是不安全的。您还想继续吗？",
+      "portuguese": "Você está usando o mesmo e-mail para login da conta e fator social. Isso é inseguro. Você ainda gostaria de prosseguir?",
+      "spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?"
+    },
+    "start": {
+      "english": "Get Started",
+      "german": "Loslegen",
+      "japanese": "はじめに",
+      "korean": "시작하다",
+      "mandarin": "开始使用",
+      "portuguese": "Começar",
+      "spanish": "Empezar"
+    },
+    "subtitle": {
+      "english": "Click Get Started to continue",
+      "german": "Klicken Sie auf Erste Schritte, um fortzufahren",
+      "japanese": "[開始]をクリックして続行します",
+      "korean": "계속하려면 시작하기를 클릭하세요.",
+      "mandarin": "点击开始以继续",
+      "portuguese": "Clique em Começar para continuar",
+      "spanish": "Haga clic en comenzar para continuar"
+    },
+    "title": {
+      "english": "Manage all your web interactions in one place",
+      "german": "Verwalten Sie alle Ihre Webinteraktionen an einem Ort",
+      "japanese": "すべてのWebインタラクションを1か所で管理します",
+      "korean": "모든 웹 상호 작용을 한 곳에서 관리",
+      "mandarin": "一站式管理所有网络互动",
+      "portuguese": "Gerencie todas as suas interações na web em um só lugar",
+      "spanish": "Administre todas sus interacciones web en un solo lugar"
+    },
+    "verifier-email-desc": {
+      "english": "Continue with Email",
+      "german": "Fahren Sie mit E-Mail fort",
+      "japanese": "メールを続ける",
+      "korean": "이메일로 계속",
+      "mandarin": "继续发送电子邮件",
+      "portuguese": "Continuar com e-mail",
+      "spanish": "Continuar con el correo electrónico"
+    },
+    "verifier-email-placeholder": {
+      "english": "Email",
+      "german": "Email",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "portuguese": "E-mail",
+      "spanish": "Correo electrónico"
+    },
+    "verifier-google-desc": {
+      "english": "Continue with Google",
+      "german": "Fahren Sie mit Google fort",
+      "japanese": "Googleで続行",
+      "korean": "Google로 계속",
+      "mandarin": "继续使用Google",
+      "portuguese": "Continuar com o Google",
+      "spanish": "Continuar con Google"
+    },
+    "verifier-sms-desc": {
+      "english": "Continue with phone",
+      "german": "Fahren Sie mit dem Telefon fort",
+      "japanese": "電話を続けます",
+      "korean": "전화기로 계속하기",
+      "mandarin": "继续电话",
+      "portugese": "Continue com o telefone",
+      "spanish": "Continuar con el teléfono"
+    },
+    "verifier-sms-placeholder": {
+      "english": "Eg:",
+      "german": "Z.B:",
+      "japanese": "例えば：",
+      "korean": "예 :",
+      "mandarin": "例如：",
+      "portuguese": "Por exemplo:",
+      "spanish": "P.ej:"
+    },
+    "verifier-webauth-desc": {
+      "english": "Continue with WebAuthn",
+      "german": "Fahren Sie mit WebAuthn fort",
+      "japanese": "WebAuthnを続行します",
+      "korean": "WebAuthn으로 계속",
+      "mandarin": "继续使用WebAuthn",
+      "portuguese": "Continuar com WebAuthn",
+      "spanish": "Continuar con WebAuthn"
+    },
+    "verify-otp-description": {
+      "english": "Enter OTP-Code sent to {number}",
+      "german": "Geben Sie OTP-Code ein, das an gesendet wird {number}",
+      "japanese": "送信されるOTP-Codeを入力します {number}",
+      "korean": "전송 된 OTP 코드를 입력하십시오 {number}",
+      "mandarin": "输入发送到发送到的OTP代码 {number}",
+      "portugese": "Digite o código OTP enviado para {number}",
+      "spanish": "Ingrese el código OTP enviado a {number}"
+    },
+    "verify-otp-heading-1": {
+      "english": "An OTP has been sent to {number}",
+      "german": "Ein OTP wurde an gesendet {number}",
+      "japanese": "OTPが送信されました {number}",
+      "korean": "OTP가 전송되었습니다 {number}",
+      "mandarin": "OTP已发送到 {number}",
+      "portugese": "Um OTP foi enviado para {number}",
+      "spanish": "Se ha enviado un OTP a {number}"
+    },
+    "verify-otp-heading-2": {
+      "english": "Enter OTP to continue",
+      "german": "Geben Sie OTP ein, um fortzufahren",
+      "japanese": "続行するにはOTPを入力します",
+      "korean": "계속하려면 OTP를 입력하십시오",
+      "mandarin": "输入OTP继续",
+      "portugese": "Digite o OTP para continuar",
+      "spanish": "Ingrese OTP para continuar"
+    },
+    "verify-otp-title-popup": {
+      "english": "OTP verification",
+      "german": "OTP -Überprüfung",
+      "japanese": "OTP検証",
+      "korean": "OTP 검증",
+      "mandarin": "OTP验证",
+      "portugese": "Verificação de OTP",
+      "spanish": "Verificación OTP"
+    },
+    "verify-otp-title-redirect": {
+      "english": "Enter your OTP",
+      "german": "Geben Sie Ihre OTP ein",
+      "japanese": "OTPを入力してください",
+      "korean": "OTP를 입력하십시오",
+      "mandarin": "输入您的OTP",
+      "portugese": "Digite seu OTP",
+      "spanish": "Ingrese su OTP"
     }
   }
 }

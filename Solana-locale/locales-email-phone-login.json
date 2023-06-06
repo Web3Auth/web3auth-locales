@@ -1,236 +1,236 @@
 {
 	"emailLogin": {
-		"enterVerification": {
-			"mandarin": "输入您的验证码",
-			"korean": "인증 코드를 입력하십시오",
-			"spanish": "Ingresa el código de verificación",
-			"english": "Enter your verification code",
-			"japanese": "確認コードを入力してください",
-			"german": "Geben Sie Ihren Bestätigungs-Code ein"
-		},
-		"required": {
-			"mandarin": "需要",
-			"korean": "필수",
-			"spanish": "Requerido",
-			"english": "Required",
-			"japanese": "必須",
-			"german": "Erforderlich"
-		},
-		"haveAccount": {
-			"mandarin": "已经有一个帐户。登录",
-			"korean": "이미 어카운트이 있습니다. 로그인",
-			"spanish": "Ya tienes una cuenta? Inicia sesión",
-			"english": "Already have an account. Log in",
-			"japanese": "すでにアカウントをお持ちですか。ログインする",
-			"german": "Sie haben bereits ein Konto. Einloggen"
-		},
-		"loginNoSpace": {
-			"mandarin": "登录",
-			"korean": "로그인",
-			"spanish": "Inicia sesión",
-			"english": "Login",
-			"japanese": "ログインする",
-			"german": "Einloggen"
-		},
-		"signUpHere": {
-			"mandarin": "在此注册",
-			"korean": "여기에 가입하십시오",
-			"spanish": "Inicia sesión acá",
-			"english": "Sign up here",
-			"japanese": "ここからサインアップ",
-			"german": "Hier anmelden"
-		},
-		"invalidEmail": {
-			"mandarin": "无效的邮件地址",
-			"korean": "잘못된 이메일 주소",
-			"spanish": "Dirección de email inválida",
-			"english": "Invalid email address",
-			"japanese": "無効な電子メールアドレス",
-			"german": "Ungültige E-Mail-Adresse"
-		},
-		"haveAccountQuestion": {
-			"mandarin": "已经有帐号了？登录",
-			"korean": "이미 어카운트이 있습니까? 로그인",
-			"spanish": "Ya tienes una cuenta? Inicia sesión",
-			"english": "Already have an account? Log in",
-			"japanese": "すでにアカウントをお持ちですか？ログインする",
-			"german": "Sie haben bereits ein Konto? Einloggen"
-		},
-		"notRegistered": {
-			"mandarin": "你还没有注册。请",
-			"korean": "아직 등록되지 않았습니다. 부디",
-			"spanish": "No estás registrado. Por vaor",
-			"english": "You are not registered yet. Please",
-			"japanese": "あなたはまだ登録されていません。お願いします",
-			"german": "Sie sind noch nicht registriert. Bitte"
-		},
-		"pleaseTryAgainPhone": {
-			"mandarin": "电话号码或密码错误。请再试一遍。",
-			"korean": "전화 번호 또는 비밀번호가 잘못되었습니다. 다시 시도하십시오.",
-			"spanish": "Número o password incorrectos. Por favor intenta de nuevo.",
-			"english": "Incorrect phone number or password. Please try again.",
-			"japanese": "電話番号またはパスワードが正しくありません。もう一度やり直してください。",
-			"german": "Falsche Telefonnummer oder falsches Passwort. Bitte versuche es erneut."
-		},
-		"terms": {
-			"mandarin": "登录即表示您接受Torus的条款和条件",
-			"korean": "로그인하면 Torus의 이용 약관에 동의하는 것으로 간주됩니다",
-			"spanish": "Al iniciar sesión, confirmas que estás de acuerdo con los términos y condiciones de Torus",
-			"english": "By logging in, you accept Torus' Terms and Conditions",
-			"japanese": "ログインすると、トーラスの利用規約に同意したことになります",
-			"german": "Mit Ihrer Anmeldung akzeptieren Sie die Allgemeinen Geschäftsbedingungen von Torus"
-		},
-		"login": {
-			"mandarin": "登录",
-			"korean": "로그인",
-			"spanish": "Iniciar Sesión",
-			"english": "Log in",
-			"japanese": "ログインする",
-			"german": "Einloggen"
-		},
-		"verification": {
-			"mandarin": "验证",
-			"korean": "확인",
-			"spanish": "Verificación",
-			"english": "Verification",
-			"japanese": "検証",
-			"german": "Nachprüfung"
-		},
-		"signUp": {
-			"mandarin": "注册",
-			"korean": "가입하기",
-			"spanish": "regístrate",
-			"english": "Sign Up",
-			"japanese": "サインアップ",
-			"german": "Anmelden"
-		},
-		"passwordNotMatch": {
-			"mandarin": "密码不匹配",
-			"korean": "비밀번호가 일치하지 않습니다",
-			"spanish": "Password no coincide",
-			"english": "Password does not match",
-			"japanese": "パスワードが一致しません",
-			"german": "Passwort stimmt nicht überein"
-		},
 		"checkEmailAndKey": {
-			"mandarin": "检查您的电子邮件并输入验证码以访问您的帐户",
-			"korean": "어카운트에 액세스하려면 이메일을 확인하고 인증 코드를 입력하십시오",
-			"spanish": "Revisa tu correo y el código de verificación para acceder a tu cuenta",
 			"english": "Check your email and key in the verification code to access your account",
+			"german": "Überprüfen Sie Ihre E-Mails und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen",
 			"japanese": "メールを確認し、確認コードを入力してアカウントにアクセスします",
-			"german": "Überprüfen Sie Ihre E-Mails und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen"
-		},
-		"pleaseTryAgainEmail": {
-			"mandarin": "电子邮件地址或密码错误。请再试一遍。",
-			"korean": "이메일 주소 또는 비밀번호가 잘못되었습니다. 다시 시도하십시오.",
-			"spanish": "Email o password incorrectos. Por favor intenta de nuevo.",
-			"english": "Incorrect email address or password. Please try again.",
-			"japanese": "間違ったメールアドレスまたはパスワード。もう一度やり直してください。",
-			"german": "Falsche E-Mail-Adresse oder falsches Passwort. Bitte versuche es erneut."
-		},
-		"dontHaveAcnt": {
-			"mandarin": "还没有帐号？",
-			"korean": "어카운트이 없습니까?",
-			"spanish": "No tienes cuenta?",
-			"english": "Don't have an account?",
-			"japanese": "アカウントを持っていないのですか？",
-			"german": "Sie haben noch keinen Account?"
-		},
-		"enterEmail": {
-			"mandarin": "输入电子邮件",
-			"korean": "이메일을 입력",
-			"spanish": "Ingresa tu email",
-			"english": "Enter email",
-			"japanese": "メールアドレスを入力して",
-			"german": "Email eingeben"
-		},
-		"enterPassword": {
-			"mandarin": "输入密码",
-			"korean": "암호를 입력",
-			"spanish": "Ingresa tu password",
-			"english": "Enter password",
-			"japanese": "パスワードを入力する",
-			"german": "Passwort eingeben"
-		},
-		"passwordLength": {
-			"mandarin": "密码长度必须至少为8个字符",
-			"korean": "비밀번호 길이는 8 자 이상이어야합니다",
-			"spanish": "La longitud del password debe ser de 8 dígitos",
-			"english": "Password length must be at least 8 characters",
-			"japanese": "パスワードの長さは8文字以上である必要があります",
-			"german": "Die Passwortlänge muss mindestens 8 Zeichen betragen"
-		},
-		"pleaseTryAgain": {
-			"mandarin": "请重试或",
-			"korean": "다시 시도하거나",
-			"spanish": "Por favor intenta de nuevo",
-			"english": "Please try again or",
-			"japanese": "再試行するか、",
-			"german": "Bitte versuchen Sie es erneut oder"
-		},
-		"oneStep": {
-			"mandarin": "您距离数字钱包仅一步之遥",
-			"korean": "디지털 지갑이 거의 완성되었습니다.",
-			"spanish": "Estás a un sólo paso de tu billetera digital",
-			"english": "You are just one step away from your digital wallet",
-			"japanese": "あなたはあなたのデジタルウォレットからほんの一歩です",
-			"german": "Sie sind nur einen Schritt von Ihrer digitalen Geldbörse entfernt"
-		},
-		"here": {
-			"mandarin": "这里",
-			"korean": "여기",
-			"spanish": "aquí",
-			"english": "here",
-			"japanese": "ここに",
-			"german": "Hier"
+			"korean": "어카운트에 액세스하려면 이메일을 확인하고 인증 코드를 입력하십시오",
+			"mandarin": "检查您的电子邮件并输入验证码以访问您的帐户",
+			"spanish": "Revisa tu correo y el código de verificación para acceder a tu cuenta"
 		},
 		"checkPhoneAndKey": {
-			"mandarin": "检查您的电话并输入验证码以访问您的帐户",
-			"korean": "휴대 전화를 확인하고 인증 코드를 입력하여 어카운트에 액세스하십시오",
-			"spanish": "Revisa tu móvil y el código de verificación para acceder a tu cuenta",
 			"english": "Check your phone and key in the verification code to access your account",
+			"german": "Überprüfen Sie Ihr Telefon und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen",
 			"japanese": "電話を確認し、確認コードを入力してアカウントにアクセスします",
-			"german": "Überprüfen Sie Ihr Telefon und geben Sie den Bestätigungscode ein, um auf Ihr Konto zuzugreifen"
-		},
-		"verifySuccess": {
-			"mandarin": "您已成功验证您的帐户",
-			"korean": "어카운트을 성공적으로 확인했습니다",
-			"spanish": "Haz verificado tu cuenta con éxito",
-			"english": "You have successfully verified your account",
-			"japanese": "アカウントを確認しました",
-			"german": "Sie haben Ihr Konto erfolgreich verifiziert"
-		},
-		"enterPhone": {
-			"mandarin": "输入电话号码",
-			"korean": "전화 번호 입력",
-			"spanish": "Ingresa número de móvil",
-			"english": "Enter Phone Number",
-			"japanese": "電話番号を入力してください",
-			"german": "Telefonnummer eingeben"
-		},
-		"confirmPassword": {
-			"mandarin": "确认密码",
-			"korean": "비밀번호 확인",
-			"spanish": "Confirmar password",
-			"english": "Confirm password",
-			"japanese": "パスワードを認証する",
-			"german": "Kennwort bestätigen"
+			"korean": "휴대 전화를 확인하고 인증 코드를 입력하여 어카운트에 액세스하십시오",
+			"mandarin": "检查您的电话并输入验证码以访问您的帐户",
+			"spanish": "Revisa tu móvil y el código de verificación para acceder a tu cuenta"
 		},
 		"codeMustBe": {
-			"mandarin": "验证码必须是6位数字",
-			"korean": "코드는 6 자리 여야합니다",
-			"spanish": "Código debe ser de 6 dígitos",
 			"english": "Code must be 6 digit",
+			"german": "Der Code muss 6-stellig sein",
 			"japanese": "コードは6桁でなければなりません",
-			"german": "Der Code muss 6-stellig sein"
+			"korean": "코드는 6 자리 여야합니다",
+			"mandarin": "验证码必须是6位数字",
+			"spanish": "Código debe ser de 6 dígitos"
+		},
+		"confirmPassword": {
+			"english": "Confirm password",
+			"german": "Kennwort bestätigen",
+			"japanese": "パスワードを認証する",
+			"korean": "비밀번호 확인",
+			"mandarin": "确认密码",
+			"spanish": "Confirmar password"
+		},
+		"dontHaveAcnt": {
+			"english": "Don't have an account?",
+			"german": "Sie haben noch keinen Account?",
+			"japanese": "アカウントを持っていないのですか？",
+			"korean": "어카운트이 없습니까?",
+			"mandarin": "还没有帐号？",
+			"spanish": "No tienes cuenta?"
+		},
+		"enterEmail": {
+			"english": "Enter email",
+			"german": "Email eingeben",
+			"japanese": "メールアドレスを入力して",
+			"korean": "이메일을 입력",
+			"mandarin": "输入电子邮件",
+			"spanish": "Ingresa tu email"
+		},
+		"enterPassword": {
+			"english": "Enter password",
+			"german": "Passwort eingeben",
+			"japanese": "パスワードを入力する",
+			"korean": "암호를 입력",
+			"mandarin": "输入密码",
+			"spanish": "Ingresa tu password"
+		},
+		"enterPhone": {
+			"english": "Enter Phone Number",
+			"german": "Telefonnummer eingeben",
+			"japanese": "電話番号を入力してください",
+			"korean": "전화 번호 입력",
+			"mandarin": "输入电话号码",
+			"spanish": "Ingresa número de móvil"
+		},
+		"enterVerification": {
+			"english": "Enter your verification code",
+			"german": "Geben Sie Ihren Bestätigungs-Code ein",
+			"japanese": "確認コードを入力してください",
+			"korean": "인증 코드를 입력하십시오",
+			"mandarin": "输入您的验证码",
+			"spanish": "Ingresa el código de verificación"
+		},
+		"haveAccount": {
+			"english": "Already have an account. Log in",
+			"german": "Sie haben bereits ein Konto. Einloggen",
+			"japanese": "すでにアカウントをお持ちですか。ログインする",
+			"korean": "이미 어카운트이 있습니다. 로그인",
+			"mandarin": "已经有一个帐户。登录",
+			"spanish": "Ya tienes una cuenta? Inicia sesión"
+		},
+		"haveAccountQuestion": {
+			"english": "Already have an account? Log in",
+			"german": "Sie haben bereits ein Konto? Einloggen",
+			"japanese": "すでにアカウントをお持ちですか？ログインする",
+			"korean": "이미 어카운트이 있습니까? 로그인",
+			"mandarin": "已经有帐号了？登录",
+			"spanish": "Ya tienes una cuenta? Inicia sesión"
+		},
+		"here": {
+			"english": "here",
+			"german": "Hier",
+			"japanese": "ここに",
+			"korean": "여기",
+			"mandarin": "这里",
+			"spanish": "aquí"
+		},
+		"invalidEmail": {
+			"english": "Invalid email address",
+			"german": "Ungültige E-Mail-Adresse",
+			"japanese": "無効な電子メールアドレス",
+			"korean": "잘못된 이메일 주소",
+			"mandarin": "无效的邮件地址",
+			"spanish": "Dirección de email inválida"
+		},
+		"login": {
+			"english": "Log in",
+			"german": "Einloggen",
+			"japanese": "ログインする",
+			"korean": "로그인",
+			"mandarin": "登录",
+			"spanish": "Iniciar Sesión"
+		},
+		"loginNoSpace": {
+			"english": "Login",
+			"german": "Einloggen",
+			"japanese": "ログインする",
+			"korean": "로그인",
+			"mandarin": "登录",
+			"spanish": "Inicia sesión"
+		},
+		"notRegistered": {
+			"english": "You are not registered yet. Please",
+			"german": "Sie sind noch nicht registriert. Bitte",
+			"japanese": "あなたはまだ登録されていません。お願いします",
+			"korean": "아직 등록되지 않았습니다. 부디",
+			"mandarin": "你还没有注册。请",
+			"spanish": "No estás registrado. Por vaor"
+		},
+		"oneStep": {
+			"english": "You are just one step away from your digital wallet",
+			"german": "Sie sind nur einen Schritt von Ihrer digitalen Geldbörse entfernt",
+			"japanese": "あなたはあなたのデジタルウォレットからほんの一歩です",
+			"korean": "디지털 지갑이 거의 완성되었습니다.",
+			"mandarin": "您距离数字钱包仅一步之遥",
+			"spanish": "Estás a un sólo paso de tu billetera digital"
+		},
+		"passwordLength": {
+			"english": "Password length must be at least 8 characters",
+			"german": "Die Passwortlänge muss mindestens 8 Zeichen betragen",
+			"japanese": "パスワードの長さは8文字以上である必要があります",
+			"korean": "비밀번호 길이는 8 자 이상이어야합니다",
+			"mandarin": "密码长度必须至少为8个字符",
+			"spanish": "La longitud del password debe ser de 8 dígitos"
+		},
+		"passwordNotMatch": {
+			"english": "Password does not match",
+			"german": "Passwort stimmt nicht überein",
+			"japanese": "パスワードが一致しません",
+			"korean": "비밀번호가 일치하지 않습니다",
+			"mandarin": "密码不匹配",
+			"spanish": "Password no coincide"
+		},
+		"pleaseTryAgain": {
+			"english": "Please try again or",
+			"german": "Bitte versuchen Sie es erneut oder",
+			"japanese": "再試行するか、",
+			"korean": "다시 시도하거나",
+			"mandarin": "请重试或",
+			"spanish": "Por favor intenta de nuevo"
+		},
+		"pleaseTryAgainEmail": {
+			"english": "Incorrect email address or password. Please try again.",
+			"german": "Falsche E-Mail-Adresse oder falsches Passwort. Bitte versuche es erneut.",
+			"japanese": "間違ったメールアドレスまたはパスワード。もう一度やり直してください。",
+			"korean": "이메일 주소 또는 비밀번호가 잘못되었습니다. 다시 시도하십시오.",
+			"mandarin": "电子邮件地址或密码错误。请再试一遍。",
+			"spanish": "Email o password incorrectos. Por favor intenta de nuevo."
+		},
+		"pleaseTryAgainPhone": {
+			"english": "Incorrect phone number or password. Please try again.",
+			"german": "Falsche Telefonnummer oder falsches Passwort. Bitte versuche es erneut.",
+			"japanese": "電話番号またはパスワードが正しくありません。もう一度やり直してください。",
+			"korean": "전화 번호 또는 비밀번호가 잘못되었습니다. 다시 시도하십시오.",
+			"mandarin": "电话号码或密码错误。请再试一遍。",
+			"spanish": "Número o password incorrectos. Por favor intenta de nuevo."
+		},
+		"required": {
+			"english": "Required",
+			"german": "Erforderlich",
+			"japanese": "必須",
+			"korean": "필수",
+			"mandarin": "需要",
+			"spanish": "Requerido"
 		},
 		"resendCode": {
-			"mandarin": "重新发送代码",
-			"korean": "코드를 다시 보내",
-			"spanish": "Reenviar el código",
 			"english": " resend the code",
+			"german": "Sende den Code erneut",
 			"japanese": "コードを再送する",
-			"german": "Sende den Code erneut"
+			"korean": "코드를 다시 보내",
+			"mandarin": "重新发送代码",
+			"spanish": "Reenviar el código"
+		},
+		"signUp": {
+			"english": "Sign Up",
+			"german": "Anmelden",
+			"japanese": "サインアップ",
+			"korean": "가입하기",
+			"mandarin": "注册",
+			"spanish": "regístrate"
+		},
+		"signUpHere": {
+			"english": "Sign up here",
+			"german": "Hier anmelden",
+			"japanese": "ここからサインアップ",
+			"korean": "여기에 가입하십시오",
+			"mandarin": "在此注册",
+			"spanish": "Inicia sesión acá"
+		},
+		"terms": {
+			"english": "By logging in, you accept Torus' Terms and Conditions",
+			"german": "Mit Ihrer Anmeldung akzeptieren Sie die Allgemeinen Geschäftsbedingungen von Torus",
+			"japanese": "ログインすると、トーラスの利用規約に同意したことになります",
+			"korean": "로그인하면 Torus의 이용 약관에 동의하는 것으로 간주됩니다",
+			"mandarin": "登录即表示您接受Torus的条款和条件",
+			"spanish": "Al iniciar sesión, confirmas que estás de acuerdo con los términos y condiciones de Torus"
+		},
+		"verification": {
+			"english": "Verification",
+			"german": "Nachprüfung",
+			"japanese": "検証",
+			"korean": "확인",
+			"mandarin": "验证",
+			"spanish": "Verificación"
+		},
+		"verifySuccess": {
+			"english": "You have successfully verified your account",
+			"german": "Sie haben Ihr Konto erfolgreich verifiziert",
+			"japanese": "アカウントを確認しました",
+			"korean": "어카운트을 성공적으로 확인했습니다",
+			"mandarin": "您已成功验证您的帐户",
+			"spanish": "Haz verificado tu cuenta con éxito"
 		}
 	}
 }

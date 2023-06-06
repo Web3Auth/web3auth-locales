@@ -1,838 +1,838 @@
 {
-	"walletTransfer": {
-		"fee-error-priorityfee-high": {
-			"mandarin": "最高优先费高于必要费用。 您支付的费用可能超出需要。",
-			"german": "Die maximale Prioritätsgebühr ist höher als erforderlich. Sie können mehr bezahlen als nötig.",
-			"japanese": "最大優先料金が必要以上に高くなっています。 あなたは必要以上に支払うかもしれません。",
-			"korean": "최대 우선 수수료가 필요 이상으로 높습니다. 필요 이상으로 지불할 수 있습니다.",
-			"spanish": "La tarifa de prioridad máxima es más alta de lo necesario. Puede pagar más de lo necesario.",
-			"english": "Max priority fee is higher than necessary. You may pay more than needed."
-		},
-		"fee-error-priorityfee-low": {
-			"mandarin": "网络条件下的最高优先级费用极低",
-			"german": "Max. Prioritätsgebühr extrem niedrig für Netzwerkbedingungen",
-			"japanese": "ネットワークの状態に対して最大優先料金が非常に低い",
-			"korean": "네트워크 조건에 대해 매우 낮은 최대 우선 순위 수수료",
-			"spanish": "Tarifa de prioridad máxima extremadamente baja para las condiciones de la red",
-			"english": "Max priority fee extremely low for network conditions"
-		},
-		"fee-edit-in": {
-			"mandarin": "在{time}",
-			"german": "In {time}",
-			"japanese": "{time}で",
-			"korean": "{time}에서",
-			"spanish": "En {time}",
-			"english": "In {time}"
-		},
-		"fee-edit-speed-average": {
-			"mandarin": "中等的",
-			"german": "Mittel",
-			"japanese": "中くらい",
-			"korean": "중간",
-			"spanish": "Medio",
-			"english": "Medium"
-		},
-		"selectSpeed": {
-			"mandarin": "选择您的交易速度",
-			"german": "Wählen Sie Ihre Transaktionsgeschwindigkeit",
-			"japanese": "トランザクションの処理速度を選択してください",
-			"korean": "거래 속도를 선택하십시오",
-			"spanish": "Selecciona la velocidad de transacción",
-			"english": "Select your Transaction Speed"
-		},
-		"collectibleId": {
-			"mandarin": "收藏品编号",
-			"german": "Sammelausweis",
-			"japanese": "収集可能なID",
-			"korean": "소장 ID",
-			"spanish": "identificación coleccionable",
-			"english": "Collectible Id"
-		},
-		"transferFailMessage": {
-			"mandarin": "请稍后再试",
-			"german": "Bitte versuchen Sie es später noch einmal",
-			"japanese": "後でもう一度やり直してください",
-			"korean": "나중에 다시 시도하세요",
-			"spanish": "Intenta de nuevo luego",
-			"english": "Please try again later"
-		},
-		"invalidUnstoppable": {
-			"mandarin": "无效的域",
-			"german": "Ungültige unaufhaltsame Domäne",
-			"japanese": "止められないドメインを無効にします",
-			"korean": "무효가없는 도메인",
-			"spanish": "Dominio imparable no válido",
-			"english": "Invalid unstoppable domain"
-		},
-		"invalidInput": {
-			"mandarin": "输入无效",
-			"german": "Ungültige Eingabe",
-			"japanese": "無効入力",
-			"korean": "잘못된 입력",
-			"spanish": "entrada inválida",
-			"english": "Invalid Input"
-		},
-		"incorrectQR": {
-			"mandarin": "二维码错误",
-			"german": "Falscher QR-Code",
-			"japanese": "QRコードが正しくありません",
-			"korean": "잘못된 QR 코드",
-			"spanish": "Código QR incorrecto",
-			"english": "Incorrect QR Code"
-		},
-		"fee-edit-time-sec": {
-			"mandarin": "{time} 秒",
-			"german": "{time} Sekunden",
-			"japanese": "{time}秒",
-			"korean": "{time}초",
-			"spanish": "{time} segundos",
-			"english": "{time} seconds"
-		},
-		"advancedOptions": {
-			"mandarin": "高级选项",
-			"german": "Erweiterte Optionen",
-			"japanese": "詳細設定",
-			"korean": "고급 옵션",
-			"spanish": "Opciones Avanzadas",
-			"english": "Advanced Options"
-		},
-		"multipleAddressShouldBeSelect": {
-			"mandarin": "存在多个结果，请选择",
-			"german": "Es gibt mehrere Ergebnisse, bitte wählen Sie auswählen",
-			"japanese": "複数の結果が存在します、選択してください",
-			"korean": "여러 결과가 존재합니다. 선택하십시오",
-			"spanish": "Existen múltiples resultados, seleccione",
-			"english": "Multiple results exist, please select"
-		},
-		"assetToSend": {
-			"mandarin": "发送资产",
-			"german": "Asset zu senden",
-			"japanese": "送信するデジタルアセット",
-			"korean": "보낼 자산",
-			"spanish": "Activo por Enviar",
-			"english": "Asset to send"
-		},
-		"transferFailTitle": {
-			"mandarin": "您的转帐无法处理",
-			"german": "Ihre Überweisung kann nicht bearbeitet werden",
-			"japanese": "送信処置ができませんでした",
-			"korean": "송금을 처리 할 수 ​​없습니다",
-			"spanish": "Tu transferencia no puede ser procesada",
-			"english": "Your transfer cannot be processed"
-		},
-		"accountBalance": {
-			"mandarin": "账户余额",
-			"german": "Kontostand",
-			"japanese": "残高",
-			"korean": "어카운트 잔액",
-			"spanish": "Balance de Cuenta",
-			"english": "Account Balances"
-		},
-		"fee-edit-max-desc": {
-			"mandarin": "这笔费用直接支付给矿工，并激励他们优先处理您的交易。任何剩余金额将退还。通常会用完全部金额。费用基于区块的每个gas。",
-			"german": "Diese Gebühr geht direkt an die Miner und gibt ihnen einen Anreiz, Ihre Transaktion zu priorisieren. Ein eventueller Restbetrag wird zurückerstattet. In der Regel wird der volle Betrag aufgebraucht. Die Gebühr basiert auf pro Gas des Blocks.",
-			"japanese": "この料金は鉱夫に直接支払われ、あなたの取引を優先するように彼らにインセンティブを与えます。残りの金額は返金されます。通常、全額が使い果たされます。料金はブロックのガスごとに基づいています。",
-			"korean": "이 수수료는 채굴자에게 직접 전달되어 거래의 우선 순위를 정하도록 장려합니다. 나머지 금액은 환불됩니다. 일반적으로 전체 금액이 사용됩니다. 수수료는 블록의 가스를 기준으로 합니다.",
-			"spanish": "Esta tarifa va directamente a los mineros y los incentiva a priorizar su transacción. Se reembolsará cualquier cantidad restante. Por lo general, se utilizará la cantidad total. La tarifa se basa en por gas de bloque.",
-			"english": "This fee goes directly to miners and incentivises them to prioritise your transaction. Any remaining amount will be refunded. Usually the full amount will be used up. The fee is based on per gas of block."
-		},
-		"save": {
-			"mandarin": "保存",
-			"german": "Speichern",
-			"japanese": "保存する",
-			"korean": "저장",
-			"spanish": "Guardar",
-			"english": "Save"
-		},
-		"customizeGas": {
-			"mandarin": "定制气体",
-			"german": "Fertigen Sie Gas besonders an",
-			"japanese": "Gasをカスタマイズ",
-			"korean": "가스를 주문을 받아서 만드십시오",
-			"spanish": "Personalizar Gas",
-			"english": "Customize Gas"
-		},
-		"gasPriceDesc2": {
-			"mandarin": "需要推动区块链交易",
-			"german": "wird für Blockchain-Transaktionen benötigt",
-			"japanese": "トランザクションを実行するために必要です",
-			"korean": "블록 체인 거래를 강화하는 데 필요합니다",
-			"spanish": "es requerido para establecer transacciones en Blockchain",
-			"english": "is needed to power blockchain transactions"
-		},
-		"fee-error-maxfee-low": {
-			"mandarin": "网络条件下的最高交易费用太低",
-			"german": "Max. Transaktionsgebühr für Netzwerkbedingungen zu niedrig",
-			"japanese": "ネットワークの状態に対して最大取引手数料が低すぎる",
-			"korean": "네트워크 조건에 비해 최대 거래 수수료가 너무 낮음",
-			"spanish": "Tarifa de transacción máxima demasiado baja para las condiciones de la red",
-			"english": "Max transaction fee too low for network conditions"
-		},
-		"fee-in": {
-			"mandarin": "在{time}",
-			"german": "in {time}",
-			"japanese": "{time}で",
-			"korean": "{time}에서",
-			"spanish": "en {time}",
-			"english": "in {time}"
-		},
-		"gasPrice": {
-			"mandarin": "汽油价格",
-			"german": "Gaspreis",
-			"japanese": "ガスプライス",
-			"korean": "가스 가격",
-			"spanish": "Precio del Gas",
-			"english": "Gas Price"
-		},
-		"transactionFee": {
-			"mandarin": "手续费",
-			"german": "Transaktionsgebühr",
-			"japanese": "もう一度やり直してください",
-			"korean": "거래 수수료",
-			"spanish": "Cuota de Transacción",
-			"english": "Transaction Fee"
-		},
-		"pay": {
-			"mandarin": "工资",
-			"german": "Zahlen",
-			"japanese": "支払う",
-			"korean": "지불",
-			"spanish": "Pagar",
-			"english": "Pay"
-		},
-		"invalidAmount": {
-			"mandarin": "无效金额",
-			"german": "Ungültige Menge",
-			"japanese": "無効な金額",
-			"korean": "유효하지 않은 금액",
-			"spanish": "Monto Inválido",
-			"english": "Invalid Amount"
-		},
-		"cancel": {
-			"mandarin": "取消",
-			"german": "Stornieren",
-			"japanese": "キャンセル",
-			"korean": "취소",
-			"spanish": "Cancelar",
-			"english": "Cancel"
-		},
-		"confirmTransaction": {
-			"mandarin": "确认交易",
-			"german": "Transaktion bestätigen",
-			"japanese": "取引を確認",
-			"korean": "거래 확인",
-			"spanish": "Confirmar Transacción",
-			"english": "Confirm Transaction"
-		},
-		"fee-max-transaction-hint": {
-			"mandarin": "推荐费率。 要加快交易速度，请选择“编辑”以支付更多费用。",
-			"german": "Empfohlener Preis. Um die Transaktion zu beschleunigen, wählen Sie \"Bearbeiten\", um mehr zu bezahlen.",
-			"japanese": "推奨レート。 取引をスピードアップするには、「編集」を選択して追加料金を支払います。",
-			"korean": "권장 요금. 거래 속도를 높이려면 '편집'을 선택하여 더 많이 지불하세요.",
-			"spanish": "Tarifa recomendada. Para acelerar la transacción, seleccione 'Editar' para pagar más.",
-			"english": "Recommended rate. To speed up transaction, select 'Edit' to pay more."
-		},
-		"totalCost": {
-			"mandarin": "总计花费",
-			"german": "Gesamtkosten",
-			"japanese": "総額",
-			"korean": "총 비용",
-			"spanish": "Costo Total",
-			"english": "Total Cost"
-		},
-		"transferTweet": {
-			"mandarin": "{address}！我通过@Toruslabs向您发送了{amount}。访问https://app.tor.us。",
-			"german": "Hey {address}! Ich habe dir {amount} über @Toruslabs geschickt. Greifen Sie unter https://app.tor.us darauf zu.",
-			"japanese": "{address}様{amount}を@Toruslabs経由で送信しました。 https://app.tor.usからアクセスしてください。",
-			"korean": "안녕 {address}! @Toruslabs를 통해 {amount}을 (를) 보냈습니다. https://app.tor.us에서 액세스하십시오.",
-			"spanish": "Hey {address}! Te acabo de enviar {amount} usando @Toruslabs. Puedes visitar https://app.tor.us.",
-			"english": "Hey {address}! I sent you {amount} via @Toruslabs. Access it at https://app.tor.us."
-		},
-		"totalCostEstimate": {
-			"mandarin": "估计总费用",
-			"german": "Geschätzte Gesamtkosten",
-			"japanese": "推定総費用",
-			"korean": "예상 총 비용",
-			"spanish": "Costo total estimado",
-			"english": "Estimated Total Cost"
-		},
-		"transferTweet2": {
-			"mandarin": "{address}！我通过{'@'}Toruslabs向您发送了{amount}。访问https://app.tor.us。",
-			"german": "Hey {address}! Ich habe dir {amount} über {'@'}Toruslabs geschickt. Greifen Sie unter https://app.tor.us darauf zu.",
-			"japanese": "{address}様{amount}を{'@'}Toruslabs経由で送信しました。 https://app.tor.usからアクセスしてください。",
-			"korean": "안녕 {address}! {'@'}Toruslabs를 통해 {amount}을 (를) 보냈습니다. https://app.tor.us에서 액세스하십시오.",
-			"spanish": "Hey {address}! Te acabo de enviar {amount} usando {'@'}Toruslabs. Puedes visitar https://app.tor.us.",
-			"english": "Hey {address}! I sent you {amount} via {'@'}Toruslabs. Access it at https://app.tor.us."
-		},
-		"fee-error-likely-fail": {
-			"mandarin": "由于当前设置的 gas 价格：{0} GWEI 低于平均 gas 价格：{1} GWEI，因此此交易可能会失败。",
-			"german": "Diese Transaktion schlägt wahrscheinlich fehl, da der aktuell festgelegte Gaspreis: {0} GWEI niedriger ist als der durchschnittliche Gaspreis: {1} GWEI.",
-			"japanese": "現在設定されているガス価格：{0} GWEIが平均ガス価格：{1} GWEIよりも低いため、このトランザクションは失敗する可能性があります。",
-			"korean": "이 거래는 현재 설정된 가스 가격({0} GWEI)이 평균 가스 가격({1} GWEI)보다 낮기 때문에 실패할 가능성이 높습니다.",
-			"spanish": "Es probable que esta transacción falle, ya que el precio del gas establecido actualmente: {0} GWEI es menor que el precio medio del gas: {1} GWEI.",
-			"english": "This transaction is likely to fail as the currently set gas price: {0} GWEI is less than the average gas price: {1} GWEI."
-		},
-		"gasPriceDesc1": {
-			"mandarin": "汽油",
-			"german": "Gas",
-			"japanese": "Gas",
-			"korean": "가스",
-			"spanish": "Gas",
-			"english": "Gas"
-		},
-		"fee-max-transaction": {
-			"mandarin": "最高交易费用",
-			"german": "Maximale Transaktionsgebühr",
-			"japanese": "最大取引手数料",
-			"korean": "최대 거래 수수료",
-			"spanish": "Tarifa máxima de transacción",
-			"english": "Max Transaction Fee"
-		},
-		"confirm": {
-			"mandarin": "确认",
-			"german": "Bestätigen",
-			"japanese": "確認",
-			"korean": "확인",
-			"spanish": "Confirmar",
-			"english": "Confirm"
-		},
-		"transferFee": {
-			"mandarin": "手续费",
-			"german": "Transaktionsgebühr",
-			"japanese": "トランザクション手数料",
-			"korean": "거래 수수료",
-			"spanish": "Cuota de la transacción",
-			"english": "Transaction Fee"
-		},
-		"newTotal": {
-			"mandarin": "新总数",
-			"german": "Neue Summe",
-			"japanese": "合計金額",
-			"korean": "새로운 합계",
-			"spanish": "Nuevo Total",
-			"english": "New Total"
-		},
-		"selectItem": {
-			"mandarin": "选择物品",
-			"german": "Menüpunkt wählen",
-			"japanese": "通貨、トークンを選択",
-			"korean": "물품을 고르시 오",
-			"spanish": "Selecciona un ítem",
-			"english": "Select item"
-		},
-		"next": {
-			"mandarin": "下一个",
-			"german": "Nächster",
-			"japanese": "次",
-			"korean": "다음",
-			"spanish": "Próximo",
-			"english": "Next"
-		},
-		"fee-edit-speed-high": {
-			"mandarin": "高的",
-			"german": "Hoch",
-			"japanese": "高い",
-			"korean": "높은",
-			"spanish": "Elevado",
-			"english": "High"
-		},
-		"fee-edit-nonce-desc": {
-			"mandarin": "一个以 0 开头的数字，表示从您的钱包地址进行的交易顺序。",
-			"german": "Eine Zahl, die mit 0 beginnt, um die Reihenfolge Ihrer Transaktion von Ihrer Wallet-Adresse aus anzuzeigen.",
-			"japanese": "ウォレットアドレスからのトランザクションのシーケンスを示す、0で始まる番号。",
-			"korean": "0으로 시작하는 숫자로 지갑 주소에서 거래 순서를 나타냅니다.",
-			"spanish": "Un número que comienza con 0, para indicar la secuencia de su transacción desde la dirección de su billetera.",
-			"english": "A number that begins with 0, to indicate the sequence of your transaction from your wallet address."
-		},
-		"fee-edit": {
-			"mandarin": "编辑",
-			"german": "Bearbeiten",
-			"japanese": "編集",
-			"korean": "편집하다",
-			"spanish": "Editar",
-			"english": "Edit"
-		},
-		"fee-edit-speed-low": {
-			"mandarin": "低的",
-			"german": "Niedrig",
-			"japanese": "低い",
-			"korean": "낮은",
-			"spanish": "Bajo",
-			"english": "Low"
-		},
-		"notAnyBitAddress": {
-			"mandarin": "该链没有添加到.bit帐户的地址",
-			"german": "Es gibt keine Adresse dieser Kette, die dem .bit -Konto hinzugefügt wurde",
-			"japanese": ".bitアカウントに追加されたこのチェーンのアドレスはありません",
-			"korean": ".BIT 어카운트에 추가 된이 체인의 주소가 없습니다.",
-			"spanish": "No hay dirección de esta cadena agregada a la cuenta .bit",
-			"english": "There is no address of this chain added to the .bit account"
-		},
-		"gasLimitDesc": {
-			"mandarin": "这是您愿意花在交易上的最大汽油量。标准的ETH传输需要21,000单位气体的气体限制。",
-			"german": "Dies ist die maximale Menge an Benzin, die Sie für eine Transaktion ausgeben möchten. Ein Standard-ETH-Transfer erfordert ein Gaslimit von 21'000 Gaseinheiten.",
-			"japanese": "これは、トランザクションに費やすことができるガスの最大量です。標準的なETH転送には、21,000単位のガス制限が必要です。",
-			"korean": "이것은 거래에 기꺼이 지출 할 최대 가스량입니다. 표준 ETH 전송에는 21,000 단위의 가스 제한이 필요합니다.",
-			"spanish": "Este es el valor máximo de gas que puedes gastar por transacción. Una transferencia estándar de ETH require 21,000 unidades de gas",
-			"english": "This is the maximum amount of gas you're willing to spend on a transaction. A standard ETH transfer requires a gas limit of 21,000 units of gas."
-		},
-		"sendAmount": {
-			"mandarin": "汇款金额",
-			"german": "Betrag senden",
-			"japanese": "送信額",
-			"korean": "송금",
-			"spanish": "Monto por Enviar",
-			"english": "Send Amount"
-		},
-		"transferConfirm": {
-			"mandarin": "转移确认",
-			"german": "Übertragung bestätigen",
-			"japanese": "送信確認",
-			"korean": "전송 확인",
-			"spanish": "Confirmar Transferencia",
-			"english": "Transfer Confirm"
-		},
-		"fee-error-maxfee-high": {
-			"mandarin": "最高交易费用高于必要",
-			"german": "Die maximale Transaktionsgebühr ist höher als nötig",
-			"japanese": "最大取引手数料が必要以上に高い",
-			"korean": "최대 거래 수수료가 필요 이상으로 높습니다.",
-			"spanish": "La tarifa de transacción máxima es más alta de lo necesario",
-			"english": "Max transaction fee is higher than necessary"
-		},
-		"minute": {
-			"mandarin": "分钟",
-			"german": "Minute",
-			"japanese": "分",
-			"korean": "분",
-			"spanish": "Minutos",
-			"english": "Mins"
-		},
-		"fee-edit-adv-hide": {
-			"mandarin": "隐藏高级选项",
-			"german": "Erweiterte Optionen ausblenden",
-			"japanese": "詳細オプションを非表示",
-			"korean": "고급 옵션 숨기기",
-			"spanish": "Ocultar opciones avanzadas",
-			"english": "Hide advanced options"
-		},
-		"required": {
-			"mandarin": "必要",
-			"german": "Erforderlich",
-			"japanese": "必須",
-			"korean": "필수",
-			"spanish": "Requerido",
-			"english": "Required"
-		},
-		"somethingWrong": {
-			"mandarin": "出了些问题",
-			"german": "Etwas ist schief gelaufen",
-			"japanese": "何かがうまくいかなかった",
-			"korean": "문제가 발생했습니다.",
-			"spanish": "Algo salió mal",
-			"english": "Something went wrong"
-		},
-		"fee-edit-subtitle2": {
-			"mandarin": "当您支付更高的费用时，网络将优先处理您的交易。",
-			"german": "Ihre Transaktion wird vom Netzwerk priorisiert, wenn Sie eine höhere Gebühr zahlen.",
-			"japanese": "あなたがより高い料金を支払うとき、あなたの取引はネットワークによって優先されます。",
-			"korean": "더 높은 수수료를 지불하면 네트워크에서 거래를 우선적으로 처리합니다.",
-			"spanish": "Su transacción será priorizada por la red cuando pague una tarifa más alta.",
-			"english": "Your transaction will be priortised by the network when you pay a higher fee."
-		},
-		"fee-error-priorityfee-below": {
-			"mandarin": "最高优先费必须大于 0 GWEI",
-			"german": "Die maximale Prioritätsgebühr muss größer als 0 GWEI sein",
-			"japanese": "最大優先料金は0GWEIより大きくなければなりません",
-			"korean": "최대 우선 수수료는 0GWEI보다 커야 합니다.",
-			"spanish": "La tarifa de prioridad máxima debe ser superior a 0 GWEI",
-			"english": "Max priority fee must be greater than 0 GWEI"
-		},
-		"fee-error-maxfee-imbalance": {
-			"mandarin": "最高交易费不能低于最高优先费",
-			"german": "Die maximale Transaktionsgebühr darf nicht niedriger sein als die maximale Prioritätsgebühr",
-			"japanese": "最大取引手数料は最大優先手数料より低くすることはできません",
-			"korean": "최대 거래 수수료는 최대 우선 수수료보다 낮을 수 없습니다.",
-			"spanish": "La tarifa de transacción máxima no puede ser inferior a la tarifa de prioridad máxima",
-			"english": "Max transaction fee cannot be lower than max priority fee"
-		},
-		"transferFeeDesc": {
-			"mandarin": "这是用户为每笔交易向以太坊网络支付的强制性处理费。较高的费用将加快交易过程。",
-			"german": "Dies ist eine obligatorische Bearbeitungsgebühr, die Benutzer für jede Transaktion an das Ethereum-Netzwerk zahlen müssen. Eine höhere Gebühr beschleunigt den Transaktionsprozess.",
-			"japanese": "これは、トランザクションごとにユーザーがイーサリアムネットワークに支払う手数料になります。手数料を高く設定すると取引スピードがアップします。",
-			"korean": "사용자가 각 거래에 대해 이더 리움 네트워크에 지불하는 필수 처리 수수료입니다. 수수료가 높을수록 거래 과정이 빨라집니다.",
-			"spanish": "Este es un proceso mandatorio. A mayor gas, mayor velocidad",
-			"english": "This is a mandatory processing fee users pay to the Ethereum network for each transaction. A higher fee will speed up the transaction process."
-		},
-		"insufficient": {
-			"mandarin": "交易余额不足",
-			"german": "Unzureichendes Guthaben für die Transaktion",
-			"japanese": "残高不足",
-			"korean": "거래 잔액 부족",
-			"spanish": "Balance insuficiente",
-			"english": "Insufficient balance for transaction"
-		},
-		"fee-edit-subtitle1": {
-			"mandarin": "选择应付的最高交易费用",
-			"german": "Wählen Sie Max. zu zahlende Transaktionsgebühr",
-			"japanese": "支払われる最大取引手数料を選択します",
-			"korean": "지불 가능한 최대 거래 수수료 선택",
-			"spanish": "Seleccione la tarifa de transacción máxima a pagar",
-			"english": "Select Max Transaction Fee payable"
-		},
-		"failed": {
-			"mandarin": "提交交易失败",
-			"german": "Fehler beim Senden der Transaktion",
-			"japanese": "トランザクションの送信に失敗する",
-			"korean": "거래 제출 실패",
-			"spanish": "No enviar la transacción",
-			"english": "Fail to submit transaction"
-		},
-		"transferSuccessTitle": {
-			"mandarin": "您的转帐正在处理中",
-			"german": "Ihre Überweisung wird bearbeitet",
-			"japanese": "送信処理中です",
-			"korean": "송금 처리 중",
-			"spanish": "Tu transferencia se está procesando",
-			"english": "Your transfer is being processed"
-		},
-		"transferSuccessMessage": {
-			"mandarin": "您的交易将在大约{time}分钟内完成",
-			"german": "Ihre Transaktion wird in ungefähr {time} Minuten abgeschlossen sein",
-			"japanese": "トランザクションは約{time}分で完了します",
-			"korean": "거래는 약 {time} 분 후에 완료됩니다",
-			"spanish": "Tu transferencia se completará en aproximademente {time} minutos",
-			"english": "Your transaction will be completed in {time}"
-		},
-		"sendAll": {
-			"mandarin": "全部发送",
-			"german": "Sende alle",
-			"japanese": "すべて送る",
-			"korean": "모두 보내기",
-			"spanish": "Enviar todo",
-			"english": "Send All"
-		},
-		"transferMode": {
-			"mandarin": "传送到",
-			"german": "Übertragen auf",
-			"japanese": "送信先アドレス",
-			"korean": "로 전송",
-			"spanish": "Transferir a",
-			"english": "Transfer to"
-		},
-		"youSend": {
-			"mandarin": "您发送",
-			"german": "Du sendest",
-			"japanese": "送信額",
-			"korean": "당신은 보내",
-			"spanish": "Envías",
-			"english": "You send"
-		},
-		"fee-upto": {
-			"mandarin": "最多 {amount}",
-			"german": "Bis zu {amount}",
-			"japanese": "{amount}まで",
-			"korean": "최대 {amount}",
-			"spanish": "Hasta {amount}",
-			"english": "Up to {amount}"
-		},
-		"enterValue": {
-			"mandarin": "输入值",
-			"german": "Wert eingeben",
-			"japanese": "値を入力",
-			"korean": "값을 입력하십시오",
-			"spanish": "Ingresa el Valor",
-			"english": "Enter Value"
-		},
-		"fee-edit-or": {
-			"mandarin": "要么",
-			"german": "Oder",
-			"japanese": "または",
-			"korean": "또는",
-			"spanish": "O",
-			"english": "Or"
-		},
-		"twitterVerifyNote": {
-			"mandarin": "请验证这是否是正确的帐户",
-			"german": "Bitte überprüfen Sie, ob dies das richtige Konto ist",
-			"japanese": "これが正しいアカウントかどうかを確認してください",
-			"korean": "이것이 올바른 어카운트인지 확인하십시오",
-			"spanish": "Verifica que es la cuenta adecuada",
-			"english": "Please verify if this is the right account"
-		},
-		"gasPriceDesc5": {
-			"mandarin": "美元价值低",
-			"german": "sehr kleiner USD-Wert",
-			"japanese": "少額の米ドル価格",
-			"korean": "매우 작은 USD 가치",
-			"spanish": "Valor diminuto de USD",
-			"english": "very small USD value"
-		},
-		"amountToSend": {
-			"mandarin": "发送金额",
-			"german": "Betrag zu senden",
-			"japanese": "送信する量",
-			"korean": "보낼 금액",
-			"spanish": "Monto por Enviar",
-			"english": "Amount to send"
-		},
-		"fee-edit-base-fee-desc": {
-			"mandarin": "在网络上处理您的交易的最低费用。 它根据网络的繁忙程度而有所不同。 费用基于每个区块的gas",
-			"german": "Die Mindestgebühr für die Verarbeitung Ihrer Transaktion im Netzwerk. Dies hängt davon ab, wie ausgelastet das Netzwerk ist. Die Gebühr basiert auf pro Gas des Blocks",
-			"japanese": "ネットワーク上でトランザクションを処理するための最小料金。 これは、ネットワークの混雑状況によって異なります。 料金はブロックのガスごとに基づいています",
-			"korean": "네트워크에서 거래를 처리하기 위한 최소 수수료. 네트워크 사용량에 따라 다릅니다. 수수료는 블록의 가스를 기준으로 합니다.",
-			"spanish": "La tarifa mínima para procesar su transacción en la red. Varía según el nivel de ocupación de la red. La tarifa se basa en por gas de bloque",
-			"english": "The minimum fee to process your transaction on the network. It varies based on how busy the network is. The fee is based on per gas of block"
-		},
-		"fee-edit-process-in": {
-			"mandarin": "处理中 {time}",
-			"german": "Prozess in {time}",
-			"japanese": "で処理する {time}",
-			"korean": "처리 {time}",
-			"spanish": "Proceso en {time}",
-			"english": "Process in {time}"
-		},
-		"invalidBit": {
-			"mandarin": "无效的.bit帐户",
-			"german": "Ungültiges .bit -Konto",
-			"japanese": "無効な.bitアカウント",
-			"korean": "잘못된 .BIT 어카운트",
-			"spanish": "Cuenta de .bit inválida",
-			"english": "Invalid .bit account"
-		},
-		"fee-edit-adv-show": {
-			"mandarin": "查看高级选项",
-			"german": "Erweiterte Optionen anzeigen",
-			"japanese": "詳細オプションを表示",
-			"korean": "고급 옵션 보기",
-			"spanish": "Ver opciones avanzadas",
-			"english": "View advanced options"
-		},
-		"transferApprox": {
-			"mandarin": "大约 {time}",
-			"german": "ungefähr {Zeit}",
-			"japanese": "およそ{時間}",
-			"korean": "대략 {time}",
-			"spanish": "aproximadamente {time}",
-			"english": "approximately {time}"
-		},
-		"gasPriceDesc4": {
-			"mandarin": "是每笔交易的汽油支付的金额。单位为“ Gwei”。",
-			"german": "ist der Betrag pro Einheit Gas, der für eine Transaktion zu zahlen ist. Es wird in „Gwei“ gemessen.",
-			"japanese": "トランザクションに実行するGasあたりの手数料です。単位を「Gwei」で表します。",
-			"korean": "거래 당 지불 할 단위 가스 당 금액입니다. ‘Gwei’로 측정됩니다.",
-			"spanish": "Es el monto de gas por transacción. Se mide con unidades de 'Gwei'",
-			"english": "is the amount per unit Gas to pay for a transaction. It is measured in ‘Gwei’."
-		},
-		"fee-edit-time-min": {
-			"mandarin": "{time} 分钟",
-			"german": "{time} Minuten",
-			"japanese": "{time}分",
-			"korean": "{time}분",
-			"spanish": "{time} minutos",
-			"english": "{time} mins"
-		},
-		"fee-max-transaction-desc": {
-			"mandarin": "您为交易支付的最高费用。最高交易费用 = 基本费用 + 最高优先费用。这包括处理交易的费用以及您支付给矿工以优先处理交易的最大奖励。任何未使用的金额将被退还。费用基于区块的每个gas。",
-			"german": "Die maximale Gebühr, die Sie für eine Transaktion zahlen. Max. Transaktionsgebühr = Grundgebühr + Max. Prioritätsgebühr. Dies beinhaltet die Gebühren für die Abwicklung der Transaktion und den maximalen Anreiz, den Sie einem Miner zahlen, um Ihre Transaktion zu priorisieren. Jeder nicht verbrauchte Betrag wird zurückerstattet. Die Gebühr basiert auf pro Gas des Blocks.",
-			"japanese": "取引に支払う最大手数料。最大取引手数料=基本手数料+最大優先手数料。これには、トランザクションを処理するための料金と、トランザクションに優先順位を付けるためにマイナーに支払う最大のインセンティブが含まれます。未使用の金額は返金されます。料金はブロックのガスごとに基づいています。",
-			"korean": "거래에 대해 지불하는 최대 수수료. 최대 거래 수수료 = 기본 수수료 + 최대 우선순위 수수료. 여기에는 거래를 처리하기 위한 수수료와 거래의 우선 순위를 정하기 위해 광부에게 지불하는 최대 인센티브가 포함됩니다. 미사용 금액은 환불됩니다. 수수료는 블록의 가스를 기준으로 합니다.",
-			"spanish": "La tarifa máxima que paga por una transacción. Tarifa máxima de transacción = Tarifa base + Tarifa máxima de prioridad. Esto incluye las tarifas para procesar la transacción y el incentivo máximo que le paga a un minero para priorizar su transacción. Se reembolsará cualquier cantidad no utilizada. La tarifa se basa en por gas de bloque.",
-			"english": "The maximum fee you pay for a transaction. Max Transaction Fee = Base Fee + Max Priority Fee. This includes the fees to process the transaction and the maximum incentive you pay a miner to prioritise your transaction. Any un-used amount will be refunded. The fee is based on per gas of block."
-		},
-		"clickToAddContact": {
-			"mandarin": "单击此处将联系人添加到您的地址簿",
-			"german": "Klicken Sie hier, um Kontakt zu Ihrem Adressbuch hinzuzufügen",
-			"japanese": "アドレス帳に連絡先を追加するには、ここをクリックしてください",
-			"korean": "주소록에 연락처를 추가하려면 여기를 클릭하십시오",
-			"spanish": "Presiona aquí para agregar a tus contactos",
-			"english": "Click here to add Contact to your Address Book"
-		},
-		"transfer": {
-			"mandarin": "发送",
-			"german": "Senden",
-			"japanese": "送信",
-			"korean": "이송",
-			"spanish": "Transferir",
-			"english": "Transfer"
-		},
-		"gasLimit": {
-			"mandarin": "气体极限",
-			"german": "Gaslimit",
-			"japanese": "ガスリミット",
-			"korean": "가스 한도",
-			"spanish": "Límite de Gas",
-			"english": "Gas Limit"
-		},
-		"transferShare": {
-			"mandarin": "在您最喜欢的社交网络上分享",
-			"german": "Teilen Sie dies in Ihrem bevorzugten sozialen Netzwerk",
-			"japanese": "これをお気に入りのソーシャルネットワークで共有してください",
-			"korean": "좋아하는 소셜 네트워크에서 공유",
-			"spanish": "Comparte esto en tu red social favorita",
-			"english": "Share this on your favourite social network"
-		},
-		"enterName": {
-			"mandarin": "在这里输入名字",
-			"german": "Geben Sie hier den Namen ein",
-			"japanese": "ここに名前を入力してください",
-			"korean": "여기에 이름을 입력하십시오",
-			"spanish": "Ingresa el nombre aquí",
-			"english": "Enter the name here"
-		},
-		"collectibles": {
-			"mandarin": "收藏品",
-			"german": "SAMMLUNG",
-			"japanese": "コレクション",
-			"korean": "수집품",
-			"spanish": "COLECCIONABLES",
-			"english": "COLLECTIBLES"
-		},
-		"someTorusError": {
-			"mandarin": "出问题了。请再试一次",
-			"german": "Etwas ist schief gelaufen. Bitte versuche es erneut",
-			"japanese": "何かがうまくいかなかった。もう一度やり直してください",
-			"korean": "뭔가 잘못되었습니다. 다시 시도하십시오",
-			"spanish": "Algo salió mal. Inténtalo de nuevo",
-			"english": "Something went wrong. Please try again"
-		},
-		"fee-error-maxfee-tooltip": {
-			"mandarin": "最高交易费用是您支付的最高费用（基本费用 + 优先费用）。",
-			"german": "Die maximale Transaktionsgebühr ist die höchste, die Sie zahlen (Grundgebühr + Prioritätsgebühr).",
-			"japanese": "最大取引手数料は、支払う金額の上限です（基本手数料+優先手数料）。",
-			"korean": "최대 거래 수수료는 귀하가 지불할 최대 금액입니다(기본 수수료 + 우선 수수료).",
-			"spanish": "La tarifa de transacción máxima es lo máximo que pagará (tarifa base + tarifa de prioridad).",
-			"english": "The max transaction fee is the most you’ll pay (base fee + priority fee)."
-		},
-		"tokens": {
-			"mandarin": "代币",
-			"german": "TOKENS",
-			"japanese": "トークン",
-			"korean": "토큰",
-			"spanish": "TOKENS",
-			"english": "TOKENS"
-		},
-		"sendingTo": {
-			"mandarin": "发送到",
-			"german": "Senden an",
-			"japanese": "送信先",
-			"korean": "보내는 중",
-			"spanish": "Enviar a",
-			"english": "Sending To"
-		},
-		"default": {
-			"mandarin": "默认",
-			"german": "Standard",
-			"japanese": "デフォルト",
-			"korean": "기본",
-			"spanish": "Defecto",
-			"english": "Default"
-		},
-		"fee-edit-gas-limit-desc": {
-			"mandarin": "这是为交易提供的最大天然气量。 对于 ETH 转账，该值为 21,000。",
-			"german": "Dies ist die maximale Gasmenge, die für eine Transaktion bereitgestellt wird. Für ETH-Transfers beträgt der Wert 21.000.",
-			"japanese": "これは、トランザクションに提供されるガスの最大量です。 ETH転送の場合、値は21,000です。",
-			"korean": "거래에 제공되는 최대 가스량입니다. ETH 전송의 경우 값은 21,000입니다.",
-			"spanish": "Ésta es la cantidad máxima de gas proporcionada para una transacción. Para transferencias ETH, el valor es 21,000.",
-			"english": "This is the maximum amount of gas provided for a transaction. For ETH transfers, the value is 21,000."
-		},
-		"transferMoreThan": {
-			"mandarin": "超过{time}",
-			"german": "mehr als {Zeit}",
-			"japanese": "{時間}以上",
-			"korean": "{time} 이상",
-			"spanish": "más de {time}",
-			"english": "more than {time}"
-		},
-		"contactName": {
-			"mandarin": "联系人帐户名称",
-			"german": "Name des Kontaktkontos",
-			"japanese": "連絡先アカウント名",
-			"korean": "연락 어카운트 이름",
-			"spanish": "Nombre de Contacto",
-			"english": "Contact Account Name"
-		},
-		"fee-edit-base-fee": {
-			"mandarin": "基本费用",
-			"german": "Grundgebühr",
-			"japanese": "基本料金",
-			"korean": "기본 요금",
-			"spanish": "Tarifa base",
-			"english": "Base Fee"
-		},
-		"transferDetails": {
-			"mandarin": "转账明细",
-			"german": "Übertragungsdetails",
-			"japanese": "送信内容の詳細",
-			"korean": "전송 세부 사항",
-			"spanish": "Detalles de Transferencia",
-			"english": "Transfer Details"
-		},
-		"gasEstimateFail": {
-			"mandarin": "气体估算失败。将收取最高费用。",
-			"german": "Gasschätzung fehlgeschlagen. Es wird eine maximale Gebühr erhoben.",
-			"japanese": "ガスの見積もりに失敗しました。最大料金が課金されます。",
-			"korean": "가스 추정에 실패했습니다. 최대 수수료가 부과됩니다.",
-			"spanish": "La estimación de gas falló. Se cobrará la tarifa máxima.",
-			"english": "Gas estimation failed. Max fee will be charged."
-		},
-		"fee-edit-max": {
-			"mandarin": "最高优先费",
-			"german": "Max. Prioritätsgebühr",
-			"japanese": "最大優先料金",
-			"korean": "최대 우선 수수료",
-			"spanish": "Tarifa máxima de prioridad",
-			"english": "Max Priority Fee"
-		},
-		"gasPriceDesc3": {
-			"mandarin": "汽油价格",
-			"german": "Gaspreis",
-			"japanese": "ガスプライス（GWEI）",
-			"korean": "가스 가격",
-			"spanish": "Precio del Gas",
-			"english": "Gas Price"
-		},
-		"reset": {
-			"mandarin": "重启",
-			"german": "Zurücksetzen",
-			"japanese": "リセットする",
-			"korean": "초기화",
-			"spanish": "Revertir",
-			"english": "Reset"
-		},
-		"transferLessThan": {
-			"mandarin": "少于 {time}",
-			"german": "weniger als {Zeit}",
-			"japanese": "{時間}未満",
-			"korean": "{time} 미만",
-			"spanish": "menos de {time}",
-			"english": "less than {time}"
-		},
-		"addContact": {
-			"mandarin": "添加联系人",
-			"german": "Kontakt hinzufügen",
-			"japanese": "連絡先を追加",
-			"korean": "주소록에 추가",
-			"spanish": "Agregar Contacto",
-			"english": "Add Contact"
-		},
-		"fee-edit-gas-limit": {
-			"mandarin": "气体限制",
-			"german": "Gaslimit",
-			"japanese": "ガス制限",
-			"korean": "가스 제한",
-			"spanish": "Límite de gas",
-			"english": "Gas Limit"
-		}
-	},
 	"walletSettings": {
 		"bitId": {
-			"mandarin": ".bit帐户",
+			"english": ".bit Account",
 			"german": ".bit -Konto",
 			"japanese": ".bitアカウント",
 			"korean": ". 비트 어카운트",
-			"spanish": "cuenta de .BIT",
-			"english": ".bit Account"
+			"mandarin": ".bit帐户",
+			"spanish": "cuenta de .BIT"
+		}
+	},
+	"walletTransfer": {
+		"accountBalance": {
+			"english": "Account Balances",
+			"german": "Kontostand",
+			"japanese": "残高",
+			"korean": "어카운트 잔액",
+			"mandarin": "账户余额",
+			"spanish": "Balance de Cuenta"
+		},
+		"addContact": {
+			"english": "Add Contact",
+			"german": "Kontakt hinzufügen",
+			"japanese": "連絡先を追加",
+			"korean": "주소록에 추가",
+			"mandarin": "添加联系人",
+			"spanish": "Agregar Contacto"
+		},
+		"advancedOptions": {
+			"english": "Advanced Options",
+			"german": "Erweiterte Optionen",
+			"japanese": "詳細設定",
+			"korean": "고급 옵션",
+			"mandarin": "高级选项",
+			"spanish": "Opciones Avanzadas"
+		},
+		"amountToSend": {
+			"english": "Amount to send",
+			"german": "Betrag zu senden",
+			"japanese": "送信する量",
+			"korean": "보낼 금액",
+			"mandarin": "发送金额",
+			"spanish": "Monto por Enviar"
+		},
+		"assetToSend": {
+			"english": "Asset to send",
+			"german": "Asset zu senden",
+			"japanese": "送信するデジタルアセット",
+			"korean": "보낼 자산",
+			"mandarin": "发送资产",
+			"spanish": "Activo por Enviar"
+		},
+		"cancel": {
+			"english": "Cancel",
+			"german": "Stornieren",
+			"japanese": "キャンセル",
+			"korean": "취소",
+			"mandarin": "取消",
+			"spanish": "Cancelar"
+		},
+		"clickToAddContact": {
+			"english": "Click here to add Contact to your Address Book",
+			"german": "Klicken Sie hier, um Kontakt zu Ihrem Adressbuch hinzuzufügen",
+			"japanese": "アドレス帳に連絡先を追加するには、ここをクリックしてください",
+			"korean": "주소록에 연락처를 추가하려면 여기를 클릭하십시오",
+			"mandarin": "单击此处将联系人添加到您的地址簿",
+			"spanish": "Presiona aquí para agregar a tus contactos"
+		},
+		"collectibleId": {
+			"english": "Collectible Id",
+			"german": "Sammelausweis",
+			"japanese": "収集可能なID",
+			"korean": "소장 ID",
+			"mandarin": "收藏品编号",
+			"spanish": "identificación coleccionable"
+		},
+		"collectibles": {
+			"english": "COLLECTIBLES",
+			"german": "SAMMLUNG",
+			"japanese": "コレクション",
+			"korean": "수집품",
+			"mandarin": "收藏品",
+			"spanish": "COLECCIONABLES"
+		},
+		"confirm": {
+			"english": "Confirm",
+			"german": "Bestätigen",
+			"japanese": "確認",
+			"korean": "확인",
+			"mandarin": "确认",
+			"spanish": "Confirmar"
+		},
+		"confirmTransaction": {
+			"english": "Confirm Transaction",
+			"german": "Transaktion bestätigen",
+			"japanese": "取引を確認",
+			"korean": "거래 확인",
+			"mandarin": "确认交易",
+			"spanish": "Confirmar Transacción"
+		},
+		"contactName": {
+			"english": "Contact Account Name",
+			"german": "Name des Kontaktkontos",
+			"japanese": "連絡先アカウント名",
+			"korean": "연락 어카운트 이름",
+			"mandarin": "联系人帐户名称",
+			"spanish": "Nombre de Contacto"
+		},
+		"customizeGas": {
+			"english": "Customize Gas",
+			"german": "Fertigen Sie Gas besonders an",
+			"japanese": "Gasをカスタマイズ",
+			"korean": "가스를 주문을 받아서 만드십시오",
+			"mandarin": "定制气体",
+			"spanish": "Personalizar Gas"
+		},
+		"default": {
+			"english": "Default",
+			"german": "Standard",
+			"japanese": "デフォルト",
+			"korean": "기본",
+			"mandarin": "默认",
+			"spanish": "Defecto"
+		},
+		"enterName": {
+			"english": "Enter the name here",
+			"german": "Geben Sie hier den Namen ein",
+			"japanese": "ここに名前を入力してください",
+			"korean": "여기에 이름을 입력하십시오",
+			"mandarin": "在这里输入名字",
+			"spanish": "Ingresa el nombre aquí"
+		},
+		"enterValue": {
+			"english": "Enter Value",
+			"german": "Wert eingeben",
+			"japanese": "値を入力",
+			"korean": "값을 입력하십시오",
+			"mandarin": "输入值",
+			"spanish": "Ingresa el Valor"
+		},
+		"failed": {
+			"english": "Fail to submit transaction",
+			"german": "Fehler beim Senden der Transaktion",
+			"japanese": "トランザクションの送信に失敗する",
+			"korean": "거래 제출 실패",
+			"mandarin": "提交交易失败",
+			"spanish": "No enviar la transacción"
+		},
+		"fee-edit": {
+			"english": "Edit",
+			"german": "Bearbeiten",
+			"japanese": "編集",
+			"korean": "편집하다",
+			"mandarin": "编辑",
+			"spanish": "Editar"
+		},
+		"fee-edit-adv-hide": {
+			"english": "Hide advanced options",
+			"german": "Erweiterte Optionen ausblenden",
+			"japanese": "詳細オプションを非表示",
+			"korean": "고급 옵션 숨기기",
+			"mandarin": "隐藏高级选项",
+			"spanish": "Ocultar opciones avanzadas"
+		},
+		"fee-edit-adv-show": {
+			"english": "View advanced options",
+			"german": "Erweiterte Optionen anzeigen",
+			"japanese": "詳細オプションを表示",
+			"korean": "고급 옵션 보기",
+			"mandarin": "查看高级选项",
+			"spanish": "Ver opciones avanzadas"
+		},
+		"fee-edit-base-fee": {
+			"english": "Base Fee",
+			"german": "Grundgebühr",
+			"japanese": "基本料金",
+			"korean": "기본 요금",
+			"mandarin": "基本费用",
+			"spanish": "Tarifa base"
+		},
+		"fee-edit-base-fee-desc": {
+			"english": "The minimum fee to process your transaction on the network. It varies based on how busy the network is. The fee is based on per gas of block",
+			"german": "Die Mindestgebühr für die Verarbeitung Ihrer Transaktion im Netzwerk. Dies hängt davon ab, wie ausgelastet das Netzwerk ist. Die Gebühr basiert auf pro Gas des Blocks",
+			"japanese": "ネットワーク上でトランザクションを処理するための最小料金。 これは、ネットワークの混雑状況によって異なります。 料金はブロックのガスごとに基づいています",
+			"korean": "네트워크에서 거래를 처리하기 위한 최소 수수료. 네트워크 사용량에 따라 다릅니다. 수수료는 블록의 가스를 기준으로 합니다.",
+			"mandarin": "在网络上处理您的交易的最低费用。 它根据网络的繁忙程度而有所不同。 费用基于每个区块的gas",
+			"spanish": "La tarifa mínima para procesar su transacción en la red. Varía según el nivel de ocupación de la red. La tarifa se basa en por gas de bloque"
+		},
+		"fee-edit-gas-limit": {
+			"english": "Gas Limit",
+			"german": "Gaslimit",
+			"japanese": "ガス制限",
+			"korean": "가스 제한",
+			"mandarin": "气体限制",
+			"spanish": "Límite de gas"
+		},
+		"fee-edit-gas-limit-desc": {
+			"english": "This is the maximum amount of gas provided for a transaction. For ETH transfers, the value is 21,000.",
+			"german": "Dies ist die maximale Gasmenge, die für eine Transaktion bereitgestellt wird. Für ETH-Transfers beträgt der Wert 21.000.",
+			"japanese": "これは、トランザクションに提供されるガスの最大量です。 ETH転送の場合、値は21,000です。",
+			"korean": "거래에 제공되는 최대 가스량입니다. ETH 전송의 경우 값은 21,000입니다.",
+			"mandarin": "这是为交易提供的最大天然气量。 对于 ETH 转账，该值为 21,000。",
+			"spanish": "Ésta es la cantidad máxima de gas proporcionada para una transacción. Para transferencias ETH, el valor es 21,000."
+		},
+		"fee-edit-in": {
+			"english": "In {time}",
+			"german": "In {time}",
+			"japanese": "{time}で",
+			"korean": "{time}에서",
+			"mandarin": "在{time}",
+			"spanish": "En {time}"
+		},
+		"fee-edit-max": {
+			"english": "Max Priority Fee",
+			"german": "Max. Prioritätsgebühr",
+			"japanese": "最大優先料金",
+			"korean": "최대 우선 수수료",
+			"mandarin": "最高优先费",
+			"spanish": "Tarifa máxima de prioridad"
+		},
+		"fee-edit-max-desc": {
+			"english": "This fee goes directly to miners and incentivises them to prioritise your transaction. Any remaining amount will be refunded. Usually the full amount will be used up. The fee is based on per gas of block.",
+			"german": "Diese Gebühr geht direkt an die Miner und gibt ihnen einen Anreiz, Ihre Transaktion zu priorisieren. Ein eventueller Restbetrag wird zurückerstattet. In der Regel wird der volle Betrag aufgebraucht. Die Gebühr basiert auf pro Gas des Blocks.",
+			"japanese": "この料金は鉱夫に直接支払われ、あなたの取引を優先するように彼らにインセンティブを与えます。残りの金額は返金されます。通常、全額が使い果たされます。料金はブロックのガスごとに基づいています。",
+			"korean": "이 수수료는 채굴자에게 직접 전달되어 거래의 우선 순위를 정하도록 장려합니다. 나머지 금액은 환불됩니다. 일반적으로 전체 금액이 사용됩니다. 수수료는 블록의 가스를 기준으로 합니다.",
+			"mandarin": "这笔费用直接支付给矿工，并激励他们优先处理您的交易。任何剩余金额将退还。通常会用完全部金额。费用基于区块的每个gas。",
+			"spanish": "Esta tarifa va directamente a los mineros y los incentiva a priorizar su transacción. Se reembolsará cualquier cantidad restante. Por lo general, se utilizará la cantidad total. La tarifa se basa en por gas de bloque."
+		},
+		"fee-edit-nonce-desc": {
+			"english": "A number that begins with 0, to indicate the sequence of your transaction from your wallet address.",
+			"german": "Eine Zahl, die mit 0 beginnt, um die Reihenfolge Ihrer Transaktion von Ihrer Wallet-Adresse aus anzuzeigen.",
+			"japanese": "ウォレットアドレスからのトランザクションのシーケンスを示す、0で始まる番号。",
+			"korean": "0으로 시작하는 숫자로 지갑 주소에서 거래 순서를 나타냅니다.",
+			"mandarin": "一个以 0 开头的数字，表示从您的钱包地址进行的交易顺序。",
+			"spanish": "Un número que comienza con 0, para indicar la secuencia de su transacción desde la dirección de su billetera."
+		},
+		"fee-edit-or": {
+			"english": "Or",
+			"german": "Oder",
+			"japanese": "または",
+			"korean": "또는",
+			"mandarin": "要么",
+			"spanish": "O"
+		},
+		"fee-edit-process-in": {
+			"english": "Process in {time}",
+			"german": "Prozess in {time}",
+			"japanese": "で処理する {time}",
+			"korean": "처리 {time}",
+			"mandarin": "处理中 {time}",
+			"spanish": "Proceso en {time}"
+		},
+		"fee-edit-speed-average": {
+			"english": "Medium",
+			"german": "Mittel",
+			"japanese": "中くらい",
+			"korean": "중간",
+			"mandarin": "中等的",
+			"spanish": "Medio"
+		},
+		"fee-edit-speed-high": {
+			"english": "High",
+			"german": "Hoch",
+			"japanese": "高い",
+			"korean": "높은",
+			"mandarin": "高的",
+			"spanish": "Elevado"
+		},
+		"fee-edit-speed-low": {
+			"english": "Low",
+			"german": "Niedrig",
+			"japanese": "低い",
+			"korean": "낮은",
+			"mandarin": "低的",
+			"spanish": "Bajo"
+		},
+		"fee-edit-subtitle1": {
+			"english": "Select Max Transaction Fee payable",
+			"german": "Wählen Sie Max. zu zahlende Transaktionsgebühr",
+			"japanese": "支払われる最大取引手数料を選択します",
+			"korean": "지불 가능한 최대 거래 수수료 선택",
+			"mandarin": "选择应付的最高交易费用",
+			"spanish": "Seleccione la tarifa de transacción máxima a pagar"
+		},
+		"fee-edit-subtitle2": {
+			"english": "Your transaction will be priortised by the network when you pay a higher fee.",
+			"german": "Ihre Transaktion wird vom Netzwerk priorisiert, wenn Sie eine höhere Gebühr zahlen.",
+			"japanese": "あなたがより高い料金を支払うとき、あなたの取引はネットワークによって優先されます。",
+			"korean": "더 높은 수수료를 지불하면 네트워크에서 거래를 우선적으로 처리합니다.",
+			"mandarin": "当您支付更高的费用时，网络将优先处理您的交易。",
+			"spanish": "Su transacción será priorizada por la red cuando pague una tarifa más alta."
+		},
+		"fee-edit-time-min": {
+			"english": "{time} mins",
+			"german": "{time} Minuten",
+			"japanese": "{time}分",
+			"korean": "{time}분",
+			"mandarin": "{time} 分钟",
+			"spanish": "{time} minutos"
+		},
+		"fee-edit-time-sec": {
+			"english": "{time} seconds",
+			"german": "{time} Sekunden",
+			"japanese": "{time}秒",
+			"korean": "{time}초",
+			"mandarin": "{time} 秒",
+			"spanish": "{time} segundos"
+		},
+		"fee-error-likely-fail": {
+			"english": "This transaction is likely to fail as the currently set gas price: {0} GWEI is less than the average gas price: {1} GWEI.",
+			"german": "Diese Transaktion schlägt wahrscheinlich fehl, da der aktuell festgelegte Gaspreis: {0} GWEI niedriger ist als der durchschnittliche Gaspreis: {1} GWEI.",
+			"japanese": "現在設定されているガス価格：{0} GWEIが平均ガス価格：{1} GWEIよりも低いため、このトランザクションは失敗する可能性があります。",
+			"korean": "이 거래는 현재 설정된 가스 가격({0} GWEI)이 평균 가스 가격({1} GWEI)보다 낮기 때문에 실패할 가능성이 높습니다.",
+			"mandarin": "由于当前设置的 gas 价格：{0} GWEI 低于平均 gas 价格：{1} GWEI，因此此交易可能会失败。",
+			"spanish": "Es probable que esta transacción falle, ya que el precio del gas establecido actualmente: {0} GWEI es menor que el precio medio del gas: {1} GWEI."
+		},
+		"fee-error-maxfee-high": {
+			"english": "Max transaction fee is higher than necessary",
+			"german": "Die maximale Transaktionsgebühr ist höher als nötig",
+			"japanese": "最大取引手数料が必要以上に高い",
+			"korean": "최대 거래 수수료가 필요 이상으로 높습니다.",
+			"mandarin": "最高交易费用高于必要",
+			"spanish": "La tarifa de transacción máxima es más alta de lo necesario"
+		},
+		"fee-error-maxfee-imbalance": {
+			"english": "Max transaction fee cannot be lower than max priority fee",
+			"german": "Die maximale Transaktionsgebühr darf nicht niedriger sein als die maximale Prioritätsgebühr",
+			"japanese": "最大取引手数料は最大優先手数料より低くすることはできません",
+			"korean": "최대 거래 수수료는 최대 우선 수수료보다 낮을 수 없습니다.",
+			"mandarin": "最高交易费不能低于最高优先费",
+			"spanish": "La tarifa de transacción máxima no puede ser inferior a la tarifa de prioridad máxima"
+		},
+		"fee-error-maxfee-low": {
+			"english": "Max transaction fee too low for network conditions",
+			"german": "Max. Transaktionsgebühr für Netzwerkbedingungen zu niedrig",
+			"japanese": "ネットワークの状態に対して最大取引手数料が低すぎる",
+			"korean": "네트워크 조건에 비해 최대 거래 수수료가 너무 낮음",
+			"mandarin": "网络条件下的最高交易费用太低",
+			"spanish": "Tarifa de transacción máxima demasiado baja para las condiciones de la red"
+		},
+		"fee-error-maxfee-tooltip": {
+			"english": "The max transaction fee is the most you’ll pay (base fee + priority fee).",
+			"german": "Die maximale Transaktionsgebühr ist die höchste, die Sie zahlen (Grundgebühr + Prioritätsgebühr).",
+			"japanese": "最大取引手数料は、支払う金額の上限です（基本手数料+優先手数料）。",
+			"korean": "최대 거래 수수료는 귀하가 지불할 최대 금액입니다(기본 수수료 + 우선 수수료).",
+			"mandarin": "最高交易费用是您支付的最高费用（基本费用 + 优先费用）。",
+			"spanish": "La tarifa de transacción máxima es lo máximo que pagará (tarifa base + tarifa de prioridad)."
+		},
+		"fee-error-priorityfee-below": {
+			"english": "Max priority fee must be greater than 0 GWEI",
+			"german": "Die maximale Prioritätsgebühr muss größer als 0 GWEI sein",
+			"japanese": "最大優先料金は0GWEIより大きくなければなりません",
+			"korean": "최대 우선 수수료는 0GWEI보다 커야 합니다.",
+			"mandarin": "最高优先费必须大于 0 GWEI",
+			"spanish": "La tarifa de prioridad máxima debe ser superior a 0 GWEI"
+		},
+		"fee-error-priorityfee-high": {
+			"english": "Max priority fee is higher than necessary. You may pay more than needed.",
+			"german": "Die maximale Prioritätsgebühr ist höher als erforderlich. Sie können mehr bezahlen als nötig.",
+			"japanese": "最大優先料金が必要以上に高くなっています。 あなたは必要以上に支払うかもしれません。",
+			"korean": "최대 우선 수수료가 필요 이상으로 높습니다. 필요 이상으로 지불할 수 있습니다.",
+			"mandarin": "最高优先费高于必要费用。 您支付的费用可能超出需要。",
+			"spanish": "La tarifa de prioridad máxima es más alta de lo necesario. Puede pagar más de lo necesario."
+		},
+		"fee-error-priorityfee-low": {
+			"english": "Max priority fee extremely low for network conditions",
+			"german": "Max. Prioritätsgebühr extrem niedrig für Netzwerkbedingungen",
+			"japanese": "ネットワークの状態に対して最大優先料金が非常に低い",
+			"korean": "네트워크 조건에 대해 매우 낮은 최대 우선 순위 수수료",
+			"mandarin": "网络条件下的最高优先级费用极低",
+			"spanish": "Tarifa de prioridad máxima extremadamente baja para las condiciones de la red"
+		},
+		"fee-in": {
+			"english": "in {time}",
+			"german": "in {time}",
+			"japanese": "{time}で",
+			"korean": "{time}에서",
+			"mandarin": "在{time}",
+			"spanish": "en {time}"
+		},
+		"fee-max-transaction": {
+			"english": "Max Transaction Fee",
+			"german": "Maximale Transaktionsgebühr",
+			"japanese": "最大取引手数料",
+			"korean": "최대 거래 수수료",
+			"mandarin": "最高交易费用",
+			"spanish": "Tarifa máxima de transacción"
+		},
+		"fee-max-transaction-desc": {
+			"english": "The maximum fee you pay for a transaction. Max Transaction Fee = Base Fee + Max Priority Fee. This includes the fees to process the transaction and the maximum incentive you pay a miner to prioritise your transaction. Any un-used amount will be refunded. The fee is based on per gas of block.",
+			"german": "Die maximale Gebühr, die Sie für eine Transaktion zahlen. Max. Transaktionsgebühr = Grundgebühr + Max. Prioritätsgebühr. Dies beinhaltet die Gebühren für die Abwicklung der Transaktion und den maximalen Anreiz, den Sie einem Miner zahlen, um Ihre Transaktion zu priorisieren. Jeder nicht verbrauchte Betrag wird zurückerstattet. Die Gebühr basiert auf pro Gas des Blocks.",
+			"japanese": "取引に支払う最大手数料。最大取引手数料=基本手数料+最大優先手数料。これには、トランザクションを処理するための料金と、トランザクションに優先順位を付けるためにマイナーに支払う最大のインセンティブが含まれます。未使用の金額は返金されます。料金はブロックのガスごとに基づいています。",
+			"korean": "거래에 대해 지불하는 최대 수수료. 최대 거래 수수료 = 기본 수수료 + 최대 우선순위 수수료. 여기에는 거래를 처리하기 위한 수수료와 거래의 우선 순위를 정하기 위해 광부에게 지불하는 최대 인센티브가 포함됩니다. 미사용 금액은 환불됩니다. 수수료는 블록의 가스를 기준으로 합니다.",
+			"mandarin": "您为交易支付的最高费用。最高交易费用 = 基本费用 + 最高优先费用。这包括处理交易的费用以及您支付给矿工以优先处理交易的最大奖励。任何未使用的金额将被退还。费用基于区块的每个gas。",
+			"spanish": "La tarifa máxima que paga por una transacción. Tarifa máxima de transacción = Tarifa base + Tarifa máxima de prioridad. Esto incluye las tarifas para procesar la transacción y el incentivo máximo que le paga a un minero para priorizar su transacción. Se reembolsará cualquier cantidad no utilizada. La tarifa se basa en por gas de bloque."
+		},
+		"fee-max-transaction-hint": {
+			"english": "Recommended rate. To speed up transaction, select 'Edit' to pay more.",
+			"german": "Empfohlener Preis. Um die Transaktion zu beschleunigen, wählen Sie \"Bearbeiten\", um mehr zu bezahlen.",
+			"japanese": "推奨レート。 取引をスピードアップするには、「編集」を選択して追加料金を支払います。",
+			"korean": "권장 요금. 거래 속도를 높이려면 '편집'을 선택하여 더 많이 지불하세요.",
+			"mandarin": "推荐费率。 要加快交易速度，请选择“编辑”以支付更多费用。",
+			"spanish": "Tarifa recomendada. Para acelerar la transacción, seleccione 'Editar' para pagar más."
+		},
+		"fee-upto": {
+			"english": "Up to {amount}",
+			"german": "Bis zu {amount}",
+			"japanese": "{amount}まで",
+			"korean": "최대 {amount}",
+			"mandarin": "最多 {amount}",
+			"spanish": "Hasta {amount}"
+		},
+		"gasEstimateFail": {
+			"english": "Gas estimation failed. Max fee will be charged.",
+			"german": "Gasschätzung fehlgeschlagen. Es wird eine maximale Gebühr erhoben.",
+			"japanese": "ガスの見積もりに失敗しました。最大料金が課金されます。",
+			"korean": "가스 추정에 실패했습니다. 최대 수수료가 부과됩니다.",
+			"mandarin": "气体估算失败。将收取最高费用。",
+			"spanish": "La estimación de gas falló. Se cobrará la tarifa máxima."
+		},
+		"gasLimit": {
+			"english": "Gas Limit",
+			"german": "Gaslimit",
+			"japanese": "ガスリミット",
+			"korean": "가스 한도",
+			"mandarin": "气体极限",
+			"spanish": "Límite de Gas"
+		},
+		"gasLimitDesc": {
+			"english": "This is the maximum amount of gas you're willing to spend on a transaction. A standard ETH transfer requires a gas limit of 21,000 units of gas.",
+			"german": "Dies ist die maximale Menge an Benzin, die Sie für eine Transaktion ausgeben möchten. Ein Standard-ETH-Transfer erfordert ein Gaslimit von 21'000 Gaseinheiten.",
+			"japanese": "これは、トランザクションに費やすことができるガスの最大量です。標準的なETH転送には、21,000単位のガス制限が必要です。",
+			"korean": "이것은 거래에 기꺼이 지출 할 최대 가스량입니다. 표준 ETH 전송에는 21,000 단위의 가스 제한이 필요합니다.",
+			"mandarin": "这是您愿意花在交易上的最大汽油量。标准的ETH传输需要21,000单位气体的气体限制。",
+			"spanish": "Este es el valor máximo de gas que puedes gastar por transacción. Una transferencia estándar de ETH require 21,000 unidades de gas"
+		},
+		"gasPrice": {
+			"english": "Gas Price",
+			"german": "Gaspreis",
+			"japanese": "ガスプライス",
+			"korean": "가스 가격",
+			"mandarin": "汽油价格",
+			"spanish": "Precio del Gas"
+		},
+		"gasPriceDesc1": {
+			"english": "Gas",
+			"german": "Gas",
+			"japanese": "Gas",
+			"korean": "가스",
+			"mandarin": "汽油",
+			"spanish": "Gas"
+		},
+		"gasPriceDesc2": {
+			"english": "is needed to power blockchain transactions",
+			"german": "wird für Blockchain-Transaktionen benötigt",
+			"japanese": "トランザクションを実行するために必要です",
+			"korean": "블록 체인 거래를 강화하는 데 필요합니다",
+			"mandarin": "需要推动区块链交易",
+			"spanish": "es requerido para establecer transacciones en Blockchain"
+		},
+		"gasPriceDesc3": {
+			"english": "Gas Price",
+			"german": "Gaspreis",
+			"japanese": "ガスプライス（GWEI）",
+			"korean": "가스 가격",
+			"mandarin": "汽油价格",
+			"spanish": "Precio del Gas"
+		},
+		"gasPriceDesc4": {
+			"english": "is the amount per unit Gas to pay for a transaction. It is measured in ‘Gwei’.",
+			"german": "ist der Betrag pro Einheit Gas, der für eine Transaktion zu zahlen ist. Es wird in „Gwei“ gemessen.",
+			"japanese": "トランザクションに実行するGasあたりの手数料です。単位を「Gwei」で表します。",
+			"korean": "거래 당 지불 할 단위 가스 당 금액입니다. ‘Gwei’로 측정됩니다.",
+			"mandarin": "是每笔交易的汽油支付的金额。单位为“ Gwei”。",
+			"spanish": "Es el monto de gas por transacción. Se mide con unidades de 'Gwei'"
+		},
+		"gasPriceDesc5": {
+			"english": "very small USD value",
+			"german": "sehr kleiner USD-Wert",
+			"japanese": "少額の米ドル価格",
+			"korean": "매우 작은 USD 가치",
+			"mandarin": "美元价值低",
+			"spanish": "Valor diminuto de USD"
+		},
+		"incorrectQR": {
+			"english": "Incorrect QR Code",
+			"german": "Falscher QR-Code",
+			"japanese": "QRコードが正しくありません",
+			"korean": "잘못된 QR 코드",
+			"mandarin": "二维码错误",
+			"spanish": "Código QR incorrecto"
+		},
+		"insufficient": {
+			"english": "Insufficient balance for transaction",
+			"german": "Unzureichendes Guthaben für die Transaktion",
+			"japanese": "残高不足",
+			"korean": "거래 잔액 부족",
+			"mandarin": "交易余额不足",
+			"spanish": "Balance insuficiente"
+		},
+		"invalidAmount": {
+			"english": "Invalid Amount",
+			"german": "Ungültige Menge",
+			"japanese": "無効な金額",
+			"korean": "유효하지 않은 금액",
+			"mandarin": "无效金额",
+			"spanish": "Monto Inválido"
+		},
+		"invalidBit": {
+			"english": "Invalid .bit account",
+			"german": "Ungültiges .bit -Konto",
+			"japanese": "無効な.bitアカウント",
+			"korean": "잘못된 .BIT 어카운트",
+			"mandarin": "无效的.bit帐户",
+			"spanish": "Cuenta de .bit inválida"
+		},
+		"invalidInput": {
+			"english": "Invalid Input",
+			"german": "Ungültige Eingabe",
+			"japanese": "無効入力",
+			"korean": "잘못된 입력",
+			"mandarin": "输入无效",
+			"spanish": "entrada inválida"
+		},
+		"invalidUnstoppable": {
+			"english": "Invalid unstoppable domain",
+			"german": "Ungültige unaufhaltsame Domäne",
+			"japanese": "止められないドメインを無効にします",
+			"korean": "무효가없는 도메인",
+			"mandarin": "无效的域",
+			"spanish": "Dominio imparable no válido"
+		},
+		"minute": {
+			"english": "Mins",
+			"german": "Minute",
+			"japanese": "分",
+			"korean": "분",
+			"mandarin": "分钟",
+			"spanish": "Minutos"
+		},
+		"multipleAddressShouldBeSelect": {
+			"english": "Multiple results exist, please select",
+			"german": "Es gibt mehrere Ergebnisse, bitte wählen Sie auswählen",
+			"japanese": "複数の結果が存在します、選択してください",
+			"korean": "여러 결과가 존재합니다. 선택하십시오",
+			"mandarin": "存在多个结果，请选择",
+			"spanish": "Existen múltiples resultados, seleccione"
+		},
+		"newTotal": {
+			"english": "New Total",
+			"german": "Neue Summe",
+			"japanese": "合計金額",
+			"korean": "새로운 합계",
+			"mandarin": "新总数",
+			"spanish": "Nuevo Total"
+		},
+		"next": {
+			"english": "Next",
+			"german": "Nächster",
+			"japanese": "次",
+			"korean": "다음",
+			"mandarin": "下一个",
+			"spanish": "Próximo"
+		},
+		"notAnyBitAddress": {
+			"english": "There is no address of this chain added to the .bit account",
+			"german": "Es gibt keine Adresse dieser Kette, die dem .bit -Konto hinzugefügt wurde",
+			"japanese": ".bitアカウントに追加されたこのチェーンのアドレスはありません",
+			"korean": ".BIT 어카운트에 추가 된이 체인의 주소가 없습니다.",
+			"mandarin": "该链没有添加到.bit帐户的地址",
+			"spanish": "No hay dirección de esta cadena agregada a la cuenta .bit"
+		},
+		"pay": {
+			"english": "Pay",
+			"german": "Zahlen",
+			"japanese": "支払う",
+			"korean": "지불",
+			"mandarin": "工资",
+			"spanish": "Pagar"
+		},
+		"required": {
+			"english": "Required",
+			"german": "Erforderlich",
+			"japanese": "必須",
+			"korean": "필수",
+			"mandarin": "必要",
+			"spanish": "Requerido"
+		},
+		"reset": {
+			"english": "Reset",
+			"german": "Zurücksetzen",
+			"japanese": "リセットする",
+			"korean": "초기화",
+			"mandarin": "重启",
+			"spanish": "Revertir"
+		},
+		"save": {
+			"english": "Save",
+			"german": "Speichern",
+			"japanese": "保存する",
+			"korean": "저장",
+			"mandarin": "保存",
+			"spanish": "Guardar"
+		},
+		"selectItem": {
+			"english": "Select item",
+			"german": "Menüpunkt wählen",
+			"japanese": "通貨、トークンを選択",
+			"korean": "물품을 고르시 오",
+			"mandarin": "选择物品",
+			"spanish": "Selecciona un ítem"
+		},
+		"selectSpeed": {
+			"english": "Select your Transaction Speed",
+			"german": "Wählen Sie Ihre Transaktionsgeschwindigkeit",
+			"japanese": "トランザクションの処理速度を選択してください",
+			"korean": "거래 속도를 선택하십시오",
+			"mandarin": "选择您的交易速度",
+			"spanish": "Selecciona la velocidad de transacción"
+		},
+		"sendAll": {
+			"english": "Send All",
+			"german": "Sende alle",
+			"japanese": "すべて送る",
+			"korean": "모두 보내기",
+			"mandarin": "全部发送",
+			"spanish": "Enviar todo"
+		},
+		"sendAmount": {
+			"english": "Send Amount",
+			"german": "Betrag senden",
+			"japanese": "送信額",
+			"korean": "송금",
+			"mandarin": "汇款金额",
+			"spanish": "Monto por Enviar"
+		},
+		"sendingTo": {
+			"english": "Sending To",
+			"german": "Senden an",
+			"japanese": "送信先",
+			"korean": "보내는 중",
+			"mandarin": "发送到",
+			"spanish": "Enviar a"
+		},
+		"somethingWrong": {
+			"english": "Something went wrong",
+			"german": "Etwas ist schief gelaufen",
+			"japanese": "何かがうまくいかなかった",
+			"korean": "문제가 발생했습니다.",
+			"mandarin": "出了些问题",
+			"spanish": "Algo salió mal"
+		},
+		"someTorusError": {
+			"english": "Something went wrong. Please try again",
+			"german": "Etwas ist schief gelaufen. Bitte versuche es erneut",
+			"japanese": "何かがうまくいかなかった。もう一度やり直してください",
+			"korean": "뭔가 잘못되었습니다. 다시 시도하십시오",
+			"mandarin": "出问题了。请再试一次",
+			"spanish": "Algo salió mal. Inténtalo de nuevo"
+		},
+		"tokens": {
+			"english": "TOKENS",
+			"german": "TOKENS",
+			"japanese": "トークン",
+			"korean": "토큰",
+			"mandarin": "代币",
+			"spanish": "TOKENS"
+		},
+		"totalCost": {
+			"english": "Total Cost",
+			"german": "Gesamtkosten",
+			"japanese": "総額",
+			"korean": "총 비용",
+			"mandarin": "总计花费",
+			"spanish": "Costo Total"
+		},
+		"totalCostEstimate": {
+			"english": "Estimated Total Cost",
+			"german": "Geschätzte Gesamtkosten",
+			"japanese": "推定総費用",
+			"korean": "예상 총 비용",
+			"mandarin": "估计总费用",
+			"spanish": "Costo total estimado"
+		},
+		"transactionFee": {
+			"english": "Transaction Fee",
+			"german": "Transaktionsgebühr",
+			"japanese": "もう一度やり直してください",
+			"korean": "거래 수수료",
+			"mandarin": "手续费",
+			"spanish": "Cuota de Transacción"
+		},
+		"transfer": {
+			"english": "Transfer",
+			"german": "Senden",
+			"japanese": "送信",
+			"korean": "이송",
+			"mandarin": "发送",
+			"spanish": "Transferir"
+		},
+		"transferApprox": {
+			"english": "approximately {time}",
+			"german": "ungefähr {Zeit}",
+			"japanese": "およそ{時間}",
+			"korean": "대략 {time}",
+			"mandarin": "大约 {time}",
+			"spanish": "aproximadamente {time}"
+		},
+		"transferConfirm": {
+			"english": "Transfer Confirm",
+			"german": "Übertragung bestätigen",
+			"japanese": "送信確認",
+			"korean": "전송 확인",
+			"mandarin": "转移确认",
+			"spanish": "Confirmar Transferencia"
+		},
+		"transferDetails": {
+			"english": "Transfer Details",
+			"german": "Übertragungsdetails",
+			"japanese": "送信内容の詳細",
+			"korean": "전송 세부 사항",
+			"mandarin": "转账明细",
+			"spanish": "Detalles de Transferencia"
+		},
+		"transferFailMessage": {
+			"english": "Please try again later",
+			"german": "Bitte versuchen Sie es später noch einmal",
+			"japanese": "後でもう一度やり直してください",
+			"korean": "나중에 다시 시도하세요",
+			"mandarin": "请稍后再试",
+			"spanish": "Intenta de nuevo luego"
+		},
+		"transferFailTitle": {
+			"english": "Your transfer cannot be processed",
+			"german": "Ihre Überweisung kann nicht bearbeitet werden",
+			"japanese": "送信処置ができませんでした",
+			"korean": "송금을 처리 할 수 ​​없습니다",
+			"mandarin": "您的转帐无法处理",
+			"spanish": "Tu transferencia no puede ser procesada"
+		},
+		"transferFee": {
+			"english": "Transaction Fee",
+			"german": "Transaktionsgebühr",
+			"japanese": "トランザクション手数料",
+			"korean": "거래 수수료",
+			"mandarin": "手续费",
+			"spanish": "Cuota de la transacción"
+		},
+		"transferFeeDesc": {
+			"english": "This is a mandatory processing fee users pay to the Ethereum network for each transaction. A higher fee will speed up the transaction process.",
+			"german": "Dies ist eine obligatorische Bearbeitungsgebühr, die Benutzer für jede Transaktion an das Ethereum-Netzwerk zahlen müssen. Eine höhere Gebühr beschleunigt den Transaktionsprozess.",
+			"japanese": "これは、トランザクションごとにユーザーがイーサリアムネットワークに支払う手数料になります。手数料を高く設定すると取引スピードがアップします。",
+			"korean": "사용자가 각 거래에 대해 이더 리움 네트워크에 지불하는 필수 처리 수수료입니다. 수수료가 높을수록 거래 과정이 빨라집니다.",
+			"mandarin": "这是用户为每笔交易向以太坊网络支付的强制性处理费。较高的费用将加快交易过程。",
+			"spanish": "Este es un proceso mandatorio. A mayor gas, mayor velocidad"
+		},
+		"transferLessThan": {
+			"english": "less than {time}",
+			"german": "weniger als {Zeit}",
+			"japanese": "{時間}未満",
+			"korean": "{time} 미만",
+			"mandarin": "少于 {time}",
+			"spanish": "menos de {time}"
+		},
+		"transferMode": {
+			"english": "Transfer to",
+			"german": "Übertragen auf",
+			"japanese": "送信先アドレス",
+			"korean": "로 전송",
+			"mandarin": "传送到",
+			"spanish": "Transferir a"
+		},
+		"transferMoreThan": {
+			"english": "more than {time}",
+			"german": "mehr als {Zeit}",
+			"japanese": "{時間}以上",
+			"korean": "{time} 이상",
+			"mandarin": "超过{time}",
+			"spanish": "más de {time}"
+		},
+		"transferShare": {
+			"english": "Share this on your favourite social network",
+			"german": "Teilen Sie dies in Ihrem bevorzugten sozialen Netzwerk",
+			"japanese": "これをお気に入りのソーシャルネットワークで共有してください",
+			"korean": "좋아하는 소셜 네트워크에서 공유",
+			"mandarin": "在您最喜欢的社交网络上分享",
+			"spanish": "Comparte esto en tu red social favorita"
+		},
+		"transferSuccessMessage": {
+			"english": "Your transaction will be completed in {time}",
+			"german": "Ihre Transaktion wird in ungefähr {time} Minuten abgeschlossen sein",
+			"japanese": "トランザクションは約{time}分で完了します",
+			"korean": "거래는 약 {time} 분 후에 완료됩니다",
+			"mandarin": "您的交易将在大约{time}分钟内完成",
+			"spanish": "Tu transferencia se completará en aproximademente {time} minutos"
+		},
+		"transferSuccessTitle": {
+			"english": "Your transfer is being processed",
+			"german": "Ihre Überweisung wird bearbeitet",
+			"japanese": "送信処理中です",
+			"korean": "송금 처리 중",
+			"mandarin": "您的转帐正在处理中",
+			"spanish": "Tu transferencia se está procesando"
+		},
+		"transferTweet": {
+			"english": "Hey {address}! I sent you {amount} via @Toruslabs. Access it at https://app.tor.us.",
+			"german": "Hey {address}! Ich habe dir {amount} über @Toruslabs geschickt. Greifen Sie unter https://app.tor.us darauf zu.",
+			"japanese": "{address}様{amount}を@Toruslabs経由で送信しました。 https://app.tor.usからアクセスしてください。",
+			"korean": "안녕 {address}! @Toruslabs를 통해 {amount}을 (를) 보냈습니다. https://app.tor.us에서 액세스하십시오.",
+			"mandarin": "{address}！我通过@Toruslabs向您发送了{amount}。访问https://app.tor.us。",
+			"spanish": "Hey {address}! Te acabo de enviar {amount} usando @Toruslabs. Puedes visitar https://app.tor.us."
+		},
+		"transferTweet2": {
+			"english": "Hey {address}! I sent you {amount} via {'@'}Toruslabs. Access it at https://app.tor.us.",
+			"german": "Hey {address}! Ich habe dir {amount} über {'@'}Toruslabs geschickt. Greifen Sie unter https://app.tor.us darauf zu.",
+			"japanese": "{address}様{amount}を{'@'}Toruslabs経由で送信しました。 https://app.tor.usからアクセスしてください。",
+			"korean": "안녕 {address}! {'@'}Toruslabs를 통해 {amount}을 (를) 보냈습니다. https://app.tor.us에서 액세스하십시오.",
+			"mandarin": "{address}！我通过{'@'}Toruslabs向您发送了{amount}。访问https://app.tor.us。",
+			"spanish": "Hey {address}! Te acabo de enviar {amount} usando {'@'}Toruslabs. Puedes visitar https://app.tor.us."
+		},
+		"twitterVerifyNote": {
+			"english": "Please verify if this is the right account",
+			"german": "Bitte überprüfen Sie, ob dies das richtige Konto ist",
+			"japanese": "これが正しいアカウントかどうかを確認してください",
+			"korean": "이것이 올바른 어카운트인지 확인하십시오",
+			"mandarin": "请验证这是否是正确的帐户",
+			"spanish": "Verifica que es la cuenta adecuada"
+		},
+		"youSend": {
+			"english": "You send",
+			"german": "Du sendest",
+			"japanese": "送信額",
+			"korean": "당신은 보내",
+			"mandarin": "您发送",
+			"spanish": "Envías"
 		}
 	}
 }
