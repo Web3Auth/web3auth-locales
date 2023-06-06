@@ -24,6 +24,15 @@
       "mandarin": "地址",
       "spanish": "DIRECCIÓN"
     },
+    "addressAlreadyExistAddContact": {
+      "english": "Entered address already exist",
+      "german": "Die eingegebene Adresse existiert bereits",
+      "japanese": "入力された住所はすでに存在します",
+      "korean": "입력 된 주소가 이미 존재합니다",
+      "mandarin": "输入地址已经存在",
+      "portuguese": "O endereço inserido já existe",
+      "spanish": "La dirección ingresada ya existe"
+    },
     "addressPlaceholder": {
       "english": "Enter {0}",
       "german": "Geben Sie {0} ein",
