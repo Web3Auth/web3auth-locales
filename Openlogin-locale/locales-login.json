@@ -1726,7 +1726,7 @@
       "korean": "전화로 계속하십시오",
       "spanish": "Continuar con el teléfono",
       "japanese": "電話を続けます",
-      "portugese": "Continue com o telefone"
+      "portuguese": "Continue com o telefone"
     },
     "verifier-sms-desc-2": {
       "english": "Continue with mobile",
@@ -1735,7 +1735,7 @@
       "korean": "모바일을 계속하십시오",
       "spanish": "Continuar con Mobile",
       "japanese": "モバイルを続けます",
-      "portugese": "Continue com o celular"
+      "portuguese": "Continue com o celular"
     },
     "verify-otp-title-popup": {
       "english": "OTP verification",
@@ -1744,7 +1744,7 @@
       "korean": "OTP 검증",
       "spanish": "Verificación OTP",
       "japanese": "OTP検証",
-      "portugese": "Verificação de OTP"
+      "portuguese": "Verificação de OTP"
     },
     "verify-otp-description": {
       "english": "Enter OTP-Code sent to {number}",
@@ -1753,7 +1753,7 @@
       "korean": "전송 된 OTP 코드를 입력하십시오 {number}",
       "spanish": "Ingrese el código OTP enviado a {number}",
       "japanese": "送信されるOTP-Codeを入力します {number}",
-      "portugese": "Digite o código OTP enviado para {number}"
+      "portuguese": "Digite o código OTP enviado para {number}"
     },
     "resend-otp-code": {
       "english": "Resend Code in {time}",
@@ -1762,7 +1762,7 @@
       "korean": "코드를 재현하십시오 {time}",
       "spanish": "Reenviar código en {time}",
       "japanese": "コードを再送信します {time}",
-      "portugese": "Reduzir o código em {time}"
+      "portuguese": "Reduzir o código em {time}"
     },
     "resend-code-cta": {
       "english": "Resend Code",
@@ -1771,7 +1771,7 @@
       "korean": "코드를 재현하십시오",
       "spanish": "Reenviar codigo",
       "japanese": "再送信コード",
-      "portugese": "Reenviar código"
+      "portuguese": "Reenviar código"
     },
     "edit-phone-number-text": {
       "english": "Edit phone number",
@@ -1780,7 +1780,7 @@
       "korean": "전화 번호 편집",
       "spanish": "Editar número de teléfono",
       "japanese": "電話番号を編集します",
-      "portugese": "Edite o número de telefone"
+      "portuguese": "Edite o número de telefone"
     },
     "verify-otp-title-redirect": {
       "english": "Enter your OTP",
@@ -1789,7 +1789,7 @@
       "korean": "OTP를 입력하십시오",
       "spanish": "Ingrese su OTP",
       "japanese": "OTPを入力してください",
-      "portugese": "Digite seu OTP"
+      "portuguese": "Digite seu OTP"
     },
     "verify-otp-heading-1": {
       "english": "An OTP has been sent to {number}",
@@ -1798,7 +1798,7 @@
       "korean": "OTP가 전송되었습니다 {number}",
       "spanish": "Se ha enviado un OTP a {number}",
       "japanese": "OTPが送信されました {number}",
-      "portugese": "Um OTP foi enviado para {number}"
+      "portuguese": "Um OTP foi enviado para {number}"
     },
     "verify-otp-heading-2": {
       "english": "Enter OTP to continue",
@@ -1807,7 +1807,7 @@
       "korean": "계속하려면 OTP를 입력하십시오",
       "spanish": "Ingrese OTP para continuar",
       "japanese": "続行するにはOTPを入力します",
-      "portugese": "Digite o OTP para continuar"
+      "portuguese": "Digite o OTP para continuar"
     },
     "otp-verification-response-success": {
       "english": "OTP verified",
@@ -1816,7 +1816,7 @@
       "korean": "OTP가 확인되었습니다",
       "spanish": "OTP verificado",
       "japanese": "OTP検証",
-      "portugese": "OTP Verificado"
+      "portuguese": "OTP Verificado"
     },
     "otp-verification-response-invalid": {
       "english": "Invalid OTP",
@@ -1825,7 +1825,7 @@
       "korean": "잘못된 OTP",
       "spanish": "OTP no válido",
       "japanese": "無効なOTP",
-      "portugese": "OTP inválido"
+      "portuguese": "OTP inválido"
     },
     "otp-verification-response-expired": {
       "english": "OTP Expired",
@@ -1834,7 +1834,7 @@
       "korean": "OTP가 만료되었습니다",
       "spanish": "OTP expiró",
       "japanese": "OTPの有効期限が切れました",
-      "portugese": "OTP expirou"
+      "portuguese": "OTP expirou"
     },
     "invalid-number-error-message": {
       "english": "Invalid phone number",
@@ -1843,7 +1843,7 @@
       "korean": "유효하지 않은 전화 번호",
       "spanish": "Numero de telefono invalido",
       "japanese": "無効な電話番号",
-      "portugese": "Número de telefone inválido"
+      "portuguese": "Número de telefone inválido"
     },
     "tooltip-phone-header": {
       "english": "Phone number and country code",
