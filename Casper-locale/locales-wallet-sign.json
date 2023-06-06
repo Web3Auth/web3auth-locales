@@ -3,25 +3,25 @@
         "confirmHeading": {
             "english": "Do you want to sign this message?",
             "german": "Möchten Sie diese Nachricht unterschreiben?",
-            "mandarin": "你想签字吗？",
-            "korean": "이 메시지에 서명 하시겠습니까?",
             "japanese": "このメッセージにサインしますか？",
+            "korean": "이 메시지에 서명 하시겠습니까?",
+            "mandarin": "你想签字吗？",
             "spanish": "¿Quieres firmar este mensaje?"
         },
         "messageLabel": {
             "english": "Casper Message",
             "german": "Casper-Nachricht.",
-            "mandarin": "卡斯特留言",
-            "korean": "캐스퍼 메시지",
             "japanese": "カスパーメッセージ",
+            "korean": "캐스퍼 메시지",
+            "mandarin": "卡斯特留言",
             "spanish": "Mensaje Casper"
         },
         "signingKeyLabel": {
             "english": "Signing Key",
             "german": "Schlüssel anmelden",
-            "mandarin": "签名钥匙",
-            "korean": "서명 키",
             "japanese": "署名鍵",
+            "korean": "서명 키",
+            "mandarin": "签名钥匙",
             "spanish": "Clave de firma"
         }
     }

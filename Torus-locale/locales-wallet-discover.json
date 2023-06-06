@@ -1,28 +1,28 @@
 {
 	"walletDiscover": {
-		"redirecting": {
-			"korean": "{url}로 리디렉션",
-			"german": "Weiterleitung an {url}",
-			"mandarin": "重定向到 {url}",
-			"spanish": "Redireccionando a {url}",
-			"japanese": "{url}にリダイレクトする",
-			"english": "Redirecting to {url}"
+		"loading": {
+			"english": "Please wait while we fetch data from our servers.",
+			"german": "Bitte warten Sie, während wir Daten von unseren Servern abrufen.",
+			"japanese": "サーバーからデータを取得するまでお待ちください。",
+			"korean": "서버에서 데이터를 가져오는 동안 기다려 주십시오.",
+			"mandarin": "我们正在从我们的服务器获取数据，请稍候。",
+			"spanish": "Espere mientras buscamos datos de nuestros servidores."
 		},
 		"noData": {
-			"korean": "현재 쿼리에 대한 Dapp을 찾을 수 없습니다.",
+			"english": "No Dapp found for current query.",
 			"german": "Kein Dapp für die aktuelle Abfrage gefunden.",
-			"mandarin": "没有找到当前查询的 Dapp",
-			"spanish": "No se encontró Dapp para la consulta actual.",
 			"japanese": "現在のクエリのDappが見つかりません。",
-			"english": "No Dapp found for current query."
+			"korean": "현재 쿼리에 대한 Dapp을 찾을 수 없습니다.",
+			"mandarin": "没有找到当前查询的 Dapp",
+			"spanish": "No se encontró Dapp para la consulta actual."
 		},
-		"loading": {
-			"korean": "서버에서 데이터를 가져오는 동안 기다려 주십시오.",
-			"german": "Bitte warten Sie, während wir Daten von unseren Servern abrufen.",
-			"mandarin": "我们正在从我们的服务器获取数据，请稍候。",
-			"spanish": "Espere mientras buscamos datos de nuestros servidores.",
-			"japanese": "サーバーからデータを取得するまでお待ちください。",
-			"english": "Please wait while we fetch data from our servers."
+		"redirecting": {
+			"english": "Redirecting to {url}",
+			"german": "Weiterleitung an {url}",
+			"japanese": "{url}にリダイレクトする",
+			"korean": "{url}로 리디렉션",
+			"mandarin": "重定向到 {url}",
+			"spanish": "Redireccionando a {url}"
 		}
 	}
 }
