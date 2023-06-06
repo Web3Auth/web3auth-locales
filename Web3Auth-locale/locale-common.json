@@ -2,11 +2,6 @@
 	"modal": {
 		"adapter-loader.message": {
 			"english": "Verify on your {{adapter}} account to continue",
-			"german": "Bestätigen Sie Ihr {{adapter}}-Konto, um fortzufahren",
-			"mandarin": "验证您的 {{adapter}} 帐户以继续",
-			"korean": "계속하려면 {{adapter}} 계정에서 인증하세요.",
-			"japanese": "続行するには、{{adapter}} アカウントで確認してください",
-			"spanish": "Verifica tu cuenta de {{adapter}} para continuar",
 			"french": "Vérifiez votre compte sur {{adapter}} pour continuer",
 			"portuguese": "Verifique a sua conta do {{adapter}} para continuar",
 			"greek": "Επαληθεύστε στον λογαριασμό σας {{adapter}} για να συνεχίσετε"
@@ -450,5 +445,4 @@
 		"portuguese": "Ver menos opções",
 		"greek": "Δείτε λιγότερες επιλογές"
 	}
-}
 }
