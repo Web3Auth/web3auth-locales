@@ -1,165 +1,165 @@
 {
   "walletActivity": {
-    "typeSent": {
-      "english": "Sent",
-      "mandarin": "发送",
-      "spanish": "Enviado",
-      "german": "Gesendet",
-      "japanese": "送信済",
-      "korean": "전송된"
-    },
-    "typeReceived": {
-      "english": "Received",
-      "mandarin": "已收到",
-      "spanish": "Recibió",
-      "german": "Erhalten",
-      "japanese": "受け取った",
-      "korean": "받았다"
-    },
-    "typeTopups": {
-      "english": "Topups",
-      "mandarin": "台阶",
-      "spanish": "Topups",
-      "german": "Aufpackungen",
-      "japanese": "トップアップ",
-      "korean": "위장"
-    },
-    "dateAll": {
-      "english": "All Dates",
-      "mandarin": "所有日期",
-      "spanish": "Todas las fechas",
-      "german": "Alle Daten",
-      "japanese": "すべての日付",
-      "korean": "모든 날짜"
-    },
-    "date1Week": {
-      "english": "Last 1 week",
-      "mandarin": "最后1周",
-      "spanish": "Última 1 semana",
-      "german": "Letzte 1 Woche",
-      "japanese": "過去1週間",
-      "korean": "지난 1 주일"
+    "createdTrustLine": {
+      "english": "Created Trust Line",
+      "german": "Erstellt Trust Line",
+      "japanese": "作成されたTrust Line",
+      "korean": "Trust Line를 만들었습니다",
+      "mandarin": "创建的Trust Line",
+      "spanish": "Creado Trust Line"
     },
     "date1Month": {
       "english": "Last 1 month",
-      "mandarin": "最后一个月",
-      "spanish": "Último 1 mes",
       "german": "Letzte 1 Monat",
       "japanese": "過去1か月",
-      "korean": "지난 1 개월"
+      "korean": "지난 1 개월",
+      "mandarin": "最后一个月",
+      "spanish": "Último 1 mes"
+    },
+    "date1Week": {
+      "english": "Last 1 week",
+      "german": "Letzte 1 Woche",
+      "japanese": "過去1週間",
+      "korean": "지난 1 주일",
+      "mandarin": "最后1周",
+      "spanish": "Última 1 semana"
     },
     "date6Months": {
       "english": "Last 6 months",
-      "mandarin": "最近6个月",
-      "spanish": "Últimos 6 meses",
       "german": "Letzte 6 Monate",
       "japanese": "過去6か月",
-      "korean": "지난 6 개월"
+      "korean": "지난 6 개월",
+      "mandarin": "最近6个月",
+      "spanish": "Últimos 6 meses"
     },
-    "sentToken": {
-      "english": "Sent {0}",
-      "mandarin": "发送{0}",
-      "spanish": "Enviado {0}",
-      "german": "SELT {0}",
-      "japanese": "送信{0}",
-      "korean": "{0}를 보냈습니다"
-    },
-    "receivedToken": {
-      "english": "Received {0}",
-      "mandarin": "收到{0}",
-      "spanish": "Recibido {0}",
-      "german": "{0} erhalten",
-      "japanese": "{0}を受け取りました",
-      "korean": "{0}를 받았습니다"
-    },
-    "createdTrustLine": {
-      "english": "Created Trust Line",
-      "mandarin": "创建的Trust Line",
-      "spanish": "Creado Trust Line",
-      "german": "Erstellt Trust Line",
-      "japanese": "作成されたTrust Line",
-      "korean": "Trust Line를 만들었습니다"
-    },
-    "removedTrustLine": {
-      "english": "Removed Trust Line",
-      "mandarin": "删除了Trust Line",
-      "spanish": "Eliminado Trust Line",
-      "german": "Trust Line entfernt",
-      "japanese": "Trust Lineを削除しました",
-      "korean": "Trust Line를 제거했습니다"
-    },
-    "topupToken": {
-      "english": "{0} Topup",
-      "mandarin": "{0}台式",
-      "spanish": "Topup {0}",
-      "german": "{0} -Aufladung",
-      "japanese": "{0}トップアップ",
-      "korean": "{0} Topup"
+    "dateAll": {
+      "english": "All Dates",
+      "german": "Alle Daten",
+      "japanese": "すべての日付",
+      "korean": "모든 날짜",
+      "mandarin": "所有日期",
+      "spanish": "Todas las fechas"
     },
     "detailsTitle": {
       "english": "Transaction details",
-      "mandarin": "交易明细",
-      "spanish": "Detalles de la transacción",
       "german": "Transaktionsdetails",
       "japanese": "トランザクションの詳細",
-      "korean": "상세 거래 내역"
-    },
-    "transferredToken": {
-      "english": "Transferred {0}",
-      "mandarin": "转移的{0}",
-      "spanish": "{0} transferido",
-      "german": "{0} übertragen",
-      "japanese": "転送された{0}",
-      "korean": "양도 된 {0}"
-    },
-    "trustSetLimit": {
-      "english": "Balance Limit",
-      "mandarin": "余额限制",
-      "spanish": "Límite de equilibrio",
-      "german": "Gleichgewichtsgrenze",
-      "japanese": "バランス制限",
-      "korean": "잔액 제한",
-      "portuguese": "Limite de saldo"
-    },
-    "transactionCost": {
-      "english": "Transaction cost",
-      "mandarin": "交易成本",
-      "spanish": "Costo de la transacción",
-      "german": "Transaktionsgebühr",
-      "japanese": "取引コスト",
-      "korean": "거래 비용"
-    },
-    "transactionState": {
-      "english": "Transaction state",
-      "mandarin": "交易状态",
-      "spanish": "Estado de transacción",
-      "german": "Transaktionszustand",
-      "japanese": "トランザクション状態",
-      "korean": "거래 상태"
-    },
-    "toAddress": {
-      "english": "to {0}",
-      "mandarin": "到{0}",
-      "spanish": "a {0}",
-      "german": "zu {0}",
-      "japanese": "{0}へ",
-      "korean": "{0}에"
-    },
-    "fromAddress": {
-      "english": "from {0}",
-      "mandarin": "来自{0}",
-      "spanish": "de {0}",
-      "german": "Von {0}",
-      "japanese": "{0}から",
-      "korean": "{0}에서"
+      "korean": "상세 거래 내역",
+      "mandarin": "交易明细",
+      "spanish": "Detalles de la transacción"
     },
     "forToken": {
       "english": "for {0}",
-      "mandarin": "对于{0}",
-      "spanish": "para {0}",
       "german": "für {0}",
       "japanese": "{0}の場合",
-      "korean": "{0} 용"
+      "korean": "{0} 용",
+      "mandarin": "对于{0}",
+      "spanish": "para {0}"
+    },
+    "fromAddress": {
+      "english": "from {0}",
+      "german": "Von {0}",
+      "japanese": "{0}から",
+      "korean": "{0}에서",
+      "mandarin": "来自{0}",
+      "spanish": "de {0}"
+    },
+    "receivedToken": {
+      "english": "Received {0}",
+      "german": "{0} erhalten",
+      "japanese": "{0}を受け取りました",
+      "korean": "{0}를 받았습니다",
+      "mandarin": "收到{0}",
+      "spanish": "Recibido {0}"
+    },
+    "removedTrustLine": {
+      "english": "Removed Trust Line",
+      "german": "Trust Line entfernt",
+      "japanese": "Trust Lineを削除しました",
+      "korean": "Trust Line를 제거했습니다",
+      "mandarin": "删除了Trust Line",
+      "spanish": "Eliminado Trust Line"
+    },
+    "sentToken": {
+      "english": "Sent {0}",
+      "german": "SELT {0}",
+      "japanese": "送信{0}",
+      "korean": "{0}를 보냈습니다",
+      "mandarin": "发送{0}",
+      "spanish": "Enviado {0}"
+    },
+    "toAddress": {
+      "english": "to {0}",
+      "german": "zu {0}",
+      "japanese": "{0}へ",
+      "korean": "{0}에",
+      "mandarin": "到{0}",
+      "spanish": "a {0}"
+    },
+    "topupToken": {
+      "english": "{0} Topup",
+      "german": "{0} -Aufladung",
+      "japanese": "{0}トップアップ",
+      "korean": "{0} Topup",
+      "mandarin": "{0}台式",
+      "spanish": "Topup {0}"
+    },
+    "transactionCost": {
+      "english": "Transaction cost",
+      "german": "Transaktionsgebühr",
+      "japanese": "取引コスト",
+      "korean": "거래 비용",
+      "mandarin": "交易成本",
+      "spanish": "Costo de la transacción"
+    },
+    "transactionState": {
+      "english": "Transaction state",
+      "german": "Transaktionszustand",
+      "japanese": "トランザクション状態",
+      "korean": "거래 상태",
+      "mandarin": "交易状态",
+      "spanish": "Estado de transacción"
+    },
+    "transferredToken": {
+      "english": "Transferred {0}",
+      "german": "{0} übertragen",
+      "japanese": "転送された{0}",
+      "korean": "양도 된 {0}",
+      "mandarin": "转移的{0}",
+      "spanish": "{0} transferido"
+    },
+    "trustSetLimit": {
+      "english": "Balance Limit",
+      "german": "Gleichgewichtsgrenze",
+      "japanese": "バランス制限",
+      "korean": "잔액 제한",
+      "mandarin": "余额限制",
+      "portuguese": "Limite de saldo",
+      "spanish": "Límite de equilibrio"
+    },
+    "typeReceived": {
+      "english": "Received",
+      "german": "Erhalten",
+      "japanese": "受け取った",
+      "korean": "받았다",
+      "mandarin": "已收到",
+      "spanish": "Recibió"
+    },
+    "typeSent": {
+      "english": "Sent",
+      "german": "Gesendet",
+      "japanese": "送信済",
+      "korean": "전송된",
+      "mandarin": "发送",
+      "spanish": "Enviado"
+    },
+    "typeTopups": {
+      "english": "Topups",
+      "german": "Aufpackungen",
+      "japanese": "トップアップ",
+      "korean": "위장",
+      "mandarin": "台阶",
+      "spanish": "Topups"
     }
   }
 }

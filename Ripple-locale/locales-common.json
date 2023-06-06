@@ -1,206 +1,206 @@
 {
   "common": {
-    "send": {
-      "german": "Senden",
-      "japanese": "送る",
-      "english": "Send",
-      "spanish": "Enviar",
-      "mandarin": "发送",
-      "korean": "보내다"
-    },
-    "receive": {
-      "german": "Erhalten",
-      "japanese": "受け取る",
-      "english": "Receive",
-      "spanish": "Recibir",
-      "mandarin": "接收",
-      "korean": "받다"
-    },
-    "buy": {
-      "english": "Buy",
-      "mandarin": "买",
-      "spanish": "Comprar",
-      "german": "Besorgen",
-      "japanese": "買う",
-      "korean": "구입하다"
-    },
-    "balance": {
-      "english": "Balance",
-      "mandarin": "平衡",
-      "spanish": "Balance",
-      "german": "Gleichgewicht",
-      "japanese": "バランス",
-      "korean": "균형"
-    },
-    "value": {
-      "english": "Value",
-      "mandarin": "价值",
-      "spanish": "Valor",
-      "german": "Wert",
-      "japanese": "価値",
-      "korean": "값"
-    },
-    "tokenReserved": {
-      "english": "{0} reserved",
-      "mandarin": "{0}保留",
-      "spanish": "{0} reservado",
-      "german": "{0} reserviert",
-      "japanese": "{0}予約",
-      "korean": "{0} 예약"
-    },
-    "close": {
-      "korean": "닫기",
-      "spanish": "Cerrar",
-      "german": "Schließen",
-      "english": "Close",
-      "mandarin": "关",
-      "japanese": "閉じる"
+    "all": {
+      "english": "All",
+      "german": "Alle",
+      "japanese": "全て",
+      "korean": "모두",
+      "mandarin": "全部",
+      "spanish": "Todo"
     },
     "availableBalance": {
       "english": "Available Balance",
-      "mandarin": "可用余额",
-      "spanish": "Saldo disponible",
       "german": "Verfügbares Guthaben",
       "japanese": "利用可能残高",
-      "korean": "사용 가능한 잔액"
+      "korean": "사용 가능한 잔액",
+      "mandarin": "可用余额",
+      "spanish": "Saldo disponible"
     },
-    "continue": {
-      "german": "Fortsetzen",
-      "korean": "계속하다",
-      "spanish": "Seguir",
-      "english": "Continue",
-      "mandarin": "继续",
-      "japanese": "継続する"
+    "balance": {
+      "english": "Balance",
+      "german": "Gleichgewicht",
+      "japanese": "バランス",
+      "korean": "균형",
+      "mandarin": "平衡",
+      "spanish": "Balance"
+    },
+    "buy": {
+      "english": "Buy",
+      "german": "Besorgen",
+      "japanese": "買う",
+      "korean": "구입하다",
+      "mandarin": "买",
+      "spanish": "Comprar"
     },
     "cancel": {
-      "german": "Stornieren",
-      "korean": "취소",
-      "spanish": "Cancelar",
       "english": "Cancel",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
       "mandarin": "取消",
-      "japanese": "キャンセル"
+      "spanish": "Cancelar"
     },
-    "successful": {
-      "german": "Erfolgreich",
-      "japanese": "成功した",
-      "english": "Successful",
-      "spanish": "Exitoso",
-      "mandarin": "成功",
-      "korean": "성공한"
+    "close": {
+      "english": "Close",
+      "german": "Schließen",
+      "japanese": "閉じる",
+      "korean": "닫기",
+      "mandarin": "关",
+      "spanish": "Cerrar"
     },
-    "unsuccessful": {
-      "german": "Erfolglos",
-      "japanese": "失敗した",
-      "english": "Unsuccessful",
-      "spanish": "Fracasado",
-      "mandarin": "不成功",
-      "korean": "실패"
+    "confirm": {
+      "english": "Confirm",
+      "german": "Bestätigen",
+      "japanese": "確認",
+      "korean": "확인",
+      "mandarin": "确认",
+      "spanish": "Confirmar"
     },
-    "pending": {
-      "german": "steht aus",
-      "japanese": "保留中",
-      "english": "Pending",
-      "spanish": "Pendiente",
-      "mandarin": "待定",
-      "korean": "대기 중"
-    },
-    "important": {
-      "english": "Important",
-      "mandarin": "重要的",
-      "spanish": "Importante",
-      "german": "Wichtig",
-      "japanese": "重要",
-      "korean": "중요한"
+    "continue": {
+      "english": "Continue",
+      "german": "Fortsetzen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "spanish": "Seguir"
     },
     "download": {
       "english": "Download",
-      "mandarin": "下载",
-      "spanish": "Descargar",
       "german": "Herunterladen",
       "japanese": "ダウンロード",
-      "korean": "다운로드"
+      "korean": "다운로드",
+      "mandarin": "下载",
+      "spanish": "Descargar"
     },
-    "confirm": {
-      "korean": "확인",
-      "german": "Bestätigen",
-      "english": "Confirm",
-      "mandarin": "确认",
-      "japanese": "確認",
-      "spanish": "Confirmar"
+    "important": {
+      "english": "Important",
+      "german": "Wichtig",
+      "japanese": "重要",
+      "korean": "중요한",
+      "mandarin": "重要的",
+      "spanish": "Importante"
+    },
+    "pending": {
+      "english": "Pending",
+      "german": "steht aus",
+      "japanese": "保留中",
+      "korean": "대기 중",
+      "mandarin": "待定",
+      "spanish": "Pendiente"
+    },
+    "receive": {
+      "english": "Receive",
+      "german": "Erhalten",
+      "japanese": "受け取る",
+      "korean": "받다",
+      "mandarin": "接收",
+      "spanish": "Recibir"
     },
     "required": {
-      "mandarin": "必要",
+      "english": "Required",
       "german": "Erforderlich",
-      "spanish": "Necesario",
-      "korean": "필수",
       "japanese": "必須",
-      "english": "Required"
+      "korean": "필수",
+      "mandarin": "必要",
+      "spanish": "Necesario"
     },
-    "all": {
-      "english": "All",
-      "mandarin": "全部",
-      "spanish": "Todo",
-      "german": "Alle",
-      "japanese": "全て",
-      "korean": "모두"
+    "send": {
+      "english": "Send",
+      "german": "Senden",
+      "japanese": "送る",
+      "korean": "보내다",
+      "mandarin": "发送",
+      "spanish": "Enviar"
+    },
+    "successful": {
+      "english": "Successful",
+      "german": "Erfolgreich",
+      "japanese": "成功した",
+      "korean": "성공한",
+      "mandarin": "成功",
+      "spanish": "Exitoso"
+    },
+    "tokenReserved": {
+      "english": "{0} reserved",
+      "german": "{0} reserviert",
+      "japanese": "{0}予約",
+      "korean": "{0} 예약",
+      "mandarin": "{0}保留",
+      "spanish": "{0} reservado"
+    },
+    "unsuccessful": {
+      "english": "Unsuccessful",
+      "german": "Erfolglos",
+      "japanese": "失敗した",
+      "korean": "실패",
+      "mandarin": "不成功",
+      "spanish": "Fracasado"
+    },
+    "value": {
+      "english": "Value",
+      "german": "Wert",
+      "japanese": "価値",
+      "korean": "값",
+      "mandarin": "价值",
+      "spanish": "Valor"
     }
   },
   "navBar": {
-    "home": {
-      "english": "Home",
-      "mandarin": "家",
-      "spanish": "Hogar",
-      "german": "Heim",
-      "japanese": "家",
-      "korean": "집"
-    },
     "activity": {
       "english": "Activity",
-      "mandarin": "活动",
-      "spanish": "Actividad",
       "german": "Aktivität",
       "japanese": "アクティビティ",
-      "korean": "활동"
+      "korean": "활동",
+      "mandarin": "活动",
+      "spanish": "Actividad"
     },
-    "settings": {
-      "english": "Settings",
-      "mandarin": "设置",
-      "spanish": "Ajustes",
-      "german": "Einstellungen",
-      "japanese": "設定",
-      "korean": "설정"
+    "home": {
+      "english": "Home",
+      "german": "Heim",
+      "japanese": "家",
+      "korean": "집",
+      "mandarin": "家",
+      "spanish": "Hogar"
     },
     "profile": {
       "english": "Profile",
-      "mandarin": "轮廓",
-      "spanish": "Perfil",
       "german": "Profil",
       "japanese": "プロフィール",
-      "korean": "프로필"
+      "korean": "프로필",
+      "mandarin": "轮廓",
+      "spanish": "Perfil"
     },
-    "snackSuccessCrashReport": {
-      "korean": "충돌 보고를 성공적으로 업데이트했습니다.",
-      "english": "Successfully updated crash reporting",
-      "japanese": "クラッシュレポートが正常に更新されました",
-      "german": "Absturzberichte erfolgreich aktualisiert",
-      "mandarin": "已成功更新崩溃报告",
-      "spanish": "Informe de fallos actualizado con éxito"
+    "settings": {
+      "english": "Settings",
+      "german": "Einstellungen",
+      "japanese": "設定",
+      "korean": "설정",
+      "mandarin": "设置",
+      "spanish": "Ajustes"
+    },
+    "snackFailChangeNetwork": {
+      "english": "Failed to change network",
+      "german": "Netzwerk konnte nicht geändert werden",
+      "japanese": "ネットワークの変更に失敗しました",
+      "korean": "네트워크를 변경하는 데 실패했습니다.",
+      "mandarin": "无法更改网络",
+      "spanish": "Error al cambiar la red"
     },
     "snackSuccessChangeNetwork": {
-      "korean": "네트워크가 성공적으로 변경되었습니다.",
       "english": "Network successfully changed",
-      "japanese": "ネットワークが正常に変更されました",
       "german": "Netzwerk erfolgreich geändert",
+      "japanese": "ネットワークが正常に変更されました",
+      "korean": "네트워크가 성공적으로 변경되었습니다.",
       "mandarin": "网络已成功更改",
       "spanish": "Red cambiada con éxito"
     },
-    "snackFailChangeNetwork": {
-      "korean": "네트워크를 변경하는 데 실패했습니다.",
-      "english": "Failed to change network",
-      "japanese": "ネットワークの変更に失敗しました",
-      "german": "Netzwerk konnte nicht geändert werden",
-      "mandarin": "无法更改网络",
-      "spanish": "Error al cambiar la red"
+    "snackSuccessCrashReport": {
+      "english": "Successfully updated crash reporting",
+      "german": "Absturzberichte erfolgreich aktualisiert",
+      "japanese": "クラッシュレポートが正常に更新されました",
+      "korean": "충돌 보고를 성공적으로 업데이트했습니다.",
+      "mandarin": "已成功更新崩溃报告",
+      "spanish": "Informe de fallos actualizado con éxito"
     }
   }
 }

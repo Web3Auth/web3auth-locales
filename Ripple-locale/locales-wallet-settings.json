@@ -1,381 +1,381 @@
 {
   "walletSettings": {
-    "privacyAndSecurity": {
-      "english": "Privacy and Security",
-      "mandarin": "隐私和安全",
-      "spanish": "Privacidad y seguridad",
-      "german": "Privatsphäre und Sicherheit",
-      "japanese": "プライバシーとセキュリティ",
-      "korean": "개인 정보 및 보안"
-    },
-    "privacyAndSecurityDesc": {
-      "english": "Private key, DApp permissions",
-      "mandarin": "私钥，DAPP权限",
-      "spanish": "Clave privada, permisos DAPP",
-      "german": "Privatschlüssel, DAPP -Berechtigungen",
-      "japanese": "秘密鍵、DAPP許可",
-      "korean": "개인 키, DAPP 권한"
-    },
-    "contacts": {
-      "english": "Contacts",
-      "mandarin": "联系人",
-      "spanish": "Contactos",
-      "german": "Kontakte",
-      "japanese": "連絡先",
-      "korean": "콘택트 렌즈"
-    },
-    "contactsDesc": {
-      "english": "Contacts list, Add contacts",
-      "mandarin": "联系人列表，添加联系人",
-      "spanish": "Lista de contactos, agregar contactos",
-      "german": "Kontaktliste, Kontakte hinzufügen",
-      "japanese": "連絡先リスト、連絡先を追加します",
-      "korean": "연락처 목록, 연락처 추가"
-    },
-    "notifications": {
-      "english": "Notifications",
-      "mandarin": "通知",
-      "spanish": "Notificaciones",
-      "german": "Benachrichtigungen",
-      "japanese": "通知",
-      "korean": "알림"
-    },
-    "notificationsDesc": {
-      "english": "Enable and disable notifications",
-      "mandarin": "启用和禁用通知",
-      "spanish": "Habilitar y deshabilitar notificaciones",
-      "german": "Benachrichtigungen aktivieren und deaktivieren",
-      "japanese": "通知を有効にして無効にします",
-      "korean": "알림을 활성화하고 비활성화합니다"
-    },
-    "theme": {
-      "english": "Theme",
-      "mandarin": "主题",
-      "spanish": "Tema",
-      "german": "Thema",
-      "japanese": "テーマ",
-      "korean": "주제"
-    },
-    "themeDesc": {
-      "english": "Select Light or Dark theme",
-      "mandarin": "选择浅色或深色主题",
-      "spanish": "Seleccione un tema claro o oscuro",
-      "german": "Wählen Sie helles oder dunkles Thema",
-      "japanese": "明るいテーマまたは暗いテーマを選択します",
-      "korean": "밝은 또는 어두운 테마를 선택하십시오"
-    },
-    "crashReport": {
-      "english": "Crash Reporting",
-      "mandarin": "崩溃报告",
-      "spanish": "Informes de choque",
-      "german": "Absturzberichterstattung",
-      "japanese": "クラッシュレポート",
-      "korean": "충돌보고"
-    },
-    "crashReportDesc": {
-      "english": "Send anonymous data about crashes",
-      "mandarin": "发送有关崩溃的匿名数据",
-      "spanish": "Enviar datos anónimos sobre bloqueos",
-      "german": "Senden Sie anonyme Daten über Abstürze",
-      "japanese": "クラッシュに関する匿名のデータを送信します",
-      "korean": "충돌에 대한 익명 데이터를 보냅니다"
-    },
-    "contact": {
-      "english": "Contact",
-      "mandarin": "接触",
-      "spanish": "Contacto",
-      "german": "Kontakt",
-      "japanese": "コンタクト",
-      "korean": "연락하다"
-    },
-    "contactDesc": {
-      "english": "Get in touch with us",
-      "mandarin": "请与我们联系",
-      "spanish": "Póngase en contacto con nosotros",
-      "german": "Sich mit uns in Verbindung setzen",
-      "japanese": "私たちに連絡してください",
-      "korean": "우리와 연락하십시오"
-    },
-    "devSettings": {
-      "english": "Developer settings",
-      "mandarin": "开发人员设置",
-      "spanish": "Configuración del desarrollador",
-      "german": "Entwicklereinstellungen",
-      "japanese": "開発者設定",
-      "korean": "개발자 설정"
-    },
-    "devSettingsDesc": {
-      "english": "Switch network",
-      "mandarin": "开关网络",
-      "spanish": "Cambiar de red",
-      "german": "Switch -Netzwerk",
-      "japanese": "スイッチネットワーク",
-      "korean": "스위치 네트워크"
-    },
-    "privateKey": {
-      "english": "Private Key",
-      "mandarin": "私钥",
-      "spanish": "Llave privada",
-      "german": "Privat Schlüssel",
-      "japanese": "秘密鍵",
-      "korean": "개인 키"
-    },
-    "downloadJson": {
-      "english": "Download (.JSON file)",
-      "mandarin": "下载（.JSON文件）",
-      "spanish": "Descargar (archivo .JSON)",
-      "german": "Download (.JSON -Datei)",
-      "japanese": "ダウンロード（.JSONファイル）",
-      "korean": "다운로드 (.JSON 파일)"
-    },
-    "downloadPrivateKey": {
-      "english": "Download private key",
-      "mandarin": "下载私钥",
-      "spanish": "Descargar la clave privada",
-      "german": "Private Schlüssel herunterladen",
-      "japanese": "秘密鍵をダウンロードします",
-      "korean": "개인 키를 다운로드하십시오"
-    },
-    "privateKeyFile": {
-      "english": "Private key file name",
-      "mandarin": "私钥文件名",
-      "spanish": "Nombre de archivo de clave privada",
-      "german": "Private Schlüsseldateiname",
-      "japanese": "秘密キーファイル名",
-      "korean": "개인 키 파일 이름"
-    },
-    "setPassword": {
-      "english": "Set password",
-      "mandarin": "设置密码",
-      "spanish": "Configurar la clave",
-      "german": "Passwort festlegen",
-      "japanese": "パスワードを設定してください",
-      "korean": "암호를 설정하세요"
-    },
-    "setPasswordPlaceholder": {
-      "english": "Enter password here",
-      "mandarin": "在此处输入密码",
-      "spanish": "Ingrese la contraseña aquí",
-      "german": "Geben Sie hier Passwort ein",
-      "japanese": "ここにパスワードを入力してください",
-      "korean": "여기에 비밀번호를 입력하십시오"
-    },
-    "confirmPasswordPlaceholder": {
-      "english": "Confirm your password",
-      "mandarin": "确认你的密码",
-      "spanish": "Confirmar la contraseña",
-      "german": "Bestätigen Sie Ihr Passwort",
-      "japanese": "あなたのパスワードを確認",
-      "korean": "암호를 확인"
-    },
-    "passwordNote": {
-      "english": "The password cannot be reset or recovered. If you lose your password, you lose the access to this file.",
-      "mandarin": "密码无法重置或恢复。如果您丢失密码，则将失去对此文件的访问。",
-      "spanish": "La contraseña no se puede restablecer o recuperar. Si pierde su contraseña, pierde el acceso a este archivo.",
-      "german": "Das Passwort kann nicht zurückgesetzt oder wiederhergestellt werden. Wenn Sie Ihr Passwort verlieren, verlieren Sie den Zugriff auf diese Datei.",
-      "japanese": "パスワードをリセットまたは回復することはできません。パスワードを紛失した場合、このファイルへのアクセスが失われます。",
-      "korean": "비밀번호를 재설정하거나 복구 할 수 없습니다. 비밀번호가 손실되면이 파일에 대한 액세스가 손실됩니다."
-    },
-    "searchName": {
-      "english": "Search by name",
-      "mandarin": "按名称搜索",
-      "spanish": "Buscar por nombre",
-      "german": "Suche mit Name",
-      "japanese": "名前で検索します",
-      "korean": "이름으로 검색하십시오"
-    },
     "addContact": {
       "english": "Add contact",
+      "german": "Kontakt hinzufügen",
+      "japanese": "連絡先を追加",
       "korean": "주소록에 추가",
       "mandarin": "添加联系人",
-      "japanese": "連絡先を追加",
-      "spanish": "Agregar contacto",
-      "german": "Kontakt hinzufügen"
-    },
-    "listContacts": {
-      "english": "List of contacts",
-      "korean": "연락처 목록",
-      "mandarin": "联系人列表",
-      "japanese": "連絡先リスト",
-      "spanish": "Lista de contactos",
-      "german": "Liste der kontakte"
+      "spanish": "Agregar contacto"
     },
     "addNewContact": {
-      "mandarin": "新增联络人",
+      "english": "Add new contact",
       "german": "Füge neuen Kontakt hinzu",
-      "spanish": "Añadir nuevo contacto",
-      "korean": "새 연락처 추가",
       "japanese": "新しい連絡先を追加",
-      "english": "Add new contact"
-    },
-    "name": {
-      "english": "Name",
-      "mandarin": "姓名",
-      "spanish": "Nombre",
-      "german": "Name",
-      "japanese": "名前",
-      "korean": "이름"
-    },
-    "namePlaceholder": {
-      "english": "Enter Contact's Name",
-      "mandarin": "输入联系人的姓名",
-      "spanish": "Ingrese el nombre del contacto",
-      "german": "Geben Sie den Namen des Kontakts ein",
-      "japanese": "連絡先の名前を入力します",
-      "korean": "연락처 이름을 입력하십시오"
+      "korean": "새 연락처 추가",
+      "mandarin": "新增联络人",
+      "spanish": "Añadir nuevo contacto"
     },
     "address": {
       "english": "Address",
-      "mandarin": "地址",
-      "spanish": "DIRECCIÓN",
       "german": "Adresse",
       "japanese": "住所",
-      "korean": "주소"
+      "korean": "주소",
+      "mandarin": "地址",
+      "spanish": "DIRECCIÓN"
     },
     "addressPlaceholder": {
       "english": "Enter {0}",
-      "mandarin": "输入{0}",
-      "spanish": "Ingrese {0}",
       "german": "Geben Sie {0} ein",
       "japanese": "{0}を入力してください",
-      "korean": "{0}를 입력하십시오"
+      "korean": "{0}를 입력하십시오",
+      "mandarin": "输入{0}",
+      "spanish": "Ingrese {0}"
     },
-    "light": {
-      "english": "Light",
-      "mandarin": "光",
-      "spanish": "Luz",
-      "german": "Licht",
-      "japanese": "ライト",
-      "korean": "빛"
+    "confirmPasswordPlaceholder": {
+      "english": "Confirm your password",
+      "german": "Bestätigen Sie Ihr Passwort",
+      "japanese": "あなたのパスワードを確認",
+      "korean": "암호를 확인",
+      "mandarin": "确认你的密码",
+      "spanish": "Confirmar la contraseña"
+    },
+    "contact": {
+      "english": "Contact",
+      "german": "Kontakt",
+      "japanese": "コンタクト",
+      "korean": "연락하다",
+      "mandarin": "接触",
+      "spanish": "Contacto"
+    },
+    "contactDesc": {
+      "english": "Get in touch with us",
+      "german": "Sich mit uns in Verbindung setzen",
+      "japanese": "私たちに連絡してください",
+      "korean": "우리와 연락하십시오",
+      "mandarin": "请与我们联系",
+      "spanish": "Póngase en contacto con nosotros"
+    },
+    "contacts": {
+      "english": "Contacts",
+      "german": "Kontakte",
+      "japanese": "連絡先",
+      "korean": "콘택트 렌즈",
+      "mandarin": "联系人",
+      "spanish": "Contactos"
+    },
+    "contactsDesc": {
+      "english": "Contacts list, Add contacts",
+      "german": "Kontaktliste, Kontakte hinzufügen",
+      "japanese": "連絡先リスト、連絡先を追加します",
+      "korean": "연락처 목록, 연락처 추가",
+      "mandarin": "联系人列表，添加联系人",
+      "spanish": "Lista de contactos, agregar contactos"
+    },
+    "crashReport": {
+      "english": "Crash Reporting",
+      "german": "Absturzberichterstattung",
+      "japanese": "クラッシュレポート",
+      "korean": "충돌보고",
+      "mandarin": "崩溃报告",
+      "spanish": "Informes de choque"
+    },
+    "crashReportDesc": {
+      "english": "Send anonymous data about crashes",
+      "german": "Senden Sie anonyme Daten über Abstürze",
+      "japanese": "クラッシュに関する匿名のデータを送信します",
+      "korean": "충돌에 대한 익명 데이터를 보냅니다",
+      "mandarin": "发送有关崩溃的匿名数据",
+      "spanish": "Enviar datos anónimos sobre bloqueos"
     },
     "dark": {
       "english": "Dark",
-      "mandarin": "黑暗的",
-      "spanish": "Oscuro",
       "german": "Dunkel",
       "japanese": "暗い",
-      "korean": "어두운"
+      "korean": "어두운",
+      "mandarin": "黑暗的",
+      "spanish": "Oscuro"
     },
-    "system": {
-      "english": "System",
-      "mandarin": "系统",
-      "spanish": "Sistema",
-      "german": "System",
-      "japanese": "システム",
-      "korean": "체계"
+    "devSettings": {
+      "english": "Developer settings",
+      "german": "Entwicklereinstellungen",
+      "japanese": "開発者設定",
+      "korean": "개발자 설정",
+      "mandarin": "开发人员设置",
+      "spanish": "Configuración del desarrollador"
     },
-    "sendCrash": {
-      "english": "Send Crash reports",
-      "mandarin": "发送崩溃报告",
-      "spanish": "Enviar informes de bloqueo",
-      "german": "Senden Sie Crash -Berichte",
-      "japanese": "クラッシュレポートを送信します",
-      "korean": "충돌 보고서를 보냅니다"
-    },
-    "sendCrashDesc": {
-      "english": "Web3auth collects anonymous data about any crashes that occur to help improve our products and services.",
-      "mandarin": "Web3Auth收集有关有助于改善我们的产品和服务的任何崩溃的匿名数据。",
-      "spanish": "Web3Auth recopila datos anónimos sobre cualquier bloqueo que ocurra para ayudar a mejorar nuestros productos y servicios.",
-      "german": "Web3Auth sammelt anonyme Daten zu Unfällen, die dazu beitragen, unsere Produkte und Dienstleistungen zu verbessern.",
-      "japanese": "Web3Authは、当社の製品とサービスの改善に役立つクラッシュに関する匿名データを収集します。",
-      "korean": "Web3auth는 제품 및 서비스를 개선하는 데 도움이되는 충돌에 대한 익명 데이터를 수집합니다."
+    "devSettingsDesc": {
+      "english": "Switch network",
+      "german": "Switch -Netzwerk",
+      "japanese": "スイッチネットワーク",
+      "korean": "스위치 네트워크",
+      "mandarin": "开关网络",
+      "spanish": "Cambiar de red"
     },
     "devSettingsNote": {
       "english": "Developer settings are meant for testing and advanced usage. Avoid changing these settings if you're not familiar with their purpose.",
-      "mandarin": "开发人员设置用于测试和高级用法。如果您不熟悉它们的目的，避免更改这些设置。",
-      "spanish": "La configuración del desarrollador está destinada a pruebas y uso avanzado. Evite cambiar estas configuraciones si no está familiarizado con su propósito.",
       "german": "Entwicklereinstellungen sind zum Testen und zur fortgeschrittenen Nutzung gedacht. Vermeiden Sie diese Einstellungen, wenn Sie mit ihrem Zweck nicht vertraut sind.",
       "japanese": "開発者の設定は、テストと高度な使用法を目的としています。目的に慣れていない場合は、これらの設定を変更しないでください。",
-      "korean": "개발자 설정은 테스트 및 고급 사용을위한 것입니다. 목적에 익숙하지 않은 경우 이러한 설정을 변경하지 마십시오."
+      "korean": "개발자 설정은 테스트 및 고급 사용을위한 것입니다. 목적에 익숙하지 않은 경우 이러한 설정을 변경하지 마십시오.",
+      "mandarin": "开发人员设置用于测试和高级用法。如果您不熟悉它们的目的，避免更改这些设置。",
+      "spanish": "La configuración del desarrollador está destinada a pruebas y uso avanzado. Evite cambiar estas configuraciones si no está familiarizado con su propósito."
+    },
+    "downloadJson": {
+      "english": "Download (.JSON file)",
+      "german": "Download (.JSON -Datei)",
+      "japanese": "ダウンロード（.JSONファイル）",
+      "korean": "다운로드 (.JSON 파일)",
+      "mandarin": "下载（.JSON文件）",
+      "spanish": "Descargar (archivo .JSON)"
+    },
+    "downloadPrivateKey": {
+      "english": "Download private key",
+      "german": "Private Schlüssel herunterladen",
+      "japanese": "秘密鍵をダウンロードします",
+      "korean": "개인 키를 다운로드하십시오",
+      "mandarin": "下载私钥",
+      "spanish": "Descargar la clave privada"
+    },
+    "duplicateContact": {
+      "english": "Duplicate contact",
+      "german": "Doppelter Kontakt",
+      "japanese": "重複した連絡先",
+      "korean": "중복 연락처",
+      "mandarin": "联系人重复",
+      "spanish": "Contacto duplicado"
+    },
+    "invalidXrpl": {
+      "english": "Invalid XRPL Address",
+      "german": "Ungültige XRPL-Adresse",
+      "japanese": "無効なXRPLアドレス",
+      "korean": "잘못된 XRPL 주소",
+      "mandarin": "无效的 XRPL 地址",
+      "spanish": "Dirección XRPL no válida"
+    },
+    "light": {
+      "english": "Light",
+      "german": "Licht",
+      "japanese": "ライト",
+      "korean": "빛",
+      "mandarin": "光",
+      "spanish": "Luz"
+    },
+    "listContacts": {
+      "english": "List of contacts",
+      "german": "Liste der kontakte",
+      "japanese": "連絡先リスト",
+      "korean": "연락처 목록",
+      "mandarin": "联系人列表",
+      "spanish": "Lista de contactos"
+    },
+    "name": {
+      "english": "Name",
+      "german": "Name",
+      "japanese": "名前",
+      "korean": "이름",
+      "mandarin": "姓名",
+      "spanish": "Nombre"
+    },
+    "namePlaceholder": {
+      "english": "Enter Contact's Name",
+      "german": "Geben Sie den Namen des Kontakts ein",
+      "japanese": "連絡先の名前を入力します",
+      "korean": "연락처 이름을 입력하십시오",
+      "mandarin": "输入联系人的姓名",
+      "spanish": "Ingrese el nombre del contacto"
     },
     "networks": {
       "english": "Networks",
-      "mandarin": "网络",
-      "spanish": "Redes",
       "german": "Netzwerke",
       "japanese": "ネットワーク",
-      "korean": "네트워크"
-    },
-    "notificationBrowser": {
-      "english": "Browser notifications",
-      "mandarin": "浏览器通知",
-      "spanish": "Notificaciones del navegador",
-      "german": "Browser -Benachrichtigungen",
-      "japanese": "ブラウザ通知",
-      "korean": "브라우저 알림"
-    },
-    "notificationBrowserDesc": {
-      "english": "Enable this to get browser notifications related to transactions in your Torus wallet.",
-      "mandarin": "使其能够获取与圆环钱包中交易有关的浏览器通知。",
-      "spanish": "Permita que esto haga que las notificaciones del navegador sean relacionadas con las transacciones en su billetera Torus.",
-      "german": "Aktivieren Sie dies, um Browser -Benachrichtigungen im Zusammenhang mit Transaktionen in Ihrer Torus -Brieftasche zu erhalten.",
-      "japanese": "これを有効にして、Torusウォレットのトランザクションに関連するブラウザ通知を取得します。",
-      "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 브라우저 알림을 얻을 수 있습니다."
-    },
-    "notificationEmail": {
-      "english": "Email notifications",
-      "mandarin": "电子邮件通知",
-      "spanish": "Notificaciónes de Correo Electrónico",
-      "german": "E-Mail Benachrichtigungen",
-      "japanese": "電子メール通知",
-      "korean": "이메일 알림"
-    },
-    "notificationEmailDesc": {
-      "english": "Enable this to get all email notification related to transactions in your Torus Wallet",
-      "mandarin": "使其能够获取与您的Torus Wallet中交易有关的所有电子邮件通知",
-      "spanish": "Habilite esto para obtener todas las notificaciones de correo electrónico relacionadas con las transacciones en su billetera Torus",
-      "german": "Aktivieren Sie dies, damit alle E -Mail -Benachrichtigungen in Bezug auf Transaktionen in Ihrer Torus -Brieftasche in Bezug",
-      "japanese": "これを有効にして、トーラスウォレットのトランザクションに関連するすべての電子メール通知を取得できます",
-      "korean": "이를 활성화하여 Torus 지갑의 거래와 관련된 모든 이메일 알림을 받으십시오."
-    },
-    "notificationInApp": {
-      "english": "In-app notifications",
-      "mandarin": "应用内通知",
-      "spanish": "Notificaciones en la aplicación",
-      "german": "In-App-Benachrichtigungen",
-      "japanese": "アプリ内通知",
-      "korean": "인앱 알림"
-    },
-    "notificationInAppDesc": {
-      "english": "Enable this to get all in-app notifications related to transactions in your Torus wallet.",
-      "mandarin": "使其能够获取与圆环钱包中交易有关的所有应用内通知。",
-      "spanish": "Permita que esto obtenga todas las notificaciones en la aplicación relacionadas con las transacciones en su billetera Torus.",
-      "german": "Aktivieren Sie dies, um alle In-App-Benachrichtigungen in Bezug auf Transaktionen in Ihrer Torus-Brieftasche zu erhalten.",
-      "japanese": "これにより、Torusウォレットのトランザクションに関連するすべてのアプリ内通知を取得できます。",
-      "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 모든 인앱 알림을 얻을 수 있습니다."
-    },
-    "xrplAddress": {
-      "mandarin": "XRPL 地址",
-      "german": "XRPL-Adresse",
-      "spanish": "Dirección de XRPL",
-      "korean": "XRPL 주소",
-      "japanese": "XRPLアドレス",
-      "english": "XRPL address"
-    },
-    "duplicateContact": {
-      "mandarin": "联系人重复",
-      "german": "Doppelter Kontakt",
-      "spanish": "Contacto duplicado",
-      "korean": "중복 연락처",
-      "japanese": "重複した連絡先",
-      "english": "Duplicate contact"
-    },
-    "invalidXrpl": {
-      "mandarin": "无效的 XRPL 地址",
-      "german": "Ungültige XRPL-Adresse",
-      "spanish": "Dirección XRPL no válida",
-      "korean": "잘못된 XRPL 주소",
-      "japanese": "無効なXRPLアドレス",
-      "english": "Invalid XRPL Address"
+      "korean": "네트워크",
+      "mandarin": "网络",
+      "spanish": "Redes"
     },
     "noContacts": {
       "english": "You have no contacts yet",
-      "mandarin": "你还没有联系",
-      "spanish": "Todavía no tienes contactos",
       "german": "Sie haben noch keine Kontakte",
       "japanese": "まだ連絡先はありません",
       "korean": "아직 연락처가 없습니다",
-      "portuguese": "Você ainda não tem contatos"
+      "mandarin": "你还没有联系",
+      "portuguese": "Você ainda não tem contatos",
+      "spanish": "Todavía no tienes contactos"
+    },
+    "notificationBrowser": {
+      "english": "Browser notifications",
+      "german": "Browser -Benachrichtigungen",
+      "japanese": "ブラウザ通知",
+      "korean": "브라우저 알림",
+      "mandarin": "浏览器通知",
+      "spanish": "Notificaciones del navegador"
+    },
+    "notificationBrowserDesc": {
+      "english": "Enable this to get browser notifications related to transactions in your Torus wallet.",
+      "german": "Aktivieren Sie dies, um Browser -Benachrichtigungen im Zusammenhang mit Transaktionen in Ihrer Torus -Brieftasche zu erhalten.",
+      "japanese": "これを有効にして、Torusウォレットのトランザクションに関連するブラウザ通知を取得します。",
+      "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 브라우저 알림을 얻을 수 있습니다.",
+      "mandarin": "使其能够获取与圆环钱包中交易有关的浏览器通知。",
+      "spanish": "Permita que esto haga que las notificaciones del navegador sean relacionadas con las transacciones en su billetera Torus."
+    },
+    "notificationEmail": {
+      "english": "Email notifications",
+      "german": "E-Mail Benachrichtigungen",
+      "japanese": "電子メール通知",
+      "korean": "이메일 알림",
+      "mandarin": "电子邮件通知",
+      "spanish": "Notificaciónes de Correo Electrónico"
+    },
+    "notificationEmailDesc": {
+      "english": "Enable this to get all email notification related to transactions in your Torus Wallet",
+      "german": "Aktivieren Sie dies, damit alle E -Mail -Benachrichtigungen in Bezug auf Transaktionen in Ihrer Torus -Brieftasche in Bezug",
+      "japanese": "これを有効にして、トーラスウォレットのトランザクションに関連するすべての電子メール通知を取得できます",
+      "korean": "이를 활성화하여 Torus 지갑의 거래와 관련된 모든 이메일 알림을 받으십시오.",
+      "mandarin": "使其能够获取与您的Torus Wallet中交易有关的所有电子邮件通知",
+      "spanish": "Habilite esto para obtener todas las notificaciones de correo electrónico relacionadas con las transacciones en su billetera Torus"
+    },
+    "notificationInApp": {
+      "english": "In-app notifications",
+      "german": "In-App-Benachrichtigungen",
+      "japanese": "アプリ内通知",
+      "korean": "인앱 알림",
+      "mandarin": "应用内通知",
+      "spanish": "Notificaciones en la aplicación"
+    },
+    "notificationInAppDesc": {
+      "english": "Enable this to get all in-app notifications related to transactions in your Torus wallet.",
+      "german": "Aktivieren Sie dies, um alle In-App-Benachrichtigungen in Bezug auf Transaktionen in Ihrer Torus-Brieftasche zu erhalten.",
+      "japanese": "これにより、Torusウォレットのトランザクションに関連するすべてのアプリ内通知を取得できます。",
+      "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 모든 인앱 알림을 얻을 수 있습니다.",
+      "mandarin": "使其能够获取与圆环钱包中交易有关的所有应用内通知。",
+      "spanish": "Permita que esto obtenga todas las notificaciones en la aplicación relacionadas con las transacciones en su billetera Torus."
+    },
+    "notifications": {
+      "english": "Notifications",
+      "german": "Benachrichtigungen",
+      "japanese": "通知",
+      "korean": "알림",
+      "mandarin": "通知",
+      "spanish": "Notificaciones"
+    },
+    "notificationsDesc": {
+      "english": "Enable and disable notifications",
+      "german": "Benachrichtigungen aktivieren und deaktivieren",
+      "japanese": "通知を有効にして無効にします",
+      "korean": "알림을 활성화하고 비활성화합니다",
+      "mandarin": "启用和禁用通知",
+      "spanish": "Habilitar y deshabilitar notificaciones"
+    },
+    "passwordNote": {
+      "english": "The password cannot be reset or recovered. If you lose your password, you lose the access to this file.",
+      "german": "Das Passwort kann nicht zurückgesetzt oder wiederhergestellt werden. Wenn Sie Ihr Passwort verlieren, verlieren Sie den Zugriff auf diese Datei.",
+      "japanese": "パスワードをリセットまたは回復することはできません。パスワードを紛失した場合、このファイルへのアクセスが失われます。",
+      "korean": "비밀번호를 재설정하거나 복구 할 수 없습니다. 비밀번호가 손실되면이 파일에 대한 액세스가 손실됩니다.",
+      "mandarin": "密码无法重置或恢复。如果您丢失密码，则将失去对此文件的访问。",
+      "spanish": "La contraseña no se puede restablecer o recuperar. Si pierde su contraseña, pierde el acceso a este archivo."
+    },
+    "privacyAndSecurity": {
+      "english": "Privacy and Security",
+      "german": "Privatsphäre und Sicherheit",
+      "japanese": "プライバシーとセキュリティ",
+      "korean": "개인 정보 및 보안",
+      "mandarin": "隐私和安全",
+      "spanish": "Privacidad y seguridad"
+    },
+    "privacyAndSecurityDesc": {
+      "english": "Private key, DApp permissions",
+      "german": "Privatschlüssel, DAPP -Berechtigungen",
+      "japanese": "秘密鍵、DAPP許可",
+      "korean": "개인 키, DAPP 권한",
+      "mandarin": "私钥，DAPP权限",
+      "spanish": "Clave privada, permisos DAPP"
+    },
+    "privateKey": {
+      "english": "Private Key",
+      "german": "Privat Schlüssel",
+      "japanese": "秘密鍵",
+      "korean": "개인 키",
+      "mandarin": "私钥",
+      "spanish": "Llave privada"
+    },
+    "privateKeyFile": {
+      "english": "Private key file name",
+      "german": "Private Schlüsseldateiname",
+      "japanese": "秘密キーファイル名",
+      "korean": "개인 키 파일 이름",
+      "mandarin": "私钥文件名",
+      "spanish": "Nombre de archivo de clave privada"
+    },
+    "searchName": {
+      "english": "Search by name",
+      "german": "Suche mit Name",
+      "japanese": "名前で検索します",
+      "korean": "이름으로 검색하십시오",
+      "mandarin": "按名称搜索",
+      "spanish": "Buscar por nombre"
+    },
+    "sendCrash": {
+      "english": "Send Crash reports",
+      "german": "Senden Sie Crash -Berichte",
+      "japanese": "クラッシュレポートを送信します",
+      "korean": "충돌 보고서를 보냅니다",
+      "mandarin": "发送崩溃报告",
+      "spanish": "Enviar informes de bloqueo"
+    },
+    "sendCrashDesc": {
+      "english": "Web3auth collects anonymous data about any crashes that occur to help improve our products and services.",
+      "german": "Web3Auth sammelt anonyme Daten zu Unfällen, die dazu beitragen, unsere Produkte und Dienstleistungen zu verbessern.",
+      "japanese": "Web3Authは、当社の製品とサービスの改善に役立つクラッシュに関する匿名データを収集します。",
+      "korean": "Web3auth는 제품 및 서비스를 개선하는 데 도움이되는 충돌에 대한 익명 데이터를 수집합니다.",
+      "mandarin": "Web3Auth收集有关有助于改善我们的产品和服务的任何崩溃的匿名数据。",
+      "spanish": "Web3Auth recopila datos anónimos sobre cualquier bloqueo que ocurra para ayudar a mejorar nuestros productos y servicios."
+    },
+    "setPassword": {
+      "english": "Set password",
+      "german": "Passwort festlegen",
+      "japanese": "パスワードを設定してください",
+      "korean": "암호를 설정하세요",
+      "mandarin": "设置密码",
+      "spanish": "Configurar la clave"
+    },
+    "setPasswordPlaceholder": {
+      "english": "Enter password here",
+      "german": "Geben Sie hier Passwort ein",
+      "japanese": "ここにパスワードを入力してください",
+      "korean": "여기에 비밀번호를 입력하십시오",
+      "mandarin": "在此处输入密码",
+      "spanish": "Ingrese la contraseña aquí"
+    },
+    "system": {
+      "english": "System",
+      "german": "System",
+      "japanese": "システム",
+      "korean": "체계",
+      "mandarin": "系统",
+      "spanish": "Sistema"
+    },
+    "theme": {
+      "english": "Theme",
+      "german": "Thema",
+      "japanese": "テーマ",
+      "korean": "주제",
+      "mandarin": "主题",
+      "spanish": "Tema"
+    },
+    "themeDesc": {
+      "english": "Select Light or Dark theme",
+      "german": "Wählen Sie helles oder dunkles Thema",
+      "japanese": "明るいテーマまたは暗いテーマを選択します",
+      "korean": "밝은 또는 어두운 테마를 선택하십시오",
+      "mandarin": "选择浅色或深色主题",
+      "spanish": "Seleccione un tema claro o oscuro"
+    },
+    "xrplAddress": {
+      "english": "XRPL address",
+      "german": "XRPL-Adresse",
+      "japanese": "XRPLアドレス",
+      "korean": "XRPL 주소",
+      "mandarin": "XRPL 地址",
+      "spanish": "Dirección de XRPL"
     }
   }
 }

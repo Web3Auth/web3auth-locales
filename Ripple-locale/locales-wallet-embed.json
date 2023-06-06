@@ -1,60 +1,60 @@
 {
     "embedMessage": {
+        "allowNetworkChange": {
+            "english": "Allow {0} to change your network to {1}",
+            "german": "Erlauben Sie {0}, Ihr Netzwerk in {1} zu ändern",
+            "japanese": "{0}がネットワークを{1}に変更できるようにします",
+            "korean": "{0}가 네트워크를 {1}로 변경하도록하십시오",
+            "mandarin": "允许{0}将您的网络更改为{1}",
+            "spanish": "Permitir que {0} cambie su red a {1}"
+        },
         "confirmHeading": {
             "english": "Do you want to sign this message?",
             "german": "Möchten Sie diese Nachricht unterschreiben?",
-            "mandarin": "你想签字吗？",
-            "korean": "이 메시지에 서명 하시겠습니까?",
             "japanese": "このメッセージにサインしますか？",
+            "korean": "이 메시지에 서명 하시겠습니까?",
+            "mandarin": "你想签字吗？",
             "spanish": "¿Quieres firmar este mensaje?"
+        },
+        "confirmPermissions": {
+            "english": "Confirm Permissions",
+            "german": "Berechtigungen bestätigen",
+            "japanese": "許可を確認します",
+            "korean": "권한을 확인하십시오",
+            "mandarin": "确认许可",
+            "spanish": "Confirmar permisos"
+        },
+        "currentNetwork": {
+            "english": "Current Network",
+            "german": "Aktuelles Netzwerk",
+            "japanese": "現在のネットワーク",
+            "korean": "현재 네트워크",
+            "mandarin": "当前网络",
+            "spanish": "Red actual"
         },
         "messageLabel": {
             "english": "XRPL Message",
-            "mandarin": "XRPL消息",
-            "spanish": "Mensaje XRPL",
             "german": "XRPL -Nachricht",
             "japanese": "XRPLメッセージ",
-            "korean": "XRPL 메시지"
+            "korean": "XRPL 메시지",
+            "mandarin": "XRPL消息",
+            "spanish": "Mensaje XRPL"
+        },
+        "requestedFrom": {
+            "english": "Requested from",
+            "german": "Angefordert von",
+            "japanese": "からリクエスト",
+            "korean": "요청",
+            "mandarin": "请求",
+            "spanish": "Solicitado de"
         },
         "signingKeyLabel": {
             "english": "Signing Key",
             "german": "Schlüssel anmelden",
-            "mandarin": "签名钥匙",
-            "korean": "서명 키",
             "japanese": "署名鍵",
+            "korean": "서명 키",
+            "mandarin": "签名钥匙",
             "spanish": "Clave de firma"
-        },
-        "confirmPermissions": {
-            "english": "Confirm Permissions",
-            "mandarin": "确认许可",
-            "spanish": "Confirmar permisos",
-            "german": "Berechtigungen bestätigen",
-            "japanese": "許可を確認します",
-            "korean": "권한을 확인하십시오"
-        },
-        "allowNetworkChange": {
-            "english": "Allow {0} to change your network to {1}",
-            "mandarin": "允许{0}将您的网络更改为{1}",
-            "spanish": "Permitir que {0} cambie su red a {1}",
-            "german": "Erlauben Sie {0}, Ihr Netzwerk in {1} zu ändern",
-            "japanese": "{0}がネットワークを{1}に変更できるようにします",
-            "korean": "{0}가 네트워크를 {1}로 변경하도록하십시오"
-        },
-        "requestedFrom": {
-            "english": "Requested from",
-            "mandarin": "请求",
-            "spanish": "Solicitado de",
-            "german": "Angefordert von",
-            "japanese": "からリクエスト",
-            "korean": "요청"
-        },
-        "currentNetwork": {
-            "english": "Current Network",
-            "mandarin": "当前网络",
-            "spanish": "Red actual",
-            "german": "Aktuelles Netzwerk",
-            "japanese": "現在のネットワーク",
-            "korean": "현재 네트워크"
         }
     }
 }

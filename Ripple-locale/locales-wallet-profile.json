@@ -1,20 +1,20 @@
 {
     "walletProfile": {
-        "userName": {
-            "english": "User's Name",
-            "mandarin": "用户名",
-            "spanish": "Nombre del usuario",
-            "german": "Name des Benutzers",
-            "japanese": "ユーザーの名前",
-            "korean": "사용자 이름"
-        },
         "importAccount": {
             "english": "Import account",
-            "mandarin": "导入帐号",
+            "german": "Konto importieren",
             "japanese": "アカウントをインポート",
             "korean": "계정 가져 오기",
-            "german": "Konto importieren",
+            "mandarin": "导入帐号",
             "spanish": "Importar cuenta"
+        },
+        "userName": {
+            "english": "User's Name",
+            "german": "Name des Benutzers",
+            "japanese": "ユーザーの名前",
+            "korean": "사용자 이름",
+            "mandarin": "用户名",
+            "spanish": "Nombre del usuario"
         }
     }
 }
