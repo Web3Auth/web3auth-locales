@@ -1,366 +1,705 @@
 {
   "common": {
-    "powered-by": {
-      "mandarin": "通过",
-      "german": "durch",
-      "english": "Powered by",
-      "korean": "으로",
-      "spanish": "por",
-      "japanese": "沿って",
-      "portuguese": "Provido por"
+    "advanced-options": {
+      "english": "Advanced Options",
+      "french": "Options avancées",
+      "german": "Erweiterte Optionen",
+      "japanese": "高度なオプション",
+      "korean": "고급 옵션",
+      "mandarin": "高级选项",
+      "portuguese": "Opções avançadas",
+      "spanish": "Opciones avanzadas"
     },
-    "errors-mismatch-password": {
-      "mandarin": "密码必须匹配",
-      "german": "Passwort muss übereinstimmen",
-      "english": "Password must match",
-      "korean": "암호가 일치해야합니다",
-      "spanish": "Contraseña debe coincidir con",
-      "japanese": "パスワードが一致している必要があります",
-      "portuguese": "A senha deve ser igual"
+    "back-to-download": {
+      "english": "Back to download Recovery Factor",
+      "french": "Retour au facteur de récupération de téléchargement",
+      "german": "Zurück zum Download Recovery Factor",
+      "japanese": "回復係数のダウンロードに戻る",
+      "korean": "복구 팩터 다운로드로 돌아 가기",
+      "mandarin": "返回下载恢复因子",
+      "portuguese": "Voltar para baixar o fator de recuperação",
+      "spanish": "Volver a descargar el factor de recuperación"
     },
-    "loader-secure-login": {
-      "mandarin": "使用tKey保护登录",
-      "german": "Anmeldung mit tKey sichern",
-      "english": "Securing login with tKey",
-      "korean": "tKey로 로그인 보안",
-      "spanish": "Asegurar el inicio de sesión con tKey",
-      "japanese": "tKeyでログインを保護する",
-      "portuguese": "Protegendo o login com tKey"
-    },
-    "copier-copy": {
-      "mandarin": "复制到剪贴板",
-      "german": "In die Zwischenablage kopieren",
-      "english": "Copy to clipboard",
-      "korean": "클립 보드에 복사",
-      "spanish": "Copiar al portapapeles",
-      "japanese": "クリップボードにコピー",
-      "portuguese": "Copiar para área de transferência"
-    },
-    "errors-incorrect-password": {
-      "mandarin": "密码错误",
-      "german": "Falsches Passwort",
-      "english": "Incorrect password",
-      "korean": "잘못된 비밀번호",
-      "spanish": "Contraseña incorrecta",
-      "japanese": "パスワードが正しくありません",
-      "portuguese": "Senha incorreta"
-    },
-    "toast-backup-share-verification-fail": {
-      "mandarin": "备份共享验证失败",
-      "german": "Überprüfung der Sicherungsfreigabe fehlgeschlagen",
-      "english": "Backup Share verification failed",
-      "korean": "백업 공유 확인 실패",
-      "spanish": "Error en la verificación del recurso compartido de copia de seguridad",
-      "japanese": "バックアップ共有の検証に失敗しました",
-      "portuguese": "Falha na verificação do compartilhamento de backup"
-    },
-    "copier-copied": {
-      "mandarin": "复制！",
-      "german": "Kopiert!",
-      "english": "Copied!",
-      "korean": "복사되었습니다!",
-      "spanish": "Copiado!",
-      "japanese": "コピーしました！",
-      "portuguese": "Copiado!"
-    },
-    "errors-invalid-email": {
-      "mandarin": "不合规电邮",
-      "german": "Ungültige E-Mail",
-      "english": "Invalid email",
-      "korean": "잘못된 이메일",
-      "spanish": "Email inválido",
-      "japanese": "無効なメール",
-      "portuguese": "E-mail inválido"
-    },
-    "errors-required": {
-      "mandarin": "必需的",
-      "german": "Erforderlich",
-      "english": "Required",
-      "korean": "필수",
-      "spanish": "Requerido",
-      "japanese": "必須",
-      "portuguese": "Requerido"
-    },
-    "toast-password-verification-fail": {
-      "mandarin": "密码验证失败",
-      "german": "Passwortüberprüfung fehlgeschlagen",
-      "english": "Password verification failed",
-      "korean": "비밀번호 확인 실패",
-      "spanish": "Falló la verificación de la contraseña",
-      "japanese": "パスワードの確認に失敗しました",
-      "portuguese": "A verificação da senha falhou"
-    },
-    "toast-device-share-delete-fail": {
-      "mandarin": "设备共享删除失败",
-      "german": "Löschen der Gerätefreigabe nicht erfolgreich",
-      "english": "Device share deletion unsuccessful",
-      "korean": "기기 공유 삭제 실패",
-      "spanish": "No se pudo eliminar el dispositivo compartido",
-      "japanese": "デバイス共有の削除に失敗しました",
-      "portuguese": "Falha na exclusão do compartilhamento do dispositivo"
-    },
-    "learn-more": {
-      "mandarin": "更多详情",
-      "german": "Mehr erfahren",
-      "english": "Learn more",
-      "korean": "더 알아보기",
-      "spanish": "Aprende más",
-      "japanese": "もっと詳しく知る",
-      "portuguese": "Saber mais"
-    },
-    "or": {
-      "mandarin": "或者",
-      "german": "oder",
-      "english": "or",
-      "korean": "또는",
-      "spanish": "o",
-      "japanese": "または",
-      "portuguese": "ou"
-    },
-    "errors-incorrect-mnemonic": {
-      "mandarin": "不正确的共享助记符",
-      "german": "Falsche Share-Mnemonik",
-      "english": "Incorrect share mnemonic",
-      "korean": "잘못된 공유 니모닉",
-      "spanish": "Mnemónico compartido incorrecto",
-      "japanese": "誤った共有ニーモニック",
-      "portuguese": "Mnemônico de compartilhamento incorreto"
-    },
-    "copier-terms-of-use": {
-      "mandarin": "使用条款",
-      "german": "Nutzungsbedingungen",
-      "english": "Terms of use",
-      "korean": "이용 약관",
-      "spanish": "Condiciones de uso",
-      "japanese": "利用規約",
-      "portuguese": "Termos de uso"
-    },
-    "copier-privacy-policy": {
-      "mandarin": "隐私政策",
-      "german": "Datenschutz-Bestimmungen",
-      "english": "Privacy policy",
-      "korean": "개인 정보 정책",
-      "spanish": "Política de privacidad",
-      "japanese": "個人情報保護方針",
-      "portuguese": "Política de privacidade"
-    },
-    "toast-backup-phase-email-send-success": {
-      "mandarin": "备用词组已发送到您的电子邮件",
-      "german": "Sicherungssatz an Ihre E-Mail gesendet",
-      "english": "Backup Phrase sent to your email",
-      "korean": "이메일로 전송 된 백업 문구",
-      "spanish": "Frase de seguridad enviada a su correo electrónico",
-      "japanese": "メールに送信されたバックアップフレーズ",
-      "portuguese": "Frase de segurança enviada para o seu e-mail"
-    },
-    "errors-invalid-mnemonic": {
-      "mandarin": "助记词短语无效",
-      "german": "Ungültige mnemonische Phrase",
-      "english": "Invalid mnemonic phrase",
-      "korean": "잘못된 니모닉 문구",
-      "spanish": "Frase mnemotécnica no válida",
-      "japanese": "ニーモニックフレーズが無効です",
-      "portuguese": "Frase mnemônica inválida"
-    },
-    "errors-invalid-password": {
-      "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
-      "german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Zahl",
-      "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
-      "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자, 하나의 숫자",
-      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
-      "japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、1つの数字",
-      "portuguese": "Deve conter pelo menos 10 caracteres. Pelo menos uma letra maiúscula, uma letra minúscula, um número"
-    },
-    "toast-password-change-fail": {
-      "mandarin": "密码更改失败",
-      "german": "Passwortänderung nicht erfolgreich",
-      "english": "Password change unsuccessful",
-      "korean": "비밀번호 변경 실패",
-      "spanish": "Cambio de contraseña fallido",
-      "japanese": "パスワードの変更に失敗しました",
-      "portuguese": "Falha na alteração da senha"
-    },
-    "toast-something-went-wrong": {
-      "mandarin": "出问题了",
-      "german": "Etwas ist schief gelaufen",
-      "english": "Something went wrong",
-      "korean": "문제가 발생했습니다",
-      "spanish": "Algo salió mal",
-      "japanese": "何かがうまくいかなかった",
-      "portuguese": "Algo deu errado"
-    },
-    "toast-registration-failed": {
-      "mandarin": "注册失败",
-      "german": "Registrierung fehlgeschlagen",
-      "english": "Registration failed",
-      "korean": "등록 실패",
-      "spanish": "Registro fallido",
-      "japanese": "登録に失敗しました",
-      "portuguese": "Registro falhou"
-    },
-    "close": {
-      "mandarin": "关闭",
-      "german": "Schließen",
-      "english": "Close",
-      "korean": "닫기",
-      "spanish": "Cerrar",
-      "japanese": "閉じる",
-      "portuguese": "Fechar"
-    },
-    "loader-device-detecting": {
-      "mandarin": "检测您的设备",
-      "german": "Erkennen Ihres Geräts",
-      "english": "Detecting your device",
-      "korean": "장치 감지",
-      "spanish": "Detectando su dispositivo",
-      "japanese": "デバイスの検出",
-      "portuguese": "Detectando seu dispositivo"
-    },
-    "toast-backup-phase-send-success": {
-      "mandarin": "备份词组已成功发送",
-      "german": "Sicherungssatz erfolgreich gesendet",
-      "english": "Backup Phrase successfully sent",
-      "korean": "백업 문구를 성공적으로 보냈습니다.",
-      "spanish": "Frase de seguridad enviada con éxito",
-      "japanese": "バックアップフレーズが正常に送信されました",
-      "portuguese": "Frase de backup enviada com sucesso"
-    },
-    "toast-backup-phase-send-fail": {
-      "mandarin": "无法发送备份短语",
-      "german": "Sicherungssatz kann nicht gesendet werden",
-      "english": "Unable to send Backup Phrase",
-      "korean": "백업 문구를 보낼 수 없습니다.",
-      "spanish": "No se pudo enviar la frase de respaldo",
-      "japanese": "バックアップフレーズを送信できません",
-      "portuguese": "Não foi possível enviar a frase de backup"
-    },
-    "toast-require-verification": {
-      "mandarin": "需要其他验证输入",
-      "german": "Benötigen Sie eine weitere Überprüfungseingabe",
-      "english": "Require another verification input",
-      "korean": "다른 확인 입력 필요",
-      "spanish": "Requerir otra entrada de verificación",
-      "japanese": "別の検証入力が必要",
-      "portuguese": "Exigir outra entrada de verificação"
-    },
-    "confirm": {
-      "mandarin": "确认",
-      "german": "Bestätigen",
-      "english": "Confirm",
-      "korean": "확인",
-      "spanish": "Confirmar",
-      "japanese": "確認",
-      "portuguese": "Confirmar"
-    },
-    "toast-recovery-share-delete-fail": {
-      "mandarin": "恢复共享删除失败",
-      "german": "Das Löschen der Wiederherstellungsfreigabe ist fehlgeschlagen",
-      "english": "Recovery share deletion failed",
-      "korean": "복구 공유 삭제 실패",
-      "spanish": "Error al eliminar el recurso compartido de recuperación",
-      "japanese": "リカバリ共有の削除に失敗しました",
-      "portuguese": "A exclusão do compartilhamento de recuperação falhou"
-    },
-    "toast-recovery-share-delete-success": {
-      "mandarin": "恢复共享已成功删除",
-      "german": "Wiederherstellungsfreigabe erfolgreich gelöscht",
-      "english": "Recovery share deleted successfully",
-      "korean": "복구 공유가 성공적으로 삭제되었습니다.",
-      "spanish": "El recurso compartido de recuperación se eliminó correctamente",
-      "japanese": "リカバリ共有が正常に削除されました",
-      "portuguese": "Compartilhamento de recuperação excluído com sucesso"
-    },
-    "toast-backup-phase-email-send-timeout": {
-      "mandarin": "将备份短语发送到您的电子邮件时超时。 请改为下载备份短语",
-      "german": "Zeitüberschreitung beim Senden der Sicherungsphrase an Ihre E-Mail. Bitte laden Sie stattdessen die Sicherungsphrase herunter",
-      "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
-      "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 대신 백업 문구를 다운로드하십시오",
-      "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar",
-      "japanese": "バックアップ フレーズをメールに送信する際のタイムアウト。 代わりにバックアップ フレーズをダウンロードしてください",
-      "portuguese": "Tempo limite ao enviar a frase de backup para o seu e-mail. Em vez disso, baixe a frase de backup"
-    },
-    "copier-manage-account": {
-      "mandarin": "管理帐户",
-      "german": "Konto verwalten",
-      "english": "Manage account",
-      "korean": "계정 관리",
-      "spanish": "Administrar cuenta",
-      "japanese": "アカウントを管理する",
-      "portuguese": "Gerenciar conta"
+    "backup-phrase-copied": {
+      "english": "Backup Phrase Copied",
+      "french": "Phrase de sauvegarde copiée",
+      "german": "Sicherungssatz kopiert",
+      "japanese": "バックアップ フレーズがコピーされました",
+      "korean": "백업 문구 복사됨",
+      "mandarin": "备份短语已复制",
+      "portuguese": "Frase de backup copiada",
+      "spanish": "Frase de respaldo copiada"
     },
     "cancel": {
-      "mandarin": "取消",
-      "german": "Stornieren",
       "english": "Cancel",
-      "korean": "취소",
-      "spanish": "Cancelar",
+      "french": "Annuler",
+      "german": "Stornieren",
       "japanese": "キャンセル",
-      "portuguese": "Cancelar"
+      "korean": "취소",
+      "mandarin": "取消",
+      "portuguese": "Cancelar",
+      "spanish": "Cancelar"
     },
-    "toast-password-change-success": {
-      "mandarin": "密码修改成功",
-      "german": "Passwort erfolgreich geändert",
-      "english": "Password successfully changed",
-      "korean": "비밀번호가 성공적으로 변경되었습니다.",
-      "spanish": "Contraseña cambiada correctamente",
-      "japanese": "パスワードが正常に変更されました",
-      "portuguese": "Senha alterada com sucesso"
+    "close": {
+      "english": "Close",
+      "french": "Fermer",
+      "german": "Schließen",
+      "japanese": "閉じる",
+      "korean": "닫기",
+      "mandarin": "关闭",
+      "portuguese": "Fechar",
+      "spanish": "Cerrar"
     },
-    "secured-by": {
-      "mandarin": "担保人",
-      "german": "Gesichert durch",
-      "english": "Secured by",
-      "korean": "보안",
-      "spanish": "Asegurado por",
-      "japanese": "によって保護",
-      "portuguese": "Assegurado por"
+    "confirm": {
+      "english": "Confirm",
+      "french": "Confirmer",
+      "german": "Bestätigen",
+      "japanese": "確認",
+      "korean": "확인",
+      "mandarin": "确认",
+      "portuguese": "Confirmar",
+      "spanish": "Confirmar"
+    },
+    "copier-copied": {
+      "english": "Copied!",
+      "french": "Copié!",
+      "german": "Kopiert!",
+      "japanese": "コピーしました！",
+      "korean": "복사되었습니다!",
+      "mandarin": "复制！",
+      "portuguese": "Copiado!",
+      "spanish": "Copiado!"
+    },
+    "copier-copy": {
+      "english": "Copy to clipboard",
+      "french": "Copier dans le presse-papiers",
+      "german": "In die Zwischenablage kopieren",
+      "japanese": "クリップボードにコピー",
+      "korean": "클립 보드에 복사",
+      "mandarin": "复制到剪贴板",
+      "portuguese": "Copiar para área de transferência",
+      "spanish": "Copiar al portapapeles"
+    },
+    "copier-manage-account": {
+      "english": "Manage account",
+      "french": "Gérer le compte",
+      "german": "Konto verwalten",
+      "japanese": "アカウントを管理する",
+      "korean": "계정 관리",
+      "mandarin": "管理帐户",
+      "portuguese": "Gerenciar conta",
+      "spanish": "Administrar cuenta"
+    },
+    "copier-privacy-policy": {
+      "english": "Privacy policy",
+      "french": "Politique de confidentialité",
+      "german": "Datenschutz-Bestimmungen",
+      "japanese": "個人情報保護方針",
+      "korean": "개인 정보 정책",
+      "mandarin": "隐私政策",
+      "portuguese": "Política de privacidade",
+      "spanish": "Política de privacidad"
+    },
+    "copier-terms-of-use": {
+      "english": "Terms of use",
+      "french": "Conditions d'utilisation,",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "使用条款",
+      "portuguese": "Termos de uso",
+      "spanish": "Condiciones de uso"
+    },
+    "copy-backup-phrase": {
+      "english": "Copy Backup Phrase",
+      "french": "Copier la phrase de sauvegarde",
+      "german": "Sicherungssatz kopieren",
+      "japanese": "バックアップフレーズをコピー",
+      "korean": "백업 문구 복사",
+      "mandarin": "复制备份短语",
+      "portuguese": "Copiar Frase de Backup",
+      "spanish": "Copiar frase de respaldo"
+    },
+    "copy-paste": {
+      "english": "Copy and Paste",
+      "french": "Copier coller",
+      "german": "Kopieren und Einfügen",
+      "japanese": "コピーアンドペースト",
+      "korean": "복사 및 붙여 넣기",
+      "mandarin": "复制和粘贴",
+      "portuguese": "Copiar e colar",
+      "spanish": "Copiar y pegar"
+    },
+    "copy-recovery-phrase": {
+      "english": "Copy Recovery Phrase",
+      "french": "Copier la phrase de récupération",
+      "german": "Wiederherstellungssatz kopieren",
+      "japanese": "リカバリーフレーズをコピー",
+      "korean": "복구 문구 복사",
+      "mandarin": "复制助记词",
+      "portuguese": "Copiar frase de recuperação",
+      "spanish": "Copiar frase de recuperación"
+    },
+    "device": {
+      "english": "Device",
+      "french": "Dispositif",
+      "german": "Gerät",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo",
+      "spanish": "Dispositivo"
+    },
+    "devices": {
+      "english": "Device (s)",
+      "french": "Dispositif (s)",
+      "german": "Geräte",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo (s)",
+      "spanish": "Dispositivo (s)"
+    },
+    "edit-email": {
+      "english": "Edit email",
+      "french": "Modifier l'e-mail",
+      "german": "E-Mail bearbeiten",
+      "japanese": "メールを編集",
+      "korean": "이메일 수정",
+      "mandarin": "编辑电子邮件",
+      "portuguese": "Editar e-mail",
+      "spanish": "Editar correo electrónico"
+    },
+    "errors-incorrect-mnemonic": {
+      "english": "Incorrect share mnemonic",
+      "french": "Mnémonique de partage incorrect",
+      "german": "Falsche Share-Mnemonik",
+      "japanese": "誤った共有ニーモニック",
+      "korean": "잘못된 공유 니모닉",
+      "mandarin": "不正确的共享助记符",
+      "portuguese": "Mnemônico de compartilhamento incorreto",
+      "spanish": "Mnemónico compartido incorrecto"
+    },
+    "errors-incorrect-password": {
+      "english": "Incorrect password",
+      "french": "Mot de passe incorrect",
+      "german": "Falsches Passwort",
+      "japanese": "パスワードが正しくありません",
+      "korean": "잘못된 비밀번호",
+      "mandarin": "密码错误",
+      "portuguese": "Senha incorreta",
+      "spanish": "Contraseña incorrecta"
+    },
+    "errors-invalid-email": {
+      "english": "Invalid email",
+      "french": "Email invalide",
+      "german": "Ungültige E-Mail",
+      "japanese": "無効なメール",
+      "korean": "잘못된 이메일",
+      "mandarin": "不合规电邮",
+      "portuguese": "E-mail inválido",
+      "spanish": "Email inválido"
+    },
+    "errors-invalid-mnemonic": {
+      "english": "Invalid mnemonic phrase",
+      "french": "Phrase mnémonique invalide",
+      "german": "Ungültige mnemonische Phrase",
+      "japanese": "ニーモニックフレーズが無効です",
+      "korean": "잘못된 니모닉 문구",
+      "mandarin": "助记词短语无效",
+      "portuguese": "Frase mnemônica inválida",
+      "spanish": "Frase mnemotécnica no válida"
+    },
+    "errors-invalid-password": {
+      "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
+      "french": "Doit contenir au moins 10 caractères. Au moins une lettre majuscule, une lettre minuscule, un chiffre",
+      "german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Zahl",
+      "japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、1つの数字",
+      "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자, 하나의 숫자",
+      "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
+      "portuguese": "Deve conter pelo menos 10 caracteres. Pelo menos uma letra maiúscula, uma letra minúscula, um número",
+      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número"
+    },
+    "errors-mismatch-password": {
+      "english": "Password must match",
+      "french": "Le mot de passe doit correspondre",
+      "german": "Passwort muss übereinstimmen",
+      "japanese": "パスワードが一致している必要があります",
+      "korean": "암호가 일치해야합니다",
+      "mandarin": "密码必须匹配",
+      "portuguese": "A senha deve ser igual",
+      "spanish": "Contraseña debe coincidir con"
+    },
+    "errors-required": {
+      "english": "Required",
+      "french": "Requis",
+      "german": "Erforderlich",
+      "japanese": "必須",
+      "korean": "필수",
+      "mandarin": "必需的",
+      "portuguese": "Requerido",
+      "spanish": "Requerido"
+    },
+    "errors-same-email-verifier": {
+      "english": "Email cannot be the same as the social login id",
+      "french": "L'e-mail ne peut pas être identique à l'ID de connexion sociale",
+      "german": "E -Mail kann nicht mit der sozialen Anmelde -ID übereinstimmen",
+      "japanese": "電子メールはソーシャルログインIDと同じではありません",
+      "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
+      "mandarin": "电子邮件不能与社交登录ID相同",
+      "portuguese": "O email não pode ser o mesmo que o ID de login social",
+      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
+    },
+    "factor1-social-login": {
+      "english": "Factor 1: Social Login",
+      "french": "Facteur 1: Connexion sociale",
+      "german": "Faktor 1: Social-Login",
+      "japanese": "要因 1: ソーシャル ログイン",
+      "korean": "요소 1: 소셜 로그인",
+      "mandarin": "因素 1：社交登录",
+      "portuguese": "Fator 1: Login social",
+      "spanish": "Factor 1: inicio de sesión social"
+    },
+    "factor2-devices": {
+      "english": "Factor 2: Device (s)",
+      "french": "Facteur 2: Dispositif (s)",
+      "german": "Faktor 2: Gerät(e)",
+      "japanese": "要因 2: デバイス",
+      "korean": "요소 2: 장치(들)",
+      "mandarin": "因素 2：设备",
+      "portuguese": "Fator 2: Dispositivo(s)",
+      "spanish": "Factor 2: Dispositivo(s)"
+    },
+    "factor3-social-recovery": {
+      "english": "Factor 3: Social Recovery",
+      "french": "Facteur 3: Récupération sociale",
+      "german": "Faktor 3: Soziale Erholung",
+      "japanese": "要因 3: 社会的回復",
+      "korean": "요인 3: 사회적 회복",
+      "mandarin": "因素 3：社会恢复",
+      "portuguese": "Fator 3: Recuperação Social",
+      "spanish": "Factor 3: Recuperación Social"
+    },
+    "hide-options": {
+      "english": "Hide Options",
+      "french": "Masquer les options",
+      "german": "Optionen ausblenden",
+      "japanese": "オプションを隠す",
+      "korean": "숨기기 옵션",
+      "mandarin": "隐藏选项",
+      "portuguese": "Ocultar opções",
+      "spanish": "Ocultar opciones"
+    },
+    "last-accessed-on": {
+      "english": "Last accessed on:",
+      "french": "Dernier accès le:",
+      "german": "Zuletzt aufgerufen am:",
+      "japanese": "最終アクセス日:",
+      "korean": "마지막으로 액세스한 날짜:",
+      "mandarin": "最后访问时间：",
+      "portuguese": "Último acesso em:",
+      "spanish": "Último acceso el:"
+    },
+    "learn-more": {
+      "english": "Learn more",
+      "french": "En savoir plus",
+      "german": "Mehr erfahren",
+      "japanese": "もっと詳しく知る",
+      "korean": "더 알아보기",
+      "mandarin": "更多详情",
+      "portuguese": "Saber mais",
+      "spanish": "Aprende más"
+    },
+    "loader-device-detecting": {
+      "english": "Detecting your device",
+      "french": "Détection de votre appareil",
+      "german": "Erkennen Ihres Geräts",
+      "japanese": "デバイスの検出",
+      "korean": "장치 감지",
+      "mandarin": "检测您的设备",
+      "portuguese": "Detectando seu dispositivo",
+      "spanish": "Detectando su dispositivo"
+    },
+    "loader-secure-login": {
+      "english": "Securing login with tKey",
+      "french": "Sécuriser la connexion avec tKey",
+      "german": "Anmeldung mit tKey sichern",
+      "japanese": "tKeyでログインを保護する",
+      "korean": "tKey로 로그인 보안",
+      "mandarin": "使用tKey保护登录",
+      "portuguese": "Protegendo o login com tKey",
+      "spanish": "Asegurar el inicio de sesión con tKey"
+    },
+    "new-device-detected": {
+      "english": "New device detected",
+      "french": "Nouveau périphérique détecté",
+      "german": "Neues Gerät erkannt",
+      "japanese": "新しいデバイスが検出されました",
+      "korean": "새 장치 감지됨",
+      "mandarin": "检测到新设备",
+      "portuguese": "Novo dispositivo detectado",
+      "spanish": "Nuevo dispositivo detectado"
+    },
+    "or": {
+      "english": "or",
+      "french": "ou",
+      "german": "oder",
+      "japanese": "または",
+      "korean": "또는",
+      "mandarin": "或者",
+      "portuguese": "ou",
+      "spanish": "o"
+    },
+    "other-factor-pwd": {
+      "english": "Other Factors : Password",
+      "german": "Andere Faktoren: Passwort",
+      "japanese": "その他の要因 : パスワード",
+      "korean": "기타 요소: 비밀번호",
+      "mandarin": "其他因素：密码",
+      "portuguese": "Outros fatores: senha",
+      "spanish": "Otros factores: contraseña"
+    },
+    "password": {
+      "english": "Password",
+      "french": "Mot de passe",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "암호",
+      "mandarin": "密码",
+      "portuguese": "Senha",
+      "spanish": "Password"
+    },
+    "password-label": {
+      "english": "Enter password",
+      "french": "Entrez le mot de passe",
+      "german": "Passwort eingeben",
+      "japanese": "パスワードを入力する",
+      "korean": "암호를 입력",
+      "mandarin": "输入密码",
+      "portuguese": "Digite a senha",
+      "spanish": "Ingresa tu password"
+    },
+    "phone": {
+      "english": "Phone",
+      "french": "Téléphone",
+      "german": "Telefon",
+      "japanese": "電話",
+      "korean": "핸드폰",
+      "mandarin": "电话",
+      "portuguese": "Telefone",
+      "spanish": "Teléfono"
+    },
+    "powered-by": {
+      "english": "Powered by",
+      "french": "par",
+      "german": "durch",
+      "japanese": "沿って",
+      "korean": "으로",
+      "mandarin": "通过",
+      "portuguese": "Provido por",
+      "spanish": "por"
+    },
+    "recovery-phrase-copied": {
+      "english": "Recovery Phrase Copied",
+      "french": "Phrase de récupération copiée",
+      "german": "Wiederherstellungssatz kopiert",
+      "japanese": "回復フレーズがコピーされました",
+      "korean": "복구 문구 복사됨",
+      "mandarin": "助记词已复制",
+      "portuguese": "Frase de Recuperação Copiada",
+      "spanish": "Frase de recuperación copiada"
+    },
+    "recoveryFactor": {
+      "english": "Recovery Factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回復係数",
+      "korean": "복구 계수",
+      "mandarin": "恢复因子",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
     },
     "referenceId": {
-      "mandarin": "参考编号：",
-      "german": "Referenz ID:",
       "english": "Reference ID:",
-      "korean": "참조 ID :",
-      "spanish": "Identificación de referencia:",
+      "french": "ID de référence:",
+      "german": "Referenz ID:",
       "japanese": "参照ID：",
-      "portuguese": "ID de referência:"
+      "korean": "참조 ID :",
+      "mandarin": "参考编号：",
+      "portuguese": "ID de referência:",
+      "spanish": "Identificación de referencia:"
     },
-    "toast-share-transfer-fail": {
-      "mandarin": "股份转让失败",
-      "german": "Freigabeübertragung fehlgeschlagen",
-      "english": "Share transfer failed",
-      "korean": "공유 전송 실패",
-      "spanish": "Error al transferir el recurso compartido",
-      "japanese": "共有の転送に失敗しました",
-      "portuguese": "Falha na transferência de compartilhamento"
+    "resend-recovery": {
+      "english": "Resend Recovery Factor",
+      "french": "Renvoyer le facteur de récupération",
+      "german": "Wiederherstellungsfaktor erneut senden",
+      "japanese": "回復係数の再送",
+      "korean": "복구 팩터 재전송",
+      "mandarin": "重新发送恢复因子",
+      "portuguese": "Reenviar Fator de Recuperação",
+      "spanish": "Factor de recuperación de reenvío"
     },
-    "toast-device-share-delete-success": {
-      "mandarin": "设备共享已成功删除",
-      "german": "Gerätefreigabe erfolgreich gelöscht",
-      "english": "Device share successfully deleted",
-      "korean": "장치 공유가 성공적으로 삭제되었습니다.",
-      "spanish": "Dispositivo compartido eliminado correctamente",
-      "japanese": "デバイス共有が正常に削除されました",
-      "portuguese": "Compartilhamento de dispositivo excluído com sucesso"
+    "secured-by": {
+      "english": "Secured by",
+      "french": "Sécurisé par",
+      "german": "Gesichert durch",
+      "japanese": "によって保護",
+      "korean": "보안",
+      "mandarin": "担保人",
+      "portuguese": "Assegurado por",
+      "spanish": "Asegurado por"
     },
     "selfCustodial": {
-      "mandarin": "自托管登录由",
-      "german": "Selbstverwahrungs-Login durch",
       "english": "Self-custodial login by",
+      "french": "Connexion en libre-service par",
+      "german": "Selbstverwahrungs-Login durch",
+      "japanese": "自己管理ログイン by",
       "korean": "자가 관리 로그인",
-      "spanish": "Inicio de sesión con autocustodia por",
-      "japanese": "による自己管理ログイン",
-      "portuguese": "Login autocustodial por"
+      "mandarin": "自托管登录由",
+      "portuguese": "Login autocustodial por",
+      "spanish": "Inicio de sesión con autocustodia por"
+    },
+    "social": {
+      "english": "Social",
+      "french": "Social",
+      "german": "Sozial",
+      "japanese": "社交",
+      "korean": "사회의",
+      "mandarin": "社会的",
+      "portuguese": "Social",
+      "spanish": "Social"
+    },
+    "socialFactor": {
+      "english": "Social Factor",
+      "french": "Facteur social",
+      "german": "Sozialer Faktor",
+      "japanese": "社会的要因",
+      "korean": "사회적 요인",
+      "mandarin": "社会因素",
+      "portuguese": "Fator Social",
+      "spanish": "Factor social"
+    },
+    "socialLogin": {
+      "english": "Social login",
+      "french": "Connexion sociale",
+      "german": "Sozialer Login",
+      "japanese": "ソーシャルログイン",
+      "korean": "소셜 로그인",
+      "mandarin": "社交登录",
+      "portuguese": "Login social",
+      "spanish": "Inicio de sesión social"
+    },
+    "toast-backup-phase-email-send-success": {
+      "english": "Backup Phrase sent to your email",
+      "french": "Phrase de sauvegarde envoyée à votre adresse e-mail",
+      "german": "Sicherungssatz an Ihre E-Mail gesendet",
+      "japanese": "メールに送信されたバックアップフレーズ",
+      "korean": "이메일로 전송 된 백업 문구",
+      "mandarin": "备用词组已发送到您的电子邮件",
+      "portuguese": "Frase de segurança enviada para o seu e-mail",
+      "spanish": "Frase de seguridad enviada a su correo electrónico"
+    },
+    "toast-backup-phase-email-send-timeout": {
+      "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
+      "french": "Délai d'attente lors de l'envoi de la phrase de sauvegarde à votre e-mail. Veuillez télécharger la phrase de sauvegarde à la place",
+      "german": "Zeitüberschreitung beim Senden der Sicherungsphrase an Ihre E-Mail. Bitte laden Sie stattdessen die Sicherungsphrase herunter",
+      "japanese": "バックアップ フレーズをメールに送信する際のタイムアウト。 代わりにバックアップ フレーズをダウンロードしてください",
+      "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 대신 백업 문구를 다운로드하십시오",
+      "mandarin": "将备份短语发送到您的电子邮件时超时。 请改为下载备份短语",
+      "portuguese": "Tempo limite ao enviar a frase de backup para o seu e-mail. Em vez disso, baixe a frase de backup",
+      "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar"
+    },
+    "toast-backup-phase-send-fail": {
+      "english": "Unable to send Backup Phrase",
+      "french": "Impossible d'envoyer la phrase de sauvegarde",
+      "german": "Sicherungssatz kann nicht gesendet werden",
+      "japanese": "バックアップフレーズを送信できません",
+      "korean": "백업 문구를 보낼 수 없습니다.",
+      "mandarin": "无法发送备份短语",
+      "portuguese": "Não foi possível enviar a frase de backup",
+      "spanish": "No se pudo enviar la frase de respaldo"
+    },
+    "toast-backup-phase-send-success": {
+      "english": "Backup Phrase successfully sent",
+      "french": "Phrase de sauvegarde envoyée avec succès",
+      "german": "Sicherungssatz erfolgreich gesendet",
+      "japanese": "バックアップフレーズが正常に送信されました",
+      "korean": "백업 문구를 성공적으로 보냈습니다.",
+      "mandarin": "备份词组已成功发送",
+      "portuguese": "Frase de backup enviada com sucesso",
+      "spanish": "Frase de seguridad enviada con éxito"
+    },
+    "toast-backup-share-verification-fail": {
+      "english": "Backup Share verification failed",
+      "french": "Échec de la vérification du partage de sauvegarde",
+      "german": "Überprüfung der Sicherungsfreigabe fehlgeschlagen",
+      "japanese": "バックアップ共有の検証に失敗しました",
+      "korean": "백업 공유 확인 실패",
+      "mandarin": "备份共享验证失败",
+      "portuguese": "Falha na verificação do compartilhamento de backup",
+      "spanish": "Error en la verificación del recurso compartido de copia de seguridad"
+    },
+    "toast-device-share-delete-fail": {
+      "english": "Device share deletion unsuccessful",
+      "french": "Échec de la suppression du partage de l'appareil",
+      "german": "Löschen der Gerätefreigabe nicht erfolgreich",
+      "japanese": "デバイス共有の削除に失敗しました",
+      "korean": "기기 공유 삭제 실패",
+      "mandarin": "设备共享删除失败",
+      "portuguese": "Falha na exclusão do compartilhamento do dispositivo",
+      "spanish": "No se pudo eliminar el dispositivo compartido"
+    },
+    "toast-device-share-delete-success": {
+      "english": "Device share successfully deleted",
+      "french": "Partage de périphérique supprimé avec succès",
+      "german": "Gerätefreigabe erfolgreich gelöscht",
+      "japanese": "デバイス共有が正常に削除されました",
+      "korean": "장치 공유가 성공적으로 삭제되었습니다.",
+      "mandarin": "设备共享已成功删除",
+      "portuguese": "Compartilhamento de dispositivo excluído com sucesso",
+      "spanish": "Dispositivo compartido eliminado correctamente"
+    },
+    "toast-password-change-fail": {
+      "english": "Password change unsuccessful",
+      "french": "Échec du changement de mot de passe",
+      "german": "Passwortänderung nicht erfolgreich",
+      "japanese": "パスワードの変更に失敗しました",
+      "korean": "비밀번호 변경 실패",
+      "mandarin": "密码更改失败",
+      "portuguese": "Falha na alteração da senha",
+      "spanish": "Cambio de contraseña fallido"
+    },
+    "toast-password-change-success": {
+      "english": "Password successfully changed",
+      "french": "Mot de passe modifié avec succès",
+      "german": "Passwort erfolgreich geändert",
+      "japanese": "パスワードが正常に変更されました",
+      "korean": "비밀번호가 성공적으로 변경되었습니다.",
+      "mandarin": "密码修改成功",
+      "portuguese": "Senha alterada com sucesso",
+      "spanish": "Contraseña cambiada correctamente"
+    },
+    "toast-password-verification-fail": {
+      "english": "Password verification failed",
+      "french": "Échec de la vérification du mot de passe",
+      "german": "Passwortüberprüfung fehlgeschlagen",
+      "japanese": "パスワードの確認に失敗しました",
+      "korean": "비밀번호 확인 실패",
+      "mandarin": "密码验证失败",
+      "portuguese": "A verificação da senha falhou",
+      "spanish": "Falló la verificación de la contraseña"
+    },
+    "toast-recovery-share-delete-fail": {
+      "english": "Recovery share deletion failed",
+      "french": "Échec de la suppression du partage de récupération",
+      "german": "Das Löschen der Wiederherstellungsfreigabe ist fehlgeschlagen",
+      "japanese": "リカバリ共有の削除に失敗しました",
+      "korean": "복구 공유 삭제 실패",
+      "mandarin": "恢复共享删除失败",
+      "portuguese": "A exclusão do compartilhamento de recuperação falhou",
+      "spanish": "Error al eliminar el recurso compartido de recuperación"
+    },
+    "toast-recovery-share-delete-success": {
+      "english": "Recovery share deleted successfully",
+      "french": "Partage de récupération supprimé avec succès",
+      "german": "Wiederherstellungsfreigabe erfolgreich gelöscht",
+      "japanese": "リカバリ共有が正常に削除されました",
+      "korean": "복구 공유가 성공적으로 삭제되었습니다.",
+      "mandarin": "恢复共享已成功删除",
+      "portuguese": "Compartilhamento de recuperação excluído com sucesso",
+      "spanish": "El recurso compartido de recuperación se eliminó correctamente"
+    },
+    "toast-registration-failed": {
+      "english": "Registration failed",
+      "french": "L'enregistrement a échoué",
+      "german": "Registrierung fehlgeschlagen",
+      "japanese": "登録に失敗しました",
+      "korean": "등록 실패",
+      "mandarin": "注册失败",
+      "portuguese": "Registro falhou",
+      "spanish": "Registro fallido"
+    },
+    "toast-require-verification": {
+      "english": "Require another verification input",
+      "french": "Exiger une autre entrée de vérification",
+      "german": "Benötigen Sie eine weitere Überprüfungseingabe",
+      "japanese": "別の検証入力が必要",
+      "korean": "다른 확인 입력 필요",
+      "mandarin": "需要其他验证输入",
+      "portuguese": "Exigir outra entrada de verificação",
+      "spanish": "Requerir otra entrada de verificación"
+    },
+    "toast-share-transfer-fail": {
+      "english": "Share transfer failed",
+      "french": "Échec du transfert de partage",
+      "german": "Freigabeübertragung fehlgeschlagen",
+      "japanese": "共有の転送に失敗しました",
+      "korean": "공유 전송 실패",
+      "mandarin": "股份转让失败",
+      "portuguese": "Falha na transferência de compartilhamento",
+      "spanish": "Error al transferir el recurso compartido"
+    },
+    "toast-something-went-wrong": {
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal"
+    },
+    "upload-recovery-factor": {
+      "english": "Upload Recovery Factor",
+      "french": "Télécharger le facteur de récupération",
+      "german": "Wiederherstellungsfaktor hochladen",
+      "japanese": "回復係数のアップロード",
+      "korean": "회복 인자 업로드",
+      "mandarin": "上传恢复因子",
+      "portuguese": "Carregar Fator de Recuperação",
+      "spanish": "Subir factor de recuperación"
+    },
+    "verify": {
+      "english": "Verify",
+      "french": "Vérifier",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "검증",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "verify-with-other-factors": {
+      "english": "Verify with other factors",
+      "french": "Vérifier avec d'autres facteurs",
+      "german": "Überprüfen Sie mit anderen Faktoren",
+      "japanese": "他の要因で検証する",
+      "korean": "다른 요인으로 확인",
+      "mandarin": "与其他因素验证",
+      "portuguese": "Verifique com outros fatores",
+      "spanish": "Verificar con otros factores"
+    },
+    "webAuthentication": {
+      "english": "Web Authentication",
+      "french": "Authentification Web",
+      "german": "Web-Authentifizierung",
+      "japanese": "ウェブ認証",
+      "korean": "웹 인증",
+      "mandarin": "网络认证",
+      "portuguese": "Autenticação Web",
+      "spanish": "Autenticación web"
     }
   },
   "error-block": {
     "required-fields-title": {
-      "mandarin": "以下一个或多个必需参数缺失/无效",
-      "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen / sind ungültig",
       "english": "One or more of the following required parameters is missing/invalid",
-      "korean": "다음 필수 매개 변수 중 하나 이상이 누락되었거나 유효하지 않습니다.",
-      "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos",
+      "french": "Un ou plusieurs des paramètres obligatoires suivants sont manquants ou invalides",
+      "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen / sind ungültig",
       "japanese": "次の必須パラメーターの1つ以上が欠落/無効です",
-      "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos"
+      "korean": "다음 필수 매개 변수 중 하나 이상이 누락되었거나 유효하지 않습니다.",
+      "mandarin": "以下一个或多个必需参数缺失/无效",
+      "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
+      "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos"
     }
   }
 }

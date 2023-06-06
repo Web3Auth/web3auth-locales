@@ -1,300 +1,300 @@
 {
 	"walletTopUp": {
-		"max": {
-			"german": "max",
-			"mandarin": "最高",
-			"japanese": "最大",
-			"korean": "최대",
-			"english": "max",
-			"spanish": "Máximo"
-		},
-		"wannaBuy": {
-			"german": "Sie kaufen",
-			"mandarin": "你买",
-			"japanese": "通貨の種類",
-			"korean": "지불",
-			"english": "You buy",
-			"spanish": "Compras"
-		},
-		"cryptoDesc": {
-			"german": "Crypto.com ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Kreditkarte zu kaufen. Beginnen Sie mit der Installation ihrer Anwendung",
-			"mandarin": "Crypto.com是使用信用卡购买加密货币的安全方法。首先安装他们的应用程序",
-			"japanese": "Crypto.comは、クレジットカードで暗号通貨を購入する安全な方法です。アプリケーションをインストールすることから始めます",
-			"korean": "Crypto.com은 신용 카드로 암호 화폐를 구매하는 안전한 방법입니다. 그들의 응용 프로그램을 설치하여 시작",
-			"english": "Crypto.com is a secure way to buy cryptocurrency with your credit card. Start by installing their application",
-			"spanish": "Crypto.com es una forma segura de comprar cryptomonedas. Puedes empezar instalando su aplicación"
-		},
-		"selectProvider": {
-			"german": "Wählen Sie einen Anbieter",
-			"mandarin": "选择供应商",
-			"japanese": "プロバイダーを選択",
-			"korean": "공급자를 선택하십시오",
-			"english": "Select a Provider",
-			"spanish": "Selecciona un Proveedor"
-		},
-		"includesTransactionCost": {
-			"german": "Beinhaltet Transaktionskosten von",
-			"mandarin": "包括交易成本",
-			"japanese": "の取引費用を含む",
-			"korean": "의 거래 비용을 포함합니다.",
-			"english": "Includes transaction cost of",
-			"spanish": "Incluye el costo de transacción de"
-		},
-		"receiveHint": {
-			"german": "Bitte bereiten Sie Ihren Personalausweis / Reisepass vor, um den Kauf abzuschließen.",
-			"mandarin": "请准备您的身份证/护照以完成交易。",
-			"japanese": "購入手続きに必要な IDカード/パスポートを準備してください。",
-			"korean": "구매를 완료하려면 신분증 / 여권을 준비하십시오.",
-			"english": "Please prepare your Identity Card/Passport to complete the purchase.",
-			"spanish": "Por favor preparar un documento de identificación para la compra"
-		},
-		"description": {
-			"german": "ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Zahlungsmethode zu kaufen. Geben Sie zunächst einen Betrag ein, um ein Angebot zu erhalten, bevor Sie einen Kauf tätigen",
-			"mandarin": "是一种通过付款方式购买加密货币的安全方法。首先在购买时输入以下金额以获取报价",
-			"japanese": "は、暗号通貨を購入する安全なサービスです。以下に購入希望額を入力して、金額に間違いがないか確認の上、購入手続きを進めてください。",
-			"korean": "귀하의 지불 방법으로 암호 화폐를 구매하는 안전한 방법입니다. 구매하기 전에 아래 금액을 입력하여 견적을 받으십시오.",
-			"english": "is a secure way to buy cryptocurrency with your payment method. Start by entering an amount below to get a quote before making a purchase",
-			"spanish": "es una forma segura de comprar cryptomonedas. Empieza por ingresar un monto para obtener una cuota antes de comprar"
-		},
-		"continue": {
-			"german": "Fortsetzen",
-			"mandarin": "继续",
-			"japanese": "継続する",
-			"korean": "계속하다",
-			"english": "Continue",
-			"spanish": "Continuar"
-		},
-		"minSmall": {
-			"german": "min",
-			"mandarin": "最低",
-			"japanese": "最小",
-			"korean": "분",
-			"english": "min",
-			"spanish": "Mínimo"
-		},
-		"includes": {
-			"german": "Beinhaltet",
-			"mandarin": "包括",
-			"japanese": "含む",
-			"korean": "포함",
-			"english": "Includes",
-			"spanish": "Incluye"
-		},
-		"contact2": {
-			"german": "kontaktiere uns",
-			"mandarin": "联系我们",
-			"japanese": "お問い合わせ",
-			"korean": "문의하기",
-			"english": "contact us",
-			"spanish": "contactarnos"
-		},
-		"otherModeDesc": {
-			"german": "und wir würden unser Bestes geben, um uns zu verbessern und Ihnen besser zu dienen",
-			"mandarin": "我们会尽力改善并更好地为您服务",
-			"japanese": "そして私たちはあなたを改善し、あなたにより良く奉仕するために最善を尽くします",
-			"korean": "우리는 당신을 개선하고 더 나은 서비스를 제공하기 위해 최선을 다할 것입니다",
-			"english": "and we would try our best to improve and serve you better",
-			"spanish": "y tratáremos de mejorar nuestro servicio"
-		},
-		"limits": {
-			"german": "Grenzen",
-			"mandarin": "限度",
-			"japanese": "上限",
-			"korean": "제한",
-			"english": "Limits",
-			"spanish": "Límites"
-		},
-		"serviceFeeDesc1": {
-			"german": "Diese Gebühr geht vollständig an",
-			"mandarin": "这笔费用全部用于",
-			"japanese": "この料金は完全に",
-			"korean": "이 수수료는 전적으로",
-			"english": "This fee goes entirely to",
-			"spanish": "Esta cuota va directamente a "
-		},
-		"writeToUs": {
-			"german": "Schreib uns",
-			"mandarin": "与我们联系",
-			"japanese": "リクエスト申請",
-			"korean": "우리에게 쓰기",
-			"english": "Write to us",
-			"spanish": "Escríbenos"
-		},
-		"otherMode": {
-			"german": "Bevorzugen Sie eine andere Zahlungsweise?",
-			"mandarin": "想使用其它付款方式？",
-			"japanese": "他の支払い方法を希望しますか？",
-			"korean": "다른 결제 방법을 선호하십니까?",
-			"english": "Prefer other mode of payment?",
-			"spanish": "Utilizar otro método de pago?"
-		},
-		"waitFetch": {
-			"german": "Bitte warten Sie, während wir neue Angebotspreise abrufen.",
-			"mandarin": "我们正在获取新的报价，请稍候。",
-			"japanese": "新鮮な見積もり価格を取得するまでお待ちください。",
-			"korean": "새로운 견적 가격을 가져오는 동안 잠시 기다려 주십시오.",
-			"english": "Please wait while we fetch fresh quote prices.",
-			"spanish": "Espere mientras buscamos nuevos precios de cotización."
-		},
-		"currencies": {
-			"german": "Währungen",
-			"mandarin": "货币",
-			"japanese": "取り扱い通貨",
-			"korean": "통화",
-			"english": "Currencies",
-			"spanish": "Monedas"
-		},
-		"theProcess": {
-			"german": "Der Prozess würde ungefähr dauern",
-			"mandarin": "该过程大约需要",
-			"japanese": "手続きにかかる時間",
-			"korean": "이 과정에는 약",
-			"english": "The process would take approximately",
-			"spanish": "El proceso puede tomar aproximadamente"
-		},
-		"min": {
-			"german": "Minimum",
-			"mandarin": "最低",
-			"japanese": "最小",
-			"korean": "최저한의",
-			"english": "Min",
-			"spanish": "Mínimo"
+		"close": {
+			"english": "Close",
+			"german": "Schließen",
+			"japanese": "閉じる",
+			"korean": "닫기",
+			"mandarin": "关",
+			"spanish": "Cerrar"
 		},
 		"contact1": {
+			"english": "Feel free to",
 			"german": "Fühlen sich frei",
-			"mandarin": "随意地",
 			"japanese": "お気軽に",
 			"korean": "부담없이",
-			"english": "Feel free to",
+			"mandarin": "随意地",
 			"spanish": "Ten la libertad de "
 		},
-		"doesntInclude": {
-			"german": "Beinhaltet nicht",
-			"mandarin": "不包括",
-			"japanese": "含まない",
-			"korean": "포함되지 않습니다",
-			"english": "Doesn't Include",
-			"spanish": "No incluye"
-		},
-		"youSend": {
-			"german": "Sie bezahlen",
-			"mandarin": "付款",
-			"japanese": "支払金額",
-			"korean": "당신은 보내",
-			"english": "You pay",
-			"spanish": "Pagas"
-		},
-		"serviceFeeDesc2": {
-			"german": "für ihre Dienstleistungen in den Bereichen Kartenverarbeitung, Schadensbegrenzung und Betrugserkennung",
-			"mandarin": "在卡处理，缓解和欺诈检测方面的服务",
-			"japanese": "カード処理、緩和、不正検出のサービスに対して",
-			"korean": "카드 처리, 완화 및 사기 탐지 서비스",
-			"english": "for their services in card processing, mitigation and fraud detection",
-			"spanish": "por sus servicios con procesamiento de tarjetas"
+		"contact2": {
+			"english": "contact us",
+			"german": "kontaktiere uns",
+			"japanese": "お問い合わせ",
+			"korean": "문의하기",
+			"mandarin": "联系我们",
+			"spanish": "contactarnos"
 		},
 		"contact3": {
+			"english": "for support or any inquiry",
 			"german": "für Support oder jede Anfrage",
-			"mandarin": "寻求支持或任何查询",
 			"japanese": "サポートまたはお問い合わせ",
 			"korean": "지원 또는 문의",
-			"english": "for support or any inquiry",
+			"mandarin": "寻求支持或任何查询",
 			"spanish": "para cualquier duda o comentario"
 		},
-		"receive": {
-			"german": "Erhalten",
-			"mandarin": "接收",
-			"japanese": "受取額",
-			"korean": "받다",
-			"english": "You receive",
-			"spanish": "Recibes"
+		"continue": {
+			"english": "Continue",
+			"german": "Fortsetzen",
+			"japanese": "継続する",
+			"korean": "계속하다",
+			"mandarin": "继续",
+			"spanish": "Continuar"
 		},
-		"receiveHintRamp": {
-			"german": "Sie benötigen eine ID-Überprüfung, um mehr als 1.000 EUR pro Transaktion oder 10.000 EUR pro Monat aufzuladen",
-			"mandarin": "每次充值超过1000欧元或每月超过1万欧元时，您需要进行身份验证",
-			"japanese": "トランザクションごとに1,000ユーロ以上、または月額10,000ユーロ以上のチャージにはID確認が必要です。",
-			"korean": "거래 당 1k EUR 이상 또는 한 달에 10k EUR 이상인 경우 ID 확인이 필요합니다.",
-			"english": "You need ID verification for top-up more than 1k EUR per transaction or 10k EUR per month",
-			"spanish": "Necesitas comprobar identificación para depositar 1,000EUR por día o 10,000EUR por mes"
+		"cryptoDesc": {
+			"english": "Crypto.com is a secure way to buy cryptocurrency with your credit card. Start by installing their application",
+			"german": "Crypto.com ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Kreditkarte zu kaufen. Beginnen Sie mit der Installation ihrer Anwendung",
+			"japanese": "Crypto.comは、クレジットカードで暗号通貨を購入する安全な方法です。アプリケーションをインストールすることから始めます",
+			"korean": "Crypto.com은 신용 카드로 암호 화폐를 구매하는 안전한 방법입니다. 그들의 응용 프로그램을 설치하여 시작",
+			"mandarin": "Crypto.com是使用信用卡购买加密货币的安全方法。首先安装他们的应用程序",
+			"spanish": "Crypto.com es una forma segura de comprar cryptomonedas. Puedes empezar instalando su aplicación"
+		},
+		"currencies": {
+			"english": "Currencies",
+			"german": "Währungen",
+			"japanese": "取り扱い通貨",
+			"korean": "통화",
+			"mandarin": "货币",
+			"spanish": "Monedas"
+		},
+		"description": {
+			"english": "is a secure way to buy cryptocurrency with your payment method. Start by entering an amount below to get a quote before making a purchase",
+			"german": "ist eine sichere Möglichkeit, Kryptowährung mit Ihrer Zahlungsmethode zu kaufen. Geben Sie zunächst einen Betrag ein, um ein Angebot zu erhalten, bevor Sie einen Kauf tätigen",
+			"japanese": "は、暗号通貨を購入する安全なサービスです。以下に購入希望額を入力して、金額に間違いがないか確認の上、購入手続きを進めてください。",
+			"korean": "귀하의 지불 방법으로 암호 화폐를 구매하는 안전한 방법입니다. 구매하기 전에 아래 금액을 입력하여 견적을 받으십시오.",
+			"mandarin": "是一种通过付款方式购买加密货币的安全方法。首先在购买时输入以下金额以获取报价",
+			"spanish": "es una forma segura de comprar cryptomonedas. Empieza por ingresar un monto para obtener una cuota antes de comprar"
+		},
+		"doesntInclude": {
+			"english": "Doesn't Include",
+			"german": "Beinhaltet nicht",
+			"japanese": "含まない",
+			"korean": "포함되지 않습니다",
+			"mandarin": "不包括",
+			"spanish": "No incluye"
+		},
+		"fees": {
+			"english": "Fees",
+			"german": "Gebühren",
+			"japanese": "料金",
+			"korean": "수수료",
+			"mandarin": "费用",
+			"spanish": "Cuota"
+		},
+		"includes": {
+			"english": "Includes",
+			"german": "Beinhaltet",
+			"japanese": "含む",
+			"korean": "포함",
+			"mandarin": "包括",
+			"spanish": "Incluye"
+		},
+		"includesTransactionCost": {
+			"english": "Includes transaction cost of",
+			"german": "Beinhaltet Transaktionskosten von",
+			"japanese": "の取引費用を含む",
+			"korean": "의 거래 비용을 포함합니다.",
+			"mandarin": "包括交易成本",
+			"spanish": "Incluye el costo de transacción de"
+		},
+		"limits": {
+			"english": "Limits",
+			"german": "Grenzen",
+			"japanese": "上限",
+			"korean": "제한",
+			"mandarin": "限度",
+			"spanish": "Límites"
+		},
+		"max": {
+			"english": "max",
+			"german": "max",
+			"japanese": "最大",
+			"korean": "최대",
+			"mandarin": "最高",
+			"spanish": "Máximo"
+		},
+		"min": {
+			"english": "Min",
+			"german": "Minimum",
+			"japanese": "最小",
+			"korean": "최저한의",
+			"mandarin": "最低",
+			"spanish": "Mínimo"
+		},
+		"minSmall": {
+			"english": "min",
+			"german": "min",
+			"japanese": "最小",
+			"korean": "분",
+			"mandarin": "最低",
+			"spanish": "Mínimo"
 		},
 		"minTransactionAmount": {
+			"english": "Minimum transaction amount:",
 			"german": "Mindesttransaktionsbetrag:",
-			"mandarin": "最低交易金额：",
 			"japanese": "最小取引金額：",
 			"korean": "최소 거래 금액:",
-			"english": "Minimum transaction amount:",
+			"mandarin": "最低交易金额：",
 			"spanish": "Monto mínimo de transacción:"
 		},
-		"rate": {
-			"german": "Bewertung",
-			"mandarin": "率",
-			"japanese": "レート",
-			"korean": "율",
-			"english": "Rate",
-			"spanish": "Tarifa"
+		"otherMode": {
+			"english": "Prefer other mode of payment?",
+			"german": "Bevorzugen Sie eine andere Zahlungsweise?",
+			"japanese": "他の支払い方法を希望しますか？",
+			"korean": "다른 결제 방법을 선호하십니까?",
+			"mandarin": "想使用其它付款方式？",
+			"spanish": "Utilizar otro método de pago?"
 		},
-		"serverSize": {
-			"german": "Servergröße",
-			"mandarin": "服务器大小",
-			"japanese": "サーバーサイズ",
-			"korean": "서버 크기",
-			"english": "Server Size",
-			"spanish": "Tamaño del servidor"
+		"otherModeDesc": {
+			"english": "and we would try our best to improve and serve you better",
+			"german": "und wir würden unser Bestes geben, um uns zu verbessern und Ihnen besser zu dienen",
+			"japanese": "そして私たちはあなたを改善し、あなたにより良く奉仕するために最善を尽くします",
+			"korean": "우리는 당신을 개선하고 더 나은 서비스를 제공하기 위해 최선을 다할 것입니다",
+			"mandarin": "我们会尽力改善并更好地为您服务",
+			"spanish": "y tratáremos de mejorar nuestro servicio"
 		},
 		"paywith": {
+			"english": "Pay with",
 			"german": "Bezahlen mit",
-			"mandarin": "支付方式",
 			"japanese": "支払方法",
 			"korean": "지불",
-			"english": "Pay with",
+			"mandarin": "支付方式",
 			"spanish": "Pagar con"
 		},
+		"purchaseVia": {
+			"english": "Purchase Cryptocurrency via",
+			"german": "Kauf Cryptocurrency über",
+			"japanese": "暗号通貨を購入する",
+			"korean": "통해 암호 화폐 구매",
+			"mandarin": "通过购买加密货币",
+			"spanish": "Comprar Cryptomoneda con"
+		},
+		"rate": {
+			"english": "Rate",
+			"german": "Bewertung",
+			"japanese": "レート",
+			"korean": "율",
+			"mandarin": "率",
+			"spanish": "Tarifa"
+		},
+		"receive": {
+			"english": "You receive",
+			"german": "Erhalten",
+			"japanese": "受取額",
+			"korean": "받다",
+			"mandarin": "接收",
+			"spanish": "Recibes"
+		},
+		"receiveHint": {
+			"english": "Please prepare your Identity Card/Passport to complete the purchase.",
+			"german": "Bitte bereiten Sie Ihren Personalausweis / Reisepass vor, um den Kauf abzuschließen.",
+			"japanese": "購入手続きに必要な IDカード/パスポートを準備してください。",
+			"korean": "구매를 완료하려면 신분증 / 여권을 준비하십시오.",
+			"mandarin": "请准备您的身份证/护照以完成交易。",
+			"spanish": "Por favor preparar un documento de identificación para la compra"
+		},
+		"receiveHintRamp": {
+			"english": "You need ID verification for top-up more than 1k EUR per transaction or 10k EUR per month",
+			"german": "Sie benötigen eine ID-Überprüfung, um mehr als 1.000 EUR pro Transaktion oder 10.000 EUR pro Monat aufzuladen",
+			"japanese": "トランザクションごとに1,000ユーロ以上、または月額10,000ユーロ以上のチャージにはID確認が必要です。",
+			"korean": "거래 당 1k EUR 이상 또는 한 달에 10k EUR 이상인 경우 ID 확인이 필요합니다.",
+			"mandarin": "每次充值超过1000欧元或每月超过1万欧元时，您需要进行身份验证",
+			"spanish": "Necesitas comprobar identificación para depositar 1,000EUR por día o 10,000EUR por mes"
+		},
 		"redirectMessage": {
+			"english": "You will be redirected to the third party page",
 			"german": "Sie werden auf die Seite eines Drittanbieters weitergeleitet",
-			"mandarin": "您将被重定向到第三方页面",
 			"japanese": "プロバイダーの購入ページに飛びます",
 			"korean": "당신은 제 3 자 페이지로 리디렉션됩니다",
-			"english": "You will be redirected to the third party page",
+			"mandarin": "您将被重定向到第三方页面",
 			"spanish": "Visitarás una página externa"
 		},
 		"resolveErrors": {
+			"english": "Resolve the errors",
 			"german": "Beheben Sie die Fehler",
-			"mandarin": "解决错误",
 			"japanese": "エラーを解決する",
 			"korean": "오류 해결",
-			"english": "Resolve the errors",
+			"mandarin": "解决错误",
 			"spanish": "Resolver errores"
 		},
-		"purchaseVia": {
-			"german": "Kauf Cryptocurrency über",
-			"mandarin": "通过购买加密货币",
-			"japanese": "暗号通貨を購入する",
-			"korean": "통해 암호 화폐 구매",
-			"english": "Purchase Cryptocurrency via",
-			"spanish": "Comprar Cryptomoneda con"
+		"selectProvider": {
+			"english": "Select a Provider",
+			"german": "Wählen Sie einen Anbieter",
+			"japanese": "プロバイダーを選択",
+			"korean": "공급자를 선택하십시오",
+			"mandarin": "选择供应商",
+			"spanish": "Selecciona un Proveedor"
 		},
-		"close": {
-			"german": "Schließen",
-			"mandarin": "关",
-			"japanese": "閉じる",
-			"korean": "닫기",
-			"english": "Close",
-			"spanish": "Cerrar"
+		"serverSize": {
+			"english": "Server Size",
+			"german": "Servergröße",
+			"japanese": "サーバーサイズ",
+			"korean": "서버 크기",
+			"mandarin": "服务器大小",
+			"spanish": "Tamaño del servidor"
 		},
 		"serviceFee": {
+			"english": "Service Fee",
 			"german": "Servicegebühr",
-			"mandarin": "服务费",
 			"japanese": "サービス料",
 			"korean": "서비스 요금",
-			"english": "Service Fee",
+			"mandarin": "服务费",
 			"spanish": "Cuota de servicio"
 		},
-		"fees": {
-			"german": "Gebühren",
-			"mandarin": "费用",
-			"japanese": "料金",
-			"korean": "수수료",
-			"english": "Fees",
-			"spanish": "Cuota"
+		"serviceFeeDesc1": {
+			"english": "This fee goes entirely to",
+			"german": "Diese Gebühr geht vollständig an",
+			"japanese": "この料金は完全に",
+			"korean": "이 수수료는 전적으로",
+			"mandarin": "这笔费用全部用于",
+			"spanish": "Esta cuota va directamente a "
+		},
+		"serviceFeeDesc2": {
+			"english": "for their services in card processing, mitigation and fraud detection",
+			"german": "für ihre Dienstleistungen in den Bereichen Kartenverarbeitung, Schadensbegrenzung und Betrugserkennung",
+			"japanese": "カード処理、緩和、不正検出のサービスに対して",
+			"korean": "카드 처리, 완화 및 사기 탐지 서비스",
+			"mandarin": "在卡处理，缓解和欺诈检测方面的服务",
+			"spanish": "por sus servicios con procesamiento de tarjetas"
+		},
+		"theProcess": {
+			"english": "The process would take approximately",
+			"german": "Der Prozess würde ungefähr dauern",
+			"japanese": "手続きにかかる時間",
+			"korean": "이 과정에는 약",
+			"mandarin": "该过程大约需要",
+			"spanish": "El proceso puede tomar aproximadamente"
+		},
+		"waitFetch": {
+			"english": "Please wait while we fetch fresh quote prices.",
+			"german": "Bitte warten Sie, während wir neue Angebotspreise abrufen.",
+			"japanese": "新鮮な見積もり価格を取得するまでお待ちください。",
+			"korean": "새로운 견적 가격을 가져오는 동안 잠시 기다려 주십시오.",
+			"mandarin": "我们正在获取新的报价，请稍候。",
+			"spanish": "Espere mientras buscamos nuevos precios de cotización."
+		},
+		"wannaBuy": {
+			"english": "You buy",
+			"german": "Sie kaufen",
+			"japanese": "通貨の種類",
+			"korean": "지불",
+			"mandarin": "你买",
+			"spanish": "Compras"
+		},
+		"writeToUs": {
+			"english": "Write to us",
+			"german": "Schreib uns",
+			"japanese": "リクエスト申請",
+			"korean": "우리에게 쓰기",
+			"mandarin": "与我们联系",
+			"spanish": "Escríbenos"
+		},
+		"youSend": {
+			"english": "You pay",
+			"german": "Sie bezahlen",
+			"japanese": "支払金額",
+			"korean": "당신은 보내",
+			"mandarin": "付款",
+			"spanish": "Pagas"
 		}
 	}
 }
