@@ -1,372 +1,372 @@
 {
   "common": {
-    "send": {
-      "german": "Senden",
-      "japanese": "送る",
-      "english": "Send",
-      "spanish": "Enviar",
-      "mandarin": "发送",
-      "korean": "보내다"
-    },
-    "receive": {
-      "german": "Erhalten",
-      "japanese": "受け取る",
-      "english": "Receive",
-      "spanish": "Recibir",
-      "mandarin": "接收",
-      "korean": "받다"
-    },
-    "buy": {
-      "english": "Buy",
-      "mandarin": "买",
-      "spanish": "Comprar",
-      "german": "Besorgen",
-      "japanese": "買う",
-      "korean": "구입하다"
-    },
-    "balance": {
-      "english": "Balance",
-      "mandarin": "平衡",
-      "spanish": "Balance",
-      "german": "Gleichgewicht",
-      "japanese": "バランス",
-      "korean": "균형"
-    },
-    "value": {
-      "english": "Value",
-      "mandarin": "价值",
-      "spanish": "Valor",
-      "german": "Wert",
-      "japanese": "価値",
-      "korean": "값"
-    },
-    "tokenReserved": {
-      "english": "{0} reserved",
-      "mandarin": "{0}保留",
-      "spanish": "{0} reservado",
-      "german": "{0} reserviert",
-      "japanese": "{0}予約",
-      "korean": "{0} 예약"
-    },
-    "close": {
-      "korean": "닫기",
-      "spanish": "Cerrar",
-      "german": "Schließen",
-      "english": "Close",
-      "mandarin": "关",
-      "japanese": "閉じる"
+    "all": {
+      "english": "All",
+      "german": "Alle",
+      "japanese": "全て",
+      "korean": "모두",
+      "mandarin": "全部",
+      "spanish": "Todo"
     },
     "availableBalance": {
       "english": "Available Balance",
-      "mandarin": "可用余额",
-      "spanish": "Saldo disponible",
       "german": "Verfügbares Guthaben",
       "japanese": "利用可能残高",
-      "korean": "사용 가능한 잔액"
+      "korean": "사용 가능한 잔액",
+      "mandarin": "可用余额",
+      "spanish": "Saldo disponible"
     },
-    "continue": {
-      "german": "Fortsetzen",
-      "korean": "계속하다",
-      "spanish": "Seguir",
-      "english": "Continue",
-      "mandarin": "继续",
-      "japanese": "継続する"
+    "balance": {
+      "english": "Balance",
+      "german": "Gleichgewicht",
+      "japanese": "バランス",
+      "korean": "균형",
+      "mandarin": "平衡",
+      "spanish": "Balance"
+    },
+    "buy": {
+      "english": "Buy",
+      "german": "Besorgen",
+      "japanese": "買う",
+      "korean": "구입하다",
+      "mandarin": "买",
+      "spanish": "Comprar"
     },
     "cancel": {
-      "german": "Stornieren",
-      "korean": "취소",
-      "spanish": "Cancelar",
       "english": "Cancel",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
       "mandarin": "取消",
-      "japanese": "キャンセル"
+      "spanish": "Cancelar"
     },
-    "successful": {
-      "german": "Erfolgreich",
-      "japanese": "成功した",
-      "english": "Successful",
-      "spanish": "Exitoso",
-      "mandarin": "成功",
-      "korean": "성공한"
+    "close": {
+      "english": "Close",
+      "german": "Schließen",
+      "japanese": "閉じる",
+      "korean": "닫기",
+      "mandarin": "关",
+      "spanish": "Cerrar"
     },
-    "unsuccessful": {
-      "german": "Erfolglos",
-      "japanese": "失敗した",
-      "english": "Unsuccessful",
-      "spanish": "Fracasado",
-      "mandarin": "不成功",
-      "korean": "실패"
+    "confirm": {
+      "english": "Confirm",
+      "german": "Bestätigen",
+      "japanese": "確認",
+      "korean": "확인",
+      "mandarin": "确认",
+      "spanish": "Confirmar"
     },
-    "pending": {
-      "german": "steht aus",
-      "japanese": "保留中",
-      "english": "Pending",
-      "spanish": "Pendiente",
-      "mandarin": "待定",
-      "korean": "대기 중"
-    },
-    "important": {
-      "english": "Important",
-      "mandarin": "重要的",
-      "spanish": "Importante",
-      "german": "Wichtig",
-      "japanese": "重要",
-      "korean": "중요한"
+    "continue": {
+      "english": "Continue",
+      "german": "Fortsetzen",
+      "japanese": "継続する",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "spanish": "Seguir"
     },
     "download": {
       "english": "Download",
-      "mandarin": "下载",
-      "spanish": "Descargar",
       "german": "Herunterladen",
       "japanese": "ダウンロード",
-      "korean": "다운로드"
+      "korean": "다운로드",
+      "mandarin": "下载",
+      "spanish": "Descargar"
     },
-    "confirm": {
-      "korean": "확인",
-      "german": "Bestätigen",
-      "english": "Confirm",
-      "mandarin": "确认",
-      "japanese": "確認",
-      "spanish": "Confirmar"
+    "important": {
+      "english": "Important",
+      "german": "Wichtig",
+      "japanese": "重要",
+      "korean": "중요한",
+      "mandarin": "重要的",
+      "spanish": "Importante"
+    },
+    "pending": {
+      "english": "Pending",
+      "german": "steht aus",
+      "japanese": "保留中",
+      "korean": "대기 중",
+      "mandarin": "待定",
+      "spanish": "Pendiente"
+    },
+    "receive": {
+      "english": "Receive",
+      "german": "Erhalten",
+      "japanese": "受け取る",
+      "korean": "받다",
+      "mandarin": "接收",
+      "spanish": "Recibir"
     },
     "required": {
-      "mandarin": "必要",
+      "english": "Required",
       "german": "Erforderlich",
-      "spanish": "Necesario",
-      "korean": "필수",
       "japanese": "必須",
-      "english": "Required"
+      "korean": "필수",
+      "mandarin": "必要",
+      "spanish": "Necesario"
     },
-    "all": {
-      "english": "All",
-      "mandarin": "全部",
-      "spanish": "Todo",
-      "german": "Alle",
-      "japanese": "全て",
-      "korean": "모두"
+    "send": {
+      "english": "Send",
+      "german": "Senden",
+      "japanese": "送る",
+      "korean": "보내다",
+      "mandarin": "发送",
+      "spanish": "Enviar"
+    },
+    "successful": {
+      "english": "Successful",
+      "german": "Erfolgreich",
+      "japanese": "成功した",
+      "korean": "성공한",
+      "mandarin": "成功",
+      "spanish": "Exitoso"
+    },
+    "tokenReserved": {
+      "english": "{0} reserved",
+      "german": "{0} reserviert",
+      "japanese": "{0}予約",
+      "korean": "{0} 예약",
+      "mandarin": "{0}保留",
+      "spanish": "{0} reservado"
+    },
+    "unsuccessful": {
+      "english": "Unsuccessful",
+      "german": "Erfolglos",
+      "japanese": "失敗した",
+      "korean": "실패",
+      "mandarin": "不成功",
+      "spanish": "Fracasado"
+    },
+    "value": {
+      "english": "Value",
+      "german": "Wert",
+      "japanese": "価値",
+      "korean": "값",
+      "mandarin": "价值",
+      "spanish": "Valor"
     }
   },
   "navBar": {
-    "home": {
-      "english": "Home",
-      "mandarin": "家",
-      "spanish": "Hogar",
-      "german": "Heim",
-      "japanese": "家",
-      "korean": "집"
-    },
     "activity": {
       "english": "Activity",
-      "mandarin": "活动",
-      "spanish": "Actividad",
       "german": "Aktivität",
       "japanese": "アクティビティ",
-      "korean": "활동"
+      "korean": "활동",
+      "mandarin": "活动",
+      "spanish": "Actividad"
     },
-    "settings": {
-      "english": "Settings",
-      "mandarin": "设置",
-      "spanish": "Ajustes",
-      "german": "Einstellungen",
-      "japanese": "設定",
-      "korean": "설정"
+    "home": {
+      "english": "Home",
+      "german": "Heim",
+      "japanese": "家",
+      "korean": "집",
+      "mandarin": "家",
+      "spanish": "Hogar"
     },
     "profile": {
       "english": "Profile",
-      "mandarin": "轮廓",
-      "spanish": "Perfil",
       "german": "Profil",
       "japanese": "プロフィール",
-      "korean": "프로필"
+      "korean": "프로필",
+      "mandarin": "轮廓",
+      "spanish": "Perfil"
     },
-    "snackSuccessCrashReport": {
-      "korean": "충돌 보고를 성공적으로 업데이트했습니다.",
-      "english": "Successfully updated crash reporting",
-      "japanese": "クラッシュレポートが正常に更新されました",
-      "german": "Absturzberichte erfolgreich aktualisiert",
-      "mandarin": "已成功更新崩溃报告",
-      "spanish": "Informe de fallos actualizado con éxito"
-    },
-    "snackSuccessContactAdd": {
-      "korean": "성공적으로 추가 된 연락처",
-      "spanish": "Se ha añadido el contacto con éxito",
-      "japanese": "連絡先を追加しました",
-      "mandarin": "成功添加联系人",
-      "german": "Kontakt erfolgreich hinzugefügt",
-      "english": "Successfully added contact"
-    },
-    "snackSuccessCurrency": {
-      "korean": "통화를 성공적으로 전환",
-      "spanish": "Se ha cambiado la moneda",
-      "japanese": "通貨が正常に切り替えられました",
-      "mandarin": "成功转换货币",
-      "german": "Währung erfolgreich gewechselt",
-      "english": "Successfully switched currency"
-    },
-    "snackSuccessTokenAdd": {
-      "english": "Successfully token added",
-      "mandarin": "成功添加了象征性",
-      "spanish": "Token con éxito agregado",
-      "german": "Erfolgreich Token fügte hinzu",
-      "japanese": "トークンを正常に追加しました",
-      "korean": "성공적으로 토큰이 추가되었습니다",
-      "portuguese": "Token com sucesso adicionado"
-    },
-    "snackSuccessCustomTokenAdd": {
-      "korean": "맞춤 토큰을 성공적으로 추가했습니다.",
-      "spanish": "Token personalizado agregado con éxito",
-      "japanese": "カスタムトークンが正常に追加されました",
-      "mandarin": "成功添加自定义令牌",
-      "german": "Benutzerdefiniertes Token erfolgreich hinzugefügt",
-      "english": "Successfully added custom token"
-    },
-    "snackSuccessNetworkChange": {
-      "korean": "네트워크가 성공적으로 변경되었습니다",
-      "spanish": "Se ha cambiado la red",
-      "japanese": "ネットワークの変更が成功しました",
-      "mandarin": "成功更改网络",
-      "german": "Netzwerk erfolgreich geändert",
-      "english": "Successfully changed network"
-    },
-    "snackSuccessTokenRemove": {
-      "english": "Successfully deleted token",
-      "mandarin": "成功删除了令牌",
-      "spanish": "Token eliminado con éxito",
-      "german": "Erfolgreich gelöschtes Token",
-      "japanese": "正常に削除されたトークン",
-      "korean": "토큰을 성공적으로 삭제했습니다",
-      "portuguese": "Excluído com sucesso"
-    },
-    "snackSuccessTheme": {
-      "korean": "테마 업데이트",
-      "spanish": "Tema actualizado",
-      "japanese": "テーマが更新されました",
-      "mandarin": "主题已更新",
-      "german": "Thema aktualisiert",
-      "english": "Theme updated"
-    },
-    "snackSuccessContactDelete": {
-      "english": "Successfully deleted contact",
-      "korean": "연락처를 성공적으로 삭제했습니다",
-      "spanish": "Contacto borrado con éxito",
-      "japanese": "連絡先を削除しました",
-      "mandarin": "成功删除联系人",
-      "german": "Kontakt erfolgreich gelöscht"
-    },
-    "snackSuccessLocale": {
-      "english": "Language changed to English",
-      "korean": "언어가 한국어로 변경되었습니다",
-      "spanish": "Lenguaje cambiado a Inglés",
-      "japanese": "言語が日本語に変更されました",
-      "mandarin": "语言更改为中文",
-      "german": "Die Sprache wurde in Deutsch geändert"
-    },
-    "snackSuccessDownloadKey": {
-      "english": "Successfully key downloaded",
-      "mandarin": "成功下载了密钥",
-      "spanish": "Clave descargada correctamente",
-      "german": "Erfolgreich Schlüssel heruntergeladen",
-      "japanese": "キーダウンロードされたキーに正常に",
-      "korean": "성공적으로 키 다운로드",
-      "portuguese": "Keecte a chave com êxito"
-    },
-    "snackFailCrashReport": {
-      "korean": "충돌 보고를 업데이트할 수 없습니다.",
-      "english": "Unable to update crash reporting",
-      "japanese": "クラッシュレポートを更新できません",
-      "german": "Absturzberichte können nicht aktualisiert werden",
-      "mandarin": "无法更新崩溃报告",
-      "spanish": "No se puede actualizar el informe de fallas"
-    },
-    "snackFailTheme": {
-      "korean": "테마를 업데이트 할 수 없습니다",
-      "spanish": "El tema no ha podido ser actualizado",
-      "japanese": "テーマを更新できません",
-      "mandarin": "无法更新主题",
-      "german": "Thema kann nicht aktualisiert werden",
-      "english": "Unable to update theme"
-    },
-    "snackFailCurrency": {
-      "korean": "통화를 전환 할 수 없습니다",
-      "spanish": "No se ha podido cambiar la moneda",
-      "japanese": "通貨を切り替えることができません",
-      "mandarin": "无法切换货币",
-      "german": "Währung kann nicht gewechselt werden",
-      "english": "Unable to switch currency"
+    "settings": {
+      "english": "Settings",
+      "german": "Einstellungen",
+      "japanese": "設定",
+      "korean": "설정",
+      "mandarin": "设置",
+      "spanish": "Ajustes"
     },
     "snackFailContactAdd": {
-      "korean": "연락처를 추가 할 수 없습니다",
-      "spanish": "No se ha podido añadir el contacto",
-      "japanese": "連絡先を追加できません",
-      "mandarin": "无法添加联系人",
+      "english": "Unable to add contact",
       "german": "Kontakt kann nicht hinzugefügt werden",
-      "english": "Unable to add contact"
+      "japanese": "連絡先を追加できません",
+      "korean": "연락처를 추가 할 수 없습니다",
+      "mandarin": "无法添加联系人",
+      "spanish": "No se ha podido añadir el contacto"
     },
     "snackFailContactDelete": {
-      "korean": "연락처를 삭제할 수 없습니다",
       "english": "Unable to delete contact",
-      "japanese": "連絡先を削除できません",
       "german": "Kontakt kann nicht gelöscht werden",
+      "japanese": "連絡先を削除できません",
+      "korean": "연락처를 삭제할 수 없습니다",
       "mandarin": "无法删除联系人",
       "spanish": "No se ha podido borrar el contacto"
     },
-    "snackFailTokenAdd": {
-      "english": "Unable to add token",
-      "mandarin": "无法添加令牌",
-      "spanish": "Incapaz de agregar token",
-      "german": "Token kann nicht hinzugefügt werden",
-      "japanese": "トークンを追加できません",
-      "korean": "토큰을 추가 할 수 없습니다",
-      "portuguese": "Incapaz de adicionar token"
+    "snackFailCrashReport": {
+      "english": "Unable to update crash reporting",
+      "german": "Absturzberichte können nicht aktualisiert werden",
+      "japanese": "クラッシュレポートを更新できません",
+      "korean": "충돌 보고를 업데이트할 수 없습니다.",
+      "mandarin": "无法更新崩溃报告",
+      "spanish": "No se puede actualizar el informe de fallas"
+    },
+    "snackFailCurrency": {
+      "english": "Unable to switch currency",
+      "german": "Währung kann nicht gewechselt werden",
+      "japanese": "通貨を切り替えることができません",
+      "korean": "통화를 전환 할 수 없습니다",
+      "mandarin": "无法切换货币",
+      "spanish": "No se ha podido cambiar la moneda"
     },
     "snackFailCustomTokenAdd": {
-      "korean": "맞춤 토큰을 추가 할 수 없습니다.",
-      "spanish": "No se pudo agregar el token personalizado",
-      "japanese": "カスタムトークンを追加できません",
-      "mandarin": "无法添加自定义令牌",
+      "english": "Unable to add custom token",
       "german": "Benutzerdefiniertes Token kann nicht hinzugefügt werden",
-      "english": "Unable to add custom token"
-    },
-    "snackFailNetworkChange": {
-      "korean": "네트워크를 변경할 수 없습니다",
-      "spanish": "No se ha podido cambiar la red",
-      "japanese": "ネットワークの変更に失敗しました",
-      "mandarin": "无法更改网络",
-      "german": "Netzwerk kann nicht geändert werden",
-      "english": "Unable to change network"
-    },
-    "snackFailLocale": {
-      "korean": "언어를 업데이트 할 수 없습니다",
-      "spanish": "No se ha podido cambiar el lenguaje",
-      "japanese": "言語を更新できません",
-      "mandarin": "无法更新语言",
-      "german": "Sprache kann nicht aktualisiert werden",
-      "english": "Unable to update language"
+      "japanese": "カスタムトークンを追加できません",
+      "korean": "맞춤 토큰을 추가 할 수 없습니다.",
+      "mandarin": "无法添加自定义令牌",
+      "spanish": "No se pudo agregar el token personalizado"
     },
     "snackFailCustomTokenDelete": {
-      "korean": "맞춤 토큰을 삭제할 수 없습니다.",
-      "spanish": "No se puede eliminar el token personalizado",
-      "japanese": "カスタムトークンを削除できません",
-      "mandarin": "无法删除自定义令牌",
+      "english": "Unable to delete custom token",
       "german": "Benutzerdefiniertes Token kann nicht gelöscht werden",
-      "english": "Unable to delete custom token"
-    },
-    "snackFailTokenRemove": {
-      "english": "Unable to delete token",
-      "mandarin": "无法删除令牌",
-      "spanish": "Incapaz de eliminar token",
-      "german": "Token kann nicht löschen",
-      "japanese": "トークンを削除できません",
-      "korean": "토큰을 삭제할 수 없습니다",
-      "portuguese": "Incapaz de excluir token"
+      "japanese": "カスタムトークンを削除できません",
+      "korean": "맞춤 토큰을 삭제할 수 없습니다.",
+      "mandarin": "无法删除自定义令牌",
+      "spanish": "No se puede eliminar el token personalizado"
     },
     "snackFailDownloadKey": {
       "english": "Unable to download key",
-      "mandarin": "无法下载密钥",
-      "spanish": "No se puede descargar la tecla",
       "german": "Schlüssel kann nicht heruntergeladen werden",
       "japanese": "キーをダウンロードできません",
       "korean": "키를 다운로드 할 수 없습니다",
-      "portuguese": "Incapaz de baixar a chave"
+      "mandarin": "无法下载密钥",
+      "portuguese": "Incapaz de baixar a chave",
+      "spanish": "No se puede descargar la tecla"
+    },
+    "snackFailLocale": {
+      "english": "Unable to update language",
+      "german": "Sprache kann nicht aktualisiert werden",
+      "japanese": "言語を更新できません",
+      "korean": "언어를 업데이트 할 수 없습니다",
+      "mandarin": "无法更新语言",
+      "spanish": "No se ha podido cambiar el lenguaje"
+    },
+    "snackFailNetworkChange": {
+      "english": "Unable to change network",
+      "german": "Netzwerk kann nicht geändert werden",
+      "japanese": "ネットワークの変更に失敗しました",
+      "korean": "네트워크를 변경할 수 없습니다",
+      "mandarin": "无法更改网络",
+      "spanish": "No se ha podido cambiar la red"
+    },
+    "snackFailTheme": {
+      "english": "Unable to update theme",
+      "german": "Thema kann nicht aktualisiert werden",
+      "japanese": "テーマを更新できません",
+      "korean": "테마를 업데이트 할 수 없습니다",
+      "mandarin": "无法更新主题",
+      "spanish": "El tema no ha podido ser actualizado"
+    },
+    "snackFailTokenAdd": {
+      "english": "Unable to add token",
+      "german": "Token kann nicht hinzugefügt werden",
+      "japanese": "トークンを追加できません",
+      "korean": "토큰을 추가 할 수 없습니다",
+      "mandarin": "无法添加令牌",
+      "portuguese": "Incapaz de adicionar token",
+      "spanish": "Incapaz de agregar token"
+    },
+    "snackFailTokenRemove": {
+      "english": "Unable to delete token",
+      "german": "Token kann nicht löschen",
+      "japanese": "トークンを削除できません",
+      "korean": "토큰을 삭제할 수 없습니다",
+      "mandarin": "无法删除令牌",
+      "portuguese": "Incapaz de excluir token",
+      "spanish": "Incapaz de eliminar token"
+    },
+    "snackSuccessContactAdd": {
+      "english": "Successfully added contact",
+      "german": "Kontakt erfolgreich hinzugefügt",
+      "japanese": "連絡先を追加しました",
+      "korean": "성공적으로 추가 된 연락처",
+      "mandarin": "成功添加联系人",
+      "spanish": "Se ha añadido el contacto con éxito"
+    },
+    "snackSuccessContactDelete": {
+      "english": "Successfully deleted contact",
+      "german": "Kontakt erfolgreich gelöscht",
+      "japanese": "連絡先を削除しました",
+      "korean": "연락처를 성공적으로 삭제했습니다",
+      "mandarin": "成功删除联系人",
+      "spanish": "Contacto borrado con éxito"
+    },
+    "snackSuccessCrashReport": {
+      "english": "Successfully updated crash reporting",
+      "german": "Absturzberichte erfolgreich aktualisiert",
+      "japanese": "クラッシュレポートが正常に更新されました",
+      "korean": "충돌 보고를 성공적으로 업데이트했습니다.",
+      "mandarin": "已成功更新崩溃报告",
+      "spanish": "Informe de fallos actualizado con éxito"
+    },
+    "snackSuccessCurrency": {
+      "english": "Successfully switched currency",
+      "german": "Währung erfolgreich gewechselt",
+      "japanese": "通貨が正常に切り替えられました",
+      "korean": "통화를 성공적으로 전환",
+      "mandarin": "成功转换货币",
+      "spanish": "Se ha cambiado la moneda"
+    },
+    "snackSuccessCustomTokenAdd": {
+      "english": "Successfully added custom token",
+      "german": "Benutzerdefiniertes Token erfolgreich hinzugefügt",
+      "japanese": "カスタムトークンが正常に追加されました",
+      "korean": "맞춤 토큰을 성공적으로 추가했습니다.",
+      "mandarin": "成功添加自定义令牌",
+      "spanish": "Token personalizado agregado con éxito"
+    },
+    "snackSuccessDownloadKey": {
+      "english": "Successfully key downloaded",
+      "german": "Erfolgreich Schlüssel heruntergeladen",
+      "japanese": "キーダウンロードされたキーに正常に",
+      "korean": "성공적으로 키 다운로드",
+      "mandarin": "成功下载了密钥",
+      "portuguese": "Keecte a chave com êxito",
+      "spanish": "Clave descargada correctamente"
+    },
+    "snackSuccessLocale": {
+      "english": "Language changed to English",
+      "german": "Die Sprache wurde in Deutsch geändert",
+      "japanese": "言語が日本語に変更されました",
+      "korean": "언어가 한국어로 변경되었습니다",
+      "mandarin": "语言更改为中文",
+      "spanish": "Lenguaje cambiado a Inglés"
+    },
+    "snackSuccessNetworkChange": {
+      "english": "Successfully changed network",
+      "german": "Netzwerk erfolgreich geändert",
+      "japanese": "ネットワークの変更が成功しました",
+      "korean": "네트워크가 성공적으로 변경되었습니다",
+      "mandarin": "成功更改网络",
+      "spanish": "Se ha cambiado la red"
+    },
+    "snackSuccessTheme": {
+      "english": "Theme updated",
+      "german": "Thema aktualisiert",
+      "japanese": "テーマが更新されました",
+      "korean": "테마 업데이트",
+      "mandarin": "主题已更新",
+      "spanish": "Tema actualizado"
+    },
+    "snackSuccessTokenAdd": {
+      "english": "Successfully token added",
+      "german": "Erfolgreich Token fügte hinzu",
+      "japanese": "トークンを正常に追加しました",
+      "korean": "성공적으로 토큰이 추가되었습니다",
+      "mandarin": "成功添加了象征性",
+      "portuguese": "Token com sucesso adicionado",
+      "spanish": "Token con éxito agregado"
+    },
+    "snackSuccessTokenRemove": {
+      "english": "Successfully deleted token",
+      "german": "Erfolgreich gelöschtes Token",
+      "japanese": "正常に削除されたトークン",
+      "korean": "토큰을 성공적으로 삭제했습니다",
+      "mandarin": "成功删除了令牌",
+      "portuguese": "Excluído com sucesso",
+      "spanish": "Token eliminado con éxito"
     }
   }
 }
