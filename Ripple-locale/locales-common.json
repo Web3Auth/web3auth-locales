@@ -185,6 +185,22 @@
       "german": "Absturzberichte erfolgreich aktualisiert",
       "mandarin": "已成功更新崩溃报告",
       "spanish": "Informe de fallos actualizado con éxito"
+    },
+    "snackSuccessChangeNetwork": {
+      "korean": "네트워크가 성공적으로 변경되었습니다.",
+      "english": "Network successfully changed",
+      "japanese": "ネットワークが正常に変更されました",
+      "german": "Netzwerk erfolgreich geändert",
+      "mandarin": "网络已成功更改",
+      "spanish": "Red cambiada con éxito"
+    },
+    "snackFailChangeNetwork": {
+      "korean": "네트워크를 변경하는 데 실패했습니다.",
+      "english": "Failed to change network",
+      "japanese": "ネットワークの変更に失敗しました",
+      "german": "Netzwerk konnte nicht geändert werden",
+      "mandarin": "无法更改网络",
+      "spanish": "Error al cambiar la red"
     }
   }
 }
