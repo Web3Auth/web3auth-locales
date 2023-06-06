@@ -1,420 +1,420 @@
 {
     "walletActivity": {
-        "rate": {
-            "german": "Bewertung",
-            "japanese": "割合",
-            "english": "Rate",
-            "spanish": "Velocidad",
-            "mandarin": "率",
-            "korean": "율"
-        },
-        "cancelled": {
-            "german": "Abgesagt",
-            "japanese": "キャンセル",
-            "english": "Cancelled",
-            "spanish": "Cancelado",
-            "mandarin": "取消",
-            "korean": "취소 된"
-        },
-        "cancelButtonTooltip": {
-            "german": "Die Stornierung dieser Transaktion kostet Transaction",
-            "japanese": "この取引をキャンセルすると費用がかかります",
-            "english": "Canceling this Transaction will cost",
-            "spanish": "Cancelar esta transacción costará",
-            "mandarin": "取消此交易将花费",
-            "korean": "이 거래를 취소하면 비용이 발생합니다."
-        },
-        "viewMore": {
-            "german": "Mehr sehen",
-            "japanese": "もっと見る",
-            "english": "View more",
-            "spanish": "Ver más",
-            "mandarin": "查看更多",
-            "korean": "더보기"
-        },
-        "receive": {
-            "german": "Erhalten",
-            "japanese": "受け取る",
-            "english": "Receive",
-            "spanish": "Recibir",
-            "mandarin": "接收",
-            "korean": "받다"
-        },
-        "cancelButtonTooltipDisabled": {
-            "german": "Die Transaktion kann erst nach storniert werden",
-            "japanese": "取引はその後にのみキャンセルできます",
-            "english": "Transaction can be cancelled only after",
-            "spanish": "La transacción se puede cancelar solo después de",
-            "mandarin": "交易完成后才能取消",
-            "korean": "이후에만 거래를 취소할 수 있습니다."
-        },
-        "headerTransaction": {
-            "german": "Transaktion",
-            "japanese": "トランザクション",
-            "english": "Transaction",
-            "spanish": "Transacción",
-            "mandarin": "交易",
-            "korean": "트랜잭션"
-        },
-        "cancelModalTitle": {
-            "german": "Stornierungsstatus",
-            "japanese": "キャンセル状況",
-            "english": "Cancellation status",
-            "spanish": "Estado de cancelación",
-            "mandarin": "取消状态",
-            "korean": "취소 상태"
-        },
-        "lastOneMonth": {
-            "german": "Letzten 1 Monat",
-            "japanese": "過去1か月",
-            "english": "Last 1 month",
-            "spanish": "Último mes",
-            "mandarin": "最近1个月",
-            "korean": "지난 1 개월"
-        },
-        "sent": {
-            "german": "Geschickt",
-            "japanese": "送信済",
-            "english": "Sent",
-            "spanish": "Expedido",
-            "mandarin": "已发送",
-            "korean": "보냄"
-        },
-        "externalTransaction": {
-            "german": "Externe Transaktion",
-            "japanese": "外部取引",
-            "english": "External transaction",
-            "spanish": "Transacción externa",
-            "mandarin": "对外交易",
-            "korean": "외부 거래"
-        },
-        "pending": {
-            "german": "steht aus",
-            "japanese": "保留中",
-            "english": "Pending",
-            "spanish": "Pendiente",
-            "mandarin": "待定",
-            "korean": "대기 중"
-        },
-        "contractDeployment": {
-            "german": "Vertragsbereitstellung",
-            "japanese": "契約の展開",
-            "english": "Contract Deployment",
-            "spanish": "Despliegue de contrato",
-            "mandarin": "合同部署",
-            "korean": "계약 배포"
-        },
-        "approved": {
-            "german": "Genehmigt",
-            "japanese": "承認済み",
-            "english": "Approved",
-            "spanish": "Aprobado",
-            "mandarin": "已批准",
-            "korean": "승인"
-        },
-        "cancelButton": {
-            "german": "Transaktion abbrechen",
-            "japanese": "トランザクションのキャンセル",
-            "english": "Cancel Transaction",
-            "spanish": "Cancelar transacción",
-            "mandarin": "取消交易",
-            "korean": "거래 취소"
-        },
-        "amount": {
-            "german": "Menge",
-            "japanese": "量",
-            "english": "Amount",
-            "spanish": "Cantidad",
-            "mandarin": "量",
-            "korean": "양"
-        },
-        "allTransactions": {
-            "german": "Alle Transaktionen",
-            "japanese": "すべての取り引き",
-            "english": "All Transactions",
-            "spanish": "Todas las transacciones",
-            "mandarin": "所有交易",
-            "korean": "모든 거래 창구"
-        },
-        "cancelModalDesc": {
-            "german": "Ich bestätige, dass für diese Anfrage eine Transaktionsgebühr von . anfallen würde",
-            "japanese": "このリクエストには、以下の取引手数料がかかることを確認します",
-            "english": "I confirm that this request would incur a transaction fee of ",
-            "spanish": "Confirmo que esta solicitud incurriría en una tarifa de transacción de",
-            "mandarin": "我确认此请求将产生交易费用",
-            "korean": "본인은 이 요청에 거래 수수료가 부과됨을 확인합니다."
-        },
-        "unavailable": {
-            "german": "Nicht verfügbar",
-            "japanese": "利用できません",
-            "english": "Unavailable",
-            "spanish": "No disponible",
-            "mandarin": "不可用",
-            "korean": "없는"
-        },
-        "unsuccessful": {
-            "german": "Erfolglos",
-            "japanese": "失敗した",
-            "english": "Unsuccessful",
-            "spanish": "Fracasado",
-            "mandarin": "不成功",
-            "korean": "실패"
-        },
-        "received": {
-            "german": "Empfangen",
-            "japanese": "受信済",
-            "english": "Received",
-            "spanish": "Recibido",
-            "mandarin": "已收到",
-            "korean": "받았습니다"
-        },
-        "from": {
-            "german": "von",
-            "japanese": "から",
-            "english": "from",
-            "spanish": "de",
-            "mandarin": "从",
-            "korean": "에서"
-        },
-        "headerTo": {
-            "german": "Zu",
-            "japanese": "に",
-            "english": "To",
-            "spanish": "A",
-            "mandarin": "至",
-            "korean": "에"
-        },
-        "successful": {
-            "german": "Erfolgreich",
-            "japanese": "成功した",
-            "english": "Successful",
-            "spanish": "Exitoso",
-            "mandarin": "成功",
-            "korean": "성공한"
-        },
         "all": {
+            "english": "All",
             "german": "Alle",
             "japanese": "すべて",
-            "english": "All",
-            "spanish": "Todas",
+            "korean": "모두",
             "mandarin": "所有",
-            "korean": "모두"
+            "spanish": "Todas"
         },
-        "viewEtherscan": {
-            "german": "Blick auf Etherscan",
-            "japanese": "Etherscanで表示",
-            "english": "View On Etherscan",
-            "spanish": "Ver en Etherscan",
-            "mandarin": "Etherscan查寻",
-            "korean": "Etherscan에서보기"
+        "allTransactions": {
+            "english": "All Transactions",
+            "german": "Alle Transaktionen",
+            "japanese": "すべての取り引き",
+            "korean": "모든 거래 창구",
+            "mandarin": "所有交易",
+            "spanish": "Todas las transacciones"
         },
-        "viewOnEtherscan": {
-            "german": "Blick auf Etherscan",
-            "japanese": "Etherscanで確認",
-            "english": "View On Etherscan",
-            "spanish": "Ver en Etherscan",
-            "mandarin": "在Etherscan上查看",
-            "korean": "Etherscan에서보기"
-        },
-        "cancelModalConfirm": {
-            "german": "Bestätigen",
-            "japanese": "確認",
-            "english": "Confirm",
-            "spanish": "Confirmar",
-            "mandarin": "确认",
-            "korean": "확인"
-        },
-        "send": {
-            "german": "Senden",
-            "japanese": "送る",
-            "english": "Send",
-            "spanish": "Enviar",
-            "mandarin": "发送",
-            "korean": "보내다"
-        },
-        "receiveFrom": {
-            "german": "Erhalten von",
-            "japanese": "から受信",
-            "english": "Receive from",
-            "spanish": "Recibir de",
-            "mandarin": "收到",
-            "korean": "수신"
-        },
-        "transactionActivities": {
-            "german": "Transaktionsaktivitäten",
-            "japanese": "トランザクション履歴",
-            "english": "Transaction Activities",
-            "spanish": "Actividades de transacción",
-            "mandarin": "交易活动",
-            "korean": "거래 활동"
-        },
-        "cancelling": {
-            "german": "Stornieren",
-            "japanese": "キャンセル",
-            "english": "Cancelling",
-            "spanish": "Cancelado",
-            "mandarin": "取消",
-            "korean": "취소"
-        },
-        "contractInteraction": {
-            "german": "Vertragsinteraktion",
-            "japanese": "契約の相互作用",
-            "english": "Contract Interaction",
-            "spanish": "Interacción contractual",
-            "mandarin": "合约互动",
-            "korean": "계약 상호 작용"
-        },
-        "to": {
-            "german": "zu",
-            "japanese": "に",
-            "english": "to",
-            "spanish": "a",
-            "mandarin": "至",
-            "korean": "에"
-        },
-        "network": {
-            "german": "Netzwerk",
-            "japanese": "通信網",
-            "english": "Network",
-            "spanish": "Red",
-            "mandarin": "网络",
-            "korean": "회로망"
-        },
-        "cancelModalClose": {
-            "german": "Schließen",
-            "japanese": "閉じる",
-            "english": "Close",
-            "spanish": "Cerca",
-            "mandarin": "关闭",
-            "korean": "닫기"
-        },
-        "noTransaction": {
-            "german": "Keine Transaktionsaktivität",
-            "japanese": "トランザクション履歴なし",
-            "english": "No Transaction Activity",
-            "spanish": "Sin actividad de transacción",
-            "mandarin": "没有交易活动",
-            "korean": "거래 활동이 없습니다"
-        },
-        "headerAmount": {
+        "amount": {
+            "english": "Amount",
             "german": "Menge",
             "japanese": "量",
-            "english": "Amount",
-            "spanish": "Cantidad",
+            "korean": "양",
             "mandarin": "量",
-            "korean": "양"
+            "spanish": "Cantidad"
         },
-        "loading": {
-            "german": "Wird geladen",
-            "japanese": "読み込み中",
-            "english": "Loading",
-            "spanish": "Cargando",
-            "mandarin": "载入中",
-            "korean": "로딩"
+        "approved": {
+            "english": "Approved",
+            "german": "Genehmigt",
+            "japanese": "承認済み",
+            "korean": "승인",
+            "mandarin": "已批准",
+            "spanish": "Aprobado"
         },
-        "cancelModalNote": {
-            "german": "Es werden keine Transaktionsgebühren erhoben.",
-            "japanese": "取引手数料はかかりません。",
-            "english": "No transaction fees will be charged.",
-            "spanish": "No serán agregados costos por transacción.",
-            "mandarin": "不会收取任何交易费用。",
-            "korean": "거래 수수료는 부과되지 않습니다."
+        "cancelButton": {
+            "english": "Cancel Transaction",
+            "german": "Transaktion abbrechen",
+            "japanese": "トランザクションのキャンセル",
+            "korean": "거래 취소",
+            "mandarin": "取消交易",
+            "spanish": "Cancelar transacción"
         },
-        "external": {
-            "german": "Extern",
-            "japanese": "外部",
-            "english": "External",
-            "spanish": "Externo",
-            "mandarin": "外部",
-            "korean": "외부"
+        "cancelButtonTooltip": {
+            "english": "Canceling this Transaction will cost",
+            "german": "Die Stornierung dieser Transaktion kostet Transaction",
+            "japanese": "この取引をキャンセルすると費用がかかります",
+            "korean": "이 거래를 취소하면 비용이 발생합니다.",
+            "mandarin": "取消此交易将花费",
+            "spanish": "Cancelar esta transacción costará"
         },
-        "lastOneWeek": {
-            "german": "Letzte 1 Woche",
-            "japanese": "過去1週間",
-            "english": "Last 1 week",
-            "spanish": "Última semana",
-            "mandarin": "最近1周",
-            "korean": "지난 1 주"
-        },
-        "headerStatus": {
-            "german": "Status",
-            "japanese": "状態",
-            "english": "Status",
-            "spanish": "Estado",
-            "mandarin": "状态",
-            "korean": "상태"
-        },
-        "headerDate": {
-            "german": "Datum",
-            "japanese": "日付",
-            "english": "Date",
-            "spanish": "Fecha",
-            "mandarin": "日期",
-            "korean": "데이트"
+        "cancelButtonTooltipDisabled": {
+            "english": "Transaction can be cancelled only after",
+            "german": "Die Transaktion kann erst nach storniert werden",
+            "japanese": "取引はその後にのみキャンセルできます",
+            "korean": "이후에만 거래를 취소할 수 있습니다.",
+            "mandarin": "交易完成后才能取消",
+            "spanish": "La transacción se puede cancelar solo después de"
         },
         "cancelDate": {
+            "english": "Cancellation initiated on",
             "german": "Kündigung eingeleitet am",
             "japanese": "キャンセルが開始されました",
-            "english": "Cancellation initiated on",
-            "spanish": "Cancelación iniciada el",
+            "korean": "취소 시작 날짜",
             "mandarin": "取消开始于",
-            "korean": "취소 시작 날짜"
+            "spanish": "Cancelación iniciada el"
         },
-        "startedAt": {
-            "german": "Begonnen um",
-            "japanese": "で開始",
-            "english": "Started at",
-            "spanish": "Empezó a las",
-            "mandarin": "开始于",
-            "korean": "에서 시작"
+        "cancelled": {
+            "english": "Cancelled",
+            "german": "Abgesagt",
+            "japanese": "キャンセル",
+            "korean": "취소 된",
+            "mandarin": "取消",
+            "spanish": "Cancelado"
         },
-        "sendTo": {
-            "german": "Senden an",
-            "japanese": "に送る",
-            "english": "Send to",
-            "spanish": "Enviar a",
-            "mandarin": "发给",
-            "korean": "보내기"
+        "cancelling": {
+            "english": "Cancelling",
+            "german": "Stornieren",
+            "japanese": "キャンセル",
+            "korean": "취소",
+            "mandarin": "取消",
+            "spanish": "Cancelado"
+        },
+        "cancelModalClose": {
+            "english": "Close",
+            "german": "Schließen",
+            "japanese": "閉じる",
+            "korean": "닫기",
+            "mandarin": "关闭",
+            "spanish": "Cerca"
+        },
+        "cancelModalConfirm": {
+            "english": "Confirm",
+            "german": "Bestätigen",
+            "japanese": "確認",
+            "korean": "확인",
+            "mandarin": "确认",
+            "spanish": "Confirmar"
+        },
+        "cancelModalDesc": {
+            "english": "I confirm that this request would incur a transaction fee of ",
+            "german": "Ich bestätige, dass für diese Anfrage eine Transaktionsgebühr von . anfallen würde",
+            "japanese": "このリクエストには、以下の取引手数料がかかることを確認します",
+            "korean": "본인은 이 요청에 거래 수수료가 부과됨을 확인합니다.",
+            "mandarin": "我确认此请求将产生交易费用",
+            "spanish": "Confirmo que esta solicitud incurriría en una tarifa de transacción de"
+        },
+        "cancelModalNote": {
+            "english": "No transaction fees will be charged.",
+            "german": "Es werden keine Transaktionsgebühren erhoben.",
+            "japanese": "取引手数料はかかりません。",
+            "korean": "거래 수수료는 부과되지 않습니다.",
+            "mandarin": "不会收取任何交易费用。",
+            "spanish": "No serán agregados costos por transacción."
+        },
+        "cancelModalTitle": {
+            "english": "Cancellation status",
+            "german": "Stornierungsstatus",
+            "japanese": "キャンセル状況",
+            "korean": "취소 상태",
+            "mandarin": "取消状态",
+            "spanish": "Estado de cancelación"
         },
         "cancelModalUnsuccessful": {
+            "english": "unsuccessful",
             "german": "erfolglos",
             "japanese": "失敗しました",
-            "english": "unsuccessful",
-            "spanish": "fracasado",
+            "korean": "실패",
             "mandarin": "不成功",
-            "korean": "실패"
+            "spanish": "fracasado"
         },
-        "topup": {
-            "german": "Aufladen",
-            "japanese": "チャージ",
-            "english": "Topup",
-            "spanish": "Recarga",
-            "mandarin": "充值",
-            "korean": "충전"
+        "contractDeployment": {
+            "english": "Contract Deployment",
+            "german": "Vertragsbereitstellung",
+            "japanese": "契約の展開",
+            "korean": "계약 배포",
+            "mandarin": "合同部署",
+            "spanish": "Despliegue de contrato"
+        },
+        "contractInteraction": {
+            "english": "Contract Interaction",
+            "german": "Vertragsinteraktion",
+            "japanese": "契約の相互作用",
+            "korean": "계약 상호 작용",
+            "mandarin": "合约互动",
+            "spanish": "Interacción contractual"
+        },
+        "external": {
+            "english": "External",
+            "german": "Extern",
+            "japanese": "外部",
+            "korean": "외부",
+            "mandarin": "外部",
+            "spanish": "Externo"
+        },
+        "externalTransaction": {
+            "english": "External transaction",
+            "german": "Externe Transaktion",
+            "japanese": "外部取引",
+            "korean": "외부 거래",
+            "mandarin": "对外交易",
+            "spanish": "Transacción externa"
+        },
+        "from": {
+            "english": "from",
+            "german": "von",
+            "japanese": "から",
+            "korean": "에서",
+            "mandarin": "从",
+            "spanish": "de"
+        },
+        "headerAmount": {
+            "english": "Amount",
+            "german": "Menge",
+            "japanese": "量",
+            "korean": "양",
+            "mandarin": "量",
+            "spanish": "Cantidad"
+        },
+        "headerDate": {
+            "english": "Date",
+            "german": "Datum",
+            "japanese": "日付",
+            "korean": "데이트",
+            "mandarin": "日期",
+            "spanish": "Fecha"
         },
         "headerFrom": {
+            "english": "From",
             "german": "Von",
             "japanese": "から",
-            "english": "From",
-            "spanish": "De",
+            "korean": "에서",
             "mandarin": "从",
-            "korean": "에서"
+            "spanish": "De"
         },
-        "netword": {
-            "german": "Netzwerk",
-            "japanese": "ネットワーク",
-            "english": "Network",
-            "spanish": "Red",
-            "mandarin": "网络",
-            "korean": "회로망"
+        "headerStatus": {
+            "english": "Status",
+            "german": "Status",
+            "japanese": "状態",
+            "korean": "상태",
+            "mandarin": "状态",
+            "spanish": "Estado"
+        },
+        "headerTo": {
+            "english": "To",
+            "german": "Zu",
+            "japanese": "に",
+            "korean": "에",
+            "mandarin": "至",
+            "spanish": "A"
+        },
+        "headerTransaction": {
+            "english": "Transaction",
+            "german": "Transaktion",
+            "japanese": "トランザクション",
+            "korean": "트랜잭션",
+            "mandarin": "交易",
+            "spanish": "Transacción"
+        },
+        "lastOneMonth": {
+            "english": "Last 1 month",
+            "german": "Letzten 1 Monat",
+            "japanese": "過去1か月",
+            "korean": "지난 1 개월",
+            "mandarin": "最近1个月",
+            "spanish": "Último mes"
+        },
+        "lastOneWeek": {
+            "english": "Last 1 week",
+            "german": "Letzte 1 Woche",
+            "japanese": "過去1週間",
+            "korean": "지난 1 주",
+            "mandarin": "最近1周",
+            "spanish": "Última semana"
         },
         "lastSixMonts": {
+            "english": "Last 6 months",
             "german": "Letzte 6 Monate",
             "japanese": "過去6か月",
-            "english": "Last 6 months",
-            "spanish": "Últimos 6 meses",
+            "korean": "지난 6 개월",
             "mandarin": "最近6个月",
-            "korean": "지난 6 개월"
+            "spanish": "Últimos 6 meses"
+        },
+        "loading": {
+            "english": "Loading",
+            "german": "Wird geladen",
+            "japanese": "読み込み中",
+            "korean": "로딩",
+            "mandarin": "载入中",
+            "spanish": "Cargando"
+        },
+        "netword": {
+            "english": "Network",
+            "german": "Netzwerk",
+            "japanese": "ネットワーク",
+            "korean": "회로망",
+            "mandarin": "网络",
+            "spanish": "Red"
+        },
+        "network": {
+            "english": "Network",
+            "german": "Netzwerk",
+            "japanese": "通信網",
+            "korean": "회로망",
+            "mandarin": "网络",
+            "spanish": "Red"
+        },
+        "noTransaction": {
+            "english": "No Transaction Activity",
+            "german": "Keine Transaktionsaktivität",
+            "japanese": "トランザクション履歴なし",
+            "korean": "거래 활동이 없습니다",
+            "mandarin": "没有交易活动",
+            "spanish": "Sin actividad de transacción"
+        },
+        "pending": {
+            "english": "Pending",
+            "german": "steht aus",
+            "japanese": "保留中",
+            "korean": "대기 중",
+            "mandarin": "待定",
+            "spanish": "Pendiente"
+        },
+        "rate": {
+            "english": "Rate",
+            "german": "Bewertung",
+            "japanese": "割合",
+            "korean": "율",
+            "mandarin": "率",
+            "spanish": "Velocidad"
+        },
+        "receive": {
+            "english": "Receive",
+            "german": "Erhalten",
+            "japanese": "受け取る",
+            "korean": "받다",
+            "mandarin": "接收",
+            "spanish": "Recibir"
+        },
+        "received": {
+            "english": "Received",
+            "german": "Empfangen",
+            "japanese": "受信済",
+            "korean": "받았습니다",
+            "mandarin": "已收到",
+            "spanish": "Recibido"
+        },
+        "receiveFrom": {
+            "english": "Receive from",
+            "german": "Erhalten von",
+            "japanese": "から受信",
+            "korean": "수신",
+            "mandarin": "收到",
+            "spanish": "Recibir de"
+        },
+        "send": {
+            "english": "Send",
+            "german": "Senden",
+            "japanese": "送る",
+            "korean": "보내다",
+            "mandarin": "发送",
+            "spanish": "Enviar"
+        },
+        "sendTo": {
+            "english": "Send to",
+            "german": "Senden an",
+            "japanese": "に送る",
+            "korean": "보내기",
+            "mandarin": "发给",
+            "spanish": "Enviar a"
+        },
+        "sent": {
+            "english": "Sent",
+            "german": "Geschickt",
+            "japanese": "送信済",
+            "korean": "보냄",
+            "mandarin": "已发送",
+            "spanish": "Expedido"
+        },
+        "startedAt": {
+            "english": "Started at",
+            "german": "Begonnen um",
+            "japanese": "で開始",
+            "korean": "에서 시작",
+            "mandarin": "开始于",
+            "spanish": "Empezó a las"
+        },
+        "successful": {
+            "english": "Successful",
+            "german": "Erfolgreich",
+            "japanese": "成功した",
+            "korean": "성공한",
+            "mandarin": "成功",
+            "spanish": "Exitoso"
+        },
+        "to": {
+            "english": "to",
+            "german": "zu",
+            "japanese": "に",
+            "korean": "에",
+            "mandarin": "至",
+            "spanish": "a"
+        },
+        "topup": {
+            "english": "Topup",
+            "german": "Aufladen",
+            "japanese": "チャージ",
+            "korean": "충전",
+            "mandarin": "充值",
+            "spanish": "Recarga"
+        },
+        "transactionActivities": {
+            "english": "Transaction Activities",
+            "german": "Transaktionsaktivitäten",
+            "japanese": "トランザクション履歴",
+            "korean": "거래 활동",
+            "mandarin": "交易活动",
+            "spanish": "Actividades de transacción"
+        },
+        "unavailable": {
+            "english": "Unavailable",
+            "german": "Nicht verfügbar",
+            "japanese": "利用できません",
+            "korean": "없는",
+            "mandarin": "不可用",
+            "spanish": "No disponible"
+        },
+        "unsuccessful": {
+            "english": "Unsuccessful",
+            "german": "Erfolglos",
+            "japanese": "失敗した",
+            "korean": "실패",
+            "mandarin": "不成功",
+            "spanish": "Fracasado"
+        },
+        "viewEtherscan": {
+            "english": "View On Etherscan",
+            "german": "Blick auf Etherscan",
+            "japanese": "Etherscanで表示",
+            "korean": "Etherscan에서보기",
+            "mandarin": "Etherscan查寻",
+            "spanish": "Ver en Etherscan"
+        },
+        "viewMore": {
+            "english": "View more",
+            "german": "Mehr sehen",
+            "japanese": "もっと見る",
+            "korean": "더보기",
+            "mandarin": "查看更多",
+            "spanish": "Ver más"
+        },
+        "viewOnEtherscan": {
+            "english": "View On Etherscan",
+            "german": "Blick auf Etherscan",
+            "japanese": "Etherscanで確認",
+            "korean": "Etherscan에서보기",
+            "mandarin": "在Etherscan上查看",
+            "spanish": "Ver en Etherscan"
         }
     }
 }
