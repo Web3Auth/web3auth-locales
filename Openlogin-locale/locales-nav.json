@@ -1,112 +1,112 @@
 {
   "nav": {
-    "link-apps": {
-      "mandarin": "授权应用",
-      "japanese": "認定アプリ",
-      "spanish": "Aplicaciones autorizadas",
-      "english": "Authorized Apps",
-      "german": "Autorisierte Apps",
-      "korean": "승인 된 앱",
-      "portuguese": "Aplicativos autorizados"
-    },
-    "link-home": {
-      "mandarin": "主页",
-      "japanese": "ホームページ",
-      "spanish": "página principal",
-      "english": "Home",
-      "german": "Startseite",
-      "korean": "홈페이지",
-      "portuguese": "Início"
-    },
-    "link-support": {
-      "mandarin": "支持",
-      "japanese": "サポート",
-      "spanish": "Apoyo",
-      "english": "Support",
-      "german": "Unterstützung",
-      "korean": "지원하다",
-      "portuguese": "Suporte"
-    },
-    "link-account": {
-      "mandarin": "帐户",
-      "japanese": "アカウント",
-      "spanish": "Cuenta",
-      "english": "Account",
-      "german": "Konto",
-      "korean": "계정",
-      "portuguese": "Conta"
-    },
-    "link-logout": {
-      "mandarin": "登出",
-      "japanese": "ログアウト",
-      "spanish": "Cerrar sesión",
-      "english": "Logout",
-      "german": "Ausloggen",
-      "korean": "로그 아웃",
-      "portuguese": "Sair"
-    },
-    "list-bottom": {
-      "mandarin": "主导航底部",
-      "japanese": "メインナビゲーションボトム",
-      "spanish": "Parte de la navegación principal",
-      "english": "Main Navigation bottom",
-      "german": "Hauptnavigation unten",
-      "korean": "메인 탐색 바닥",
-      "portuguese": "Principal de navegação principal"
-    },
-    "toggle-btn": {
-      "mandarin": "导航栏切换",
-      "japanese": "ナビゲーションバーの切り替え",
-      "spanish": "Barra de navegación",
-      "english": "Navigation Bar toggle",
-      "german": "Navigationsstabschaltung",
-      "korean": "내비게이션 바 전환",
-      "portuguese": "Navigação Bargle de barra"
-    },
-    "drawer": {
-      "mandarin": "主要导航",
-      "japanese": "メインナビゲーション",
-      "spanish": "Navegación Principal",
-      "english": "Main Navigation",
-      "german": "Hauptnavigation",
-      "korean": "메인 탐색",
-      "portuguese": "Navegação Principal"
-    },
-    "logo": {
-      "mandarin": "标识",
-      "japanese": "ロゴ",
-      "spanish": "logo",
-      "english": "logo",
-      "german": "Logo",
-      "korean": "심벌 마크",
-      "portuguese": "logotipo"
-    },
     "close-btn": {
-      "mandarin": "关闭",
-      "japanese": "近い",
-      "spanish": "cerca",
       "english": "close",
       "german": "schließen",
+      "japanese": "近い",
       "korean": "닫다",
-      "portuguese": "fechar"
+      "mandarin": "关闭",
+      "portuguese": "fechar",
+      "spanish": "cerca"
     },
-    "user-info": {
-      "mandarin": "用户信息",
-      "japanese": "ユーザー情報",
-      "spanish": "Informacion del usuario",
-      "english": "User information",
-      "german": "Nutzerinformation",
-      "korean": "사용자 정보",
-      "portuguese": "Informação do usuário"
+    "drawer": {
+      "english": "Main Navigation",
+      "german": "Hauptnavigation",
+      "japanese": "メインナビゲーション",
+      "korean": "메인 탐색",
+      "mandarin": "主要导航",
+      "portuguese": "Navegação Principal",
+      "spanish": "Navegación Principal"
     },
     "lang-select": {
-      "mandarin": "语言选择器",
-      "japanese": "言語セレクター",
-      "spanish": "selector de idiomas",
       "english": "language selector",
       "german": "Sprachauswahl",
+      "japanese": "言語セレクター",
       "korean": "언어 선택기",
-      "portuguese": "Seletor de idiomas"
+      "mandarin": "语言选择器",
+      "portuguese": "Seletor de idiomas",
+      "spanish": "selector de idiomas"
+    },
+    "link-account": {
+      "english": "Account",
+      "german": "Konto",
+      "japanese": "アカウント",
+      "korean": "계정",
+      "mandarin": "帐户",
+      "portuguese": "Conta",
+      "spanish": "Cuenta"
+    },
+    "link-apps": {
+      "english": "Authorized Apps",
+      "german": "Autorisierte Apps",
+      "japanese": "認定アプリ",
+      "korean": "승인 된 앱",
+      "mandarin": "授权应用",
+      "portuguese": "Aplicativos autorizados",
+      "spanish": "Aplicaciones autorizadas"
+    },
+    "link-home": {
+      "english": "Home",
+      "german": "Startseite",
+      "japanese": "ホームページ",
+      "korean": "홈페이지",
+      "mandarin": "主页",
+      "portuguese": "Início",
+      "spanish": "página principal"
+    },
+    "link-logout": {
+      "english": "Logout",
+      "german": "Ausloggen",
+      "japanese": "ログアウト",
+      "korean": "로그 아웃",
+      "mandarin": "登出",
+      "portuguese": "Sair",
+      "spanish": "Cerrar sesión"
+    },
+    "link-support": {
+      "english": "Support",
+      "german": "Unterstützung",
+      "japanese": "サポート",
+      "korean": "지원하다",
+      "mandarin": "支持",
+      "portuguese": "Suporte",
+      "spanish": "Apoyo"
+    },
+    "list-bottom": {
+      "english": "Main Navigation bottom",
+      "german": "Hauptnavigation unten",
+      "japanese": "メインナビゲーションボトム",
+      "korean": "메인 탐색 바닥",
+      "mandarin": "主导航底部",
+      "portuguese": "Principal de navegação principal",
+      "spanish": "Parte de la navegación principal"
+    },
+    "logo": {
+      "english": "logo",
+      "german": "Logo",
+      "japanese": "ロゴ",
+      "korean": "심벌 마크",
+      "mandarin": "标识",
+      "portuguese": "logotipo",
+      "spanish": "logo"
+    },
+    "toggle-btn": {
+      "english": "Navigation Bar toggle",
+      "german": "Navigationsstabschaltung",
+      "japanese": "ナビゲーションバーの切り替え",
+      "korean": "내비게이션 바 전환",
+      "mandarin": "导航栏切换",
+      "portuguese": "Navigação Bargle de barra",
+      "spanish": "Barra de navegación"
+    },
+    "user-info": {
+      "english": "User information",
+      "german": "Nutzerinformation",
+      "japanese": "ユーザー情報",
+      "korean": "사용자 정보",
+      "mandarin": "用户信息",
+      "portuguese": "Informação do usuário",
+      "spanish": "Informacion del usuario"
     }
   }
 }
