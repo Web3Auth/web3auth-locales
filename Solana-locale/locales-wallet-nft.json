@@ -1,11 +1,11 @@
 {
 	"walletNft": {
 		"youHave": {
-			"japanese": "あなたが持っている",
-			"mandarin": "你有",
-			"german": "Sie haben",
 			"english": "You have",
+			"german": "Sie haben",
+			"japanese": "あなたが持っている",
 			"korean": "너는 가지고있다",
+			"mandarin": "你有",
 			"spanish": "tú tienes"
 		}
 	}
