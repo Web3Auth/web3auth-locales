@@ -1,8 +1,8 @@
 {
   "account": {
     "auth-factors-device-biometrics": {
+      "dutch": "Biometrische gegevens geregistreerd",
       "english": "biometrics registered",
-      "french": "biométrie enregistrée",
       "german": "Biometrie registriert",
       "japanese": "生体認証が有効",
       "korean": "생체 인식 활성화",
@@ -11,8 +11,8 @@
       "spanish": "biometría registrada"
     },
     "auth-factors-device-current": {
+      "dutch": "Huidig",
       "english": "Current",
-      "french": "Actuel",
       "german": "Strom",
       "japanese": "電流",
       "korean": "흐름",
@@ -21,8 +21,8 @@
       "spanish": "Actual"
     },
     "auth-factors-device-desc": {
+      "dutch": "Deze apparaten zijn unieke factoren die gemachtigd zijn om toegang te krijgen tot uw account.",
       "english": "These devices are unique factors authorized to access your account.",
-      "french": "Ces appareils sont des facteurs uniques autorisés à accéder à votre compte.",
       "german": "Diese Geräte sind einzigartige Faktoren, die für den Zugriff auf Ihr Konto berechtigt sind.",
       "japanese": "これらのデバイスは、アカウントへのアクセスを許可された固有の要素です。",
       "korean": "이러한 장치는 귀하의 계정에 액세스 할 수있는 고유 한 요소입니다.",
@@ -31,8 +31,8 @@
       "spanish": "Estos dispositivos son factores únicos autorizados para acceder a su cuenta."
     },
     "auth-factors-device-empty": {
+      "dutch": "Geen apparaat delingen gevonden",
       "english": "No device shares found",
-      "french": "Aucun partage de périphérique trouvé",
       "german": "Keine Gerätefreigaben gefunden",
       "japanese": "デバイス共有が見つかりません",
       "korean": "장치 공유가 없습니다.",
@@ -41,8 +41,8 @@
       "spanish": "No se encontraron recursos compartidos de dispositivos"
     },
     "auth-factors-device-title": {
+      "dutch": "Appara(a)t(en)",
       "english": "Device(s)",
-      "french": "Appareil(s)",
       "german": "Geräte",
       "japanese": "デバイス",
       "korean": "장치",
@@ -51,8 +51,8 @@
       "spanish": "Dispositivos"
     },
     "auth-factors-downloaded-on": {
+      "dutch": "Gedownload op {0}",
       "english": "Downloaded on {0}",
-      "french": "Téléchargé le {0}",
       "german": "Heruntergeladen am {0}",
       "japanese": "{0}にダウンロード",
       "korean": "{0}에 다운로드됨",
@@ -61,8 +61,8 @@
       "spanish": "Descargado el {0}"
     },
     "auth-factors-email": {
+      "dutch": "Herstel e-mail",
       "english": "Recovery email",
-      "french": "Courriel de récupération",
       "german": "Wiederherstellungs-E-Mail",
       "japanese": "回復メール",
       "korean": "복구 이메일",
@@ -71,8 +71,8 @@
       "spanish": "Correo electrónico de recuperación"
     },
     "auth-factors-email-enter": {
+      "dutch": "Voer het herstel-e-mailadres in",
       "english": "Enter recovery email",
-      "french": "Entrez le courriel de récupération",
       "german": "Geben Sie die Wiederherstellungs-E-Mail ein",
       "japanese": "復旧メールを入力してください",
       "korean": "복구 이메일 입력",
@@ -81,8 +81,8 @@
       "spanish": "Ingresa el correo de recuperación"
     },
     "auth-factors-email-old": {
+      "dutch": "Herstel e-mail (bestaand)",
       "english": "Recovery email (existing)",
-      "french": "Courriel de récupération (existant)",
       "german": "Wiederherstellungs-E-Mail (vorhanden)",
       "japanese": "復旧メール（既存）",
       "korean": "복구 이메일 (기존)",
@@ -91,8 +91,8 @@
       "spanish": "Correo electrónico de recuperación (existente)"
     },
     "auth-factors-email-resend": {
+      "dutch": "Opnieuw verzenden",
       "english": "Resend",
-      "french": "Renvoyer",
       "german": "Erneut senden",
       "japanese": "再送",
       "korean": "재전송",
@@ -101,8 +101,8 @@
       "spanish": "Reenviar"
     },
     "auth-factors-email-sent": {
+      "dutch": "Verzonden",
       "english": "Sent",
-      "french": "Envoyé",
       "german": "Geschickt",
       "japanese": "送信済み",
       "korean": "보냄",
@@ -111,8 +111,8 @@
       "spanish": "Enviado"
     },
     "auth-factors-email-sent-to": {
+      "dutch": "Verzonden naar {0}",
       "english": "Sent to {0}",
-      "french": "Envoyé à {0}",
       "german": "Gesendet an {0}",
       "japanese": "{0}に送信",
       "korean": "{0}에게 보냄",
@@ -121,8 +121,8 @@
       "spanish": "Enviado a {0}"
     },
     "auth-factors-enable-biometrics": {
+      "dutch": "Biometrie inschakelen",
       "english": "Enable biometrics",
-      "french": "Activer la biométrie",
       "german": "Biometrie aktivieren",
       "japanese": "登録されたバイオメトリクス",
       "korean": "생체 인식 등록",
@@ -131,18 +131,18 @@
       "spanish": "Habilitar la biometría"
     },
     "auth-factors-network": {
+      "dutch": "Sociale logins via Torus-nodes",
       "english": "Social logins via Torus nodes",
-      "french": "Connexions sociales via les nœuds Torus",
       "german": "Soziale Anmeldungen über Torus-Knoten",
-      "japanese": "Torus ノードを介したソーシャルログイン",
+      "japanese": "Torusノードを介したソーシャルログイン",
       "korean": "Torus 노드를 통한 소셜 로그인",
       "mandarin": "通过Torus节点进行社交登录",
       "portuguese": "Logins sociais via Torus nodes",
       "spanish": "Inicios de sesión sociales a través de nodos Torus"
     },
     "auth-factors-password": {
+      "dutch": "Account wachtwoord",
       "english": "Account password",
-      "french": "Mot de passe du compte",
       "german": "Konto Passwort",
       "japanese": "アカウントパスワード",
       "korean": "계정 비밀번호",
@@ -151,8 +151,8 @@
       "spanish": "Contraseña de la cuenta"
     },
     "auth-factors-password-change": {
+      "dutch": "Wachtwoord wijzigen",
       "english": "Change Password",
-      "french": "Changer le mot de passe",
       "german": "Passwort ändern",
       "japanese": "パスワードを変更する",
       "korean": "비밀번호 변경",
@@ -161,8 +161,8 @@
       "spanish": "Cambia la contraseña"
     },
     "auth-factors-password-confirm": {
+      "dutch": "Voer uw wachtwoord opnieuw in",
       "english": "Re-enter your password",
-      "french": "Re-entrez votre mot de passe",
       "german": "Wiederhole die Eingabe deines Passwortes",
       "japanese": "パスワードを再入力してください",
       "korean": "비밀번호 재 입력",
@@ -171,8 +171,8 @@
       "spanish": "reingresa tu contraseña"
     },
     "auth-factors-password-set": {
+      "dutch": "Stel je wachtwoord in",
       "english": "Set your password",
-      "french": "Définissez votre mot de passe",
       "german": "Lege ein Passwort fest",
       "japanese": "パスワードを作る",
       "korean": "비밀번호를 설정하세요",
@@ -181,8 +181,8 @@
       "spanish": "Establece tu contraseña"
     },
     "auth-factors-recovery-phrase": {
+      "dutch": "Herstelzin",
       "english": "Recovery phrase",
-      "french": "Phrase de récupération",
       "german": "Wiederherstellungsphrase",
       "japanese": "回復フレーズ",
       "korean": "복구 문구",
@@ -191,8 +191,8 @@
       "spanish": "Frase de recuperación"
     },
     "auth-factors-subtitle": {
+      "dutch": "Lijst van authenticatiefactoren",
       "english": "List of Authentication factors",
-      "french": "Liste des facteurs d'authentification",
       "german": "Liste der Authentifizierungsfaktoren",
       "japanese": "認証要素のリスト",
       "korean": "인증 요인 목록",
@@ -201,8 +201,8 @@
       "spanish": "Lista de factores de autenticación"
     },
     "auth-factors-threshold": {
+      "dutch": "Beveiligingsfactoren",
       "english": "Security Factors",
-      "french": "Facteurs de sécurité",
       "german": "Sicherheitsfaktoren",
       "japanese": "セキュリティ要因",
       "korean": "보안 요소",
@@ -211,8 +211,8 @@
       "spanish": "Factores de seguridad"
     },
     "auth-factors-threshold-desc": {
+      "dutch": "Het aantal factoren dat geauthenticeerd moet worden om toegang te krijgen tot uw account.",
       "english": "The number of factors to authenticate in order to access your account.",
-      "french": "Le nombre de facteurs à authentifier pour accéder à votre compte.",
       "german": "Die Anzahl der Faktoren, die authentifiziert werden müssen, um auf Ihr Konto zuzugreifen.",
       "japanese": "アカウントにアクセスするために認証する要素の数。",
       "korean": "계정에 액세스하기 위해 인증 할 요소의 수입니다.",
@@ -221,8 +221,8 @@
       "spanish": "La cantidad de factores que se deben autenticar para acceder a su cuenta."
     },
     "auth-factors-threshold-factor": {
+      "dutch": "{0} Authenticatiefactor",
       "english": "{0} Authentication factor",
-      "french": "{0} Facteur d'authentification",
       "german": "{0} Authentifizierungsfaktor",
       "japanese": "{0}認証要素",
       "korean": "{0} 인증 요소",
@@ -231,8 +231,8 @@
       "spanish": "{0} Factor de autenticación"
     },
     "auth-factors-title": {
+      "dutch": "Beveiligingsinstellingen",
       "english": "Security Settings",
-      "french": "Paramètres de sécurité",
       "german": "Sicherheitseinstellungen",
       "japanese": "セキュリティ設定",
       "korean": "보안 설정",
@@ -241,8 +241,8 @@
       "spanish": "Configuraciones de seguridad"
     },
     "copy-recovery-phrase-desc": {
+      "dutch": "Sla een kopie op van uw herstelfrase",
       "english": "Save a copy of your recovery phrase",
-      "french": "Sauvegarder une copie de votre phrase de récupération",
       "german": "Speichern Sie eine Kopie Ihres Wiederherstellungssatzes",
       "japanese": "リカバリーフレーズのコピーを保存する",
       "korean": "복구 문구 사본 저장",
@@ -251,8 +251,8 @@
       "spanish": "Guarda una copia de tu frase de recuperación"
     },
     "delete-recovery-title": {
+      "dutch": "Herstelfactor verwijderen",
       "english": "Delete Recovery Factor",
-      "french": "Supprimer le facteur de récupération",
       "german": "Wiederherstellungsfaktor löschen",
       "japanese": "回復係数の削除",
       "korean": "회복 인자 삭제",
@@ -261,8 +261,8 @@
       "spanish": "Eliminar factor de recuperación"
     },
     "delete-share-desc-1": {
+      "dutch": "Wees heel zeker als",
       "english": "Be very sure as",
-      "french": "Soyez très sûr comme",
       "german": "Seien Sie sehr sicher, wie",
       "japanese": "として非常に確認してください",
       "korean": "다음과 같이 매우 확신하십시오.",
@@ -271,8 +271,8 @@
       "spanish": "estar muy seguro como"
     },
     "delete-share-desc-2": {
+      "dutch": "deze actie is permanent en kan niet ongedaan worden gemaakt.",
       "english": "this action is permanent and cannot be undone.",
-      "french": "cette action est permanente et ne peut pas être annulée.",
       "german": "Diese Aktion ist dauerhaft und kann nicht rückgängig gemacht werden.",
       "japanese": "このアクションは永続的であり、元に戻すことはできません。",
       "korean": "이 작업은 영구적이며 취소할 수 없습니다.",
@@ -281,8 +281,8 @@
       "spanish": "esta acción es permanente y no se puede deshacer."
     },
     "delete-share-title": {
+      "dutch": "Verwijder authenticatiefactor",
       "english": "Delete authentication factor",
-      "french": "Supprimer le facteur d'authentification",
       "german": "Authentifizierungsfaktor löschen",
       "japanese": "認証要素の削除",
       "korean": "인증 요소 삭제",
@@ -291,8 +291,8 @@
       "spanish": "Eliminar factor de autenticación"
     },
     "desc": {
+      "dutch": "Beheer hier uw OpenLogin-instellingen",
       "english": "Manage your OpenLogin settings here",
-      "french": "Gérez vos paramètres OpenLogin ici",
       "german": "Verwalten Sie hier Ihre OpenLogin-Einstellungen",
       "japanese": "ここでOpenLogin設定を管理します",
       "korean": "여기에서 OpenLogin 설정을 관리하세요.",
@@ -301,8 +301,8 @@
       "spanish": "Administre su configuración de OpenLogin aquí"
     },
     "email-with-date": {
+      "dutch": "Verstuurd via e-mail op {0} naar:",
       "english": "Emailed on {0} to :",
-      "french": "Envoyé par e-mail le {0} à :",
       "german": "Am {0} per E-Mail gesendet an:",
       "japanese": "{0} に電子メールを送信:",
       "korean": "{0}에 다음 주소로 이메일을 보냈습니다.",
@@ -311,8 +311,8 @@
       "spanish": "Enviado por correo electrónico el {0} a:"
     },
     "export-onkey-2fa": {
+      "dutch": "Twee-factor authenticatie",
       "english": "Two-factor authentication",
-      "french": "Authentification à deux facteurs",
       "german": "Zwei-Faktor-Authentifizierung",
       "japanese": "二要素認証",
       "korean": "이중 인증",
@@ -321,8 +321,8 @@
       "spanish": "Autenticación de dos factores"
     },
     "export-onkey-2fa-enable": {
+      "dutch": "2FA inschakelen",
       "english": "Enable 2FA",
-      "french": "Activer 2FA",
       "german": "2FA aktivieren",
       "japanese": "2FA を有効にする",
       "korean": "2FA 활성화",
@@ -331,8 +331,8 @@
       "spanish": "Habilitar 2FA"
     },
     "export-onkey-2fa-recommend": {
+      "dutch": "We raden u ten zeerste aan om 2FA in te schakelen op uw account",
       "english": "We strongly recommend you to enable 2FA on your account",
-      "french": "Nous vous recommandons vivement d'activer le 2FA sur votre compte",
       "german": "Wir empfehlen Ihnen dringend, 2FA für Ihr Konto zu aktivieren",
       "japanese": "アカウントで 2FA を有効にすることを強くお勧めします",
       "korean": "계정에서 2FA를 활성화하는 것이 좋습니다.",
@@ -341,8 +341,8 @@
       "spanish": "Le recomendamos encarecidamente que habilite 2FA en su cuenta"
     },
     "export-onkey-not-setup": {
+      "dutch": "Nog niet ingesteld",
       "english": "Not setup yet",
-      "french": "Pas encore configuré",
       "german": "Noch nicht eingerichtet",
       "japanese": "まだセットアップされていません",
       "korean": "아직 설정되지 않음",
@@ -351,8 +351,8 @@
       "spanish": "Aún no configurado"
     },
     "export-onkey-note": {
+      "dutch": "Verhoog uw accountbeveiliging door 2FA in te schakelen",
       "english": "Increase your account security by enabling 2FA",
-      "french": "Augmentez la sécurité de votre compte en activant le 2FA",
       "german": "Erhöhen Sie die Sicherheit Ihres Kontos, indem Sie 2FA aktivieren",
       "japanese": "2FAを有効にして、アカウントのセキュリティを強化します",
       "korean": "2FA를 활성화하여 계정 보안 강화",
@@ -361,8 +361,8 @@
       "spanish": "Aumente la seguridad de su cuenta habilitando 2FA"
     },
     "export-onkey-setup": {
+      "dutch": "Stel het in",
       "english": "Set it up",
-      "french": "Mettez-le en place",
       "german": "Es einrichten",
       "japanese": "準備する",
       "korean": "설정",
@@ -371,8 +371,8 @@
       "spanish": "Prepararlo"
     },
     "export-share-copy": {
+      "dutch": "Klik om te kopiëren",
       "english": "Click to copy",
-      "french": "Cliquez pour copier",
       "german": "Klicken Sie zum Kopieren",
       "japanese": "クリックしてコピー",
       "korean": "복사하려면 클릭",
@@ -381,8 +381,8 @@
       "spanish": "Haga clic para copiar"
     },
     "export-share-desc": {
+      "dutch": "Sla een kopie op van uw back-upzin",
       "english": "Save a copy of your backup phrase",
-      "french": "Sauvegarder une copie de votre phrase de sauvegarde",
       "german": "Speichern Sie eine Kopie Ihrer Sicherungsphrase",
       "japanese": "バックアップフレーズのコピーを保存します",
       "korean": "백업 문구 사본 저장",
@@ -391,18 +391,18 @@
       "spanish": "Guarde una copia de su frase de respaldo"
     },
     "export-share-note": {
+      "dutch": "Opmerking: deze herstelzin is 1 van de factoren die nodig zijn om uw account te authenticeren. Bewaar het op een veilige plaats als onderdeel van uw accountherstel in de toekomst.",
       "english": "Note: This recovery phrase is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
-      "french": "Remarque : Cette phrase de récupération est l'un des facteurs nécessaires à l'authentification de votre compte. Conservez-la en lieu sûr pour la récupération de votre compte à l'avenir.",
       "german": "Hinweis: Dieser Wiederherstellungssatz ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es für die zukünftige Kontowiederherstellung an einem sicheren Ort auf.",
-      "japanese": "注意: この回復フレーズは、アカウントを認証するために必要な要素の1つです。 将来のアカウントの回復の一部として、安全な場所に保管してください。",
+      "japanese": "注：この回復フレーズは、アカウントの認証に必要な要素の1つです。 将来のアカウント復旧の一環として、安全な場所に保管してください。",
       "korean": "참고: 이 복구 문구는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
       "mandarin": "注意：此恢复短语是验证您的帐户所需的因素之一。 将其保存在安全的地方，作为将来恢复帐户的一部分。",
       "portuguese": "Observação: esta frase de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro.",
       "spanish": "Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
     },
     "export-share-title": {
+      "dutch": "Back-up zin",
       "english": "Backup phrase",
-      "french": "Phrase de sauvegarde",
       "german": "Sicherungssatz",
       "japanese": "バックアップフレーズ",
       "korean": "백업 문구",
@@ -411,8 +411,8 @@
       "spanish": "Frase de respaldo"
     },
     "mpc-auth-factors-recovery-phrase": {
+      "dutch": "Herstelfactor",
       "english": "Recovery factor",
-      "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
       "korean": "회복 계수",
@@ -421,8 +421,8 @@
       "spanish": "Factor de recuperación"
     },
     "mpc-export-share-note": {
+      "dutch": "Opmerking: Dit herstelfactor is 1 van de factoren die nodig zijn om uw account te authenticeren. Bewaar het op een veilige plaats als onderdeel van uw accountherstel in de toekomst.",
       "english": "Note: This recovery factor is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
-      "french": "Remarque : Ce facteur de récupération est l'un des facteurs nécessaires à l'authentification de votre compte. Conservez-le en lieu sûr pour la récupération de votre compte à l'avenir.",
       "german": "Hinweis: Dieser Wiederherstellungsfaktor ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es im Rahmen Ihrer zukünftigen Kontowiederherstellung an einem sicheren Ort auf.",
       "japanese": "注: この回復要素は、アカウントの認証に必要な要素の 1 つです。将来のアカウント復旧の一環として、安全な場所に保管してください。",
       "korean": "참고: 이 복구 요소는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
@@ -431,8 +431,8 @@
       "spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
     },
     "password-requirement": {
+      "dutch": "Wachtwoordvereisten:",
       "english": "Password requirements:",
-      "french": "Exigences relatives au mot de passe :",
       "german": "Passwortanforderungen:",
       "japanese": "パスワード要件:",
       "korean": "암호 요구 사항:",
@@ -441,18 +441,18 @@
       "spanish": "Requisitos de la contraseña:"
     },
     "password-requirement-10-char": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
       "english": "At least 10 characters (and up to 100 characters)",
-      "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
-      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
-      "japanese": "少なくとも 10 文字 (最大 100 文字)",
-      "korean": "최소 10 자 (최대 100 자)",
-      "mandarin": "至少 10 个字符（最多 100 个字符）",
-      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
-      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)"
+      "german": "Mindestens 10 Zeichen (bis zu 100 Zeichen)",
+      "japanese": "10文字以上（最大100文字）",
+      "korean": "최소 10자 (최대 100자)",
+      "mandarin": "至少10个字符（最多100个字符）",
+      "portuguese": "Pelo menos 10 caracteres (até 100 caracteres)",
+      "spanish": "Al menos 10 caracteres (hasta 100 caracteres)"
     },
     "password-requirement-desc": {
+      "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
       "english": "Ensure that these requirements are met:",
-      "french": "Assurez-vous que ces exigences sont respectées :",
       "german": "Stellen Sie sicher, dass diese Anforderungen erfüllt sind:",
       "japanese": "次の要件が満たされていることを確認します。",
       "korean": "다음 요구 사항이 충족되는지 확인하십시오.",
@@ -461,8 +461,8 @@
       "spanish": "Asegúrese de que se cumplan estos requisitos:"
     },
     "password-requirement-lowercase": {
+      "dutch": "Minstens één kleine letter vereist",
       "english": "At least one lowercase character",
-      "french": "Au moins un caractère en minuscule",
       "german": "Mindestens ein Kleinbuchstabe",
       "japanese": "少なくとも 1 つの小文字",
       "korean": "하나 이상의 소문자",
@@ -471,28 +471,28 @@
       "spanish": "Al menos un carácter en minúscula"
     },
     "password-requirement-specialchar": {
+      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
       "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
-      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
       "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
       "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
       "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
-      "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
+      "mandarin": "包含至少一个特殊字符，例如 {'! @#？'}",
       "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
       "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}"
     },
     "password-requirement-upercase": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
       "english": "At least one uppercase character",
-      "french": "Au moins un caractère en majuscule",
-      "german": "Mindestens ein Großbuchstabe",
-      "japanese": "少なくとも 1 つの大文字",
-      "korean": "하나 이상의 대문자",
-      "mandarin": "至少一个大写字符",
-      "portuguese": "Pelo menos um caractere maiúsculo",
-      "spanish": "Al menos un carácter en mayúscula"
+      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
+      "japanese": "10文字以上（100文字以内）",
+      "korean": "최소 10자(최대 100자)",
+      "mandarin": "至少 10 个字符（最多 100 个字符）",
+      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
+      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)"
     },
     "remove-share-button": {
+      "dutch": "Verwijder deelknop",
       "english": "Remove share",
-      "french": "Supprimer le partage",
       "german": "Freigabe entfernen",
       "japanese": "共有を削除",
       "korean": "공유 제거",
@@ -501,8 +501,8 @@
       "spanish": "Quitar compartir"
     },
     "social-factor-change": {
+      "dutch": "Verander sociale factor",
       "english": "Change Social Factor",
-      "french": "Modifier le facteur social",
       "german": "Ändern Sie den sozialen Faktor",
       "japanese": "社会的要因を変えます",
       "korean": "사회적 요인을 변경하십시오",
@@ -511,8 +511,8 @@
       "spanish": "Cambiar el factor social"
     },
     "title": {
+      "dutch": "Account",
       "english": "Account",
-      "french": "Compte",
       "german": "Konto",
       "japanese": "アカウント",
       "korean": "계정",

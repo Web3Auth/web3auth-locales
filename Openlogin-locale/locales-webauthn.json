@@ -1,8 +1,8 @@
 {
   "webauthn": {
     "action-cancel": {
+      "dutch": "Annuleren",
       "english": "Cancel",
-      "french": "Annuler",
       "german": "Stornieren",
       "japanese": "キャンセル",
       "korean": "취소",
@@ -11,8 +11,8 @@
       "spanish": "Cancelar"
     },
     "action-no": {
+      "dutch": "Nee",
       "english": "No",
-      "french": "Non",
       "german": "Nein",
       "japanese": "番号",
       "korean": "아니요",
@@ -21,8 +21,8 @@
       "spanish": "No"
     },
     "action-sign-in": {
+      "dutch": "Inloggen",
       "english": "Sign In",
-      "french": "Se connecter",
       "german": "Einloggen",
       "japanese": "ログイン",
       "korean": "로그인",
@@ -31,8 +31,8 @@
       "spanish": "Registrarse"
     },
     "action-yes": {
+      "dutch": "Ja",
       "english": "Yes",
-      "french": "Oui",
       "german": "Jawohl",
       "japanese": "はい",
       "korean": "예",
@@ -41,8 +41,8 @@
       "spanish": "sí"
     },
     "browser-not-supported": {
+      "dutch": "Browser niet ondersteund",
       "english": "Browser not supported",
-      "french": "Navigateur non pris en charge",
       "german": "Browser nicht unterstützt",
       "japanese": "ブラウザはサポートされていません",
       "korean": "지원되지 않는 브라우저",
@@ -51,8 +51,8 @@
       "spanish": "Navegador no compatible"
     },
     "browser-not-supported-note": {
+      "dutch": "U gebruikt een browser die wij niet ondersteunen. Probeer een van deze opties om een betere ervaring te hebben op deze applicatie. Als u al een browser uit de onderstaande lijst gebruikt, update dan naar de nieuwste versie",
       "english": "You are using a browser we do not support. Try one of these options to have a better experience on this application. If you're already using a browser from the below list, Please update to the latest version",
-      "french": "Vous utilisez un navigateur que nous ne prenons pas en charge. Essayez l'une de ces options pour avoir une meilleure expérience sur cette application. Si vous utilisez déjà un navigateur de la liste ci-dessous, veuillez mettre à jour vers la dernière version",
       "german": "Sie verwenden einen von uns nicht unterstützten Browser. Probieren Sie eine dieser Optionen aus, um eine bessere Erfahrung mit dieser Anwendung zu erzielen. Wenn Sie bereits einen Browser aus der folgenden Liste verwenden, aktualisieren Sie bitte auf die neueste Version",
       "japanese": "サポートされていないブラウザを使用しています。 これらのオプションのいずれかを試して、このアプリケーションのエクスペリエンスを向上させてください。 以下のリストのブラウザをすでに使用している場合は、最新バージョンに更新してください",
       "korean": "지원하지 않는 브라우저를 사용하고 있습니다. 이 응용 프로그램에서 더 나은 경험을 얻으려면 다음 옵션 중 하나를 시도하십시오. 아래 목록의 브라우저를 이미 사용 중이라면 최신 버전으로 업데이트하십시오.",
@@ -61,8 +61,8 @@
       "spanish": "Está utilizando un navegador que no admitimos. Pruebe una de estas opciones para tener una mejor experiencia en esta aplicación. Si ya está utilizando un navegador de la siguiente lista, actualice a la última versión"
     },
     "improve-experience": {
+      "dutch": "Verbeter uw ervaring",
       "english": "Improve your experience",
-      "french": "Améliorez votre expérience",
       "german": "Verbessern Sie Ihre Erfahrung",
       "japanese": "あなたの経験を向上させる",
       "korean": "경험 향상",
@@ -71,8 +71,8 @@
       "spanish": "Mejora tu experiencia"
     },
     "invalid-url": {
+      "dutch": "Ongeldige omleidings-URI",
       "english": "Invalid redirect URI",
-      "french": "URI de redirection non valide",
       "german": "Ungültiger Weiterleitungs-URI",
       "japanese": "リダイレクトURIが無効です",
       "korean": "잘못된 리디렉션 URI",
@@ -81,8 +81,8 @@
       "spanish": "URI de redireccionamiento no válido"
     },
     "learn-more": {
+      "dutch": "Meer informatie",
       "english": "Learn more",
-      "french": "En savoir plus",
       "german": "Mehr erfahren",
       "japanese": "もっと詳しく知る",
       "korean": "더 알아보기",
@@ -91,8 +91,8 @@
       "spanish": "Aprende más"
     },
     "missing-params": {
+      "dutch": "Ontbrekende parameters",
       "english": "Missing params",
-      "french": "Paramètres manquants",
       "german": "Fehlende Parameter",
       "japanese": "欠落しているパラメータ",
       "korean": "누락된 매개변수",
@@ -101,8 +101,8 @@
       "spanish": "Parámetros faltantes"
     },
     "operation-timeout": {
+      "dutch": "De bewerking is verlopen of niet toegestaan",
       "english": "The operation either timed out or was not allowed",
-      "french": "L'opération a expiré ou n'a pas été autorisée",
       "german": "Der Vorgang ist entweder abgelaufen oder nicht zulässig",
       "japanese": "操作がタイムアウトしたか、許可されなかった",
       "korean": "작업 시간이 초과되었거나 허용되지 않았습니다.",
@@ -111,8 +111,8 @@
       "spanish": "La operación agotó el tiempo de espera o no se permitió"
     },
     "register-device": {
+      "dutch": "Wilt u dit apparaat registreren?",
       "english": "Would you like to register this device?",
-      "french": "Voulez-vous enregistrer cet appareil?",
       "german": "Möchten Sie dieses Gerät registrieren?",
       "japanese": "このデバイスを登録しますか？",
       "korean": "이 장치를 등록하시겠습니까?",
@@ -121,8 +121,8 @@
       "spanish": "¿Le gustaría registrar este dispositivo?"
     },
     "registering-device": {
+      "dutch": "Uw apparaat registreren",
       "english": "Registering your device",
-      "french": "Enregistrement de votre appareil",
       "german": "Registrieren Ihres Geräts",
       "japanese": "デバイスの登録",
       "korean": "장치 등록",
@@ -131,8 +131,8 @@
       "spanish": "Registro de su dispositivo"
     },
     "required-params-note": {
+      "dutch": "Eén of meer van de volgende verplichte parameters ontbreken",
       "english": "One or more of the following required parameters is missing",
-      "french": "Un ou plusieurs des paramètres requis suivants sont manquants",
       "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen",
       "japanese": "次の必須パラメーターの1つ以上が欠落しています",
       "korean": "다음 필수 매개변수 중 하나 이상이 누락되었습니다.",
@@ -141,18 +141,18 @@
       "spanish": "Falta uno o más de los siguientes parámetros obligatorios"
     },
     "sign-in": {
+      "dutch": "Inloggen via Touch ID / Face ID?",
       "english": "Sign in via Touch ID / Face ID?",
-      "french": "Se connecter via Touch ID / Face ID?",
       "german": "Über Touch ID / Face ID anmelden?",
-      "japanese": "Touch ID / Face IDでサインインしますか ?",
+      "japanese": "Touch ID / Face IDでサインインしますか？",
       "korean": "Touch ID/Face ID로 로그인하시겠습니까?",
       "mandarin": "通过 Touch ID / Face ID 登录？",
       "portuguese": "Entrar via Touch ID / Face ID?",
       "spanish": "¿Iniciar sesión a través de Touch ID / Face ID?"
     },
     "something-wrong-note": {
+      "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
-      "french": "Quelque chose s'est mal passé",
       "german": "Etwas ist schief gelaufen",
       "japanese": "何かがうまくいかなかった",
       "korean": "문제가 발생했습니다.",
@@ -161,8 +161,8 @@
       "spanish": "Algo salió mal"
     },
     "status-done": {
+      "dutch": "Voltooid",
       "english": "Done",
-      "french": "Terminé",
       "german": "Erledigt",
       "japanese": "終わり",
       "korean": "완료",
@@ -171,8 +171,8 @@
       "spanish": "Hecho"
     },
     "status-loading": {
+      "dutch": "Laden",
       "english": "Loading",
-      "french": "Chargement",
       "german": "Wird geladen",
       "japanese": "読み込み中",
       "korean": "로딩 중",
@@ -181,8 +181,8 @@
       "spanish": "Cargando"
     },
     "status-registered": {
+      "dutch": "Apparaat geregistreerd",
       "english": "Device registered",
-      "french": "Appareil enregistré",
       "german": "Gerät registriert",
       "japanese": "登録済みのデバイス",
       "korean": "등록된 기기",
@@ -191,8 +191,8 @@
       "spanish": "Dispositivo registrado"
     },
     "user-denied": {
+      "dutch": "Gebruiker heeft autorisatie geweigerd",
       "english": "User has denied authorization",
-      "french": "L'utilisateur a refusé l'autorisation",
       "german": "Benutzer hat die Autorisierung verweigert",
       "japanese": "ユーザーが承認を拒否しました",
       "korean": "사용자가 승인을 거부했습니다.",
@@ -201,8 +201,8 @@
       "spanish": "El usuario ha denegado la autorización"
     },
     "webauthn-not-supported": {
+      "dutch": "Webauthn wordt niet ondersteund op dit apparaat",
       "english": "Webauthn is not supported on this device",
-      "french": "Webauthn n'est pas pris en charge sur cet appareil",
       "german": "Webauthn wird auf diesem Gerät nicht unterstützt",
       "japanese": "このデバイスではWeb認証はサポートされていません",
       "korean": "Webauthn은 이 기기에서 지원되지 않습니다.",
