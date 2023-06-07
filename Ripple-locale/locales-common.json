@@ -351,21 +351,21 @@
       "spanish": "Tema actualizado"
     },
     "snackSuccessTokenAdd": {
-      "english": "Successfully token added",
-      "german": "Erfolgreich Token fügte hinzu",
-      "japanese": "トークンを正常に追加しました",
-      "korean": "성공적으로 토큰이 추가되었습니다",
-      "mandarin": "成功添加了象征性",
-      "portuguese": "Token com sucesso adicionado",
-      "spanish": "Token con éxito agregado"
+      "english": "Token added successfully",
+      "german": "Token erfolgreich hinzugefügt.",
+      "japanese": "Tokenは成功裏に追加されました",
+      "korean": "Token이 성공적으로 추가되었습니다",
+      "mandarin": "Token成功添加",
+      "portuguese": "Token adicionado com sucesso",
+      "spanish": "Token añadido con éxito"
     },
     "snackSuccessTokenRemove": {
-      "english": "Successfully deleted token",
-      "german": "Erfolgreich gelöschtes Token",
-      "japanese": "正常に削除されたトークン",
-      "korean": "토큰을 성공적으로 삭제했습니다",
-      "mandarin": "成功删除了令牌",
-      "portuguese": "Excluído com sucesso",
+      "english": "Token deleted successfully",
+      "german": "Token erfolgreich gelöscht",
+      "japanese": "Tokenは成功裏に削除されました",
+      "korean": "Token이 성공적으로 삭제되었습니다",
+      "mandarin": "Token成功删除",
+      "portuguese": "Token excluído com sucesso",
       "spanish": "Token eliminado con éxito"
     }
   }
