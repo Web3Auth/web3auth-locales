@@ -160,6 +160,22 @@
       "korean": "위장",
       "mandarin": "台阶",
       "spanish": "Topups"
+    },
+    "noTrustLineSetupTitle": {
+      "english": "Unable to send the token to the recipient",
+      "german": "Token konnte nicht an den Empfänger gesendet werden",
+      "japanese": "受信者にTokenを送信できません",
+      "korean": "수신자에게 Token을 보낼 수 없습니다",
+      "mandarin": "无法将Token发送给收件人",
+      "spanish": "No se puede enviar el Token al destinatario"
+    },
+    "noTrustLineSetupDescription": {
+      "english": "The recipient does not have a TrustLine for this token setup to the issuer of this token",
+      "german": "Der Empfänger hat keine TrustLine für dieses Token zur Ausgabe dieses Tokens eingerichtet",
+      "japanese": "受信者は、このTokenの発行者に対してこのTokenのTrustLineを設定していません",
+      "korean": "수신자는 이 Token에 대한 TrustLine이 이 Token의 발행자에게 설정되어 있지 않습니다",
+      "mandarin": "收件人未对此Token设置向此Token发行者的TrustLine",
+      "spanish": "El destinatario no tiene una TrustLine configurada para este Token con el emisor de este Token"
     }
   }
 }
