@@ -1317,7 +1317,7 @@
       "japanese": "電話番号を編集します",
       "korean": "전화 번호 편집",
       "mandarin": "编辑电话号码",
-      "portugese": "Edite o número de telefone",
+      "portuguese": "Edite o número de telefone",
       "spanish": "Editar número de teléfono"
     },
     "external-wallet": {
@@ -1367,7 +1367,7 @@
       "japanese": "無効な電話番号",
       "korean": "유효하지 않은 전화 번호",
       "mandarin": "无效的电话号码",
-      "portugese": "Número de telefone inválido",
+      "portuguese": "Número de telefone inválido",
       "spanish": "Numero de telefono invalido"
     },
     "login-page-desc": {
@@ -1597,7 +1597,7 @@
       "japanese": "OTPの有効期限が切れました",
       "korean": "OTP가 만료되었습니다",
       "mandarin": "OTP过期",
-      "portugese": "OTP expirou",
+      "portuguese": "OTP expirou",
       "spanish": "OTP expiró"
     },
     "otp-verification-response-invalid": {
@@ -1607,7 +1607,7 @@
       "japanese": "無効なOTP",
       "korean": "잘못된 OTP",
       "mandarin": "无效的OTP",
-      "portugese": "OTP inválido",
+      "portuguese": "OTP inválido",
       "spanish": "OTP no válido"
     },
     "otp-verification-response-success": {
@@ -1617,7 +1617,7 @@
       "japanese": "OTP検証",
       "korean": "OTP가 확인되었습니다",
       "mandarin": "已验证OTP",
-      "portugese": "OTP Verificado",
+      "portuguese": "OTP Verificado",
       "spanish": "OTP verificado"
     },
     "pageReloadWarning": {
@@ -2377,7 +2377,7 @@
       "japanese": "再送信コード",
       "korean": "코드를 재현하십시오",
       "mandarin": "重新发送验证码",
-      "portugese": "Reenviar código",
+      "portuguese": "Reenviar código",
       "spanish": "Reenviar codigo"
     },
     "resend-otp-code": {
@@ -2387,7 +2387,7 @@
       "japanese": "コードを再送信します {time}",
       "korean": "코드를 재현하십시오 {time}",
       "mandarin": "重新发送代码 {time}",
-      "portugese": "Reduzir o código em {time}",
+      "portuguese": "Reduzir o código em {time}",
       "spanish": "Reenviar código en {time}"
     },
     "returning-confirm-btn": {
@@ -2777,7 +2777,7 @@
       "japanese": "電話を続けます",
       "korean": "전화로 계속하십시오",
       "mandarin": "继续电话",
-      "portugese": "Continue com o telefone",
+      "portuguese": "Continue com o telefone",
       "spanish": "Continuar con el teléfono"
     },
     "verifier-sms-desc-2": {
@@ -2787,7 +2787,7 @@
       "japanese": "モバイルを続けます",
       "korean": "모바일을 계속하십시오",
       "mandarin": "继续移动",
-      "portugese": "Continue com o celular",
+      "portuguese": "Continue com o celular",
       "spanish": "Continuar con Mobile"
     },
     "verifier-sms-placeholder": {
@@ -2817,7 +2817,7 @@
       "japanese": "送信されるOTP-Codeを入力します {number}",
       "korean": "전송 된 OTP 코드를 입력하십시오 {number}",
       "mandarin": "输入发送到发送到的OTP代码 {number}",
-      "portugese": "Digite o código OTP enviado para {number}",
+      "portuguese": "Digite o código OTP enviado para {number}",
       "spanish": "Ingrese el código OTP enviado a {number}"
     },
     "verify-otp-heading-1": {
@@ -2827,7 +2827,7 @@
       "japanese": "OTPが送信されました {number}",
       "korean": "OTP가 전송되었습니다 {number}",
       "mandarin": "OTP已发送到 {number}",
-      "portugese": "Um OTP foi enviado para {number}",
+      "portuguese": "Um OTP foi enviado para {number}",
       "spanish": "Se ha enviado un OTP a {number}"
     },
     "verify-otp-heading-2": {
@@ -2837,7 +2837,7 @@
       "japanese": "続行するにはOTPを入力します",
       "korean": "계속하려면 OTP를 입력하십시오",
       "mandarin": "输入OTP继续",
-      "portugese": "Digite o OTP para continuar",
+      "portuguese": "Digite o OTP para continuar",
       "spanish": "Ingrese OTP para continuar"
     },
     "verify-otp-title-popup": {
@@ -2847,7 +2847,7 @@
       "japanese": "OTP検証",
       "korean": "OTP 검증",
       "mandarin": "OTP验证",
-      "portugese": "Verificação de OTP",
+      "portuguese": "Verificação de OTP",
       "spanish": "Verificación OTP"
     },
     "verify-otp-title-redirect": {
@@ -2857,7 +2857,7 @@
       "japanese": "OTPを入力してください",
       "korean": "OTP를 입력하십시오",
       "mandarin": "输入您的OTP",
-      "portugese": "Digite seu OTP",
+      "portuguese": "Digite seu OTP",
       "spanish": "Ingrese su OTP"
     },
     "verify-with-password-factor-desc": {
