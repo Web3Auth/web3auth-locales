@@ -229,9 +229,9 @@
         "continue": {
             "english": "Continue with {verifier}",
             "german": "Weiter mit {Verifier}",
-            "japanese": "{verifier}に進みます",
-            "korean": "{verifier} 계속",
-            "mandarin": "继续{verifier}",
+            "japanese": "に進みます {verifier}",
+            "korean": "계속 {verifier}",
+            "mandarin": "继续 {verifier}",
             "spanish": "Continuar con {verifier}"
         },
         "continueWith": {

@@ -146,18 +146,18 @@
 		},
 		"continue": {
 			"english": "Continue with {verifier}",
-			"german": "Weitermachen mit",
-			"japanese": "を続行",
-			"korean": "계속",
-			"mandarin": "继续",
-			"spanish": "Continua con"
+			"german": "Weiter mit {verifier}",
+			"japanese": "を続行します {verifier}",
+			"korean": "계속 {verifier}",
+			"mandarin": "继续使用 {verifier}",
+			"spanish": "Continuar con {verifier}"
 		},
 		"continueWith": {
 			"english": "Continue with existing {verifier}",
 			"german": "Weiter mit vorhandenem {verifier}",
-			"japanese": "既存の{verifier}を続行します",
+			"japanese": "既存の {verifier} を続行します",
 			"korean": "기존 {verifier} 계속",
-			"mandarin": "继续使用现有的{verifier}",
+			"mandarin": "继续使用现有的 {verifier}",
 			"spanish": "Continuar con {verifier} existente"
 		},
 		"continueWithBiometrics": {

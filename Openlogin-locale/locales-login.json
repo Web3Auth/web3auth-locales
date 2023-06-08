@@ -2424,9 +2424,9 @@
       "dutch": "Doorgaan met {0}",
       "english": "Continue with {0}",
       "german": "Weiter mit {0}",
-      "japanese": "{0}に進む",
-      "korean": "{0}로 계속",
-      "mandarin": "继续{0}",
+      "japanese": "を続ける {0}",
+      "korean": "로 계속 {0}",
+      "mandarin": "继续 {0}",
       "portuguese": "Continuar com {0}",
       "spanish": "Continuar con {0}"
     },
