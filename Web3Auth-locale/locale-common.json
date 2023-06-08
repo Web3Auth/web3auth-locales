@@ -352,6 +352,17 @@
       "portuguese": "Continuar com",
       "spanish": "Continuar con"
     },
+    "social.continueCustom": {
+      "dutch": "Doorgaan met {0}",
+      "english": "Continue with {0}",
+      "french": "Continuer avec {0}",
+      "german": "Fahren Sie mit {0} fort",
+      "japanese": "{0}を続けます",
+      "korean": "{0}을 계속하십시오",
+      "mandarin": "继续使用{0}",
+      "portuguese": "Continue com o {0}",
+      "spanish": "Continuar con {0}"
+    },
     "social.email": {
       "dutch": "E-mail",
       "english": "Email",
