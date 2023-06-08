@@ -25,13 +25,13 @@
       "spanish": "DIRECCIÓN"
     },
     "addressAlreadyExistAddContact": {
-      "english": "Entered address already exist",
-      "german": "Die eingegebene Adresse existiert bereits",
-      "japanese": "入力された住所はすでに存在します",
-      "korean": "입력 된 주소가 이미 존재합니다",
-      "mandarin": "输入地址已经存在",
-      "portuguese": "O endereço inserido já existe",
-      "spanish": "La dirección ingresada ya existe"
+      "english": "Contact already exist with same name or value",
+      "mandarin": "联系人已经存在相同的名称或价值",
+      "spanish": "El contacto ya existe con el mismo nombre o valor",
+      "german": "Kontakt existieren bereits mit demselben Namen oder Wert",
+      "japanese": "連絡先はすでに同じ名前または値で存在します",
+      "korean": "연락처는 이미 동일한 이름이나 값으로 존재합니다",
+      "portuguese": "O contato já existe com o mesmo nome ou valor"
     },
     "addressPlaceholder": {
       "english": "Enter {0}",
