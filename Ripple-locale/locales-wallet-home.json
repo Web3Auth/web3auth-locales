@@ -225,7 +225,15 @@
       "korean": "당신은 받았습니다",
       "mandarin": "你收到了",
       "spanish": "Has recibido"
-    }
+    },
+    "topUpNotSupported": {
+			"english": "Top up is not supported on {0}. Change to another network that supports the top up function.",
+			"german": "Das Aufladen wird auf dem {0} nicht unterstützt. Wechseln Sie zu einem anderen Netz, das die Aufladefunktion unterstützt.",
+			"japanese": "{0}では補充はサポートされていません。 トップアップ機能をサポートする別のネットワークに変更してください。",
+			"korean": "충전은 {0}에서 지원되지 않습니다. 탑업 기능을 지원하는 다른 네트워크로 변경하십시오.",
+			"mandarin": "{0} 不支持充值。 换一个支持充值功能的网络。",
+			"spanish": "La recarga no es compatible con {0}. Cambie a otra red que admita la función de recarga."
+		}
   },
   "trustLine": {
     "activeBalance": {
