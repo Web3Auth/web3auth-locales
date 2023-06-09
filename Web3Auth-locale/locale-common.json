@@ -527,6 +527,28 @@
       "mandarin": "查看更多",
       "portuguese": "Ver mais",
       "spanish": "Ver más"
+    },
+    "post-loading.connected": {
+      "dutch": "U bent verbonden met uw account",
+      "english": "You are connected with your account",
+      "french": "Vous êtes connecté avec votre compte",
+      "german": "Sie sind mit Ihrem Konto verbunden",
+      "japanese": "アカウントに接続されています",
+      "korean": "귀하는 귀하의 계정과 연결되어 있습니다",
+      "mandarin": "您与您的帐户有联系",
+      "portuguese": "Você está conectado com sua conta",
+      "spanish": "Estás conectado con tu cuenta"
+    },
+    "post-loading.something-wrong": {
+      "dutch": "Er is iets fout gegaan!",
+      "english": "Something went wrong!",
+      "french": "Quelque chose s'est mal passé!",
+      "german": "Etwas ist schief gelaufen!",
+      "japanese": "何かがうまくいかなかった！",
+      "korean": "뭔가 잘못되었습니다!",
+      "mandarin": "出了些问题！",
+      "portuguese": "Algo deu errado!",
+      "spanish": "¡Algo salió mal!"
     }
   }
 }
