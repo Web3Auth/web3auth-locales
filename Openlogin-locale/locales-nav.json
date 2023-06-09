@@ -3,6 +3,7 @@
     "close-btn": {
       "dutch": "sluiten",
       "english": "close",
+      "french": "fermer",
       "german": "schließen",
       "japanese": "近い",
       "korean": "닫다",
@@ -13,6 +14,7 @@
     "drawer": {
       "dutch": "Hoofdnavigatie",
       "english": "Main Navigation",
+      "french": "Navigation principale",
       "german": "Hauptnavigation",
       "japanese": "メインナビゲーション",
       "korean": "메인 탐색",
@@ -23,6 +25,7 @@
     "lang-select": {
       "dutch": "Taalkeuze",
       "english": "language selector",
+      "french": "sélecteur de langue",
       "german": "Sprachauswahl",
       "japanese": "言語セレクター",
       "korean": "언어 선택기",
@@ -33,6 +36,7 @@
     "link-account": {
       "dutch": "Account",
       "english": "Account",
+      "french": "Compte",
       "german": "Konto",
       "japanese": "アカウント",
       "korean": "계정",
@@ -43,6 +47,7 @@
     "link-apps": {
       "dutch": "Geautoriseerde apps",
       "english": "Authorized Apps",
+      "french": "Applications autorisées",
       "german": "Autorisierte Apps",
       "japanese": "認定アプリ",
       "korean": "승인 된 앱",
@@ -53,6 +58,7 @@
     "link-home": {
       "dutch": "Startpagina",
       "english": "Home",
+      "french": "Accueil",
       "german": "Startseite",
       "japanese": "ホームページ",
       "korean": "홈페이지",
@@ -63,6 +69,7 @@
     "link-logout": {
       "dutch": "Uitloggen",
       "english": "Logout",
+      "french": "Se déconnecter",
       "german": "Ausloggen",
       "japanese": "ログアウト",
       "korean": "로그 아웃",
@@ -73,6 +80,7 @@
     "link-support": {
       "dutch": "Ondersteuning",
       "english": "Support",
+      "french": "Soutien",
       "german": "Unterstützung",
       "japanese": "サポート",
       "korean": "지원하다",
@@ -83,6 +91,7 @@
     "list-bottom": {
       "dutch": "Hoofdnavigatie onderaan",
       "english": "Main Navigation bottom",
+      "french": "Navigation principale en bas",
       "german": "Hauptnavigation unten",
       "japanese": "メインナビゲーションボトム",
       "korean": "메인 탐색 바닥",
@@ -93,6 +102,7 @@
     "logo": {
       "dutch": "Logo",
       "english": "logo",
+      "french": "logo",
       "german": "Logo",
       "japanese": "ロゴ",
       "korean": "심벌 마크",
@@ -103,6 +113,7 @@
     "toggle-btn": {
       "dutch": "Navigatiebalk schakelen",
       "english": "Navigation Bar toggle",
+      "french": "Barre de navigation basculante",
       "german": "Navigationsstabschaltung",
       "japanese": "ナビゲーションバーの切り替え",
       "korean": "내비게이션 바 전환",
@@ -113,6 +124,7 @@
     "user-info": {
       "dutch": "Gebruikersinformatie",
       "english": "User information",
+      "french": "Informations sur l'utilisateur",
       "german": "Nutzerinformation",
       "japanese": "ユーザー情報",
       "korean": "사용자 정보",
