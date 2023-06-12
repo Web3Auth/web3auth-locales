@@ -57,7 +57,8 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 
 # Web3Auth Modal Screens
 
-![Web3Auth Modal Screens](https://user-images.githubusercontent.com/6962565/208136898-64281543-f907-4696-ad98-d6f4e03decb6.png)
+![whitelable-modal-languages](https://github.com/Web3Auth/web3auth-locales/assets/6962565/7d5034b8-4268-4d87-87cd-24fc867a5acb)
+
 
 # OpenLogin User Flow Screens
 
