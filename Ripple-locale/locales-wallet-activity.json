@@ -1,12 +1,12 @@
 {
   "walletActivity": {
     "createdTrustLine": {
-      "english": "Created Trust Line",
-      "german": "Erstellt Trust Line",
-      "japanese": "作成されたTrust Line",
-      "korean": "Trust Line를 만들었습니다",
-      "mandarin": "创建的Trust Line",
-      "spanish": "Creado Trust Line"
+      "english": "Added {0}",
+      "german": "Hinzugefügt {0}",
+      "japanese": "追加{0}",
+      "korean": "추가 된 {0}",
+      "mandarin": "添加{0}",
+      "spanish": "Añadido {0}"
     },
     "date1Month": {
       "english": "Last 1 month",
@@ -73,12 +73,12 @@
       "spanish": "Recibido {0}"
     },
     "removedTrustLine": {
-      "english": "Removed Trust Line",
-      "german": "Trust Line entfernt",
-      "japanese": "Trust Lineを削除しました",
-      "korean": "Trust Line를 제거했습니다",
-      "mandarin": "删除了Trust Line",
-      "spanish": "Eliminado Trust Line"
+      "english": "Removed {0}",
+      "german": "Entfernt {0}",
+      "japanese": "削除{0}",
+      "korean": "제거 된 {0}",
+      "mandarin": "删除{0}",
+      "spanish": "Eliminado {0}"
     },
     "sentToken": {
       "english": "Sent {0}",
