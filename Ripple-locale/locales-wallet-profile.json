@@ -15,22 +15,6 @@
             "korean": "사용자 이름",
             "mandarin": "用户名",
             "spanish": "Nombre del usuario"
-        },
-        "switchAccountSuccess": {
-            "english": "Switch account successfully",
-            "german": "Konto erfolgreich wechseln",
-            "japanese": "アカウントの切り替えに成功しました",
-            "korean": "계정 전환 성공",
-            "mandarin": "成功切换帐户",
-            "spanish": "Cambiar cuenta exitosamente"
-        },
-        "switchAccountFail": {
-            "english": "Switch account failed",
-            "german": "Konto wechseln fehlgeschlagen",
-            "japanese": "アカウントの切り替えに失敗しました",
-            "korean": "계정 전환 실패",
-            "mandarin": "切换帐户失败",
-            "spanish": "Cambio de cuenta fallido"
         }
     }
 }
