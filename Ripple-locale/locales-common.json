@@ -369,12 +369,13 @@
       "spanish": "Token eliminado con éxito"
     },
     "snackSuccessSwitchAccount": {
-      "english": "Switch account successfully",
-      "german": "Konto erfolgreich wechseln",
-      "japanese": "アカウントの切り替えに成功しました",
+      "english": "Switched account successfully",
+      "german": "Konto erfolgreich gewechselt",
+      "japanese": "アカウントが正常に切り替わりました",
       "korean": "계정 전환 성공",
       "mandarin": "成功切换帐户",
-      "spanish": "Cambiar cuenta exitosamente"
+      "portuguese": "Conta trocada com sucesso",
+      "spanish": "Cambio de cuenta exitoso"
     },
     "snackFailSwitchAccount": {
       "english": "Switch account failed",
