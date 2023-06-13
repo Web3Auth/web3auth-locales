@@ -399,12 +399,12 @@
       "spanish": "Recibir {0}"
     },
     "reservedForTrustLine": {
-      "english": "{0} reserved for trust line",
-      "german": "{0} reserviert für die Vertrauenslinie",
-      "japanese": "{0}トラストライン用に予約されています",
-      "korean": "{0} 신탁 라인을 위해 예약되었습니다",
-      "mandarin": "{0}保留用于信任行的",
-      "spanish": "{0} reservado para la línea de confianza"
+      "english": "{0} reserved",
+      "german": "{0} reserviert",
+      "japanese": "{0}予約済み",
+      "korean": "{0} 예약 됨",
+      "mandarin": "{0}保留",
+      "spanish": "{0} reservado"
     },
     "walletBalance": {
       "english": "Wallet balance",
