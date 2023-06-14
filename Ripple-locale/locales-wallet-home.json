@@ -88,13 +88,13 @@
       "mandarin": "传递",
       "spanish": "Transferir"
     },
-    "transferSpeed": {
-      "english": "Transfer speed",
-      "german": "Übertragungsgeschwindigkeit",
-      "japanese": "転送速度",
-      "korean": "전송 속도",
-      "mandarin": "传输速度",
-      "spanish": "Velocidad de transferencia"
+    "transferFee": {
+      "english": "Transfer fee",
+      "german": "Transfergebühr",
+      "japanese": "転送手数料",
+      "korean": "이체 수수료",
+      "mandarin": "转账费",
+      "spanish": "Tarifa de transferencia"
     }
   },
   "topup": {
