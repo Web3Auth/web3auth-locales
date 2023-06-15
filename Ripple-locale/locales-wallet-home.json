@@ -398,13 +398,21 @@
       "mandarin": "接收{0}",
       "spanish": "Recibir {0}"
     },
-    "reservedForTrustLine": {
+    "xrpReservedForTrustLine": {
       "english": "{0} reserved",
       "german": "{0} reserviert",
       "japanese": "{0}予約済み",
       "korean": "{0} 예약 됨",
       "mandarin": "{0}保留",
       "spanish": "{0} reservado"
+    },
+    "xrpValueReservedForTrustLine": {
+      "english": "+{0} worth XRP reserved",
+      "german": "+{0} Wert XRP reserviert",
+      "japanese": "+{0}相当のXRPが予約されました",
+      "korean": "+{0} 가치 XRP 예약",
+      "mandarin": "+{0}价值XRP保留",
+      "spanish": "+{0} valor XRP reservado"
     },
     "walletBalance": {
       "english": "Wallet balance",
