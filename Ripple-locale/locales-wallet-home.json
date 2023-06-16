@@ -233,7 +233,15 @@
 			"korean": "충전은 <strong>{0}</strong>에서 지원되지 않습니다. 탑업 기능을 지원하는 다른 네트워크로 변경하십시오.",
 			"mandarin": "<strong>{0}</strong> 不支持充值。 换一个支持充值功能的网络。",
 			"spanish": "La recarga no es compatible con <strong>{0}</strong>. Cambie a otra red que admita la función de recarga."
-		}
+		},
+    "simplexTopUpServiceFee": {
+      "english": "Includes 5% Simplex service fee or 10 USD (whichever higher)",
+      "german": "Inklusive 5% Simplex-Servicegebühr oder 10 USD (je nachdem, welcher höher ist)",
+      "japanese": "5％のSimplexサービス料または10米ドル（どちらが高いかによって異なります）が含まれています",
+      "korean": "5 %의 Simplex 서비스 수수료 또는 10 USD (높은 쪽)가 포함되어 있습니다.",
+      "mandarin": "包括 5% 的 Simplex 服务费或 10 美元（以较高者为准）",
+      "spanish": "Incluye 5% de tarifa de servicio Simplex o 10 USD (el que sea mayor)"
+    }
   },
   "trustLine": {
     "activeBalance": {
