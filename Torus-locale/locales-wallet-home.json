@@ -380,6 +380,14 @@
 			"mandarin": "在 Web3 应用程序上连接到 Torus 钱包！",
 			"spanish": "¡Conectado a Torus Wallet en la aplicación Web3!"
 		},
+		"connectedToCustom": {
+			"english": "Connected to {wallet} on Web3 App!",
+			"german": "Verbunden mit {wallet} in der Web3-App!",
+			"japanese": "Web3アプリで{wallet}に接続されています！",
+			"korean": "Web3 앱에서 {wallet}에 연결했습니다!",
+			"mandarin": "连接到Web3应用程序上的{wallet}！",
+			"spanish": "¡Conectado a {wallet} en la aplicación Web3!"
+		},
 		"connecting": {
 			"english": "Connecting",
 			"german": "Verbinden",
