@@ -295,6 +295,14 @@
 			"korean": "당신은 보내",
 			"mandarin": "付款",
 			"spanish": "Pagas"
+		},
+		"topupDone": {
+			"english": "If you completed the transaction. It will reflect in your wallet activity page shortly.",
+			"german": "Wenn Sie die Transaktion abgeschlossen haben. Es wird in Kürze auf Ihrer Brieftaschen -Aktivitätsseite widerspiegeln.",
+			"japanese": "トランザクションを完了した場合。まもなくウォレットアクティビティページに反映されます。",
+			"korean": "거래를 완료 한 경우 지갑 활동 페이지에 곧 반영됩니다.",
+			"mandarin": "如果您完成了交易。它将在您的钱包活动页面中反映出来。",
+			"spanish": "Si completó la transacción. Se reflejará en su página de actividad de billetera en breve."
 		}
 	}
 }
