@@ -79,6 +79,22 @@
 			"korean": "Etherscan에서 보기",
 			"mandarin": "在 Etherscan 上查看",
 			"spanish": "Ver en Etherscan"
+		},
+		"confirmSwap": {
+			"english": "Confirm swap",
+			"german": "Swap bestätigen",
+			"japanese": "スワップを確認します",
+			"korean": "스왑 확인",
+			"mandarin": "确认交换",
+			"spanish": "Confirmar intercambio"
+		},
+		"confirmSwapDetail": {
+			"english": "Are you sure you wish to swap {0} {1} for {2} {3}?",
+			"german": "Sind Sie sicher, dass Sie {0} {1} für {2} {3} tauschen möchten?",
+			"japanese": "{2} {3}の{0} {1}を交換したいですか？",
+			"korean": "{0} {1}을 {2} {3}로 바꾸고 싶습니까?",
+			"mandarin": "您确定要将{0} {1}交换为{2} {3}吗？",
+			"spanish": "¿Está seguro de que desea intercambiar {0} {1} para {2} {3}?"
 		}
 	}
 }
