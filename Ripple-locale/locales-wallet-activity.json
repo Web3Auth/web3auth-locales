@@ -178,23 +178,23 @@
       "spanish": "El destinatario no tiene una TrustLine configurada para este Token con el emisor de este Token"
     },
     "createdNftOffer": {
-      "english": "Created NFT offer",
+      "english": "Created NFT Offer",
       "german": "NFT-Angebot erstellt",
       "japanese": "NFTオファーを作成しました",
-      "korean": "NFT 제안서 작성",
+      "korean": "NFT 제안서 생성",
       "mandarin": "创建NFT报价",
       "spanish": "Oferta NFT creada"
     },
     "acceptedNftOffer": {
-      "english": "Accepted NFT offer",
-      "german": "NFT-Angebot angenommen",
+      "english": "Accepted NFT Offer",
+      "german": "NFT-Angebot akzeptiert",
       "japanese": "NFTオファーを受け入れました",
       "korean": "NFT 제안서 수락",
       "mandarin": "接受NFT报价",
       "spanish": "Oferta NFT aceptada"
     },
     "cancelledNftOffer": {
-      "english": "Cancelled NFT offer",
+      "english": "Cancelled NFT Offer",
       "german": "NFT-Angebot storniert",
       "japanese": "NFTオファーをキャンセルしました",
       "korean": "NFT 제안서 취소",
