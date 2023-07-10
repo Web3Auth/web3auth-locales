@@ -241,6 +241,14 @@
       "korean": "5 %의 Simplex 서비스 수수료 또는 10 USD (높은 쪽)가 포함되어 있습니다.",
       "mandarin": "包括 5% 的 Simplex 服务费或 10 美元（以较高者为准）",
       "spanish": "Incluye 5% de tarifa de servicio Simplex o 10 USD (el que sea mayor)"
+    },
+    "topperTopUpServiceFee": {
+      "english": "Includes 2.9% Topper service fee plus network fees",
+      "german": "Inklusive 2,9% Topper-Servicegebühr plus Netzwerkgebühren",
+      "japanese": "2.9％のTopperサービス料とネットワーク料金が含まれています",
+      "korean": "2.9 %의 Topper 서비스 수수료 및 네트워크 수수료가 포함되어 있습니다.",
+      "mandarin": "包括 2.9% 的 Topper 服务费加上网络费用",
+      "spanish": "Incluye 2.9% de tarifa de servicio Topper más tarifas de red"
     }
   },
   "trustLine": {
