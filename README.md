@@ -7,10 +7,10 @@ Welcome to the Web3Auth L10n, an open-source localization project! This project 
 
 | Contribute                                | See Implementation                                                                   | Languages Supported                            |
 | ----------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt`, `nl` |
-| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt`, `nl` |
-| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
-| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/pnp/features/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt`, `nl` |
+| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/pnp/features/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt`, `nl` |
+| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/pnp/features/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/pnp/features/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
 | [Casper Wallet Screens](./Casper-locale/) | [Casper Wallet Screens](https://casper.tor.us/)                                      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
 ## Features
 
