@@ -1,0 +1,202 @@
+{
+  "whitelabel": {
+    "login-sign-in": {
+      "english": "Sign in",
+      "german": "anmelden",
+      "japanese": "ログイン",
+      "korean": "로그인",
+      "mandarin": "登入",
+      "spanish": "Iniciar sesión",
+      "portuguese": "Entrar",
+      "dutch": "Aanmelden",
+      "french": "S'identifier"
+    },
+    "login-app-name": {
+      "english": "Your {0} wallet in one-click",
+      "german": "Ihre {0} Brieftasche in einem Klick",
+      "japanese": "ワンクリックの{0}ウォレット",
+      "korean": "{0} 지갑을 한 번 클릭 한 지갑",
+      "mandarin": "您的{0}钱包一键",
+      "spanish": "Tu billetera {0} en un solo clic",
+      "portuguese": "Sua carteira {0} em um clique",
+      "dutch": "Uw {0} portemonnee in één klik",
+      "french": "Votre portefeuille {0} en un clic"
+    },
+    "login-view-more": {
+      "english": "View More",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "spanish": "Ver más",
+      "portuguese": "Veja mais",
+      "dutch": "Bekijk meer",
+      "french": "Voir plus"
+    },
+    "login-view-less": {
+      "english": "View Less",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "spanish": "Ver menos",
+      "portuguese": "Ver menos",
+      "dutch": "Bekijk minder",
+      "french": "Voir moins"
+    },
+    "login-notes": {
+      "english": "We do not store any data related to your social logins",
+      "german": "Wir speichern keine Daten zu Ihren sozialen Anmeldungen",
+      "japanese": "私たちはあなたのソーシャルログインに関連するデータを保存しません",
+      "korean": "소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录有关的任何数据",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales",
+      "portuguese": "Não armazenamos nenhum dado relacionado aos seus logins sociais",
+      "dutch": "We slaan geen gegevens op met betrekking tot uw sociale aanmeldingen",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales"
+    },
+    "login-continue-with-mail": {
+      "english": "Continue With Email",
+      "german": "Fahren Sie mit E -Mail fort",
+      "japanese": "電子メールを続けてください",
+      "korean": "이메일을 계속하십시오",
+      "mandarin": "继续电子邮件",
+      "spanish": "Continuar con el correo electrónico",
+      "portuguese": "Continue com e -mail",
+      "dutch": "Ga door met e -mail",
+      "french": "Continuez avec le courrier électronique"
+    },
+    "login-email": {
+      "english": "Email",
+      "german": "Email",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "spanish": "Correo electrónico",
+      "portuguese": "E-mail",
+      "dutch": "E -mail",
+      "french": "E-mail"
+    },
+    "login-footer-heading": {
+      "english": "Self-custodial login by Web3Auth",
+      "german": "Selbstversorgungsodiale Login von Web3Auth",
+      "japanese": "Web3Authによる自立ログイン",
+      "korean": "web3auth에 의한 자체 치료법 로그인",
+      "mandarin": "web3auth的自我监测登录",
+      "spanish": "Inicio de sesión de autocustodial por Web3Auth",
+      "portuguese": "Login auto-sustentado por web3auth",
+      "dutch": "Zelfkustodiale login per web3auth",
+      "french": "Connexion auto-curisée par web3Auth"
+    },
+    "login-terms-of-service": {
+      "english": "Terms of Service",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "서비스 약관",
+      "mandarin": "服务条款",
+      "spanish": "Términos de servicio",
+      "portuguese": "Termos de serviço",
+      "dutch": "Servicevoorwaarden",
+      "french": "Conditions d'utilisation"
+    },
+    "login-privacy-policy": {
+      "english": "Privacy Policy",
+      "german": "Datenschutz-Bestimmungen",
+      "japanese": "プライバシーポリシー",
+      "korean": "개인 정보 정책",
+      "mandarin": "隐私政策",
+      "spanish": "política de privacidad",
+      "portuguese": "política de Privacidade",
+      "dutch": "Privacybeleid",
+      "french": "politique de confidentialité"
+    },
+    "loader-text": {
+      "english": "Detecting your device ...",
+      "german": "Erkennen Sie Ihr Gerät ...",
+      "japanese": "デバイスの検出...",
+      "korean": "장치 감지 ...",
+      "mandarin": "检测您的设备...",
+      "spanish": "Detección de su dispositivo ...",
+      "portuguese": "Detectando seu dispositivo ...",
+      "dutch": "Uw apparaat detecteren ...",
+      "french": "Détecter votre appareil ..."
+    },
+    "verification-heading": {
+      "english": "Email Verification",
+      "german": "E-Mail-Verifizierung",
+      "japanese": "電子メールの確認",
+      "korean": "이메일 확인",
+      "mandarin": "电子邮件验证",
+      "spanish": "verificacion de email",
+      "portuguese": "verificação de e-mail",
+      "dutch": "email verificatie",
+      "french": "vérification de l'E-mail"
+    },
+    "verification-subheading-1": {
+      "english": "An email has been sent to",
+      "german": "Eine email wurde gesendet an",
+      "japanese": "メールが送信されました",
+      "korean": "이메일이 전송되었습니다",
+      "mandarin": "一封电子邮件已经发送至",
+      "spanish": "Se ha enviado un correo electrónico a",
+      "portuguese": "Um e-mail foi enviado para",
+      "dutch": "Er is een e -mail verzonden naar",
+      "french": "Un courriel a été envoyé à"
+    },
+    "verification-subheading-2": {
+      "english": "Please verify your email to continue",
+      "german": "Bitte überprüfen Sie Ihre E -Mail, um fortzufahren",
+      "japanese": "継続するには、メールを確認してください",
+      "korean": "계속해서 이메일을 확인하십시오",
+      "mandarin": "请验证您的电子邮件继续",
+      "spanish": "Verifique su correo electrónico para continuar",
+      "portuguese": "Verifique seu e -mail para continuar",
+      "dutch": "Controleer uw e -mail om door te gaan",
+      "french": "Veuillez vérifier votre e-mail pour continuer"
+    },
+    "verificacion-no-email": {
+      "english": "Did not get email?",
+      "german": "Habe keine E -Mail bekommen?",
+      "japanese": "メールを受け取りませんでしたか？",
+      "korean": "이메일을받지 못했습니까?",
+      "mandarin": "没有收到电子邮件？",
+      "spanish": "¿No recibió correo electrónico?",
+      "portuguese": "Não recebeu e -mail?",
+      "dutch": "Heb je geen e -mail gekregen?",
+      "french": "N'as pas reçu de courrier électronique?"
+    },
+    "verification-resend-mail": {
+      "english": "Resend email",
+      "german": "E-Mail zurücksenden",
+      "japanese": "メールを再送",
+      "korean": "이메일을 재현하십시오",
+      "mandarin": "重发电子邮件",
+      "spanish": "Reenviar email",
+      "portuguese": "Reenviar email",
+      "dutch": "Email opnieuw verzenden",
+      "french": "Ré-envoyer l'email"
+    },
+    "email-subheading": {
+      "english": "Click the button below to log in securely. This verification link will expire in 5 minutes",
+      "german": "Klicken Sie auf die Schaltfläche unten, um sich sicher anzumelden. Dieser Überprüfungsverbindung läuft in 5 Minuten ab",
+      "japanese": "下のボタンをクリックして、安全にログインします。この検証リンクは5分で期限切れになります",
+      "korean": "아래 버튼을 클릭하여 안전하게 로그인하십시오. 이 확인 링크는 5 분 안에 만료됩니다",
+      "mandarin": "单击下面的按钮以牢固登录。此验证链接将在5分钟内到期",
+      "spanish": "Haga clic en el botón de abajo para iniciar sesión de forma segura. Este enlace de verificación caducará en 5 minutos",
+      "portuguese": "Clique no botão abaixo para fazer login com segurança. Este link de verificação expirará em 5 minutos",
+      "dutch": "Klik op de onderstaande knop om veilig in te loggen. Deze verificatielink loopt binnen 5 minuten af",
+      "french": "Cliquez sur le bouton ci-dessous pour vous connecter en toute sécurité. Ce lien de vérification expirera en 5 minutes"
+    },
+    "email-footer": {
+      "english": "© 2022 Web3Auth. All Rights Reserved.",
+      "german": "© 2022 Web3Auth. Alle Rechte vorbehalten.",
+      "japanese": "©2022 web3auth。全著作権所有。",
+      "korean": "© 2022 Web3auth. 판권 소유.",
+      "mandarin": "©2022 Web3Auth。版权所有。",
+      "spanish": "© 2022 Web3Auth. Reservados todos los derechos.",
+      "portuguese": "© 2022 Web3auth. Todos os direitos reservados.",
+      "dutch": "© 2022 Web3Auth. Alle rechten voorbehouden.",
+      "french": "© 2022 Web3Auth. Tous les droits sont réservés."
+    }
+  }
+}
