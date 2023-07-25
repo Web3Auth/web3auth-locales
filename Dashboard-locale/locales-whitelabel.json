@@ -187,6 +187,17 @@
       "dutch": "Klik op de onderstaande knop om veilig in te loggen. Deze verificatielink loopt binnen 5 minuten af",
       "french": "Cliquez sur le bouton ci-dessous pour vous connecter en toute sécurité. Ce lien de vérification expirera en 5 minutes"
     },
+    "email-verify-button": {
+      "english": "Verify my email",
+      "german": "Überprüfen Sie meine E -Mail",
+      "japanese": "メールを確認してください",
+      "korean": "내 이메일을 확인하십시오",
+      "mandarin": "验证我的电子邮件",
+      "spanish": "Verificar mi correo electrónico",
+      "portuguese": "Verifique meu e -mail",
+      "dutch": "Controleer mijn e -mail",
+      "french": "Vérifiez mon e-mail"
+    },
     "email-footer": {
       "english": "© 2022 Web3Auth. All Rights Reserved.",
       "german": "© 2022 Web3Auth. Alle Rechte vorbehalten.",
