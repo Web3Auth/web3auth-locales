@@ -459,6 +459,126 @@
 			"korean": "가이드 보기",
 			"mandarin": "查看指南",
 			"spanish": "Ver guía"
+		},
+		"useWalletConnect": {
+			"english": "Use WalletConnect",
+			"german": "Verwenden Sie Walletconnect",
+			"japanese": "WalletConnectを使用します",
+			"korean": "WalletConnect를 사용하십시오",
+			"mandarin": "使用WalletConnect",
+			"spanish": "Use WalletConnect"
+		},
+		"requestApproved": {
+			"english": "Request approved!",
+			"german": "Anfrage genehmigt!",
+			"japanese": "承認されたリクエスト！",
+			"korean": "승인 요청!",
+			"mandarin": "要求批准！",
+			"spanish": "¡Petición aprobada!"
+		},
+		"youAreConnected": {
+			"english": "You are now connected!",
+			"german": "Sie sind jetzt verbunden!",
+			"japanese": "あなたは今つながっています！",
+			"korean": "당신은 이제 연결되어 있습니다!",
+			"mandarin": "您现在已经连接了！",
+			"spanish": "¡Ahora estás conectado!"
+		},
+		"successfulConnect": {
+			"english": "Successfully connected!",
+			"german": "Erfolgreich verbunden!",
+			"japanese": "正常に接続！",
+			"korean": "성공적으로 연결되었습니다!",
+			"mandarin": "成功连接！",
+			"spanish": "¡Conectado con éxito!"
+		},
+		"connectWallet": {
+			"english": "Connect your Wallet",
+			"german": "Schließen Sie Ihre Brieftasche an",
+			"japanese": "ウォレットを接続します",
+			"korean": "지갑을 연결하십시오",
+			"mandarin": "连接钱包",
+			"spanish": "Conecte su billetera"
+		},
+		"youAllSet": {
+			"english": "You are all set",
+			"german": "Sie sind alle eingestellt",
+			"japanese": "準備万端です",
+			"korean": "당신 준비 다 됐어요",
+			"mandarin": "你们都设定",
+			"spanish": "Estas listo"
+		},
+		"keepWalletOpen": {
+			"english": "Keep this wallet open to approve a signature request from {0} later",
+			"german": "Halten Sie diese Brieftasche offen, um eine Signaturanforderung von {0} später zu genehmigen",
+			"japanese": "このウォレットを開いて、{0}からの署名要求を後で承認します",
+			"korean": "{0} 나중에 서명 요청을 승인하기 위해이 지갑을 열어 두십시오.",
+			"mandarin": "让此钱包打开以批准{0}的签名请求",
+			"spanish": "Mantenga esta billetera abierta para aprobar una solicitud de firma de {0} más tarde"
+		},
+		"takeMeToDapp": {
+			"english": "Take me to {0}",
+			"german": "Bring mich zu {0}",
+			"japanese": "{0}に連れて行ってください",
+			"korean": "{0}로 데려다주세요",
+			"mandarin": "带我去{0}",
+			"spanish": "Llévame a {0}"
+		},
+		"step": {
+			"english": "STEP {0}",
+			"german": "Schritt {0}",
+			"japanese": "ステップ{0}",
+			"korean": "단계 {0}",
+			"mandarin": "步骤{0}",
+			"spanish": "Paso {0}"
+		},
+		"step1Message": {
+			"english": "Go to Application that has WalletConnect",
+			"german": "Gehen Sie zur Anwendung mit Walletconnect",
+			"japanese": "walletConnectのあるアプリケーションに移動します",
+			"korean": "WalletConnect가있는 응용 프로그램으로 이동하십시오",
+			"mandarin": "转到具有WalletConnect的应用程序",
+			"spanish": "Vaya a la aplicación que tiene WalletConnect"
+		},
+		"step2Message": {
+			"english": "Select WalletConnect",
+			"german": "Wählen Sie Walletconnect",
+			"japanese": "WalletConnectを選択します",
+			"korean": "WalletConnect를 선택하십시오",
+			"mandarin": "选择WalletConnect",
+			"spanish": "Seleccionar WalletConnect"
+		},
+		"step3Message": {
+			"english": "Click \"Copy to Clipboard\"",
+			"german": "Klicken Sie auf \"In die Zwischenablage kopieren\"",
+			"japanese": "「クリップボードにコピー」をクリックします",
+			"korean": "\"클립 보드에 복사\"를 클릭하십시오.",
+			"mandarin": "单击“复制到剪贴板”",
+			"spanish": "Haga clic en \"Copiar al portapapeles\""
+		},
+		"step4Message": {
+			"english": "Paste QR link in the box below. Done!",
+			"german": "Fügen Sie den QR -Link in das Feld unten ein. Erledigt!",
+			"japanese": "下のボックスにQRリンクを貼り付けます。終わり！",
+			"korean": "아래 상자에 QR 링크를 붙여 넣습니다. 완료!",
+			"mandarin": "粘贴QR链接在下面的框中。完毕！",
+			"spanish": "Pegue el enlace QR en el cuadro a continuación. ¡Hecho!"
+		},
+		"qRInputPlaceholder": {
+			"english": "Paste QR link here",
+			"german": "Fügen Sie hier den QR -Link ein",
+			"japanese": "ここにQRリンクを貼り付けます",
+			"korean": "여기에 QR 링크를 붙여 넣으십시오",
+			"mandarin": "粘贴QR链接在这里",
+			"spanish": "Pegar el enlace QR aquí"
+		},
+		"qrScan": {
+			"english": "Scan instead",
+			"german": "Stattdessen scannen",
+			"japanese": "代わりにスキャンします",
+			"korean": "대신 스캔하십시오",
+			"mandarin": "而是扫描",
+			"spanish": "Escanear"
 		}
 	},
 	"walletDiscover": {
