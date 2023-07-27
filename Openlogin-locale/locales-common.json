@@ -1,6 +1,40 @@
 {
   "common": {
+    "advanced-options": {
+      "dutch": "Geavanceerde opties",
+      "english": "Advanced Options",
+      "french": "Options avancées",
+      "german": "Erweiterte Optionen",
+      "japanese": "高度なオプション",
+      "korean": "고급 옵션",
+      "mandarin": "高级选项",
+      "portuguese": "Opções avançadas",
+      "spanish": "Opciones avanzadas"
+    },
+    "back-to-download": {
+      "dutch": "Terug naar download herstel Factor",
+      "english": "Back to download Recovery Factor",
+      "french": "Retour au facteur de récupération de téléchargement",
+      "german": "E-Mail bearbeiten",
+      "japanese": "メールを編集",
+      "korean": "이메일 수정",
+      "mandarin": "编辑电子邮件",
+      "portuguese": "Editar e-mail",
+      "spanish": "Editar correo electrónico"
+    },
+    "backup-phrase-copied": {
+      "dutch": "Herstelzin gekopieerd",
+      "english": "Backup Phrase Copied",
+      "french": "Phrase de sauvegarde copiée",
+      "german": "Sicherungssatz kopiert",
+      "japanese": "バックアップ フレーズがコピーされました",
+      "korean": "백업 문구 복사됨",
+      "mandarin": "备份短语已复制",
+      "portuguese": "Frase de backup copiada",
+      "spanish": "Frase de respaldo copiada"
+    },
     "cancel": {
+      "dutch": "Annuleren",
       "english": "Cancel",
       "german": "Stornieren",
       "japanese": "キャンセル",
@@ -10,6 +44,7 @@
       "spanish": "Cancelar"
     },
     "close": {
+      "dutch": "Sluiten",
       "english": "Close",
       "german": "Schließen",
       "japanese": "閉じる",
@@ -19,6 +54,7 @@
       "spanish": "Cerrar"
     },
     "confirm": {
+      "dutch": "Bevestigen",
       "english": "Confirm",
       "german": "Bestätigen",
       "japanese": "確認",
@@ -28,6 +64,7 @@
       "spanish": "Confirmar"
     },
     "copier-copied": {
+      "dutch": "Gekopieerd!",
       "english": "Copied!",
       "german": "Kopiert!",
       "japanese": "コピーしました！",
@@ -37,6 +74,7 @@
       "spanish": "Copiado!"
     },
     "copier-copy": {
+      "dutch": "Kopiëren naar klembord",
       "english": "Copy to clipboard",
       "german": "In die Zwischenablage kopieren",
       "japanese": "クリップボードにコピー",
@@ -46,6 +84,7 @@
       "spanish": "Copiar al portapapeles"
     },
     "copier-manage-account": {
+      "dutch": "Account beheren",
       "english": "Manage account",
       "german": "Konto verwalten",
       "japanese": "アカウントを管理する",
@@ -55,6 +94,7 @@
       "spanish": "Administrar cuenta"
     },
     "copier-privacy-policy": {
+      "dutch": "Privacybeleid",
       "english": "Privacy policy",
       "german": "Datenschutz-Bestimmungen",
       "japanese": "個人情報保護方針",
@@ -64,6 +104,7 @@
       "spanish": "Política de privacidad"
     },
     "copier-terms-of-use": {
+      "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of use",
       "german": "Nutzungsbedingungen",
       "japanese": "利用規約",
@@ -72,7 +113,74 @@
       "portuguese": "Termos de uso",
       "spanish": "Condiciones de uso"
     },
+    "copy-backup-phrase": {
+      "dutch": "Herstelzin kopiëren",
+      "english": "Copy Backup Phrase",
+      "french": "Copier la phrase de sauvegarde",
+      "german": "Sicherungssatz kopieren",
+      "japanese": "バックアップフレーズをコピー",
+      "korean": "백업 문구 복사",
+      "mandarin": "复制备份短语",
+      "portuguese": "Copiar Frase de Backup",
+      "spanish": "Copiar frase de respaldo"
+    },
+    "copy-paste": {
+      "dutch": "Kopiëren en plakken",
+      "english": "Copy and Paste",
+      "french": "Copier coller",
+      "german": "Kopieren und Einfügen",
+      "japanese": "コピーアンドペースト",
+      "korean": "복사 및 붙여 넣기",
+      "mandarin": "复制和粘贴",
+      "portuguese": "Copiar e colar",
+      "spanish": "Copiar y pegar"
+    },
+    "copy-recovery-phrase": {
+      "dutch": "Herstelzin kopiëren",
+      "english": "Copy Recovery Phrase",
+      "french": "Copier la phrase de récupération",
+      "german": "Wiederherstellungssatz kopieren",
+      "japanese": "リカバリーフレーズをコピー",
+      "korean": "복구 문구 복사",
+      "mandarin": "复制助记词",
+      "portuguese": "Copiar frase de recuperação",
+      "spanish": "Copiar frase de recuperación"
+    },
+    "device": {
+      "dutch": "Apparaat",
+      "english": "Device",
+      "french": "Dispositif",
+      "german": "Gerät",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo",
+      "spanish": "Dispositivo"
+    },
+    "devices": {
+      "dutch": "Apparaten",
+      "english": "Device (s)",
+      "french": "Dispositif (s)",
+      "german": "Geräte",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo (s)",
+      "spanish": "Dispositivo (s)"
+    },
+    "edit-email": {
+      "dutch": "Wijzig email",
+      "english": "Edit email",
+      "french": "Modifier l'e-mail",
+      "german": "E-Mail bearbeiten",
+      "japanese": "メールを編集",
+      "korean": "이메일 수정",
+      "mandarin": "编辑电子邮件",
+      "portuguese": "Editar e-mail",
+      "spanish": "Editar correo electrónico"
+    },
     "errors-incorrect-mnemonic": {
+      "dutch": "Onjuiste gedeelde mnemonische code",
       "english": "Incorrect share mnemonic",
       "german": "Falsche Share-Mnemonik",
       "japanese": "誤った共有ニーモニック",
@@ -82,6 +190,7 @@
       "spanish": "Mnemónico compartido incorrecto"
     },
     "errors-incorrect-password": {
+      "dutch": "Onjuist wachtwoord",
       "english": "Incorrect password",
       "german": "Falsches Passwort",
       "japanese": "パスワードが正しくありません",
@@ -91,6 +200,7 @@
       "spanish": "Contraseña incorrecta"
     },
     "errors-invalid-email": {
+      "dutch": "Ongeldig e-mailadres",
       "english": "Invalid email",
       "german": "Ungültige E-Mail",
       "japanese": "無効なメール",
@@ -100,6 +210,7 @@
       "spanish": "Email inválido"
     },
     "errors-invalid-mnemonic": {
+      "dutch": "Ongeldige mnemonische zin",
       "english": "Invalid mnemonic phrase",
       "german": "Ungültige mnemonische Phrase",
       "japanese": "ニーモニックフレーズが無効です",
@@ -109,6 +220,7 @@
       "spanish": "Frase mnemotécnica no válida"
     },
     "errors-invalid-password": {
+      "dutch": "Moet minimaal 10 tekens bevatten. Minimaal één hoofdletter, één kleine letter, één cijfer",
       "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
       "german": "Muss mindestens 10 Zeichen enthalten. Mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Zahl",
       "japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、1つの数字",
@@ -118,6 +230,7 @@
       "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número"
     },
     "errors-mismatch-password": {
+      "dutch": "Wachtwoord moet overeenkomen",
       "english": "Password must match",
       "german": "Passwort muss übereinstimmen",
       "japanese": "パスワードが一致している必要があります",
@@ -127,6 +240,7 @@
       "spanish": "Contraseña debe coincidir con"
     },
     "errors-required": {
+      "dutch": "Verplicht",
       "english": "Required",
       "german": "Erforderlich",
       "japanese": "必須",
@@ -135,7 +249,74 @@
       "portuguese": "Requerido",
       "spanish": "Requerido"
     },
+    "errors-same-email-verifier": {
+      "dutch": "E-mail kan niet hetzelfde zijn als de sociale login-ID",
+      "english": "Email cannot be the same as the social login id",
+      "french": "L'e-mail ne peut pas être identique à l'ID de connexion sociale",
+      "german": "E -Mail kann nicht mit der sozialen Anmelde -ID übereinstimmen",
+      "japanese": "電子メールはソーシャルログインIDと同じではありません",
+      "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
+      "mandarin": "电子邮件不能与社交登录ID相同",
+      "portuguese": "O email não pode ser o mesmo que o ID de login social",
+      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
+    },
+    "factor1-social-login": {
+      "dutch": "Factor 1: Sociale login",
+      "english": "Factor 1: Social Login",
+      "french": "Facteur 1: Connexion sociale",
+      "german": "Faktor 1: Social-Login",
+      "japanese": "要因 1: ソーシャル ログイン",
+      "korean": "요소 1: 소셜 로그인",
+      "mandarin": "因素 1：社交登录",
+      "portuguese": "Fator 1: Login social",
+      "spanish": "Factor 1: inicio de sesión social"
+    },
+    "factor2-devices": {
+      "dutch": "Factor 2: Apparaat (en)",
+      "english": "Factor 2: Device (s)",
+      "french": "Facteur 2: Dispositif (s)",
+      "german": "Faktor 2: Gerät(e)",
+      "japanese": "要因 2: デバイス",
+      "korean": "요소 2: 장치(들)",
+      "mandarin": "因素 2：设备",
+      "portuguese": "Fator 2: Dispositivo(s)",
+      "spanish": "Factor 2: Dispositivo(s)"
+    },
+    "factor3-social-recovery": {
+      "dutch": "Factor 3: Sociaal herstel",
+      "english": "Factor 3: Social Recovery",
+      "french": "Facteur 3: Récupération sociale",
+      "german": "Faktor 3: Soziale Erholung",
+      "japanese": "要因 3: 社会的回復",
+      "korean": "요인 3: 사회적 회복",
+      "mandarin": "因素 3：社会恢复",
+      "portuguese": "Fator 3: Recuperação Social",
+      "spanish": "Factor 3: Recuperación Social"
+    },
+    "hide-options": {
+      "dutch": "Opties verbergen",
+      "english": "Hide Options",
+      "french": "Masquer les options",
+      "german": "Optionen ausblenden",
+      "japanese": "オプションを隠す",
+      "korean": "숨기기 옵션",
+      "mandarin": "隐藏选项",
+      "portuguese": "Ocultar opções",
+      "spanish": "Ocultar opciones"
+    },
+    "last-accessed-on": {
+      "dutch": "Laatst bezocht op:",
+      "english": "Last accessed on:",
+      "french": "Dernier accès le:",
+      "german": "Zuletzt aufgerufen am:",
+      "japanese": "最終アクセス日:",
+      "korean": "마지막으로 액세스한 날짜:",
+      "mandarin": "最后访问时间：",
+      "portuguese": "Último acesso em:",
+      "spanish": "Último acceso el:"
+    },
     "learn-more": {
+      "dutch": "Meer informatie",
       "english": "Learn more",
       "german": "Mehr erfahren",
       "japanese": "もっと詳しく知る",
@@ -145,6 +326,7 @@
       "spanish": "Aprende más"
     },
     "loader-device-detecting": {
+      "dutch": "Uw apparaat word gedetecteerd",
       "english": "Detecting your device",
       "german": "Erkennen Ihres Geräts",
       "japanese": "デバイスの検出",
@@ -154,6 +336,7 @@
       "spanish": "Detectando su dispositivo"
     },
     "loader-secure-login": {
+      "dutch": "Inloggen beveiligen met tKey",
       "english": "Securing login with tKey",
       "german": "Anmeldung mit tKey sichern",
       "japanese": "tKeyでログインを保護する",
@@ -162,7 +345,19 @@
       "portuguese": "Protegendo o login com tKey",
       "spanish": "Asegurar el inicio de sesión con tKey"
     },
+    "new-device-detected": {
+      "dutch": "Nieuw apparaat gedetecteerd",
+      "english": "New device detected",
+      "french": "Nouveau périphérique détecté",
+      "german": "Neues Gerät erkannt",
+      "japanese": "新しいデバイスが検出されました",
+      "korean": "새 장치 감지됨",
+      "mandarin": "检测到新设备",
+      "portuguese": "Novo dispositivo detectado",
+      "spanish": "Nuevo dispositivo detectado"
+    },
     "or": {
+      "dutch": "of",
       "english": "or",
       "german": "oder",
       "japanese": "または",
@@ -171,7 +366,51 @@
       "portuguese": "ou",
       "spanish": "o"
     },
+    "other-factor-pwd": {
+      "dutch": "Andere factoren: wachtwoord",
+      "english": "Other Factors : Password",
+      "german": "Andere Faktoren: Passwort",
+      "japanese": "その他の要因 : パスワード",
+      "korean": "기타 요소: 비밀번호",
+      "mandarin": "其他因素：密码",
+      "portuguese": "Outros fatores: senha",
+      "spanish": "Otros factores: contraseña"
+    },
+    "password": {
+      "dutch": "Wachtwoord",
+      "english": "Password",
+      "french": "Mot de passe",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "암호",
+      "mandarin": "密码",
+      "portuguese": "Senha",
+      "spanish": "Password"
+    },
+    "password-label": {
+      "dutch": "Voer wachtwoord in",
+      "english": "Enter password",
+      "french": "Entrez le mot de passe",
+      "german": "Passwort eingeben",
+      "japanese": "パスワードを入力する",
+      "korean": "암호를 입력",
+      "mandarin": "输入密码",
+      "portuguese": "Digite a senha",
+      "spanish": "Ingresa tu password"
+    },
+    "phone": {
+      "dutch": "Telefoon",
+      "english": "Phone",
+      "french": "Téléphone",
+      "german": "Telefon",
+      "japanese": "電話",
+      "korean": "핸드폰",
+      "mandarin": "电话",
+      "portuguese": "Telefone",
+      "spanish": "Teléfono"
+    },
     "powered-by": {
+      "dutch": "Mogelijk gemaakt door",
       "english": "Powered by",
       "german": "durch",
       "japanese": "沿って",
@@ -180,7 +419,30 @@
       "portuguese": "Provido por",
       "spanish": "por"
     },
+    "recovery-phrase-copied": {
+      "dutch": "Herstelzin gekopieerd",
+      "english": "Recovery Phrase Copied",
+      "french": "Phrase de récupération copiée",
+      "german": "Wiederherstellungssatz kopiert",
+      "japanese": "回復フレーズがコピーされました",
+      "korean": "복구 문구 복사됨",
+      "mandarin": "助记词已复制",
+      "portuguese": "Frase de Recuperação Copiada",
+      "spanish": "Frase de recuperación copiada"
+    },
+    "recoveryFactor": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery Factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回復係数",
+      "korean": "복구 계수",
+      "mandarin": "恢复因子",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
     "referenceId": {
+      "dutch": "Referentie-ID:",
       "english": "Reference ID:",
       "german": "Referenz ID:",
       "japanese": "参照ID：",
@@ -189,7 +451,19 @@
       "portuguese": "ID de referência:",
       "spanish": "Identificación de referencia:"
     },
+    "resend-recovery": {
+      "dutch": "Herstelfactor opnieuw verzenden",
+      "english": "Resend Recovery Factor",
+      "french": "Renvoyer le facteur de récupération",
+      "german": "Wiederherstellungsfaktor erneut senden",
+      "japanese": "回復係数の再送",
+      "korean": "복구 팩터 재전송",
+      "mandarin": "重新发送恢复因子",
+      "portuguese": "Reenviar Fator de Recuperação",
+      "spanish": "Factor de recuperación de reenvío"
+    },
     "secured-by": {
+      "dutch": "Beveiligd door",
       "english": "Secured by",
       "german": "Gesichert durch",
       "japanese": "によって保護",
@@ -199,6 +473,7 @@
       "spanish": "Asegurado por"
     },
     "selfCustodial": {
+      "dutch": "Zelfbewarend inloggen door",
       "english": "Self-custodial login by",
       "german": "Selbstverwahrungs-Login durch",
       "japanese": "による自己管理ログイン",
@@ -207,7 +482,41 @@
       "portuguese": "Login autocustodial por",
       "spanish": "Inicio de sesión con autocustodia por"
     },
+    "social": {
+      "dutch": "Sociaal",
+      "english": "Social",
+      "french": "Social",
+      "german": "Sozial",
+      "japanese": "社交",
+      "korean": "사회의",
+      "mandarin": "社会的",
+      "portuguese": "Social",
+      "spanish": "Social"
+    },
+    "socialFactor": {
+      "dutch": "Sociale factor",
+      "english": "Social Factor",
+      "french": "Facteur social",
+      "german": "Sozialer Faktor",
+      "japanese": "社会的要因",
+      "korean": "사회적 요인",
+      "mandarin": "社会因素",
+      "portuguese": "Fator Social",
+      "spanish": "Factor social"
+    },
+    "socialLogin": {
+      "dutch": "Sociale login",
+      "english": "Social login",
+      "french": "Connexion sociale",
+      "german": "Sozialer Login",
+      "japanese": "ソーシャルログイン",
+      "korean": "소셜 로그인",
+      "mandarin": "社交登录",
+      "portuguese": "Login social",
+      "spanish": "Inicio de sesión social"
+    },
     "toast-backup-phase-email-send-success": {
+      "dutch": "Back-upzin verzonden naar uw e-mail",
       "english": "Backup Phrase sent to your email",
       "german": "Sicherungssatz an Ihre E-Mail gesendet",
       "japanese": "メールに送信されたバックアップフレーズ",
@@ -217,6 +526,7 @@
       "spanish": "Frase de seguridad enviada a su correo electrónico"
     },
     "toast-backup-phase-email-send-timeout": {
+      "dutch": "Time-out bij het verzenden van de back-upzin naar uw e-mail. Download in plaats daarvan de back-upzin",
       "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
       "german": "Zeitüberschreitung beim Senden der Sicherungsphrase an Ihre E-Mail. Bitte laden Sie stattdessen die Sicherungsphrase herunter",
       "japanese": "バックアップ フレーズをメールに送信する際のタイムアウト。 代わりにバックアップ フレーズをダウンロードしてください",
@@ -226,6 +536,7 @@
       "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar"
     },
     "toast-backup-phase-send-fail": {
+      "dutch": "Kan back-upzin niet verzenden",
       "english": "Unable to send Backup Phrase",
       "german": "Sicherungssatz kann nicht gesendet werden",
       "japanese": "バックアップフレーズを送信できません",
@@ -235,6 +546,7 @@
       "spanish": "No se pudo enviar la frase de respaldo"
     },
     "toast-backup-phase-send-success": {
+      "dutch": "Back-upzin succesvol verzonden",
       "english": "Backup Phrase successfully sent",
       "german": "Sicherungssatz erfolgreich gesendet",
       "japanese": "バックアップフレーズが正常に送信されました",
@@ -244,6 +556,7 @@
       "spanish": "Frase de seguridad enviada con éxito"
     },
     "toast-backup-share-verification-fail": {
+      "dutch": "Verificatie van gedeelde back-up is mislukt",
       "english": "Backup Share verification failed",
       "german": "Überprüfung der Sicherungsfreigabe fehlgeschlagen",
       "japanese": "バックアップ共有の検証に失敗しました",
@@ -253,6 +566,7 @@
       "spanish": "Error en la verificación del recurso compartido de copia de seguridad"
     },
     "toast-device-share-delete-fail": {
+      "dutch": "Verwijderen van gedeelde apparaat is mislukt",
       "english": "Device share deletion unsuccessful",
       "german": "Löschen der Gerätefreigabe nicht erfolgreich",
       "japanese": "デバイス共有の削除に失敗しました",
@@ -262,6 +576,7 @@
       "spanish": "No se pudo eliminar el dispositivo compartido"
     },
     "toast-device-share-delete-success": {
+      "dutch": "Apparaat delen succesvol verwijderd",
       "english": "Device share successfully deleted",
       "german": "Gerätefreigabe erfolgreich gelöscht",
       "japanese": "デバイス共有が正常に削除されました",
@@ -271,6 +586,7 @@
       "spanish": "Dispositivo compartido eliminado correctamente"
     },
     "toast-password-change-fail": {
+      "dutch": "Wachtwoordwijziging mislukt",
       "english": "Password change unsuccessful",
       "german": "Passwortänderung nicht erfolgreich",
       "japanese": "パスワードの変更に失敗しました",
@@ -280,6 +596,7 @@
       "spanish": "Cambio de contraseña fallido"
     },
     "toast-password-change-success": {
+      "dutch": "Wachtwoord succesvol gewijzigd",
       "english": "Password successfully changed",
       "german": "Passwort erfolgreich geändert",
       "japanese": "パスワードが正常に変更されました",
@@ -289,6 +606,7 @@
       "spanish": "Contraseña cambiada correctamente"
     },
     "toast-password-verification-fail": {
+      "dutch": "Wachtwoordverificatie mislukt",
       "english": "Password verification failed",
       "german": "Passwortüberprüfung fehlgeschlagen",
       "japanese": "パスワードの確認に失敗しました",
@@ -298,6 +616,7 @@
       "spanish": "Falló la verificación de la contraseña"
     },
     "toast-recovery-share-delete-fail": {
+      "dutch": "Het verwijderen van de herstelshare is mislukt",
       "english": "Recovery share deletion failed",
       "german": "Das Löschen der Wiederherstellungsfreigabe ist fehlgeschlagen",
       "japanese": "リカバリ共有の削除に失敗しました",
@@ -307,6 +626,7 @@
       "spanish": "Error al eliminar el recurso compartido de recuperación"
     },
     "toast-recovery-share-delete-success": {
+      "dutch": "Herstelshare succesvol verwijderd",
       "english": "Recovery share deleted successfully",
       "german": "Wiederherstellungsfreigabe erfolgreich gelöscht",
       "japanese": "リカバリ共有が正常に削除されました",
@@ -316,6 +636,7 @@
       "spanish": "El recurso compartido de recuperación se eliminó correctamente"
     },
     "toast-registration-failed": {
+      "dutch": "Registratie mislukt",
       "english": "Registration failed",
       "german": "Registrierung fehlgeschlagen",
       "japanese": "登録に失敗しました",
@@ -325,6 +646,7 @@
       "spanish": "Registro fallido"
     },
     "toast-require-verification": {
+      "dutch": "Vereis een andere verificatie-invoer",
       "english": "Require another verification input",
       "german": "Benötigen Sie eine weitere Überprüfungseingabe",
       "japanese": "別の検証入力が必要",
@@ -334,6 +656,7 @@
       "spanish": "Requerir otra entrada de verificación"
     },
     "toast-share-transfer-fail": {
+      "dutch": "Delen mislukt",
       "english": "Share transfer failed",
       "german": "Freigabeübertragung fehlgeschlagen",
       "japanese": "共有の転送に失敗しました",
@@ -343,6 +666,7 @@
       "spanish": "Error al transferir el recurso compartido"
     },
     "toast-something-went-wrong": {
+      "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
       "german": "Etwas ist schief gelaufen",
       "japanese": "何かがうまくいかなかった",
@@ -350,10 +674,55 @@
       "mandarin": "出问题了",
       "portuguese": "Algo deu errado",
       "spanish": "Algo salió mal"
+    },
+    "upload-recovery-factor": {
+      "dutch": "Herstelfactor uploaden",
+      "english": "Upload Recovery Factor",
+      "french": "Télécharger le facteur de récupération",
+      "german": "Wiederherstellungsfaktor hochladen",
+      "japanese": "回復係数のアップロード",
+      "korean": "회복 인자 업로드",
+      "mandarin": "上传恢复因子",
+      "portuguese": "Carregar Fator de Recuperação",
+      "spanish": "Subir factor de recuperación"
+    },
+    "verify": {
+      "dutch": "Verifiëren",
+      "english": "Verify",
+      "french": "Vérifier",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "검증",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "verify-with-other-factors": {
+      "dutch": "Verifiëren met andere factoren",
+      "english": "Verify with other factors",
+      "french": "Vérifier avec d'autres facteurs",
+      "german": "Überprüfen Sie mit anderen Faktoren",
+      "japanese": "他の要因で検証する",
+      "korean": "다른 요인으로 확인",
+      "mandarin": "与其他因素验证",
+      "portuguese": "Verifique com outros fatores",
+      "spanish": "Verificar con otros factores"
+    },
+    "webAuthentication": {
+      "dutch": "Webauthenticatie",
+      "english": "Web Authentication",
+      "french": "Authentification Web",
+      "german": "Web-Authentifizierung",
+      "japanese": "ウェブ認証",
+      "korean": "웹 인증",
+      "mandarin": "网络认证",
+      "portuguese": "Autenticação Web",
+      "spanish": "Autenticación web"
     }
   },
   "error-block": {
     "required-fields-title": {
+      "dutch": "Een of meer van de volgende vereiste parameters ontbreekt of is ongeldig",
       "english": "One or more of the following required parameters is missing/invalid",
       "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen / sind ungültig",
       "japanese": "次の必須パラメーターの1つ以上が欠落/無効です",

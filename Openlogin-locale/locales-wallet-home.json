@@ -1,6 +1,7 @@
 {
   "home": {
     "learn-more-desc": {
+      "dutch": "Neem de controle over uw digitale aanwezigheid met OpenLogin.",
       "english": "Take charge of your digital presence with OpenLogin.",
       "german": "Übernehmen Sie mit OpenLogin die Kontrolle über Ihre digitale Präsenz.",
       "japanese": "OpenLoginでデジタルプレゼンスを管理します。",
@@ -10,6 +11,7 @@
       "spanish": "Hágase cargo de su presencia digital con OpenLogin."
     },
     "learn-more-title": {
+      "dutch": "Aan de slag gaan",
       "english": "Getting started",
       "german": "Einstieg",
       "japanese": "開始",
@@ -19,6 +21,7 @@
       "spanish": "Empezando"
     },
     "link-account-name": {
+      "dutch": "Account beheren",
       "english": "Manage account",
       "german": "Konto verwalten",
       "japanese": "アカウントを管理する",
@@ -28,6 +31,7 @@
       "spanish": "Administrar cuenta"
     },
     "link-account-type": {
+      "dutch": "account",
       "english": "account",
       "german": "konto",
       "japanese": "アカウント",
@@ -37,6 +41,7 @@
       "spanish": "cuenta"
     },
     "link-apps-name": {
+      "dutch": "Bekijk geautoriseerde apps",
       "english": "View Authorized Apps",
       "german": "Autorisierte Apps anzeigen",
       "japanese": "承認されたアプリを表示する",
@@ -46,6 +51,7 @@
       "spanish": "Ver aplicaciones autorizadas"
     },
     "link-apps-type": {
+      "dutch": "apps",
       "english": "apps",
       "german": "apps",
       "japanese": "アプリ",
@@ -55,6 +61,7 @@
       "spanish": "aplicaciones"
     },
     "share-approval-desc1": {
+      "dutch": "Een nieuwe login probeert toegang te krijgen tot uw account.",
       "english": "A new login is trying to access your account.",
       "german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
       "japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
@@ -64,6 +71,7 @@
       "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta."
     },
     "share-approval-desc2": {
+      "dutch": "Match de referentie-ID en bevestig dat dit u bent:",
       "english": "Match the Reference ID and confirm this is you:",
       "german": "Passen Sie die Referenz-ID an und bestätigen Sie, dass Sie es sind:",
       "japanese": "参照IDを一致させ、これがあなたであることを確認します。",
@@ -73,6 +81,7 @@
       "spanish": "Haga coincidir la ID de referencia y confirme que es usted:"
     },
     "share-approval-not-me": {
+      "dutch": "Dit ben ik niet,",
       "english": "This is not me,",
       "german": "Das bin nicht ich,",
       "japanese": "これは私ではない、",
@@ -82,6 +91,7 @@
       "spanish": "Este no soy yo,"
     },
     "share-approval-report": {
+      "dutch": "Rapporteer het",
       "english": "report it",
       "german": "berichten Sie",
       "japanese": "それを報告する",
@@ -91,6 +101,7 @@
       "spanish": "Informe"
     },
     "share-approval-secure": {
+      "dutch": "Veilige Torus-aanmelding",
       "english": "Secure Torus sign in",
       "german": "Sichere Torus-Anmeldung",
       "japanese": "セキュアトーラスサインイン",
@@ -100,6 +111,7 @@
       "spanish": "Iniciar sesión Secure Torus"
     },
     "share-approval-support": {
+      "dutch": "Neem contact op met de ondersteuning",
       "english": "Contact Support",
       "german": "Kontaktieren Sie Support",
       "japanese": "サポート問い合わせ先",
@@ -109,6 +121,7 @@
       "spanish": "Soporte de contacto"
     },
     "share-approval-title": {
+      "dutch": "Nieuwe login gedetecteerd",
       "english": "New login detected",
       "german": "Neues Login erkannt",
       "japanese": "新しいログインが検出されました",
@@ -118,6 +131,7 @@
       "spanish": "Nuevo inicio de sesión detectado"
     },
     "title": {
+      "dutch": "Welkom, {0}",
       "english": "Welcome, {0}",
       "german": "Willkommen, {0}",
       "japanese": "ようこそ、{0}",

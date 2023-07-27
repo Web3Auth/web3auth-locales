@@ -218,6 +218,14 @@
             "mandarin": "构建您的密钥",
             "spanish": "Construyendo tu clave en"
         },
+        "constructYourKeyCustom": {
+          "english": "Constructing your key on {0}",
+          "german": "Erstellen Sie Ihren Schlüssel auf {0}",
+          "japanese": "{0}でキーを構築する",
+          "korean": "{0} 키 구성중",
+          "mandarin": "在{0}上构建密钥",
+          "spanish": "Construyendo su clave en {0}"
+        },
         "contactUs": {
             "english": "Contact us",
             "german": "Kontaktiere uns",
@@ -229,9 +237,9 @@
         "continue": {
             "english": "Continue with {verifier}",
             "german": "Weiter mit {Verifier}",
-            "japanese": "{verifier}に進みます",
-            "korean": "{verifier} 계속",
-            "mandarin": "继续{verifier}",
+            "japanese": "に進みます {verifier}",
+            "korean": "계속 {verifier}",
+            "mandarin": "继续 {verifier}",
             "spanish": "Continuar con {verifier}"
         },
         "continueWith": {

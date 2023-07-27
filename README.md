@@ -7,10 +7,10 @@ Welcome to the Web3Auth L10n, an open-source localization project! This project 
 
 | Contribute                                | See Implementation                                                                   | Languages Supported                            |
 | ----------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt` |
-| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt` |
-| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
-| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Web3Auth-locale](./Web3Auth-locale/)     | [Web3Auth Modal](https://web3auth.io/docs/pnp/features/whitelabel/login-modal)                    | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt`, `nl` |
+| [Openlogin-locale](./Openlogin-locale/)   | [Openlogin User Flow Screens](https://web3auth.io/docs/pnp/features/whitelabel/user-flow-screens) | `en`, `es`, `de`, `zh`, `ja`, `ko`, `fr`, `pt`, `nl` |
+| [Torus Wallet Screens](./Torus-locale/)   | [Torus Wallet Screens](https://web3auth.io/docs/pnp/features/whitelabel/torus-wallet-plugin)      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
+| [Solana Wallet Screens](./Solana-locale/) | [Solana Wallet Screens](https://web3auth.io/docs/pnp/features/whitelabel/torus-wallet-plugin)     | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
 | [Casper Wallet Screens](./Casper-locale/) | [Casper Wallet Screens](https://casper.tor.us/)                                      | `en`, `es`, `de`, `zh`, `ja`, `ko`             |
 ## Features
 
@@ -31,6 +31,7 @@ To get started with contributing translations, please refer to the [Contribution
 - Mandarin (zh)
 - Portuguese (pt)
 - Spanish (es)
+- Dutch (nl)
 - and counting...
 
 ## Contributing
@@ -56,7 +57,8 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 
 # Web3Auth Modal Screens
 
-![Web3Auth Modal Screens](https://user-images.githubusercontent.com/6962565/208136898-64281543-f907-4696-ad98-d6f4e03decb6.png)
+![whitelable-modal-languages](https://github.com/Web3Auth/web3auth-locales/assets/6962565/7d5034b8-4268-4d87-87cd-24fc867a5acb)
+
 
 # OpenLogin User Flow Screens
 

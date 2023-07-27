@@ -24,6 +24,14 @@
       "mandarin": "构建您的密钥",
       "spanish": "Construyendo tu clave en"
     },
+    "constructYourKeyCustom": {
+      "english": "Constructing your key on {0}",
+      "german": "Erstellen Sie Ihren Schlüssel auf {0}",
+      "japanese": "{0}でキーを構築する",
+      "korean": "{0} 키 구성중",
+      "mandarin": "在{0}上构建密钥",
+      "spanish": "Construyendo su clave en {0}"
+    },
     "continueToApp": {
       "english": "Continue to app",
       "german": "Weiter zur Anwendung",

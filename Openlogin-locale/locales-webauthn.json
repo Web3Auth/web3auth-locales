@@ -1,6 +1,7 @@
 {
   "webauthn": {
     "action-cancel": {
+      "dutch": "Annuleren",
       "english": "Cancel",
       "german": "Stornieren",
       "japanese": "キャンセル",
@@ -10,6 +11,7 @@
       "spanish": "Cancelar"
     },
     "action-no": {
+      "dutch": "Nee",
       "english": "No",
       "german": "Nein",
       "japanese": "番号",
@@ -19,6 +21,7 @@
       "spanish": "No"
     },
     "action-sign-in": {
+      "dutch": "Inloggen",
       "english": "Sign In",
       "german": "Einloggen",
       "japanese": "ログイン",
@@ -28,6 +31,7 @@
       "spanish": "Registrarse"
     },
     "action-yes": {
+      "dutch": "Ja",
       "english": "Yes",
       "german": "Jawohl",
       "japanese": "はい",
@@ -37,6 +41,7 @@
       "spanish": "sí"
     },
     "browser-not-supported": {
+      "dutch": "Browser niet ondersteund",
       "english": "Browser not supported",
       "german": "Browser nicht unterstützt",
       "japanese": "ブラウザはサポートされていません",
@@ -46,6 +51,7 @@
       "spanish": "Navegador no compatible"
     },
     "browser-not-supported-note": {
+      "dutch": "U gebruikt een browser die wij niet ondersteunen. Probeer een van deze opties om een betere ervaring te hebben op deze applicatie. Als u al een browser uit de onderstaande lijst gebruikt, update dan naar de nieuwste versie",
       "english": "You are using a browser we do not support. Try one of these options to have a better experience on this application. If you're already using a browser from the below list, Please update to the latest version",
       "german": "Sie verwenden einen von uns nicht unterstützten Browser. Probieren Sie eine dieser Optionen aus, um eine bessere Erfahrung mit dieser Anwendung zu erzielen. Wenn Sie bereits einen Browser aus der folgenden Liste verwenden, aktualisieren Sie bitte auf die neueste Version",
       "japanese": "サポートされていないブラウザを使用しています。 これらのオプションのいずれかを試して、このアプリケーションのエクスペリエンスを向上させてください。 以下のリストのブラウザをすでに使用している場合は、最新バージョンに更新してください",
@@ -55,6 +61,7 @@
       "spanish": "Está utilizando un navegador que no admitimos. Pruebe una de estas opciones para tener una mejor experiencia en esta aplicación. Si ya está utilizando un navegador de la siguiente lista, actualice a la última versión"
     },
     "improve-experience": {
+      "dutch": "Verbeter uw ervaring",
       "english": "Improve your experience",
       "german": "Verbessern Sie Ihre Erfahrung",
       "japanese": "あなたの経験を向上させる",
@@ -64,6 +71,7 @@
       "spanish": "Mejora tu experiencia"
     },
     "invalid-url": {
+      "dutch": "Ongeldige omleidings-URI",
       "english": "Invalid redirect URI",
       "german": "Ungültiger Weiterleitungs-URI",
       "japanese": "リダイレクトURIが無効です",
@@ -73,6 +81,7 @@
       "spanish": "URI de redireccionamiento no válido"
     },
     "learn-more": {
+      "dutch": "Meer informatie",
       "english": "Learn more",
       "german": "Mehr erfahren",
       "japanese": "もっと詳しく知る",
@@ -82,6 +91,7 @@
       "spanish": "Aprende más"
     },
     "missing-params": {
+      "dutch": "Ontbrekende parameters",
       "english": "Missing params",
       "german": "Fehlende Parameter",
       "japanese": "欠落しているパラメータ",
@@ -91,6 +101,7 @@
       "spanish": "Parámetros faltantes"
     },
     "operation-timeout": {
+      "dutch": "De bewerking is verlopen of niet toegestaan",
       "english": "The operation either timed out or was not allowed",
       "german": "Der Vorgang ist entweder abgelaufen oder nicht zulässig",
       "japanese": "操作がタイムアウトしたか、許可されなかった",
@@ -100,6 +111,7 @@
       "spanish": "La operación agotó el tiempo de espera o no se permitió"
     },
     "register-device": {
+      "dutch": "Wilt u dit apparaat registreren?",
       "english": "Would you like to register this device?",
       "german": "Möchten Sie dieses Gerät registrieren?",
       "japanese": "このデバイスを登録しますか？",
@@ -109,6 +121,7 @@
       "spanish": "¿Le gustaría registrar este dispositivo?"
     },
     "registering-device": {
+      "dutch": "Uw apparaat registreren",
       "english": "Registering your device",
       "german": "Registrieren Ihres Geräts",
       "japanese": "デバイスの登録",
@@ -118,6 +131,7 @@
       "spanish": "Registro de su dispositivo"
     },
     "required-params-note": {
+      "dutch": "Eén of meer van de volgende verplichte parameters ontbreken",
       "english": "One or more of the following required parameters is missing",
       "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen",
       "japanese": "次の必須パラメーターの1つ以上が欠落しています",
@@ -127,6 +141,7 @@
       "spanish": "Falta uno o más de los siguientes parámetros obligatorios"
     },
     "sign-in": {
+      "dutch": "Inloggen via Touch ID / Face ID?",
       "english": "Sign in via Touch ID / Face ID?",
       "german": "Über Touch ID / Face ID anmelden?",
       "japanese": "Touch ID / Face IDでサインインしますか？",
@@ -136,6 +151,7 @@
       "spanish": "¿Iniciar sesión a través de Touch ID / Face ID?"
     },
     "something-wrong-note": {
+      "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
       "german": "Etwas ist schief gelaufen",
       "japanese": "何かがうまくいかなかった",
@@ -145,6 +161,7 @@
       "spanish": "Algo salió mal"
     },
     "status-done": {
+      "dutch": "Voltooid",
       "english": "Done",
       "german": "Erledigt",
       "japanese": "終わり",
@@ -154,6 +171,7 @@
       "spanish": "Hecho"
     },
     "status-loading": {
+      "dutch": "Laden",
       "english": "Loading",
       "german": "Wird geladen",
       "japanese": "読み込み中",
@@ -163,6 +181,7 @@
       "spanish": "Cargando"
     },
     "status-registered": {
+      "dutch": "Apparaat geregistreerd",
       "english": "Device registered",
       "german": "Gerät registriert",
       "japanese": "登録済みのデバイス",
@@ -172,6 +191,7 @@
       "spanish": "Dispositivo registrado"
     },
     "user-denied": {
+      "dutch": "Gebruiker heeft autorisatie geweigerd",
       "english": "User has denied authorization",
       "german": "Benutzer hat die Autorisierung verweigert",
       "japanese": "ユーザーが承認を拒否しました",
@@ -181,6 +201,7 @@
       "spanish": "El usuario ha denegado la autorización"
     },
     "webauthn-not-supported": {
+      "dutch": "Webauthn wordt niet ondersteund op dit apparaat",
       "english": "Webauthn is not supported on this device",
       "german": "Webauthn wird auf diesem Gerät nicht unterstützt",
       "japanese": "このデバイスではWeb認証はサポートされていません",
