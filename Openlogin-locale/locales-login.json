@@ -314,7 +314,7 @@
       "french": "Ajoutez une couche de sécurité supplémentaire à votre compte, chaque connexion nécessite 2 facteurs pour l'authentification",
       "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu. Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
       "japanese": "アカウントにセキュリティのレイヤーを追加します。ログインごとに認証に 2 つの要素が必要です",
-      "korean": "계정에 추가 보안 계층을 추가하십시오. 로그인할 때마다 2가지 인증 요소가 필요합니다.",
+      "korean": "계정에 추가 보안 설정을 하세요. 로그인할 때마다 2단계의 인증을 요구하게 됩니다.",
       "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
       "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación"
@@ -2544,7 +2544,7 @@
       "french": "Passer pour le moment",
       "german": "Für jetzt überspringen",
       "japanese": "今はスキップ",
-      "korean": "일단은 스킵",
+      "korean": "건너뛰기",
       "mandarin": "立即跳过",
       "portuguese": "Pular por agora",
       "spanish": "Saltar por ahora"
