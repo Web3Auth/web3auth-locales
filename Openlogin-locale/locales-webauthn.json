@@ -95,7 +95,7 @@
       "english": "Missing params",
       "german": "Fehlende Parameter",
       "japanese": "欠落しているパラメータ",
-      "korean": "누락된 매개변수",
+      "korean": "누락된 파라미터",
       "mandarin": "缺少参数",
       "portuguese": "Parâmetros ausentes",
       "spanish": "Parámetros faltantes"
@@ -115,7 +115,7 @@
       "english": "Would you like to register this device?",
       "german": "Möchten Sie dieses Gerät registrieren?",
       "japanese": "このデバイスを登録しますか？",
-      "korean": "이 장치를 등록하시겠습니까?",
+      "korean": "이 디바이스를 등록하시겠습니까?",
       "mandarin": "您要注册此设备吗？",
       "portuguese": "Deseja registrar este dispositivo?",
       "spanish": "¿Le gustaría registrar este dispositivo?"
@@ -125,7 +125,7 @@
       "english": "Registering your device",
       "german": "Registrieren Ihres Geräts",
       "japanese": "デバイスの登録",
-      "korean": "장치 등록",
+      "korean": "디바이스 등록",
       "mandarin": "注册您的设备",
       "portuguese": "Registrando seu dispositivo",
       "spanish": "Registro de su dispositivo"
@@ -135,7 +135,7 @@
       "english": "One or more of the following required parameters is missing",
       "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen",
       "japanese": "次の必須パラメーターの1つ以上が欠落しています",
-      "korean": "다음 필수 매개변수 중 하나 이상이 누락되었습니다.",
+      "korean": "다음 필수 파라미터 중 하나 이상이 누락되었습니다.",
       "mandarin": "缺少以下一项或多项必需参数",
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes",
       "spanish": "Falta uno o más de los siguientes parámetros obligatorios"

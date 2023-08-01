@@ -78,7 +78,7 @@
       "english": "Copy to clipboard",
       "german": "In die Zwischenablage kopieren",
       "japanese": "クリップボードにコピー",
-      "korean": "클립 보드에 복사",
+      "korean": "클립보드에 복사",
       "mandarin": "复制到剪贴板",
       "portuguese": "Copiar para área de transferência",
       "spanish": "Copiar al portapapeles"
@@ -152,7 +152,7 @@
       "french": "Dispositif",
       "german": "Gerät",
       "japanese": "デバイス",
-      "korean": "장치",
+      "korean": "디바이스",
       "mandarin": "设备",
       "portuguese": "Dispositivo",
       "spanish": "Dispositivo"
@@ -163,7 +163,7 @@
       "french": "Dispositif (s)",
       "german": "Geräte",
       "japanese": "デバイス",
-      "korean": "장치",
+      "korean": "디바이스",
       "mandarin": "设备",
       "portuguese": "Dispositivo (s)",
       "spanish": "Dispositivo (s)"
@@ -234,7 +234,7 @@
       "english": "Password must match",
       "german": "Passwort muss übereinstimmen",
       "japanese": "パスワードが一致している必要があります",
-      "korean": "암호가 일치해야합니다",
+      "korean": "암호가 일치해야 합니다",
       "mandarin": "密码必须匹配",
       "portuguese": "A senha deve ser igual",
       "spanish": "Contraseña debe coincidir con"
@@ -255,7 +255,7 @@
       "french": "L'e-mail ne peut pas être identique à l'ID de connexion sociale",
       "german": "E -Mail kann nicht mit der sozialen Anmelde -ID übereinstimmen",
       "japanese": "電子メールはソーシャルログインIDと同じではありません",
-      "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
+      "korean": "소셜 로그인 ID와 다른 이메일을 사용해 주세요.",
       "mandarin": "电子邮件不能与社交登录ID相同",
       "portuguese": "O email não pode ser o mesmo que o ID de login social",
       "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
@@ -266,7 +266,7 @@
       "french": "Facteur 1: Connexion sociale",
       "german": "Faktor 1: Social-Login",
       "japanese": "要因 1: ソーシャル ログイン",
-      "korean": "요소 1: 소셜 로그인",
+      "korean": "팩터 1: 소셜 로그인",
       "mandarin": "因素 1：社交登录",
       "portuguese": "Fator 1: Login social",
       "spanish": "Factor 1: inicio de sesión social"
@@ -277,7 +277,7 @@
       "french": "Facteur 2: Dispositif (s)",
       "german": "Faktor 2: Gerät(e)",
       "japanese": "要因 2: デバイス",
-      "korean": "요소 2: 장치(들)",
+      "korean": "팩터 2: 디바이스(들)",
       "mandarin": "因素 2：设备",
       "portuguese": "Fator 2: Dispositivo(s)",
       "spanish": "Factor 2: Dispositivo(s)"
@@ -288,7 +288,7 @@
       "french": "Facteur 3: Récupération sociale",
       "german": "Faktor 3: Soziale Erholung",
       "japanese": "要因 3: 社会的回復",
-      "korean": "요인 3: 사회적 회복",
+      "korean": "팩터 3: 소셜 리커버리",
       "mandarin": "因素 3：社会恢复",
       "portuguese": "Fator 3: Recuperação Social",
       "spanish": "Factor 3: Recuperación Social"
@@ -330,7 +330,7 @@
       "english": "Detecting your device",
       "german": "Erkennen Ihres Geräts",
       "japanese": "デバイスの検出",
-      "korean": "디바이스 감지",
+      "korean": "디바이스 감지 중",
       "mandarin": "检测您的设备",
       "portuguese": "Detectando seu dispositivo",
       "spanish": "Detectando su dispositivo"
@@ -340,7 +340,7 @@
       "english": "Securing login with tKey",
       "german": "Anmeldung mit tKey sichern",
       "japanese": "tKeyでログインを保護する",
-      "korean": "tKey로 로그인 보안하기",
+      "korean": "tKey로 안전한 로그인하기",
       "mandarin": "使用tKey保护登录",
       "portuguese": "Protegendo o login com tKey",
       "spanish": "Asegurar el inicio de sesión con tKey"
@@ -351,7 +351,7 @@
       "french": "Nouveau périphérique détecté",
       "german": "Neues Gerät erkannt",
       "japanese": "新しいデバイスが検出されました",
-      "korean": "새 장치 감지됨",
+      "korean": "새 디바이스 감지됨",
       "mandarin": "检测到新设备",
       "portuguese": "Novo dispositivo detectado",
       "spanish": "Nuevo dispositivo detectado"
@@ -371,7 +371,7 @@
       "english": "Other Factors : Password",
       "german": "Andere Faktoren: Passwort",
       "japanese": "その他の要因 : パスワード",
-      "korean": "기타 요소: 비밀번호",
+      "korean": "기타 팩터: 비밀번호",
       "mandarin": "其他因素：密码",
       "portuguese": "Outros fatores: senha",
       "spanish": "Otros factores: contraseña"
@@ -393,7 +393,7 @@
       "french": "Entrez le mot de passe",
       "german": "Passwort eingeben",
       "japanese": "パスワードを入力する",
-      "korean": "암호를 입력",
+      "korean": "암호를 입력하세요",
       "mandarin": "输入密码",
       "portuguese": "Digite a senha",
       "spanish": "Ingresa tu password"
@@ -436,7 +436,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回復係数",
-      "korean": "복구 계수",
+      "korean": "복구 팩터",
       "mandarin": "恢复因子",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -488,7 +488,7 @@
       "french": "Social",
       "german": "Sozial",
       "japanese": "社交",
-      "korean": "사회의",
+      "korean": "소셜",
       "mandarin": "社会的",
       "portuguese": "Social",
       "spanish": "Social"
@@ -499,7 +499,7 @@
       "french": "Facteur social",
       "german": "Sozialer Faktor",
       "japanese": "社会的要因",
-      "korean": "사회적 요인",
+      "korean": "소셜 팩터",
       "mandarin": "社会因素",
       "portuguese": "Fator Social",
       "spanish": "Factor social"
@@ -530,7 +530,7 @@
       "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
       "german": "Zeitüberschreitung beim Senden der Sicherungsphrase an Ihre E-Mail. Bitte laden Sie stattdessen die Sicherungsphrase herunter",
       "japanese": "バックアップ フレーズをメールに送信する際のタイムアウト。 代わりにバックアップ フレーズをダウンロードしてください",
-      "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 대신 백업 문구를 다운로드하십시오",
+      "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 백업 문구를 다운로드하십시오",
       "mandarin": "将备份短语发送到您的电子邮件时超时。 请改为下载备份短语",
       "portuguese": "Tempo limite ao enviar a frase de backup para o seu e-mail. Em vez disso, baixe a frase de backup",
       "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar"
@@ -650,7 +650,7 @@
       "english": "Require another verification input",
       "german": "Benötigen Sie eine weitere Überprüfungseingabe",
       "japanese": "別の検証入力が必要",
-      "korean": "다른 확인 입력 필요",
+      "korean": "다른 검증값 필요",
       "mandarin": "需要其他验证输入",
       "portuguese": "Exigir outra entrada de verificação",
       "spanish": "Requerir otra entrada de verificación"
@@ -681,7 +681,7 @@
       "french": "Télécharger le facteur de récupération",
       "german": "Wiederherstellungsfaktor hochladen",
       "japanese": "回復係数のアップロード",
-      "korean": "회복 인자 업로드",
+      "korean": "리커버리 팩터 업로드",
       "mandarin": "上传恢复因子",
       "portuguese": "Carregar Fator de Recuperação",
       "spanish": "Subir factor de recuperación"
@@ -703,7 +703,7 @@
       "french": "Vérifier avec d'autres facteurs",
       "german": "Überprüfen Sie mit anderen Faktoren",
       "japanese": "他の要因で検証する",
-      "korean": "다른 요인으로 확인",
+      "korean": "다른 팩터으로 확인",
       "mandarin": "与其他因素验证",
       "portuguese": "Verifique com outros fatores",
       "spanish": "Verificar con otros factores"
@@ -726,7 +726,7 @@
       "english": "One or more of the following required parameters is missing/invalid",
       "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen / sind ungültig",
       "japanese": "次の必須パラメーターの1つ以上が欠落/無効です",
-      "korean": "다음 필수 매개 변수 중 하나 이상이 누락되었거나 유효하지 않습니다.",
+      "korean": "다음 필수 파라미터 중 하나 이상이 누락되었거나 유효하지 않습니다.",
       "mandarin": "以下一个或多个必需参数缺失/无效",
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
       "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos"

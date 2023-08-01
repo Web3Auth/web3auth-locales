@@ -28,7 +28,7 @@
       "french": "Ces appareils sont des facteurs uniques autorisés à accéder à votre compte.",
       "german": "Diese Geräte sind einzigartige Faktoren, die für den Zugriff auf Ihr Konto berechtigt sind.",
       "japanese": "これらのデバイスは、アカウントへのアクセスを許可された固有の要素です。",
-      "korean": "이러한 장치는 귀하의 계정에 액세스 할 수있는 고유 한 요소입니다.",
+      "korean": "이러한 디바이스는 귀하의 계정에 액세스 할 수있는 고유 한 팩터입니다.",
       "mandarin": "这些设备是被授权访问您的帐户的独特因素。",
       "portuguese": "Esses dispositivos são fatores exclusivos autorizados a acessar sua conta.",
       "spanish": "Estos dispositivos son factores únicos autorizados para acceder a su cuenta."
@@ -39,7 +39,7 @@
       "french": "Aucun partage de périphérique trouvé",
       "german": "Keine Gerätefreigaben gefunden",
       "japanese": "デバイス共有が見つかりません",
-      "korean": "장치 공유가 없습니다.",
+      "korean": "디바이스 쉐어가 없습니다.",
       "mandarin": "未找到设备共享",
       "portuguese": "Nenhum compartilhamento de dispositivo encontrado",
       "spanish": "No se encontraron recursos compartidos de dispositivos"
@@ -50,7 +50,7 @@
       "french": "Appareil(s)",
       "german": "Geräte",
       "japanese": "デバイス",
-      "korean": "장치",
+      "korean": "디바이스",
       "mandarin": "设备",
       "portuguese": "Dispositivo(s)",
       "spanish": "Dispositivos"
@@ -182,7 +182,7 @@
       "french": "Re-entrez votre mot de passe",
       "german": "Wiederhole die Eingabe deines Passwortes",
       "japanese": "パスワードを再入力してください",
-      "korean": "비밀번호 재 입력",
+      "korean": "비밀번호 재입력",
       "mandarin": "重新输入密码",
       "portuguese": "Redigite sua senha",
       "spanish": "reingresa tu contraseña"
@@ -215,7 +215,7 @@
       "french": "Liste des facteurs d'authentification",
       "german": "Liste der Authentifizierungsfaktoren",
       "japanese": "認証要素のリスト",
-      "korean": "인증 요인 목록",
+      "korean": "인증 팩터 목록",
       "mandarin": "认证因素清单",
       "portuguese": "Lista de fatores de autenticação",
       "spanish": "Lista de factores de autenticación"
@@ -226,7 +226,7 @@
       "french": "Facteurs de sécurité",
       "german": "Sicherheitsfaktoren",
       "japanese": "セキュリティ要因",
-      "korean": "보안 요소",
+      "korean": "보안 팩터",
       "mandarin": "安全因素",
       "portuguese": "Fatores de segurança",
       "spanish": "Factores de seguridad"
@@ -237,7 +237,7 @@
       "french": "Le nombre de facteurs à authentifier pour accéder à votre compte.",
       "german": "Die Anzahl der Faktoren, die authentifiziert werden müssen, um auf Ihr Konto zuzugreifen.",
       "japanese": "アカウントにアクセスするために認証する要素の数。",
-      "korean": "계정에 액세스하기 위해 인증 할 요소의 수입니다.",
+      "korean": "계정에 액세스하기 위해 인증 할 팩터의 수입니다.",
       "mandarin": "要访问您的帐户进行身份验证的因素数量。",
       "portuguese": "O número de fatores a serem autenticados para acessar sua conta.",
       "spanish": "La cantidad de factores que se deben autenticar para acceder a su cuenta."
@@ -248,7 +248,7 @@
       "french": "{0} Facteur d'authentification",
       "german": "{0} Authentifizierungsfaktor",
       "japanese": "{0}認証要素",
-      "korean": "{0} 인증 요소",
+      "korean": "{0} 인증 팩터",
       "mandarin": "{0}认证因素",
       "portuguese": "{0} Fator de autenticação",
       "spanish": "{0} Factor de autenticación"
@@ -281,7 +281,7 @@
       "french": "Supprimer le facteur de récupération",
       "german": "Wiederherstellungsfaktor löschen",
       "japanese": "回復係数の削除",
-      "korean": "회복 인자 삭제",
+      "korean": "리커버리 팩터 삭제",
       "mandarin": "删除恢复因子",
       "portuguese": "Excluir fator de recuperação",
       "spanish": "Eliminar factor de recuperación"
@@ -314,7 +314,7 @@
       "french": "Supprimer le facteur d'authentification",
       "german": "Authentifizierungsfaktor löschen",
       "japanese": "認証要素の削除",
-      "korean": "인증 요소 삭제",
+      "korean": "인증 팩터 삭제",
       "mandarin": "删除认证因素",
       "portuguese": "Excluir fator de autenticação",
       "spanish": "Eliminar factor de autenticación"
@@ -435,7 +435,7 @@
       "french": "Remarque : Cette phrase de récupération est l'un des facteurs nécessaires à l'authentification de votre compte. Conservez-la en lieu sûr pour la récupération de votre compte à l'avenir.",
       "german": "Hinweis: Dieser Wiederherstellungssatz ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es für die zukünftige Kontowiederherstellung an einem sicheren Ort auf.",
       "japanese": "注意: この回復フレーズは、アカウントを認証するために必要な要素の1つです。 将来のアカウントの回復の一部として、安全な場所に保管してください。",
-      "korean": "참고: 이 복구 문구는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
+      "korean": "참고: 이 복구 문구는 계정을 인증하는 데 필요한 팩터 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
       "mandarin": "注意：此恢复短语是验证您的帐户所需的因素之一。 将其保存在安全的地方，作为将来恢复帐户的一部分。",
       "portuguese": "Observação: esta frase de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro.",
       "spanish": "Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
@@ -457,7 +457,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "리커버리 팩터",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -468,7 +468,7 @@
       "french": "Remarque : Ce facteur de récupération est l'un des facteurs nécessaires à l'authentification de votre compte. Conservez-le en lieu sûr pour la récupération de votre compte à l'avenir.",
       "german": "Hinweis: Dieser Wiederherstellungsfaktor ist einer der Faktoren, die zur Authentifizierung Ihres Kontos erforderlich sind. Bewahren Sie es im Rahmen Ihrer zukünftigen Kontowiederherstellung an einem sicheren Ort auf.",
       "japanese": "注: この回復要素は、アカウントの認証に必要な要素の 1 つです。将来のアカウント復旧の一環として、安全な場所に保管してください。",
-      "korean": "참고: 이 복구 요소는 계정을 인증하는 데 필요한 요소 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
+      "korean": "참고: 이 복구 팩터는 계정을 인증하는 데 필요한 팩터 중 하나입니다. 향후 계정 복구의 일환으로 안전한 곳에 보관하십시오.",
       "mandarin": "注意：此恢复因素是验证您的帐户所需的因素之一。将其保存在安全的地方，作为您未来帐户恢复的一部分。",
       "portuguese": "Observação: esse fator de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro.",
       "spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
@@ -545,7 +545,7 @@
       "french": "Supprimer le partage",
       "german": "Freigabe entfernen",
       "japanese": "共有を削除",
-      "korean": "공유 제거",
+      "korean": "쉐어 제거",
       "mandarin": "删除共享",
       "portuguese": "Remover compartilhamento",
       "spanish": "Quitar compartir"
@@ -556,7 +556,7 @@
       "french": "Modifier le facteur social",
       "german": "Ändern Sie den sozialen Faktor",
       "japanese": "社会的要因を変えます",
-      "korean": "사회적 요인을 변경하십시오",
+      "korean": "사회적 팩터를 변경하십시오",
       "mandarin": "改变社会因素",
       "portuguese": "Alterar Fator Social",
       "spanish": "Cambiar el factor social"

@@ -17,7 +17,7 @@
       "french": "Utilisez l'appareil actuel comme deuxième facteur pour vérifier et sécuriser votre portefeuille.",
       "german": "Verwenden Sie das aktuelle Gerät als zweiten Faktor, um Ihre Brieftasche zu überprüfen und zu sichern",
       "japanese": "現在のデバイスを第 2 要素として使用して、ウォレットを確認して保護します",
-      "korean": "현재 장치를 두 번째 요소로 사용하여 지갑을 확인하고 보호하십시오.",
+      "korean": "현재 디바이스를 두 번째 팩터로 사용하여 지갑을 확인하고 보호하십시오.",
       "mandarin": "使用当前设备作为第二个因素来验证和保护你的钱包",
       "portuguese": "Use o dispositivo atual como segundo fator para verificar e proteger sua carteira",
       "spanish": "Use el dispositivo actual como segundo factor para verificar y asegurar su billetera"
@@ -28,7 +28,7 @@
       "french": "Enregistrer cet appareil sous",
       "german": "Speichern Sie dieses Gerät unter",
       "japanese": "このデバイスを名前を付けて保存",
-      "korean": "이 장치를 다른 이름으로 저장",
+      "korean": "이 디바이스를 다른 이름으로 저장",
       "mandarin": "将此设备另存为",
       "portuguese": "Salve este dispositivo como",
       "spanish": "Guardar este dispositivo como"
@@ -39,7 +39,7 @@
       "french": "Configurer le facteur de récupération",
       "german": "Wiederherstellungsfaktor einrichten",
       "japanese": "回復係数の設定",
-      "korean": "복구 계수 설정",
+      "korean": "복구 팩터 설정",
       "mandarin": "设置回收率",
       "portuguese": "Fator de recuperação de configuração",
       "spanish": "Configuración del factor de recuperación"
@@ -50,7 +50,7 @@
       "french": "Maintenant, si vous perdez l'accès à votre deuxième facteur, définissez votre facteur de récupération pour récupérer votre compte.",
       "german": "Falls Sie jetzt den Zugriff auf Ihren 2. Faktor verlieren, stellen Sie Ihren Wiederherstellungsfaktor ein, um Ihr Konto wiederherzustellen.",
       "japanese": "2 番目の要素にアクセスできなくなった場合に備えて、復元要素を設定してアカウントを取り戻してください。",
-      "korean": "이제 두 번째 요인에 대한 액세스 권한을 상실한 경우 복구 요인을 설정하여 계정을 되찾으십시오。",
+      "korean": "이제 두 번째 팩터에 대한 액세스 권한을 상실한 경우 복구 팩터를 설정하여 계정을 되찾으십시오。",
       "mandarin": "现在，如果您无法访问第二个因素，请设置您的恢复因素以取回您的帐户。",
       "portuguese": "Agora, caso você perca o acesso ao seu 2º fator, defina seu fator de recuperação para recuperar sua conta.",
       "spanish": "Ahora, en caso de que pierda el acceso a su segundo factor, configure su factor de recuperación para recuperar su cuenta."
@@ -61,7 +61,7 @@
       "french": "Votre appareil actuel est défini avec succès comme deuxième facteur de récupération",
       "german": "Ihr aktuelles Gerät wurde erfolgreich als 2. Wiederherstellungsfaktor eingestellt",
       "japanese": "現在のデバイスが 2 番目の回復要素として正常に設定されました",
-      "korean": "현재 기기가 2차 복구 요인으로 성공적으로 설정되었습니다.",
+      "korean": "현재 기기가 2차 복구 팩터으로 성공적으로 설정되었습니다.",
       "mandarin": "您当前的设备已成功设置为第二个恢复因素",
       "portuguese": "Seu dispositivo atual foi definido com sucesso como um segundo fator de recuperação",
       "spanish": "Su dispositivo actual se configuró correctamente como segundo factor de recuperación"
@@ -72,7 +72,7 @@
       "french": "Enregistrer votre appareil comme deuxième facteur",
       "german": "Speichern Sie Ihr Gerät als 2nd Factor",
       "japanese": "デバイスを第 2 要素として保存する",
-      "korean": "기기를 2단계로 저장",
+      "korean": "기기를 2단계 팩터로 저장",
       "mandarin": "将您的设备保存为第二因素",
       "portuguese": "Salve seu dispositivo como 2º fator",
       "spanish": "Guarde su dispositivo como 2nd Factor"
@@ -83,7 +83,7 @@
       "french": "Téléchargez votre facteur de récupération pour vous assurer qu'il fonctionne.",
       "german": "Laden Sie Ihren Wiederherstellungsfaktor hoch, um sicherzustellen, dass er funktioniert.",
       "japanese": "回復係数をアップロードして、機能することを確認します。",
-      "korean": "복구 팩터를 업로드하여 제대로 작동하는지 확인하십시오。",
+      "korean": "복구 팩터를 업로드하여 제대로 작동하는지 확인하십시오.",
       "mandarin": "上传您的恢复因子以确保它有效。",
       "portuguese": "Carregue seu Fator de Recuperação para garantir que funcione.",
       "spanish": "Cargue su factor de recuperación para asegurarse de que funcione."
@@ -94,7 +94,7 @@
       "french": "Définissez un mot de passe qui sera utilisé pour accéder à votre compte et servir de facteur de récupération.",
       "german": "Legen Sie ein Passwort fest, das für den Zugriff auf Ihr Konto verwendet wird und als Wiederherstellungsfaktor dient.",
       "japanese": "アカウントへのアクセスに使用されるパスワードを設定し、回復要素として機能します。",
-      "korean": "계정에 액세스하고 복구 요인으로 사용할 비밀번호를 설정하십시오。",
+      "korean": "계정에 액세스하고 복구 팩터로 사용할 비밀번호를 설정하십시오。",
       "mandarin": "设置将用于访问您的帐户并用作恢复因素的密码。",
       "portuguese": "Defina uma senha que será usada para acessar sua conta e servir como Fator de Recuperação.",
       "spanish": "Establezca una contraseña que se utilizará para acceder a su cuenta y servirá como factor de recuperación."
@@ -116,7 +116,7 @@
       "french": "Définir le mot de passe comme facteur de récupération",
       "german": "Legen Sie das Passwort als Wiederherstellungsfaktor fest",
       "japanese": "パスワードを回復要素として設定する",
-      "korean": "암호를 복구 요소로 설정",
+      "korean": "암호를 복구 팩터로 설정",
       "mandarin": "将密码设置为恢复因子",
       "portuguese": "Definir senha como fator de recuperação",
       "spanish": "Establecer contraseña como factor de recuperación"
@@ -149,7 +149,7 @@
       "french": "Vérification du facteur de récupération",
       "german": "Überprüfung des Wiederherstellungsfaktors",
       "japanese": "回復因子の検証",
-      "korean": "회복인자 검증",
+      "korean": "리커버리팩터 검증",
       "mandarin": "采收率验证",
       "portuguese": "Verificação do Fator de Recuperação",
       "spanish": "Verificación del factor de recuperación"
@@ -160,7 +160,7 @@
       "french": "Collez votre facteur de récupération",
       "german": "Fügen Sie Ihren Wiederherstellungsfaktor ein",
       "japanese": "回復係数を貼り付けます",
-      "korean": "회복 인자 붙여넣기",
+      "korean": "리커버리 팩터 붙여넣기",
       "mandarin": "粘贴你的恢复因子",
       "portuguese": "Cole seu Fator de Recuperação",
       "spanish": "Pega tu factor de recuperación"
@@ -171,7 +171,7 @@
       "french": "Téléchargez le facteur de récupération téléchargé",
       "german": "Laden Sie den heruntergeladenen Wiederherstellungsfaktor hoch",
       "japanese": "ダウンロードした回復係数をアップロードする",
-      "korean": "다운받은 회복인자 업로드",
+      "korean": "다운받은 리커버리팩터 업로드",
       "mandarin": "上传下载的恢复因子",
       "portuguese": "Carregue o fator de recuperação baixado",
       "spanish": "Cargue el factor de recuperación descargado"
@@ -193,7 +193,7 @@
       "french": "Envoyez-moi mon facteur de récupération",
       "german": "Senden Sie mir meinen Erholungsfaktor",
       "japanese": "私の回復係数を送ってください",
-      "korean": "내 회복 인자를 보내주세요",
+      "korean": "내 리커버리 팩터를 보내주세요",
       "mandarin": "给我我的恢复因子",
       "portuguese": "Envie-me meu fator de recuperação",
       "spanish": "Envíame mi factor de recuperación"
@@ -204,7 +204,7 @@
       "french": "Obtenez mon facteur de récupération",
       "german": "Holen Sie sich meinen Erholungsfaktor",
       "japanese": "回復係数を取得する",
-      "korean": "내 회복 인자 받기",
+      "korean": "내 리커버리 팩터 받기",
       "mandarin": "获取我的恢复因子",
       "portuguese": "Obter meu Fator de Recuperação",
       "spanish": "Obtener mi factor de recuperación"
@@ -215,7 +215,7 @@
       "french": "Vous avez enregistré votre facteur de récupération.",
       "german": "Sie haben Ihren Erholungsfaktor gespeichert.",
       "japanese": "回復係数を保存しました。",
-      "korean": "회복 인자를 저장했습니다.",
+      "korean": "리커버리 팩터를 저장했습니다.",
       "mandarin": "您已保存恢复因子。",
       "portuguese": "Você salvou seu Fator de Recuperação.",
       "spanish": "Ha guardado su factor de recuperación."
@@ -237,7 +237,7 @@
       "french": "Votre facteur de récupération est configuré",
       "german": "Ihr Wiederherstellungsfaktor ist eingerichtet",
       "japanese": "回復係数はセットアップです",
-      "korean": "복구 계수가 설정됩니다",
+      "korean": "복구 팩터가 설정됩니다",
       "mandarin": "您的恢复因子是设置",
       "portuguese": "Seu fator de recuperação está configurado",
       "spanish": "Su factor de recuperación está configurado"
@@ -259,7 +259,7 @@
       "french": "Chaque connexion nécessite 2 facteurs pour l'authentification",
       "german": "Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
       "japanese": "各ログインには、認証のために2つの要素が必要です",
-      "korean": "각 로그인에는 인증을 위해 2가지 요소가 필요합니다.",
+      "korean": "각 로그인에는 인증을 위해 2가지 팩터가 필요합니다.",
       "mandarin": "每次登录需要 2 个身份验证因素",
       "portuguese": "Cada login requer 2 fatores para autenticação",
       "spanish": "Cada inicio de sesión requiere 2 factores para la autenticación"
@@ -358,7 +358,7 @@
       "french": "Je comprends que l'effacement de l'historique du navigateur et des cookies supprimera ce facteur de mon navigateur.",
       "german": "Mir ist bewusst, dass das Löschen des Browserverlaufs und der Cookies diesen Faktor in meinem Browser löscht.",
       "japanese": "ブラウザの履歴とCookieをクリアすると、ブラウザのこの要素が削除されることを理解しています。",
-      "korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 요소가 삭제된다는 것을 이해합니다.",
+      "korean": "브라우저 기록 및 쿠키를 지우면 내 브라우저에서 이 팩터가 삭제된다는 것을 이해합니다.",
       "mandarin": "我了解清除浏览器历史记录和 cookie 将删除我浏览器上的这个因素。",
       "portuguese": "Entendo que limpar o histórico e os cookies do navegador excluirá esse fator do meu navegador.",
       "spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador."
@@ -391,7 +391,7 @@
       "french": "Enregistrer l'appareil actuel",
       "german": "Aktuelles Gerät speichern",
       "japanese": "現在のデバイスを保存",
-      "korean": "현재 장치 저장",
+      "korean": "현재 디바이스 저장",
       "mandarin": "保存当前设备",
       "portuguese": "Salvar dispositivo atual",
       "spanish": "Guardar dispositivo actual"
@@ -413,7 +413,7 @@
       "french": "Utilisez le navigateur actuel pour approuver l'accès à partir de nouveaux appareils/navigateurs.",
       "german": "Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen.",
       "japanese": "現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。",
-      "korean": "현재 브라우저를 사용하여 새 장치/브라우저에서 액세스를 승인합니다。",
+      "korean": "현재 브라우저를 사용하여 새 디바이스/브라우저에서 액세스를 승인합니다。",
       "mandarin": "使用当前浏览器批准来自新设备/浏览器的访问。",
       "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores.",
       "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores."
@@ -952,7 +952,7 @@
       "french": "Continuez avec l'un des éléments suivants pour le définir comme facteur de récupération.",
       "german": "Fahren Sie mit einem der folgenden Schritte fort, um ihn als Erholungsfaktor festzulegen.",
       "japanese": "次のいずれかを続行して、回復要素として設定します。",
-      "korean": "다음 중 하나를 계속하여 복구 요인으로 설정하십시오.",
+      "korean": "다음 중 하나를 계속하여 복구 팩터로 설정하십시오.",
       "mandarin": "继续执行以下操作之一，将其设置为您的恢复因素。",
       "portuguese": "Continue com um dos seguintes para defini-lo como seu fator de recuperação.",
       "spanish": "Continúe con uno de los siguientes para configurarlo como su factor de recuperación."
@@ -963,7 +963,7 @@
       "french": "Votre facteur social est configuré avec succès comme deuxième facteur de récupération",
       "german": "Ihr Sozialfaktor wird erfolgreich als 2. Erholungsfaktor eingerichtet",
       "japanese": "あなたの社会的要因は、2 番目の回復要因として正常に設定されました",
-      "korean": "소셜 요인이 2차 회복 요인으로 성공적으로 설정되었습니다.",
+      "korean": "소셜 팩터가 2차 리커버리 팩터로 성공적으로 설정되었습니다.",
       "mandarin": "您的社交因素已成功设置为第二恢复因素",
       "portuguese": "Seu fator social foi configurado com sucesso como um segundo fator de recuperação",
       "spanish": "Su factor social se ha configurado con éxito como un segundo factor de recuperación"
@@ -974,7 +974,7 @@
       "french": "Configurer un facteur de récupération social",
       "german": "Richten Sie einen sozialen Erholungsfaktor ein",
       "japanese": "社会的回復係数を設定する",
-      "korean": "사회적 회복 요인 설정",
+      "korean": "소셜 리커버리 팩터 설정",
       "mandarin": "设置社会恢复因素",
       "portuguese": "Configure um fator de recuperação social",
       "spanish": "Configurar un factor de recuperación social"
@@ -1117,7 +1117,7 @@
       "french": "Souhaitez-vous enregistrer cet appareil en tant qu'appareil de confiance?",
       "german": "Möchten Sie dieses Gerät als vertrauenswürdiges Gerät speichern?",
       "japanese": "このデバイスを信頼できるデバイスとして保存しますか？",
-      "korean": "이 장치를 신뢰할 수 있는 장치로 저장하시겠습니까?",
+      "korean": "이 디바이스를 신뢰할 수 있는 디바이스로 저장하시겠습니까?",
       "mandarin": "您想将此设备保存为受信任的设备吗？",
       "portuguese": "Deseja salvar este dispositivo como um dispositivo confiável?",
       "spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?"
@@ -1183,7 +1183,7 @@
       "french": "Ne pas enregistrer ce navigateur/appareil.",
       "german": "Speichern Sie diesen Browser/dieses Gerät nicht.",
       "japanese": "このブラウザ/デバイスを保存しないでください。",
-      "korean": "이 브라우저/장치를 저장하지 마십시오.",
+      "korean": "이 브라우저/디바이스를 저장하지 마십시오.",
       "mandarin": "不要保存此浏览器/设备。",
       "portuguese": "Não salve este navegador/dispositivo.",
       "spanish": "No guarde este navegador / dispositivo."
@@ -1370,7 +1370,7 @@
       "french": "Incompatibilité du compte, veuillez continuer avec celui que vous avez défini comme facteur de récupération sociale",
       "german": "Konto -Nichtübereinstimmung, bitte fahren Sie mit einem fort, den Sie als sozialer Wiederherstellungsfaktor festgelegt haben",
       "japanese": "アカウントの不一致、ソーシャル回復要因として設定したものを続行してください",
-      "korean": "계정 불일치, 소셜 복구 요인으로 설정 한 것을 계속하십시오.",
+      "korean": "계정 불일치, 소셜 복구 팩터로 설정 한 것을 계속하십시오.",
       "mandarin": "帐户不匹配，请继续将您设置为社会恢复因素",
       "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de recuperação social",
       "spanish": "Desacuadado de la cuenta, continúe con uno que establezca como factor de recuperación social"
@@ -1598,7 +1598,7 @@
       "french": "Sécurisé par SSO et appareil",
       "german": "Durch SSO und Gerät gesichert",
       "japanese": "SSOとデバイスによって保護されています",
-      "korean": "SSO 및 장치로 보호",
+      "korean": "SSO 및 디바이스로 보호",
       "mandarin": "由SSO和设备保护",
       "portuguese": "Protegido por SSO e dispositivo",
       "spanish": "Asegurado por SSO y dispositivo"
@@ -1642,7 +1642,7 @@
       "french": "Télécharger mon facteur de récupération",
       "german": "Laden Sie meinen Wiederherstellungsfaktor herunter",
       "japanese": "私のリカバリーファクターをダウンロードする",
-      "korean": "내 회복 인자 다운로드",
+      "korean": "내 리커버리 팩터 다운로드",
       "mandarin": "下载我的恢复因子",
       "portuguese": "Baixar meu fator de recuperação",
       "spanish": "Descargar mi factor de recuperación"
@@ -1675,7 +1675,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "리커버리 팩터",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1686,7 +1686,7 @@
       "french": "Vérifiez votre facteur de récupération",
       "german": "Überprüfen Sie Ihren Erholungsfaktor",
       "japanese": "回復率を確認する",
-      "korean": "회복 계수 확인",
+      "korean": "리커버리 팩터 확인",
       "mandarin": "验证您的恢复系数",
       "portuguese": "Verifique seu fator de recuperação",
       "spanish": "Verifique su factor de recuperación"
@@ -1697,7 +1697,7 @@
       "french": "Collez le facteur de récupération",
       "german": "Fügen Sie den Wiederherstellungsfaktor ein",
       "japanese": "回復係数を貼り付けます",
-      "korean": "회복 인자 붙여넣기",
+      "korean": "리커버리 팩터 붙여넣기",
       "mandarin": "粘贴恢复因子",
       "portuguese": "Cole o fator de recuperação",
       "spanish": "Pegar el factor de recuperación"
@@ -1708,7 +1708,7 @@
       "french": "Collez le facteur de récupération envoyé à votre e-mail {0}",
       "german": "Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0}",
       "japanese": "メール {0} に送信された回復係数を貼り付けます",
-      "korean": "이메일로 전송된 복구 요소를 붙여넣습니다. {0}",
+      "korean": "이메일로 전송된 복구 팩터를 붙여넣습니다. {0}",
       "mandarin": "粘贴发送到您的电子邮件 {0} 的恢复因素",
       "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}",
       "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}"
@@ -1730,7 +1730,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "리커버리 팩터",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1741,7 +1741,7 @@
       "french": "Entrez le facteur de récupération",
       "german": "Erholungsfaktor eingeben",
       "japanese": "回復係数を入力してください",
-      "korean": "회복 계수 입력",
+      "korean": "리커버리 팩터 입력",
       "mandarin": "输入恢复系数",
       "portuguese": "Insira o fator de recuperação",
       "spanish": "Ingrese el factor de recuperación"
@@ -1752,7 +1752,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "리커버리 팩터",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1829,7 +1829,7 @@
       "french": "Veuillez coller votre facteur de récupération",
       "german": "Bitte fügen Sie Ihren Wiederherstellungsfaktor ein",
       "japanese": "回復係数を貼り付けてください",
-      "korean": "복구 계수를 붙여 넣으십시오",
+      "korean": "복구 팩터를 붙여 넣으십시오",
       "mandarin": "请粘贴您的恢复因素",
       "portuguese": "Cole o seu fator de recuperação",
       "spanish": "Pegue su factor de recuperación"
@@ -2049,7 +2049,7 @@
       "french": "* Uniquement pour Touch ID / Face ID précédemment configuré sur le(s) appareil(s) suivant(s) :",
       "german": "* Nur für Touch ID / Face ID, die zuvor auf den folgenden Geräten eingerichtet wurden:",
       "japanese": "*以下のデバイスで以前に設定されたTouchID / Face IDの場合のみ：",
-      "korean": "* 다음 장치에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
+      "korean": "* 다음 디바이스에서 이전에 설정 한 Touch ID / Face ID에만 해당됩니다.",
       "mandarin": "*仅适用于先前在以下设备上设置的Touch ID / Face ID：",
       "portuguese": "* Apenas para Touch ID / Face ID previamente configurado no(s) seguinte(s) dispositivo(s):",
       "spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:"
@@ -2060,7 +2060,7 @@
       "french": "Appareil(s) activé(s) Face ID / Touch ID *",
       "german": "Face ID / Touch ID-fähige Geräte *",
       "japanese": "Face ID / TouchID対応デバイス*",
-      "korean": "Face ID / Touch ID 지원 장치 *",
+      "korean": "Face ID / Touch ID 지원 디바이스 *",
       "mandarin": "支持面部识别/触摸识别的设备*",
       "portuguese": "Dispositivo(s) habilitado(s) para Face ID / Touch ID*",
       "spanish": "Dispositivos habilitados con Face ID / Touch ID *"
@@ -2104,7 +2104,7 @@
       "french": "à partir de l'un des appareils suivants pour compléter la vérification de sécurité.",
       "german": "von einem der folgenden Geräte, um die Sicherheitsüberprüfung abzuschließen.",
       "japanese": "次のいずれかのデバイスからセキュリティ検証を完了します。",
-      "korean": "다음 장치 중 하나에서 보안 확인을 완료하십시오.",
+      "korean": "다음 디바이스 중 하나에서 보안 확인을 완료하십시오.",
       "mandarin": "从以下任何设备中完成安全性验证。",
       "portuguese": "de qualquer um dos seguintes dispositivos para concluir a verificação de segurança.",
       "spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad."
@@ -2148,7 +2148,7 @@
       "french": "Appareil(s)",
       "german": "Geräte",
       "japanese": "デバイス",
-      "korean": "장치",
+      "korean": "디바이스",
       "mandarin": "设备",
       "portuguese": "Dispositivo(s)",
       "spanish": "Dispositivos"
@@ -2170,7 +2170,7 @@
       "french": "Uniquement pour les méthodes d'authentification Web qui ont été précédemment configurées sur le(s) appareil(s) suivant(s)",
       "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
       "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
-      "korean": "다음 장치에서 이전에 설정된 웹 인증 방법에 대해서만",
+      "korean": "다음 디바이스에서 이전에 설정된 웹 인증 방법에 대해서만",
       "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
       "portuguese": "Apenas para métodos de autenticação da web que foram configurados anteriormente no(s) seguinte(s) dispositivo(s)",
       "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos"
@@ -2181,7 +2181,7 @@
       "french": "Appareil(s) habilité(s) pour l'authentification Web",
       "german": "Webauthentifizierung aktiviertes Geräte (en)",
       "japanese": "Web認証有効化デバイス",
-      "korean": "웹 인증 활성화 장치",
+      "korean": "웹 인증 활성화 디바이스",
       "mandarin": "Web身份验证启用设备",
       "portuguese": "Dispositivo(s) habilitado(s) para utenticação da Web",
       "spanish": "Dispositivo (s) de autenticación web"
@@ -2269,7 +2269,7 @@
       "french": "Entrez le facteur de récupération envoyé à {email} le {date}",
       "german": "Geben Sie den Wiederherstellungsfaktor ein, der am {date} an {email} gesendet wurde",
       "japanese": "{date} に {email} に送信された回復係数を入力してください",
-      "korean": "{date}에 {email}로 전송된 회복 인자 입력",
+      "korean": "{date}에 {email}로 전송된 리커버리 팩터 입력",
       "mandarin": "输入在 {date} 发送到 {email} 的恢复因子",
       "portuguese": "Insira o fator de recuperação enviado para {email} em {data}",
       "spanish": "Ingrese el factor de recuperación enviado a {email} el {fecha}"
@@ -2401,7 +2401,7 @@
       "french": "Enregistrez votre appareil avec Face ID ou Touch ID. La biométrie ne quitte jamais votre appareil.",
       "german": "Registrieren Sie Ihr Gerät mit Face ID oder Touch ID. Biometrie verlässt Ihr Gerät nie.",
       "japanese": "デバイスを Face ID または Touch ID で登録します。 生体認証がデバイスから離れることはありません。",
-      "korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 장치를 떠나지 않습니다.",
+      "korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인식은 디바이스를 떠나지 않습니다.",
       "mandarin": "使用面容 ID 或触控 ID 注册您的设备。 生物识别技术永远不会离开您的设备。",
       "portuguese": "Registre seu dispositivo com Face ID ou Touch ID. A biometria nunca sai do seu dispositivo.",
       "spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo."
@@ -2445,7 +2445,7 @@
       "french": "Enregistrez votre appareil avec n'importe quelles méthodes d'authentification Web.",
       "german": "Registrieren Sie Ihr Gerät alle Webauthentifizierungsmethoden.",
       "japanese": "Web認証方法をデバイスに登録してください。",
-      "korean": "웹 인증 방법을 장치에 등록하십시오.",
+      "korean": "웹 인증 방법을 디바이스에 등록하십시오.",
       "mandarin": "注册您的设备任何Web身份验证方法。",
       "portuguese": "Registre seu dispositivo em qualquer método de autenticação da web.",
       "spanish": "Registre su dispositivo cualquier método de autenticación web."
@@ -2478,7 +2478,7 @@
       "french": "Enregistrez votre appareil avec la biométrie ou n'importe quelles méthodes d'authentification Web.",
       "german": "Registrieren Sie Ihr Gerät mit Biometrie oder Webauthentifizierungsmethoden.",
       "japanese": "バイオメトリクスまたはWeb認証方法でデバイスを登録します。",
-      "korean": "생체 인식 또는 웹 인증 방법으로 장치를 등록하십시오.",
+      "korean": "생체 인식 또는 웹 인증 방법으로 디바이스를 등록하십시오.",
       "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
       "portuguese": "Registre seu dispositivo com biometria ou qualquer método de autenticação da web.",
       "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web."
@@ -2577,7 +2577,7 @@
       "french": "Souhaitez-vous activer Touch ID / Face ID sur cet appareil?",
       "german": "Möchten Sie die Touch ID / Face ID auf diesem Gerät aktivieren?",
       "japanese": "このデバイスでTouchID / Face IDを有効にしますか？",
-      "korean": "이 장치에서 Touch ID / Face ID를 활성화 하시겠습니까?",
+      "korean": "이 디바이스에서 Touch ID / Face ID를 활성화 하시겠습니까?",
       "mandarin": "您要在此设备上启用Touch ID / Face ID吗？",
       "portuguese": "Gostaria de ativar o Touch ID / Face ID neste dispositivo?",
       "spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?"
@@ -2775,7 +2775,7 @@
       "french": "Définir le facteur de récupération sociale",
       "german": "Setzen Sie den sozialen Genesungsfaktor",
       "japanese": "社会的回復要因を設定します",
-      "korean": "사회 복구 요인을 설정하십시오",
+      "korean": "사회 복구 팩터를 설정하십시오",
       "mandarin": "设定社会恢复因素",
       "portuguese": "Definir fator de recuperação social",
       "spanish": "Establecer factor de recuperación social"
@@ -2786,7 +2786,7 @@
       "french": "Connectez-vous avec l'un des comptes sociaux pour le définir comme facteur de récupération",
       "german": "Melden Sie sich mit einem der sozialen Konto an, um es als Wiederherstellungsfaktor festzulegen",
       "japanese": "ソーシャルアカウントのいずれかでログインして、回復要因として設定します",
-      "korean": "소셜 계정에 로그인하여 복구 계수로 설정",
+      "korean": "소셜 계정에 로그인하여 복구 팩터로 설정",
       "mandarin": "用任何社会帐户登录将其设置为恢复因素",
       "portuguese": "Faça login com qualquer conta social para defini-la como fator de recuperação",
       "spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación"
@@ -2852,7 +2852,7 @@
       "french": "Facteur de récupération sociale",
       "german": "Sozialer Genesungsfaktor",
       "japanese": "社会的回復要因",
-      "korean": "사회 복구 요인",
+      "korean": "소셜 복구 팩터",
       "mandarin": "社会恢复因素",
       "portuguese": "Fator de Recuperação Social",
       "spanish": "Factor de recuperación social"
@@ -2885,7 +2885,7 @@
       "french": "Ce facteur social ne sert que de partage de sauvegarde pour récupérer votre compte lié à",
       "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen.",
       "japanese": "このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
-      "korean": "이 사회적 요소는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
+      "korean": "이 소셜 팩터는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
       "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd@xyz.com”。",
       "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd@xyz.com”.",
       "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd@xyz.com\"."
@@ -2896,7 +2896,7 @@
       "french": "La connexion avec ce facteur social sur la page de connexion vous donnera un nouveau compte.",
       "german": "Wenn Sie sich bei diesem sozialen Faktor auf der Anmeldeseite anmelden, erhalten Sie ein neues Konto.",
       "japanese": "ログインページでこのソーシャルファクターにサインインすると、新しいアカウントが提供されます。",
-      "korean": "로그인 페이지 에서이 소셜 요소에 로그인하면 새 계정이 제공됩니다。",
+      "korean": "로그인 페이지 에서이 소셜 팩터에 로그인하면 새 계정이 제공됩니다。",
       "mandarin": "在登录页面上使用此社交因素签名将为您提供一个新帐户。",
       "portuguese": "Entrar com este fator social na página de login lhe dará uma nova conta.",
       "spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta."
@@ -2929,7 +2929,7 @@
       "french": "Vous utilisez la même adresse e-mail pour la connexion au compte et le facteur social. Ceci est insécurisé. Voulez-vous toujours continuer?",
       "german": "Sie verwenden dieselbe E -Mail für Kontoanmeldung und sozialer Faktor. Das ist unsicher. Möchten Sie immer noch fortfahren?",
       "japanese": "アカウントログインとソーシャルファクターに同じメールを使用しています。これは不安です。まだ進みたいですか？",
-      "korean": "계정 로그인 및 소셜 요소에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않습니다. 아직도 진행하고 싶습니까?",
+      "korean": "계정 로그인 및 소셜 팩터에 동일한 이메일을 사용하고 있습니다. 이것은 안전하지 않습니다. 아직도 진행하고 싶습니까?",
       "mandarin": "您正在使用同一电子邮件进行帐户登录和社会因素。这是不安全的。您还想继续吗？",
       "portuguese": "Você está usando o mesmo e-mail para login da conta e fator social. Isso é inseguro. Você ainda gostaria de prosseguir?",
       "spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?"
@@ -2940,7 +2940,7 @@
       "french": "Vérification du facteur social",
       "german": "Überprüfung des sozialen Faktors",
       "japanese": "社会的要因の検証",
-      "korean": "사회적 요인 검증",
+      "korean": "소셜 팩터 검증",
       "mandarin": "社会因素验证",
       "portuguese": "Verificação do fator social",
       "spanish": "Verificación del factor social"
@@ -2951,7 +2951,7 @@
       "french": "Continuez avec celui que vous avez défini comme facteur de récupération sociale",
       "german": "Fahren Sie mit einem fort, den Sie als sozialen Wiederherstellungsfaktor festgelegt haben",
       "japanese": "ソーシャル回復係数として設定したものを続行します",
-      "korean": "사회적 회복 요인으로 설정한 것으로 계속",
+      "korean": "소셜 리커버리 팩터으로 설정한 것으로 계속",
       "mandarin": "继续您设置为社会恢复因素的因素",
       "portuguese": "Continue com aquele que você definiu como um fator de recuperação social",
       "spanish": "Continúe con uno que establezca como factor de recuperación social"
@@ -3160,7 +3160,7 @@
       "french": "Vérifiez avec un autre facteur pour continuer",
       "german": "Überprüfen Sie mit einem weiteren Faktor, um fortzufahren",
       "japanese": "もう1つの要因を確認してください",
-      "korean": "계속할 요소가 하나 더 확인하십시오",
+      "korean": "계속할 팩터가 하나 더 확인하십시오",
       "mandarin": "验证另一个因素继续",
       "portuguese": "Verifique com mais um fator para continuar",
       "spanish": "Verifique con un factor más para continuar"
@@ -3171,7 +3171,7 @@
       "french": "Vérifiez avec votre facteur de récupération envoyé pour continuer",
       "german": "Überprüfen Sie mit Ihrem Wiederherstellungsfaktor, um fortzufahren",
       "japanese": "継続するために送信される回復係数を確認します",
-      "korean": "회복 요소가 계속되도록 확인하십시오",
+      "korean": "리커버리 팩터가 계속되도록 확인하십시오",
       "mandarin": "验证您发送的恢复因素继续",
       "portuguese": "Verifique com seu fator de recuperação enviado para continuar",
       "spanish": "Verifique con su factor de recuperación enviado para continuar"

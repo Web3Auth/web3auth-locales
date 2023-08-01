@@ -17,7 +17,7 @@
       "french": "Navigation principale",
       "german": "Hauptnavigation",
       "japanese": "メインナビゲーション",
-      "korean": "메인 탐색",
+      "korean": "메인 내비게이션",
       "mandarin": "主要导航",
       "portuguese": "Navegação Principal",
       "spanish": "Navegación Principal"
@@ -72,7 +72,7 @@
       "french": "Se déconnecter",
       "german": "Ausloggen",
       "japanese": "ログアウト",
-      "korean": "로그 아웃",
+      "korean": "로그아웃",
       "mandarin": "登出",
       "portuguese": "Sair",
       "spanish": "Cerrar sesión"
@@ -83,7 +83,7 @@
       "french": "Soutien",
       "german": "Unterstützung",
       "japanese": "サポート",
-      "korean": "지원하다",
+      "korean": "지원",
       "mandarin": "支持",
       "portuguese": "Suporte",
       "spanish": "Apoyo"
@@ -94,7 +94,7 @@
       "french": "Navigation principale en bas",
       "german": "Hauptnavigation unten",
       "japanese": "メインナビゲーションボトム",
-      "korean": "메인 탐색 바닥",
+      "korean": "메인 내비게이션 아래",
       "mandarin": "主导航底部",
       "portuguese": "Principal de navegação principal",
       "spanish": "Parte de la navegación principal"
@@ -105,7 +105,7 @@
       "french": "logo",
       "german": "Logo",
       "japanese": "ロゴ",
-      "korean": "심벌 마크",
+      "korean": "로고",
       "mandarin": "标识",
       "portuguese": "logotipo",
       "spanish": "logo"
