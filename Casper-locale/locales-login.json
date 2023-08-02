@@ -468,7 +468,7 @@
             "english": "Backup Phrase",
             "german": "Sicherungssatz",
             "japanese": "バックアップフレーズ",
-            "korean": "백업 문구",
+            "korean": "백업 구문",
             "mandarin": "备用词组",
             "spanish": "Frase de respaldo"
         },
@@ -500,7 +500,7 @@
             "english": "Enter backup phrase here",
             "german": "Geben Sie hier die Sicherungsphrase ein",
             "japanese": "ここにバックアップフレーズを入力してください",
-            "korean": "여기에 백업 문구 입력",
+            "korean": "여기에 백업 구문 입력",
             "mandarin": "在此处输入备用词组",
             "spanish": "Ingrese la frase de respaldo aquí"
         },
@@ -508,7 +508,7 @@
             "english": "Enter backup phrase here",
             "german": "Geben Sie hier die Sicherungsphrase ein",
             "japanese": "ここにバックアップフレーズを入力してください",
-            "korean": "여기에 백업 문구 입력",
+            "korean": "여기에 백업 구문 입력",
             "mandarin": "在此处输入备用词组",
             "spanish": "Ingrese la frase de respaldo aquí"
         },
@@ -532,7 +532,7 @@
             "english": "Incorrect backup phrase",
             "german": "Falsche Sicherungsphrase",
             "japanese": "間違ったバックアップフレーズ",
-            "korean": "잘못된 백업 문구",
+            "korean": "잘못된 백업 구문",
             "mandarin": "备份短语不正确",
             "spanish": "Frase de respaldo incorrecta"
         },
@@ -572,7 +572,7 @@
             "english": "Save a copy of your backup phrase",
             "german": "Speichern Sie eine Kopie Ihrer Sicherungsphrase",
             "japanese": "バックアップフレーズのコピーを保存します",
-            "korean": "백업 문구 사본 저장",
+            "korean": "백업 구문 사본 저장",
             "mandarin": "保存备份短语的副本",
             "spanish": "Guarde una copia de su frase de respaldo"
         },
@@ -588,7 +588,7 @@
             "english": "tKey Backup Phrase",
             "german": "tKey Backup Phrase",
             "japanese": "tKeyバックアップフレーズ",
-            "korean": "tKey 백업 문구",
+            "korean": "tKey 백업 구문",
             "mandarin": "tKey备份短语",
             "spanish": "tKey Frase de respaldo"
         }
@@ -816,7 +816,7 @@
             "english": "Your tKey account is managed by your login (e.g. Google), your device, and a password. Set up your account and access it with any two of the authentication factors during each login.",
             "german": "Ihr tKey-Konto wird von Ihrem Login (z. B. Google), Ihrem Gerät und einem Passwort verwaltet. Richten Sie Ihr Konto ein und greifen Sie bei jeder Anmeldung mit zwei beliebigen Authentifizierungsfaktoren darauf zu.",
             "japanese": "tKeyアカウントは、ログイン（Googleなど）、デバイス、およびパスワードによって管理されます。アカウントを設定し、ログインするたびに2つの認証要素を使用してアカウントにアクセスします。",
-            "korean": "tKey 어카운트은 로그인 (예 : Google), 기기 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
+            "korean": "tKey 어카운트은 로그인 (예 : Google), 디바이스 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
             "mandarin": "您的tKey帐户由您的登录名（例如Google），设备和密码来管理。设置您的帐户，并在每次登录时使用任意两个身份验证因子进行访问。",
             "spanish": "Su cuenta tKey es administrada por su nombre de usuario (por ejemplo, Google), su dispositivo y una contraseña. Configure su cuenta y acceda a ella con dos de los factores de autenticación durante cada inicio de sesión."
         },
@@ -1100,7 +1100,7 @@
             "english": "You may want to set up a recovery password in case you lose your device.",
             "german": "Möglicherweise möchten Sie ein Wiederherstellungskennwort einrichten, falls Sie Ihr Gerät verlieren.",
             "japanese": "デバイスを紛失した場合に備えて、回復パスワードを設定することをお勧めします。",
-            "korean": "기기를 분실 한 경우를 대비하여 복구 비밀번호를 설정하는 것이 좋습니다.",
+            "korean": "디바이스를 분실 한 경우를 대비하여 복구 비밀번호를 설정하는 것이 좋습니다.",
             "mandarin": "您可能需要设置恢复密码，以防设备丢失。",
             "spanish": "Es posible que desee configurar una contraseña de recuperación en caso de que pierda su dispositivo."
         },
@@ -1632,7 +1632,7 @@
             "english": "It seems like you trying to login from a new device/browser.",
             "german": "Anscheinend versuchen Sie, sich von einem neuen Gerät / Browser aus anzumelden.",
             "japanese": "新しいデバイス/ブラウザからログインしようとしているようです。",
-            "korean": "새 기기 / 브라우저에서 로그인하려는 것 같습니다.",
+            "korean": "새 디바이스 / 브라우저에서 로그인하려는 것 같습니다.",
             "mandarin": "似乎您尝试从新设备/浏览器登录。",
             "spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo / navegador."
         },

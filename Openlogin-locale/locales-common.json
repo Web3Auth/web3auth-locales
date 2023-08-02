@@ -28,7 +28,7 @@
       "french": "Phrase de sauvegarde copiée",
       "german": "Sicherungssatz kopiert",
       "japanese": "バックアップ フレーズがコピーされました",
-      "korean": "백업 문구 복사됨",
+      "korean": "백업 구문 복사됨",
       "mandarin": "备份短语已复制",
       "portuguese": "Frase de backup copiada",
       "spanish": "Frase de respaldo copiada"
@@ -119,7 +119,7 @@
       "french": "Copier la phrase de sauvegarde",
       "german": "Sicherungssatz kopieren",
       "japanese": "バックアップフレーズをコピー",
-      "korean": "백업 문구 복사",
+      "korean": "백업 구문 복사",
       "mandarin": "复制备份短语",
       "portuguese": "Copiar Frase de Backup",
       "spanish": "Copiar frase de respaldo"
@@ -141,7 +141,7 @@
       "french": "Copier la phrase de récupération",
       "german": "Wiederherstellungssatz kopieren",
       "japanese": "リカバリーフレーズをコピー",
-      "korean": "복구 문구 복사",
+      "korean": "복구 구문 복사",
       "mandarin": "复制助记词",
       "portuguese": "Copiar frase de recuperação",
       "spanish": "Copiar frase de recuperación"
@@ -214,7 +214,7 @@
       "english": "Invalid mnemonic phrase",
       "german": "Ungültige mnemonische Phrase",
       "japanese": "ニーモニックフレーズが無効です",
-      "korean": "잘못된 니모닉 문구",
+      "korean": "잘못된 니모닉 구문",
       "mandarin": "助记词短语无效",
       "portuguese": "Frase mnemônica inválida",
       "spanish": "Frase mnemotécnica no válida"
@@ -425,7 +425,7 @@
       "french": "Phrase de récupération copiée",
       "german": "Wiederherstellungssatz kopiert",
       "japanese": "回復フレーズがコピーされました",
-      "korean": "복구 문구 복사됨",
+      "korean": "복구 구문 복사됨",
       "mandarin": "助记词已复制",
       "portuguese": "Frase de Recuperação Copiada",
       "spanish": "Frase de recuperación copiada"
@@ -520,7 +520,7 @@
       "english": "Backup Phrase sent to your email",
       "german": "Sicherungssatz an Ihre E-Mail gesendet",
       "japanese": "メールに送信されたバックアップフレーズ",
-      "korean": "이메일로 전송 된 백업 문구",
+      "korean": "이메일로 전송 된 백업 구문",
       "mandarin": "备用词组已发送到您的电子邮件",
       "portuguese": "Frase de segurança enviada para o seu e-mail",
       "spanish": "Frase de seguridad enviada a su correo electrónico"

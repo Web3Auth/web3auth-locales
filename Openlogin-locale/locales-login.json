@@ -446,7 +446,7 @@
       "french": "Copier la phrase",
       "german": "Satz kopieren",
       "japanese": "フレーズをコピーする",
-      "korean": "문구 복사",
+      "korean": "구문 복사",
       "mandarin": "复制短语",
       "portuguese": "Copiar frase",
       "spanish": "Copiar frase"
@@ -457,7 +457,7 @@
       "french": "Télécharger ma phrase de récupération",
       "german": "Laden Sie meinen Wiederherstellungssatz herunter",
       "japanese": "私の回復フレーズをダウンロードする",
-      "korean": "내 복구 문구 다운로드",
+      "korean": "내 복구 구문 다운로드",
       "mandarin": "下载我的恢复短语",
       "portuguese": "Baixar minha frase de recuperação",
       "spanish": "Descarga mi frase de recuperación"
@@ -523,7 +523,7 @@
       "french": "Enregistrez manuellement votre phrase",
       "german": "Speichern Sie Ihren Satz manuell",
       "japanese": "フレーズを手動で保存する",
-      "korean": "수동으로 문구 저장",
+      "korean": "수동으로 구문 저장",
       "mandarin": "手动保存您的短语",
       "portuguese": "Salve manualmente sua frase",
       "spanish": "Guarde manualmente su frase"
@@ -567,7 +567,7 @@
       "french": "Envoyer la phrase de récupération",
       "german": "Wiederherstellungsphrase senden",
       "japanese": "回復フレーズを送信する",
-      "korean": "복구 문구 보내기",
+      "korean": "복구 구문 보내기",
       "mandarin": "发送恢复短语",
       "portuguese": "Enviar frase de recuperação",
       "spanish": "Enviar frase de recuperación"
@@ -666,7 +666,7 @@
       "french": "Enregistrer ma phrase de récupération sans e-mail",
       "german": "Meine Wiederherstellungsphrase ohne E-Mail speichern",
       "japanese": "メールなしで回復フレーズを保存する",
-      "korean": "이메일 없이 내 복구 문구 저장",
+      "korean": "이메일 없이 내 복구 구문 저장",
       "mandarin": "无需电子邮件即可保存我的恢复短语",
       "portuguese": "Salvar minha frase de recuperação sem e-mail",
       "spanish": "Guardar mi frase de recuperación sin correo electrónico"
@@ -754,7 +754,7 @@
       "french": "Phrase de récupération",
       "german": "Wiederherstellungsphrase",
       "japanese": "回復フレーズ",
-      "korean": "복구 문구",
+      "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación"
@@ -776,7 +776,7 @@
       "french": "Vérifiez votre phrase de récupération",
       "german": "Bestätigen Sie Ihren Wiederherstellungssatz",
       "japanese": "回復フレーズを確認する",
-      "korean": "복구 문구 확인",
+      "korean": "복구 구문 확인",
       "mandarin": "验证您的恢复短语",
       "portuguese": "Verifique sua frase de recuperação",
       "spanish": "Verifica tu frase de recuperación"
@@ -787,7 +787,7 @@
       "french": "Collez la phrase de récupération",
       "german": "Fügen Sie den Wiederherstellungssatz ein",
       "japanese": "回復フレーズを貼り付けます",
-      "korean": "복구 문구 붙여넣기",
+      "korean": "복구 구문 붙여넣기",
       "mandarin": "粘贴恢复短语",
       "portuguese": "Cole a frase de recuperação",
       "spanish": "Pega la frase de recuperación"
@@ -886,7 +886,7 @@
       "french": "Étape 1 : Enregistrer votre appareil",
       "german": "Schritt 1: Speichern Sie Ihr Gerät",
       "japanese": "ステップ1：デバイスを保存する",
-      "korean": "1단계: 기기 저장",
+      "korean": "1단계: 디바이스 저장",
       "mandarin": "第 1 步：保存您的设备",
       "portuguese": "Etapa 1: salve seu dispositivo",
       "spanish": "Paso 1: Guarde su dispositivo"
@@ -897,7 +897,7 @@
       "french": "Enregistrer la phrase de récupération",
       "german": "Wiederherstellungsphrase speichern",
       "japanese": "回復フレーズを保存する",
-      "korean": "복구 문구 저장",
+      "korean": "복구 구문 저장",
       "mandarin": "保存恢复短语",
       "portuguese": "Salvar frase de recuperação",
       "spanish": "Guardar frase de recuperación"
@@ -908,7 +908,7 @@
       "french": "Étape 2 : Enregistrer la phrase de récupération",
       "german": "Schritt 2: Speichern Sie die Wiederherstellungsphrase",
       "japanese": "ステップ2：リカバリフレーズを保存する",
-      "korean": "2단계: 복구 문구 저장",
+      "korean": "2단계: 복구 구문 저장",
       "mandarin": "第 2 步：保存恢复短语",
       "portuguese": "Etapa 2: salvar a frase de recuperação",
       "spanish": "Paso 2: Guarda la frase de recuperación"
@@ -919,7 +919,7 @@
       "french": "Étape 3 : Vérifier la phrase de récupération",
       "german": "Schritt 3: Überprüfen Sie die Wiederherstellungsphrase",
       "japanese": "ステップ3：リカバリフレーズを確認する",
-      "korean": "3단계: 복구 문구 확인",
+      "korean": "3단계: 복구 구문 확인",
       "mandarin": "第 3 步：验证恢复短语",
       "portuguese": "Etapa 3: verificar a frase de recuperação",
       "spanish": "Paso 3: Verificar la frase de recuperación"
@@ -1018,7 +1018,7 @@
       "french": "{0} appareils disponibles",
       "german": "{0} Geräte verfügbar",
       "japanese": "利用可能な{0}デバイス",
-      "korean": "사용 가능한 기기 {0}대",
+      "korean": "사용 가능한 디바이스 : {0}대",
       "mandarin": "{0} 台设备可用",
       "portuguese": "{0} dispositivos disponíveis",
       "spanish": "{0} dispositivos disponibles"
@@ -1029,7 +1029,7 @@
       "french": "Entrez la phrase de récupération",
       "german": "Geben Sie den Wiederherstellungssatz ein",
       "japanese": "回復フレーズを入力してください",
-      "korean": "복구 문구 입력",
+      "korean": "복구 구문 입력",
       "mandarin": "输入恢复短语",
       "portuguese": "Digite a frase de recuperação",
       "spanish": "Ingrese la frase de recuperación"
@@ -1051,7 +1051,7 @@
       "french": "Phrase de récupération",
       "german": "Wiederherstellungsphrase",
       "japanese": "回復フレーズ",
-      "korean": "복구 문구",
+      "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación"
@@ -1106,7 +1106,7 @@
       "french": "Enregistrer cet appareil",
       "german": "Speichern Sie dieses Gerät",
       "japanese": "このデバイスを保存します",
-      "korean": "이 기기 저장",
+      "korean": "이 디바이스 저장",
       "mandarin": "保存此设备",
       "portuguese": "Salvar este dispositivo",
       "spanish": "Guardar este dispositivo"
@@ -1205,7 +1205,7 @@
       "french": "Navigateur(s) / appareil(s) enregistré(s)",
       "german": "Gespeicherte(r) Browser/Geräte",
       "japanese": "保存されたブラウザ/デバイス",
-      "korean": "저장된 브라우저/기기",
+      "korean": "저장된 브라우저/디바이스",
       "mandarin": "保存的浏览器/设备",
       "portuguese": "Navegadores/dispositivos salvos",
       "spanish": "Navegadores / dispositivos guardados"
@@ -1216,7 +1216,7 @@
       "french": "Phrase de récupération",
       "german": "Wiederherstellungsphrase",
       "japanese": "回復フレーズ",
-      "korean": "복구 문구",
+      "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación"
@@ -1227,7 +1227,7 @@
       "french": "Entrez la phrase de récupération",
       "german": "Geben Sie den Wiederherstellungssatz ein",
       "japanese": "回復フレーズを入力してください",
-      "korean": "복구 문구 입력",
+      "korean": "복구 구문 입력",
       "mandarin": "输入恢复短语",
       "portuguese": "Digite a frase de recuperação",
       "spanish": "Ingrese la frase de recuperación"
@@ -1238,7 +1238,7 @@
       "french": "Phrase de récupération",
       "german": "Wiederherstellungsphrase",
       "japanese": "回復フレーズ",
-      "korean": "복구 문구",
+      "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación"
@@ -1488,7 +1488,7 @@
       "french": "Phrase de sauvegarde incorrecte",
       "german": "Falsche Sicherungsphrase",
       "japanese": "間違ったバックアップフレーズ",
-      "korean": "잘못된 백업 문구",
+      "korean": "잘못된 백업 구문",
       "mandarin": "备份短语不正确",
       "portuguese": "Frase de backup incorreta",
       "spanish": "Frase de respaldo incorrecta"
@@ -1719,7 +1719,7 @@
       "french": "Enregistrer le facteur de récupération",
       "german": "Wiederherstellungsphrase speichern",
       "japanese": "回復フレーズを保存する",
-      "korean": "복구 문구 저장",
+      "korean": "복구 구문 저장",
       "mandarin": "保存恢复短语",
       "portuguese": "Salvar fator de recuperação",
       "spanish": "Guardar frase de recuperación"
@@ -2027,7 +2027,7 @@
       "french": "Entrez la phrase de sauvegarde",
       "german": "Geben Sie die Sicherungsphrase ein",
       "japanese": "バックアップフレーズを入力してください",
-      "korean": "백업 문구 입력",
+      "korean": "백업 구문 입력",
       "mandarin": "输入备用词组",
       "portuguese": "Digite a frase de backup",
       "spanish": "Ingrese la frase de respaldo"
@@ -2038,7 +2038,7 @@
       "french": "Phrase de sauvegarde",
       "german": "Sicherungssatz",
       "japanese": "バックアップフレーズ",
-      "korean": "백업 문구",
+      "korean": "백업 구문",
       "mandarin": "备用词组",
       "portuguese": "Frase de backup",
       "spanish": "Frase de respaldo"
@@ -2335,7 +2335,7 @@
       "french": "Un e-mail vous sera envoyé contenant la phrase de sauvegarde. Il vous aide à récupérer votre compte en cas de perte de votre appareil.",
       "german": "Sie erhalten eine E-Mail mit der Sicherungsphrase. Sie hilft Ihnen bei der Wiederherstellung des Kontos, falls Sie Ihr Gerät verlieren.",
       "japanese": "バックアップフレーズを記載したメールが送信されます。デバイスを紛失した場合のアカウントの復旧に役立ちます。",
-      "korean": "백업 문구가 포함 된 이메일이 전송됩니다.  기기 분실시 계정 복구에 도움이됩니다.",
+      "korean": "백업 문구가 포함 된 이메일이 전송됩니다.  디바이스 분실시 계정 복구에 도움이됩니다.",
       "mandarin": "包含备用短语的电子邮件将发送给您。如果您丢失了设备，它将帮助您进行帐户恢复。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup. Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo."
@@ -2357,7 +2357,7 @@
       "french": "Il vous aide à récupérer votre compte en cas de perte de votre appareil.",
       "german": "Es hilft Ihnen bei der Kontowiederherstellung, falls Sie Ihr Gerät verlieren.",
       "japanese": "デバイスを紛失した場合のアカウントの回復に役立ちます。",
-      "korean": "기기 분실시 계정 복구에 도움이됩니다.",
+      "korean": "디바이스 분실시 계정 복구에 도움이됩니다.",
       "mandarin": "它可以帮助您在丢失设备时恢复帐户。",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo."
@@ -2775,7 +2775,7 @@
       "french": "Définir le facteur de récupération sociale",
       "german": "Setzen Sie den sozialen Genesungsfaktor",
       "japanese": "社会的回復要因を設定します",
-      "korean": "사회 복구 팩터를 설정하십시오",
+      "korean": "소셜 복구 팩터를 설정하십시오",
       "mandarin": "设定社会恢复因素",
       "portuguese": "Definir fator de recuperação social",
       "spanish": "Establecer factor de recuperación social"

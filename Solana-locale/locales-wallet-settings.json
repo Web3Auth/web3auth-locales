@@ -206,7 +206,7 @@
 			"english": "Enter a recovery email to receive your backup phrase.",
 			"german": "Geben Sie eine Wiederherstellungs-E-Mail ein, um Ihre Sicherungsphrase zu erhalten.",
 			"japanese": "バックアップフレーズを受信するための回復メールを入力します。",
-			"korean": "백업 문구를 받으려면 복구 이메일을 입력하세요.",
+			"korean": "백업 구문를 받으려면 복구 이메일을 입력하세요.",
 			"mandarin": "输入辅助邮箱以接收您的备用短语。",
 			"spanish": "Ingrese un correo electrónico de recuperación para recibir su frase de respaldo."
 		},
@@ -214,7 +214,7 @@
 			"english": "icon to get a copy of your backup phrase. Save this phrase for account recovery in future.",
 			"german": "symbol, um eine Kopie Ihrer Sicherungsphrase zu erhalten. Speichern Sie diesen Ausdruck für die zukünftige Wiederherstellung des Kontos.",
 			"japanese": "アイコンをクリックして、バックアップフレーズのコピーを取得します。 将来のアカウント回復のためにこのフレーズを保存してください。",
-			"korean": "아이콘을 클릭하여 백업 문구의 사본을 얻습니다. 향후 어카운트 복구를 위해이 문구를 저장하세요.",
+			"korean": "아이콘을 클릭하여 백업 구문의 사본을 얻습니다. 향후 어카운트 복구를 위해이 구문를 저장하세요.",
 			"mandarin": "图标以获取备份短语的副本。 保存此短语以供将来帐户恢复使用。",
 			"spanish": "icono para obtener una copia de su frase de respaldo. Guarde esta frase para recuperar la cuenta en el futuro."
 		},
@@ -422,7 +422,7 @@
 			"english": "Send Backup phrase",
 			"german": "Backup-Phrase senden",
 			"japanese": "バックアップフレーズを送信する",
-			"korean": "백업 문구 보내기",
+			"korean": "백업 구문 보내기",
 			"mandarin": "发送备用词组",
 			"spanish": "Enviar frase de respaldo"
 		},
@@ -462,7 +462,7 @@
 			"english": "Access to your account on binance.tor.us requires seed phrase. We have your account seed phrase below.",
 			"german": "Für den Zugriff auf Ihr Konto auf binance.tor.us ist eine Startphrase erforderlich. Wir haben Ihre Konto-Startphrase unten.",
 			"japanese": "binance.tor.usのアカウントにアクセスするには、シードフレーズが必要です。 以下にアカウントシードフレーズがあります。",
-			"korean": "binance.tor.us에서 어카운트에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 어카운트 시드 문구가 있습니다.",
+			"korean": "binance.tor.us에서 어카운트에 액세스하려면 시드 구문가 필요합니다. 아래에 귀하의 어카운트 시드 구문가 있습니다.",
 			"mandarin": "要访问binance.tor.us上的帐户，需要输入种子短语。 我们下面有您的帐户种子词组。",
 			"spanish": "El acceso a su cuenta en binance.tor.us requiere una frase inicial. Tenemos la frase semilla de su cuenta a continuación."
 		},

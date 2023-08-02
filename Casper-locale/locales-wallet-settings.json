@@ -206,7 +206,7 @@
             "english": "Enter a recovery email to receive your backup phrase.",
             "german": "Geben Sie eine Wiederherstellungs-E-Mail ein, um Ihre Sicherungsphrase zu erhalten.",
             "japanese": "バックアップフレーズを受信するための回復メールを入力します。",
-            "korean": "백업 문구를 받으려면 복구 이메일을 입력하세요.",
+            "korean": "백업 구문를 받으려면 복구 이메일을 입력하세요.",
             "mandarin": "输入辅助邮箱以接收您的备用短语。",
             "spanish": "Ingrese un correo electrónico de recuperación para recibir su frase de respaldo."
         },
@@ -214,7 +214,7 @@
             "english": "icon to get a copy of your backup phrase. Save this phrase for account recovery in future.",
             "german": "symbol, um eine Kopie Ihrer Sicherungsphrase zu erhalten. Speichern Sie diesen Ausdruck für die zukünftige Wiederherstellung des Kontos.",
             "japanese": "アイコンをクリックして、バックアップフレーズのコピーを取得します。 将来のアカウント回復のためにこのフレーズを保存してください。",
-            "korean": "아이콘을 클릭하여 백업 문구의 사본을 얻습니다. 향후 어카운트 복구를 위해이 문구를 저장하세요.",
+            "korean": "아이콘을 클릭하여 백업 구문의 사본을 얻습니다. 향후 어카운트 복구를 위해이 구문를 저장하세요.",
             "mandarin": "图标以获取备份短语的副本。 保存此短语以供将来帐户恢复使用。",
             "spanish": "icono para obtener una copia de su frase de respaldo. Guarde esta frase para recuperar la cuenta en el futuro."
         },
@@ -422,7 +422,7 @@
             "english": "Send Backup phrase",
             "german": "Backup-Phrase senden",
             "japanese": "バックアップフレーズを送信する",
-            "korean": "백업 문구 보내기",
+            "korean": "백업 구문 보내기",
             "mandarin": "发送备用词组",
             "spanish": "Enviar frase de respaldo"
         },
@@ -462,7 +462,7 @@
             "english": "We have your account’s seed phrase below.",
             "german": "Wir haben die Startphrase Ihres Kontos unten.",
             "japanese": "以下にあなたのアカウントのシードフレーズがあります。",
-            "korean": "아래에 귀하 어카운트의 시드 문구가 있습니다.",
+            "korean": "아래에 귀하 어카운트의 시드 구문가 있습니다.",
             "mandarin": "下面是您帐户的种子词组。",
             "spanish": "Tenemos la frase inicial de su cuenta a continuación."
         },
@@ -478,7 +478,7 @@
             "english": "Incorrect seed phrase",
             "german": "Falsche Startphrase",
             "japanese": "シードフレーズが正しくありません",
-            "korean": "잘못된 시드 문구",
+            "korean": "잘못된 시드 구문",
             "mandarin": "不正确的种子词组",
             "spanish": "Frase semilla incorrecta"
         },
@@ -486,7 +486,7 @@
             "english": "Paste your own seed phrase here. This will protect your seedphrase account with the tKey security set up.",
             "german": "Fügen Sie hier Ihre eigene Samenphrase ein. Dies schützt Ihr Seedphrase-Konto mit der eingerichteten tKey-Sicherheit.",
             "japanese": "ここに独自のシードフレーズを貼り付けます。 これにより、tKeyセキュリティが設定されたシードフレーズアカウントが保護されます。",
-            "korean": "여기에 자신의 시드 문구를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 문구 어카운트을 보호 할 수 있습니다.",
+            "korean": "여기에 자신의 시드 구문를 붙여 넣으십시오. 이렇게하면 tKey 보안 설정으로 시드 구문 어카운트을 보호 할 수 있습니다.",
             "mandarin": "在此处粘贴您自己的种子短语。 这将通过tKey安全设置保护您的种子短语帐户。",
             "spanish": "Pegue su propia frase semilla aquí. Esto protegerá su cuenta de frase semilla con la configuración de seguridad tKey."
         },
@@ -494,7 +494,7 @@
             "english": "Your seed phrase will replace the existing seed phrase generated.",
             "german": "Ihre Startphrase ersetzt die vorhandene generierte Startphrase.",
             "japanese": "シードフレーズは、生成された既存のシードフレーズを置き換えます。",
-            "korean": "귀하의 시드 문구는 생성 된 기존 시드 문구를 대체합니다.",
+            "korean": "귀하의 시드 구문는 생성 된 기존 시드 구문를 대체합니다.",
             "mandarin": "您的种子短语将替换生成的现有种子短语。",
             "spanish": "Su frase inicial reemplazará la frase inicial existente generada."
         },
@@ -502,7 +502,7 @@
             "english": "Access to your account on binance.tor.us requires seed phrase. We have your account seed phrase below.",
             "german": "Für den Zugriff auf Ihr Konto auf binance.tor.us ist eine Startphrase erforderlich. Wir haben Ihre Konto-Startphrase unten.",
             "japanese": "binance.tor.usのアカウントにアクセスするには、シードフレーズが必要です。 以下にアカウントシードフレーズがあります。",
-            "korean": "binance.tor.us에서 어카운트에 액세스하려면 시드 문구가 필요합니다. 아래에 귀하의 어카운트 시드 문구가 있습니다.",
+            "korean": "binance.tor.us에서 어카운트에 액세스하려면 시드 구문가 필요합니다. 아래에 귀하의 어카운트 시드 구문가 있습니다.",
             "mandarin": "要访问binance.tor.us上的帐户，需要输入种子短语。 我们下面有您的帐户种子词组。",
             "spanish": "El acceso a su cuenta en binance.tor.us requiere una frase inicial. Tenemos la frase semilla de su cuenta a continuación."
         },
@@ -518,7 +518,7 @@
             "english": "Seed phrase required",
             "german": "Samenphrase erforderlich",
             "japanese": "シードフレーズが必要",
-            "korean": "시드 문구 필요",
+            "korean": "시드 구문 필요",
             "mandarin": "需要种子词组",
             "spanish": "Se requiere una frase inicial"
         },
@@ -534,7 +534,7 @@
             "english": "Use your own seed phrase",
             "german": "Verwenden Sie Ihre eigene Samenphrase",
             "japanese": "独自のシードフレーズを使用する",
-            "korean": "나만의 시드 문구 사용",
+            "korean": "나만의 시드 구문 사용",
             "mandarin": "使用您自己的种子短语",
             "spanish": "Usa tu propia frase semilla"
         },
@@ -558,7 +558,7 @@
             "english": "Enter seed phrases here. Your seed phrase will replace the existing seed phrase generated.",
             "german": "Geben Sie hier Startphrasen ein. Ihre Startphrase ersetzt die vorhandene generierte Startphrase.",
             "japanese": "ここにシードフレーズを入力します。 シードフレーズは、生成された既存のシードフレーズを置き換えます。",
-            "korean": "여기에 시드 문구를 입력하십시오. 귀하의 시드 문구가 생성 된 기존 시드 문구를 대체합니다.",
+            "korean": "여기에 시드 구문를 입력하십시오. 귀하의 시드 구문가 생성 된 기존 시드 구문를 대체합니다.",
             "mandarin": "在此处输入种子短语。 您的种子短语将替换生成的现有种子短语。",
             "spanish": "Ingrese frases semilla aquí. Su frase inicial reemplazará la frase inicial existente generada."
         },
@@ -582,7 +582,7 @@
             "english": "Show Seed Phrase",
             "german": "Samenphrase anzeigen",
             "japanese": "シードフレーズを表示",
-            "korean": "시드 문구 표시",
+            "korean": "시드 구문 표시",
             "mandarin": "显示种子短语",
             "spanish": "Mostrar frase de semilla"
         },
@@ -590,7 +590,7 @@
             "english": "tKey seed phrase",
             "german": "tKey Samenphrase",
             "japanese": "tKeyシードフレーズ",
-            "korean": "tKey 시드 문구",
+            "korean": "tKey 시드 구문",
             "mandarin": "tKey种子短语",
             "spanish": "tKey frase inicial"
         },

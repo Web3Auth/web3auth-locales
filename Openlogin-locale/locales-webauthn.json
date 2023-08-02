@@ -185,7 +185,7 @@
       "english": "Device registered",
       "german": "Gerät registriert",
       "japanese": "登録済みのデバイス",
-      "korean": "등록된 기기",
+      "korean": "등록된 디바이스",
       "mandarin": "设备注册",
       "portuguese": "Dispositivo registrado",
       "spanish": "Dispositivo registrado"
@@ -205,7 +205,7 @@
       "english": "Webauthn is not supported on this device",
       "german": "Webauthn wird auf diesem Gerät nicht unterstützt",
       "japanese": "このデバイスではWeb認証はサポートされていません",
-      "korean": "Webauthn은 이 기기에서 지원되지 않습니다.",
+      "korean": "Webauthn은 이 디바이스에서 지원되지 않습니다.",
       "mandarin": "此设备不支持 Webauthn",
       "portuguese": "Webauthn não é compatível com este dispositivo",
       "spanish": "Webauthn no es compatible con este dispositivo"

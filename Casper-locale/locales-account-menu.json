@@ -76,7 +76,7 @@
             "english": "Input seed phrases",
             "german": "Geben Sie Startphrasen ein",
             "japanese": "シードフレーズの入力",
-            "korean": "시드 문구 입력",
+            "korean": "시드 구문 입력",
             "mandarin": "输入种子短语",
             "spanish": "Introducir frases semilla"
         },
@@ -84,7 +84,7 @@
             "english": "Input your seed phrases here",
             "german": "Ingrese sus frases semilla aquí",
             "japanese": "ここにシードフレーズを入力してください",
-            "korean": "여기에 시드 문구를 입력하세요.",
+            "korean": "여기에 시드 구문를 입력하세요.",
             "mandarin": "在这里输入您的种子短语",
             "spanish": "Ingrese sus frases semilla aquí"
         },
@@ -148,7 +148,7 @@
             "english": "No camera on this device",
             "german": "Keine Kamera auf diesem Gerät",
             "japanese": "このデバイスにはカメラがありません",
-            "korean": "이 기기에 카메라가 없습니다.",
+            "korean": "이 디바이스에 카메라가 없습니다.",
             "mandarin": "此设备上没有相机",
             "spanish": "No hay cámara en este dispositivo"
         },
@@ -180,7 +180,7 @@
             "english": "Seed Phrases",
             "german": "Samenphrasen",
             "japanese": "シードフレーズ",
-            "korean": "종자 문구",
+            "korean": "시드 구문",
             "mandarin": "种子短语",
             "spanish": "Frases de semillas"
         },

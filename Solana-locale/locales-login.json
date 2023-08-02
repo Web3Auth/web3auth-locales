@@ -457,7 +457,7 @@
 			"english": "Authenticate with a separate Backup Phrase",
 			"german": "Authentifizieren Sie sich mit einer separaten Sicherungsphrase",
 			"japanese": "別のバックアップフレーズで認証する",
-			"korean": "별도의 백업 문구로 인증",
+			"korean": "별도의 백업 구문로 인증",
 			"mandarin": "使用单独的备份短语进行身份验证",
 			"spanish": "Autenticar con una frase de respaldo separada"
 		},
@@ -465,7 +465,7 @@
 			"english": "Backup Phrase",
 			"german": "Sicherungssatz",
 			"japanese": "バックアップフレーズ",
-			"korean": "백업 문구",
+			"korean": "백업 구문",
 			"mandarin": "备用词组",
 			"spanish": "Frase de respaldo"
 		},
@@ -489,7 +489,7 @@
 			"english": "Note: This backup phrase containts 1 part of your authentication factors. Keep it somewhere save as a part of your account recovery in future.",
 			"german": "Hinweis: Diese Sicherungsphrase enthält 1 Teil Ihrer Authentifizierungsfaktoren. Bewahren Sie es an einem anderen Ort auf, als Teil Ihrer zukünftigen Wiederherstellung Ihres Kontos.",
 			"japanese": "注：このバックアップフレーズには、認証要素の一部が含まれています。 将来のアカウント回復の一環として、どこかに保存しておいてください。",
-			"korean": "참고 :이 백업 문구는 인증 팩터의 한 부분을 포함합니다. 나중에 어카운트 복구의 일부로 저장하여 보관하십시오.",
+			"korean": "참고 :이 백업 구문는 인증 팩터의 한 부분을 포함합니다. 나중에 어카운트 복구의 일부로 저장하여 보관하십시오.",
 			"mandarin": "注意：此备用短语包含您的一部分身份验证因素。 将其保存在某处，以备日后恢复帐户时使用。",
 			"spanish": "Nota: Esta frase de respaldo contiene 1 parte de sus factores de autenticación. Guárdelo en algún lugar guardado como parte de la recuperación de su cuenta en el futuro."
 		},
@@ -497,7 +497,7 @@
 			"english": "Enter backup phrase here",
 			"german": "Geben Sie hier die Sicherungsphrase ein",
 			"japanese": "ここにバックアップフレーズを入力してください",
-			"korean": "여기에 백업 문구 입력",
+			"korean": "여기에 백업 구문 입력",
 			"mandarin": "在此处输入备用词组",
 			"spanish": "Ingrese la frase de respaldo aquí"
 		},
@@ -505,7 +505,7 @@
 			"english": "Enter backup phrase here",
 			"german": "Geben Sie hier die Sicherungsphrase ein",
 			"japanese": "ここにバックアップフレーズを入力してください",
-			"korean": "여기에 백업 문구 입력",
+			"korean": "여기에 백업 구문 입력",
 			"mandarin": "在此处输入备用词组",
 			"spanish": "Ingrese la frase de respaldo aquí"
 		},
@@ -513,7 +513,7 @@
 			"english": "Enter the Backup Phrase from another authentication factor here.",
 			"german": "Geben Sie hier die Sicherungsphrase von einem anderen Authentifizierungsfaktor ein.",
 			"japanese": "ここに別の認証要素からのバックアップフレーズを入力します。",
-			"korean": "여기에 다른 인증 팩터의 백업 문구를 입력합니다.",
+			"korean": "여기에 다른 인증 팩터의 백업 구문를 입력합니다.",
 			"mandarin": "在此处输入其他身份验证因素的备份短语。",
 			"spanish": "Introduzca aquí la Frase de seguridad de otro factor de autenticación."
 		},
@@ -529,7 +529,7 @@
 			"english": "Incorrect backup phrase",
 			"german": "Falsche Sicherungsphrase",
 			"japanese": "間違ったバックアップフレーズ",
-			"korean": "잘못된 백업 문구",
+			"korean": "잘못된 백업 구문",
 			"mandarin": "备份短语不正确",
 			"spanish": "Frase de respaldo incorrecta"
 		},
@@ -553,7 +553,7 @@
 			"english": "An email will be sent to you containing the backup phrase.",
 			"german": "Sie erhalten eine E-Mail mit der Sicherungsphrase.",
 			"japanese": "バックアップフレーズを記載したメールが送信されます。",
-			"korean": "백업 문구가 포함 된 이메일이 발송됩니다.",
+			"korean": "백업 구문가 포함 된 이메일이 발송됩니다.",
 			"mandarin": "包含备用短语的电子邮件将发送给您。",
 			"spanish": "Se le enviará un correo electrónico con la frase de respaldo."
 		},
@@ -569,7 +569,7 @@
 			"english": "Save a copy of your backup phrase",
 			"german": "Speichern Sie eine Kopie Ihrer Sicherungsphrase",
 			"japanese": "バックアップフレーズのコピーを保存します",
-			"korean": "백업 문구 사본 저장",
+			"korean": "백업 구문 사본 저장",
 			"mandarin": "保存备份短语的副本",
 			"spanish": "Guarde una copia de su frase de respaldo"
 		},
@@ -585,7 +585,7 @@
 			"english": "tKey Backup Phrase",
 			"german": "tKey Backup Phrase",
 			"japanese": "tKeyバックアップフレーズ",
-			"korean": "tKey 백업 문구",
+			"korean": "tKey 백업 구문",
 			"mandarin": "tKey备份短语",
 			"spanish": "tKey Frase de respaldo"
 		}
@@ -813,7 +813,7 @@
 			"english": "Your tKey account is managed by your login (e.g. Google), your device, and a password. Set up your account and access it with any two of the authentication factors during each login.",
 			"german": "Ihr tKey-Konto wird von Ihrem Login (z. B. Google), Ihrem Gerät und einem Passwort verwaltet. Richten Sie Ihr Konto ein und greifen Sie bei jeder Anmeldung mit zwei beliebigen Authentifizierungsfaktoren darauf zu.",
 			"japanese": "tKeyアカウントは、ログイン（Googleなど）、デバイス、およびパスワードによって管理されます。アカウントを設定し、ログインするたびに2つの認証要素を使用してアカウントにアクセスします。",
-			"korean": "tKey 어카운트은 로그인 (예 : Google), 기기 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
+			"korean": "tKey 어카운트은 로그인 (예 : Google), 디바이스 및 비밀번호로 관리됩니다. 어카운트을 설정하고 로그인 할 때마다 두 가지 인증 팩터를 사용하여 액세스하십시오.",
 			"mandarin": "您的tKey帐户由您的登录名（例如Google），设备和密码来管理。设置您的帐户，并在每次登录时使用任意两个身份验证因子进行访问。",
 			"spanish": "Su cuenta tKey es administrada por su nombre de usuario (por ejemplo, Google), su dispositivo y una contraseña. Configure su cuenta y acceda a ella con dos de los factores de autenticación durante cada inicio de sesión."
 		},
@@ -1097,7 +1097,7 @@
 			"english": "You may want to set up a recovery password in case you lose your device.",
 			"german": "Möglicherweise möchten Sie ein Wiederherstellungskennwort einrichten, falls Sie Ihr Gerät verlieren.",
 			"japanese": "デバイスを紛失した場合に備えて、回復パスワードを設定することをお勧めします。",
-			"korean": "기기를 분실 한 경우를 대비하여 복구 비밀번호를 설정하는 것이 좋습니다.",
+			"korean": "디바이스를 분실 한 경우를 대비하여 복구 비밀번호를 설정하는 것이 좋습니다.",
 			"mandarin": "您可能需要设置恢复密码，以防设备丢失。",
 			"spanish": "Es posible que desee configurar una contraseña de recuperación en caso de que pierda su dispositivo."
 		},
@@ -1629,7 +1629,7 @@
 			"english": "It seems like you trying to login from a new device/browser.",
 			"german": "Anscheinend versuchen Sie, sich von einem neuen Gerät / Browser aus anzumelden.",
 			"japanese": "新しいデバイス/ブラウザからログインしようとしているようです。",
-			"korean": "새 기기 / 브라우저에서 로그인하려는 것 같습니다.",
+			"korean": "새 디바이스 / 브라우저에서 로그인하려는 것 같습니다.",
 			"mandarin": "似乎您尝试从新设备/浏览器登录。",
 			"spanish": "Parece que está intentando iniciar sesión desde un nuevo dispositivo / navegador."
 		},
