@@ -149,7 +149,7 @@
       "french": "Vérification du facteur de récupération",
       "german": "Überprüfung des Wiederherstellungsfaktors",
       "japanese": "回復因子の検証",
-      "korean": "회복인자 검증",
+      "korean": "지갑 복구 문구 검증",
       "mandarin": "采收率验证",
       "portuguese": "Verificação do Fator de Recuperação",
       "spanish": "Verificación del factor de recuperación"
@@ -182,7 +182,7 @@
       "french": "Entrez votre e-mail pour recevoir un facteur de récupération de portefeuille. Vous en avez besoin pour récupérer votre portefeuille.",
       "german": "Geben Sie Ihre E-Mail-Adresse ein, um einen Brieftaschen-Wiederherstellungsfaktor zu erhalten. Sie benötigen es, um Ihre Brieftasche wiederherzustellen.",
       "japanese": "電子メールを入力して、ウォレットの回復係数を受け取ります。ウォレットを復元するために必要です。",
-      "korean": "지갑 복구 팩터를 받으려면 이메일을 입력하세요. 지갑 복구에 필요합니다.",
+      "korean": "지갑 복구 문구를 받으려면 이메일을 입력하세요. 지갑 복구에 필요합니다.",
       "mandarin": "输入您的电子邮件以接收钱包恢复系数。你需要它来恢复你的钱包。",
       "portuguese": "Insira seu e-mail para receber um fator de recuperação da carteira. Você precisa dele para recuperar sua carteira.",
       "spanish": "Ingrese su correo electrónico para recibir un factor de recuperación de billetera. Lo necesitas para recuperar tu billetera."
@@ -193,7 +193,7 @@
       "french": "Envoyez-moi mon facteur de récupération",
       "german": "Senden Sie mir meinen Erholungsfaktor",
       "japanese": "私の回復係数を送ってください",
-      "korean": "내 회복 인자를 보내주세요",
+      "korean": "지갑 복구 문구를 보내주세요",
       "mandarin": "给我我的恢复因子",
       "portuguese": "Envie-me meu fator de recuperação",
       "spanish": "Envíame mi factor de recuperación"
@@ -204,7 +204,7 @@
       "french": "Obtenez mon facteur de récupération",
       "german": "Holen Sie sich meinen Erholungsfaktor",
       "japanese": "回復係数を取得する",
-      "korean": "내 회복 인자 받기",
+      "korean": "지갑 복구 문구 받기",
       "mandarin": "获取我的恢复因子",
       "portuguese": "Obter meu Fator de Recuperação",
       "spanish": "Obtener mi factor de recuperación"
@@ -237,7 +237,7 @@
       "french": "Votre facteur de récupération est configuré",
       "german": "Ihr Wiederherstellungsfaktor ist eingerichtet",
       "japanese": "回復係数はセットアップです",
-      "korean": "복구 계수가 설정됩니다",
+      "korean": "복구 문구가 설정됩니다",
       "mandarin": "您的恢复因子是设置",
       "portuguese": "Seu fator de recuperação está configurado",
       "spanish": "Su factor de recuperación está configurado"
@@ -457,7 +457,7 @@
       "french": "Télécharger ma phrase de récupération",
       "german": "Laden Sie meinen Wiederherstellungssatz herunter",
       "japanese": "私の回復フレーズをダウンロードする",
-      "korean": "내 복구 문구 다운로드",
+      "korean": "지갑 복구 문구 다운로드",
       "mandarin": "下载我的恢复短语",
       "portuguese": "Baixar minha frase de recuperação",
       "spanish": "Descarga mi frase de recuperación"
@@ -1642,7 +1642,7 @@
       "french": "Télécharger mon facteur de récupération",
       "german": "Laden Sie meinen Wiederherstellungsfaktor herunter",
       "japanese": "私のリカバリーファクターをダウンロードする",
-      "korean": "내 회복 인자 다운로드",
+      "korean": "지갑 복구 문구 다운로드",
       "mandarin": "下载我的恢复因子",
       "portuguese": "Baixar meu fator de recuperação",
       "spanish": "Descargar mi factor de recuperación"
@@ -1675,7 +1675,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 설정",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1686,7 +1686,7 @@
       "french": "Vérifiez votre facteur de récupération",
       "german": "Überprüfen Sie Ihren Erholungsfaktor",
       "japanese": "回復率を確認する",
-      "korean": "회복 계수 확인",
+      "korean": "확인 복구 설정",
       "mandarin": "验证您的恢复系数",
       "portuguese": "Verifique seu fator de recuperação",
       "spanish": "Verifique su factor de recuperación"
@@ -1730,7 +1730,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 설정",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1741,7 +1741,7 @@
       "french": "Entrez le facteur de récupération",
       "german": "Erholungsfaktor eingeben",
       "japanese": "回復係数を入力してください",
-      "korean": "회복 계수 입력",
+      "korean": "복구 설정 입력",
       "mandarin": "输入恢复系数",
       "portuguese": "Insira o fator de recuperação",
       "spanish": "Ingrese el factor de recuperación"
@@ -1752,7 +1752,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 설정",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
