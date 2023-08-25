@@ -2885,7 +2885,7 @@
       "french": "Ce facteur social ne sert que de partage de sauvegarde pour récupérer votre compte lié à",
       "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd{'@'}xyz.com“ verknüpfter Konto wiederherzustellen.",
       "japanese": "このソーシャルファクターは、「abcd{'@'}xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
-      "korean": "이 사회적 요소는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
+      "korean": "이 사회적 요소는 \"abcd{'@'}xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
       "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd{'@'}xyz.com”。",
       "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd{'@'}xyz.com”.",
       "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd{'@'}xyz.com\"."
