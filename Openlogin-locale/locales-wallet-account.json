@@ -518,15 +518,15 @@
       "spanish": "Al menos un carácter en minúscula"
     },
     "password-requirement-specialchar": {
-      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! {'@'} # ?'}",
-      "english": "Inclusion of at least one special character, e.g., {'! {'@'} # ?'}",
-      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! {'@'} # ?'}",
-      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! {'@'} # ?'}",
-      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! {'@'} # ?'}",
-      "korean": "하나 이상의 특수 문자 포함(예: !) {'{'@'} # ?'}",
-      "mandarin": "至少包含一个特殊字符，例如，{'! {'@'} # ?'}",
-      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! {'@'} # ?'}",
-      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! {'@'} # ?'}"
+      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
+      "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
+      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
+      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
+      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
+      "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
+      "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
+      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
+      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}"
     },
     "password-requirement-upercase": {
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
