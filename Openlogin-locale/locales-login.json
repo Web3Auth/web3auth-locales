@@ -3175,6 +3175,28 @@
       "mandarin": "验证您发送的恢复因素继续",
       "portuguese": "Verifique com seu fator de recuperação enviado para continuar",
       "spanish": "Verifique con su factor de recuperación enviado para continuar"
+    },
+    "verify-with-social-factor-desc": {
+      "english": "Verify with the social recovery factor that you had previously set up.",
+      "german": "Überprüfen Sie mit dem zuvor eingerichteten sozialen Genesungsfaktor.",
+      "japanese": "以前に設定した社会的回復要因で確認してください。",
+      "korean": "이전에 설정했던 소셜 복구 요소로 확인하십시오.",
+      "mandarin": "使用您先前设置的社会恢复因素进行验证。",
+      "spanish": "Verifique con el factor de recuperación social que había establecido anteriormente.",
+      "portuguese": "Verifique com o fator de recuperação social que você configurou anteriormente.",
+      "dutch": "Controleer met de sociale herstelfactor die u eerder had opgezet.",
+      "french": "Vérifiez avec le facteur de récupération sociale que vous aviez créé auparavant."
+    },
+    "verify-factorList-desc": {
+      "english": "Verify with one of the following to continue",
+      "german": "Überprüfen Sie mit einem der folgenden Aussagen, um fortzufahren",
+      "japanese": "次のいずれかで確認してください",
+      "korean": "다음 중 하나를 확인하여 계속 확인하십시오",
+      "mandarin": "验证以下一个继续",
+      "spanish": "Verifique con uno de los siguientes para continuar",
+      "portuguese": "Verifique com um dos seguintes para continuar",
+      "dutch": "Controleer met een van de volgende om door te gaan",
+      "french": "Vérifiez avec l'un des éléments suivants pour continuer"
     }
   }
 }
