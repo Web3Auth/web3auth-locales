@@ -2266,7 +2266,7 @@
     "recovery-factor-sent-to": {
       "english": "Input the recovery phrase sent to {email} on {date}, or if it's not in your email, you may retrieve it at {link}",
       "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein oder wenn er nicht in Ihrer E -Mail ist, können Sie sie unter {link} abrufen",
-      "japanese": "{date}で{email}に送信された回復フレーズを入力するか、電子メールに入っていない場合は、https：//app.openlogin.com/で取得できます。",
+      "japanese": "{date}で{email}に送信された回復フレーズを入力するか、電子メールに入っていない場合は、{link}で取得できます。",
       "korean": "{date}에서 {email}로 전송 된 복구 문구를 입력하거나 이메일에 있지 않으면 {link}에서 검색 할 수 있습니다.",
       "mandarin": "在{date}上输入发送到{email}的恢复短语，或者如果不在电子邮件中，则可以在{link}上检索它。",
       "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en {link}",
