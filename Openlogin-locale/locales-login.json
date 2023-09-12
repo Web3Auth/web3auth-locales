@@ -155,15 +155,15 @@
       "spanish": "Verificación del factor de recuperación"
     },
     "2fa-recovery-cpy-textArea": {
-      "dutch": "Plak uw herstelfactor",
-      "english": "Paste your Recovery Factor",
-      "french": "Collez votre facteur de récupération",
-      "german": "Fügen Sie Ihren Wiederherstellungsfaktor ein",
-      "japanese": "回復係数を貼り付けます",
-      "korean": "회복 인자 붙여넣기",
-      "mandarin": "粘贴你的恢复因子",
-      "portuguese": "Cole seu Fator de Recuperação",
-      "spanish": "Pega tu factor de recuperación"
+      "english": "Paste your recovery phrase",
+      "german": "Fügen Sie Ihren Wiederherstellungsausweg ein",
+      "japanese": "回復フレーズを貼り付けます",
+      "korean": "회복 문구를 붙여 넣으십시오",
+      "mandarin": "粘贴您的恢复短语",
+      "spanish": "Pega tu frase de recuperación",
+      "portuguese": "Cole sua frase de recuperação",
+      "dutch": "Plak uw herstelzin",
+      "french": "Collez votre phrase de récupération"
     },
     "2fa-recovery-downloaded-subDesc": {
       "dutch": "Upload de gedownloade herstelfactor",
@@ -2264,15 +2264,15 @@
       "spanish": "Verifique su inicio de sesión"
     },
     "recovery-factor-sent-to": {
-      "dutch": "Voer de herstelfactor in die naar {email} is verzonden op {date}",
-      "english": "Enter Recovery factor sent to {email} on {date}",
-      "french": "Entrez le facteur de récupération envoyé à {email} le {date}",
-      "german": "Geben Sie den Wiederherstellungsfaktor ein, der am {date} an {email} gesendet wurde",
-      "japanese": "{date} に {email} に送信された回復係数を入力してください",
-      "korean": "{date}에 {email}로 전송된 회복 인자 입력",
-      "mandarin": "输入在 {date} 发送到 {email} 的恢复因子",
-      "portuguese": "Insira o fator de recuperação enviado para {email} em {data}",
-      "spanish": "Ingrese el factor de recuperación enviado a {email} el {fecha}"
+      "english": "Input the recovery phrase sent to {email} on {date}, or if it's not in your email, you may retrieve it at https://app.openlogin.com/",
+      "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein oder wenn er nicht in Ihrer E -Mail ist, können Sie sie unter https://app.openlogin.com/ abrufen",
+      "japanese": "{date}で{email}に送信された回復フレーズを入力するか、電子メールに入っていない場合は、https：//app.openlogin.com/で取得できます。",
+      "korean": "{date}에서 {email}로 전송 된 복구 문구를 입력하거나 이메일에 있지 않으면 https://app.openlogin.com/에서 검색 할 수 있습니다.",
+      "mandarin": "在{date}上输入发送到{email}的恢复短语，或者如果不在电子邮件中，则可以在https://app.openlogin.com/上检索它。",
+      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en https://app.openlogin.com/",
+      "portuguese": "Insira a frase de recuperação enviada para {email} em {date}, ou se não estiver em seu e -mail, você pode recuperá -lo em https://app.openlogin.com/",
+      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op https://app.openlogin.com/",
+      "french": "Entrez la phrase de récupération envoyée à {email} au {date}, ou si ce n'est pas dans votre e-mail, vous pouvez le récupérer sur https://app.openlogin.com/"
     },
     "register-backup-phrase-additional-security-desc1": {
       "dutch": "Er wordt een e-mail naar u verzonden met de back-upzin.",
@@ -3166,15 +3166,15 @@
       "spanish": "Verifique con un factor más para continuar"
     },
     "verify-with-recovery-factor-desc": {
-      "dutch": "Verifieer met uw herstelfactor die naar u is verzonden om door te gaan",
-      "english": "Verify with your recovery factor sent to continue",
-      "french": "Vérifiez avec votre facteur de récupération envoyé pour continuer",
-      "german": "Überprüfen Sie mit Ihrem Wiederherstellungsfaktor, um fortzufahren",
-      "japanese": "継続するために送信される回復係数を確認します",
-      "korean": "회복 요소가 계속되도록 확인하십시오",
-      "mandarin": "验证您发送的恢复因素继续",
-      "portuguese": "Verifique com seu fator de recuperação enviado para continuar",
-      "spanish": "Verifique con su factor de recuperación enviado para continuar"
+      "english": "Verify with your recovery phrase sent to continue",
+      "german": "Überprüfen Sie mit Ihrem Wiederherstellungsausdruck, um fortzufahren",
+      "japanese": "継続するために送信される回復フレーズを確認します",
+      "korean": "계속해서 회복 문구를 확인하십시오",
+      "mandarin": "用发送的恢复短语验证以继续",
+      "spanish": "Verifique con su frase de recuperación enviada para continuar",
+      "portuguese": "Verifique com sua frase de recuperação enviada para continuar",
+      "dutch": "Controleer met uw herstelzin die is verzonden om door te gaan",
+      "french": "Vérifiez avec votre phrase de récupération envoyée pour continuer"
     },
     "verify-with-social-factor-desc": {
       "english": "Verify with the social recovery factor that you had previously set up.",
