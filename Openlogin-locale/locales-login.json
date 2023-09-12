@@ -2274,6 +2274,17 @@
       "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op {link}",
       "french": "Entrez la phrase de récupération envoyée à {email} au {date}, ou si ce n'est pas dans votre e-mail, vous pouvez le récupérer sur {link}"
     },
+    "recovery-factor-sent-to-custom-verifier": {
+      "english": "Input the recovery phrase sent to {email} on {date}",
+      "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein",
+      "japanese": "{date}で{email}に送信された回復フレーズを入力します",
+      "korean": "{date}에서 {email}로 전송 된 복구 구를 입력하십시오.",
+      "mandarin": "在{date}上输入发送到{email}的恢复短语",
+      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}",
+      "portuguese": "Insira a frase de recuperação enviada para {email} em {date}",
+      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}",
+      "french": "Entrez la phrase de récupération envoyée à {email} à {date}"
+    },
     "register-backup-phrase-additional-security-desc1": {
       "dutch": "Er wordt een e-mail naar u verzonden met de back-upzin.",
       "english": "An email will be sent to you containing the backup phrase.",
