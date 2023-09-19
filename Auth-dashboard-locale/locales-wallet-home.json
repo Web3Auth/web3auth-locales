@@ -1,0 +1,158 @@
+{
+  "home": {
+    "learn-more-desc": {
+      "dutch": "Neem de controle over uw digitale aanwezigheid met OpenLogin.",
+      "english": "Take charge of your digital presence with OpenLogin.",
+      "french": "Prenez le contrôle de votre présence numérique avec OpenLogin.",
+      "german": "Übernehmen Sie mit OpenLogin die Kontrolle über Ihre digitale Präsenz.",
+      "japanese": "OpenLoginでデジタルプレゼンスを管理します。",
+      "korean": "OpenLogin으로 디지털 존재를 관리하십시오.",
+      "mandarin": "使用OpenLogin来管理您的数字业务。",
+      "portuguese": "Assuma o controle de sua presença digital com OpenLogin.",
+      "spanish": "Hágase cargo de su presencia digital con OpenLogin."
+    },
+    "learn-more-title": {
+      "dutch": "Aan de slag gaan",
+      "english": "Getting started",
+      "french": "Pour commencer",
+      "german": "Einstieg",
+      "japanese": "開始",
+      "korean": "시작하기",
+      "mandarin": "开始",
+      "portuguese": "Começando",
+      "spanish": "Empezando"
+    },
+    "link-account-name": {
+      "dutch": "Account beheren",
+      "english": "Manage account",
+      "french": "Gérer le compte",
+      "german": "Konto verwalten",
+      "japanese": "アカウントを管理する",
+      "korean": "계정 관리",
+      "mandarin": "管理帐户",
+      "portuguese": "Gerenciar conta",
+      "spanish": "Administrar cuenta"
+    },
+    "link-account-type": {
+      "dutch": "account",
+      "english": "account",
+      "french": "compte",
+      "german": "konto",
+      "japanese": "アカウント",
+      "korean": "계정",
+      "mandarin": "帐户",
+      "portuguese": "conta",
+      "spanish": "cuenta"
+    },
+    "link-apps-name": {
+      "dutch": "Bekijk geautoriseerde apps",
+      "english": "View Authorized Apps",
+      "french": "Afficher les applications autorisées",
+      "german": "Autorisierte Apps anzeigen",
+      "japanese": "承認されたアプリを表示する",
+      "korean": "승인 된 앱보기",
+      "mandarin": "查看授权的应用",
+      "portuguese": "Ver aplicativos autorizados",
+      "spanish": "Ver aplicaciones autorizadas"
+    },
+    "link-apps-type": {
+      "dutch": "apps",
+      "english": "apps",
+      "french": "applications",
+      "german": "apps",
+      "japanese": "アプリ",
+      "korean": "앱",
+      "mandarin": "应用",
+      "portuguese": "aplicativos",
+      "spanish": "aplicaciones"
+    },
+    "share-approval-desc1": {
+      "dutch": "Een nieuwe login probeert toegang te krijgen tot uw account.",
+      "english": "A new login is trying to access your account.",
+      "french": "Une nouvelle connexion essaie d'accéder à votre compte.",
+      "german": "Ein neuer Login versucht, auf Ihr Konto zuzugreifen.",
+      "japanese": "新しいログインがあなたのアカウントにアクセスしようとしています。",
+      "korean": "새 로그인으로 계정에 액세스하려고합니다.",
+      "mandarin": "新的登录名正在尝试登记入您的帐户。",
+      "portuguese": "Um novo login está tentando acessar sua conta.",
+      "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta."
+    },
+    "share-approval-desc2": {
+      "dutch": "Match de referentie-ID en bevestig dat dit u bent:",
+      "english": "Match the Reference ID and confirm this is you:",
+      "french": "Faites correspondre l'ID de référence et confirmez que c'est vous:",
+      "german": "Passen Sie die Referenz-ID an und bestätigen Sie, dass Sie es sind:",
+      "japanese": "参照IDを一致させ、これがあなたであることを確認します。",
+      "korean": "참조 ID를 일치 하고 본인임을 확인합니다.",
+      "mandarin": "匹配参考ID并确认这是您 :",
+      "portuguese": "Corresponda ao ID de referência e confirme que é você:",
+      "spanish": "Haga coincidir la ID de referencia y confirme que es usted:"
+    },
+    "share-approval-not-me": {
+      "dutch": "Dit ben ik niet,",
+      "english": "This is not me,",
+      "french": "Ce n'est pas moi,",
+      "german": "Das bin nicht ich,",
+      "japanese": "これは私ではない、",
+      "korean": "이건 내가 아니다",
+      "mandarin": "这不是我，",
+      "portuguese": "Este não sou eu,",
+      "spanish": "Este no soy yo,"
+    },
+    "share-approval-report": {
+      "dutch": "Rapporteer het",
+      "english": "report it",
+      "french": "rapportez-le",
+      "german": "berichten Sie",
+      "japanese": "それを報告する",
+      "korean": "보고서",
+      "mandarin": "举报",
+      "portuguese": "denuncie",
+      "spanish": "Informe"
+    },
+    "share-approval-secure": {
+      "dutch": "Veilige Torus-aanmelding",
+      "english": "Secure Torus sign in",
+      "french": "Connexion sécurisée à Torus",
+      "german": "Sichere Torus-Anmeldung",
+      "japanese": "セキュアトーラスサインイン",
+      "korean": "보안 토러스 로그인",
+      "mandarin": "安全Torus登录",
+      "portuguese": "Login seguro da Torus",
+      "spanish": "Iniciar sesión Secure Torus"
+    },
+    "share-approval-support": {
+      "dutch": "Neem contact op met de ondersteuning",
+      "english": "Contact Support",
+      "french": "Contacter le support",
+      "german": "Kontaktieren Sie Support",
+      "japanese": "サポート問い合わせ先",
+      "korean": "연락처 지원",
+      "mandarin": "联系支持人员",
+      "portuguese": "Entre em contato com o suporte",
+      "spanish": "Soporte de contacto"
+    },
+    "share-approval-title": {
+      "dutch": "Nieuwe login gedetecteerd",
+      "english": "New login detected",
+      "french": "Nouvelle connexion détectée",
+      "german": "Neues Login erkannt",
+      "japanese": "新しいログインが検出されました",
+      "korean": "새 로그인 감지",
+      "mandarin": "检测到新登录",
+      "portuguese": "Novo login detectado",
+      "spanish": "Nuevo inicio de sesión detectado"
+    },
+    "title": {
+      "dutch": "Welkom, {0}",
+      "english": "Welcome, {0}",
+      "french": "Bienvenue, {0}",
+      "german": "Willkommen, {0}",
+      "japanese": "ようこそ、{0}",
+      "korean": "{0} 님, 환영합니다",
+      "mandarin": "欢迎，{0}",
+      "portuguese": "Bem-vindo, {0}",
+      "spanish": "Bienvenido, {0}"
+    }
+  }
+}
