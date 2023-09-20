@@ -165,6 +165,17 @@
       "portuguese": "O email não pode ser o mesmo que o ID de login social",
       "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
     },
+    "error-something-wrong-error": {
+      "dutch": "Er is iets misgegaan",
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다.",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal"
+    },
     "hide-options": {
       "dutch": "Opties verbergen",
       "english": "Hide Options",
@@ -186,6 +197,17 @@
       "mandarin": "更多详情",
       "portuguese": "Saber mais",
       "spanish": "Aprende más"
+    },
+    "loader-not-done-note": {
+      "dutch": "We zijn er over een paar seconden",
+      "english": "We will be there in a few seconds",
+      "french": "Nous serons là dans quelques secondes",
+      "german": "Wir sind in wenigen Sekunden da",
+      "japanese": "数秒で到着します",
+      "korean": "로딩중입니다. 조금만 기다려주세요.",
+      "mandarin": "我们将在几秒钟内到达",
+      "portuguese": "Estaremos lá em alguns segundos",
+      "spanish": "Estaremos allí en unos segundos"
     },
     "new-device-detected": {
       "dutch": "Nieuw apparaat gedetecteerd",
@@ -408,6 +430,108 @@
       "mandarin": "以下一个或多个必需参数缺失/无效",
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
       "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos"
+    }
+  },
+  "account": {
+    "password-requirement": {
+      "dutch": "Wachtwoordvereisten:",
+      "english": "Password requirements:",
+      "french": "Exigences relatives au mot de passe :",
+      "german": "Passwortanforderungen:",
+      "japanese": "パスワード要件:",
+      "korean": "암호 요구 사항:",
+      "mandarin": "密码要求：",
+      "portuguese": "Requisitos de senha:",
+      "spanish": "Requisitos de la contraseña:"
+    },
+    "password-requirement-10-char": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
+      "english": "At least 10 characters (and up to 100 characters)",
+      "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
+      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
+      "japanese": "少なくとも 10 文字 (最大 100 文字)",
+      "korean": "최소 10 자 (최대 100 자)",
+      "mandarin": "至少 10 个字符（最多 100 个字符）",
+      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
+      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)"
+    },
+    "password-requirement-desc": {
+      "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
+      "english": "Ensure that these requirements are met:",
+      "french": "Assurez-vous que ces exigences sont respectées :",
+      "german": "Stellen Sie sicher, dass diese Anforderungen erfüllt sind:",
+      "japanese": "次の要件が満たされていることを確認します。",
+      "korean": "다음 요구 사항이 충족되는지 확인하십시오.",
+      "mandarin": "确保满足这些要求：",
+      "portuguese": "Certifique-se de que estes requisitos sejam atendidos:",
+      "spanish": "Asegúrese de que se cumplan estos requisitos:"
+    },
+    "password-requirement-lowercase": {
+      "dutch": "Minstens één kleine letter vereist",
+      "english": "At least one lowercase character",
+      "french": "Au moins un caractère en minuscule",
+      "german": "Mindestens ein Kleinbuchstabe",
+      "japanese": "少なくとも 1 つの小文字",
+      "korean": "하나 이상의 소문자",
+      "mandarin": "至少一个小写字符",
+      "portuguese": "Pelo menos um caractere minúsculo",
+      "spanish": "Al menos un carácter en minúscula"
+    },
+    "password-requirement-specialchar": {
+      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
+      "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
+      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
+      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
+      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
+      "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
+      "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
+      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
+      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}"
+    },
+    "password-requirement-upercase": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
+      "english": "At least one uppercase character",
+      "french": "Au moins un caractère en majuscule",
+      "german": "Mindestens ein Großbuchstabe",
+      "japanese": "少なくとも 1 つの大文字",
+      "korean": "하나 이상의 대문자",
+      "mandarin": "至少一个大写字符",
+      "portuguese": "Pelo menos um caractere maiúsculo",
+      "spanish": "Al menos un carácter en mayúscula"
+    },
+    "mpc-auth-factors-recovery-phrase": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "회복 계수",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+
+    "auth-factors-password-confirm": {
+      "dutch": "Voer uw wachtwoord opnieuw in",
+      "english": "Re-enter your password",
+      "french": "Re-entrez votre mot de passe",
+      "german": "Wiederhole die Eingabe deines Passwortes",
+      "japanese": "パスワードを再入力してください",
+      "korean": "비밀번호 재 입력",
+      "mandarin": "重新输入密码",
+      "portuguese": "Redigite sua senha",
+      "spanish": "reingresa tu contraseña"
+    },
+    "auth-factors-password-set": {
+      "dutch": "Stel je wachtwoord in",
+      "english": "Set your password",
+      "french": "Définissez votre mot de passe",
+      "german": "Lege ein Passwort fest",
+      "japanese": "パスワードを作る",
+      "korean": "비밀번호를 설정하세요",
+      "mandarin": "设置你的密码",
+      "portuguese": "Coloque sua senha",
+      "spanish": "Establece tu contraseña"
     }
   }
 }
