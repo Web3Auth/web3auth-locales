@@ -1,0 +1,270 @@
+{
+  "walletConnect": {
+    "pasteWalletConnect": {
+      "english": "Paste WalletConnect QR Link below",
+      "german": "Fügen Sie die Walletconnect QR -Link unten ein",
+      "japanese": "ウォレットコネクトQRリンクを以下に貼り付けます",
+      "korean": "아래 아래에있는 지갑을 붙여 넣으십시오",
+      "mandarin": "粘贴WalletConnect QR链接下面",
+      "spanish": "Pegar el enlace QR de WalletConnect a continuación",
+      "portuguese": "Cole o link QR WalletConnect abaixo",
+      "dutch": "Plak WalletConnect QR -link hieronder",
+      "french": "Coller le lien QR WalletConnect ci-dessous"
+    },
+    "connect": {
+      "english": "Connect",
+      "german": "Verbinden",
+      "japanese": "接続する",
+      "korean": "연결하다",
+      "mandarin": "连接",
+      "spanish": "Conectar",
+      "portuguese": "Conectar",
+      "dutch": "Aansluiten",
+      "french": "Connecter"
+    },
+    "disConnect": {
+      "english": "Disconnect",
+      "german": "Trennen",
+      "japanese": "切断します",
+      "korean": "연결을 끊습니다",
+      "mandarin": "断开",
+      "spanish": "Desconectar",
+      "portuguese": "desconectar",
+      "dutch": "Loskoppelen",
+      "french": "Débrancher"
+    },
+    "connectedWithWalletConnect": {
+      "english": "Connected with WalletConnect",
+      "german": "Mit Walletconnect verbunden",
+      "japanese": "WalletConnectに接続されています",
+      "korean": "WalletConnect와 연결되어 있습니다",
+      "mandarin": "与WalletConnect连接",
+      "spanish": "Conectado con WalletConnect",
+      "portuguese": "Conectado com WalletConnect",
+      "dutch": "Verbonden met WalletConnect",
+      "french": "Lié à WalletConnect"
+    },
+    "carousel": {
+      "heading1": {
+        "english": "Connect to Application",
+        "german": "Verbindung zur Anwendung herstellen",
+        "japanese": "アプリケーションに接続します",
+        "korean": "응용 프로그램에 연결하십시오",
+        "mandarin": "连接到应用程序",
+        "spanish": "Conectarse a la aplicación",
+        "portuguese": "Conectar ao aplicativo",
+        "dutch": "Maak verbinding met de applicatie",
+        "french": "Se connecter à l'application"
+      },
+      "subHeading1": {
+        "english": "Access the Web3 marketplace in a few steps",
+        "german": "Greifen Sie in wenigen Schritten auf den Web3 -Marktplatz zu",
+        "japanese": "いくつかのステップでWeb3マーケットプレイスにアクセスします",
+        "korean": "몇 단계로 Web3 Marketplace에 액세스하십시오",
+        "mandarin": "通过几个步骤访问Web3市场",
+        "spanish": "Acceda al mercado Web3 en unos pocos pasos",
+        "portuguese": "Acesse o Web3 Marketplace em algumas etapas",
+        "dutch": "Toegang tot de Web3 -markt in enkele stappen",
+        "french": "Accéder au marché Web3 en quelques étapes"
+      },
+      "heading2": {
+        "english": "Visit Application Site",
+        "german": "Besuchen Sie die Anwendungsseite",
+        "japanese": "アプリケーションサイトにアクセスしてください",
+        "korean": "신청 사이트를 방문하십시오",
+        "mandarin": "访问申请站点",
+        "spanish": "Visite el sitio de solicitud",
+        "portuguese": "Visite site de inscrição",
+        "dutch": "Bezoek de toepassingssite",
+        "french": "Visitez le site de la demande"
+      },
+      "subHeading2": {
+        "english": "Go to Application that has WalletConnect",
+        "german": "Gehen Sie zur Anwendung mit Walletconnect",
+        "japanese": "walletConnectのあるアプリケーションに移動します",
+        "korean": "WalletConnect가있는 응용 프로그램으로 이동하십시오",
+        "mandarin": "转到具有WalletConnect的应用程序",
+        "spanish": "Vaya a la aplicación que tiene WalletConnect",
+        "portuguese": "Vá para a aplicação que tenha WalletConnect",
+        "dutch": "Ga naar de toepassing die WalletConnect heeft",
+        "french": "Accédez à une application qui a WalletConnect"
+      },
+      "heading3": {
+        "english": "Select WalletConnect",
+        "german": "Wählen Sie Walletconnect",
+        "japanese": "WalletConnectを選択します",
+        "korean": "WalletConnect를 선택하십시오",
+        "mandarin": "选择WalletConnect",
+        "spanish": "Seleccionar WalletConnect",
+        "portuguese": "Selecione WalleTConnect",
+        "dutch": "Selecteer WalletConnect",
+        "french": "Sélectionnez WalletConnect"
+      },
+      "subHeading3": {
+        "english": "From the list of Wallets on application",
+        "german": "Aus der Liste der Brieftaschen in der Anwendung",
+        "japanese": "アプリケーション上のウォレットのリストから",
+        "korean": "응용 프로그램의 지갑 목록에서",
+        "mandarin": "从应用程序的钱包列表中",
+        "spanish": "De la lista de billeteras en la aplicación",
+        "portuguese": "Da lista de carteiras na aplicação",
+        "dutch": "Uit de lijst met portefeuilles op toepassing",
+        "french": "À partir de la liste des portefeuilles sur l'application"
+      },
+      "heading4": {
+        "english": "Click 'Copy to clipboard'",
+        "german": "Klicken Sie auf 'Kopieren Sie in die Zwischenablage'",
+        "japanese": "クリップボードに「コピー」をクリックします",
+        "korean": "'클립 보드에 복사'를 클릭하십시오.",
+        "mandarin": "单击“复制到剪贴板”",
+        "spanish": "Haga clic en 'Copiar al portapapeles'",
+        "portuguese": "Clique em 'Copiar para a área de transferência'",
+        "dutch": "Klik op 'Kopiëren naar klembord'",
+        "french": "Cliquez sur 'Copier dans le presse-papiers'"
+      },
+      "subHeading4": {
+        "english": "Located below the QR Code",
+        "german": "Befindet sich unter dem QR -Code",
+        "japanese": "QRコードの下にあります",
+        "korean": "QR 코드 아래에 있습니다",
+        "mandarin": "位于QR码下方",
+        "spanish": "Ubicado debajo del código QR",
+        "portuguese": "Localizado abaixo do código QR",
+        "dutch": "Gelegen onder de QR -code",
+        "french": "Situé sous le code QR"
+      },
+      "heading5": {
+        "english": "Paste QR Link below",
+        "german": "Fügen Sie den QR -Link unten ein",
+        "japanese": "QRリンクを以下に貼り付けます",
+        "korean": "아래에 QR 링크를 붙여 넣으십시오",
+        "mandarin": "粘贴QR链接下面",
+        "spanish": "Pegar el enlace QR a continuación",
+        "portuguese": "Cole o link QR abaixo",
+        "dutch": "Plak de QR -link hieronder",
+        "french": "Coller le lien QR ci-dessous"
+      },
+      "subHeading5": {
+        "english": "Or scan the QR code directly",
+        "german": "Oder scannen Sie den QR -Code direkt",
+        "japanese": "または、QRコードを直接スキャンします",
+        "korean": "또는 QR 코드를 직접 스캔하십시오",
+        "mandarin": "或直接扫描QR码",
+        "spanish": "O escanear el código QR directamente",
+        "portuguese": "Ou digitalize o código QR diretamente",
+        "dutch": "Of scan de QR -code rechtstreeks",
+        "french": "Ou numériser directement le code QR"
+      },
+      "heading6": {
+        "english": "Accept Terms and Conditions",
+        "german": "Nutzungsbedingungen akzeptieren",
+        "japanese": "利用規約を受け入れます",
+        "korean": "이용 약관을 수락합니다",
+        "mandarin": "接受条款和条件",
+        "spanish": "Aceptar terminos y condiciones",
+        "portuguese": "Aceita termos e Condições",
+        "dutch": "Accepteer de algemene voorwaarden",
+        "french": "Accepter les termes et conditions"
+      },
+      "subHeading6": {
+        "english": "Return to Application to Accept and Sig",
+        "german": "Kehren Sie zur Anwendung zurück, um sie zu akzeptieren und Sig",
+        "japanese": "Applicationに戻り、受け入れてsig",
+        "korean": "수락 및 SIG에 신청서로 돌아갑니다",
+        "mandarin": "返回申请接受和签名",
+        "spanish": "Volver a la solicitud para aceptar y Sig",
+        "portuguese": "Retorne ao aplicativo para aceitar e sig",
+        "dutch": "Keer terug naar de aanvraag om te accepteren en sig",
+        "french": "Retour à la demande à accepter et sig"
+      },
+      "heading7": {
+        "english": "Authorize Application",
+        "german": "Bewerbung autorisieren",
+        "japanese": "申請を承認します",
+        "korean": "신청서를 승인합니다",
+        "mandarin": "授权申请",
+        "spanish": "Autorizar la solicitud",
+        "portuguese": "Autorize Aplicação",
+        "dutch": "Autoriseer een aanvraag",
+        "french": "Autoriser la demande"
+      },
+      "subHeading7": {
+        "english": "Approve application's message to continue",
+        "german": "Genehmigen Sie die Nachricht der Anwendung, um fortzufahren",
+        "japanese": "継続するためにアプリケーションのメッセージを承認します",
+        "korean": "응용 프로그램의 메시지를 계속 승인합니다",
+        "mandarin": "批准申请的消息继续",
+        "spanish": "Aprobar el mensaje de la aplicación para continuar",
+        "portuguese": "Aprovar a mensagem do aplicativo para continuar",
+        "dutch": "Goedkeuren het bericht van de aanvraag om door te gaan",
+        "french": "Approuver le message de l'application pour continuer"
+      },
+      "heading8": {
+        "english": "You are all set!",
+        "german": "Sie sind alle eingestellt!",
+        "japanese": "準備万端です！",
+        "korean": "당신 준비 다 됐어요!",
+        "mandarin": "你们都设定了！",
+        "spanish": "¡Estas listo!",
+        "portuguese": "Estás pronto!",
+        "dutch": "Jullie zijn er klaar voor!",
+        "french": "Vous êtes prêt!"
+      },
+      "subHeading8": {
+        "english": "Return to Application to start exploring!",
+        "german": "Kehren Sie zur Anwendung zurück, um mit der Erkundung zu beginnen!",
+        "japanese": "アプリケーションに戻って探索を開始してください！",
+        "korean": "탐색을 시작하려면 신청서로 돌아갑니다!",
+        "mandarin": "返回应用程序开始探索！",
+        "spanish": "¡Regrese a la aplicación para comenzar a explorar!",
+        "portuguese": "Volte ao aplicativo para começar a explorar!",
+        "dutch": "Keer terug naar de aanvraag om te beginnen met verkennen!",
+        "french": "Revenez à l'application pour commencer à explorer!"
+      }
+    },
+    "takeMeTo": {
+      "english": "Take me to",
+      "german": "Bring mich zu",
+      "japanese": "私を〜へ連れて行って",
+      "korean": "나를 데려 가라",
+      "mandarin": "带我去",
+      "spanish": "Llévame a",
+      "portuguese": "Leva me para",
+      "dutch": "Breng me naar",
+      "french": "M'emmène"
+    },
+    "showGuide": {
+      "english": "Show Guide",
+      "german": "Show Guide",
+      "japanese": "ショーガイド",
+      "korean": "쇼 가이드",
+      "mandarin": "展示指南",
+      "spanish": "Guía",
+      "portuguese": "Mostrar Guia",
+      "dutch": "Toon gids",
+      "french": "Guide"
+    },
+    "hideGuide": {
+      "english": "Hide Guide",
+      "german": "Leitfaden ausblenden",
+      "japanese": "ガイドを非表示にします",
+      "korean": "가이드를 숨 깁니다",
+      "mandarin": "隐藏指南",
+      "spanish": "Escondite",
+      "portuguese": "Ocultar guia",
+      "dutch": "Gids verbergen",
+      "french": "Guide"
+    },
+    "pasteQrLinkHere": {
+      "english": "Paste QR link here",
+      "german": "Fügen Sie hier den QR -Link ein",
+      "japanese": "ここにQRリンクを貼り付けます",
+      "korean": "여기에 QR 링크를 붙여 넣으십시오",
+      "mandarin": "粘贴QR链接在这里",
+      "spanish": "Pegar el enlace QR aquí",
+      "portuguese": "Cole o link QR aqui",
+      "dutch": "Plak hier de QR -link",
+      "french": "Coller le lien QR ici"
+    }
+  }
+}

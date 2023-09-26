@@ -1,101 +1,103 @@
 {
-  "walletConnect": {
-    "english": "Wallet connect",
-    "german": "Brieftasche verbinden",
-    "japanese": "ウォレット接続",
-    "korean": "지갑 연결",
-    "mandarin": "钱包连接",
-    "spanish": "Billetera conectar",
-    "portuguese": "Carteira Connect",
-    "dutch": "Portemonnee verbindt",
-    "french": "Portefeuille"
-  },
-  "home": {
-    "english": "home",
-    "german": "heim",
-    "japanese": "家",
-    "korean": "집",
-    "mandarin": "家",
-    "spanish": "hogar",
-    "portuguese": "lar",
-    "dutch": "thuis",
-    "french": "maison"
-  },
-  "activity": {
-    "english": "Activity",
-    "german": "Aktivität",
-    "japanese": "活動",
-    "korean": "활동",
-    "mandarin": "活动",
-    "spanish": "Actividad",
-    "portuguese": "Atividade",
-    "dutch": "Activiteit",
-    "french": "Activité"
-  },
-  "buySell": {
-    "english": "Buy/Sell",
-    "german": "Kaufen Verkaufen",
-    "japanese": "売買",
-    "korean": "구매/판매",
-    "mandarin": "买卖",
-    "spanish": "Compra venta",
-    "portuguese": "Compra venda",
-    "dutch": "Kopen verkopen",
-    "french": "Acheter vendre"
-  },
-  "send": {
-    "english": "Send",
-    "german": "Schicken",
-    "japanese": "送信",
-    "korean": "보내다",
-    "mandarin": "发送",
-    "spanish": "Enviar",
-    "portuguese": "Enviar",
-    "dutch": "Versturen",
-    "french": "Envoyer"
-  },
-  "swap": {
-    "english": "Swap",
-    "german": "Tauschen",
-    "japanese": "スワップ",
-    "korean": "교환",
-    "mandarin": "交换",
-    "spanish": "Intercambio",
-    "portuguese": "Trocar",
-    "dutch": "Ruil",
-    "french": "Échanger"
-  },
-  "settings": {
-    "english": "Settings",
-    "german": "Einstellungen",
-    "japanese": "設定",
-    "korean": "설정",
-    "mandarin": "设置",
-    "spanish": "Ajustes",
-    "portuguese": "Configurações",
-    "dutch": "Instellingen",
-    "french": "Paramètres"
-  },
-  "logout": {
-    "english": "Logout",
-    "german": "Ausloggen",
-    "japanese": "ログアウト",
-    "korean": "로그 아웃",
-    "mandarin": "登出",
-    "spanish": "Cerrar sesión",
-    "portuguese": "Sair",
-    "dutch": "Uitloggen",
-    "french": "Se déconnecter"
-  },
-  "requestedFrom": {
-    "english": "Requested from",
-    "german": "Angefordert von",
-    "japanese": "からリクエスト",
-    "korean": "요청",
-    "mandarin": "请求",
-    "spanish": "Solicitado de",
-    "portuguese": "Solicitado de",
-    "dutch": "Gevraagd van",
-    "french": "Demandé à"
+  "walletFrontend": {
+    "walletConnect": {
+      "english": "Wallet connect",
+      "german": "Brieftasche verbinden",
+      "japanese": "ウォレット接続",
+      "korean": "지갑 연결",
+      "mandarin": "钱包连接",
+      "spanish": "Billetera conectar",
+      "portuguese": "Carteira Connect",
+      "dutch": "Portemonnee verbindt",
+      "french": "Portefeuille"
+    },
+    "home": {
+      "english": "home",
+      "german": "heim",
+      "japanese": "家",
+      "korean": "집",
+      "mandarin": "家",
+      "spanish": "hogar",
+      "portuguese": "lar",
+      "dutch": "thuis",
+      "french": "maison"
+    },
+    "activity": {
+      "english": "Activity",
+      "german": "Aktivität",
+      "japanese": "活動",
+      "korean": "활동",
+      "mandarin": "活动",
+      "spanish": "Actividad",
+      "portuguese": "Atividade",
+      "dutch": "Activiteit",
+      "french": "Activité"
+    },
+    "buySell": {
+      "english": "Buy/Sell",
+      "german": "Kaufen Verkaufen",
+      "japanese": "売買",
+      "korean": "구매/판매",
+      "mandarin": "买卖",
+      "spanish": "Compra venta",
+      "portuguese": "Compra venda",
+      "dutch": "Kopen verkopen",
+      "french": "Acheter vendre"
+    },
+    "send": {
+      "english": "Send",
+      "german": "Schicken",
+      "japanese": "送信",
+      "korean": "보내다",
+      "mandarin": "发送",
+      "spanish": "Enviar",
+      "portuguese": "Enviar",
+      "dutch": "Versturen",
+      "french": "Envoyer"
+    },
+    "swap": {
+      "english": "Swap",
+      "german": "Tauschen",
+      "japanese": "スワップ",
+      "korean": "교환",
+      "mandarin": "交换",
+      "spanish": "Intercambio",
+      "portuguese": "Trocar",
+      "dutch": "Ruil",
+      "french": "Échanger"
+    },
+    "settings": {
+      "english": "Settings",
+      "german": "Einstellungen",
+      "japanese": "設定",
+      "korean": "설정",
+      "mandarin": "设置",
+      "spanish": "Ajustes",
+      "portuguese": "Configurações",
+      "dutch": "Instellingen",
+      "french": "Paramètres"
+    },
+    "logout": {
+      "english": "Logout",
+      "german": "Ausloggen",
+      "japanese": "ログアウト",
+      "korean": "로그 아웃",
+      "mandarin": "登出",
+      "spanish": "Cerrar sesión",
+      "portuguese": "Sair",
+      "dutch": "Uitloggen",
+      "french": "Se déconnecter"
+    },
+    "requestedFrom": {
+      "english": "Requested from",
+      "german": "Angefordert von",
+      "japanese": "からリクエスト",
+      "korean": "요청",
+      "mandarin": "请求",
+      "spanish": "Solicitado de",
+      "portuguese": "Solicitado de",
+      "dutch": "Gevraagd van",
+      "french": "Demandé à"
+    }
   }
 }
