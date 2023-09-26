@@ -12,15 +12,15 @@
       "french": "Portefeuille"
     },
     "home": {
-      "english": "home",
-      "german": "heim",
+      "english": "Home",
+      "german": "Heim",
       "japanese": "家",
       "korean": "집",
       "mandarin": "家",
-      "spanish": "hogar",
-      "portuguese": "lar",
-      "dutch": "thuis",
-      "french": "maison"
+      "spanish": "Hogar",
+      "portuguese": "Lar",
+      "dutch": "Thuis",
+      "french": "Maison"
     },
     "activity": {
       "english": "Activity",
