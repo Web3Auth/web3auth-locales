@@ -417,6 +417,17 @@
       "portuguese": "ETH total",
       "dutch": "Totale ETH",
       "french": "ETH total"
+    },
+    "rate": {
+      "english": "Rate",
+      "german": "Rate",
+      "japanese": "レート",
+      "korean": "비율",
+      "mandarin": "速度",
+      "spanish": "Tasa",
+      "portuguese": "Avaliar",
+      "dutch": "Tarief",
+      "french": "Taux"
     }
   },
   "activity": {
