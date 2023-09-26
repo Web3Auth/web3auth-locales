@@ -1,0 +1,156 @@
+{
+  "yourExchange": {
+    "english": "Your Exchange",
+    "german": "Dein Austausch",
+    "japanese": "あなたの交換",
+    "korean": "당신의 교환",
+    "mandarin": "您的交流",
+    "spanish": "Tu intercambio",
+    "portuguese": "Sua troca",
+    "dutch": "Uw uitwisseling",
+    "french": "Votre échange"
+  },
+  "useMax": {
+    "english": "Use Max",
+    "german": "Verwenden Sie max",
+    "japanese": "Maxを使用します",
+    "korean": "Max를 사용하십시오",
+    "mandarin": "使用最大",
+    "spanish": "Usar max",
+    "portuguese": "Use max",
+    "dutch": "Gebruik Max",
+    "french": "Utiliser Max"
+  },
+  "for": {
+    "english": "For",
+    "german": "Für",
+    "japanese": "のために",
+    "korean": "을 위한",
+    "mandarin": "为了",
+    "spanish": "Para",
+    "portuguese": "Para",
+    "dutch": "Voor",
+    "french": "Pour"
+  },
+  "txnFee": {
+    "english": "Transaction Fee",
+    "german": "Transaktionsgebühr",
+    "japanese": "取引手数料",
+    "korean": "거래 수수료",
+    "mandarin": "手续费",
+    "spanish": "Tarifa de transacción",
+    "portuguese": "Taxa de transação",
+    "dutch": "Transactiekosten",
+    "french": "Frais de transaction"
+  },
+  "txnCost": {
+    "english": "Transaction cost",
+    "german": "Transaktionsgebühr",
+    "japanese": "取引コスト",
+    "korean": "거래 비용",
+    "mandarin": "交易成本",
+    "spanish": "Costo de la transacción",
+    "portuguese": "Custo da transação",
+    "dutch": "Transactiekosten",
+    "french": "Coût de transaction"
+  },
+  "value": {
+    "english": "Value",
+    "german": "Wert",
+    "japanese": "価値",
+    "korean": "값",
+    "mandarin": "价值",
+    "spanish": "Valor",
+    "portuguese": "Valor",
+    "dutch": "Waarde",
+    "french": "Valeur"
+  },
+  "advancedOptions": {
+    "english": "Advanced options",
+    "german": "Erweiterte Optionen",
+    "japanese": "高度なオプション",
+    "korean": "고급 옵션",
+    "mandarin": "高级选项",
+    "spanish": "Opciones avanzadas",
+    "portuguese": "Opções avançadas",
+    "dutch": "Geavanceerde mogelijkheden",
+    "french": "Options avancées"
+  },
+  "confirmSwapTxn": {
+    "english": "Confirm Swap Transaction",
+    "german": "Bestätigen Sie die Swap -Transaktion",
+    "japanese": "スワップトランザクションを確認します",
+    "korean": "스왑 트랜잭션을 확인하십시오",
+    "mandarin": "确认交易交易",
+    "spanish": "Confirmar la transacción de intercambio",
+    "portuguese": "Confirme a transação de troca",
+    "dutch": "Bevestig swap -transactie",
+    "french": "Confirmer la transaction d'échange"
+  },
+  "processIn": {
+    "english": "Process in",
+    "german": "Prozess in",
+    "japanese": "処理",
+    "korean": "처리",
+    "mandarin": "过程中",
+    "spanish": "Procesar",
+    "portuguese": "Processo em",
+    "dutch": "Verwerken",
+    "french": "Tracer"
+  },
+  "confirm": {
+    "english": "Confirm",
+    "german": "Bestätigen",
+    "japanese": "確認する",
+    "korean": "확인하다",
+    "mandarin": "确认",
+    "spanish": "Confirmar",
+    "portuguese": "confirme",
+    "dutch": "Bevestigen",
+    "french": "Confirmer"
+  },
+  "cancel": {
+    "english": "Cancel",
+    "german": "Stornieren",
+    "japanese": "キャンセル",
+    "korean": "취소",
+    "mandarin": "取消",
+    "spanish": "Cancelar",
+    "portuguese": "Cancelar",
+    "dutch": "Annuleren",
+    "french": "Annuler"
+  },
+  "gasLimit": {
+    "english": "Gas Limit",
+    "german": "Gasgrenze",
+    "japanese": "ガス制限",
+    "korean": "가스 한도",
+    "mandarin": "气限",
+    "spanish": "Límite de gas",
+    "portuguese": "Limite de gás",
+    "dutch": "Gasgrens",
+    "french": "Limite de gaz"
+  },
+  "maxPriorityFee": {
+    "english": "Max Priority Fee",
+    "german": "Maximale Prioritätsgebühr",
+    "japanese": "最大優先料金",
+    "korean": "최대 우선 순위",
+    "mandarin": "最大优先费",
+    "spanish": "Tarifa de prioridad máxima",
+    "portuguese": "Taxa prioritária máxima",
+    "dutch": "Maximale prioriteitskosten",
+    "french": "Frais de priorité maximale"
+  },
+  "maxTxnFee": {
+    "english": "Max Transaction Fee",
+    "german": "Max -Transaktionsgebühr",
+    "japanese": "最大取引料",
+    "korean": "최대 거래 수수료",
+    "mandarin": "最大交易费",
+    "spanish": "Tarifa de transacción máxima",
+    "portuguese": "Taxa de transação máxima",
+    "dutch": "Max transactiekosten",
+    "french": "Frais de transaction maximale"
+  }
+}
