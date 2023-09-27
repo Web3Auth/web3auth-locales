@@ -1,15 +1,15 @@
 {
   "checkout": {
-    "youBuying": {
-      "english": "You are buying",
-      "german": "Du kaufst",
-      "japanese": "あなたは買っています",
-      "korean": "당신은 구매하고 있습니다",
-      "mandarin": "你在买",
-      "spanish": "Estas comprando",
-      "portuguese": "Você está comprando",
-      "dutch": "U koopt",
-      "french": "Vous achetez"
+    "youBuy": {
+      "english": "You buy",
+      "german": "Sie kaufen",
+      "japanese": "あなたが買う",
+      "korean": "당신은 구매합니다",
+      "mandarin": "你买",
+      "spanish": "Tu compras",
+      "portuguese": "Você compra",
+      "dutch": "Je koopt",
+      "french": "Tu achètes"
     },
     "value": {
       "english": "Value:",
@@ -241,6 +241,17 @@
       "portuguese": "para",
       "dutch": "voor",
       "french": "pour"
+    },
+    "cancel": {
+      "english": "Cancel",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "mandarin": "取消",
+      "spanish": "Cancelar",
+      "portuguese": "Cancelar",
+      "dutch": "Annuleren",
+      "french": "Annuler"
     }
   }
 }
