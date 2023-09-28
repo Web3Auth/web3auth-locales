@@ -646,6 +646,127 @@
     }
   },
   "settings": {
+    "profile": {
+      "english": "Profile",
+      "german": "Profil",
+      "japanese": "プロフィール",
+      "korean": "프로필",
+      "mandarin": "轮廓",
+      "spanish": "Perfil",
+      "portuguese": "Perfil",
+      "dutch": "Profiel",
+      "french": "Profil"
+    },
+    "general": {
+      "english": "General",
+      "german": "Allgemein",
+      "japanese": "一般的な",
+      "korean": "일반적인",
+      "mandarin": "一般的",
+      "spanish": "General",
+      "portuguese": "Em geral",
+      "dutch": "Algemeen",
+      "french": "Général"
+    },
+    "privacyAndSecurity": {
+      "english": "Privacy and security",
+      "german": "Privatsphäre und Sicherheit",
+      "japanese": "プライバシーとセキュリティ",
+      "korean": "개인 정보 및 보안",
+      "mandarin": "隐私和安全",
+      "spanish": "Privacidad y seguridad",
+      "portuguese": "Privacidade e segurança",
+      "dutch": "Privacy en beveiliging",
+      "french": "Confidentialité et sécurité"
+    },
+    "appearance": {
+      "english": "Appearance",
+      "german": "Aussehen",
+      "japanese": "外観",
+      "korean": "모습",
+      "mandarin": "外貌",
+      "spanish": "Apariencia",
+      "portuguese": "Aparência",
+      "dutch": "Verschijning",
+      "french": "Apparence"
+    },
+    "notification": {
+      "english": "Notifications",
+      "german": "Benachrichtigungen",
+      "japanese": "通知",
+      "korean": "알림",
+      "mandarin": "通知",
+      "spanish": "Notificaciones",
+      "portuguese": "Notificações",
+      "dutch": "Meldingen",
+      "french": "Notifications"
+    },
+    "profileDesc": {
+      "english": "Default wallet, Import wallet etc.,",
+      "german": "Standard -Brieftasche, Brieftasche importieren usw.,",
+      "japanese": "デフォルトのウォレット、インポートウォレットなど、",
+      "korean": "기본 지갑, 가져 오기 지갑 등,",
+      "mandarin": "默认钱包，导入钱包等，",
+      "spanish": "Billetera predeterminada, billetera de importación, etc.,",
+      "portuguese": "Carteira padrão, carteira de importação etc.,",
+      "dutch": "Standaard portemonnee, portemonnee enz. Importeren,",
+      "french": "Portefeuille par défaut, portefeuille d'importation, etc.,"
+    },
+    "generalDesc": {
+      "english": "Network, Language, Currency etc.,",
+      "german": "Netzwerk, Sprache, Währung usw.,",
+      "japanese": "ネットワーク、言語、通貨など、",
+      "korean": "네트워크, 언어, 통화 등,",
+      "mandarin": "网络，语言，货币等",
+      "spanish": "Red, idioma, moneda, etc.,",
+      "portuguese": "Rede, idioma, moeda etc.,",
+      "dutch": "Netwerk, taal, valuta enz.,",
+      "french": "Réseau, langue, devise, etc.,"
+    },
+    "privKeyDesc": {
+      "english": "Private key (Download or copy)",
+      "german": "Privatschlüssel (herunterladen oder kopieren)",
+      "japanese": "秘密鍵（ダウンロードまたはコピー）",
+      "korean": "개인 키 (다운로드 또는 복사)",
+      "mandarin": "私钥（下载或复制）",
+      "spanish": "Clave privada (descargar o copiar)",
+      "portuguese": "Chave privada (download ou cópia)",
+      "dutch": "Privésleutel (downloaden of kopiëren)",
+      "french": "Clé privée (télécharger ou copier)"
+    },
+    "appearanceDesc": {
+      "english": "Enable or disable Dark mode",
+      "german": "Dunkle Modus aktivieren oder deaktivieren",
+      "japanese": "ダークモードを有効または無効にします",
+      "korean": "어두운 모드를 활성화 또는 비활성화합니다",
+      "mandarin": "启用或禁用黑暗模式",
+      "spanish": "Habilitar o deshabilitar el modo oscuro",
+      "portuguese": "Habilitar ou desativar o modo escuro",
+      "dutch": "Schakel de donkere modus in of uit",
+      "french": "Activer ou désactiver le mode sombre"
+    },
+    "notificationDesc": {
+      "english": "Enable and disable notifications",
+      "german": "Benachrichtigungen aktivieren und deaktivieren",
+      "japanese": "通知を有効にして無効にします",
+      "korean": "알림을 활성화하고 비활성화합니다",
+      "mandarin": "启用和禁用通知",
+      "spanish": "Habilitar y deshabilitar notificaciones",
+      "portuguese": "Ativar e desativar notificações",
+      "dutch": "Meldingen inschakelen en uitschakelen",
+      "french": "Activer et désactiver les notifications"
+    },
+    "contactDesc": {
+      "english": "Address book, Add contacts",
+      "german": "Adressbuch, Kontakte hinzufügen",
+      "japanese": "アドレス帳、連絡先を追加します",
+      "korean": "주소록, 연락처 추가",
+      "mandarin": "地址簿，添加联系人",
+      "spanish": "Libreta de direcciones, agregar contactos",
+      "portuguese": "Livro de endereços, adicione contatos",
+      "dutch": "Adresboek, contacten toevoegen",
+      "french": "Carnet d'adresses, ajouter des contacts"
+    },
     "copy": {
       "english": "Copy",
       "german": "Kopieren",
