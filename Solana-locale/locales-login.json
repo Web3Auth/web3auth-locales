@@ -281,13 +281,28 @@
 			"spanish": "Simple y segura vía para el ecosistema decentralizado con Google OAuth logins"
 		},
 		"slide1Subtitle1": {
-			"english": "Transacting on blockchain has never been easier."
+			"english": "Transacting on blockchain has never been easier.",
+			"german": "Die Transaktion auf Blockchain war noch nie einfacher.",
+			"japanese": "ブロックチェーンでの取引はかつてないほど容易になりました。",
+			"korean": "블록 체인에서의 거래는 결코 쉬운 일이 아닙니다.",
+			"mandarin": "在区块链上进行交易从未如此简单。",
+			"spanish": "Transactar en blockchain nunca ha sido más fácil."
 		},
 		"slide1Subtitle2": {
-			"english": "An email is all you need to get started."
+			"english": "An email is all you need to get started.",
+			"german": "Eine E -Mail ist alles, was Sie brauchen, um loszulegen.",
+			"japanese": "あなたが始めるために必要なすべてのメールだけです。",
+			"korean": "이메일만으로 시작하기 만하면됩니다.",
+			"mandarin": "您需要开始的电子邮件。",
+			"spanish": "Un correo electrónico es todo lo que necesita para comenzar."
 		},
 		"slide1Title": {
-			"english": "Send and receive digital currencies via email"
+			"english": "Send and receive digital currencies via email",
+			"german": "Senden und empfangen Sie digitale Währungen per E -Mail",
+			"japanese": "電子メールでデジタル通貨を送信および受信します",
+			"korean": "이메일을 통해 디지털 통화를 보내고받습니다",
+			"mandarin": "通过电子邮件发送和接收数字货币",
+			"spanish": "Enviar y recibir monedas digitales por correo electrónico"
 		},
 		"slide2Subtitle1": {
 			"english": "Choose from a range of providers",
@@ -306,10 +321,20 @@
 			"spanish": "Obtén monedas a los mejores rates"
 		},
 		"slide2Title": {
-			"english": "Purchase digital currencies globally with credit card"
+			"english": "Purchase digital currencies globally with credit card",
+			"german": "Kaufen Sie digitale Währungen weltweit mit Kreditkarte",
+			"japanese": "クレジットカードでグローバルにデジタル通貨を購入します",
+			"korean": "신용 카드로 전 세계적으로 디지털 통화를 구매하십시오",
+			"mandarin": "使用信用卡全球购买数字货币",
+			"spanish": "Comprar monedas digitales a nivel mundial con tarjeta de crédito"
 		},
 		"slide3Subtitle1": {
-			"english": "From Finance, Games, Exchanges and more"
+			"english": "From Finance, Games, Exchanges and more",
+			"german": "Aus Finanzen, Spielen, Austausch und mehr",
+			"japanese": "財務、ゲーム、交換などから",
+			"korean": "금융, 게임, 교환 등에서",
+			"mandarin": "从金融，游戏，交流等",
+			"spanish": "De finanzas, juegos, intercambios y más"
 		},
 		"slide3Subtitle2": {
 			"english": "Access the decentralised world with Torus",
