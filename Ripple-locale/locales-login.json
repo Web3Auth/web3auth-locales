@@ -96,5 +96,53 @@
       "mandarin": "查看更多选项",
       "spanish": "Ver más opciones"
     }
+    "slide2Subtitle1": {
+        "english": "Choose from a range of providers",
+        "german": "Wählen Sie aus einem Sortimentsanbieter",
+        "japanese": "販売者を選択",
+        "korean": "범위 제공자 중에서 선택",
+        "mandarin": "从范围提供商中选择",
+        "spanish": "Escoge desde nuestra lista de proveedores"
+    },
+    "slide2Subtitle2": {
+        "english": "Get currencies at one of the most competitive rates",
+        "german": "Holen Sie sich Währungen zu einem der wettbewerbsfähigsten Kurse",
+        "japanese": "もっともお得なレートを取得",
+        "korean": "가장 경쟁력있는 환율 중 하나로 통화하십시오",
+        "mandarin": "以最具竞争力的价格获得货币",
+        "spanish": "Obtén monedas a los mejores rates"
+    },
+    "slide2Title": {
+        "english": "Purchase digital currencies globally with credit card",
+        "german": "Kaufen Sie digitale Währungen weltweit mit Kreditkarte",
+        "japanese": "クレジットカードで仮想通貨を購入",
+        "korean": "신용 카드로 전 세계 디지털 통화 구매",
+        "mandarin": "使用信用卡在全球范围内购买数字货币",
+        "spanish": "Compra monedas digitales con tu tarjeta de crédito"
+    },
+    "slide3Subtitle1": {
+        "english": "From Finance, Games, Exchanges and more",
+        "german": "Von Finanzen, Spielen, Börsen und mehr",
+        "japanese": "ファイナンス、ゲーム、エクスチェンジなど",
+        "korean": "금융, 게임, 거래소 등",
+        "mandarin": "来自金融，游戏，交易所等",
+        "spanish": "Desde finanzas, juegos, intercambios y más"
+    },
+    "slide3Subtitle2": {
+        "english": "Access the decentralised world with Torus",
+        "german": "Greifen Sie mit Torus auf die dezentrale Welt zu",
+        "japanese": "世界中のブロックチェーンアプリにTorusを通じてアクセス",
+        "korean": "Torus로 탈 중앙화 세계에 접근",
+        "mandarin": "使用Torus进入去中心化世界",
+        "spanish": "Accede el mundo decentralizado con Torus"
+    },
+    "slide3Title": {
+        "english": "Interact with thousands of apps on the blockchain",
+        "german": "Interagiere mit Tausenden von Apps in der Blockchain",
+        "japanese": "ブロックチェーン上の様々なアプリを利用する",
+        "korean": "블록 체인에서 수천 개의 앱과 상호 작용",
+        "mandarin": "与区块链上的数千个应用程序进行交互",
+        "spanish": "Interactúa con miles de app en la red blockchain"
+    },
   }
 }
