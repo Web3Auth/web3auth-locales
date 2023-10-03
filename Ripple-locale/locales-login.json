@@ -95,7 +95,7 @@
       "korean": "더 많은 옵션보기",
       "mandarin": "查看更多选项",
       "spanish": "Ver más opciones"
-    }
+    },
     "slide2Subtitle1": {
         "english": "Choose from a range of providers",
         "german": "Wählen Sie aus einem Sortimentsanbieter",
@@ -143,6 +143,6 @@
         "korean": "블록 체인에서 수천 개의 앱과 상호 작용",
         "mandarin": "与区块链上的数千个应用程序进行交互",
         "spanish": "Interactúa con miles de app en la red blockchain"
-    },
+    }
   }
 }
