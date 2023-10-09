@@ -243,7 +243,7 @@
       "french": "Frais de transaction maximale"
     },
     "selectToken": {
-      "english": "Select token",
+      "english": "Select Token",
       "german": "Wählen Sie Token",
       "japanese": "トークンを選択します",
       "korean": "토큰을 선택하십시오",
@@ -428,6 +428,105 @@
       "portuguese": "Avaliar",
       "dutch": "Tarief",
       "french": "Taux"
+    },
+    "claim": {
+      "english": "Claim",
+      "german": "Beanspruchen",
+      "japanese": "請求",
+      "korean": "주장하다",
+      "mandarin": "宣称",
+      "spanish": "Afirmar",
+      "portuguese": "Alegar",
+      "dutch": "Claim",
+      "french": "Réclamer"
+    },
+    "creditUsage": {
+      "english": "Credit Usage",
+      "german": "Kreditverbrauch",
+      "japanese": "クレジットの使用",
+      "korean": "신용 사용",
+      "mandarin": "信用使用",
+      "spanish": "Uso de crédito",
+      "portuguese": "Uso de crédito",
+      "dutch": "Kredietgebruik",
+      "french": "Utilisation du crédit"
+    },
+    "totalCost": {
+      "english": "Total Cost",
+      "german": "Gesamtkosten",
+      "japanese": "総費用",
+      "korean": "총 비용",
+      "mandarin": "总成本",
+      "spanish": "Coste total",
+      "portuguese": "Custo total",
+      "dutch": "Totale prijs",
+      "french": "Coût total"
+    },
+    "copied": {
+      "english": "Copied",
+      "german": "Kopiert",
+      "japanese": "コピー",
+      "korean": "복사",
+      "mandarin": "复制",
+      "spanish": "Copiado",
+      "portuguese": "Copiado",
+      "dutch": "Gekopieerd",
+      "french": "Copié"
+    },
+    "topUp": {
+      "english": "Top Up",
+      "german": "Nachfüllen",
+      "japanese": "補充します",
+      "korean": "위로",
+      "mandarin": "充值",
+      "spanish": "Completar",
+      "portuguese": "Completar",
+      "dutch": "Aanvullen",
+      "french": "Se débarrasser de"
+    },
+    "ownerEoaAcc": {
+      "english": "Owner EOA Account",
+      "german": "Eigentümer EOA -Konto",
+      "japanese": "所有者EOAアカウント",
+      "korean": "소유자 EOA 계정",
+      "mandarin": "所有者EOA帐户",
+      "spanish": "Cuenta EOA del propietario",
+      "portuguese": "Conta do proprietário EOA",
+      "dutch": "Eigenaar EOA -account",
+      "french": "Compte EOA propriétaire"
+    },
+    "ownerEoaBalance": {
+      "english": "Owner EOA Balance",
+      "german": "Eigentümer EOA -Saldo",
+      "japanese": "所有者EOA残高",
+      "korean": "소유자 EOA 잔액",
+      "mandarin": "所有者EOA余额",
+      "spanish": "Balance de propietario EOA",
+      "portuguese": "Proprietário EOA Balance",
+      "dutch": "Eigenaar EOA Balans",
+      "french": "Propriétaire EOA Balance"
+    },
+    "toppedUpAmt": {
+      "english": "Topped up amount",
+      "german": "Belastet die Menge",
+      "japanese": "補充量",
+      "korean": "윗면 금액",
+      "mandarin": "总额",
+      "spanish": "Cantidad rematada",
+      "portuguese": "TODO OURMOURO",
+      "dutch": "Bedacht bedrag",
+      "french": "Montant complété"
+    },
+    "selectSpeed": {
+      "english": "Select Speed",
+      "german": "Wählen Sie Geschwindigkeit",
+      "japanese": "速度を選択します",
+      "korean": "속도를 선택하십시오",
+      "mandarin": "选择速度",
+      "spanish": "Velocidad de selección",
+      "portuguese": "Selecione a velocidade",
+      "dutch": "Selecteer snelheid",
+      "french": "Sélectionner la vitesse"
     }
   },
   "activity": {
@@ -630,6 +729,39 @@
       "portuguese": "Token transferido",
       "dutch": "Overgedragen token",
       "french": "Jeté transféré"
+    },
+    "gasCredit": {
+      "english": "Gas Credit",
+      "german": "Gaskredit",
+      "japanese": "ガス信用",
+      "korean": "가스 신용",
+      "mandarin": "汽油信用",
+      "spanish": "Crédito de gas",
+      "portuguese": "Crédito a gás",
+      "dutch": "Gaskrediet",
+      "french": "Crédit de gaz"
+    },
+    "smartContractAcc": {
+      "english": "Smart Contract Account",
+      "german": "Smart Contract -Konto",
+      "japanese": "スマート契約アカウント",
+      "korean": "스마트 계약 계정",
+      "mandarin": "智能合约帐户",
+      "spanish": "Cuenta de contrato inteligente",
+      "portuguese": "Conta de contrato inteligente",
+      "dutch": "Slimme contractaccount",
+      "french": "Compte de contrat intelligent"
+    },
+    "ownerEoa": {
+      "english": "Owner EOA",
+      "german": "Besitzer EOA",
+      "japanese": "所有者EOA",
+      "korean": "소유자 EOA",
+      "mandarin": "所有者EOA",
+      "spanish": "Propietario EOA",
+      "portuguese": "Proprietário EOA",
+      "dutch": "Eigenaar EOA",
+      "french": "Propriétaire EOA"
     }
   },
   "qrCode": {
@@ -646,6 +778,17 @@
     }
   },
   "settings": {
+    "account": {
+      "english": "Account",
+      "german": "Konto",
+      "japanese": "アカウント",
+      "korean": "계정",
+      "mandarin": "帐户",
+      "spanish": "Cuenta",
+      "portuguese": "Conta",
+      "dutch": "Rekening",
+      "french": "Compte"
+    },
     "profile": {
       "english": "Profile",
       "german": "Profil",
@@ -1186,6 +1329,30 @@
       "portuguese": "Carteira aberta",
       "dutch": "Open portemonnee",
       "french": "Portefeuille ouvert"
+    }
+  },
+  "moca": {
+    "totalMocaXp": {
+      "english": "Total Moca XP",
+      "german": "Total MOCA XP",
+      "japanese": "合計MOCA XP",
+      "korean": "총 모카 xp",
+      "mandarin": "总MOCA XP",
+      "spanish": "MOCA XP total",
+      "portuguese": "Total MOCA XP",
+      "dutch": "Totaal MOCA XP",
+      "french": "Total MOCA XP"
+    },
+    "pendingMocaXp": {
+      "english": "Total Moca XP",
+      "german": "Total MOCA XP",
+      "japanese": "合計MOCA XP",
+      "korean": "총 모카 xp",
+      "mandarin": "总MOCA XP",
+      "spanish": "MOCA XP total",
+      "portuguese": "Total MOCA XP",
+      "dutch": "Totaal MOCA XP",
+      "french": "Total MOCA XP"
     }
   }
 }
