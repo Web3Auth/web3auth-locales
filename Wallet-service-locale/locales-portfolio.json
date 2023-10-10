@@ -637,6 +637,83 @@
       "portuguese": "Últimos 6 meses",
       "dutch": "Laatste 6 maanden",
       "french": "6 derniers mois"
+    },
+    "porcessIn": {
+      "english": "Process in < {0} seconds",
+      "german": "Prozess in <{0} Sekunden",
+      "japanese": "<{0}秒で処理します",
+      "korean": "<{0} 초에 프로세스",
+      "mandarin": "<{0}秒的过程",
+      "spanish": "Proceso en <{0} segundos",
+      "portuguese": "Processo em <{0} segundos",
+      "dutch": "Proces in <{0} seconden",
+      "french": "Processus en <{0} secondes"
+    },
+    "advanced": {
+      "english": "Advanced",
+      "german": "Fortschrittlich",
+      "japanese": "高度な",
+      "korean": "고급의",
+      "mandarin": "先进的",
+      "spanish": "Avanzado",
+      "portuguese": "Avançado",
+      "dutch": "Geavanceerd",
+      "french": "Avancé"
+    },
+    "customizeGasFee": {
+      "english": "Customize your gas fee",
+      "german": "Passen Sie Ihre Gasgebühr an",
+      "japanese": "ガス料金をカスタマイズします",
+      "korean": "가스 수수료를 사용자 정의하십시오",
+      "mandarin": "自定义您的汽油费",
+      "spanish": "Personaliza tu tarifa de gasolina",
+      "portuguese": "Personalize sua taxa de gás",
+      "dutch": "Pas uw gaskosten aan",
+      "french": "Personnalisez vos frais de gaz"
+    },
+    "average": {
+      "english": "Average",
+      "german": "Durchschnitt",
+      "japanese": "平均",
+      "korean": "평균",
+      "mandarin": "平均的",
+      "spanish": "Promedio",
+      "portuguese": "Média",
+      "dutch": "Gemiddeld",
+      "french": "Moyenne"
+    },
+    "fast": {
+      "english": "Fast",
+      "german": "Schnell",
+      "japanese": "速い",
+      "korean": "빠른",
+      "mandarin": "快速地",
+      "spanish": "Rápido",
+      "portuguese": "Rápido",
+      "dutch": "Snel",
+      "french": "Rapide"
+    },
+    "slow": {
+      "english": "Slow",
+      "german": "Langsam",
+      "japanese": "遅い",
+      "korean": "느린",
+      "mandarin": "慢的",
+      "spanish": "Lento",
+      "portuguese": "Lento",
+      "dutch": "Langzaam",
+      "french": "Lent"
+    },
+    "medium": {
+      "english": "Medium",
+      "german": "Mittel",
+      "japanese": "中くらい",
+      "korean": "중간",
+      "mandarin": "中等的",
+      "spanish": "Medio",
+      "portuguese": "Médio",
+      "dutch": "Medium",
+      "french": "Moyen"
     }
   },
   "activity": {
