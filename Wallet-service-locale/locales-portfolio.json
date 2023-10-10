@@ -718,15 +718,15 @@
   },
   "activity": {
     "selectTxnDetails": {
-      "english": "Select Transaction to views details",
-      "german": "Wählen Sie Transaktion zu Ansichten Details",
-      "japanese": "詳細を表示するには、トランザクションを選択します",
-      "korean": "뷰 세부 사항으로 트랜잭션을 선택하십시오",
-      "mandarin": "选择交易到视图详细信息",
-      "spanish": "Seleccione la transacción a los detalles de las vistas",
-      "portuguese": "Selecione a transação para visualizações Detalhes",
-      "dutch": "Selecteer transactie naar weergavengegevens",
-      "french": "Sélectionnez les détails de la transaction aux vues"
+      "english": "Select Transaction to view details",
+      "german":	"Wählen Sie Transaktion, um Details anzuzeigen",
+      "japanese":	"詳細を表示するには、トランザクションを選択します",
+      "korean":	"세부 사항을 볼 트랜잭션을 선택하십시오",
+      "mandarin":	"选择交易来查看详细信息",
+      "spanish":	"Seleccione la transacción para ver los detalles",
+      "portuguese": "Selecione a transação para visualizar detalhes",
+      "dutch": "Selecteer transactie om details te bekijken",
+      "french":	"Sélectionnez la transaction pour afficher les détails"
     },
     "selectTxnSubDetails": {
       "english": "Select any transaction to view details",
@@ -1107,6 +1107,17 @@
       "portuguese": "cópia de",
       "dutch": "Kopiëren",
       "french": "Copie"
+    },
+    "copied": {
+      "english": "Copied",
+      "german": "Kopiert",
+      "japanese": "コピー",
+      "korean": "복사",
+      "mandarin": "复制",
+      "spanish": "Copiado",
+      "portuguese": "Copiado",
+      "dutch": "Gekopieerd",
+      "french": "Copié"
     },
     "showQr": {
       "english": "Show QR",
