@@ -714,6 +714,28 @@
       "portuguese": "Médio",
       "dutch": "Medium",
       "french": "Moyen"
+    },
+    "upTo": {
+      "english": "Up to",
+      "german": "Bis zu",
+      "japanese": "まで",
+      "korean": "까지",
+      "mandarin": "取决于",
+      "spanish": "Hasta",
+      "portuguese": "Até",
+      "dutch": "Tot",
+      "french": "Jusqu'à"
+    },
+    "selectAnAsset": {
+      "english": "Select an asset",
+      "german": "Wählen Sie ein Vermögenswert aus",
+      "japanese": "アセットを選択します",
+      "korean": "자산을 선택하십시오",
+      "mandarin": "选择资产",
+      "spanish": "Seleccione un activo",
+      "portuguese": "Selecione um ativo",
+      "dutch": "Selecteer een actief",
+      "french": "Sélectionnez un actif"
     }
   },
   "activity": {
