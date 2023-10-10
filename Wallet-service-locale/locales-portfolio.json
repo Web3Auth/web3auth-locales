@@ -527,6 +527,116 @@
       "portuguese": "Selecione a velocidade",
       "dutch": "Selecteer snelheid",
       "french": "Sélectionner la vitesse"
+    },
+    "enterRecipientAdd": {
+      "english": "Enter recipient address",
+      "german": "Geben Sie die Empfängeradresse ein",
+      "japanese": "受信者アドレスを入力します",
+      "korean": "수신자 주소 입력하기",
+      "mandarin": "输入收件人地址",
+      "spanish": "Ingrese la dirección del destinatario",
+      "portuguese": "Digite o endereço do destinatário",
+      "dutch": "Voer het adres van de ontvanger in",
+      "french": "Entrez l'adresse du destinataire"
+    },
+    "insufficientAmtMsg": {
+      "english": "Insufficient gas credit, wallet balance will be used to cover fee",
+      "german": "Nicht genügend Gaskredite, Brieftaschenbilanz wird verwendet, um die Gebühr abzudecken",
+      "japanese": "不十分なガスクレジット、ウォレットバランスは料金をカバーするために使用されます",
+      "korean": "가스 신용 불충분, 지갑 잔액은 수수료를 커버하는 데 사용됩니다.",
+      "mandarin": "汽油信用不足，钱包余额将用于支付费用",
+      "spanish": "Crédito de gas insuficiente, el saldo de la billetera se utilizará para cubrir la tarifa",
+      "portuguese": "Crédito a gás insuficiente, o saldo da carteira será usado para cobrir a taxa",
+      "dutch": "Onvoldoende gaskrediet, portemonnee saldo wordt gebruikt om kosten te dekken",
+      "french": "Crédit de gaz insuffisant, le solde du portefeuille sera utilisé pour couvrir les frais"
+    },
+    "all": {
+      "english": "All",
+      "german": "Alle",
+      "japanese": "全て",
+      "korean": "모두",
+      "mandarin": "全部",
+      "spanish": "Todo",
+      "portuguese": "Todos",
+      "dutch": "Alle",
+      "french": "Tous"
+    },
+    "sent": {
+      "english": "Sent",
+      "german": "Gesendet",
+      "japanese": "送信済み",
+      "korean": "전송된",
+      "mandarin": "发送",
+      "spanish": "Enviado",
+      "portuguese": "Enviado",
+      "dutch": "Verstuurd",
+      "french": "Envoyé"
+    },
+    "received": {
+      "english": "Received",
+      "german": "Erhalten",
+      "japanese": "受け取った",
+      "korean": "받았다",
+      "mandarin": "已收到",
+      "spanish": "Recibió",
+      "portuguese": "Recebido",
+      "dutch": "Ontvangen",
+      "french": "Reçu"
+    },
+    "top-up": {
+      "english": "Top-up",
+      "german": "Aufladung",
+      "japanese": "トップアップ",
+      "korean": "상단",
+      "mandarin": "充值",
+      "spanish": "Recarga",
+      "portuguese": "Completar",
+      "dutch": "Bijvoegen",
+      "french": "Reprise"
+    },
+    "allDates": {
+      "english": "All Dates",
+      "german": "Alle Daten",
+      "japanese": "すべての日付",
+      "korean": "모든 날짜",
+      "mandarin": "所有日期",
+      "spanish": "Todas las fechas",
+      "portuguese": "Todas as datas",
+      "dutch": "Alle datums",
+      "french": "Toutes les dates"
+    },
+    "last1Week": {
+      "english": "Last 1 week",
+      "german": "Letzte 1 Woche",
+      "japanese": "過去1週間",
+      "korean": "지난 1 주일",
+      "mandarin": "最后1周",
+      "spanish": "Última 1 semana",
+      "portuguese": "Última 1 semana",
+      "dutch": "Laatste 1 week",
+      "french": "1 semaine dernière"
+    },
+    "last1Month": {
+      "english": "Last 1 month",
+      "german": "Letzte 1 Monat",
+      "japanese": "過去1か月",
+      "korean": "지난 1 개월",
+      "mandarin": "最后一个月",
+      "spanish": "Último 1 mes",
+      "portuguese": "Último 1 mês",
+      "dutch": "Laatste 1 maand",
+      "french": "1 mois dernier"
+    },
+    "last6Months": {
+      "english": "Last 6 months",
+      "german": "Letzte 6 Monate",
+      "japanese": "過去6か月",
+      "korean": "지난 6 개월",
+      "mandarin": "最近6个月",
+      "spanish": "Últimos 6 meses",
+      "portuguese": "Últimos 6 meses",
+      "dutch": "Laatste 6 maanden",
+      "french": "6 derniers mois"
     }
   },
   "activity": {
