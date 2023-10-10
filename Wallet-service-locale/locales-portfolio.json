@@ -719,14 +719,14 @@
   "activity": {
     "selectTxnDetails": {
       "english": "Select Transaction to view details",
-      "german":	"Wählen Sie Transaktion, um Details anzuzeigen",
-      "japanese":	"詳細を表示するには、トランザクションを選択します",
-      "korean":	"세부 사항을 볼 트랜잭션을 선택하십시오",
-      "mandarin":	"选择交易来查看详细信息",
-      "spanish":	"Seleccione la transacción para ver los detalles",
+      "german": "Wählen Sie Transaktion, um Details anzuzeigen",
+      "japanese": "詳細を表示するには、トランザクションを選択します",
+      "korean": "세부 사항을 볼 트랜잭션을 선택하십시오",
+      "mandarin": "选择交易来查看详细信息",
+      "spanish": "Seleccione la transacción para ver los detalles",
       "portuguese": "Selecione a transação para visualizar detalhes",
       "dutch": "Selecteer transactie om details te bekijken",
-      "french":	"Sélectionnez la transaction pour afficher les détails"
+      "french": "Sélectionnez la transaction pour afficher les détails"
     },
     "selectTxnSubDetails": {
       "english": "Select any transaction to view details",
