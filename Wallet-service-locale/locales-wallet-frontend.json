@@ -98,6 +98,61 @@
       "portuguese": "Solicitado de",
       "dutch": "Gevraagd van",
       "french": "Demandé à"
+    },
+    "buySellToken": {
+      "english": "Buy/Sell Token",
+      "german": "Token kaufen/verkaufen",
+      "japanese": "トークンを購入/販売します",
+      "korean": "토큰을 구매/판매하십시오",
+      "mandarin": "买/出售令牌",
+      "spanish": "Comprar/vender token",
+      "portuguese": "Comprar/vender token",
+      "dutch": "Koop/verkooptoken",
+      "french": "Token acheter / vendre"
+    },
+    "tokenDetails": {
+      "english": "Token Details",
+      "german": "Token -Details",
+      "japanese": "トークンの詳細",
+      "korean": "토큰 세부 사항",
+      "mandarin": "令牌细节",
+      "spanish": "Detalles del token",
+      "portuguese": "Detalhes do token",
+      "dutch": "Token -details",
+      "french": "Détails de jeton"
+    },
+    "nftDetails": {
+      "english": "NFT Details",
+      "german": "NFT -Details",
+      "japanese": "NFTの詳細",
+      "korean": "NFT 세부 사항",
+      "mandarin": "NFT详细信息",
+      "spanish": "Detalles NFT",
+      "portuguese": "Detalhes da NFT",
+      "dutch": "NFT -details",
+      "french": "Détails NFT"
+    },
+    "transferToken": {
+      "english": "Transfer Token",
+      "german": "Transfer Token",
+      "japanese": "トークンを転送します",
+      "korean": "전송 토큰",
+      "mandarin": "转移令牌",
+      "spanish": "Token de transferencia",
+      "portuguese": "Transferir token",
+      "dutch": "Overdracht token",
+      "french": "Jeton de transfert"
+    },
+    "topUpGasCredit": {
+      "english": "Top Up Gas Credit",
+      "german": "Gaskredit auffüllen",
+      "japanese": "ガスクレジットを補充します",
+      "korean": "가스 크레딧을 상단하십시오",
+      "mandarin": "充气汽油信用",
+      "spanish": "Recargar crédito de gas",
+      "portuguese": "Top up Gas Credit",
+      "dutch": "Vul gaskrediet aan",
+      "french": "Créder le crédit"
     }
   }
 }
