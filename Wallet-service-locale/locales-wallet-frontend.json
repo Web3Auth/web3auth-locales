@@ -153,6 +153,17 @@
       "portuguese": "Top up Gas Credit",
       "dutch": "Vul gaskrediet aan",
       "french": "Créder le crédit"
+    },
+    "signMessage": {
+      "english": "Sign Message",
+      "german": "Meldung unterschreiben",
+      "japanese": "署名メッセージ",
+      "korean": "서명 메시지",
+      "mandarin": "标志消息",
+      "spanish": "Mensaje de firma",
+      "portuguese": "Assinar mensagem",
+      "dutch": "Aanmeldbericht",
+      "french": "Signer le message"
     }
   }
 }
