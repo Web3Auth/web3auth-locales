@@ -339,6 +339,39 @@
       "mandarin": "备份短语已复制",
       "portuguese": "Frase de backup copiada",
       "spanish": "Frase de respaldo copiada"
+    },
+    "copier-copied": {
+      "dutch": "Gekopieerd!",
+      "english": "Copied!",
+      "french": "Copié!",
+      "german": "Kopiert!",
+      "japanese": "コピーしました！",
+      "korean": "복사되었습니다!",
+      "mandarin": "复制！",
+      "portuguese": "Copiado!",
+      "spanish": "Copiado!"
+    },
+    "copier-copy": {
+      "dutch": "Kopiëren naar klembord",
+      "english": "Copy to clipboard",
+      "french": "Copier dans le presse-papiers",
+      "german": "In die Zwischenablage kopieren",
+      "japanese": "クリップボードにコピー",
+      "korean": "클립 보드에 복사",
+      "mandarin": "复制到剪贴板",
+      "portuguese": "Copiar para área de transferência",
+      "spanish": "Copiar al portapapeles"
+    },
+    "copier-manage-account": {
+      "dutch": "Account beheren",
+      "english": "Manage account",
+      "french": "Gérer le compte",
+      "german": "Konto verwalten",
+      "japanese": "アカウントを管理する",
+      "korean": "계정 관리",
+      "mandarin": "管理帐户",
+      "portuguese": "Gerenciar conta",
+      "spanish": "Administrar cuenta"
     }
   }
 }
