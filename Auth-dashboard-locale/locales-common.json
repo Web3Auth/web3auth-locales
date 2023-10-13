@@ -372,6 +372,28 @@
       "mandarin": "管理帐户",
       "portuguese": "Gerenciar conta",
       "spanish": "Administrar cuenta"
+    },
+    "copy-paste": {
+      "dutch": "Kopiëren en plakken",
+      "english": "Copy and Paste",
+      "french": "Copier coller",
+      "german": "Kopieren und Einfügen",
+      "japanese": "コピーアンドペースト",
+      "korean": "복사 및 붙여넣기",
+      "mandarin": "复制和粘贴",
+      "portuguese": "Copiar e colar",
+      "spanish": "Copiar y pegar"
+    },
+    "copy-recovery-phrase": {
+      "dutch": "Herstelzin kopiëren",
+      "english": "Copy Recovery Phrase",
+      "french": "Copier la phrase de récupération",
+      "german": "Wiederherstellungssatz kopieren",
+      "japanese": "リカバリーフレーズをコピー",
+      "korean": "복구 문구 복사",
+      "mandarin": "复制助记词",
+      "portuguese": "Copiar frase de recuperação",
+      "spanish": "Copiar frase de recuperación"
     }
   }
 }
