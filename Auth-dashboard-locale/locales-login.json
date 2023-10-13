@@ -1,0 +1,103 @@
+{
+  "login": {
+    "verifier-google-desc": {
+      "dutch": "Doorgaan met Google",
+      "english": "Continue with Google",
+      "french": "Continuer avec Google",
+      "german": "Fahren Sie mit Google fort",
+      "japanese": "Googleで続行",
+      "korean": "Google로 계속",
+      "mandarin": "继续使用Google",
+      "portuguese": "Continuar com o Google",
+      "spanish": "Continuar con Google"
+    },
+    "social-2fa-view-less": {
+      "dutch": "Minder bekijken",
+      "english": "View less",
+      "french": "Voir moins",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "portuguese": "Ver menos",
+      "spanish": "Ver menos"
+    },
+    "social-2fa-view-more": {
+      "dutch": "Bekijk meer",
+      "english": "View more",
+      "french": "Voir plus",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "portuguese": "Veja mais",
+      "spanish": "Ver más"
+    },
+    "phone-email-label": {
+      "dutch": "Telefoon of e-mail",
+      "english": "Phone or Email",
+      "french": "Téléphone ou e-mail",
+      "german": "Telefon oder E-Mail",
+      "japanese": "電話かメール",
+      "korean": "전화 또는 이메일",
+      "mandarin": "电话还是邮件",
+      "portuguese": "Telefone ou email",
+      "spanish": "Teléfono o correo electrónico"
+    },
+    "connect-email": {
+      "dutch": "Verbinden met e-mail",
+      "english": "Connect with Email",
+      "french": "Connectez-vous avec votre e-mail",
+      "german": "Mit E-Mail verbinden",
+      "japanese": "メールでつながる",
+      "korean": "이메일로 연결",
+      "mandarin": "连接电子邮件",
+      "portuguese": "Conectar com e-mail",
+      "spanish": "Conectar con correo electrónico"
+    },
+    "connect-phone": {
+      "dutch": "Verbinden met telefoon",
+      "english": "Connect with Phone",
+      "french": "Connectez-vous avec votre téléphone",
+      "german": "Mit Telefon verbinden",
+      "japanese": "電話で接続",
+      "korean": "전화와 연결",
+      "mandarin": "连接手机",
+      "portuguese": "Conectar com telefone",
+      "spanish": "Conectar con el teléfono"
+    },
+    "connect-phone-email": {
+      "dutch": "Verbinden met telefoon of e-mail",
+      "english": "Connect with Phone or Email",
+      "french": "Connectez-vous avec votre téléphone ou votre e-mail",
+      "german": "Verbinden Sie sich mit Telefon oder E-Mail",
+      "japanese": "電話またはメールで接続",
+      "korean": "전화 또는 이메일로 연결",
+      "mandarin": "通过电话或电子邮件联系",
+      "portuguese": "Conecte-se com telefone ou e-mail",
+      "spanish": "Conectar con teléfono o correo electrónico"
+    },
+    "footer-message-login": {
+      "dutch": "Zelf-custodial login door Web3Auth",
+      "english": "Self-custodial login by Web3Auth",
+      "french": "Connexion auto-dépositaire par Web3Auth",
+      "german": "Self-custodial Login durch Web3Auth",
+      "japanese": "Web3Authによる自己管理ログイン",
+      "korean": "Web3Auth를 통한 자가 관리 로그인",
+      "mandarin": "Web3Auth 的自我托管登录",
+      "portuguese": "Início de sessão com autocustódia por Web3Auth",
+      "spanish": "Inicio de sesión con autocustodia por Web3Auth"
+    },
+    "social-policy": {
+      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
+      "english": "We do not store any data related to your social logins.",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "japanese": "ソーシャル ログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
+    }
+  }
+}
