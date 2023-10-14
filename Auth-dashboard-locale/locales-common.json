@@ -394,6 +394,17 @@
       "mandarin": "复制助记词",
       "portuguese": "Copiar frase de recuperação",
       "spanish": "Copiar frase de recuperación"
+    },
+    "last-accessed-on": {
+      "dutch": "Laatst bezocht op:",
+      "english": "Last accessed on:",
+      "french": "Dernier accès le:",
+      "german": "Zuletzt aufgerufen am:",
+      "japanese": "最終アクセス日:",
+      "korean": "마지막으로 액세스한 날짜:",
+      "mandarin": "最后访问时间：",
+      "portuguese": "Último acesso em:",
+      "spanish": "Último acceso el:"
     }
   }
 }
