@@ -1,0 +1,180 @@
+{
+  "login": {
+    "verifier-google-desc": {
+      "dutch": "Doorgaan met Google",
+      "english": "Continue with Google",
+      "french": "Continuer avec Google",
+      "german": "Fahren Sie mit Google fort",
+      "japanese": "Googleで続行",
+      "korean": "Google로 계속",
+      "mandarin": "继续使用Google",
+      "portuguese": "Continuar com o Google",
+      "spanish": "Continuar con Google"
+    },
+    "social-2fa-view-less": {
+      "dutch": "Minder bekijken",
+      "english": "View less",
+      "french": "Voir moins",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "portuguese": "Ver menos",
+      "spanish": "Ver menos"
+    },
+    "social-2fa-view-more": {
+      "dutch": "Bekijk meer",
+      "english": "View more",
+      "french": "Voir plus",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "portuguese": "Veja mais",
+      "spanish": "Ver más"
+    },
+    "phone-email-label": {
+      "dutch": "Telefoon of e-mail",
+      "english": "Phone or Email",
+      "french": "Téléphone ou e-mail",
+      "german": "Telefon oder E-Mail",
+      "japanese": "電話かメール",
+      "korean": "전화 또는 이메일",
+      "mandarin": "电话还是邮件",
+      "portuguese": "Telefone ou email",
+      "spanish": "Teléfono o correo electrónico"
+    },
+    "connect-email": {
+      "dutch": "Verbinden met e-mail",
+      "english": "Connect with Email",
+      "french": "Connectez-vous avec votre e-mail",
+      "german": "Mit E-Mail verbinden",
+      "japanese": "メールでつながる",
+      "korean": "이메일로 연결",
+      "mandarin": "连接电子邮件",
+      "portuguese": "Conectar com e-mail",
+      "spanish": "Conectar con correo electrónico"
+    },
+    "connect-phone": {
+      "dutch": "Verbinden met telefoon",
+      "english": "Connect with Phone",
+      "french": "Connectez-vous avec votre téléphone",
+      "german": "Mit Telefon verbinden",
+      "japanese": "電話で接続",
+      "korean": "전화와 연결",
+      "mandarin": "连接手机",
+      "portuguese": "Conectar com telefone",
+      "spanish": "Conectar con el teléfono"
+    },
+    "connect-phone-email": {
+      "dutch": "Verbinden met telefoon of e-mail",
+      "english": "Connect with Phone or Email",
+      "french": "Connectez-vous avec votre téléphone ou votre e-mail",
+      "german": "Verbinden Sie sich mit Telefon oder E-Mail",
+      "japanese": "電話またはメールで接続",
+      "korean": "전화 또는 이메일로 연결",
+      "mandarin": "通过电话或电子邮件联系",
+      "portuguese": "Conecte-se com telefone ou e-mail",
+      "spanish": "Conectar con teléfono o correo electrónico"
+    },
+    "footer-message-login": {
+      "dutch": "Zelf-custodial login door Web3Auth",
+      "english": "Self-custodial login by Web3Auth",
+      "french": "Connexion auto-dépositaire par Web3Auth",
+      "german": "Self-custodial Login durch Web3Auth",
+      "japanese": "Web3Authによる自己管理ログイン",
+      "korean": "Web3Auth를 통한 자가 관리 로그인",
+      "mandarin": "Web3Auth 的自我托管登录",
+      "portuguese": "Início de sessão com autocustódia por Web3Auth",
+      "spanish": "Inicio de sesión con autocustodia por Web3Auth"
+    },
+    "social-policy": {
+      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
+      "english": "We do not store any data related to your social logins.",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "japanese": "ソーシャル ログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
+    },
+    "popup-subtitle": {
+      "dutch": "Selecteer hoe u verder wilt gaan",
+      "english": "Select how you would like to continue",
+      "french": "Sélectionnez comment vous souhaitez continuer",
+      "german": "Wählen Sie aus, wie Sie fortfahren möchten",
+      "japanese": "続行する方法を選択してください",
+      "korean": "계속할 방법을 선택하십시오.",
+      "mandarin": "选择您想继续的方式",
+      "portuguese": "Selecione como você gostaria de continuar",
+      "spanish": "Seleccione cómo le gustaría continuar"
+    },
+    "popup-terms": {
+      "dutch": "Gebruiksvoorwaarden",
+      "english": "Terms of use",
+      "french": "Conditions d'utilisation",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "使用条款",
+      "portuguese": "Termos de uso",
+      "spanish": "Condiciones de uso"
+    },
+    "popup-title": {
+      "dutch": "Welkom aan boord",
+      "english": "Welcome onboard",
+      "french": "Bienvenue à bord",
+      "german": "Willkommen an Bord",
+      "japanese": "ご乗車（搭乗）ありがとうございます",
+      "korean": "보드에 오신 것을 환영합니다",
+      "mandarin": "欢迎登机",
+      "portuguese": "Bem-vindo a bordo",
+      "spanish": "La bienvenida a bordo"
+    },
+    "tooltip-phone-details": {
+      "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u de juiste landcode handmatig invoeren.",
+      "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
+      "french": "Votre code de pays sera détecté automatiquement, mais si vous utilisez un numéro de téléphone d'un pays différent, vous devrez entrer manuellement le code de pays correct.",
+      "german": "Ihr Ländercode wird automatisch erkannt. Wenn Sie jedoch eine Telefonnummer aus einem anderen Land verwenden, müssen Sie den richtigen Ländercode manuell eingeben.",
+      "japanese": "カントリーコードは自動的に検出されますが、別の国の電話番号を使用している場合は、正しい国コードを手動で入力する必要があります。",
+      "korean": "국가 코드는 자동으로 감지되지만 다른 국가의 전화 번호를 사용하는 경우 수동으로 올바른 국가 코드를 입력해야합니다.",
+      "mandarin": "您的国家代码将自动检测到，但是如果您使用来自其他国家 /地区的电话号码，则需要手动输入正确的国家代码。",
+      "portuguese": "O código do seu país será detectado automaticamente, mas se você estiver usando um número de telefone de um país diferente, precisará inserir o código correto do país manualmente.",
+      "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente."
+    },
+    "tooltip-phone-header": {
+      "dutch": "Telefoonnummer en landcode",
+      "english": "Phone number and country code",
+      "french": "Numéro de téléphone et code de pays",
+      "german": "Telefonnummer und Ländercode",
+      "japanese": "電話番号と国コード",
+      "korean": "전화 번호 및 국가 코드",
+      "mandarin": "电话号码和国家代码",
+      "portuguese": "Número de telefone e código de país",
+      "spanish": "Número de teléfono y código de país"
+    },
+    "login-page-desc": {
+      "dutch": "Beheer de toegangs- en beveiligingsinstellingen voor alle door Web3Auth ondersteunde toepassingen.",
+      "english": "Manage the access and security settings across all applications supported by Web3Auth.",
+      "french": "Gérez les paramètres d'accès et de sécurité sur toutes les applications prises en charge par Web3Auth.",
+      "german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
+      "japanese": "Web3Auth でサポートされているすべてのアプリケーションのアクセスとセキュリティ設定を管理します。",
+      "korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
+      "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
+      "portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth.",
+      "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth."
+    },
+    "login-page-title": {
+      "dutch": "Twee-factor portemonnee accountbeheer",
+      "english": "Two Factor Wallet Account Management",
+      "french": "Gestion du compte de portefeuille à deux facteurs",
+      "german": "Zwei-Faktor-Wallet-Kontoverwaltung",
+      "japanese": "2 要素ウォレット アカウント管理",
+      "korean": "이중 지갑 계정 관리",
+      "mandarin": "两因素钱包账户管理",
+      "portuguese": "Gerenciamento de conta de carteira de dois fatores",
+      "spanish": "Gestión de cuenta de billetera de dos factores"
+    }
+  }
+}
