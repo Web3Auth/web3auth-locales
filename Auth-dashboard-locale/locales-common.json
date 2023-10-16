@@ -405,6 +405,204 @@
       "mandarin": "最后访问时间：",
       "portuguese": "Último acesso em:",
       "spanish": "Último acceso el:"
+    },
+    "learn-more": {
+      "dutch": "Meer informatie",
+      "english": "Learn more",
+      "french": "En savoir plus",
+      "german": "Mehr erfahren",
+      "japanese": "もっと詳しく知る",
+      "korean": "더 알아보기",
+      "mandarin": "更多详情",
+      "portuguese": "Saber mais",
+      "spanish": "Aprende más"
+    },
+    "toast-backup-phase-email-send-success": {
+      "dutch": "Back-upzin verzonden naar uw e-mail",
+      "english": "Backup Phrase sent to your email",
+      "french": "Phrase de sauvegarde envoyée à votre adresse e-mail",
+      "german": "Sicherungssatz an Ihre E-Mail gesendet",
+      "japanese": "メールに送信されたバックアップフレーズ",
+      "korean": "이메일로 전송 된 백업 문구",
+      "mandarin": "备用词组已发送到您的电子邮件",
+      "portuguese": "Frase de segurança enviada para o seu e-mail",
+      "spanish": "Frase de seguridad enviada a su correo electrónico"
+    },
+    "toast-backup-phase-email-send-timeout": {
+      "dutch": "Time-out bij het verzenden van de back-upzin naar uw e-mail. Download in plaats daarvan de back-upzin",
+      "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
+      "french": "Délai d'attente lors de l'envoi de la phrase de sauvegarde à votre e-mail. Veuillez télécharger la phrase de sauvegarde à la place",
+      "german": "Zeitüberschreitung beim Senden der Sicherungsphrase an Ihre E-Mail. Bitte laden Sie stattdessen die Sicherungsphrase herunter",
+      "japanese": "バックアップ フレーズをメールに送信する際のタイムアウト。 代わりにバックアップ フレーズをダウンロードしてください",
+      "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 대신 백업 문구를 다운로드하십시오",
+      "mandarin": "将备份短语发送到您的电子邮件时超时。 请改为下载备份短语",
+      "portuguese": "Tempo limite ao enviar a frase de backup para o seu e-mail. Em vez disso, baixe a frase de backup",
+      "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar"
+    },
+    "toast-backup-phase-send-fail": {
+      "dutch": "Kan back-upzin niet verzenden",
+      "english": "Unable to send Backup Phrase",
+      "french": "Impossible d'envoyer la phrase de sauvegarde",
+      "german": "Sicherungssatz kann nicht gesendet werden",
+      "japanese": "バックアップフレーズを送信できません",
+      "korean": "백업 문구를 보낼 수 없습니다.",
+      "mandarin": "无法发送备份短语",
+      "portuguese": "Não foi possível enviar a frase de backup",
+      "spanish": "No se pudo enviar la frase de respaldo"
+    },
+    "toast-backup-phase-send-success": {
+      "dutch": "Back-upzin succesvol verzonden",
+      "english": "Backup Phrase successfully sent",
+      "french": "Phrase de sauvegarde envoyée avec succès",
+      "german": "Sicherungssatz erfolgreich gesendet",
+      "japanese": "バックアップフレーズが正常に送信されました",
+      "korean": "백업 문구를 성공적으로 보냈습니다.",
+      "mandarin": "备份词组已成功发送",
+      "portuguese": "Frase de backup enviada com sucesso",
+      "spanish": "Frase de seguridad enviada con éxito"
+    },
+    "toast-backup-share-verification-fail": {
+      "dutch": "Verificatie van gedeelde back-up is mislukt",
+      "english": "Backup Share verification failed",
+      "french": "Échec de la vérification du partage de sauvegarde",
+      "german": "Überprüfung der Sicherungsfreigabe fehlgeschlagen",
+      "japanese": "バックアップ共有の検証に失敗しました",
+      "korean": "백업 공유 확인 실패",
+      "mandarin": "备份共享验证失败",
+      "portuguese": "Falha na verificação do compartilhamento de backup",
+      "spanish": "Error en la verificación del recurso compartido de copia de seguridad"
+    },
+    "toast-device-share-delete-fail": {
+      "dutch": "Verwijderen van gedeelde apparaat is mislukt",
+      "english": "Device share deletion unsuccessful",
+      "french": "Échec de la suppression du partage de l'appareil",
+      "german": "Löschen der Gerätefreigabe nicht erfolgreich",
+      "japanese": "デバイス共有の削除に失敗しました",
+      "korean": "기기 공유 삭제 실패",
+      "mandarin": "设备共享删除失败",
+      "portuguese": "Falha na exclusão do compartilhamento do dispositivo",
+      "spanish": "No se pudo eliminar el dispositivo compartido"
+    },
+    "toast-device-share-delete-success": {
+      "dutch": "Apparaat delen succesvol verwijderd",
+      "english": "Device share successfully deleted",
+      "french": "Partage de périphérique supprimé avec succès",
+      "german": "Gerätefreigabe erfolgreich gelöscht",
+      "japanese": "デバイス共有が正常に削除されました",
+      "korean": "장치 공유가 성공적으로 삭제되었습니다.",
+      "mandarin": "设备共享已成功删除",
+      "portuguese": "Compartilhamento de dispositivo excluído com sucesso",
+      "spanish": "Dispositivo compartido eliminado correctamente"
+    },
+    "toast-password-change-fail": {
+      "dutch": "Wachtwoordwijziging mislukt",
+      "english": "Password change unsuccessful",
+      "french": "Échec du changement de mot de passe",
+      "german": "Passwortänderung nicht erfolgreich",
+      "japanese": "パスワードの変更に失敗しました",
+      "korean": "비밀번호 변경 실패",
+      "mandarin": "密码更改失败",
+      "portuguese": "Falha na alteração da senha",
+      "spanish": "Cambio de contraseña fallido"
+    },
+    "toast-password-change-success": {
+      "dutch": "Wachtwoord succesvol gewijzigd",
+      "english": "Password successfully changed",
+      "french": "Mot de passe modifié avec succès",
+      "german": "Passwort erfolgreich geändert",
+      "japanese": "パスワードが正常に変更されました",
+      "korean": "비밀번호가 성공적으로 변경되었습니다.",
+      "mandarin": "密码修改成功",
+      "portuguese": "Senha alterada com sucesso",
+      "spanish": "Contraseña cambiada correctamente"
+    },
+    "toast-password-verification-fail": {
+      "dutch": "Wachtwoordverificatie mislukt",
+      "english": "Password verification failed",
+      "french": "Échec de la vérification du mot de passe",
+      "german": "Passwortüberprüfung fehlgeschlagen",
+      "japanese": "パスワードの確認に失敗しました",
+      "korean": "비밀번호 확인 실패",
+      "mandarin": "密码验证失败",
+      "portuguese": "A verificação da senha falhou",
+      "spanish": "Falló la verificación de la contraseña"
+    },
+    "toast-recovery-share-delete-fail": {
+      "dutch": "Het verwijderen van de herstelshare is mislukt",
+      "english": "Recovery share deletion failed",
+      "french": "Échec de la suppression du partage de récupération",
+      "german": "Das Löschen der Wiederherstellungsfreigabe ist fehlgeschlagen",
+      "japanese": "リカバリ共有の削除に失敗しました",
+      "korean": "복구 공유 삭제 실패",
+      "mandarin": "恢复共享删除失败",
+      "portuguese": "A exclusão do compartilhamento de recuperação falhou",
+      "spanish": "Error al eliminar el recurso compartido de recuperación"
+    },
+    "toast-recovery-share-delete-success": {
+      "dutch": "Herstelshare succesvol verwijderd",
+      "english": "Recovery share deleted successfully",
+      "french": "Partage de récupération supprimé avec succès",
+      "german": "Wiederherstellungsfreigabe erfolgreich gelöscht",
+      "japanese": "リカバリ共有が正常に削除されました",
+      "korean": "복구 공유가 성공적으로 삭제되었습니다.",
+      "mandarin": "恢复共享已成功删除",
+      "portuguese": "Compartilhamento de recuperação excluído com sucesso",
+      "spanish": "El recurso compartido de recuperación se eliminó correctamente"
+    },
+    "toast-registration-failed": {
+      "dutch": "Registratie mislukt",
+      "english": "Registration failed",
+      "french": "L'enregistrement a échoué",
+      "german": "Registrierung fehlgeschlagen",
+      "japanese": "登録に失敗しました",
+      "korean": "등록 실패",
+      "mandarin": "注册失败",
+      "portuguese": "Registro falhou",
+      "spanish": "Registro fallido"
+    },
+    "toast-require-verification": {
+      "dutch": "Vereis een andere verificatie-invoer",
+      "english": "Require another verification input",
+      "french": "Exiger une autre entrée de vérification",
+      "german": "Benötigen Sie eine weitere Überprüfungseingabe",
+      "japanese": "別の検証入力が必要",
+      "korean": "다른 확인 입력 필요",
+      "mandarin": "需要其他验证输入",
+      "portuguese": "Exigir outra entrada de verificação",
+      "spanish": "Requerir otra entrada de verificación"
+    },
+    "toast-share-transfer-fail": {
+      "dutch": "Delen mislukt",
+      "english": "Share transfer failed",
+      "french": "Échec du transfert de partage",
+      "german": "Freigabeübertragung fehlgeschlagen",
+      "japanese": "共有の転送に失敗しました",
+      "korean": "공유 전송 실패",
+      "mandarin": "股份转让失败",
+      "portuguese": "Falha na transferência de compartilhamento",
+      "spanish": "Error al transferir el recurso compartido"
+    },
+    "toast-something-went-wrong": {
+      "dutch": "Er is iets misgegaan",
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal"
+    },
+    "webAuthentication": {
+      "dutch": "Webauthenticatie",
+      "english": "Web Authentication",
+      "french": "Authentification Web",
+      "german": "Web-Authentifizierung",
+      "japanese": "ウェブ認証",
+      "korean": "웹 인증",
+      "mandarin": "网络认证",
+      "portuguese": "Autenticação Web",
+      "spanish": "Autenticación web"
     }
   }
 }
