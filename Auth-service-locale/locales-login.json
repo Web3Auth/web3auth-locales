@@ -791,6 +791,116 @@
       "portuguese": "Verifique com um dos seguintes para continuar",
       "dutch": "Controleer met een van de volgende om door te gaan",
       "french": "Vérifiez avec l'un des éléments suivants pour continuer"
+    },
+    "mpc-2fa-setup-step3-sub1": {
+      "dutch": "Geef een e-mailadres op om het herstelfactor te ontvangen",
+      "english": "Provide an email to receive recovery factor",
+      "french": "Fournir un e-mail pour recevoir le facteur de récupération",
+      "german": "Geben Sie eine E-Mail an, um die Wiederherstellungsphrase zu erhalten",
+      "japanese": "回復フレーズを受け取るための電子メールを提供する",
+      "korean": "복구 문구를 받을 이메일 제공",
+      "mandarin": "提供电子邮件以接收恢复短语",
+      "portuguese": "Forneça um e-mail para receber o fator de recuperação",
+      "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación"
+    },
+    "mpc-2fa-setup-step3-sub2": {
+      "dutch": "Als u geen toegang meer heeft tot uw opgeslagen browser, kunt u zich authenticeren met uw herstelfactor.",
+      "english": "In case you lose access to your saved browser, you can authenticate with your recovery factor.",
+      "french": "Si vous perdez l'accès à votre navigateur enregistré, vous pouvez vous authentifier avec votre facteur de récupération.",
+      "german": "Falls Sie den Zugriff auf Ihren gespeicherten Browser verlieren, können Sie sich mit Ihrer Wiederherstellungsphrase authentifizieren.",
+      "japanese": "保存したブラウザにアクセスできなくなった場合は、リカバリフレーズで認証できます。",
+      "korean": "저장된 브라우저에 액세스할 수 없는 경우 복구 문구로 인증할 수 있습니다.",
+      "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
+      "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com seu fator de recuperação.",
+      "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación."
+    },
+    "mpc-2fa-setup-step4-recovery": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "복구 설정",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+    "mpc-2fa-setup-step4-sub1": {
+      "dutch": "Verifieer uw herstelfactor",
+      "english": "Verify your recovery factor",
+      "french": "Vérifiez votre facteur de récupération",
+      "german": "Überprüfen Sie Ihren Erholungsfaktor",
+      "japanese": "回復率を確認する",
+      "korean": "확인 복구 설정",
+      "mandarin": "验证您的恢复系数",
+      "portuguese": "Verifique seu fator de recuperação",
+      "spanish": "Verifique su factor de recuperación"
+    },
+    "mpc-2fa-setup-step4-sub21": {
+      "dutch": "Plak het herstelfactor",
+      "english": "Paste the recovery factor",
+      "french": "Collez le facteur de récupération",
+      "german": "Fügen Sie den Wiederherstellungsfaktor ein",
+      "japanese": "回復係数を貼り付けます",
+      "korean": "회복 인자 붙여넣기",
+      "mandarin": "粘贴恢复因子",
+      "portuguese": "Cole o fator de recuperação",
+      "spanish": "Pegar el factor de recuperación"
+    },
+    "mpc-2fa-setup-step4-sub22": {
+      "dutch": "Plak de herstelfactor die naar uw e-mail {0} is gestuurd",
+      "english": "Paste the recovery factor sent to your email {0}",
+      "french": "Collez le facteur de récupération envoyé à votre e-mail {0}",
+      "german": "Fügen Sie den an Ihre E-Mail gesendeten Wiederherstellungsfaktor ein {0}",
+      "japanese": "メール {0} に送信された回復係数を貼り付けます",
+      "korean": "이메일로 전송된 복구 요소를 붙여넣습니다. {0}",
+      "mandarin": "粘贴发送到您的电子邮件 {0} 的恢复因素",
+      "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}",
+      "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}"
+    },
+    "mpc-2fa-setup-title3": {
+      "dutch": "Herstelfactor opslaan",
+      "english": "Save recovery factor",
+      "french": "Enregistrer le facteur de récupération",
+      "german": "Wiederherstellungsphrase speichern",
+      "japanese": "回復フレーズを保存する",
+      "korean": "복구 문구 저장",
+      "mandarin": "保存恢复短语",
+      "portuguese": "Salvar fator de recuperação",
+      "spanish": "Guardar frase de recuperación"
+    },
+    "mpc-2fa-verify-step1-panel2": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "복구 설정",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+    "mpc-2fa-verify-step1-rec-label": {
+      "dutch": "Voer herstelfactor in",
+      "english": "Enter recovery factor",
+      "french": "Entrez le facteur de récupération",
+      "german": "Erholungsfaktor eingeben",
+      "japanese": "回復係数を入力してください",
+      "korean": "복구 설정 입력",
+      "mandarin": "输入恢复系数",
+      "portuguese": "Insira o fator de recuperação",
+      "spanish": "Ingrese el factor de recuperación"
+    },
+    "mpc-2fa-verify-step1-rec-placeholder": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "복구 설정",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
     }
   }
 }
