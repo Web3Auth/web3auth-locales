@@ -1130,6 +1130,17 @@
       "dutch": "Kopiëren",
       "french": "Copie"
     },
+    "copyAddress": {
+      "english": "Copy Address",
+      "german": "Kopieradresse",
+      "japanese": "アドレスをコピーします",
+      "korean": "주소를 복사하십시오",
+      "mandarin": "复制地址",
+      "spanish": "Dirección de copia",
+      "portuguese": "Endereço de cópia",
+      "dutch": "Kopieeradres",
+      "french": "Copier l'adresse"
+    },
     "copied": {
       "english": "Copied",
       "german": "Kopiert",
