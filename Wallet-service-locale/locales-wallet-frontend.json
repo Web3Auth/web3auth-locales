@@ -230,6 +230,61 @@
       "portuguese": "Página de lançamento para agora",
       "dutch": "Start pagina voor nu",
       "french": "Page de lancement pour l'instant"
+    },
+    "socialPolicy": {
+      "english": "We do not store any data related to your social logins.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "japanese": "ソーシャルログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales."
+    },
+    "socialViewLess": {
+      "english": "View less",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "spanish": "Ver menos",
+      "portuguese": "Ver menos",
+      "dutch": "Minder bekijken",
+      "french": "Voir moins"
+    },
+    "socialViewMore": {
+      "english": "View more",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "spanish": "Ver más",
+      "portuguese": "Veja mais",
+      "dutch": "Bekijk meer",
+      "french": "Voir plus"
+    },
+    "loginContinue": {
+      "english": "Continue with {0}",
+      "german": "Weiter mit {0}",
+      "japanese": "{0}に進む",
+      "korean": "{0}로 계속",
+      "mandarin": "继续{0}",
+      "spanish": "Continuar con {0}",
+      "portuguese": "Continuar com {0}",
+      "dutch": "Doorgaan met {0}",
+      "french": "Continuer avec {0}"
+    },
+    "email": {
+      "english": "Email",
+      "german": "Email",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "spanish": "Correo electrónico",
+      "portuguese": "E-mail",
+      "french": "Email",
+      "dutch": "E-mail"
     }
   }
 }
