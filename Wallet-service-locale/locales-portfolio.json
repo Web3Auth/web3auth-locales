@@ -999,15 +999,15 @@
       "french": "Compte"
     },
     "profile": {
-      "english": "Profile",
-      "german": "Profil",
-      "japanese": "プロフィール",
-      "korean": "프로필",
-      "mandarin": "轮廓",
-      "spanish": "Perfil",
-      "portuguese": "Perfil",
-      "dutch": "Profiel",
-      "french": "Profil"
+      "english": "Manage Wallets",
+      "german": "Brieftaschen verwalten",
+      "japanese": "ウォレットを管理します",
+      "korean": "지갑 관리",
+      "mandarin": "管理钱包",
+      "spanish": "Administrar billeteras",
+      "portuguese": "Gerenciar carteiras",
+      "dutch": "Beheer portefeuilles",
+      "french": "Gérer les portefeuilles"
     },
     "general": {
       "english": "General",
@@ -1536,6 +1536,17 @@
       "portuguese": "Download Soft Cópia (JSON)",
       "dutch": "Download Soft Copy (JSON)",
       "french": "Télécharger Soft Copy (JSON)"
+    },
+    "switchAccount": {
+      "english": "Switch Account",
+      "german": "Benutzer wechseln",
+      "japanese": "スイッチアカウント",
+      "korean": "스위치 계정",
+      "mandarin": "开关帐户",
+      "spanish": "Cambiar cuenta",
+      "portuguese": "Mudar de conta",
+      "dutch": "Verwissel van profiel",
+      "french": "Changer de compte"
     }
   },
   "widget": {
