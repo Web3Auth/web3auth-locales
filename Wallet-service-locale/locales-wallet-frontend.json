@@ -164,6 +164,127 @@
       "portuguese": "Assinar mensagem",
       "dutch": "Aanmeldbericht",
       "french": "Signer le message"
+    },
+    "signIn": {
+      "english": "Sign in",
+      "german": "anmelden",
+      "japanese": "サインイン",
+      "korean": "로그인",
+      "mandarin": "登入",
+      "spanish": "Iniciar sesión",
+      "portuguese": "Entrar",
+      "dutch": "Aanmelden",
+      "french": "Se connecter"
+    },
+    "signInDescription": {
+      "english": "Your blockchain wallet in one click",
+      "german": "Ihre Blockchain -Brieftasche in einem Klick",
+      "japanese": "ワンクリックでブロックチェーンウォレット",
+      "korean": "한 번의 클릭으로 블록 체인 지갑",
+      "mandarin": "您的区块链钱包一键",
+      "spanish": "Su billetera blockchain en un solo clic",
+      "portuguese": "Sua carteira blockchain em um clique",
+      "dutch": "Uw blockchain -portemonnee op één klik",
+      "french": "Votre portefeuille de blockchain en un seul clic"
+    },
+    "loginEmail": {
+      "english": "Login with Email",
+      "german": "Melden Sie sich mit E -Mail an",
+      "japanese": "電子メールでログインします",
+      "korean": "이메일로 로그인하십시오",
+      "mandarin": "使用电子邮件登录",
+      "spanish": "Iniciar sesión con el correo electrónico",
+      "portuguese": "Faça login com email",
+      "dutch": "Log in met e -mail",
+      "french": "Connectez-vous avec e-mail"
+    },
+    "popupBlock": {
+      "english": "Pop up blocked",
+      "german": "Pop-Up blockiert",
+      "japanese": "ポップアップブロックされています",
+      "korean": "팝업 차단",
+      "mandarin": "弹出被阻止",
+      "spanish": "Ventana emergente bloqueada",
+      "portuguese": "Pop-up bloqueado",
+      "dutch": "Pop-up geblokkeerd",
+      "french": "Pop-up bloqué"
+    },
+    "popupBlockDesc": {
+      "english": "The page may be unable to open due to a popup blocker. If you are using a popup blocker, please consider disabling it for this site in future to access the window.",
+      "german": "Die Seite kann aufgrund eines Popup -Blockers möglicherweise nicht öffnen. Wenn Sie einen Popup -Blocker verwenden, sollten Sie ihn in Zukunft für diese Website deaktivieren, um auf das Fenster zuzugreifen.",
+      "japanese": "ポップアップブロッカーのためにページが開くことができない場合があります。ポップアップブロッカーを使用している場合は、ウィンドウにアクセスするために、将来このサイトの無効化を検討してください。",
+      "korean": "팝업 차단기로 인해 페이지가 열리지 않을 수 있습니다. 팝업 차단기를 사용하는 경우 향후이 사이트에 대한 비활성화되어 창에 액세스 할 수 있습니다.",
+      "mandarin": "由于弹出阻滞剂，该页面可能无法打开。如果您使用的是弹出式阻滞剂，请考虑将来将其禁用此站点以访问窗口。",
+      "spanish": "La página puede no poder abrir debido a un bloqueador emergente. Si está utilizando un bloqueador emergente, considere deshabilitarlo para este sitio en el futuro para acceder a la ventana.",
+      "portuguese": "A página pode não conseguir abrir devido a um bloqueador pop -up. Se você estiver usando um bloqueador pop -up, considere desativá -lo para este site no futuro para acessar a janela.",
+      "dutch": "De pagina kan mogelijk niet openen vanwege een pop -up blocker. Als u een pop -up blocker gebruikt, overweeg dan om deze in de toekomst voor deze site uit te schakelen om toegang te krijgen tot het venster.",
+      "french": "La page peut être incapable d'ouvrir en raison d'un bloqueur contextuel. Si vous utilisez un bloqueur contextuel, veuillez envisager de le désactiver pour ce site à l'avenir pour accéder à la fenêtre."
+    },
+    "popupBlockConfirm": {
+      "english": "Launch page for now",
+      "german": "Starten Sie vorerst die Seite",
+      "japanese": "今のところページを起動します",
+      "korean": "지금은 시작 페이지입니다",
+      "mandarin": "现在启动页面",
+      "spanish": "Página de lanzamiento por ahora",
+      "portuguese": "Página de lançamento para agora",
+      "dutch": "Start pagina voor nu",
+      "french": "Page de lancement pour l'instant"
+    },
+    "socialPolicy": {
+      "english": "We do not store any data related to your social logins.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "japanese": "ソーシャルログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales."
+    },
+    "socialViewLess": {
+      "english": "View less",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "spanish": "Ver menos",
+      "portuguese": "Ver menos",
+      "dutch": "Minder bekijken",
+      "french": "Voir moins"
+    },
+    "socialViewMore": {
+      "english": "View more",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "spanish": "Ver más",
+      "portuguese": "Veja mais",
+      "dutch": "Bekijk meer",
+      "french": "Voir plus"
+    },
+    "loginContinue": {
+      "english": "Continue with {0}",
+      "german": "Weiter mit {0}",
+      "japanese": "{0}に進む",
+      "korean": "{0}로 계속",
+      "mandarin": "继续{0}",
+      "spanish": "Continuar con {0}",
+      "portuguese": "Continuar com {0}",
+      "dutch": "Doorgaan met {0}",
+      "french": "Continuer avec {0}"
+    },
+    "email": {
+      "english": "Email",
+      "german": "Email",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "spanish": "Correo electrónico",
+      "portuguese": "E-mail",
+      "french": "Email",
+      "dutch": "E-mail"
     }
   }
 }
