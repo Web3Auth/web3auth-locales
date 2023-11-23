@@ -1560,15 +1560,15 @@
       "french": "Activez ceci pour obtenir toutes les notifications intégrées à l'application liées aux transactions dans votre portefeuille Torus."
     },
     "yourAcc": {
-      "english": "Your accounts",
-      "german": "Ihre Konten",
-      "japanese": "あなたのアカウント",
-      "korean": "귀하의 계정",
-      "mandarin": "您的帐户",
-      "spanish": "Tus cuentas",
-      "portuguese": "Suas contas",
-      "dutch": "Uw accounts",
-      "french": "Vos comptes"
+      "english": "Other accounts",
+      "german": "Andere Konten",
+      "japanese": "他のアカウント",
+      "korean": "다른 계정",
+      "mandarin": "其他帐户",
+      "spanish": "Otras cuentas",
+      "portuguese": "Outras contas",
+      "dutch": "Andere accounts",
+      "french": "Autres comptes"
     },
     "downloadSoftCopy": {
       "english": "Download Soft copy (JSON)",
