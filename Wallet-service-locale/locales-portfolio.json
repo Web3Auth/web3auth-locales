@@ -1449,6 +1449,50 @@
       "dutch": "Importeren",
       "french": "Importer"
     },
+    "importError": {
+      "english": "Something went wrong, please check console logs",
+      "german": "Etwas lief schief, bitte überprüfen Sie Konsolenprotokolle",
+      "japanese": "何か問題が発生しました。コンソールログを確認してください",
+      "korean": "뭔가 잘못되었고, 콘솔 로그를 확인하십시오",
+      "mandarin": "出了问题，请检查控制台日志",
+      "spanish": "Algo salió mal, por favor revise los registros de la consola",
+      "portuguese": "Algo deu errado, verifique os logs do console",
+      "dutch": "Er is iets misgegaan, controleer de consologogels",
+      "french": "Quelque chose s'est mal passé, veuillez vérifier les journaux de la console"
+    },
+    "privateKey": {
+      "english": "Private Key",
+      "german": "Privat Schlüssel",
+      "japanese": "秘密鍵",
+      "korean": "개인 키",
+      "mandarin": "私钥",
+      "spanish": "Llave privada",
+      "portuguese": "Chave privada",
+      "dutch": "Privésleutel",
+      "french": "Clé privée"
+    },
+    "showPrivateKey": {
+      "english": "Show Private Key",
+      "german": "Private Schlüssel zeigen",
+      "japanese": "秘密鍵を表示します",
+      "korean": "개인 키 표시",
+      "mandarin": "显示私钥",
+      "spanish": "Mostrar llave privada",
+      "portuguese": "Mostre chave privada",
+      "dutch": "Toon privésleutel",
+      "french": "Afficher la clé privée"
+    },
+    "recoveryKit": {
+      "english": "Recovery Kit",
+      "german": "Wiederherstellungskit",
+      "japanese": "回復キット",
+      "korean": "복구 키트",
+      "mandarin": "恢复套件",
+      "spanish": "Kit de recuperación",
+      "portuguese": "Kit de recuperação",
+      "dutch": "Herstelkit",
+      "french": "Kit de récupération"
+    },
     "browserNotification": {
       "english": "Browser notifications",
       "german": "Browser -Benachrichtigungen",
