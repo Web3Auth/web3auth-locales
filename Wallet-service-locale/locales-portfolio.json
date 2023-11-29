@@ -736,6 +736,17 @@
       "portuguese": "Selecione um ativo",
       "dutch": "Selecteer een actief",
       "french": "Sélectionnez un actif"
+    },
+    "buyDisableTestnet": {
+      "english": "Feature unavailable on testnet",
+      "german": "Feature bei TestNet nicht verfügbar",
+      "japanese": "テストネットでは利用できません",
+      "korean": "TestNet에서는 사용할 수 없습니다",
+      "mandarin": "TestNet上无法使用的功能",
+      "spanish": "Característica no disponible en TestNet",
+      "portuguese": "Recurso indisponível no TestNet",
+      "dutch": "Feature niet beschikbaar op testnet",
+      "french": "Fonctionnalité indisponible sur testnet"
     }
   },
   "activity": {
