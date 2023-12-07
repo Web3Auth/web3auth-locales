@@ -208,6 +208,83 @@
       "portuguese": "© 2022 Web3auth. Todos os direitos reservados.",
       "dutch": "© 2022 Web3Auth. Alle rechten voorbehouden.",
       "french": "© 2022 Web3Auth. Tous les droits sont réservés."
+    },
+    "codeSubHeading1": {
+      "english": "Please enter the 6-digit verification code",
+      "german": "Bitte geben Sie den 6-stelligen Überprüfungscode ein",
+      "japanese": "6桁の検証コードを入力してください",
+      "korean": "6 자리 확인 코드를 입력하십시오",
+      "mandarin": "请输入6位验证代码",
+      "spanish": "Ingrese el código de verificación de 6 dígitos",
+      "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
+      "dutch": "Voer de 6-cijferige verificatiecode in",
+      "french": "Veuillez saisir le code de vérification à 6 chiffres"
+    },
+    "codeSubHeading2": {
+      "english": "that was sent to your email",
+      "german": "Das wurde an Ihre E -Mail gesendet",
+      "japanese": "それはあなたのメールに送信されました",
+      "korean": "그것은 당신의 이메일로 전송되었습니다",
+      "mandarin": "那是发送到您的电子邮件的",
+      "spanish": "que fue enviado a su correo electrónico",
+      "portuguese": "que foi enviado para o seu e -mail",
+      "dutch": "Dat is naar uw e -mail gestuurd",
+      "french": "qui a été envoyé à votre e-mail"
+    },
+    "2fa-setup-title1": {
+      "dutch": "Beveilig uw account",
+      "english": "Secure your account",
+      "french": "Sécurisez votre compte",
+      "german": "Sichern Sie Ihr Konto",
+      "japanese": "アカウントを保護する",
+      "korean": "계정 보안",
+      "mandarin": "保护您的帐户",
+      "portuguese": "Proteja sua conta",
+      "spanish": "Asegure su cuenta"
+    },
+    "2fa-setup-step1-sub1": {
+      "dutch": "Activeer 2-factor authenticatie (2FA)",
+      "english": "Enable 2 Factor Authentication (2FA)",
+      "french": "Activer l'authentification à 2 facteurs (2FA)",
+      "german": "2-Faktor-Authentifizierung (2FA) aktivieren",
+      "japanese": "2要素認証（2FA）を有効にする",
+      "korean": "2단계 인증(2FA) 활성화",
+      "mandarin": "启用 2 因素身份验证 (2FA)",
+      "portuguese": "Ativar autenticação de 2 fatores (2FA)",
+      "spanish": "Habilitar la autenticación de 2 factores (2FA)"
+    },
+    "2fa-setup-step1-sub1-desc": {
+      "dutch": "Voeg een extra beveiligingslaag toe aan uw account. Elke login vereist 2 factoren voor authenticatie",
+      "english": "Add an extra layer of security to your account, Each login requires 2 factors for authentication",
+      "french": "Ajoutez une couche de sécurité supplémentaire à votre compte, chaque connexion nécessite 2 facteurs pour l'authentification",
+      "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu. Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
+      "japanese": "アカウントにセキュリティのレイヤーを追加します。ログインごとに認証に 2 つの要素が必要です",
+      "korean": "계정에 추가 보안 설정을 하세요. 로그인할 때마다 2단계의 인증을 요구하게 됩니다.",
+      "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
+      "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação",
+      "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación"
+    },
+    "setup2fa": {
+      "english": "Setup 2FA",
+      "german": "Setup 2FA",
+      "japanese": "セットアップ2FA",
+      "korean": "설정 2FA",
+      "mandarin": "设置2FA",
+      "spanish": "Configuración 2FA",
+      "portuguese": "Configuração 2fa",
+      "dutch": "Setup 2fa",
+      "french": "Configuration 2fa"
+    },
+    "register-skip": {
+      "dutch": "Nu overslaan",
+      "english": "Skip for Now",
+      "french": "Passer pour le moment",
+      "german": "Für jetzt überspringen",
+      "japanese": "今はスキップ",
+      "korean": "건너뛰기",
+      "mandarin": "立即跳过",
+      "portuguese": "Pular por agora",
+      "spanish": "Saltar por ahora"
     }
   }
 }
