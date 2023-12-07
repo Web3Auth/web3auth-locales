@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "close-btn": {
+      "dutch": "sluiten",
+      "english": "close",
+      "french": "fermer",
+      "german": "schließen",
+      "japanese": "近い",
+      "korean": "닫다",
+      "mandarin": "关闭",
+      "portuguese": "fechar",
+      "spanish": "cerca"
+    },
+    "drawer": {
+      "dutch": "Hoofdnavigatie",
+      "english": "Main Navigation",
+      "french": "Navigation principale",
+      "german": "Hauptnavigation",
+      "japanese": "メインナビゲーション",
+      "korean": "메인 탐색",
+      "mandarin": "主要导航",
+      "portuguese": "Navegação Principal",
+      "spanish": "Navegación Principal"
+    },
+    "lang-select": {
+      "dutch": "Taalkeuze",
+      "english": "language selector",
+      "french": "sélecteur de langue",
+      "german": "Sprachauswahl",
+      "japanese": "言語セレクター",
+      "korean": "언어 선택기",
+      "mandarin": "语言选择器",
+      "portuguese": "Seletor de idiomas",
+      "spanish": "selector de idiomas"
+    },
+    "link-account": {
+      "dutch": "Account",
+      "english": "Account",
+      "french": "Compte",
+      "german": "Konto",
+      "japanese": "アカウント",
+      "korean": "계정",
+      "mandarin": "帐户",
+      "portuguese": "Conta",
+      "spanish": "Cuenta"
+    },
+    "link-apps": {
+      "dutch": "Geautoriseerde apps",
+      "english": "Authorized Apps",
+      "french": "Applications autorisées",
+      "german": "Autorisierte Apps",
+      "japanese": "認定アプリ",
+      "korean": "승인 된 앱",
+      "mandarin": "授权应用",
+      "portuguese": "Aplicativos autorizados",
+      "spanish": "Aplicaciones autorizadas"
+    },
+    "link-home": {
+      "dutch": "Startpagina",
+      "english": "Home",
+      "french": "Accueil",
+      "german": "Startseite",
+      "japanese": "ホームページ",
+      "korean": "홈페이지",
+      "mandarin": "主页",
+      "portuguese": "Início",
+      "spanish": "página principal"
+    },
+    "link-logout": {
+      "dutch": "Uitloggen",
+      "english": "Logout",
+      "french": "Se déconnecter",
+      "german": "Ausloggen",
+      "japanese": "ログアウト",
+      "korean": "로그 아웃",
+      "mandarin": "登出",
+      "portuguese": "Sair",
+      "spanish": "Cerrar sesión"
+    },
+    "link-support": {
+      "dutch": "Ondersteuning",
+      "english": "Support",
+      "french": "Soutien",
+      "german": "Unterstützung",
+      "japanese": "サポート",
+      "korean": "지원하다",
+      "mandarin": "支持",
+      "portuguese": "Suporte",
+      "spanish": "Apoyo"
+    },
+    "list-bottom": {
+      "dutch": "Hoofdnavigatie onderaan",
+      "english": "Main Navigation bottom",
+      "french": "Navigation principale en bas",
+      "german": "Hauptnavigation unten",
+      "japanese": "メインナビゲーションボトム",
+      "korean": "메인 탐색 바닥",
+      "mandarin": "主导航底部",
+      "portuguese": "Principal de navegação principal",
+      "spanish": "Parte de la navegación principal"
+    },
+    "logo": {
+      "dutch": "Logo",
+      "english": "logo",
+      "french": "logo",
+      "german": "Logo",
+      "japanese": "ロゴ",
+      "korean": "심벌 마크",
+      "mandarin": "标识",
+      "portuguese": "logotipo",
+      "spanish": "logo"
+    },
+    "toggle-btn": {
+      "dutch": "Navigatiebalk schakelen",
+      "english": "Navigation Bar toggle",
+      "french": "Barre de navigation basculante",
+      "german": "Navigationsstabschaltung",
+      "japanese": "ナビゲーションバーの切り替え",
+      "korean": "내비게이션 바 전환",
+      "mandarin": "导航栏切换",
+      "portuguese": "Navigação Bargle de barra",
+      "spanish": "Barra de navegación"
+    },
+    "user-info": {
+      "dutch": "Gebruikersinformatie",
+      "english": "User information",
+      "french": "Informations sur l'utilisateur",
+      "german": "Nutzerinformation",
+      "japanese": "ユーザー情報",
+      "korean": "사용자 정보",
+      "mandarin": "用户信息",
+      "portuguese": "Informação do usuário",
+      "spanish": "Informacion del usuario"
+    }
+  }
+}

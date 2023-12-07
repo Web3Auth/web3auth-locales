@@ -1,0 +1,537 @@
+{
+  "common": {
+    "advanced-options": {
+      "dutch": "Geavanceerde opties",
+      "english": "Advanced Options",
+      "french": "Options avancées",
+      "german": "Erweiterte Optionen",
+      "japanese": "高度なオプション",
+      "korean": "고급 옵션",
+      "mandarin": "高级选项",
+      "portuguese": "Opções avançadas",
+      "spanish": "Opciones avanzadas"
+    },
+    "back-to-download": {
+      "dutch": "Terug naar download herstel Factor",
+      "english": "Back to download Recovery Factor",
+      "french": "Retour au facteur de récupération de téléchargement",
+      "german": "E-Mail bearbeiten",
+      "japanese": "メールを編集",
+      "korean": "이메일 수정",
+      "mandarin": "编辑电子邮件",
+      "portuguese": "Editar e-mail",
+      "spanish": "Editar correo electrónico"
+    },
+    "confirm": {
+      "dutch": "Bevestigen",
+      "english": "Confirm",
+      "french": "Confirmer",
+      "german": "Bestätigen",
+      "japanese": "確認",
+      "korean": "확인",
+      "mandarin": "确认",
+      "portuguese": "Confirmar",
+      "spanish": "Confirmar"
+    },
+    "copier-copied": {
+      "dutch": "Gekopieerd!",
+      "english": "Copied!",
+      "french": "Copié!",
+      "german": "Kopiert!",
+      "japanese": "コピーしました！",
+      "korean": "복사되었습니다!",
+      "mandarin": "复制！",
+      "portuguese": "Copiado!",
+      "spanish": "Copiado!"
+    },
+    "copier-copy": {
+      "dutch": "Kopiëren naar klembord",
+      "english": "Copy to clipboard",
+      "french": "Copier dans le presse-papiers",
+      "german": "In die Zwischenablage kopieren",
+      "japanese": "クリップボードにコピー",
+      "korean": "클립 보드에 복사",
+      "mandarin": "复制到剪贴板",
+      "portuguese": "Copiar para área de transferência",
+      "spanish": "Copiar al portapapeles"
+    },
+    "copier-privacy-policy": {
+      "dutch": "Privacybeleid",
+      "english": "Privacy policy",
+      "french": "Politique de confidentialité",
+      "german": "Datenschutz-Bestimmungen",
+      "japanese": "個人情報保護方針",
+      "korean": "개인 정보 정책",
+      "mandarin": "隐私政策",
+      "portuguese": "Política de privacidade",
+      "spanish": "Política de privacidad"
+    },
+    "copier-terms-of-use": {
+      "dutch": "Gebruiksvoorwaarden",
+      "english": "Terms of use",
+      "french": "Conditions d'utilisation,",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "使用条款",
+      "portuguese": "Termos de uso",
+      "spanish": "Condiciones de uso"
+    },
+    "copy-paste": {
+      "dutch": "Kopiëren en plakken",
+      "english": "Copy and Paste",
+      "french": "Copier coller",
+      "german": "Kopieren und Einfügen",
+      "japanese": "コピーアンドペースト",
+      "korean": "복사 및 붙여넣기",
+      "mandarin": "复制和粘贴",
+      "portuguese": "Copiar e colar",
+      "spanish": "Copiar y pegar"
+    },
+    "device": {
+      "dutch": "Apparaat",
+      "english": "Device",
+      "french": "Dispositif",
+      "german": "Gerät",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo",
+      "spanish": "Dispositivo"
+    },
+    "devices": {
+      "dutch": "Apparaten",
+      "english": "Device (s)",
+      "french": "Dispositif (s)",
+      "german": "Geräte",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo (s)",
+      "spanish": "Dispositivo (s)"
+    },
+    "edit-email": {
+      "dutch": "Wijzig email",
+      "english": "Edit email",
+      "french": "Modifier l'e-mail",
+      "german": "E-Mail bearbeiten",
+      "japanese": "メールを編集",
+      "korean": "이메일 수정",
+      "mandarin": "编辑电子邮件",
+      "portuguese": "Editar e-mail",
+      "spanish": "Editar correo electrónico"
+    },
+    "errors-incorrect-password": {
+      "dutch": "Onjuist wachtwoord",
+      "english": "Incorrect password",
+      "french": "Mot de passe incorrect",
+      "german": "Falsches Passwort",
+      "japanese": "パスワードが正しくありません",
+      "korean": "잘못된 비밀번호",
+      "mandarin": "密码错误",
+      "portuguese": "Senha incorreta",
+      "spanish": "Contraseña incorrecta"
+    },
+    "errors-invalid-email": {
+      "dutch": "Ongeldig e-mailadres",
+      "english": "Invalid email",
+      "french": "Email invalide",
+      "german": "Ungültige E-Mail",
+      "japanese": "無効なメール",
+      "korean": "잘못된 이메일",
+      "mandarin": "不合规电邮",
+      "portuguese": "E-mail inválido",
+      "spanish": "Email inválido"
+    },
+    "errors-mismatch-password": {
+      "dutch": "Wachtwoord moet overeenkomen",
+      "english": "Password must match",
+      "french": "Le mot de passe doit correspondre",
+      "german": "Passwort muss übereinstimmen",
+      "japanese": "パスワードが一致している必要があります",
+      "korean": "암호가 일치해야합니다",
+      "mandarin": "密码必须匹配",
+      "portuguese": "A senha deve ser igual",
+      "spanish": "Contraseña debe coincidir con"
+    },
+    "errors-same-email-verifier": {
+      "dutch": "E-mail kan niet hetzelfde zijn als de sociale login-ID",
+      "english": "Email cannot be the same as the social login id",
+      "french": "L'e-mail ne peut pas être identique à l'ID de connexion sociale",
+      "german": "E -Mail kann nicht mit der sozialen Anmelde -ID übereinstimmen",
+      "japanese": "電子メールはソーシャルログインIDと同じではありません",
+      "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
+      "mandarin": "电子邮件不能与社交登录ID相同",
+      "portuguese": "O email não pode ser o mesmo que o ID de login social",
+      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
+    },
+    "error-something-wrong-error": {
+      "dutch": "Er is iets misgegaan",
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다.",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal"
+    },
+    "hide-options": {
+      "dutch": "Opties verbergen",
+      "english": "Hide Options",
+      "french": "Masquer les options",
+      "german": "Optionen ausblenden",
+      "japanese": "オプションを隠す",
+      "korean": "숨기기 옵션",
+      "mandarin": "隐藏选项",
+      "portuguese": "Ocultar opções",
+      "spanish": "Ocultar opciones"
+    },
+    "learn-more": {
+      "dutch": "Meer informatie",
+      "english": "Learn more",
+      "french": "En savoir plus",
+      "german": "Mehr erfahren",
+      "japanese": "もっと詳しく知る",
+      "korean": "더 알아보기",
+      "mandarin": "更多详情",
+      "portuguese": "Saber mais",
+      "spanish": "Aprende más"
+    },
+    "loader-not-done-note": {
+      "dutch": "We zijn er over een paar seconden",
+      "english": "We will be there in a few seconds",
+      "french": "Nous serons là dans quelques secondes",
+      "german": "Wir sind in wenigen Sekunden da",
+      "japanese": "数秒で到着します",
+      "korean": "로딩중입니다. 조금만 기다려주세요.",
+      "mandarin": "我们将在几秒钟内到达",
+      "portuguese": "Estaremos lá em alguns segundos",
+      "spanish": "Estaremos allí en unos segundos"
+    },
+    "new-device-detected": {
+      "dutch": "Nieuw apparaat gedetecteerd",
+      "english": "New device detected",
+      "french": "Nouveau périphérique détecté",
+      "german": "Neues Gerät erkannt",
+      "japanese": "新しいデバイスが検出されました",
+      "korean": "새 장치 감지됨",
+      "mandarin": "检测到新设备",
+      "portuguese": "Novo dispositivo detectado",
+      "spanish": "Nuevo dispositivo detectado"
+    },
+    "or": {
+      "dutch": "of",
+      "english": "or",
+      "french": "ou",
+      "german": "oder",
+      "japanese": "または",
+      "korean": "또는",
+      "mandarin": "或者",
+      "portuguese": "ou",
+      "spanish": "o"
+    },
+    "password": {
+      "dutch": "Wachtwoord",
+      "english": "Password",
+      "french": "Mot de passe",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "암호",
+      "mandarin": "密码",
+      "portuguese": "Senha",
+      "spanish": "Password"
+    },
+    "password-label": {
+      "dutch": "Voer wachtwoord in",
+      "english": "Enter password",
+      "french": "Entrez le mot de passe",
+      "german": "Passwort eingeben",
+      "japanese": "パスワードを入力する",
+      "korean": "암호를 입력",
+      "mandarin": "输入密码",
+      "portuguese": "Digite a senha",
+      "spanish": "Ingresa tu password"
+    },
+    "phone": {
+      "dutch": "Telefoon",
+      "english": "Phone",
+      "french": "Téléphone",
+      "german": "Telefon",
+      "japanese": "電話",
+      "korean": "핸드폰",
+      "mandarin": "电话",
+      "portuguese": "Telefone",
+      "spanish": "Teléfono"
+    },
+    "referenceId": {
+      "dutch": "Referentie-ID:",
+      "english": "Reference ID:",
+      "french": "ID de référence:",
+      "german": "Referenz ID:",
+      "japanese": "参照ID：",
+      "korean": "참조 ID :",
+      "mandarin": "参考编号：",
+      "portuguese": "ID de referência:",
+      "spanish": "Identificación de referencia:"
+    },
+    "resend-recovery": {
+      "dutch": "Herstelfactor opnieuw verzenden",
+      "english": "Resend Recovery Factor",
+      "french": "Renvoyer le facteur de récupération",
+      "german": "Wiederherstellungsfaktor erneut senden",
+      "japanese": "回復係数の再送",
+      "korean": "복구 팩터 재전송",
+      "mandarin": "重新发送恢复因子",
+      "portuguese": "Reenviar Fator de Recuperação",
+      "spanish": "Factor de recuperación de reenvío"
+    },
+    "selfCustodial": {
+      "dutch": "Zelfbewarend inloggen door",
+      "english": "Self-custodial login by",
+      "french": "Connexion en libre-service par",
+      "german": "Selbstverwahrungs-Login durch",
+      "japanese": "自己管理ログイン by",
+      "korean": "자가 관리 로그인",
+      "mandarin": "自托管登录由",
+      "portuguese": "Login autocustodial por",
+      "spanish": "Inicio de sesión con autocustodia por"
+    },
+    "social": {
+      "dutch": "Sociaal",
+      "english": "Social",
+      "french": "Social",
+      "german": "Sozial",
+      "japanese": "社交",
+      "korean": "사회의",
+      "mandarin": "社会的",
+      "portuguese": "Social",
+      "spanish": "Social"
+    },
+    "socialFactor": {
+      "dutch": "Sociale factor",
+      "english": "Social Factor",
+      "french": "Facteur social",
+      "german": "Sozialer Faktor",
+      "japanese": "社会的要因",
+      "korean": "사회적 요인",
+      "mandarin": "社会因素",
+      "portuguese": "Fator Social",
+      "spanish": "Factor social"
+    },
+    "socialLogin": {
+      "dutch": "Sociale login",
+      "english": "Social login",
+      "french": "Connexion sociale",
+      "german": "Sozialer Login",
+      "japanese": "ソーシャルログイン",
+      "korean": "소셜 로그인",
+      "mandarin": "社交登录",
+      "portuguese": "Login social",
+      "spanish": "Inicio de sesión social"
+    },
+    "toast-backup-share-verification-fail": {
+      "dutch": "Verificatie van gedeelde back-up is mislukt",
+      "english": "Backup Share verification failed",
+      "french": "Échec de la vérification du partage de sauvegarde",
+      "german": "Überprüfung der Sicherungsfreigabe fehlgeschlagen",
+      "japanese": "バックアップ共有の検証に失敗しました",
+      "korean": "백업 공유 확인 실패",
+      "mandarin": "备份共享验证失败",
+      "portuguese": "Falha na verificação do compartilhamento de backup",
+      "spanish": "Error en la verificación del recurso compartido de copia de seguridad"
+    },
+    "toast-password-verification-fail": {
+      "dutch": "Wachtwoordverificatie mislukt",
+      "english": "Password verification failed",
+      "french": "Échec de la vérification du mot de passe",
+      "german": "Passwortüberprüfung fehlgeschlagen",
+      "japanese": "パスワードの確認に失敗しました",
+      "korean": "비밀번호 확인 실패",
+      "mandarin": "密码验证失败",
+      "portuguese": "A verificação da senha falhou",
+      "spanish": "Falló la verificación de la contraseña"
+    },
+    "toast-registration-failed": {
+      "dutch": "Registratie mislukt",
+      "english": "Registration failed",
+      "french": "L'enregistrement a échoué",
+      "german": "Registrierung fehlgeschlagen",
+      "japanese": "登録に失敗しました",
+      "korean": "등록 실패",
+      "mandarin": "注册失败",
+      "portuguese": "Registro falhou",
+      "spanish": "Registro fallido"
+    },
+    "toast-require-verification": {
+      "dutch": "Vereis een andere verificatie-invoer",
+      "english": "Require another verification input",
+      "french": "Exiger une autre entrée de vérification",
+      "german": "Benötigen Sie eine weitere Überprüfungseingabe",
+      "japanese": "別の検証入力が必要",
+      "korean": "다른 확인 입력 필요",
+      "mandarin": "需要其他验证输入",
+      "portuguese": "Exigir outra entrada de verificação",
+      "spanish": "Requerir otra entrada de verificación"
+    },
+    "toast-share-transfer-fail": {
+      "dutch": "Delen mislukt",
+      "english": "Share transfer failed",
+      "french": "Échec du transfert de partage",
+      "german": "Freigabeübertragung fehlgeschlagen",
+      "japanese": "共有の転送に失敗しました",
+      "korean": "공유 전송 실패",
+      "mandarin": "股份转让失败",
+      "portuguese": "Falha na transferência de compartilhamento",
+      "spanish": "Error al transferir el recurso compartido"
+    },
+    "upload-recovery-factor": {
+      "dutch": "Herstelfactor uploaden",
+      "english": "Upload Recovery Factor",
+      "french": "Télécharger le facteur de récupération",
+      "german": "Wiederherstellungsfaktor hochladen",
+      "japanese": "回復係数のアップロード",
+      "korean": "회복 인자 업로드",
+      "mandarin": "上传恢复因子",
+      "portuguese": "Carregar Fator de Recuperação",
+      "spanish": "Subir factor de recuperación"
+    },
+    "verify": {
+      "dutch": "Verifiëren",
+      "english": "Verify",
+      "french": "Vérifier",
+      "german": "Verifizieren",
+      "japanese": "確認",
+      "korean": "검증",
+      "mandarin": "核实",
+      "portuguese": "Verificar",
+      "spanish": "Verificar"
+    },
+    "verify-with-other-factors": {
+      "dutch": "Verifiëren met andere factoren",
+      "english": "Verify with other factors",
+      "french": "Vérifier avec d'autres facteurs",
+      "german": "Überprüfen Sie mit anderen Faktoren",
+      "japanese": "他の要因で検証する",
+      "korean": "다른 요인으로 확인",
+      "mandarin": "与其他因素验证",
+      "portuguese": "Verifique com outros fatores",
+      "spanish": "Verificar con otros factores"
+    }
+  },
+  "error-block": {
+    "required-fields-title": {
+      "dutch": "Een of meer van de volgende vereiste parameters ontbreekt of is ongeldig",
+      "english": "One or more of the following required parameters is missing/invalid",
+      "french": "Un ou plusieurs des paramètres obligatoires suivants sont manquants ou invalides",
+      "german": "Einer oder mehrere der folgenden erforderlichen Parameter fehlen / sind ungültig",
+      "japanese": "次の必須パラメーターの1つ以上が欠落/無効です",
+      "korean": "다음 필수 매개 변수 중 하나 이상이 누락되었거나 유효하지 않습니다.",
+      "mandarin": "以下一个或多个必需参数缺失/无效",
+      "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
+      "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos"
+    }
+  },
+  "account": {
+    "password-requirement": {
+      "dutch": "Wachtwoordvereisten:",
+      "english": "Password requirements:",
+      "french": "Exigences relatives au mot de passe :",
+      "german": "Passwortanforderungen:",
+      "japanese": "パスワード要件:",
+      "korean": "암호 요구 사항:",
+      "mandarin": "密码要求：",
+      "portuguese": "Requisitos de senha:",
+      "spanish": "Requisitos de la contraseña:"
+    },
+    "password-requirement-10-char": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
+      "english": "At least 10 characters (and up to 100 characters)",
+      "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
+      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
+      "japanese": "少なくとも 10 文字 (最大 100 文字)",
+      "korean": "최소 10 자 (최대 100 자)",
+      "mandarin": "至少 10 个字符（最多 100 个字符）",
+      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
+      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)"
+    },
+    "password-requirement-desc": {
+      "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
+      "english": "Ensure that these requirements are met:",
+      "french": "Assurez-vous que ces exigences sont respectées :",
+      "german": "Stellen Sie sicher, dass diese Anforderungen erfüllt sind:",
+      "japanese": "次の要件が満たされていることを確認します。",
+      "korean": "다음 요구 사항이 충족되는지 확인하십시오.",
+      "mandarin": "确保满足这些要求：",
+      "portuguese": "Certifique-se de que estes requisitos sejam atendidos:",
+      "spanish": "Asegúrese de que se cumplan estos requisitos:"
+    },
+    "password-requirement-lowercase": {
+      "dutch": "Minstens één kleine letter vereist",
+      "english": "At least one lowercase character",
+      "french": "Au moins un caractère en minuscule",
+      "german": "Mindestens ein Kleinbuchstabe",
+      "japanese": "少なくとも 1 つの小文字",
+      "korean": "하나 이상의 소문자",
+      "mandarin": "至少一个小写字符",
+      "portuguese": "Pelo menos um caractere minúsculo",
+      "spanish": "Al menos un carácter en minúscula"
+    },
+    "password-requirement-specialchar": {
+      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
+      "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
+      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
+      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
+      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
+      "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
+      "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
+      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
+      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}"
+    },
+    "password-requirement-upercase": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
+      "english": "At least one uppercase character",
+      "french": "Au moins un caractère en majuscule",
+      "german": "Mindestens ein Großbuchstabe",
+      "japanese": "少なくとも 1 つの大文字",
+      "korean": "하나 이상의 대문자",
+      "mandarin": "至少一个大写字符",
+      "portuguese": "Pelo menos um caractere maiúsculo",
+      "spanish": "Al menos un carácter en mayúscula"
+    },
+    "mpc-auth-factors-recovery-phrase": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "회복 계수",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación"
+    },
+
+    "auth-factors-password-confirm": {
+      "dutch": "Voer uw wachtwoord opnieuw in",
+      "english": "Re-enter your password",
+      "french": "Re-entrez votre mot de passe",
+      "german": "Wiederhole die Eingabe deines Passwortes",
+      "japanese": "パスワードを再入力してください",
+      "korean": "비밀번호 재 입력",
+      "mandarin": "重新输入密码",
+      "portuguese": "Redigite sua senha",
+      "spanish": "reingresa tu contraseña"
+    },
+    "auth-factors-password-set": {
+      "dutch": "Stel je wachtwoord in",
+      "english": "Set your password",
+      "french": "Définissez votre mot de passe",
+      "german": "Lege ein Passwort fest",
+      "japanese": "パスワードを作る",
+      "korean": "비밀번호를 설정하세요",
+      "mandarin": "设置你的密码",
+      "portuguese": "Coloque sua senha",
+      "spanish": "Establece tu contraseña"
+    }
+  }
+}

@@ -149,21 +149,21 @@
       "french": "Vérification du facteur de récupération",
       "german": "Überprüfung des Wiederherstellungsfaktors",
       "japanese": "回復因子の検証",
-      "korean": "회복인자 검증",
+      "korean": "지갑 복구 문구 검증",
       "mandarin": "采收率验证",
       "portuguese": "Verificação do Fator de Recuperação",
       "spanish": "Verificación del factor de recuperación"
     },
     "2fa-recovery-cpy-textArea": {
-      "dutch": "Plak uw herstelfactor",
-      "english": "Paste your Recovery Factor",
-      "french": "Collez votre facteur de récupération",
-      "german": "Fügen Sie Ihren Wiederherstellungsfaktor ein",
-      "japanese": "回復係数を貼り付けます",
-      "korean": "회복 인자 붙여넣기",
-      "mandarin": "粘贴你的恢复因子",
-      "portuguese": "Cole seu Fator de Recuperação",
-      "spanish": "Pega tu factor de recuperación"
+      "english": "Paste your recovery phrase",
+      "german": "Fügen Sie Ihren Wiederherstellungsausweg ein",
+      "japanese": "回復フレーズを貼り付けます",
+      "korean": "회복 문구를 붙여 넣으십시오",
+      "mandarin": "粘贴您的恢复短语",
+      "spanish": "Pega tu frase de recuperación",
+      "portuguese": "Cole sua frase de recuperação",
+      "dutch": "Plak uw herstelzin",
+      "french": "Collez votre phrase de récupération"
     },
     "2fa-recovery-downloaded-subDesc": {
       "dutch": "Upload de gedownloade herstelfactor",
@@ -182,7 +182,7 @@
       "french": "Entrez votre e-mail pour recevoir un facteur de récupération de portefeuille. Vous en avez besoin pour récupérer votre portefeuille.",
       "german": "Geben Sie Ihre E-Mail-Adresse ein, um einen Brieftaschen-Wiederherstellungsfaktor zu erhalten. Sie benötigen es, um Ihre Brieftasche wiederherzustellen.",
       "japanese": "電子メールを入力して、ウォレットの回復係数を受け取ります。ウォレットを復元するために必要です。",
-      "korean": "지갑 복구 팩터를 받으려면 이메일을 입력하세요. 지갑 복구에 필요합니다.",
+      "korean": "지갑 복구 문구를 받으려면 이메일을 입력하세요. 지갑 복구에 필요합니다.",
       "mandarin": "输入您的电子邮件以接收钱包恢复系数。你需要它来恢复你的钱包。",
       "portuguese": "Insira seu e-mail para receber um fator de recuperação da carteira. Você precisa dele para recuperar sua carteira.",
       "spanish": "Ingrese su correo electrónico para recibir un factor de recuperación de billetera. Lo necesitas para recuperar tu billetera."
@@ -193,7 +193,7 @@
       "french": "Envoyez-moi mon facteur de récupération",
       "german": "Senden Sie mir meinen Erholungsfaktor",
       "japanese": "私の回復係数を送ってください",
-      "korean": "내 회복 인자를 보내주세요",
+      "korean": "지갑 복구 문구를 보내주세요",
       "mandarin": "给我我的恢复因子",
       "portuguese": "Envie-me meu fator de recuperação",
       "spanish": "Envíame mi factor de recuperación"
@@ -204,7 +204,7 @@
       "french": "Obtenez mon facteur de récupération",
       "german": "Holen Sie sich meinen Erholungsfaktor",
       "japanese": "回復係数を取得する",
-      "korean": "내 회복 인자 받기",
+      "korean": "지갑 복구 문구 받기",
       "mandarin": "获取我的恢复因子",
       "portuguese": "Obter meu Fator de Recuperação",
       "spanish": "Obtener mi factor de recuperación"
@@ -237,7 +237,7 @@
       "french": "Votre facteur de récupération est configuré",
       "german": "Ihr Wiederherstellungsfaktor ist eingerichtet",
       "japanese": "回復係数はセットアップです",
-      "korean": "복구 계수가 설정됩니다",
+      "korean": "복구 문구가 설정됩니다",
       "mandarin": "您的恢复因子是设置",
       "portuguese": "Seu fator de recuperação está configurado",
       "spanish": "Su factor de recuperación está configurado"
@@ -314,7 +314,7 @@
       "french": "Ajoutez une couche de sécurité supplémentaire à votre compte, chaque connexion nécessite 2 facteurs pour l'authentification",
       "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu. Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
       "japanese": "アカウントにセキュリティのレイヤーを追加します。ログインごとに認証に 2 つの要素が必要です",
-      "korean": "계정에 추가 보안 계층을 추가하십시오. 로그인할 때마다 2가지 인증 요소가 필요합니다.",
+      "korean": "계정에 추가 보안 설정을 하세요. 로그인할 때마다 2단계의 인증을 요구하게 됩니다.",
       "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
       "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación"
@@ -457,7 +457,7 @@
       "french": "Télécharger ma phrase de récupération",
       "german": "Laden Sie meinen Wiederherstellungssatz herunter",
       "japanese": "私の回復フレーズをダウンロードする",
-      "korean": "내 복구 문구 다운로드",
+      "korean": "지갑 복구 문구 다운로드",
       "mandarin": "下载我的恢复短语",
       "portuguese": "Baixar minha frase de recuperação",
       "spanish": "Descarga mi frase de recuperación"
@@ -1642,7 +1642,7 @@
       "french": "Télécharger mon facteur de récupération",
       "german": "Laden Sie meinen Wiederherstellungsfaktor herunter",
       "japanese": "私のリカバリーファクターをダウンロードする",
-      "korean": "내 회복 인자 다운로드",
+      "korean": "지갑 복구 문구 다운로드",
       "mandarin": "下载我的恢复因子",
       "portuguese": "Baixar meu fator de recuperação",
       "spanish": "Descargar mi factor de recuperación"
@@ -1675,7 +1675,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 설정",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1686,7 +1686,7 @@
       "french": "Vérifiez votre facteur de récupération",
       "german": "Überprüfen Sie Ihren Erholungsfaktor",
       "japanese": "回復率を確認する",
-      "korean": "회복 계수 확인",
+      "korean": "확인 복구 설정",
       "mandarin": "验证您的恢复系数",
       "portuguese": "Verifique seu fator de recuperação",
       "spanish": "Verifique su factor de recuperación"
@@ -1730,7 +1730,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 설정",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1741,7 +1741,7 @@
       "french": "Entrez le facteur de récupération",
       "german": "Erholungsfaktor eingeben",
       "japanese": "回復係数を入力してください",
-      "korean": "회복 계수 입력",
+      "korean": "복구 설정 입력",
       "mandarin": "输入恢复系数",
       "portuguese": "Insira o fator de recuperação",
       "spanish": "Ingrese el factor de recuperación"
@@ -1752,7 +1752,7 @@
       "french": "Facteur de récupération",
       "german": "Erholungsfaktor",
       "japanese": "回収率",
-      "korean": "회복 계수",
+      "korean": "복구 설정",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
@@ -1796,7 +1796,7 @@
       "french": "Veuillez ne pas recharger la page.",
       "german": "Bitte laden Sie die Seite nicht neu.",
       "japanese": "ページをリロードしないでください。",
-      "korean": "페이지를 다시로드하지 마십시오.",
+      "korean": "로딩중입니다. 페이지를 새로고침 하지마세요.",
       "mandarin": "请不要重新加载页面",
       "portuguese": "Por favor, não recarregue a página.",
       "spanish": "Por favor, no vuelva a cargar la página."
@@ -2264,15 +2264,26 @@
       "spanish": "Verifique su inicio de sesión"
     },
     "recovery-factor-sent-to": {
-      "dutch": "Voer de herstelfactor in die naar {email} is verzonden op {date}",
-      "english": "Enter Recovery factor sent to {email} on {date}",
-      "french": "Entrez le facteur de récupération envoyé à {email} le {date}",
-      "german": "Geben Sie den Wiederherstellungsfaktor ein, der am {date} an {email} gesendet wurde",
-      "japanese": "{date} に {email} に送信された回復係数を入力してください",
-      "korean": "{date}에 {email}로 전송된 회복 인자 입력",
-      "mandarin": "输入在 {date} 发送到 {email} 的恢复因子",
-      "portuguese": "Insira o fator de recuperação enviado para {email} em {data}",
-      "spanish": "Ingrese el factor de recuperación enviado a {email} el {fecha}"
+      "english": "Input the recovery phrase sent to {email} on {date}, or if it's not in your email, you may retrieve it at {link}",
+      "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein oder wenn er nicht in Ihrer E -Mail ist, können Sie sie unter {link} abrufen",
+      "japanese": "{date}で{email}に送信された回復フレーズを入力するか、電子メールに入っていない場合は、{link}で取得できます。",
+      "korean": "{date}에서 {email}로 전송 된 복구 문구를 입력하거나 이메일에 있지 않으면 {link}에서 검색 할 수 있습니다.",
+      "mandarin": "在{date}上输入发送到{email}的恢复短语，或者如果不在电子邮件中，则可以在{link}上检索它。",
+      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en {link}",
+      "portuguese": "Insira a frase de recuperação enviada para {email} em {date}, ou se não estiver em seu e -mail, você pode recuperá -lo em {link}",
+      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op {link}",
+      "french": "Entrez la phrase de récupération envoyée à {email} au {date}, ou si ce n'est pas dans votre e-mail, vous pouvez le récupérer sur {link}"
+    },
+    "recovery-factor-sent-to-custom-verifier": {
+      "english": "Input the recovery phrase sent to {email} on {date}",
+      "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein",
+      "japanese": "{date}で{email}に送信された回復フレーズを入力します",
+      "korean": "{date}에서 {email}로 전송 된 복구 구를 입력하십시오.",
+      "mandarin": "在{date}上输入发送到{email}的恢复短语",
+      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}",
+      "portuguese": "Insira a frase de recuperação enviada para {email} em {date}",
+      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}",
+      "french": "Entrez la phrase de récupération envoyée à {email} à {date}"
     },
     "register-backup-phrase-additional-security-desc1": {
       "dutch": "Er wordt een e-mail naar u verzonden met de back-upzin.",
@@ -2544,7 +2555,7 @@
       "french": "Passer pour le moment",
       "german": "Für jetzt überspringen",
       "japanese": "今はスキップ",
-      "korean": "일단은 스킵",
+      "korean": "건너뛰기",
       "mandarin": "立即跳过",
       "portuguese": "Pular por agora",
       "spanish": "Saltar por ahora"
@@ -2880,15 +2891,15 @@
       "spanish": "Ver más"
     },
     "social-2fa-warn-text-1": {
-      "dutch": "Deze sociale factor dient alleen als back-up om uw account gekoppeld aan \"abcd@xyz.com\" te herstellen.",
-      "english": "This Social factor only acts as a backup share to recover your account linked to “abcd@xyz.com”.",
+      "dutch": "Deze sociale factor dient alleen als back-up om uw account gekoppeld aan \"abcd{'@'}xyz.com\" te herstellen.",
+      "english": "This Social factor only acts as a backup share to recover your account linked to “abcd{'@'}xyz.com”.",
       "french": "Ce facteur social ne sert que de partage de sauvegarde pour récupérer votre compte lié à",
-      "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd@xyz.com“ verknüpfter Konto wiederherzustellen.",
-      "japanese": "このソーシャルファクターは、「abcd@xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
-      "korean": "이 사회적 요소는 \"abcd@xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
-      "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd@xyz.com”。",
-      "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd@xyz.com”.",
-      "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd@xyz.com\"."
+      "german": "Dieser soziale Faktor fungiert nur als Sicherungsanteil, um Ihr mit „abcd{'@'}xyz.com“ verknüpfter Konto wiederherzustellen.",
+      "japanese": "このソーシャルファクターは、「abcd{'@'}xyz.com」にリンクされたアカウントを回復するためのバックアップ共有としてのみ機能します。",
+      "korean": "이 사회적 요소는 \"abcd{'@'}xyz.com\"에 링크 된 계정을 복구하기위한 백업 공유 역할을합니다.",
+      "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd{'@'}xyz.com”。",
+      "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd{'@'}xyz.com”.",
+      "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd{'@'}xyz.com\"."
     },
     "social-2fa-warn-text-2": {
       "dutch": "Inloggen met deze sociale factor op de inlogpagina geeft u een nieuw account.",
@@ -3166,15 +3177,37 @@
       "spanish": "Verifique con un factor más para continuar"
     },
     "verify-with-recovery-factor-desc": {
-      "dutch": "Verifieer met uw herstelfactor die naar u is verzonden om door te gaan",
-      "english": "Verify with your recovery factor sent to continue",
-      "french": "Vérifiez avec votre facteur de récupération envoyé pour continuer",
-      "german": "Überprüfen Sie mit Ihrem Wiederherstellungsfaktor, um fortzufahren",
-      "japanese": "継続するために送信される回復係数を確認します",
-      "korean": "회복 요소가 계속되도록 확인하십시오",
-      "mandarin": "验证您发送的恢复因素继续",
-      "portuguese": "Verifique com seu fator de recuperação enviado para continuar",
-      "spanish": "Verifique con su factor de recuperación enviado para continuar"
+      "english": "Verify with your recovery phrase sent to continue",
+      "german": "Überprüfen Sie mit Ihrem Wiederherstellungsausdruck, um fortzufahren",
+      "japanese": "継続するために送信される回復フレーズを確認します",
+      "korean": "계속해서 회복 문구를 확인하십시오",
+      "mandarin": "用发送的恢复短语验证以继续",
+      "spanish": "Verifique con su frase de recuperación enviada para continuar",
+      "portuguese": "Verifique com sua frase de recuperação enviada para continuar",
+      "dutch": "Controleer met uw herstelzin die is verzonden om door te gaan",
+      "french": "Vérifiez avec votre phrase de récupération envoyée pour continuer"
+    },
+    "verify-with-social-factor-desc": {
+      "english": "Verify with the social recovery factor that you had previously set up.",
+      "german": "Überprüfen Sie mit dem zuvor eingerichteten sozialen Genesungsfaktor.",
+      "japanese": "以前に設定した社会的回復要因で確認してください。",
+      "korean": "이전에 설정했던 소셜 복구 요소로 확인하십시오.",
+      "mandarin": "使用您先前设置的社会恢复因素进行验证。",
+      "spanish": "Verifique con el factor de recuperación social que había establecido anteriormente.",
+      "portuguese": "Verifique com o fator de recuperação social que você configurou anteriormente.",
+      "dutch": "Controleer met de sociale herstelfactor die u eerder had opgezet.",
+      "french": "Vérifiez avec le facteur de récupération sociale que vous aviez créé auparavant."
+    },
+    "verify-factorList-desc": {
+      "english": "Verify with one of the following to continue",
+      "german": "Überprüfen Sie mit einem der folgenden Aussagen, um fortzufahren",
+      "japanese": "次のいずれかで確認してください",
+      "korean": "다음 중 하나를 확인하여 계속 확인하십시오",
+      "mandarin": "验证以下一个继续",
+      "spanish": "Verifique con uno de los siguientes para continuar",
+      "portuguese": "Verifique com um dos seguintes para continuar",
+      "dutch": "Controleer met een van de volgende om door te gaan",
+      "french": "Vérifiez avec l'un des éléments suivants pour continuer"
     }
   }
 }
