@@ -410,6 +410,17 @@
       "portuguese": "Erro do leitor QR",
       "dutch": "QR Reader Fout",
       "french": "Erreur du lecteur QR"
+    },
+    "wcInit": {
+      "english": "Something went wrong during initialization.",
+      "german": "Während der Initialisierung ging etwas schief.",
+      "japanese": "初期化中に何か問題が発生しました。",
+      "korean": "초기화 중에 뭔가 잘못되었습니다.",
+      "mandarin": "初始化期间出了问题。",
+      "spanish": "Algo salió mal durante la inicialización.",
+      "portuguese": "Algo deu errado durante a inicialização.",
+      "dutch": "Er ging iets mis tijdens de initialisatie.",
+      "french": "Quelque chose s'est mal passé lors de l'initialisation."
     }
   }
 }
