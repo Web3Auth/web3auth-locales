@@ -87,6 +87,50 @@
       "portuguese": "Cole o link QR aqui",
       "dutch": "Plak hier de QR -link",
       "french": "Coller le lien QR ici"
+    },
+    "connectedApplications": {
+      "english": "Connected Applications",
+      "german": "Verbundene Anwendungen",
+      "japanese": "接続されたアプリケーション",
+      "korean": "연결된 응용 프로그램",
+      "mandarin": "连接的应用程序",
+      "spanish": "Aplicaciones conectadas",
+      "portuguese": "Aplicações conectadas",
+      "dutch": "Verbonden toepassingen",
+      "french": "Applications connectées"
+    },
+    "maxAppConnected": {
+      "english": "Maximum applications connected",
+      "german": "Maximale Anwendungen angeschlossen",
+      "japanese": "接続された最大アプリケーション",
+      "korean": "연결된 최대 응용 프로그램",
+      "mandarin": "连接的最大应用",
+      "spanish": "Aplicaciones máximas conectadas",
+      "portuguese": "Aplicações máximas conectadas",
+      "dutch": "Maximale toepassingen verbonden",
+      "french": "Applications maximales connectées"
+    },
+    "connected": {
+      "english": "Connected",
+      "german": "In Verbindung gebracht",
+      "japanese": "接続",
+      "korean": "연결",
+      "mandarin": "连接的",
+      "spanish": "Conectado",
+      "portuguese": "Conectado",
+      "dutch": "Verbonden",
+      "french": "Connecté"
+    },
+    "connectedSuccess": {
+      "english": "Connected Successfully",
+      "german": "Erfolgreich verbunden",
+      "japanese": "正常に接続されています",
+      "korean": "성공적으로 연결되었습니다",
+      "mandarin": "成功连接",
+      "spanish": "Conectado con éxito",
+      "portuguese": "Conectado com sucesso",
+      "dutch": "Succesvol verbonden",
+      "french": "Connecté avec succès"
     }
   },
   "carousel": {
@@ -265,6 +309,107 @@
       "portuguese": "Volte ao aplicativo para começar a explorar!",
       "dutch": "Keer terug naar de aanvraag om te beginnen met verkennen!",
       "french": "Revenez à l'application pour commencer à explorer!"
+    }
+  },
+  "error": {
+    "invalidUrl": {
+      "english": "Invalid wallet connect url",
+      "german": "Ungültige Brieftasche URL verbinden",
+      "japanese": "無効なウォレット接続URL",
+      "korean": "잘못된 지갑 연결 URL",
+      "mandarin": "无效的钱包连接URL",
+      "spanish": "URL de conexión de billetera no válida",
+      "portuguese": "Carteira inválida URL de conexão",
+      "dutch": "Ongeldige portemonnee verbind url",
+      "french": "URL de connexion du portefeuille non valide"
+    },
+    "v1Deprecated": {
+      "english": "v1 is deprecated",
+      "german": "V1 ist veraltet",
+      "japanese": "V1は非推奨です",
+      "korean": "V1은 더 이상 사용되지 않습니다",
+      "mandarin": "V1被弃用",
+      "spanish": "V1 está en desuso",
+      "portuguese": "v1 está preguiçoso",
+      "dutch": "V1 is verouderd",
+      "french": "V1 est obsolète"
+    },
+    "grantCameraPermission": {
+      "english": "You need to grant camera access permission",
+      "german": "Sie müssen die Genehmigung der Kamerazugang ermöglichen",
+      "japanese": "カメラアクセス許可を付与する必要があります",
+      "korean": "카메라 액세스 권한을 부여해야합니다",
+      "mandarin": "您需要授予相机访问权限",
+      "spanish": "Necesita otorgar permiso de acceso a la cámara",
+      "portuguese": "Você precisa conceder permissão de acesso à câmera",
+      "dutch": "U moet toestemming van de camera toegang geven",
+      "french": "Vous devez accorder une autorisation d'accès à la caméra"
+    },
+    "noCamera": {
+      "english": "No camera on this device",
+      "german": "Keine Kamera auf diesem Gerät",
+      "japanese": "このデバイスにカメラはありません",
+      "korean": "이 장치에 카메라가 없습니다",
+      "mandarin": "该设备上没有相机",
+      "spanish": "No hay cámara en este dispositivo",
+      "portuguese": "Nenhuma câmera neste dispositivo",
+      "dutch": "Geen camera op dit apparaat",
+      "french": "Pas de caméra sur cet appareil"
+    },
+    "secureContext": {
+      "english": "Secure context required (HTTPS, localhost)",
+      "german": "Sicherer Kontext erforderlich (https, localhost)",
+      "japanese": "安全なコンテキストが必要です（https、localhost）",
+      "korean": "보안 컨텍스트 필수 (HTTPS, LocalHost)",
+      "mandarin": "需要的安全上下文（HTTPS，Localhost）",
+      "spanish": "Contexto seguro requerido (https, localhost)",
+      "portuguese": "Contexto seguro necessário (https, localhost)",
+      "dutch": "Veilige context vereist (https, localhost)",
+      "french": "Contexte sécurisé requis (HTTPS, localhost)"
+    },
+    "cameraInUse": {
+      "english": "Is the camera already in use?",
+      "german": "Ist die Kamera bereits verwendet?",
+      "japanese": "カメラはすでに使用されていますか？",
+      "korean": "카메라가 이미 사용 중입니까?",
+      "mandarin": "相机已经在使用吗？",
+      "spanish": "¿La cámara ya está en uso?",
+      "portuguese": "A câmera já está em uso?",
+      "dutch": "Is de camera al in gebruik?",
+      "french": "La caméra est-elle déjà utilisée?"
+    },
+    "installedCameraErr": {
+      "english": "Installed cameras are not suitable",
+      "german": "Installierte Kameras sind nicht geeignet",
+      "japanese": "取り付けられたカメラは適していません",
+      "korean": "설치된 카메라는 적합하지 않습니다",
+      "mandarin": "安装的摄像头不合适",
+      "spanish": "Las cámaras instaladas no son adecuadas",
+      "portuguese": "Câmeras instaladas não são adequadas",
+      "dutch": "Geïnstalleerde camera's zijn niet geschikt",
+      "french": "Les caméras installées ne conviennent pas"
+    },
+    "streamErr": {
+      "english": "Stream Api not supported",
+      "german": "Stream -API nicht unterstützt",
+      "japanese": "Stream APIはサポートされていません",
+      "korean": "스트림 API는 지원되지 않습니다",
+      "mandarin": "流不支持的流API",
+      "spanish": "API de transmisión no es compatible",
+      "portuguese": "API de fluxo não suportada",
+      "dutch": "Stream API niet ondersteund",
+      "french": "API Stream non pris en charge"
+    },
+    "qrReaderErr": {
+      "english": "QR reader error",
+      "german": "QR -Leserfehler",
+      "japanese": "QRリーダーエラー",
+      "korean": "QR 리더 오류",
+      "mandarin": "QR阅读器错误",
+      "spanish": "Error del lector QR",
+      "portuguese": "Erro do leitor QR",
+      "dutch": "QR Reader Fout",
+      "french": "Erreur du lecteur QR"
     }
   }
 }
