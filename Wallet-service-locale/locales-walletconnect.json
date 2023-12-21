@@ -256,15 +256,15 @@
       "french": "Accepter les termes et conditions"
     },
     "subHeading6": {
-      "english": "Return to Application to Accept and Sig",
-      "german": "Kehren Sie zur Anwendung zurück, um sie zu akzeptieren und Sig",
-      "japanese": "Applicationに戻り、受け入れてsig",
-      "korean": "수락 및 SIG에 신청서로 돌아갑니다",
+      "english": "Return to Application to Accept and Sign",
+      "german": "Kehren Sie zur Anwendung zurück, um zu akzeptieren und zu unterschreiben",
+      "japanese": "アプリケーションに戻って受け入れて署名します",
+      "korean": "수락 및 서명하려면 신청서로 돌아갑니다",
       "mandarin": "返回申请接受和签名",
-      "spanish": "Volver a la solicitud para aceptar y Sig",
-      "portuguese": "Retorne ao aplicativo para aceitar e sig",
-      "dutch": "Keer terug naar de aanvraag om te accepteren en sig",
-      "french": "Retour à la demande à accepter et sig"
+      "spanish": "Volver a la solicitud para aceptar y firmar",
+      "portuguese": "Retorne ao aplicativo para aceitar e assinar",
+      "dutch": "Keer terug naar de aanvraag om te accepteren en te ondertekenen",
+      "french": "Revenir à la demande pour accepter et signer"
     },
     "heading7": {
       "english": "Authorize Application",

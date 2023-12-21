@@ -1493,6 +1493,17 @@
       "dutch": "Toon privésleutel",
       "french": "Afficher la clé privée"
     },
+    "hidePrivateKey": {
+      "english": "Hide Private Key",
+      "german": "Private Schlüssel verbergen",
+      "japanese": "秘密鍵を非表示にします",
+      "korean": "개인 키를 숨기십시오",
+      "mandarin": "隐藏私钥",
+      "spanish": "Ocultar la llave privada",
+      "portuguese": "Ocultar a chave privada",
+      "dutch": "Verberg de privésleutel",
+      "french": "Masquer la clé privée"
+    },
     "recoveryKit": {
       "english": "Recovery Kit",
       "german": "Wiederherstellungskit",
