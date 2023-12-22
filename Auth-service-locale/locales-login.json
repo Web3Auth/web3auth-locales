@@ -901,6 +901,28 @@
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
+    },
+    "enable-mfa-with": {
+      "dutch":	"MFA inschakelen met",
+      "english":	"Enable MFA with",
+      "french":	"Activer le MFA avec",
+      "german":	"Aktivieren Sie MFA mit",
+      "japanese":	"MFAを有効にします",
+      "korean":	"MFA를 활성화하십시오",
+      "mandarin":	"启用MFA",
+      "portuguese":	"Ativar MFA com",
+      "spanish":	"Habilitar MFA con"
+    },
+    "enable-mfa-continue": {
+      "dutch":	"doorgaan",
+      "english":	"continue",
+      "french":	"continuer",
+      "german":	"weitermachen",
+      "japanese":	"続く",
+      "korean":	"계속하다",
+      "mandarin":	"继续",
+      "portuguese":	"continuar",
+      "spanish":	"continuar"
     }
   }
 }

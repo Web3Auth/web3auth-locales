@@ -297,6 +297,17 @@
       "portuguese": "Login autocustodial por",
       "spanish": "Inicio de sesión con autocustodia por"
     },
+    "self-custody-via": {
+      "english": "Self-custody via",
+      "german": "Selbstversorgung über",
+      "japanese": "経由の自立",
+      "korean": "자해를 통해",
+      "mandarin": "自我castody通过",
+      "spanish": "Autocustody a través de",
+      "portuguese": "Autoconfiança via",
+      "dutch": "Zelfkusten via",
+      "french": "Auto-cuir via"
+    },
     "social": {
       "dutch": "Sociaal",
       "english": "Social",
