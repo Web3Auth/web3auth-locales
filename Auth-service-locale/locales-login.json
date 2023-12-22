@@ -914,15 +914,15 @@
       "spanish":	"Habilitar MFA con"
     },
     "enable-mfa-continue": {
-      "dutch":	"doorgaan",
-      "english":	"continue",
-      "french":	"continuer",
-      "german":	"weitermachen",
+      "dutch":	"Doorgaan",
+      "english":	"Continue",
+      "french":	"Continuer",
+      "german":	"Weitermachen",
       "japanese":	"続く",
       "korean":	"계속하다",
       "mandarin":	"继续",
-      "portuguese":	"continuar",
-      "spanish":	"continuar"
+      "portuguese":	"Continuar",
+      "spanish":	"Continuar"
     }
   }
 }
