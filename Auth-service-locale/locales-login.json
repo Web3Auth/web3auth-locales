@@ -913,6 +913,17 @@
       "portuguese":	"Ativar MFA com",
       "spanish":	"Habilitar MFA con"
     },
+    "enable-mfa-ensure-security": {
+      "dutch": "Meld u opnieuw aan om uw MFA -instellingen in te stellen of toegang te krijgen tot uw MFA -instellingen om te waarborgen",
+      "english": "To ensure security, please sign in again to set up or access your MFA settings",
+      "french": "Pour assurer la sécurité, veuillez vous connecter à nouveau pour configurer ou accéder à vos paramètres MFA",
+      "german": "Um Sicherheit zu gewährleisten, melden Sie sich bitte erneut an, um Ihre MFA -Einstellungen einzurichten oder aufzurufen",
+      "japanese": "セキュリティを確保するには、再度サインインしてMFA設定をセットアップまたはアクセスしてください",
+      "korean": "보안을 보장하려면 다시 로그인하여 MFA 설정을 설정하거나 액세스하십시오.",
+      "mandarin": "要确保安全，请再次登录以设置或访问您的MFA设置",
+      "portuguese": "Para garantir a segurança, faça login novamente para configurar ou acessar suas configurações de MFA",
+      "spanish": "Para garantizar la seguridad, inicie sesión nuevamente para configurar o acceder a su configuración de MFA"
+    },
     "enable-mfa-continue": {
       "dutch":	"Doorgaan",
       "english":	"Continue",
