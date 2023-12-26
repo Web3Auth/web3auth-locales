@@ -286,17 +286,6 @@
       "portuguese": "Reenviar Fator de Recuperação",
       "spanish": "Factor de recuperación de reenvío"
     },
-    "selfCustodial": {
-      "dutch": "Zelfbewarend inloggen door",
-      "english": "Self-custodial login by",
-      "french": "Connexion en libre-service par",
-      "german": "Selbstverwahrungs-Login durch",
-      "japanese": "自己管理ログイン by",
-      "korean": "자가 관리 로그인",
-      "mandarin": "自托管登录由",
-      "portuguese": "Login autocustodial por",
-      "spanish": "Inicio de sesión con autocustodia por"
-    },
     "self-custody-via": {
       "english": "Self-custody via",
       "german": "Selbstversorgung über",
