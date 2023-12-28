@@ -902,16 +902,16 @@
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación"
     },
-    "enable-mfa-with": {
-      "dutch":	"MFA inschakelen met {0}",
-      "english":	"Enable MFA with {0}",
-      "french":	"Activer le MFA avec {0}",
-      "german":	"Aktivieren Sie MFA mit {0}",
-      "japanese":	"{0}でMFAを有効にします",
-      "korean":	"{0}으로 MFA 활성화",
-      "mandarin":	"用{0}启用MFA",
-      "portuguese":	"Ativar MFA com {0}",
-      "spanish":	"Habilitar MFA con {0}"
+    "enable-mfa": {
+      "dutch":	"Schakel MFA in",
+      "english":	"Enable MFA",
+      "french":	"Activer MFA",
+      "german":	"Aktivieren Sie MFA",
+      "japanese":	"MFAを有効にします",
+      "korean":	"MFA 활성화",
+      "mandarin":	"启用MFA",
+      "portuguese":	"Ativar MFA",
+      "spanish":	"Habilitar MFA"
     },
     "enable-mfa-ensure-security": {
       "dutch":	"Meld u opnieuw aan voor verbeterde beveiliging om uw MFA -instellingen te configureren. Merk op dat MFA permanent wordt zodra het is ingesteld.",
@@ -924,16 +924,27 @@
       "portuguese":	"Para uma segurança aprimorada, faça login mais uma vez para definir suas configurações de MFA. Observe que o MFA se torna permanente uma vez configurado.",
       "spanish":	"Para una seguridad mejorada, inicie sesión una vez más para configurar su configuración de MFA. Tenga en cuenta que MFA se vuelve permanente una vez configurado."
     },
-    "enable-mfa-continue": {
-      "dutch":	"Doorgaan",
-      "english":	"Continue",
-      "french":	"Continuer",
-      "german":	"Weitermachen",
-      "japanese":	"続く",
-      "korean":	"계속하다",
-      "mandarin":	"继续",
-      "portuguese":	"Continuar",
-      "spanish":	"Continuar"
+    "enable-mfa-continue-with": {
+      "dutch":	"Ga door met {0}",
+      "english":	"Continue with {0}",
+      "french":	"Continuer avec {0}",
+      "german":	"Fahren Sie mit {0} fort",
+      "japanese":	"{0}で続行します",
+      "korean":	"{0} 계속",
+      "mandarin":	"继续{0}",
+      "portuguese":	"Continue com {0}",
+      "spanish":	"Continuar con {0}"
+    },
+    "enable-mfa-continue-as": {
+      "dutch":	"Ga door als {0}",
+      "english":	"Continue as {0}",
+      "french":	"Continuez comme {0}",
+      "german":	"Fahren Sie weiter als {0}",
+      "japanese":	"{0}として続行します",
+      "korean":	"계속 {0}로 계속",
+      "mandarin":	"继续为{0}",
+      "portuguese":	"Continue como {0}",
+      "spanish":	"Continuar como {0}"
     }
   }
 }
