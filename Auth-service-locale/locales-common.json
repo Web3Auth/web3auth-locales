@@ -55,28 +55,6 @@
       "portuguese": "Copiar para área de transferência",
       "spanish": "Copiar al portapapeles"
     },
-    "copier-privacy-policy": {
-      "dutch": "Privacybeleid",
-      "english": "Privacy policy",
-      "french": "Politique de confidentialité",
-      "german": "Datenschutz-Bestimmungen",
-      "japanese": "個人情報保護方針",
-      "korean": "개인 정보 정책",
-      "mandarin": "隐私政策",
-      "portuguese": "Política de privacidade",
-      "spanish": "Política de privacidad"
-    },
-    "copier-terms-of-use": {
-      "dutch": "Gebruiksvoorwaarden",
-      "english": "Terms of use",
-      "french": "Conditions d'utilisation,",
-      "german": "Nutzungsbedingungen",
-      "japanese": "利用規約",
-      "korean": "이용 약관",
-      "mandarin": "使用条款",
-      "portuguese": "Termos de uso",
-      "spanish": "Condiciones de uso"
-    },
     "copy-paste": {
       "dutch": "Kopiëren en plakken",
       "english": "Copy and Paste",
