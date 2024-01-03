@@ -9,7 +9,8 @@
       "spanish": "Verifique su aplicación de autenticador",
       "portuguese": "Verifique seu aplicativo Authenticator",
       "dutch": "Controleer uw authenticator -app",
-      "french": "Vérifiez votre application Authenticator"
+      "french": "Vérifiez votre application Authenticator",
+      "turkish": "Kimlik doğrulayıcı uygulamanızı doğrulayın"
     },
     "setupAuthAppHeading": {
       "english": "Set up Authenticator App",
@@ -20,7 +21,8 @@
       "spanish": "Configurar la aplicación Authenticator",
       "portuguese": "Configurar aplicativo autenticador",
       "dutch": "Stel Authenticator -app in",
-      "french": "Configurer l'application Authenticator"
+      "french": "Configurer l'application Authenticator",
+      "turkish": "Kimlik doğrulayıcı uygulamanızı kurun"
     },
     "enterCodeTitle": {
       "english": "Enter the 6-digit verification code from your authentication app",
@@ -31,7 +33,8 @@
       "spanish": "Ingrese el código de verificación de 6 dígitos desde su aplicación de autenticación",
       "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
       "dutch": "Voer de 6-cijferige verificatiecode in van uw authenticatie-app",
-      "french": "Entrez le code de vérification à 6 chiffres de votre application d'authentification"
+      "french": "Entrez le code de vérification à 6 chiffres de votre application d'authentification",
+      "turkish": "Kimlik doğrulama uygulamanızdan 6 haneli doğrulama kodunu girin"
     },
     "useAuthApp": {
       "english": "Use your authentication app (e.g. Google Authenticator or Authy) to scan this QR code.",
@@ -42,7 +45,8 @@
       "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
       "portuguese": "Use seu aplicativo de autenticação (por exemplo, Google Authenticator ou Authy) para digitalizar este código QR.",
       "dutch": "Gebruik uw authenticatie -app (bijv. Google Authenticator of authy) om deze QR -code te scannen.",
-      "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour numériser ce code QR."
+      "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour numériser ce code QR.",
+      "turkish": "Bu QR kodunu taramak için kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
     },
     "enterOtp": {
       "english": "Enter your OTP",
@@ -53,7 +57,8 @@
       "spanish": "Ingrese su OTP",
       "portuguese": "Digite seu OTP",
       "dutch": "Voer uw OTP in",
-      "french": "Entrez votre OTP"
+      "french": "Entrez votre OTP",
+      "turkish": "OTP kodunuzu girin"
     },
     "smsOtp": {
       "english": "SMS OTP",
@@ -64,7 +69,8 @@
       "spanish": "SMS OTP",
       "portuguese": "SMS OTP",
       "dutch": "SMS OTP",
-      "french": "Sms otp"
+      "french": "Sms otp",
+      "turkish": "SMS OTP"
     },
     "phoneVerify": {
       "english": "An OTP has been sent to +** **** {phone} Enter OTP to continue",
@@ -75,7 +81,8 @@
       "spanish": "Se ha enviado un OTP a +** **** {phone} Ingrese OTP para continuar",
       "portuguese": "Um OTP foi enviado para +** **** {phone} Digite OTP para continuar",
       "dutch": "Een OTP is verzonden naar +** **** {phone} Voer OTP in om door te gaan",
-      "french": "Un OTP a été envoyé à + ** **** {phone} Entrez OTP pour continuer"
+      "french": "Un OTP a été envoyé à + ** **** {phone} Entrez OTP pour continuer",
+      "turkish": "Bir OTP +** **** {telphoneefon} adresine gönderildi Devam etmek için OTP girin"
     },
     "authenticatePhone": {
       "english": "Authenticate your phone number with OTP and set it as recovery Factor",
@@ -86,7 +93,8 @@
       "spanish": "Autenticar su número de teléfono con OTP y establecerlo como factor de recuperación",
       "portuguese": "Autentique seu número de telefone com OTP e defina -o como fator de recuperação",
       "dutch": "Verifieer uw telefoonnummer met OTP en stel het in als herstelfactor",
-      "french": "Authentifiez votre numéro de téléphone avec OTP et définissez-le comme facteur de récupération"
+      "french": "Authentifiez votre numéro de téléphone avec OTP et définissez-le comme facteur de récupération",
+      "turkish": "Telefon numaranızı OTP ile doğrulayın ve kurtarma faktörü olarak ayarlayın"
     },
     "phone": {
       "english": "Phone",
@@ -97,7 +105,8 @@
       "spanish": "Teléfono",
       "portuguese": "Telefone",
       "dutch": "Telefoon",
-      "french": "Téléphone"
+      "french": "Téléphone",
+      "turkish": "Telefon"
     },
     "confirm": {
       "english": "Confirm",
@@ -108,7 +117,8 @@
       "spanish": "Confirmar",
       "portuguese": "confirme",
       "dutch": "Bevestigen",
-      "french": "Confirmer"
+      "french": "Confirmer",
+      "turkish": "Onayla"
     },
     "next": {
       "english": "Next",
@@ -119,7 +129,8 @@
       "spanish": "Próximo",
       "portuguese": "Próximo",
       "dutch": "Volgende",
-      "french": "Suivant"
+      "french": "Suivant",
+      "turkish": "Sonraki"
     },
     "otpSentTo": {
       "english": "An OTP has been sent to +** **** {phone}",
@@ -130,7 +141,8 @@
       "spanish": "Se ha enviado un OTP a +** **** {phone}",
       "portuguese": "Um OTP foi enviado para +** **** {phone}",
       "dutch": "Een OTP is verzonden naar +** **** {phone}",
-      "french": "Un OTP a été envoyé à + ** **** {phone}"
+      "french": "Un OTP a été envoyé à + ** **** {phone}",
+      "turkish": "Bir OTP +** **** {phone} adresine gönderildi"
     },
     "enterOtpToContinue": {
       "english": "Enter OTP to continue",
@@ -141,7 +153,8 @@
       "spanish": "Ingrese OTP para continuar",
       "portuguese": "Insira o OTP para continuar",
       "dutch": "Voer OTP in om door te gaan",
-      "french": "Entrez OTP pour continuer"
+      "french": "Entrez OTP pour continuer",
+      "turkish": "Devam etmek için OTP girin"
     },
     "enterAuthCode": {
       "english": "Enter the 6-digit verification code from your authentication app",
@@ -152,7 +165,8 @@
       "spanish": "Ingrese el código de verificación de 6 dígitos desde su aplicación de autenticación",
       "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
       "dutch": "Voer de 6-cijferige verificatiecode in van uw authenticatie-app",
-      "french": "Entrez le code de vérification à 6 chiffres de votre application d'authentification"
+      "french": "Entrez le code de vérification à 6 chiffres de votre application d'authentification",
+      "turkish": "Kimlik doğrulama uygulamanızdan 6 haneli doğrulama kodunu girin"
     },
     "doneMFASetup": {
       "english": "Your MFA setup is complete!",
@@ -163,7 +177,8 @@
       "spanish": "¡Tu configuración de MFA está completa!",
       "portuguese": "Sua configuração de MFA está completa!",
       "dutch": "Je MFA -opstelling is voltooid!",
-      "french": "Votre configuration MFA est terminée!"
+      "french": "Votre configuration MFA est terminée!",
+      "turkish": "MFA kurulumunuz tamamlandı!"
     },
     "doneSetupDesc": {
       "english": "This current setup will aid in regaining account access if you lose your second factor.",
@@ -174,7 +189,8 @@
       "spanish": "Esta configuración actual ayudará a recuperar el acceso a la cuenta si pierde su segundo factor.",
       "portuguese": "Essa configuração atual ajudará a recuperar o acesso à conta se você perder seu segundo fator.",
       "dutch": "Deze huidige opstelling helpt bij het terugwinnen van de accounttoegang als u uw tweede factor verliest.",
-      "french": "Cette configuration actuelle aidera à regagner l'accès du compte si vous perdez votre deuxième facteur."
+      "french": "Cette configuration actuelle aidera à regagner l'accès du compte si vous perdez votre deuxième facteur.",
+      "turkish": "Bu mevcut kurulum, ikinci faktörünüzü kaybetmeniz durumunda hesap erişimini yeniden kazanmanıza yardımcı olacaktır."
     },
     "finishSetup": {
       "english": "Finish set up",
@@ -185,7 +201,8 @@
       "spanish": "Acabado Configuración",
       "portuguese": "Acabar de configurar",
       "dutch": "Afwerking opzetten",
-      "french": "Terminer la configuration"
+      "french": "Terminer la configuration",
+      "turkish": "Kurulumu bitirin"
     },
     "enterCodeManually": {
       "english": "Enter code manually",
@@ -196,7 +213,8 @@
       "spanish": "Introduce el código manualmente",
       "portuguese": "Insira o código manualmente",
       "dutch": "Voer code handmatig in",
-      "french": "Entrez le code manuellement"
+      "french": "Entrez le code manuellement",
+      "turkish": "Kodu manuel olarak girin"
     },
     "scanQrCode": {
       "english": "Scan QR code",
@@ -207,7 +225,8 @@
       "spanish": "Escanear código QR",
       "portuguese": "Digitalize o código QR",
       "dutch": "Scan QR-code",
-      "french": "Scanner le code QR"
+      "french": "Scanner le code QR",
+      "turkish": "QR kodunu tarayın"
     },
     "authenticator": {
       "english": "Authenticator",
@@ -218,7 +237,8 @@
       "spanish": "Autenticador",
       "portuguese": "Autenticador",
       "dutch": "Authenticator",
-      "french": "Authentificateur"
+      "french": "Authentificateur",
+      "turkish": "Kimlik doğrulayıcı"
     },
     "smsOtpFactor": {
       "english": "SMS OTP",
@@ -229,7 +249,8 @@
       "spanish": "SMS OTP",
       "portuguese": "SMS OTP",
       "dutch": "SMS OTP",
-      "french": "Sms otp"
+      "french": "Sms otp",
+      "turkish": "SMS OTP"
     }
   }
 }

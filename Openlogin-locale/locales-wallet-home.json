@@ -9,7 +9,8 @@
       "korean": "OpenLogin으로 디지털 존재를 관리하십시오.",
       "mandarin": "使用OpenLogin来管理您的数字业务。",
       "portuguese": "Assuma o controle de sua presença digital com OpenLogin.",
-      "spanish": "Hágase cargo de su presencia digital con OpenLogin."
+      "spanish": "Hágase cargo de su presencia digital con OpenLogin.",
+      "turkish": "OpenLogin ile dijital varlığınızın kontrolünü elinize alın."
     },
     "learn-more-title": {
       "dutch": "Aan de slag gaan",
@@ -20,7 +21,8 @@
       "korean": "시작하기",
       "mandarin": "开始",
       "portuguese": "Começando",
-      "spanish": "Empezando"
+      "spanish": "Empezando",
+      "turkish": "Başlarken"
     },
     "link-account-name": {
       "dutch": "Account beheren",
@@ -31,7 +33,8 @@
       "korean": "계정 관리",
       "mandarin": "管理帐户",
       "portuguese": "Gerenciar conta",
-      "spanish": "Administrar cuenta"
+      "spanish": "Administrar cuenta",
+      "turkish": "Hesabı yönet"
     },
     "link-account-type": {
       "dutch": "account",
@@ -42,7 +45,8 @@
       "korean": "계정",
       "mandarin": "帐户",
       "portuguese": "conta",
-      "spanish": "cuenta"
+      "spanish": "cuenta",
+      "turkish": "hesap"
     },
     "link-apps-name": {
       "dutch": "Bekijk geautoriseerde apps",
@@ -53,7 +57,8 @@
       "korean": "승인 된 앱보기",
       "mandarin": "查看授权的应用",
       "portuguese": "Ver aplicativos autorizados",
-      "spanish": "Ver aplicaciones autorizadas"
+      "spanish": "Ver aplicaciones autorizadas",
+      "turkish": "Yetkili uygulamaları gör"
     },
     "link-apps-type": {
       "dutch": "apps",
@@ -64,7 +69,8 @@
       "korean": "앱",
       "mandarin": "应用",
       "portuguese": "aplicativos",
-      "spanish": "aplicaciones"
+      "spanish": "aplicaciones",
+      "turkish": "uygulamalar"
     },
     "share-approval-desc1": {
       "dutch": "Een nieuwe login probeert toegang te krijgen tot uw account.",
@@ -75,7 +81,8 @@
       "korean": "새 로그인으로 계정에 액세스하려고합니다.",
       "mandarin": "新的登录名正在尝试登记入您的帐户。",
       "portuguese": "Um novo login está tentando acessar sua conta.",
-      "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta."
+      "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta.",
+      "turkish": "Yeni bir kullanıcı hesabınıza erişmeye çalışıyor."
     },
     "share-approval-desc2": {
       "dutch": "Match de referentie-ID en bevestig dat dit u bent:",
@@ -86,7 +93,8 @@
       "korean": "참조 ID를 일치 하고 본인임을 확인합니다.",
       "mandarin": "匹配参考ID并确认这是您 :",
       "portuguese": "Corresponda ao ID de referência e confirme que é você:",
-      "spanish": "Haga coincidir la ID de referencia y confirme que es usted:"
+      "spanish": "Haga coincidir la ID de referencia y confirme que es usted:",
+      "turkish": "Referans Kimliğini eşleştirin ve bunun siz olduğunuzu onaylayın:"
     },
     "share-approval-not-me": {
       "dutch": "Dit ben ik niet,",
@@ -97,7 +105,8 @@
       "korean": "이건 내가 아니다",
       "mandarin": "这不是我，",
       "portuguese": "Este não sou eu,",
-      "spanish": "Este no soy yo,"
+      "spanish": "Este no soy yo,",
+      "turkish": "Bu ben değilim,"
     },
     "share-approval-report": {
       "dutch": "Rapporteer het",
@@ -108,7 +117,8 @@
       "korean": "보고서",
       "mandarin": "举报",
       "portuguese": "denuncie",
-      "spanish": "Informe"
+      "spanish": "Informe",
+      "turkish": "bildir"
     },
     "share-approval-secure": {
       "dutch": "Veilige Torus-aanmelding",
@@ -119,7 +129,8 @@
       "korean": "보안 토러스 로그인",
       "mandarin": "安全Torus登录",
       "portuguese": "Login seguro da Torus",
-      "spanish": "Iniciar sesión Secure Torus"
+      "spanish": "Iniciar sesión Secure Torus",
+      "turkish": "Güvenli Torus oturum açma"
     },
     "share-approval-support": {
       "dutch": "Neem contact op met de ondersteuning",
@@ -130,7 +141,8 @@
       "korean": "연락처 지원",
       "mandarin": "联系支持人员",
       "portuguese": "Entre em contato com o suporte",
-      "spanish": "Soporte de contacto"
+      "spanish": "Soporte de contacto",
+      "turkish": "Destekle iletişime geçin"
     },
     "share-approval-title": {
       "dutch": "Nieuwe login gedetecteerd",
@@ -141,7 +153,8 @@
       "korean": "새 로그인 감지",
       "mandarin": "检测到新登录",
       "portuguese": "Novo login detectado",
-      "spanish": "Nuevo inicio de sesión detectado"
+      "spanish": "Nuevo inicio de sesión detectado",
+      "turkish": "Yeni oturum açma algılandı"
     },
     "title": {
       "dutch": "Welkom, {0}",
@@ -152,7 +165,8 @@
       "korean": "{0} 님, 환영합니다",
       "mandarin": "欢迎，{0}",
       "portuguese": "Bem-vindo, {0}",
-      "spanish": "Bienvenido, {0}"
+      "spanish": "Bienvenido, {0}",
+      "turkish": "Hoş geldin, {0}"
     }
   }
 }
