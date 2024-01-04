@@ -9,7 +9,8 @@
       "korean": "{{adapter}} 계정을 확인하여 계속 진행하세요",
       "mandarin": "验证您的{{adapter}}帐户以继续",
       "portuguese": "Verifique a sua conta {{adapter}} para continuar",
-      "spanish": "Verifica tu cuenta {{adapter}} para continuar"
+      "spanish": "Verifica tu cuenta {{adapter}} para continuar",
+      "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula"
     },
     "adapter-loader.message1": {
       "dutch": "Verifieer uw {{adapter}}",
@@ -20,7 +21,8 @@
       "korean": "{{adapter}} 확인",
       "mandarin": "在您的{{adapter}}上验证",
       "portuguese": "Verifique o(a) seu/sua {{adapter}}",
-      "spanish": "Verifique su {{adapter}}"
+      "spanish": "Verifique su {{adapter}}",
+      "turkish": "{{adapter}} doğrula"
     },
     "adapter-loader.message2": {
       "dutch": "account om door te gaan",
@@ -31,7 +33,8 @@
       "korean": "계속할 계정",
       "mandarin": "帐号继续",
       "portuguese": "conta para continuar",
-      "spanish": "cuenta para continuar"
+      "spanish": "cuenta para continuar",
+      "turkish": "devam edecek hesap"
     },
     "errors-invalid-number-email": {
       "dutch": "Ongeldig e-mailadres of telefoonnummer",
@@ -42,7 +45,8 @@
       "korean": "잘못된 이메일 또는 전화번호",
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email ou número de telefone inválido",
-      "spanish": "Correo electrónico o número de teléfono inválido"
+      "spanish": "Correo electrónico o número de teléfono inválido",
+      "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-required": {
       "dutch": "Vereist",
@@ -53,7 +57,8 @@
       "korean": "필수",
       "mandarin": "必填",
       "portuguese": "Obrigatório",
-      "spanish": "Campo obligatorio"
+      "spanish": "Campo obligatorio",
+      "turkish": "Zorunlu"
     },
     "external.back": {
       "dutch": "Terug",
@@ -64,7 +69,8 @@
       "korean": "뒤로",
       "mandarin": "返回",
       "portuguese": "Voltar",
-      "spanish": "Atrás"
+      "spanish": "Atrás",
+      "turkish": "Geri"
     },
     "external.connect": {
       "dutch": "Verbinden met portemonnee",
@@ -75,7 +81,8 @@
       "korean": "지갑에 연결",
       "mandarin": "使用钱包连接",
       "portuguese": "Conectar com carteira",
-      "spanish": "Conectar con billetera"
+      "spanish": "Conectar con billetera",
+      "turkish": "Cüzdan ile Bağlan"
     },
     "external.title": {
       "dutch": "Externe portemonnee",
@@ -86,7 +93,8 @@
       "korean": "외부 지갑",
       "mandarin": "外部钱包",
       "portuguese": "Carteira Externa",
-      "spanish": "Billetera Externa"
+      "spanish": "Billetera Externa",
+      "turkish": "Harici Cüzdan"
     },
     "external.walletconnect-connect": {
       "dutch": "Verbinden",
@@ -97,7 +105,8 @@
       "korean": "연결",
       "mandarin": "连接",
       "portuguese": "Conectar",
-      "spanish": "Conectar"
+      "spanish": "Conectar",
+      "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
       "dutch": "Klik op de QR-code om te kopiëren naar het klembord",
@@ -108,7 +117,8 @@
       "korean": "클립보드에 복사하려면 QR 코드를 클릭하세요",
       "mandarin": "点击二维码复制到剪贴板",
       "portuguese": "Clique no código QR para copiar para a área de transferência",
-      "spanish": "Haz clic en el código QR para copiarlo al portapapeles"
+      "spanish": "Haz clic en el código QR para copiarlo al portapapeles",
+      "turkish": "Panoya kopyalamak için QR koduna tıkla"
     },
     "external.walletconnect-subtitle": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
@@ -119,7 +129,8 @@
       "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하세요",
       "mandarin": "使用兼容 WalletConnect 的钱包扫描 QR 码",
       "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect",
-      "spanish": "Escanear el código QR con una billetera compatible con WalletConnect"
+      "spanish": "Escanear el código QR con una billetera compatible con WalletConnect",
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın"
     },
     "footer.message": {
       "dutch": "Zelfbeheerde login door",
@@ -130,7 +141,8 @@
       "korean": "자기 보관 로그인",
       "mandarin": "自托管登录由",
       "portuguese": "Login de autocustódia por",
-      "spanish": "Inicio de sesión con autogestión por"
+      "spanish": "Inicio de sesión con autogestión por",
+      "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
       "dutch": "Zelf-custodial login via Web3Auth",
@@ -141,7 +153,8 @@
       "korean": "Web3Auth를 통한 자기 보관 로그인",
       "mandarin": "Web3Auth 的自托管登录",
       "portuguese": "Login de autocustódia por Web3Auth",
-      "spanish": "Inicio de sesión con autogestión por Web3Auth"
+      "spanish": "Inicio de sesión con autogestión por Web3Auth",
+      "turkish": "Web3Auth tatafından öz-yönetimli giriş"
     },
     "footer.policy": {
       "dutch": "Privacybeleid",
@@ -152,7 +165,8 @@
       "korean": "개인정보 처리방침",
       "mandarin": "隐私政策",
       "portuguese": "Política de Privacidade",
-      "spanish": "Política de privacidad"
+      "spanish": "Política de privacidad",
+      "turkish": "Gizlilik Politikası"
     },
     "footer.terms": {
       "dutch": "Gebruiksvoorwaarden",
@@ -163,7 +177,8 @@
       "korean": "이용 약관",
       "mandarin": "使用条款",
       "portuguese": "Termos de Uso",
-      "spanish": "Términos de Uso"
+      "spanish": "Términos de Uso",
+      "turkish": "Kullanım Şartları"
     },
     "footer.terms-service": {
       "dutch": "Gebruiksvoorwaarden",
@@ -174,7 +189,8 @@
       "korean": "서비스 약관",
       "mandarin": "服务条款",
       "portuguese": "Termos de Serviço",
-      "spanish": "Términos de servicio"
+      "spanish": "Términos de servicio",
+      "turkish": "Hizmet Şartları"
     },
     "footer.version": {
       "dutch": "Versie",
@@ -185,7 +201,8 @@
       "korean": "버전",
       "mandarin": "版本",
       "portuguese": "Versão",
-      "spanish": "Versión"
+      "spanish": "Versión",
+      "turkish": "Versiyon"
     },
     "header-subtitle": {
       "dutch": "Selecteer een van de volgende opties om door te gaan",
@@ -196,7 +213,8 @@
       "korean": "계속하려면 다음 중 하나를 선택하세요",
       "mandarin": "选择以下选项以继续",
       "portuguese": "Selecione uma das seguintes opções para continuar",
-      "spanish": "Seleccione una de las siguientes opciones para continuar"
+      "spanish": "Seleccione una de las siguientes opciones para continuar",
+      "turkish": "Devam etmek için seçeneklerden birini işaretle"
     },
     "header-subtitle-name": {
       "dutch": "Uw {{appName}}-portemonnee met één klik",
@@ -207,7 +225,8 @@
       "korean": "한 번의 클릭으로 {{appName}} 지갑",
       "mandarin": "一键点击您的 {{appName}} 钱包",
       "portuguese": "Sua carteira {{appName}} com um clique",
-      "spanish": "Su billetera {{appName}} con un solo clic"
+      "spanish": "Su billetera {{appName}} con un solo clic",
+      "turkish": "Tek tıklama ile {{appName}} cüzdanınız"
     },
     "header-subtitle-new": {
       "dutch": "Uw blockchain-portemonnee met één klik",
@@ -218,7 +237,8 @@
       "korean": "한 번의 클릭으로 블록체인 지갑",
       "mandarin": "一键点击您的区块链钱包",
       "portuguese": "Sua carteira de blockchain com um clique",
-      "spanish": "Su billetera blockchain con un solo clic"
+      "spanish": "Su billetera blockchain con un solo clic",
+      "turkish": "Tek tıklama ile blockchain cüzdanınız"
     },
     "header-title": {
       "dutch": "Aanmelden",
@@ -229,7 +249,8 @@
       "korean": "로그인",
       "mandarin": "登录",
       "portuguese": "Entrar",
-      "spanish": "Iniciar sesión"
+      "spanish": "Iniciar sesión",
+      "turkish": "Giriş yap"
     },
     "header-tooltip-desc": {
       "dutch": "De portemonnee dient als een account om uw digitale activa op de blockchain op te slaan en te beheren.",
@@ -240,7 +261,8 @@
       "korean": "지갑은 블록체인에서 디지털 자산을 저장하고 관리하는 데 사용되는 계정입니다.",
       "mandarin": "钱包作为一个账户用于在区块链上存储和管理您的数字资产。",
       "portuguese": "A carteira serve como uma conta para armazenar e gerenciar seus ativos digitais na blockchain.",
-      "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la cadena de bloques."
+      "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la cadena de bloques.",
+      "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür."
     },
     "header-tooltip-title": {
       "dutch": "Portemonnee",
@@ -251,7 +273,8 @@
       "korean": "지갑",
       "mandarin": "钱包",
       "portuguese": "Carteira",
-      "spanish": "Billetera"
+      "spanish": "Billetera",
+      "turkish": "Cüzdan"
     },
     "network.add-request": {
       "dutch": "Deze site vraagt om een netwerk toe te voegen",
@@ -262,7 +285,8 @@
       "korean": "이 사이트는 네트워크 추가를 요청하고 있습니다",
       "mandarin": "此站点正在请求添加网络",
       "portuguese": "Este site está solicitando adicionar uma rede",
-      "spanish": "Este sitio está solicitando agregar una red"
+      "spanish": "Este sitio está solicitando agregar una red",
+      "turkish": "Bu site bir ağ eklemek istiyor"
     },
     "network.cancel": {
       "dutch": "Annuleren",
@@ -273,7 +297,8 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
-      "spanish": "Cancelar"
+      "spanish": "Cancelar",
+      "turkish": "İptal"
     },
     "network.from": {
       "dutch": "Van",
@@ -284,7 +309,8 @@
       "korean": "보낸 사람",
       "mandarin": "从",
       "portuguese": "De",
-      "spanish": "De"
+      "spanish": "De",
+      "turkish": "Nereden"
     },
     "network.proceed": {
       "dutch": "Doorgaan",
@@ -295,7 +321,8 @@
       "korean": "진행",
       "mandarin": "继续",
       "portuguese": "Prosseguir",
-      "spanish": "Continuar"
+      "spanish": "Continuar",
+      "turkish": "Devam"
     },
     "network.switch-request": {
       "dutch": "Deze site vraagt om over te schakelen naar een ander netwerk",
@@ -306,7 +333,8 @@
       "korean": "이 사이트는 네트워크 전환을 요청하고 있습니다",
       "mandarin": "此站点正在请求切换网络",
       "portuguese": "Este site está solicitando trocar de rede",
-      "spanish": "Este sitio está solicitando cambiar de red"
+      "spanish": "Este sitio está solicitando cambiar de red",
+      "turkish": "Bu site ağ değiştirmeyi talep ediyor"
     },
     "network.to": {
       "dutch": "Naar",
@@ -317,7 +345,8 @@
       "korean": "에게",
       "mandarin": "至",
       "portuguese": "Para",
-      "spanish": "A"
+      "spanish": "A",
+      "turkish": "Nereye"
     },
     "popup.phone-body": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u handmatig de juiste landcode invoeren.",
@@ -328,7 +357,8 @@
       "korean": "국가 코드는 자동으로 감지됩니다. 그러나 다른 국가의 전화 번호를 사용하는 경우 올바른 국가 코드를 수동으로 입력해야 합니다.",
       "mandarin": "您的国家代码将自动检测到，但如果您使用其他国家/地区的电话号码，您需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se estiver usando um número de telefone de um país diferente, você precisará inserir manualmente o código correto do país.",
-      "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de otro país, deberá ingresar manualmente el código de país correcto."
+      "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de otro país, deberá ingresar manualmente el código de país correcto.",
+      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir."
     },
     "popup.phone-header": {
       "dutch": "Telefoonnummer en landcode",
@@ -339,7 +369,8 @@
       "korean": "전화 번호 및 국가 코드",
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código do país",
-      "spanish": "Número de teléfono y código de país"
+      "spanish": "Número de teléfono y código de país",
+      "turkish": "Telefon numarası ve ülke kodu"
     },
     "social.continue": {
       "dutch": "Doorgaan met",
@@ -350,7 +381,8 @@
       "korean": "계속하기",
       "mandarin": "继续",
       "portuguese": "Continuar com",
-      "spanish": "Continuar con"
+      "spanish": "Continuar con",
+      "turkish": "Devam et: "
     },
     "social.continueCustom": {
       "dutch": "Doorgaan met {{adapter}}",
@@ -361,7 +393,8 @@
       "korean": "{{adapter}}을 계속하십시오",
       "mandarin": "继续使用{{adapter}}",
       "portuguese": "Continue com o {{adapter}}",
-      "spanish": "Continuar con {{adapter}}"
+      "spanish": "Continuar con {{adapter}}",
+      "turkish": "{{adapter}} ile devam et"
     },
     "social.email": {
       "dutch": "E-mail",
@@ -372,7 +405,8 @@
       "korean": "이메일",
       "mandarin": "电子邮件",
       "portuguese": "Email",
-      "spanish": "Correo electrónico"
+      "spanish": "Correo electrónico",
+      "turkish": "E-posta"
     },
     "social.email-continue": {
       "dutch": "Doorgaan met e-mail",
@@ -383,7 +417,8 @@
       "korean": "이메일로 계속하기",
       "mandarin": "继续使用电子邮件",
       "portuguese": "Continuar com email",
-      "spanish": "Continuar con correo electrónico"
+      "spanish": "Continuar con correo electrónico",
+      "turkish": "E-posta ile devam et"
     },
     "social.email-new": {
       "dutch": "naam@voorbeeld.com",
@@ -394,7 +429,8 @@
       "korean": "name@example.com",
       "mandarin": "name@example.com",
       "portuguese": "nome@exemplo.com",
-      "spanish": "nombre@ejemplo.com"
+      "spanish": "nombre@ejemplo.com",
+      "turkish": "isim@ornek.com"
     },
     "social.passwordless-cta": {
       "dutch": "Doorgaan",
@@ -405,7 +441,8 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar",
-      "spanish": "Continuar"
+      "spanish": "Continuar",
+      "turkish": "Devam et"
     },
     "social.passwordless-title": {
       "dutch": "E-mail of telefoon",
@@ -416,7 +453,8 @@
       "korean": "이메일 또는 전화",
       "mandarin": "邮件或电话",
       "portuguese": "Email ou telefone",
-      "spanish": "Email o teléfono"
+      "spanish": "Email o teléfono",
+      "turkish": "E-posta veya Telefon"
     },
     "social.phone": {
       "dutch": "Telefoon",
@@ -427,7 +465,8 @@
       "korean": "핸드폰",
       "mandarin": "电话",
       "portuguese": "Telefone",
-      "spanish": "Teléfono"
+      "spanish": "Teléfono",
+      "turkish": "Telefon"
     },
     "social.policy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
@@ -438,7 +477,8 @@
       "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
-      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
     "social.sms": {
       "dutch": "Mobiel",
@@ -449,7 +489,8 @@
       "korean": "모바일",
       "mandarin": "移动",
       "portuguese": "Móvel",
-      "spanish": "Móvil"
+      "spanish": "Móvil",
+      "turkish": "Mobil Telefon"
     },
     "social.sms-continue": {
       "dutch": "Doorgaan met mobiel",
@@ -460,7 +501,8 @@
       "korean": "모바일로 계속하기",
       "mandarin": "继续使用移动设备",
       "portuguese": "Continuar com o celular",
-      "spanish": "Continuar con móvil"
+      "spanish": "Continuar con móvil",
+      "turkish": "Telefon ile devam et"
     },
     "social.sms-invalid-number": {
       "dutch": "Ongeldig telefoonnummer",
@@ -471,7 +513,8 @@
       "korean": "유효하지 않은 전화 번호",
       "mandarin": "无效的电话号码",
       "portuguese": "Número de telefone inválido",
-      "spanish": "Número de teléfono inválido"
+      "spanish": "Número de teléfono inválido",
+      "turkish": "Geçersiz telefon numarası"
     },
     "social.sms-placeholder-text": {
       "dutch": "Bijv.:",
@@ -482,7 +525,8 @@
       "korean": "예시:",
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
-      "spanish": "Por ej.:"
+      "spanish": "Por ej.:",
+      "turkish": "Örneğin:"
     },
     "social.view-less": {
       "dutch": "Minder opties bekijken",
@@ -493,7 +537,8 @@
       "korean": "더 적은 옵션 보기",
       "mandarin": "查看较少选项",
       "portuguese": "Ver menos opções",
-      "spanish": "Ver menos opciones"
+      "spanish": "Ver menos opciones",
+      "turkish": "Daha az seçenek görüntüle"
     },
     "social.view-less-new": {
       "dutch": "Minder bekijken",
@@ -504,7 +549,8 @@
       "korean": "더 적게 보기",
       "mandarin": "查看较少",
       "portuguese": "Ver menos",
-      "spanish": "Ver menos"
+      "spanish": "Ver menos",
+      "turkish": "Daha az görüntüle"
     },
     "social.view-more": {
       "dutch": "Meer opties bekijken",
@@ -515,7 +561,8 @@
       "korean": "더 많은 옵션 보기",
       "mandarin": "查看更多选项",
       "portuguese": "Ver mais opções",
-      "spanish": "Ver más opciones"
+      "spanish": "Ver más opciones",
+      "turkish": "Daha fazla seçenek görüntüle"
     },
     "social.view-more-new": {
       "dutch": "Meer bekijken",
@@ -526,7 +573,8 @@
       "korean": "더보기",
       "mandarin": "查看更多",
       "portuguese": "Ver mais",
-      "spanish": "Ver más"
+      "spanish": "Ver más",
+      "turkish": "Daha fazla görüntüle"
     },
     "post-loading.connected": {
       "dutch": "U bent verbonden met uw account",
@@ -537,7 +585,8 @@
       "korean": "귀하는 귀하의 계정과 연결되어 있습니다",
       "mandarin": "您与您的帐户有联系",
       "portuguese": "Você está conectado com sua conta",
-      "spanish": "Estás conectado con tu cuenta"
+      "spanish": "Estás conectado con tu cuenta",
+      "turkish": "Hesabınızla bağlandınız"
     },
     "post-loading.something-wrong": {
       "dutch": "Er is iets fout gegaan!",
@@ -548,7 +597,8 @@
       "korean": "뭔가 잘못되었습니다!",
       "mandarin": "出了些问题！",
       "portuguese": "Algo deu errado!",
-      "spanish": "¡Algo salió mal!"
+      "spanish": "¡Algo salió mal!",
+      "turkish": "Bir şeyler ters gitti!"
     }
   }
 }

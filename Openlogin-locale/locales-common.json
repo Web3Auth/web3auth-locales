@@ -9,7 +9,8 @@
       "korean": "고급 옵션",
       "mandarin": "高级选项",
       "portuguese": "Opções avançadas",
-      "spanish": "Opciones avanzadas"
+      "spanish": "Opciones avanzadas",
+      "turkish": "Gelişmiş Seçenekler"
     },
     "back-to-download": {
       "dutch": "Terug naar download herstel Factor",
@@ -20,7 +21,8 @@
       "korean": "이메일 수정",
       "mandarin": "编辑电子邮件",
       "portuguese": "Editar e-mail",
-      "spanish": "Editar correo electrónico"
+      "spanish": "Editar correo electrónico",
+      "turkish": "Kurtarma Faktörünü indirmek için geri dön"
     },
     "backup-phrase-copied": {
       "dutch": "Herstelzin gekopieerd",
@@ -31,7 +33,8 @@
       "korean": "백업 문구 복사됨",
       "mandarin": "备份短语已复制",
       "portuguese": "Frase de backup copiada",
-      "spanish": "Frase de respaldo copiada"
+      "spanish": "Frase de respaldo copiada",
+      "turkish": "Yedekleme ifadesi kopyalandı"
     },
     "cancel": {
       "dutch": "Annuleren",
@@ -42,7 +45,8 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
-      "spanish": "Cancelar"
+      "spanish": "Cancelar",
+      "turkish": "İptal"
     },
     "close": {
       "dutch": "Sluiten",
@@ -53,7 +57,8 @@
       "korean": "닫기",
       "mandarin": "关闭",
       "portuguese": "Fechar",
-      "spanish": "Cerrar"
+      "spanish": "Cerrar",
+      "turkish": "Kapat"
     },
     "confirm": {
       "dutch": "Bevestigen",
@@ -64,7 +69,8 @@
       "korean": "확인",
       "mandarin": "确认",
       "portuguese": "Confirmar",
-      "spanish": "Confirmar"
+      "spanish": "Confirmar",
+      "turkish": "Onayla"
     },
     "copier-copied": {
       "dutch": "Gekopieerd!",
@@ -75,7 +81,8 @@
       "korean": "복사되었습니다!",
       "mandarin": "复制！",
       "portuguese": "Copiado!",
-      "spanish": "Copiado!"
+      "spanish": "Copiado!",
+      "turkish": "Kopyalandı!"
     },
     "copier-copy": {
       "dutch": "Kopiëren naar klembord",
@@ -86,7 +93,8 @@
       "korean": "클립 보드에 복사",
       "mandarin": "复制到剪贴板",
       "portuguese": "Copiar para área de transferência",
-      "spanish": "Copiar al portapapeles"
+      "spanish": "Copiar al portapapeles",
+      "turkish": "Panoya kopyala"
     },
     "copier-manage-account": {
       "dutch": "Account beheren",
@@ -97,7 +105,8 @@
       "korean": "계정 관리",
       "mandarin": "管理帐户",
       "portuguese": "Gerenciar conta",
-      "spanish": "Administrar cuenta"
+      "spanish": "Administrar cuenta",
+      "turkish": "Hesabı yönet"
     },
     "copier-privacy-policy": {
       "dutch": "Privacybeleid",
@@ -108,7 +117,8 @@
       "korean": "개인 정보 정책",
       "mandarin": "隐私政策",
       "portuguese": "Política de privacidade",
-      "spanish": "Política de privacidad"
+      "spanish": "Política de privacidad",
+      "turkish": "Gizlilik Politikası"
     },
     "copier-terms-of-use": {
       "dutch": "Gebruiksvoorwaarden",
@@ -119,7 +129,8 @@
       "korean": "이용 약관",
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
-      "spanish": "Condiciones de uso"
+      "spanish": "Condiciones de uso",
+      "turkish": "Kullanım Şartları"
     },
     "copy-backup-phrase": {
       "dutch": "Herstelzin kopiëren",
@@ -130,7 +141,8 @@
       "korean": "백업 문구 복사",
       "mandarin": "复制备份短语",
       "portuguese": "Copiar Frase de Backup",
-      "spanish": "Copiar frase de respaldo"
+      "spanish": "Copiar frase de respaldo",
+      "turkish": "Yedekleme İfadesini Kopyala"
     },
     "copy-paste": {
       "dutch": "Kopiëren en plakken",
@@ -141,7 +153,8 @@
       "korean": "복사 및 붙여넣기",
       "mandarin": "复制和粘贴",
       "portuguese": "Copiar e colar",
-      "spanish": "Copiar y pegar"
+      "spanish": "Copiar y pegar",
+      "turkish": "Kopyala ve yapıştır"
     },
     "copy-recovery-phrase": {
       "dutch": "Herstelzin kopiëren",
@@ -152,7 +165,8 @@
       "korean": "복구 문구 복사",
       "mandarin": "复制助记词",
       "portuguese": "Copiar frase de recuperação",
-      "spanish": "Copiar frase de recuperación"
+      "spanish": "Copiar frase de recuperación",
+      "turkish": "Kurtarma ifadesini kopyala"
     },
     "device": {
       "dutch": "Apparaat",
@@ -163,7 +177,8 @@
       "korean": "장치",
       "mandarin": "设备",
       "portuguese": "Dispositivo",
-      "spanish": "Dispositivo"
+      "spanish": "Dispositivo",
+      "turkish": "Cihaz"
     },
     "devices": {
       "dutch": "Apparaten",
@@ -174,7 +189,8 @@
       "korean": "장치",
       "mandarin": "设备",
       "portuguese": "Dispositivo (s)",
-      "spanish": "Dispositivo (s)"
+      "spanish": "Dispositivo (s)",
+      "turkish": "Cihaz(lar)"
     },
     "edit-email": {
       "dutch": "Wijzig email",
@@ -185,7 +201,8 @@
       "korean": "이메일 수정",
       "mandarin": "编辑电子邮件",
       "portuguese": "Editar e-mail",
-      "spanish": "Editar correo electrónico"
+      "spanish": "Editar correo electrónico",
+      "turkish": "E-postayı düzenle"
     },
     "errors-incorrect-mnemonic": {
       "dutch": "Onjuiste gedeelde mnemonische code",
@@ -196,7 +213,8 @@
       "korean": "잘못된 공유 니모닉",
       "mandarin": "不正确的共享助记符",
       "portuguese": "Mnemônico de compartilhamento incorreto",
-      "spanish": "Mnemónico compartido incorrecto"
+      "spanish": "Mnemónico compartido incorrecto",
+      "turkish": "Hatalı mnemonic parçası"
     },
     "errors-incorrect-password": {
       "dutch": "Onjuist wachtwoord",
@@ -207,7 +225,8 @@
       "korean": "잘못된 비밀번호",
       "mandarin": "密码错误",
       "portuguese": "Senha incorreta",
-      "spanish": "Contraseña incorrecta"
+      "spanish": "Contraseña incorrecta",
+      "turkish": "Hatalı parola"
     },
     "errors-invalid-email": {
       "dutch": "Ongeldig e-mailadres",
@@ -218,7 +237,8 @@
       "korean": "잘못된 이메일",
       "mandarin": "不合规电邮",
       "portuguese": "E-mail inválido",
-      "spanish": "Email inválido"
+      "spanish": "Email inválido",
+      "turkish": "Hatalı e-posta"
     },
     "errors-invalid-mnemonic": {
       "dutch": "Ongeldige mnemonische zin",
@@ -229,7 +249,8 @@
       "korean": "잘못된 니모닉 문구",
       "mandarin": "助记词短语无效",
       "portuguese": "Frase mnemônica inválida",
-      "spanish": "Frase mnemotécnica no válida"
+      "spanish": "Frase mnemotécnica no válida",
+      "turkish": "Geçersiz mnemonic"
     },
     "errors-invalid-password": {
       "dutch": "Moet minimaal 10 tekens bevatten. Minimaal één hoofdletter, één kleine letter, één cijfer",
@@ -240,7 +261,8 @@
       "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자, 하나의 숫자",
       "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
       "portuguese": "Deve conter pelo menos 10 caracteres. Pelo menos uma letra maiúscula, uma letra minúscula, um número",
-      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número"
+      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
+      "turkish": "En az 10 karakter içermelidir. En az bir büyük harf, bir küçük harf, bir rakam."
     },
     "errors-mismatch-password": {
       "dutch": "Wachtwoord moet overeenkomen",
@@ -251,7 +273,8 @@
       "korean": "암호가 일치해야합니다",
       "mandarin": "密码必须匹配",
       "portuguese": "A senha deve ser igual",
-      "spanish": "Contraseña debe coincidir con"
+      "spanish": "Contraseña debe coincidir con",
+      "turkish": "Şifre eşleşmelidir"
     },
     "errors-required": {
       "dutch": "Verplicht",
@@ -262,7 +285,8 @@
       "korean": "필수",
       "mandarin": "必需的",
       "portuguese": "Requerido",
-      "spanish": "Requerido"
+      "spanish": "Requerido",
+      "turkish": "Zorunlu"
     },
     "errors-same-email-verifier": {
       "dutch": "E-mail kan niet hetzelfde zijn als de sociale login-ID",
@@ -273,7 +297,8 @@
       "korean": "이메일은 소셜 로그인 ID와 동일 할 수 없습니다.",
       "mandarin": "电子邮件不能与社交登录ID相同",
       "portuguese": "O email não pode ser o mesmo que o ID de login social",
-      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
+      "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social",
+      "turkish": "E-posta sosyal medya giriş kimliğiyle aynı olamaz"
     },
     "factor1-social-login": {
       "dutch": "Factor 1: Sociale login",
@@ -284,7 +309,8 @@
       "korean": "요소 1: 소셜 로그인",
       "mandarin": "因素 1：社交登录",
       "portuguese": "Fator 1: Login social",
-      "spanish": "Factor 1: inicio de sesión social"
+      "spanish": "Factor 1: inicio de sesión social",
+      "turkish": "1. Faktör: Sosyal Medya Girişi"
     },
     "factor2-devices": {
       "dutch": "Factor 2: Apparaat (en)",
@@ -295,7 +321,8 @@
       "korean": "요소 2: 장치(들)",
       "mandarin": "因素 2：设备",
       "portuguese": "Fator 2: Dispositivo(s)",
-      "spanish": "Factor 2: Dispositivo(s)"
+      "spanish": "Factor 2: Dispositivo(s)",
+      "turkish": "2. Faktör: Cihaz(lar)"
     },
     "factor3-social-recovery": {
       "dutch": "Factor 3: Sociaal herstel",
@@ -306,7 +333,8 @@
       "korean": "요인 3: 사회적 회복",
       "mandarin": "因素 3：社会恢复",
       "portuguese": "Fator 3: Recuperação Social",
-      "spanish": "Factor 3: Recuperación Social"
+      "spanish": "Factor 3: Recuperación Social",
+      "turkish": "3. Faktör: Sosyal Medya ile Kurtar"
     },
     "hide-options": {
       "dutch": "Opties verbergen",
@@ -317,7 +345,8 @@
       "korean": "숨기기 옵션",
       "mandarin": "隐藏选项",
       "portuguese": "Ocultar opções",
-      "spanish": "Ocultar opciones"
+      "spanish": "Ocultar opciones",
+      "turkish": "Seçenekleri Gizle"
     },
     "last-accessed-on": {
       "dutch": "Laatst bezocht op:",
@@ -328,7 +357,8 @@
       "korean": "마지막으로 액세스한 날짜:",
       "mandarin": "最后访问时间：",
       "portuguese": "Último acesso em:",
-      "spanish": "Último acceso el:"
+      "spanish": "Último acceso el:",
+      "turkish": "Son Giriş:"
     },
     "learn-more": {
       "dutch": "Meer informatie",
@@ -339,7 +369,8 @@
       "korean": "더 알아보기",
       "mandarin": "更多详情",
       "portuguese": "Saber mais",
-      "spanish": "Aprende más"
+      "spanish": "Aprende más",
+      "turkish": "Daha fazla bilgi edinin"
     },
     "loader-device-detecting": {
       "dutch": "Uw apparaat word gedetecteerd",
@@ -350,7 +381,8 @@
       "korean": "장치 감지",
       "mandarin": "检测您的设备",
       "portuguese": "Detectando seu dispositivo",
-      "spanish": "Detectando su dispositivo"
+      "spanish": "Detectando su dispositivo",
+      "turkish": "Cihazınız algılanıyor"
     },
     "loader-secure-login": {
       "dutch": "Inloggen beveiligen met tKey",
@@ -361,7 +393,8 @@
       "korean": "tKey로 로그인 보안",
       "mandarin": "使用tKey保护登录",
       "portuguese": "Protegendo o login com tKey",
-      "spanish": "Asegurar el inicio de sesión con tKey"
+      "spanish": "Asegurar el inicio de sesión con tKey",
+      "turkish": "tKey ile giriş güvenliği sağlanıyor"
     },
     "new-device-detected": {
       "dutch": "Nieuw apparaat gedetecteerd",
@@ -372,7 +405,8 @@
       "korean": "새 장치 감지됨",
       "mandarin": "检测到新设备",
       "portuguese": "Novo dispositivo detectado",
-      "spanish": "Nuevo dispositivo detectado"
+      "spanish": "Nuevo dispositivo detectado",
+      "turkish": "Yeni cihaz algılandı"
     },
     "or": {
       "dutch": "of",
@@ -383,7 +417,8 @@
       "korean": "또는",
       "mandarin": "或者",
       "portuguese": "ou",
-      "spanish": "o"
+      "spanish": "o",
+      "turkish": "veya"
     },
     "other-factor-pwd": {
       "dutch": "Andere factoren: wachtwoord",
@@ -393,7 +428,8 @@
       "korean": "기타 요소: 비밀번호",
       "mandarin": "其他因素：密码",
       "portuguese": "Outros fatores: senha",
-      "spanish": "Otros factores: contraseña"
+      "spanish": "Otros factores: contraseña",
+      "turkish": "Diğer Faktörler : Şifre"
     },
     "password": {
       "dutch": "Wachtwoord",
@@ -404,7 +440,8 @@
       "korean": "암호",
       "mandarin": "密码",
       "portuguese": "Senha",
-      "spanish": "Password"
+      "spanish": "Password",
+      "turkish": "Şifre"
     },
     "password-label": {
       "dutch": "Voer wachtwoord in",
@@ -415,7 +452,8 @@
       "korean": "암호를 입력",
       "mandarin": "输入密码",
       "portuguese": "Digite a senha",
-      "spanish": "Ingresa tu password"
+      "spanish": "Ingresa tu password",
+      "turkish": "Şifrenizi girin"
     },
     "phone": {
       "dutch": "Telefoon",
@@ -426,7 +464,8 @@
       "korean": "핸드폰",
       "mandarin": "电话",
       "portuguese": "Telefone",
-      "spanish": "Teléfono"
+      "spanish": "Teléfono",
+      "turkish": "Telefon"
     },
     "powered-by": {
       "dutch": "Mogelijk gemaakt door",
@@ -437,7 +476,8 @@
       "korean": "으로",
       "mandarin": "通过",
       "portuguese": "Provido por",
-      "spanish": "por"
+      "spanish": "por",
+      "turkish": "Powered by"
     },
     "recovery-phrase-copied": {
       "dutch": "Herstelzin gekopieerd",
@@ -448,7 +488,8 @@
       "korean": "복구 문구 복사됨",
       "mandarin": "助记词已复制",
       "portuguese": "Frase de Recuperação Copiada",
-      "spanish": "Frase de recuperación copiada"
+      "spanish": "Frase de recuperación copiada",
+      "turkish": "Kurtarma İfadesi Kopyalandı"
     },
     "recoveryFactor": {
       "dutch": "Herstelfactor",
@@ -459,7 +500,8 @@
       "korean": "복구 계수",
       "mandarin": "恢复因子",
       "portuguese": "Fator de recuperação",
-      "spanish": "Factor de recuperación"
+      "spanish": "Factor de recuperación",
+      "turkish": "Kurtarma Faktörü"
     },
     "referenceId": {
       "dutch": "Referentie-ID:",
@@ -470,7 +512,8 @@
       "korean": "참조 ID :",
       "mandarin": "参考编号：",
       "portuguese": "ID de referência:",
-      "spanish": "Identificación de referencia:"
+      "spanish": "Identificación de referencia:",
+      "turkish": "Referans Kimliği:"
     },
     "resend-recovery": {
       "dutch": "Herstelfactor opnieuw verzenden",
@@ -481,7 +524,8 @@
       "korean": "복구 팩터 재전송",
       "mandarin": "重新发送恢复因子",
       "portuguese": "Reenviar Fator de Recuperação",
-      "spanish": "Factor de recuperación de reenvío"
+      "spanish": "Factor de recuperación de reenvío",
+      "turkish": "Kurtarma Faktörünü Yeniden Gönder"
     },
     "secured-by": {
       "dutch": "Beveiligd door",
@@ -492,7 +536,8 @@
       "korean": "보안",
       "mandarin": "担保人",
       "portuguese": "Assegurado por",
-      "spanish": "Asegurado por"
+      "spanish": "Asegurado por",
+      "turkish": "Secured by"
     },
     "selfCustodial": {
       "dutch": "Zelfbewarend inloggen door",
@@ -503,7 +548,8 @@
       "korean": "자가 관리 로그인",
       "mandarin": "自托管登录由",
       "portuguese": "Login autocustodial por",
-      "spanish": "Inicio de sesión con autocustodia por"
+      "spanish": "Inicio de sesión con autocustodia por",
+      "turkish": "Öz-yönetimli giriş yapan:"
     },
     "social": {
       "dutch": "Sociaal",
@@ -514,7 +560,8 @@
       "korean": "사회의",
       "mandarin": "社会的",
       "portuguese": "Social",
-      "spanish": "Social"
+      "spanish": "Social",
+      "turkish": "Sosyal"
     },
     "socialFactor": {
       "dutch": "Sociale factor",
@@ -525,7 +572,8 @@
       "korean": "사회적 요인",
       "mandarin": "社会因素",
       "portuguese": "Fator Social",
-      "spanish": "Factor social"
+      "spanish": "Factor social",
+      "turkish": "Sosyal Medya Faktörü"
     },
     "socialLogin": {
       "dutch": "Sociale login",
@@ -536,7 +584,8 @@
       "korean": "소셜 로그인",
       "mandarin": "社交登录",
       "portuguese": "Login social",
-      "spanish": "Inicio de sesión social"
+      "spanish": "Inicio de sesión social",
+      "turkish": "Sosyal medya girişi"
     },
     "toast-backup-phase-email-send-success": {
       "dutch": "Back-upzin verzonden naar uw e-mail",
@@ -547,7 +596,8 @@
       "korean": "이메일로 전송 된 백업 문구",
       "mandarin": "备用词组已发送到您的电子邮件",
       "portuguese": "Frase de segurança enviada para o seu e-mail",
-      "spanish": "Frase de seguridad enviada a su correo electrónico"
+      "spanish": "Frase de seguridad enviada a su correo electrónico",
+      "turkish": "Yedekleme ifadesi e-postanıza gönderildi"
     },
     "toast-backup-phase-email-send-timeout": {
       "dutch": "Time-out bij het verzenden van de back-upzin naar uw e-mail. Download in plaats daarvan de back-upzin",
@@ -558,7 +608,8 @@
       "korean": "백업 문구를 이메일로 보낼 때 시간이 초과되었습니다. 대신 백업 문구를 다운로드하십시오",
       "mandarin": "将备份短语发送到您的电子邮件时超时。 请改为下载备份短语",
       "portuguese": "Tempo limite ao enviar a frase de backup para o seu e-mail. Em vez disso, baixe a frase de backup",
-      "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar"
+      "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar",
+      "turkish": "E-postanıza yedekleme ifadesi gönderilirken zaman aşımına uğradı. Lütfen yedekleme ifadesini indirin."
     },
     "toast-backup-phase-send-fail": {
       "dutch": "Kan back-upzin niet verzenden",
@@ -569,7 +620,8 @@
       "korean": "백업 문구를 보낼 수 없습니다.",
       "mandarin": "无法发送备份短语",
       "portuguese": "Não foi possível enviar a frase de backup",
-      "spanish": "No se pudo enviar la frase de respaldo"
+      "spanish": "No se pudo enviar la frase de respaldo",
+      "turkish": "Yedekleme ifadesi gönderilemiyor"
     },
     "toast-backup-phase-send-success": {
       "dutch": "Back-upzin succesvol verzonden",
@@ -580,7 +632,8 @@
       "korean": "백업 문구를 성공적으로 보냈습니다.",
       "mandarin": "备份词组已成功发送",
       "portuguese": "Frase de backup enviada com sucesso",
-      "spanish": "Frase de seguridad enviada con éxito"
+      "spanish": "Frase de seguridad enviada con éxito",
+      "turkish": "Yedekleme ifadesi başarıyla gönderildi"
     },
     "toast-backup-share-verification-fail": {
       "dutch": "Verificatie van gedeelde back-up is mislukt",
@@ -591,7 +644,8 @@
       "korean": "백업 공유 확인 실패",
       "mandarin": "备份共享验证失败",
       "portuguese": "Falha na verificação do compartilhamento de backup",
-      "spanish": "Error en la verificación del recurso compartido de copia de seguridad"
+      "spanish": "Error en la verificación del recurso compartido de copia de seguridad",
+      "turkish": "Yedekleme parçası doğrulanamadı"
     },
     "toast-device-share-delete-fail": {
       "dutch": "Verwijderen van gedeelde apparaat is mislukt",
@@ -602,7 +656,8 @@
       "korean": "기기 공유 삭제 실패",
       "mandarin": "设备共享删除失败",
       "portuguese": "Falha na exclusão do compartilhamento do dispositivo",
-      "spanish": "No se pudo eliminar el dispositivo compartido"
+      "spanish": "No se pudo eliminar el dispositivo compartido",
+      "turkish": "Cihaz şifresi silinemedi"
     },
     "toast-device-share-delete-success": {
       "dutch": "Apparaat delen succesvol verwijderd",
@@ -613,7 +668,8 @@
       "korean": "장치 공유가 성공적으로 삭제되었습니다.",
       "mandarin": "设备共享已成功删除",
       "portuguese": "Compartilhamento de dispositivo excluído com sucesso",
-      "spanish": "Dispositivo compartido eliminado correctamente"
+      "spanish": "Dispositivo compartido eliminado correctamente",
+      "turkish": "Cihaz şifresi başarıyla silindi"
     },
     "toast-password-change-fail": {
       "dutch": "Wachtwoordwijziging mislukt",
@@ -624,7 +680,8 @@
       "korean": "비밀번호 변경 실패",
       "mandarin": "密码更改失败",
       "portuguese": "Falha na alteração da senha",
-      "spanish": "Cambio de contraseña fallido"
+      "spanish": "Cambio de contraseña fallido",
+      "turkish": "Şifre değiştirilemedi"
     },
     "toast-password-change-success": {
       "dutch": "Wachtwoord succesvol gewijzigd",
@@ -635,7 +692,8 @@
       "korean": "비밀번호가 성공적으로 변경되었습니다.",
       "mandarin": "密码修改成功",
       "portuguese": "Senha alterada com sucesso",
-      "spanish": "Contraseña cambiada correctamente"
+      "spanish": "Contraseña cambiada correctamente",
+      "turkish": "Şifre başarıyla değiştirildi"
     },
     "toast-password-verification-fail": {
       "dutch": "Wachtwoordverificatie mislukt",
@@ -646,7 +704,8 @@
       "korean": "비밀번호 확인 실패",
       "mandarin": "密码验证失败",
       "portuguese": "A verificação da senha falhou",
-      "spanish": "Falló la verificación de la contraseña"
+      "spanish": "Falló la verificación de la contraseña",
+      "turkish": "Şifre doğrulaması başarısız"
     },
     "toast-recovery-share-delete-fail": {
       "dutch": "Het verwijderen van de herstelshare is mislukt",
@@ -657,7 +716,8 @@
       "korean": "복구 공유 삭제 실패",
       "mandarin": "恢复共享删除失败",
       "portuguese": "A exclusão do compartilhamento de recuperação falhou",
-      "spanish": "Error al eliminar el recurso compartido de recuperación"
+      "spanish": "Error al eliminar el recurso compartido de recuperación",
+      "turkish": "Kurtarma ifadesi silinemedi"
     },
     "toast-recovery-share-delete-success": {
       "dutch": "Herstelshare succesvol verwijderd",
@@ -668,7 +728,8 @@
       "korean": "복구 공유가 성공적으로 삭제되었습니다.",
       "mandarin": "恢复共享已成功删除",
       "portuguese": "Compartilhamento de recuperação excluído com sucesso",
-      "spanish": "El recurso compartido de recuperación se eliminó correctamente"
+      "spanish": "El recurso compartido de recuperación se eliminó correctamente",
+      "turkish": "Kurtarma ifadesi başarıyla silindi"
     },
     "toast-registration-failed": {
       "dutch": "Registratie mislukt",
@@ -679,7 +740,8 @@
       "korean": "등록 실패",
       "mandarin": "注册失败",
       "portuguese": "Registro falhou",
-      "spanish": "Registro fallido"
+      "spanish": "Registro fallido",
+      "turkish": "Kayıt başarısız"
     },
     "toast-require-verification": {
       "dutch": "Vereis een andere verificatie-invoer",
@@ -690,7 +752,8 @@
       "korean": "다른 확인 입력 필요",
       "mandarin": "需要其他验证输入",
       "portuguese": "Exigir outra entrada de verificação",
-      "spanish": "Requerir otra entrada de verificación"
+      "spanish": "Requerir otra entrada de verificación",
+      "turkish": "Başka bir doğrulama girişi iste"
     },
     "toast-share-transfer-fail": {
       "dutch": "Delen mislukt",
@@ -701,7 +764,8 @@
       "korean": "공유 전송 실패",
       "mandarin": "股份转让失败",
       "portuguese": "Falha na transferência de compartilhamento",
-      "spanish": "Error al transferir el recurso compartido"
+      "spanish": "Error al transferir el recurso compartido",
+      "turkish": "Şifre parçası transfer edilemedi"
     },
     "toast-something-went-wrong": {
       "dutch": "Er is iets misgegaan",
@@ -712,7 +776,8 @@
       "korean": "문제가 발생했습니다",
       "mandarin": "出问题了",
       "portuguese": "Algo deu errado",
-      "spanish": "Algo salió mal"
+      "spanish": "Algo salió mal",
+      "turkish": "Bir şeyler ters gitti"
     },
     "upload-recovery-factor": {
       "dutch": "Herstelfactor uploaden",
@@ -723,7 +788,8 @@
       "korean": "회복 인자 업로드",
       "mandarin": "上传恢复因子",
       "portuguese": "Carregar Fator de Recuperação",
-      "spanish": "Subir factor de recuperación"
+      "spanish": "Subir factor de recuperación",
+      "turkish": "Kurtarma Faktörü yükle"
     },
     "verify": {
       "dutch": "Verifiëren",
@@ -734,7 +800,8 @@
       "korean": "검증",
       "mandarin": "核实",
       "portuguese": "Verificar",
-      "spanish": "Verificar"
+      "spanish": "Verificar",
+      "turkish": "Doğrula"
     },
     "verify-with-other-factors": {
       "dutch": "Verifiëren met andere factoren",
@@ -745,7 +812,8 @@
       "korean": "다른 요인으로 확인",
       "mandarin": "与其他因素验证",
       "portuguese": "Verifique com outros fatores",
-      "spanish": "Verificar con otros factores"
+      "spanish": "Verificar con otros factores",
+      "turkish": "Diğer faktörler ile doğrula"
     },
     "webAuthentication": {
       "dutch": "Webauthenticatie",
@@ -756,7 +824,8 @@
       "korean": "웹 인증",
       "mandarin": "网络认证",
       "portuguese": "Autenticação Web",
-      "spanish": "Autenticación web"
+      "spanish": "Autenticación web",
+      "turkish": "Web Kimlik Doğrulaması"
     }
   },
   "error-block": {
@@ -769,7 +838,8 @@
       "korean": "다음 필수 매개 변수 중 하나 이상이 누락되었거나 유효하지 않습니다.",
       "mandarin": "以下一个或多个必需参数缺失/无效",
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
-      "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos"
+      "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos",
+      "turkish": "Gerekli parametrelerden bir veya daha fazlası eksik/geçersiz"
     }
   }
 }
