@@ -285,6 +285,17 @@
       "portuguese": "E-mail",
       "french": "Email",
       "dutch": "E-mail"
+    },
+    "login": {
+      "english": "Login",
+      "german": "Anmeldung",
+      "japanese": "ログイン",
+      "korean": "로그인",
+      "mandarin": "登录",
+      "spanish": "Acceso",
+      "portuguese": "Conecte-se",
+      "dutch": "Log in",
+      "french": "Se connecter"
     }
   }
 }
