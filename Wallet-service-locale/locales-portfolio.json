@@ -784,15 +784,15 @@
       "french": "Vous n'avez pas encore de transactions"
     },
     "movingAssetMsg": {
-      "english": "Ones you start moving your assets, your transactions will appear here.",
-      "german": "Wenn Sie anfangen, Ihre Vermögenswerte zu verschieben, werden Ihre Transaktionen hier angezeigt.",
-      "japanese": "資産の移動を開始するもの、トランザクションがここに表示されます。",
-      "korean": "자산을 이동하기 시작하면 거래가 여기에 나타납니다.",
-      "mandarin": "您开始移动资产的人，您的交易将出现在这里。",
-      "spanish": "Los que comienzas a mover tus activos, tus transacciones aparecerán aquí.",
-      "portuguese": "Naqueles que você começa a mover seus ativos, suas transações aparecerão aqui.",
-      "dutch": "Degenen die u begint met het verplaatsen van uw activa, uw transacties verschijnen hier.",
-      "french": "Ceux que vous commencez à déplacer vos actifs, vos transactions apparaîtront ici."
+      "english": "Once you start moving your assets, your transactions will appear here.",
+      "german": "Sobald Sie Ihre Vermögenswerte verschieben, werden Ihre Transaktionen hier angezeigt.",
+      "japanese": "資産の移動を開始すると、トランザクションがここに表示されます。",
+      "korean": "자산 이동을 시작하면 거래가 여기에 나타납니다.",
+      "mandarin": "一旦您开始移动资产，您的交易就会出现在这里。",
+      "spanish": "Una vez que comience a mover sus activos, sus transacciones aparecerán aquí.",
+      "portuguese": "Depois de começar a mover seus ativos, suas transações aparecerão aqui.",
+      "dutch": "Zodra u begint met het verplaatsen van uw vermogen, verschijnen uw transacties hier.",
+      "french": "Une fois que vous commencerez à déplacer vos actifs, vos transactions apparaîtront ici."
     }
   },
   "home": {
@@ -918,15 +918,15 @@
       "french": "Vous n'avez pas encore de {0}"
     },
     "noTokenNftSubMsg": {
-      "english": "Ones you buy, receive or add any tokens, they will appear here.",
-      "german": "Diejenigen, die Sie kaufen, erhalten oder hinzufügen, werden sie hier erscheinen.",
-      "japanese": "トークンを購入、受け取り、追加するものは、ここに表示されます。",
-      "korean": "토큰을 사거나 받거나 추가하면 여기에 나타납니다.",
-      "mandarin": "您购买，接收或添加任何令牌的人将出现在这里。",
-      "spanish": "Los que compra, recibe o agregan tokens, aparecerán aquí.",
-      "portuguese": "Aqueles que você compra, recebe ou adiciona fichas, eles aparecerão aqui.",
-      "dutch": "Degenen die u koopt, ontvangt of toevoegt, zullen hier verschijnen.",
-      "french": "Ceux que vous achetez, recevez ou ajoutez des jetons, ils apparaîtront ici."
+      "english": "Once you buy, receive or add any {0}, they will appear here.",
+      "german": "Sobald Sie {0} gekauft, empfangen oder hinzufügen, werden sie hier angezeigt.",
+      "japanese": "{0}を購入、受信、追加すると、ここに表示されます。",
+      "korean": "{0}을 구매, 받거나 추가하면 여기에 나타납니다.",
+      "mandarin": "购买，接收或添加任何{0}后，它们将出现在此处。",
+      "spanish": "Una vez que compre, reciba o agregue cualquier {0}, aparecerán aquí.",
+      "portuguese": "Depois de comprar, receber ou adicionar qualquer {0}, eles aparecerão aqui.",
+      "dutch": "Nadat u een {0} hebt gekocht, ontvangt of toevoegt, verschijnen ze hier.",
+      "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici."
     },
     "receivedEth": {
       "english": "Received Ethereum",
