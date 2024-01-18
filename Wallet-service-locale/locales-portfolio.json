@@ -1350,6 +1350,116 @@
       "dutch": "Testnetwerken",
       "french": "Réseaux de test"
     },
+    "editCustomNetwork": {
+      "english": "Edit Custom Network",
+      "german": "Benutzerdefiniertes Netzwerk bearbeiten",
+      "japanese": "カスタムネットワークを編集します",
+      "korean": "사용자 정의 네트워크 편집",
+      "mandarin": "编辑自定义网络",
+      "spanish": "Editar red personalizada",
+      "portuguese": "Editar rede personalizada",
+      "dutch": "Bewerk aangepast netwerk",
+      "french": "Modifier le réseau personnalisé"
+    },
+    "invalidHex": {
+      "english": "Invalid hexadecimal number.",
+      "german": "Ungültige Hexadezimalzahl.",
+      "japanese": "無効な16進数。",
+      "korean": "유효하지 않은 16 진수.",
+      "mandarin": "无效的十六进制数。",
+      "spanish": "Número hexadecimal inválido.",
+      "portuguese": "Número hexadecimal inválido.",
+      "dutch": "Ongeldige hexadecimale nummer.",
+      "french": "Nombre hexadécimal non valide."
+    },
+    "enterNetworkName": {
+      "english": "Enter Network Name",
+      "german": "Geben Sie den Netzwerknamen ein",
+      "japanese": "ネットワーク名を入力します",
+      "korean": "네트워크 이름을 입력하십시오",
+      "mandarin": "输入网络名称",
+      "spanish": "Ingrese el nombre de la red",
+      "portuguese": "Digite o nome da rede",
+      "dutch": "Voer de netwerknaam in",
+      "french": "Entrez le nom du réseau"
+    },
+    "enterRpc": {
+      "english": "Enter RPC URL",
+      "german": "Geben Sie RPC -URL ein",
+      "japanese": "RPC URLを入力します",
+      "korean": "RPC URL을 입력하십시오",
+      "mandarin": "输入RPC URL",
+      "spanish": "Ingrese RPC URL",
+      "portuguese": "Digite RPC URL",
+      "dutch": "Voer RPC URL in",
+      "french": "Entrez l'URL du RPC"
+    },
+    "enterChainId": {
+      "english": "Enter Chain id",
+      "german": "Ketten -ID eingeben",
+      "japanese": "チェーンIDを入力します",
+      "korean": "체인 ID를 입력하십시오",
+      "mandarin": "输入链ID",
+      "spanish": "Ingrese la identificación de la cadena",
+      "portuguese": "Digite ID da corrente",
+      "dutch": "Voer ketting -ID in",
+      "french": "Entrez la chaîne ID"
+    },
+    "enterSymbol": {
+      "english": "Enter Symbol (optional)",
+      "german": "Symbol eingeben (optional)",
+      "japanese": "シンボルを入力する（オプション）",
+      "korean": "기호 입력 (선택 사항)",
+      "mandarin": "输入符号（可选）",
+      "spanish": "Ingrese el símbolo (opcional)",
+      "portuguese": "Digite o símbolo (opcional)",
+      "dutch": "Voer symbool in (optioneel)",
+      "french": "Entrez le symbole (facultatif)"
+    },
+    "enterBlockExplorer": {
+      "english": "Enter Block Explorer URL (optional)",
+      "german": "Geben Sie die Block -Explorer -URL ein (optional)",
+      "japanese": "ブロックエクスプローラーURL（オプション）を入力します",
+      "korean": "블록 탐색기 URL 입력 (선택 사항)",
+      "mandarin": "输入Block Explorer URL（可选）",
+      "spanish": "Ingrese a la URL de explorador de bloques (opcional)",
+      "portuguese": "Digite o URL do Block Explorer (opcional)",
+      "dutch": "Voer Block Explorer URL in (optioneel)",
+      "french": "Entrez l'URL de l'explorateur de blocs (facultatif)"
+    },
+    "save": {
+      "english": "Save",
+      "german": "Speichern",
+      "japanese": "保存",
+      "korean": "구하다",
+      "mandarin": "节省",
+      "spanish": "Ahorrar",
+      "portuguese": "Salvar",
+      "dutch": "Redden",
+      "french": "Sauvegarder"
+    },
+    "delete": {
+      "english": "Delete",
+      "german": "Löschen",
+      "japanese": "消去",
+      "korean": "삭제",
+      "mandarin": "删除",
+      "spanish": "Borrar",
+      "portuguese": "Excluir",
+      "dutch": "Verwijderen",
+      "french": "Supprimer"
+    },
+    "edit": {
+      "english": "Edit",
+      "german": "Bearbeiten",
+      "japanese": "編集",
+      "korean": "편집하다",
+      "mandarin": "编辑",
+      "spanish": "Editar",
+      "portuguese": "Editar",
+      "dutch": "Bewerking",
+      "french": "Modifier"
+    },
     "enableNetworksMsg": {
       "english": "Enable to see test networks",
       "german": "Aktivieren Sie Testnetzwerke",
@@ -1650,105 +1760,6 @@
       "portuguese": "Total MOCA XP",
       "dutch": "Totaal MOCA XP",
       "french": "Total MOCA XP"
-    },
-    "editCustomNetwork": {
-      "english": "Edit Custom Network",
-      "german": "Benutzerdefiniertes Netzwerk bearbeiten",
-      "japanese": "カスタムネットワークを編集します",
-      "korean": "사용자 정의 네트워크 편집",
-      "mandarin": "编辑自定义网络",
-      "spanish": "Editar red personalizada",
-      "portuguese": "Editar rede personalizada",
-      "dutch": "Bewerk aangepast netwerk",
-      "french": "Modifier le réseau personnalisé"
-    },
-    "addCustomNetwork": {
-      "english": "Add Custom Network",
-      "german": "Fügen Sie benutzerdefiniertes Netzwerk hinzu",
-      "japanese": "カスタムネットワークを追加します",
-      "korean": "사용자 정의 네트워크를 추가하십시오",
-      "mandarin": "添加自定义网络",
-      "spanish": "Agregar red personalizada",
-      "portuguese": "Adicione rede personalizada",
-      "dutch": "Voeg een aangepast netwerk toe",
-      "french": "Ajouter un réseau personnalisé"
-    },
-    "invalidHex": {
-      "english": "Invalid hexadecimal number.",
-      "german": "Ungültige Hexadezimalzahl.",
-      "japanese": "無効な16進数。",
-      "korean": "유효하지 않은 16 진수.",
-      "mandarin": "无效的十六进制数。",
-      "spanish": "Número hexadecimal inválido.",
-      "portuguese": "Número hexadecimal inválido.",
-      "dutch": "Ongeldige hexadecimale nummer.",
-      "french": "Nombre hexadécimal non valide."
-    },
-    "enterNetworkName": {
-      "english": "Enter Network Name",
-      "german": "Geben Sie den Netzwerknamen ein",
-      "japanese": "ネットワーク名を入力します",
-      "korean": "네트워크 이름을 입력하십시오",
-      "mandarin": "输入网络名称",
-      "spanish": "Ingrese el nombre de la red",
-      "portuguese": "Digite o nome da rede",
-      "dutch": "Voer de netwerknaam in",
-      "french": "Entrez le nom du réseau"
-    },
-    "enterRpc": {
-      "english": "Enter RPC URL",
-      "german": "Geben Sie RPC -URL ein",
-      "japanese": "RPC URLを入力します",
-      "korean": "RPC URL을 입력하십시오",
-      "mandarin": "输入RPC URL",
-      "spanish": "Ingrese RPC URL",
-      "portuguese": "Digite RPC URL",
-      "dutch": "Voer RPC URL in",
-      "french": "Entrez l'URL du RPC"
-    },
-    "enterChainId": {
-      "english": "Enter Chain id",
-      "german": "Ketten -ID eingeben",
-      "japanese": "チェーンIDを入力します",
-      "korean": "체인 ID를 입력하십시오",
-      "mandarin": "输入链ID",
-      "spanish": "Ingrese la identificación de la cadena",
-      "portuguese": "Digite ID da corrente",
-      "dutch": "Voer ketting -ID in",
-      "french": "Entrez la chaîne ID"
-    },
-    "enterSymbol": {
-      "english": "Enter Symbol (optional)",
-      "german": "Symbol eingeben (optional)",
-      "japanese": "シンボルを入力する（オプション）",
-      "korean": "기호 입력 (선택 사항)",
-      "mandarin": "输入符号（可选）",
-      "spanish": "Ingrese el símbolo (opcional)",
-      "portuguese": "Digite o símbolo (opcional)",
-      "dutch": "Voer symbool in (optioneel)",
-      "french": "Entrez le symbole (facultatif)"
-    },
-    "enterBlockExplorer": {
-      "english": "Enter Block Explorer URL (optional)",
-      "german": "Geben Sie die Block -Explorer -URL ein (optional)",
-      "japanese": "ブロックエクスプローラーURL（オプション）を入力します",
-      "korean": "블록 탐색기 URL 입력 (선택 사항)",
-      "mandarin": "输入Block Explorer URL（可选）",
-      "spanish": "Ingrese a la URL de explorador de bloques (opcional)",
-      "portuguese": "Digite o URL do Block Explorer (opcional)",
-      "dutch": "Voer Block Explorer URL in (optioneel)",
-      "french": "Entrez l'URL de l'explorateur de blocs (facultatif)"
-    },
-    "save": {
-      "english": "Save",
-      "german": "Speichern",
-      "japanese": "保存",
-      "korean": "구하다",
-      "mandarin": "节省",
-      "spanish": "Ahorrar",
-      "portuguese": "Salvar",
-      "dutch": "Redden",
-      "french": "Sauvegarder"
     }
   }
 }
