@@ -1361,6 +1361,72 @@
       "dutch": "Bewerk aangepast netwerk",
       "french": "Modifier le réseau personnalisé"
     },
+    "networkAddSuccess": {
+      "english": "Successfully added custom network",
+      "german": "Erfolgreich ein benutzerdefiniertes Netzwerk hinzugefügt",
+      "japanese": "カスタムネットワークを正常に追加しました",
+      "korean": "사용자 정의 네트워크를 성공적으로 추가했습니다",
+      "mandarin": "成功添加自定义网络",
+      "spanish": "Network personalizado agregado con éxito",
+      "portuguese": "Rede personalizada adicionada com sucesso",
+      "dutch": "Succesvol aangepast netwerk toegevoegd",
+      "french": "Ajout de réseau personnalisé avec succès"
+    },
+    "networkAddFail": {
+      "english": "Unable to add custom network",
+      "german": "Customed Network kann nicht hinzugefügt werden",
+      "japanese": "カスタムネットワークを追加できません",
+      "korean": "사용자 정의 네트워크를 추가 할 수 없습니다",
+      "mandarin": "无法添加自定义网络",
+      "spanish": "No se puede agregar una red personalizada",
+      "portuguese": "Não é possível adicionar rede personalizada",
+      "dutch": "Kan geen aangepast netwerk toevoegen",
+      "french": "Impossible d'ajouter un réseau personnalisé"
+    },
+    "networkUpdateSuccess": {
+      "english": "Successfully updated custom network",
+      "german": "Erfolgreich aktualisiertes benutzerdefiniertes Netzwerk",
+      "japanese": "カスタムネットワークを正常に更新しました",
+      "korean": "사용자 정의 네트워크를 성공적으로 업데이트했습니다",
+      "mandarin": "成功更新了自定义网络",
+      "spanish": "Red personalizada actualizada con éxito",
+      "portuguese": "Rede personalizada atualizada com sucesso",
+      "dutch": "Succesvol bijgewerkt aangepast netwerk",
+      "french": "Réseau personnalisé mis à jour avec succès"
+    },
+    "networkUpdateFail": {
+      "english": "Unable to add custom network",
+      "german": "Customed Network kann nicht hinzugefügt werden",
+      "japanese": "カスタムネットワークを追加できません",
+      "korean": "사용자 정의 네트워크를 추가 할 수 없습니다",
+      "mandarin": "无法添加自定义网络",
+      "spanish": "No se puede agregar una red personalizada",
+      "portuguese": "Não é possível adicionar rede personalizada",
+      "dutch": "Kan geen aangepast netwerk toevoegen",
+      "french": "Impossible d'ajouter un réseau personnalisé"
+    },
+    "networkDeleteSuccess": {
+      "english": "Successfully deleted custom network",
+      "german": "Erfolgreich gelöschtes benutzerdefiniertes Netzwerk gelöscht",
+      "japanese": "カスタムネットワークを正常に削除しました",
+      "korean": "사용자 정의 네트워크를 성공적으로 삭제했습니다",
+      "mandarin": "成功删除的自定义网络",
+      "spanish": "Eliminada con éxito la red personalizada",
+      "portuguese": "Excluído com sucesso Rede Custom",
+      "dutch": "Met succes verwijderd aangepast netwerk",
+      "french": "Réseau personnalisé supprimé avec succès"
+    },
+    "networkDeleteFail": {
+      "english": "Unable to delete custom network",
+      "german": "Benutzerdefiniertes Netzwerk kann nicht gelöscht werden",
+      "japanese": "カスタムネットワークを削除できません",
+      "korean": "사용자 정의 네트워크를 삭제할 수 없습니다",
+      "mandarin": "无法删除自定义网络",
+      "spanish": "No se puede eliminar la red personalizada",
+      "portuguese": "Não é possível excluir rede personalizada",
+      "dutch": "Kan het aangepaste netwerk niet verwijderen",
+      "french": "Impossible de supprimer le réseau personnalisé"
+    },
     "invalidHex": {
       "english": "Invalid hexadecimal number.",
       "german": "Ungültige Hexadezimalzahl.",
@@ -1395,7 +1461,7 @@
       "french": "Entrez l'URL du RPC"
     },
     "enterChainId": {
-      "english": "Enter Chain id",
+      "english": "Enter Chain ID",
       "german": "Ketten -ID eingeben",
       "japanese": "チェーンIDを入力します",
       "korean": "체인 ID를 입력하십시오",
