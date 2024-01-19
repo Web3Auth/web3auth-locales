@@ -472,6 +472,39 @@
       "portuguese": "Sinal",
       "dutch": "Teken",
       "french": "Signe"
+    },
+    "hideDetails": {
+      "english": "Hide Details",
+      "german": "Details ausblenden",
+      "japanese": "詳細を非表示にします",
+      "korean": "세부 사항을 숨 깁니다",
+      "mandarin": "隐藏细节",
+      "spanish": "Ocultar detalles",
+      "portuguese": "Detalhes ocultos",
+      "dutch": "Verberg details",
+      "french": "Cacher les détails"
+    },
+    "moreDetails": {
+      "english": "More Details",
+      "german": "Mehr Details",
+      "japanese": "詳細",
+      "korean": "자세한 내용은",
+      "mandarin": "更多细节",
+      "spanish": "Más detalles",
+      "portuguese": "Mais detalhes",
+      "dutch": "Meer details",
+      "french": "Plus de détails"
+    },
+    "youSend": {
+      "english": "You Send",
+      "german": "Du sendest",
+      "japanese": "あなたが送る",
+      "korean": "당신은 보낸다",
+      "mandarin": "您发送",
+      "spanish": "Usted envía",
+      "portuguese": "Você envia",
+      "dutch": "Jij stuurt",
+      "french": "Vous envoyez"
     }
   }
 }
