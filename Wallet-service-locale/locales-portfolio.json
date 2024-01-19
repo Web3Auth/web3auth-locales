@@ -1450,15 +1450,15 @@
       "french": "Nombre hexadécimal non valide."
     },
     "chainIdExists": {
-      "english": "Chain ID is currently used by {0}.",
-      "german": "Chain ID wird derzeit von {0} verwendet.",
-      "japanese": "Chain IDは現在、{0}によって使用されています。",
-      "korean": "Chain ID는 현재 {0}에서 사용합니다.",
-      "mandarin": "Chain ID目前由{0}使用。",
-      "spanish": "Chain ID es actualmente utilizado por {0}.",
-      "portuguese": "Chain ID é atualmente usado pelo {0}.",
-      "dutch": "Chain ID wordt momenteel gebruikt door {0}.",
-      "french": "Chain ID est actuellement utilisé par {0}."
+      "english": "This Chain ID is already used by {0}.",
+      "german": "Dieser Chain ID wird bereits von {0} verwendet.",
+      "japanese": "このChain IDは、既に{0}によって使用されています。",
+      "korean": "이 Chain ID는 이미 {0}에서 사용했습니다.",
+      "mandarin": "{0}已经使用了此Chain ID。",
+      "spanish": "Este Chain ID ya es utilizado por {0}.",
+      "portuguese": "Este Chain ID já é usado pelo {0}.",
+      "dutch": "Deze Chain ID wordt al gebruikt door {0}.",
+      "french": "Ce Chain ID est déjà utilisé par {0}."
     },
     "enterNetworkName": {
       "english": "Enter Network Name",
