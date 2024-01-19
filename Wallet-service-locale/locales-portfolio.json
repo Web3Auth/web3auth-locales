@@ -1449,6 +1449,17 @@
       "dutch": "Ongeldige hexadecimale nummer.",
       "french": "Nombre hexadécimal non valide."
     },
+    "chainIdExists": {
+      "english": "Chain ID is currently used by {0}.",
+      "german": "Chain ID wird derzeit von {0} verwendet.",
+      "japanese": "Chain IDは現在、{0}によって使用されています。",
+      "korean": "Chain ID는 현재 {0}에서 사용합니다.",
+      "mandarin": "Chain ID目前由{0}使用。",
+      "spanish": "Chain ID es actualmente utilizado por {0}.",
+      "portuguese": "Chain ID é atualmente usado pelo {0}.",
+      "dutch": "Chain ID wordt momenteel gebruikt door {0}.",
+      "french": "Chain ID est actuellement utilisé par {0}."
+    },
     "enterNetworkName": {
       "english": "Enter Network Name",
       "german": "Geben Sie den Netzwerknamen ein",
