@@ -747,6 +747,17 @@
       "portuguese": "Recurso indisponível no TestNet",
       "dutch": "Feature niet beschikbaar op testnet",
       "french": "Fonctionnalité indisponible sur testnet"
+    },
+    "viewTransaction": {
+      "english": "View Transaction",
+      "german": "Transaktion anzeigen",
+      "japanese": "トランザクションを表示します",
+      "korean": "트랜잭션을 봅니다",
+      "mandarin": "查看交易",
+      "spanish": "Ver transacción",
+      "portuguese": "Visualizar transação",
+      "dutch": "Bekijk transactie",
+      "french": "Afficher la transaction"
     }
   },
   "activity": {
