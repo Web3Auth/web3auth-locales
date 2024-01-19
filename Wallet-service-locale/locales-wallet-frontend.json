@@ -296,6 +296,182 @@
       "portuguese": "Conecte-se",
       "dutch": "Log in",
       "french": "Se connecter"
+    },
+    "requestEncryptionKey": {
+      "english": "Request Encryption key",
+      "german": "Anfrage der Verschlüsselungsschlüssel",
+      "japanese": "暗号化キーを要求します",
+      "korean": "암호화 키를 요청하십시오",
+      "mandarin": "请求加密密钥",
+      "spanish": "Solicitar la clave de cifrado",
+      "portuguese": "Chave de criptografia de solicitação",
+      "dutch": "Verzoek coderingssleutel",
+      "french": "Demander la clé de chiffrement"
+    },
+    "decryptionRequest": {
+      "english": "Decryption Request",
+      "german": "Entschlüsselungsanfrage",
+      "japanese": "復号化リクエスト",
+      "korean": "암호 해독 요청",
+      "mandarin": "解密请求",
+      "spanish": "Solicitud de descifrado",
+      "portuguese": "Solicitação de descriptografia",
+      "dutch": "Decoderingverzoek",
+      "french": "Demande de décryptage"
+    },
+    "permission": {
+      "english": "Permission",
+      "german": "Erlaubnis",
+      "japanese": "許可",
+      "korean": "허가",
+      "mandarin": "允许",
+      "spanish": "Permiso",
+      "portuguese": "Permissão",
+      "dutch": "Toestemming",
+      "french": "Autorisation"
+    },
+    "walletAddress": {
+      "english": "Wallet Address",
+      "german": "Brieftaschenadresse",
+      "japanese": "ウォレットアドレス",
+      "korean": "지갑 주소",
+      "mandarin": "钱包地址",
+      "spanish": "Dirección de la billetera",
+      "portuguese": "Endereço da carteira",
+      "dutch": "Portemonnee",
+      "french": "Adresse du portefeuille"
+    },
+    "switchChainText": {
+      "english": "Allow {0} to change your network to {1}.",
+      "german": "Erlauben Sie {0}, Ihr Netzwerk in {1} zu ändern.",
+      "japanese": "{0}がネットワークを{1}に変更します。",
+      "korean": "{0}이 네트워크를 {1}으로 변경하도록 허용하십시오.",
+      "mandarin": "允许{0}将您的网络更改为{1}。",
+      "spanish": "Permitir {0} cambiar su red a {1}.",
+      "portuguese": "Permita que {0} altere sua rede para {1}.",
+      "dutch": "Sta {0} toe om uw netwerk te wijzigen in {1}.",
+      "french": "Autoriser {0} à changer votre réseau en {1}."
+    },
+    "addChainText": {
+      "english": "Allow {0} to add new network {1}.",
+      "german": "Erlauben Sie {0}, neues Netzwerk {1} hinzuzufügen.",
+      "japanese": "{0}に新しいネットワーク{1}を追加します。",
+      "korean": "{0}이 새 네트워크를 추가하려면 {1}을 추가하십시오.",
+      "mandarin": "允许{0}添加新网络{1}。",
+      "spanish": "Permitir {0} agregar nueva red {1}.",
+      "portuguese": "Permita {0} adicionar nova rede {1}.",
+      "dutch": "Sta {0} toe om nieuw netwerk toe te voegen {1}.",
+      "french": "Permettre {0} d'ajouter un nouveau réseau {1}."
+    },
+    "encryptKeyText": {
+      "english": "Allow {0} to compose encrypted messages for you.",
+      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren.",
+      "japanese": "{0}が暗号化されたメッセージを作成できるようにします。",
+      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오.",
+      "mandarin": "允许{0}为您撰写加密消息。",
+      "spanish": "Permitir {0} componer mensajes cifrados para usted.",
+      "portuguese": "Permita que {0} componha mensagens criptografadas para você.",
+      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen.",
+      "french": "Permettez à {0} de composer des messages chiffrés pour vous."
+    },
+    "decryptKeyText": {
+      "english": "Allow {0} to read this message to complete your action.",
+      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen.",
+      "japanese": "{0}がこのメッセージを読み取ってアクションを完了させます。",
+      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오.",
+      "mandarin": "允许{0}阅读此消息以完成您的操作。",
+      "spanish": "Permitir {0} leer este mensaje para completar su acción.",
+      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação.",
+      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien.",
+      "french": "Permettez à {0} de lire ce message pour terminer votre action."
+    },
+    "message": {
+      "english": "Message",
+      "german": "Nachricht",
+      "japanese": "メッセージ",
+      "korean": "메시지",
+      "mandarin": "信息",
+      "spanish": "Mensaje",
+      "portuguese": "Mensagem",
+      "dutch": "Bericht",
+      "french": "Message"
+    },
+    "currentNetwork": {
+      "english": "Current Network",
+      "german": "Aktuelles Netzwerk",
+      "japanese": "現在のネットワーク",
+      "korean": "현재 네트워크",
+      "mandarin": "当前网络",
+      "spanish": "Red actual",
+      "portuguese": "Rede atual",
+      "dutch": "Huidig ​​netwerk",
+      "french": "Réseau actuel"
+    },
+    "newChainId": {
+      "english": "New Chain ID",
+      "german": "Neue Ketten -ID",
+      "japanese": "新しいチェーンID",
+      "korean": "새로운 체인 ID",
+      "mandarin": "新连锁ID",
+      "spanish": "Nueva identificación de cadena",
+      "portuguese": "Novo ID da cadeia",
+      "dutch": "Nieuwe ketting -ID",
+      "french": "Nouvelle chaîne ID"
+    },
+    "newChain": {
+      "english": "New Chain",
+      "german": "Neue Kette",
+      "japanese": "新しいチェーン",
+      "korean": "새로운 체인",
+      "mandarin": "新链",
+      "spanish": "Nueva cadena",
+      "portuguese": "Nova cadeia",
+      "dutch": "Nieuwe keten",
+      "french": "Nouvelle chaîne"
+    },
+    "reject": {
+      "english": "Reject",
+      "german": "Ablehnen",
+      "japanese": "拒否する",
+      "korean": "거부하다",
+      "mandarin": "拒绝",
+      "spanish": "Rechazar",
+      "portuguese": "Rejeitar",
+      "dutch": "Afwijzen",
+      "french": "Rejeter"
+    },
+    "allow": {
+      "english": "Allow",
+      "german": "Erlauben",
+      "japanese": "許可する",
+      "korean": "허용하다",
+      "mandarin": "允许",
+      "spanish": "Permitir",
+      "portuguese": "Permitir",
+      "dutch": "Toestaan",
+      "french": "Permettre"
+    },
+    "details": {
+      "english": "Details",
+      "german": "Einzelheiten",
+      "japanese": "詳細",
+      "korean": "세부",
+      "mandarin": "细节",
+      "spanish": "Detalles",
+      "portuguese": "Detalhes",
+      "dutch": "Details",
+      "french": "Détails"
+    },
+    "sign": {
+      "english": "Sign",
+      "german": "Zeichen",
+      "japanese": "サイン",
+      "korean": "징후",
+      "mandarin": "符号",
+      "spanish": "Firmar",
+      "portuguese": "Sinal",
+      "dutch": "Teken",
+      "french": "Signe"
     }
   }
 }
