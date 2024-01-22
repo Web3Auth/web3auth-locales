@@ -342,48 +342,48 @@
       "french": "Adresse du portefeuille"
     },
     "switchChainText": {
-      "english": "Allow {0} to change your network to {1}.",
-      "german": "Erlauben Sie {0}, Ihr Netzwerk in {1} zu ändern.",
+      "english": "Allow {0} to change your network to {1}",
+      "german": "Erlauben Sie {0}, Ihr Netzwerk in {1} zu ändern",
       "japanese": "{0}がネットワークを{1}に変更します。",
-      "korean": "{0}이 네트워크를 {1}으로 변경하도록 허용하십시오.",
+      "korean": "{0}이 네트워크를 {1}으로 변경하도록 허용하십시오",
       "mandarin": "允许{0}将您的网络更改为{1}。",
-      "spanish": "Permitir {0} cambiar su red a {1}.",
-      "portuguese": "Permita que {0} altere sua rede para {1}.",
-      "dutch": "Sta {0} toe om uw netwerk te wijzigen in {1}.",
-      "french": "Autoriser {0} à changer votre réseau en {1}."
+      "spanish": "Permitir {0} cambiar su red a {1}",
+      "portuguese": "Permita que {0} altere sua rede para {1}",
+      "dutch": "Sta {0} toe om uw netwerk te wijzigen in {1}",
+      "french": "Autoriser {0} à changer votre réseau en {1}"
     },
     "addChainText": {
-      "english": "Allow {0} to add new network {1}.",
-      "german": "Erlauben Sie {0}, neues Netzwerk {1} hinzuzufügen.",
+      "english": "Allow {0} to add new network {1}",
+      "german": "Erlauben Sie {0}, neues Netzwerk {1} hinzuzufügen",
       "japanese": "{0}に新しいネットワーク{1}を追加します。",
-      "korean": "{0}이 새 네트워크를 추가하려면 {1}을 추가하십시오.",
+      "korean": "{0}이 새 네트워크를 추가하려면 {1}을 추가하십시오",
       "mandarin": "允许{0}添加新网络{1}。",
-      "spanish": "Permitir {0} agregar nueva red {1}.",
-      "portuguese": "Permita {0} adicionar nova rede {1}.",
-      "dutch": "Sta {0} toe om nieuw netwerk toe te voegen {1}.",
-      "french": "Permettre {0} d'ajouter un nouveau réseau {1}."
+      "spanish": "Permitir {0} agregar nueva red {1}",
+      "portuguese": "Permita {0} adicionar nova rede {1}",
+      "dutch": "Sta {0} toe om nieuw netwerk toe te voegen {1}",
+      "french": "Permettre {0} d'ajouter un nouveau réseau {1}"
     },
     "encryptKeyText": {
-      "english": "Allow {0} to compose encrypted messages for you.",
-      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren.",
+      "english": "Allow {0} to compose encrypted messages for you",
+      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren",
       "japanese": "{0}が暗号化されたメッセージを作成できるようにします。",
-      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오.",
+      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오",
       "mandarin": "允许{0}为您撰写加密消息。",
-      "spanish": "Permitir {0} componer mensajes cifrados para usted.",
-      "portuguese": "Permita que {0} componha mensagens criptografadas para você.",
-      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen.",
-      "french": "Permettez à {0} de composer des messages chiffrés pour vous."
+      "spanish": "Permitir {0} componer mensajes cifrados para usted",
+      "portuguese": "Permita que {0} componha mensagens criptografadas para você",
+      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen",
+      "french": "Permettez à {0} de composer des messages chiffrés pour vous"
     },
     "decryptKeyText": {
-      "english": "Allow {0} to read this message to complete your action.",
-      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen.",
+      "english": "Allow {0} to read this message to complete your action",
+      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen",
       "japanese": "{0}がこのメッセージを読み取ってアクションを完了させます。",
-      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오.",
+      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오",
       "mandarin": "允许{0}阅读此消息以完成您的操作。",
-      "spanish": "Permitir {0} leer este mensaje para completar su acción.",
-      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação.",
-      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien.",
-      "french": "Permettez à {0} de lire ce message pour terminer votre action."
+      "spanish": "Permitir {0} leer este mensaje para completar su acción",
+      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação",
+      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien",
+      "french": "Permettez à {0} de lire ce message pour terminer votre action"
     },
     "message": {
       "english": "Message",
@@ -505,6 +505,105 @@
       "portuguese": "Você envia",
       "dutch": "Jij stuurt",
       "french": "Vous envoyez"
+    },
+    "signatureRequest": {
+      "english": "Signature request",
+      "german": "Signaturanforderung",
+      "japanese": "署名リクエスト",
+      "korean": "서명 요청",
+      "mandarin": "签名请求",
+      "spanish": "Solicitud de firma",
+      "portuguese": "Solicitação de assinatura",
+      "dutch": "Handtekeningverzoek",
+      "french": "Demande de signature"
+    },
+    "encryptionDescription": {
+      "english": "{0} would like your public encryption key. By consenting, this site will be able to compose encrypted messages to you.",
+      "german": "{0} möchte Ihren öffentlichen Verschlüsselungsschlüssel. Durch Zustimmung kann diese Website Ihnen verschlüsselte Nachrichten verfassen.",
+      "japanese": "{0}は、パブリック暗号化キーをご希望のです。同意することにより、このサイトは暗号化されたメッセージを作成することができます。",
+      "korean": "{0}은 공개 암호화 키를 원합니다. 동의 함으로써이 사이트는 암호화 된 메시지를 귀하에게 작성할 수 있습니다.",
+      "mandarin": "{0}想要您的公共加密密钥。通过同意，此站点将能够向您撰写加密消息。",
+      "spanish": "{0} le gustaría su clave de cifrado público. Al consentir, este sitio podrá componerle mensajes cifrados.",
+      "portuguese": "{0} gostaria da sua chave de criptografia pública. Por consentimento, este site poderá compor mensagens criptografadas para você.",
+      "dutch": "{0} zou uw publieke coderingssleutel willen. Door toestemming te geven, kan deze site gecodeerde berichten aan u samenstellen.",
+      "french": "{0} souhaite que votre clé de chiffrement public. En consentant, ce site sera en mesure de vous composer des messages chiffrés."
+    },
+    "decryptDescription": {
+      "english": "{0} would like to read this message to complete your action",
+      "german": "{0} möchte diese Nachricht lesen, um Ihre Aktion zu vervollständigen",
+      "japanese": "{0}このメッセージを読んでアクションを完了したい",
+      "korean": "{0}이 메시지를 읽고 행동을 완료하고 싶습니다.",
+      "mandarin": "{0}想阅读此消息以完成您的动作",
+      "spanish": "{0} le gustaría leer este mensaje para completar su acción",
+      "portuguese": "{0} gostaria de ler esta mensagem para concluir sua ação",
+      "dutch": "{0} wil dit bericht lezen om uw actie te voltooien",
+      "french": "{0} aimerait lire ce message pour terminer votre action"
+    },
+    "signatureDescription": {
+      "english": "Only sign this message if you fully understand the content and trust the requesting site.",
+      "german": "Unterzeichnen Sie diese Nachricht nur, wenn Sie den Inhalt vollständig verstehen und der Anforderungswebsite vertrauen.",
+      "japanese": "コンテンツを完全に理解し、要求サイトを信頼している場合にのみ、このメッセージに署名してください。",
+      "korean": "내용을 완전히 이해하고 요청 사이트를 신뢰하는 경우 에만이 메시지에 서명하십시오.",
+      "mandarin": "仅当您完全了解内容并信任请求网站时才签署此消息。",
+      "spanish": "Solo firme este mensaje si comprende completamente el contenido y confía en el sitio solicitante.",
+      "portuguese": "Assine apenas esta mensagem se você entender completamente o conteúdo e confiar no site solicitante.",
+      "dutch": "Onderteken dit bericht alleen als u de inhoud volledig begrijpt en de aanvraagsite vertrouwt.",
+      "french": "Signez ce message uniquement que si vous comprenez pleinement le contenu et faites confiance au site de demande."
+    },
+    "balance": {
+      "english": "Balance",
+      "german": "Gleichgewicht",
+      "japanese": "バランス",
+      "korean": "균형",
+      "mandarin": "平衡",
+      "spanish": "Balance",
+      "portuguese": "Equilíbrio",
+      "dutch": "Evenwicht",
+      "french": "Équilibre"
+    },
+    "networkName": {
+      "english": "Network Name",
+      "german": "Netzwerkname",
+      "japanese": "ネットワーク名",
+      "korean": "네트워크 이름",
+      "mandarin": "网络名字",
+      "spanish": "Nombre de red",
+      "portuguese": "Nome da rede",
+      "dutch": "Netwerknaam",
+      "french": "Nom de réseau"
+    },
+    "networkUrl": {
+      "english": "Network URL",
+      "german": "Netzwerk -URL",
+      "japanese": "ネットワークURL",
+      "korean": "네트워크 URL",
+      "mandarin": "网络URL",
+      "spanish": "URL de red",
+      "portuguese": "URL da rede",
+      "dutch": "Netwerk -URL",
+      "french": "URL du réseau"
+    },
+    "chainId": {
+      "english": "Chain ID",
+      "german": "Ketten -ID",
+      "japanese": "チェーンID",
+      "korean": "체인 ID",
+      "mandarin": "连锁ID",
+      "spanish": "ID de cadena",
+      "portuguese": "ID da cadeia",
+      "dutch": "Keten -ID",
+      "french": "Chaîne ID"
+    },
+    "currencySymbol": {
+      "english": "Currency Symbol",
+      "german": "Währungszeichen",
+      "japanese": "通貨シンボル",
+      "korean": "통화 기호",
+      "mandarin": "货币符号",
+      "spanish": "Símbolo de moneda",
+      "portuguese": "Símbolo da moeda",
+      "dutch": "Symbool van munteenheid",
+      "french": "Symbole de la monnaie"
     }
   }
 }
