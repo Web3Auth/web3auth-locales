@@ -1471,6 +1471,17 @@
       "dutch": "Ongeldige hexadecimale nummer.",
       "french": "Nombre hexadécimal non valide."
     },
+    "networkNameExists": {
+      "english": "Network name already exists",
+      "german": "Netzwerkname existiert bereits",
+      "japanese": "ネットワーク名はすでに存在します",
+      "korean": "네트워크 이름이 이미 존재합니다",
+      "mandarin": "网络名称已经存在",
+      "spanish": "El nombre de la red ya existe",
+      "portuguese": "O nome da rede já existe",
+      "dutch": "Netwerknaam bestaat al",
+      "french": "Le nom du réseau existe déjà"
+    },
     "enterNetworkName": {
       "english": "Enter Network Name",
       "german": "Geben Sie den Netzwerknamen ein",
