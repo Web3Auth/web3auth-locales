@@ -649,6 +649,28 @@
       "dutch": "Proces in <{0} seconden",
       "french": "Processus en <{0} secondes"
     },
+    "processInLabel": {
+      "english": "Process In",
+      "german": "Prozess in",
+      "japanese": "処理",
+      "korean": "처리",
+      "mandarin": "过程中",
+      "spanish": "Procesar",
+      "portuguese": "Processo em",
+      "dutch": "Verwerken",
+      "french": "Tracer"
+    },
+    "processTime": {
+      "english": "< {0} seconds",
+      "german": "<{0} Sekunden",
+      "japanese": "<{0}秒",
+      "korean": "<{0} 초",
+      "mandarin": "<{0}秒",
+      "spanish": "<{0} segundos",
+      "portuguese": "<{0} segundos",
+      "dutch": "<{0} seconden",
+      "french": "<{0} secondes"
+    },
     "advanced": {
       "english": "Advanced",
       "german": "Fortschrittlich",
