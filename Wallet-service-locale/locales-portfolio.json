@@ -1449,16 +1449,16 @@
       "dutch": "Ongeldige hexadecimale nummer.",
       "french": "Nombre hexadécimal non valide."
     },
-    "chainIdExists": {
-      "english": "This Chain ID is already used by {0}.",
-      "german": "Dieser Chain ID wird bereits von {0} verwendet.",
-      "japanese": "このChain IDは、既に{0}によって使用されています。",
-      "korean": "이 Chain ID는 이미 {0}에서 사용했습니다.",
-      "mandarin": "{0}已经使用了此Chain ID。",
-      "spanish": "Este Chain ID ya es utilizado por {0}.",
-      "portuguese": "Este Chain ID já é usado pelo {0}.",
-      "dutch": "Deze Chain ID wordt al gebruikt door {0}.",
-      "french": "Ce Chain ID est déjà utilisé par {0}."
+    "networkNameExists": {
+      "english": "Network name already exists",
+      "german": "Netzwerkname existiert bereits",
+      "japanese": "ネットワーク名はすでに存在します",
+      "korean": "네트워크 이름이 이미 존재합니다",
+      "mandarin": "网络名称已经存在",
+      "spanish": "El nombre de la red ya existe",
+      "portuguese": "O nome da rede já existe",
+      "dutch": "Netwerknaam bestaat al",
+      "french": "Le nom du réseau existe déjà"
     },
     "enterNetworkName": {
       "english": "Enter Network Name",
