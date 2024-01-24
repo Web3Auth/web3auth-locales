@@ -1031,6 +1031,30 @@
       "portuguese":	"Continue como {0}",
       "spanish":	"Continuar como {0}",
       "turkish": "{0} olarak devam et"
+    },
+    "manage-mfa": {
+      "english":	"Manage MFA",
+      "dutch":	"Beheer MFA",
+      "french":	"Gérer MFA",
+      "german":	"MFA verwalten",
+      "japanese":	"MFAを管理します",
+      "korean":	"MFA 관리",
+      "mandarin":	"管理MFA",
+      "portuguese":	"Gerenciar MFA",
+      "spanish":	"Administrar MFA",
+      "turkish": "MFA'yı yönetin"
+    },
+    "manage-mfa-ensure-security": {
+      "dutch":	"Meld u opnieuw aan voor verbeterde beveiliging om uw MFA -instellingen te configureren.",
+      "english":	"For enhanced security, sign in once more to configure your MFA settings.",
+      "french":	"Pour une sécurité améliorée, connectez-vous à nouveau pour configurer vos paramètres MFA.",
+      "german":	"Melden Sie sich für verbesserte Sicherheit erneut an, um Ihre MFA -Einstellungen zu konfigurieren.",
+      "japanese":	"セキュリティを強化するには、MFA設定を設定するためにもう一度サインインします。",
+      "korean":	"보안을 향상 시키려면 MFA 설정을 구성하려면 한 번 더 로그인하십시오.",
+      "mandarin":	"为了增强安全性，请再次登录以配置您的MFA设置。",
+      "portuguese":	"Para uma segurança aprimorada, faça login mais uma vez para definir suas configurações de MFA.",
+      "spanish":	"Para una seguridad mejorada, inicie sesión una vez más para configurar su configuración de MFA.",
+      "turkish": "Gelişmiş güvenlik için, MFA ayarlarınızı yapılandırmak için bir kez daha oturum açın."
     }
   }
 }

@@ -175,6 +175,30 @@
       "mandarin": "两因素钱包账户管理",
       "portuguese": "Gerenciamento de conta de carteira de dois fatores",
       "spanish": "Gestión de cuenta de billetera de dos factores"
+    },
+    "social-2fa-used-social": {
+      "dutch": "{0} is gebruikt voor uw aanmelding, selecteer een andere optie voor herstel.",
+      "english": "{0} has been used for your login, please select another option for recovery.",
+      "french": "{0} a été utilisé pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
+      "german": "{0} wurde für Ihre Anmeldung verwendet, bitte wählen Sie eine andere Option zur Wiederherstellung.",
+      "japanese": "ログインに {0} が使用されています。回復のための別のオプションを選択してください。",
+      "korean": "{0}이(가) 로그인에 사용되었습니다. 다른 복구 옵션을 선택하십시오.",
+      "mandarin": "{0} 已用于您的登录，请选择其他选项进行恢复。",
+      "portuguese": "{0} foi usado para seu login, selecione outra opção para recuperação.",
+      "spanish": "{0} se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
+      "turkish": "{0} giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
+    },
+    "social-2fa-used-passwordless": {
+      "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
+      "english": "{0} login is not available since it has been used for your login, please select another option for recovery.",
+      "french": "La connexion {0} n'est pas disponible car elle a été utilisée pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
+      "german": "{0}-Login ist nicht verfügbar, da es für Ihr Login verwendet wurde. Bitte wählen Sie eine andere Option zur Wiederherstellung aus.",
+      "japanese": "ログインに使用されているため、{0} ログインは使用できません。別の回復オプションを選択してください。",
+      "korean": "{0} 로그인은 귀하의 로그인에 사용되었기 때문에 사용할 수 없습니다. 다른 복구 옵션을 선택하십시오.",
+      "mandarin": "{0} 登录不可用，因为它已被用于您的登录，请选择其他选项进行恢复。",
+      "portuguese": "{0} login não está disponível porque foi usado para seu login, selecione outra opção para recuperação.",
+      "spanish": "El inicio de sesión de {0} no está disponible ya que se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
+      "turkish": "{0} şuan giriş yapılamıyor çünkü giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
     }
   }
 }
