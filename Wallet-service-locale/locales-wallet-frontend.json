@@ -857,6 +857,138 @@
       "portuguese": "Envio",
       "dutch": "Bezig met verzenden",
       "french": "Envoi en cours"
+    },
+    "retry": {
+      "english": "Retry",
+      "german": "Wiederholen",
+      "japanese": "リトライ",
+      "korean": "다시 해 보다",
+      "mandarin": "重试",
+      "spanish": "Rever",
+      "portuguese": "Tente novamente",
+      "dutch": "Opnieuw proberen",
+      "french": "Recommencez"
+    },
+    "contractInteraction": {
+      "english": "Contract Interaction",
+      "german": "Vertragsinteraktion",
+      "japanese": "契約相互作用",
+      "korean": "계약 상호 작용",
+      "mandarin": "合同互动",
+      "spanish": "Interacción por contrato",
+      "portuguese": "Interação do contrato",
+      "dutch": "Contractinteractie",
+      "french": "Interaction contractuelle"
+    },
+    "contractDeployment": {
+      "english": "Contract Deployment",
+      "german": "Vertragsbereitstellung",
+      "japanese": "契約展開",
+      "korean": "계약 배포",
+      "mandarin": "合同部署",
+      "spanish": "Despliegue de contrato",
+      "portuguese": "Implantação do contrato",
+      "dutch": "Contractimplementatie",
+      "french": "Déploiement contractuel"
+    },
+    "wasmBasedDeploy": {
+      "english": "Wasm Based Deploy",
+      "german": "WASM -basierte Bereitstellung",
+      "japanese": "WASMベースの展開",
+      "korean": "WASM 기반 배포",
+      "mandarin": "基于WASM的部署",
+      "spanish": "Despliegue basado en WASM",
+      "portuguese": "Implantação baseada em WASM",
+      "dutch": "Wasme gebaseerde implementatie",
+      "french": "Déploiement basé sur WASM"
+    },
+    "transaction": {
+      "english": "Transaction",
+      "german": "Transaktion",
+      "japanese": "取引",
+      "korean": "거래",
+      "mandarin": "交易",
+      "spanish": "Transacción",
+      "portuguese": "Transação",
+      "dutch": "Transactie",
+      "french": "Transaction"
+    },
+    "paymentTxn": {
+      "english": "Payment Transaction",
+      "german": "Zahlungsvorgang",
+      "japanese": "支払いトランザクション",
+      "korean": "지불 거래",
+      "mandarin": "付款交易",
+      "spanish": "Transaccion de pago",
+      "portuguese": "Operação de pagamento",
+      "dutch": "Betalingstransactie",
+      "french": "Transaction de paiement"
+    },
+    "sentEther": {
+      "english": "Sent Ether",
+      "german": "Äther gesendet",
+      "japanese": "エーテルを送信しました",
+      "korean": "에테르를 보냈습니다",
+      "mandarin": "发送以太",
+      "spanish": "Enviado éter",
+      "portuguese": "Éter enviado",
+      "dutch": "Verzonden ether",
+      "french": "Envoyé de l'éther"
+    },
+    "transfer": {
+      "english": "Transfer",
+      "german": "Überweisen",
+      "japanese": "移行",
+      "korean": "옮기다",
+      "mandarin": "转移",
+      "spanish": "Transferir",
+      "portuguese": "Transferir",
+      "dutch": "Overdracht",
+      "french": "Transfert"
+    },
+    "transferFrom": {
+      "english": "Transfer From",
+      "german": "Übertragen von",
+      "japanese": "からの転送",
+      "korean": "전송",
+      "mandarin": "从转移",
+      "spanish": "Transferido de",
+      "portuguese": "Transferir de",
+      "dutch": "Overbrengen van",
+      "french": "Transfert à partir de"
+    },
+    "approve": {
+      "english": "Approve",
+      "german": "Genehmigen",
+      "japanese": "承認する",
+      "korean": "승인하다",
+      "mandarin": "批准",
+      "spanish": "Aprobar",
+      "portuguese": "Aprovar",
+      "dutch": "Goedkeuren",
+      "french": "Approuver"
+    },
+    "safeTransferFrom": {
+      "english": "Safe Transfer From",
+      "german": "Sichere Übertragung von",
+      "japanese": "からの安全な転送",
+      "korean": "안전한 전송",
+      "mandarin": "安全转移",
+      "spanish": "Transferencia segura de",
+      "portuguese": "Transferência segura de",
+      "dutch": "Veilige overdracht van",
+      "french": "Transfert sûr de"
+    },
+    "setApprovalForAll": {
+      "english": "Set Approval For All",
+      "german": "Genehmigung für alle festlegen",
+      "japanese": "すべての承認を設定します",
+      "korean": "모두에 대한 승인을 설정하십시오",
+      "mandarin": "设定所有人的批准",
+      "spanish": "Establecer aprobación para todos",
+      "portuguese": "Defina aprovação para todos",
+      "dutch": "Stel goedkeuring in voor iedereen",
+      "french": "Définir l'approbation pour tous"
     }
   }
 }
