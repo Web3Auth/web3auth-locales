@@ -12,6 +12,18 @@
       "spanish": "Opciones avanzadas",
       "turkish": "Gelişmiş Ayarlar"
     },
+    "back": {
+      "dutch": "Terug",
+      "english": "Back",
+      "french": "Retour",
+      "german": "Zurück",
+      "japanese": "バック",
+      "korean": "뒤로",
+      "mandarin": "背部",
+      "portuguese": "Voltar",
+      "spanish": "Espalda",
+      "turkish": "Geri"
+    },
     "back-to-download": {
       "dutch": "Terug naar download herstel Factor",
       "english": "Back to download Recovery Factor",
@@ -119,6 +131,18 @@
       "portuguese": "Dispositivo (s)",
       "spanish": "Dispositivo (s)",
       "turkish": "Cihaz(lar)"
+    },
+    "done": {
+      "dutch": "Klaar",
+      "english": "Done",
+      "french": "Terminé",
+      "german": "Erledigt",
+      "japanese": "完了",
+      "korean": "끝난",
+      "mandarin": "完成",
+      "portuguese": "Concluído",
+      "spanish": "Hecho",
+      "turkish": "Bitti"
     },
     "edit-email": {
       "dutch": "Wijzig email",
@@ -239,6 +263,18 @@
       "portuguese": "Novo dispositivo detectado",
       "spanish": "Nuevo dispositivo detectado",
       "turkish": "Yeni cihaz algılandı"
+    },
+    "next": {
+      "dutch": "Volgende",
+      "english": "Next",
+      "french": "Suivant",
+      "german": "Nächster",
+      "japanese": "次",
+      "korean": "다음",
+      "mandarin": "下一个",
+      "portuguese": "Próximo",
+      "spanish": "Próximo",
+      "turkish": "Sonraki"
     },
     "or": {
       "dutch": "of",
