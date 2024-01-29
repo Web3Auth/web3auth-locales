@@ -1,5 +1,124 @@
 {
   "login": {
+    "2fa-authenticator-complete-desc": {
+      "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
+      "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
+      "french": "Si vous perdez l'accès à votre deuxième facteur, utilisez votre application d'authentification pour récupérer votre compte.",
+      "german": "Wenn Sie den Zugriff auf Ihren 2. Faktor verlieren, verwenden Sie Ihre Authentifizierungs-App, um Ihr Konto wiederherzustellen.",
+      "japanese": "2 番目の要素にアクセスできなくなった場合は、認証アプリを使用してアカウントを取り戻します。",
+      "korean": "2 차 요소에 액세스 할 수 없는 경우 인증 앱을 사용하여 계정을 복구하십시오.",
+      "mandarin": "如果您无法访问第二个因素，请使用您的身份验证应用程序恢复您的帐户。",
+      "portuguese": "Se você perder o acesso ao seu segundo fator, use seu aplicativo de autenticação para recuperar sua conta.",
+      "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
+      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı kurtarmak için kimlik doğrulama uygulamanızı kullanın."
+    },
+    "2fa-authenticator-error-general": {
+      "dutch": "Er is iets misgegaan, probeer het opnieuw",
+      "english": "Something went wrong, please try again",
+      "french": "Quelque chose s'est mal passé, veuillez réessayer",
+      "german": "Etwas ist schief gelaufen, bitte versuchen Sie es erneut",
+      "japanese": "問題が発生しました。もう一度やり直してください",
+      "korean": "문제가 발생했습니다. 다시 시도하십시오.",
+      "mandarin": "出了点问题，请重试",
+      "portuguese": "Algo deu errado, tente novamente",
+      "spanish": "Algo salió mal, inténtalo de nuevo",
+      "turkish": "Bir şeyler yanlış gitti, lütfen tekrar deneyin"
+    },
+    "2fa-authenticator-error-invalid-otp": {
+      "english": "Invalid OTP, please try again",
+      "french": "OTP invalide, veuillez réessayer",
+      "german": "Ungültiges OTP, bitte versuchen Sie es erneut",
+      "japanese": "無効な OTP です。もう一度やり直してください",
+      "korean": "잘못된 OTP입니다. 다시 시도하십시오.",
+      "mandarin": "无效的 OTP，请重试",
+      "portuguese": "OTP inválido, tente novamente",
+      "spanish": "OTP no válido, inténtelo de nuevo",
+      "turkish": "Geçersiz OTP, lütfen tekrar deneyin"
+    },
+    "2fa-authenticator-manual-entry": {
+      "dutch": "Voer de code handmatig in",
+      "english": "Enter code manually",
+      "french": "Entrez le code manuellement",
+      "german": "Geben Sie den Code manuell ein",
+      "japanese": "コードを手動で入力する",
+      "korean": "코드를 수동으로 입력하십시오.",
+      "mandarin": "手动输入代码",
+      "portuguese": "Digite o código manualmente",
+      "spanish": "Ingrese el código manualmente",
+      "turkish": "Kodu manuel olarak girin"
+    },
+    "2fa-authenticator-scan-qr-code": {
+      "dutch": "Scan QR-code",
+      "english": "Scan QR code",
+      "french": "Scanner le code QR",
+      "german": "QR-Code scannen",
+      "japanese": "QR コードをスキャンする",
+      "korean": "QR 코드 스캔",
+      "mandarin": "扫描 QR 码",
+      "portuguese": "Digitalizar código QR",
+      "spanish": "Escanear código QR",
+      "turkish": "QR kodunu tarayın"
+    },
+    "2fa-authenticator-setup-complete-title": {
+      "dutch": "Authenticator App als herstelfactor is succesvol toegevoegd",
+      "english": "Authenticator App as a recovery factor has been added successfully",
+      "french": "L'application Authenticator en tant que facteur de récupération a été ajoutée avec succès",
+      "german": "Authenticator App als Wiederherstellungsfaktor wurde erfolgreich hinzugefügt",
+      "japanese": "アプリケーション Authenticator を回復要素として正常に追加しました",
+      "korean": "앱 Authenticator 를 복구 요소로 성공적으로 추가했습니다.",
+      "mandarin": "已成功将 Authenticator 应用程序添加为恢复因素。",
+      "portuguese": "O aplicativo Authenticator como fator de recuperação foi adicionado com sucesso",
+      "spanish": "La aplicación Authenticator como factor de recuperación se agregó correctamente",
+      "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi"
+    },
+    "2fa-authenticator-setup-desc": {
+      "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
+      "english": "Use your authentication app (e.g. Google Authenticator or Authy) to scan this QR code.",
+      "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour scanner ce code QR.",
+      "german": "Verwenden Sie Ihre Authentifizierungs-App (z. B. Google Authenticator oder Authy), um diesen QR-Code zu scannen.",
+      "japanese": "認証アプリ（Google Authenticator や Authy など）を使用して、この QR コードをスキャンします。",
+      "korean": "인증 앱 (예 : Google Authenticator 또는 Authy)을 사용하여이 QR 코드를 스캔하십시오.",
+      "mandarin": "使用您的身份验证应用程序（例如 Google Authenticator 或 Authy）扫描此 QR 码。",
+      "portuguese": "Use seu aplicativo de autenticação (por exemplo, Google Authenticator ou Authy) para escanear este código QR.",
+      "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
+      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
+    },
+    "2fa-authenticator-setup-title": {
+      "dutch": "Authenticator App instellen",
+      "english": "Set up Authenticator App",
+      "french": "Configurer l'application Authenticator",
+      "german": "Authenticator App einrichten",
+      "japanese": "Authenticator アプリを設定する",
+      "korean": "Authenticator 앱 설정",
+      "mandarin": "设置 Authenticator 应用程序",
+      "portuguese": "Configuração do aplicativo Authenticator",
+      "spanish": "Configuración de la aplicación Authenticator",
+      "turkish": "Authenticator Uygulamasını ayarla"
+    },
+    "2fa-authenticator-verify-desc": {
+      "dutch": "Voer de 6-cijferige verificatiecode in van uw authenticatie-app",
+      "english": "Enter the 6-digit verification code from your authentication app",
+      "french": "Entrez le code de vérification à 6 chiffres de votre application d'authentification",
+      "german": "Geben Sie den 6-stelligen Bestätigungscode Ihrer Authentifizierungs-App ein",
+      "japanese": "認証アプリからの6桁の確認コードを入力します",
+      "korean": "인증 앱에서 6 자리 인증 코드를 입력하십시오.",
+      "mandarin": "从您的身份验证应用程序输入 6 位数验证码",
+      "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
+      "spanish": "Ingrese el código de verificación de 6 dígitos de su aplicación de autenticación",
+      "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin"
+    },
+    "2fa-authenticator-verify-title": {
+      "dutch": "Verifieer uw Authenticator App",
+      "english": "Verify your Authenticator App",
+      "french": "Vérifiez votre application Authenticator",
+      "german": "Überprüfen Sie Ihre Authenticator App",
+      "japanese": "Authenticator アプリを確認する",
+      "korean": "Authenticator 앱 확인",
+      "mandarin": "验证您的 Authenticator 应用程序",
+      "portuguese": "Verifique seu aplicativo Authenticator",
+      "spanish": "Verifique su aplicación Authenticator",
+      "turkish": "Authenticator Uygulamanızı doğrulayın"
+    },
     "2fa-cpy-desc": {
       "dutch": "We willen er alleen voor zorgen dat u weet hoe u uw account kunt herstellen.",
       "english": "We just want to make sure you know how to recover your account.",
@@ -384,6 +503,18 @@
       "spanish": "Guardar este dispositivo",
       "turkish": "Bu cihazı kaydet"
     },
+    "accountMismatchAuthenticatorFactor": {
+      "dutch": "Account komt niet overeen, ga verder met degene die je hebt ingesteld als authenticator app factor",
+      "english": "Account mismatch, please continue with one you set as an authenticator app factor",
+      "french": "Incompatibilité du compte, veuillez continuer avec celui que vous avez défini comme facteur d'application d'authentification",
+      "german": "Konto -Nichtübereinstimmung, bitte fahren Sie mit einem fort, den Sie als Authenticator-App-Faktor festgelegt haben",
+      "japanese": "アカウントの不一致、認証アプリファクターとして設定したものを続行してください",
+      "korean": "계정 불일치, 인증자 앱 요소로 설정 한 것을 계속하십시오.",
+      "mandarin": "帐户不匹配，请继续将您设置为认证器应用程序因素",
+      "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de aplicativo de autenticação",
+      "spanish": "Desacuadado de la cuenta, continúe con uno que establezca como factor de aplicación de autenticación",
+      "turkish": "Hesap uyuşmazlığı, lütfen kimlik doğrulama uygulaması faktörü olarak belirlediğiniz bir hesapla devam edin"
+    },
     "accountMismatchSocialFactor": {
       "dutch": "Account komt niet overeen, ga verder met degene die je hebt ingesteld als sociaal herstelfactor",
       "english": "Account mismatch, please continue with one you set as a social recovery factor",
@@ -551,6 +682,18 @@
       "portuguese": "Telefone ou email",
       "spanish": "Teléfono o correo electrónico",
       "turkish": "Telefon ya da e-posta"
+    },
+    "reconstruct-authenticator-title": {
+      "dutch": "Authenticator-app herstellen",
+      "english": "Authenticator app",
+      "french": "Application d'authentification",
+      "german": "Authenticator-App",
+      "japanese": "認証アプリ",
+      "korean": "인증자 앱",
+      "mandarin": "认证器应用程序",
+      "portuguese": "Aplicativo autenticador",
+      "spanish": "Aplicación de autenticación",
+      "turkish": "Kimlik doğrulama uygulaması"
     },
     "reconstruct-device-desc1": {
       "dutch": "Inloggen op",
@@ -815,6 +958,18 @@
       "portuguese": "Continue com o celular",
       "spanish": "Continuar con Mobile",
       "turkish": "Mobil cihaz ile devam et"
+    },
+    "verify-with-authenticator-factor-desc": {
+      "dutch": "Controleer met de authenticator-app die u eerder had opgezet.",
+      "english": "Verify with the authenticator app that you had previously set up.",
+      "french": "Vérifiez avec l'application d'authentification que vous aviez précédemment configurée.",
+      "german": "Überprüfen Sie mit der zuvor eingerichteten Authenticator-App.",
+      "japanese": "以前に設定した認証アプリで確認してください。",
+      "korean": "이전에 설정했던 인증 앱으로 확인하십시오.",
+      "mandarin": "使用您先前设置的验证器应用程序进行验证。",
+      "portuguese": "Verifique com o aplicativo de autenticação que você configurou anteriormente.",
+      "spanish": "Verifique con la aplicación de autenticación que había configurado anteriormente.",
+      "turkish": "Daha önce kurmuş olduğunuz doğrulayıcı uygulama ile doğrulayın."
     },
     "verify-with-password-factor-desc": {
       "dutch": "Controleer met nog een factor om door te gaan",
