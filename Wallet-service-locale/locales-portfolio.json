@@ -1710,6 +1710,17 @@
       "dutch": "Privésleutel",
       "french": "Clé privée"
     },
+    "inputPassword": {
+      "english": "Please input password",
+      "german": "Bitte Passwort eingeben",
+      "japanese": "パスワードを入力してください",
+      "korean": "비밀번호를 입력하십시오",
+      "mandarin": "请输入密码",
+      "spanish": "Por favor ingrese la contraseña",
+      "portuguese": "Insira a senha",
+      "dutch": "Voer het wachtwoord in",
+      "french": "Veuillez saisir le mot de passe"
+    },
     "showPrivateKey": {
       "english": "Show Private Key",
       "german": "Private Schlüssel zeigen",
