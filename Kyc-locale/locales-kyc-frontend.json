@@ -1,1 +1,15 @@
-{}
+{
+  "kycFrontend": {
+    "home": {
+      "english": "Home",
+      "german": "Heim",
+      "japanese": "家",
+      "korean": "집",
+      "mandarin": "家",
+      "spanish": "Hogar",
+      "portuguese": "Lar",
+      "dutch": "Thuis",
+      "french": "Maison"
+    }
+  }
+}
