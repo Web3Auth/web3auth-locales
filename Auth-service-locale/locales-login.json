@@ -59,6 +59,18 @@
       "spanish": "Escanear código QR",
       "turkish": "QR kodunu tarayın"
     },
+    "2fa-authenticator-setup-complete-desc": {
+      "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
+      "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
+      "french": "Si vous perdez l'accès à votre deuxième facteur, utilisez votre application d'authentification pour récupérer votre compte.",
+      "german": "Wenn Sie den Zugriff auf Ihren 2. Faktor verlieren, verwenden Sie Ihre Authentifizierungs-App, um Ihr Konto wiederherzustellen.",
+      "japanese": "2 番目の要素にアクセスできなくなった場合は、認証アプリを使用してアカウントを取り戻します。",
+      "korean": "2 차 요소에 액세스 할 수 없는 경우 인증 앱을 사용하여 계정을 복구하십시오.",
+      "mandarin": "如果您无法访问第二个因素，请使用您的身份验证应用程序恢复您的帐户。",
+      "portuguese": "Se você perder o acesso ao seu segundo fator, use seu aplicativo de autenticação para recuperar sua conta.",
+      "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
+      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı geri almak için kimlik doğrulama uygulamanızı kullanın."
+    },
     "2fa-authenticator-setup-complete-title": {
       "dutch": "Authenticator App als herstelfactor is succesvol toegevoegd",
       "english": "Authenticator App as a recovery factor has been added successfully",
