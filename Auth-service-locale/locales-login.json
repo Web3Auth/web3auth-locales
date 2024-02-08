@@ -1154,6 +1154,28 @@
       "portuguese": "Verifique se a pasta",
       "dutch": "Controleer Passkey",
       "french": "Vérifiez"
+    },
+    "usePasskey": {
+      "english": "Use Passkey",
+      "german": "Verwenden Sie PassKey",
+      "japanese": "PassKeyを使用します",
+      "korean": "PassKey를 사용하십시오",
+      "mandarin": "使用Passkey",
+      "spanish": "Usa PassKey",
+      "portuguese": "Use Passkey",
+      "dutch": "Gebruik Passkey",
+      "french": "Utiliser Passkey"
+    },
+    "usePasskeyDesc": {
+      "english": "When you are ready, verify with your passkey using the button below. ",
+      "german": "Wenn Sie bereit sind, überprüfen Sie mit Ihrem PassKey mit dem folgenden Button.",
+      "japanese": "準備ができたら、下のボタンを使用してPassKeyで確認してください。",
+      "korean": "준비가되면 아래 버튼을 사용하여 Passkey를 확인하십시오.",
+      "mandarin": "准备就绪后，使用下面的按钮验证Passkey。",
+      "spanish": "Cuando esté listo, verifique con su clave de passación usando el botón a continuación.",
+      "portuguese": "Quando estiver pronto, verifique com a sua pasta passada usando o botão abaixo.",
+      "dutch": "Als u klaar bent, verifieert u met uw Passkey met de onderstaande knop.",
+      "french": "Lorsque vous êtes prêt, vérifiez avec votre touche passante en utilisant le bouton ci-dessous."
     }
   }
 }
