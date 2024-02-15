@@ -145,16 +145,16 @@
       "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
-      "dutch": "Zelf-custodial login via Web3Auth",
-      "english": "Self-custodial login by Web3Auth",
-      "french": "Connexion en autonomie par Web3Auth",
-      "german": "Selbstverwahrungs-Login durch Web3Auth",
-      "japanese": "Web3Authによる自己保管ログイン",
-      "korean": "Web3Auth를 통한 자기 보관 로그인",
-      "mandarin": "Web3Auth 的自托管登录",
-      "portuguese": "Login de autocustódia por Web3Auth",
-      "spanish": "Inicio de sesión con autogestión por Web3Auth",
-      "turkish": "Web3Auth tatafından öz-yönetimli giriş"
+      "dutch": "Zelfkusten via",
+      "english": "Self-custody via",
+      "french": "Auto-cuir via",
+      "german": "Selbstversorgung über",
+      "japanese": "経由の自立",
+      "korean": "자해를 통해",
+      "mandarin": "自我castody通过",
+      "portuguese": "Autoconfiança via",
+      "spanish": "Autocustody a través de",
+      "turkish": "Kendi kendine velayet"
     },
     "footer.policy": {
       "dutch": "Privacybeleid",
