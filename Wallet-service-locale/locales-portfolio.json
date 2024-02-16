@@ -264,6 +264,28 @@
       "dutch": "beschikbaar saldo",
       "french": "Solde disponible"
     },
+    "sendingFrom": {
+      "english": "Sending from",
+      "german": "Senden von",
+      "japanese": "から送信",
+      "korean": "보내기",
+      "mandarin": "从",
+      "spanish": "Envío desde",
+      "portuguese": "Enviando de",
+      "dutch": "Verzenden van",
+      "french": "Envoi de"
+    },
+    "transactionCost": {
+      "english": "Transaction cost",
+      "german": "Transaktionsgebühr",
+      "japanese": "取引コスト",
+      "korean": "거래 비용",
+      "mandarin": "交易成本",
+      "spanish": "Costo de la transacción",
+      "portuguese": "Custo da transação",
+      "dutch": "Transactiekosten",
+      "french": "Coût de transaction"
+    },
     "value": {
       "english": "Value",
       "german": "Wert",
@@ -1360,6 +1382,17 @@
       "portuguese": "Selecione rede padrão",
       "dutch": "Selecteer Standaardnetwerk",
       "french": "Sélectionnez le réseau par défaut"
+    },
+    "switchNetwork": {
+      "english": "Switch Network",
+      "german": "Switch -Netzwerk",
+      "japanese": "スイッチネットワーク",
+      "korean": "스위치 네트워크",
+      "mandarin": "开关网络",
+      "spanish": "Cambiar de red",
+      "portuguese": "Switch Network",
+      "dutch": "Wisselnetwerk",
+      "french": "Réseau de commutation"
     },
     "addCustomNetwork": {
       "english": "Add Custom Network",
