@@ -973,15 +973,15 @@
       "french": "Vous n'avez pas encore de {0}"
     },
     "noTokenNftSubMsg": {
-      "english": "Once you buy or receive any {0}, they will appear here",
-      "german": "Sobald Sie {0} gekauft oder erhalten, werden sie hier erscheinen",
-      "japanese": "{0}を購入または受け取ると、ここに表示されます",
-      "korean": "{0}를 사거나 받으면 여기에 나타납니다.",
-      "mandarin": "购买或收到任何{0}后，它们将出现在这里",
-      "spanish": "Una vez que compre o reciba cualquier {0}, aparecerán aquí",
-      "portuguese": "Depois de comprar ou receber qualquer {0}, eles aparecerão aqui",
-      "dutch": "Zodra u {0} hebt gekocht of ontvangen, verschijnen ze hier",
-      "french": "Une fois que vous aurez acheté ou recevoir un {0}, ils apparaîtront ici"
+      "english": "Once you buy, receive or add any {0}, they will appear here.",
+      "german": "Sobald Sie {0} gekauft, empfangen oder hinzufügen, werden sie hier angezeigt.",
+      "japanese": "{0}を購入、受信、追加すると、ここに表示されます。",
+      "korean": "{0}을 구매, 받거나 추가하면 여기에 나타납니다.",
+      "mandarin": "购买，接收或添加任何{0}后，它们将出现在此处。",
+      "spanish": "Una vez que compre, reciba o agregue cualquier {0}, aparecerán aquí.",
+      "portuguese": "Depois de comprar, receber ou adicionar qualquer {0}, eles aparecerão aqui.",
+      "dutch": "Nadat u een {0} hebt gekocht, ontvangt of toevoegt, verschijnen ze hier.",
+      "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici."
     },
     "receivedEth": {
       "english": "Received Ethereum",
