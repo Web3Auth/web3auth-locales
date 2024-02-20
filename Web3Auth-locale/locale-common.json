@@ -529,42 +529,18 @@
       "turkish": "Örneğin:"
     },
     "social.view-less": {
-      "dutch": "Minder opties bekijken",
-      "english": "View fewer options",
-      "french": "Voir moins d'options",
-      "german": "Weniger Optionen anzeigen",
-      "japanese": "オプションを少なく表示",
-      "korean": "더 적은 옵션 보기",
-      "mandarin": "查看较少选项",
-      "portuguese": "Ver menos opções",
-      "spanish": "Ver menos opciones",
-      "turkish": "Daha az seçenek görüntüle"
-    },
-    "social.view-less-new": {
       "dutch": "Minder bekijken",
-      "english": "View fewer",
+      "english": "View less",
       "french": "Voir moins",
       "german": "Weniger anzeigen",
-      "japanese": "表示を減らす",
-      "korean": "더 적게 보기",
-      "mandarin": "查看较少",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
       "portuguese": "Ver menos",
       "spanish": "Ver menos",
       "turkish": "Daha az görüntüle"
     },
     "social.view-more": {
-      "dutch": "Meer opties bekijken",
-      "english": "View more options",
-      "french": "Voir plus d'options",
-      "german": "Weitere Optionen anzeigen",
-      "japanese": "その他のオプションを表示",
-      "korean": "더 많은 옵션 보기",
-      "mandarin": "查看更多选项",
-      "portuguese": "Ver mais opções",
-      "spanish": "Ver más opciones",
-      "turkish": "Daha fazla seçenek görüntüle"
-    },
-    "social.view-more-new": {
       "dutch": "Meer bekijken",
       "english": "View more",
       "french": "Voir plus",
