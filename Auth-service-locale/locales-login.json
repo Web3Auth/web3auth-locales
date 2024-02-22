@@ -12,18 +12,6 @@
       "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
       "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı kurtarmak için kimlik doğrulama uygulamanızı kullanın."
     },
-    "2fa-authenticator-error-general": {
-      "dutch": "Er is iets misgegaan, probeer het opnieuw",
-      "english": "Something went wrong, please try again",
-      "french": "Quelque chose s'est mal passé, veuillez réessayer",
-      "german": "Etwas ist schief gelaufen, bitte versuchen Sie es erneut",
-      "japanese": "問題が発生しました。もう一度やり直してください",
-      "korean": "문제가 발생했습니다. 다시 시도하십시오.",
-      "mandarin": "出了点问题，请重试",
-      "portuguese": "Algo deu errado, tente novamente",
-      "spanish": "Algo salió mal, inténtalo de nuevo",
-      "turkish": "Bir şeyler yanlış gitti, lütfen tekrar deneyin"
-    },
     "2fa-authenticator-error-invalid-otp": {
       "english": "Invalid OTP, please try again",
       "french": "OTP invalide, veuillez réessayer",

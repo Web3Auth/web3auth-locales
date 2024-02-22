@@ -216,6 +216,18 @@
       "spanish": "Algo salió mal",
       "turkish": "Bir şeyler ters gitti"
     },
+    "error-too-many-attempts": {
+      "dutch": "Te veel verzoeken, probeer het later opnieuw",
+      "english": "Too many requests, try again after some time",
+      "french": "Trop de demandes, réessayez plus tard",
+      "german": "Zu viele Anfragen, versuchen Sie es später erneut",
+      "japanese": "リクエストが多すぎます。しばらくしてからもう一度やり直してください",
+      "korean": "요청이 너무 많습니다. 시간이 지난 후 다시 시도하십시오",
+      "mandarin": "请求太多，请稍后重试",
+      "portuguese": "Muitas solicitações, tente novamente depois de algum tempo",
+      "spanish": "Demasiadas solicitudes, inténtelo de nuevo después de un tiempo",
+      "turkish": "Çok fazla istek, bir süre sonra tekrar deneyin"
+    },
     "hide-options": {
       "dutch": "Opties verbergen",
       "english": "Hide Options",
