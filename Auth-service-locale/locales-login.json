@@ -1100,16 +1100,29 @@
       "dutch": "Kom meer te weten",
       "french": "Apprendre encore plus"
     },
-    "passkeyNotSupported": {
-      "english": "To ensure Passkeys functionality, please ensure you use the listed browsers below",
-      "german": "Um die Funktionalität von Passkeys sicherzustellen, stellen Sie bitte sicher, dass Sie die aufgeführten Browser unten verwenden",
-      "japanese": "PassKeys機能を確保するには、以下のリストされているブラウザを使用してください",
-      "korean": "Passkeys 기능을 보장하려면 아래에 나열된 브라우저를 사용하십시오.",
-      "mandarin": "为了确保PassKeys功能，请确保您使用以下列出的浏览器",
-      "spanish": "Para garantizar la funcionalidad de PassKeys, asegúrese de utilizar los navegadores listados a continuación",
-      "portuguese": "Para garantir a funcionalidade Passkeys, certifique -se de usar os navegadores listados abaixo",
-      "dutch": "Zorg ervoor dat u de vermelde browsers hieronder gebruikt om de functionaliteit van Passkeys te garanderen",
-      "french": "Pour assurer la fonctionnalité de PassKeys, veuillez vous assurer d'utiliser les navigateurs répertoriés ci-dessous"
+    "passkeysOsNotSupported": {
+      "english": "To ensure Passkeys functionality, please ensure you use any supported operating systems below",
+      "german": "Um die Funktionalität von Passkeys sicherzustellen, stellen Sie bitte sicher, dass Sie alle unterstützten Betriebssysteme unten verwenden",
+      "japanese": "PassKeys機能を確保するには、以下のサポートされているオペレーティングシステムを使用してください",
+      "korean": "Passkeys 기능을 보장하려면 아래에 지원되는 운영 체제를 사용하십시오.",
+      "mandarin": "为了确保Passkeys功能，请确保您使用下面的任何支持的操作系统",
+      "spanish": "Para garantizar la funcionalidad de PassKeys, asegúrese de utilizar los sistemas operativos compatibles a continuación",
+      "portuguese": "Para garantir a funcionalidade Passkeys, certifique -se de usar qualquer sistema operacional suportado abaixo",
+      "dutch": "Zorg ervoor dat u onderstaande besturingssystemen gebruikt om Passkeys -functionaliteit te garanderen.",
+      "french": "Pour assurer la fonctionnalité de PassKeys, veuillez vous assurer d'utiliser tous les systèmes d'exploitation pris en charge ci-dessous",
+      "turkish": "Passkeys işlevselliğini sağlamak için lütfen aşağıda desteklenen herhangi bir işletim sistemini kullandığınızdan emin olun"
+    },
+    "passkeyBrowserNotSupported": {
+      "english": "To ensure Passkeys functionality, please ensure you use any supported browsers below",
+      "german": "Um die Funktionalität von Passkeys sicherzustellen, stellen Sie bitte sicher, dass Sie alle unterstützten Browser unten verwenden",
+      "japanese": "PassKeys機能を確保するには、以下のサポートされているブラウザを使用してください。",
+      "korean": "Passkeys 기능을 보장하려면 아래에 지원되는 브라우저를 사용하십시오.",
+      "mandarin": "为了确保PassKeys功能，请确保您使用以下任何支持的浏览器",
+      "spanish": "Para garantizar la funcionalidad de PassKeys, asegúrese de utilizar los navegadores compatibles a continuación",
+      "portuguese": "Para garantir a funcionalidade Passkeys, certifique -se de usar qualquer navegador suportado abaixo",
+      "dutch": "Om Passkeys -functionaliteit te garanderen, zorg er dan voor dat u hieronder ondersteunde browsers gebruikt",
+      "french": "Pour assurer la fonctionnalité de PassKeys, veuillez vous assurer d'utiliser les navigateurs pris en charge ci-dessous",
+      "turkish": "Passkeys işlevselliğini sağlamak için lütfen aşağıda desteklenen tarayıcıları kullandığınızdan emin olun"
     },
     "addPasskey": {
       "english": "Add Passkey",
