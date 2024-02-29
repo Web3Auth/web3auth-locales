@@ -1,0 +1,136 @@
+{
+  "passkeys": {
+    "verification-title-login": {
+      "english": "Passkey Verification",
+      "german": "PassKey -Überprüfung",
+      "japanese": "パスキー検証",
+      "korean": "패스 키 검증",
+      "mandarin": "Passkey验证",
+      "spanish": "Verificación de llave",
+      "portuguese": "Verificação da Passkey",
+      "dutch": "Passkey verificatie",
+      "french": "Vérification de la clé passante",
+      "turkish": "Passkey doğrulama"
+    },
+    "verification-title-register": {
+      "english": "Register Passkey",
+      "german": "Register PassKey",
+      "japanese": "PassKeyを登録します",
+      "korean": "注册Passkey",
+      "mandarin": "注册Passkey",
+      "spanish": "Registre PassKey",
+      "portuguese": "Registre a Passkey",
+      "dutch": "Register Passkey",
+      "french": "Enregistrez-vous",
+      "turkish": "Passkey'i kaydet"
+    },
+    "verification-desc-login": {
+      "english": "Almost there! Just confirm your passkey once more to make sure it's saved for this device.",
+      "german": "Fast dort! Bestätigen Sie einfach Ihren PassKey noch einmal, um sicherzustellen, dass er für dieses Gerät gespeichert ist.",
+      "japanese": "もうすぐ！ PassKeyをもう一度確認して、このデバイスのために保存されていることを確認してください。",
+      "korean": "거의 다 왔어! 패스 키를 다시 한 번 확인 하여이 장치에 저장되었는지 확인하십시오.",
+      "mandarin": "差不多了！只需再次确认您的Passkey即可确保为此设备保存它即可。",
+      "spanish": "¡Casi llegamos! Simplemente confirme su clave de passación una vez más para asegurarse de que se guarde para este dispositivo.",
+      "portuguese": "Quase lá! Basta confirmar sua pasta mais uma vez para garantir que ela seja salva para este dispositivo.",
+      "dutch": "Bijna daar! Bevestig je Passkey nog een keer om ervoor te zorgen dat het is opgeslagen voor dit apparaat.",
+      "french": "Presque là! Confirmez votre Passkey une fois de plus pour vous assurer qu'elle est enregistrée pour cet appareil.",
+      "turkish": ""
+    },
+    "verification-desc-register": {
+      "english": "Register your passkey to ensure seamless login.",
+      "german": "Registrieren Sie Ihren PassKey, um ein nahtloses Login zu gewährleisten.",
+      "japanese": "シームレスなログインを確認するには、PassKeyを登録してください。",
+      "korean": "원활한 로그인을 보려면 PassKey를 등록하십시오.",
+      "mandarin": "注册您的Passkey以确保无缝登录。",
+      "spanish": "Registre su Key PassKey para garantizar un inicio de sesión sin problemas.",
+      "portuguese": "Registre sua chave passada para garantir o login sem costura.",
+      "dutch": "Registreer uw Passkey om te zorgen voor een naadloze login.",
+      "french": "Enregistrez votre touche passante pour vous assurer une connexion transparente.",
+      "turkish": "Kesintisiz giriş sağlamak için passey'inizi kaydedin."
+    },
+    "verify-cta-login": {
+      "english": "Verify Passkey",
+      "german": "Überprüfen Sie PassKey",
+      "japanese": "PassKeyを確認します",
+      "korean": "PassKey를 확인하십시오",
+      "mandarin": "验证Passkey",
+      "spanish": "Verificar PassKey",
+      "portuguese": "Verifique se a pasta",
+      "dutch": "Controleer Passkey",
+      "french": "Vérifiez",
+      "turkish": "Passkey'i doğrulayın"
+    },
+    "verify-cta-register": {
+      "english": "Register Passkey",
+      "german": "Register PassKey",
+      "japanese": "PassKeyを登録します",
+      "korean": "注册Passkey",
+      "mandarin": "注册Passkey",
+      "spanish": "Registre PassKey",
+      "portuguese": "Registre a Passkey",
+      "dutch": "Register Passkey",
+      "french": "Enregistrez-vous",
+      "turkish": "Passkey'i kaydet"
+    },
+    "cancel": {
+      "dutch": "Annuleren",
+      "english": "Cancel",
+      "french": "Annuler",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "mandarin": "取消",
+      "portuguese": "Cancelar",
+      "spanish": "Cancelar",
+      "turkish": "İptal etmek"
+    },
+    "setup-failed": {
+      "english": "Passkey Setup Failed",
+      "german": "PassKey -Setup ist fehlgeschlagen",
+      "japanese": "PassKeyセットアップに失敗しました",
+      "korean": "passkey -setup ist fehlgeschlagen",
+      "mandarin": "Passkey设置失败",
+      "spanish": "Falló la configuración de PassKey",
+      "portuguese": "A instalação da Passkey falhou",
+      "dutch": "Passkey -opstelling is mislukt",
+      "french": "La configuration de la clé passante a échoué",
+      "turkish": "Passkey kurulumu başarısız oldu"
+    },
+    "browser-not-supported": {
+      "english": "Browser not supported",
+      "german": "Browser nicht unterstützt",
+      "japanese": "ブラウザはサポートされていません",
+      "korean": "브라우저는 지원되지 않습니다",
+      "mandarin": "浏览器不支持",
+      "spanish": "Navegador no compatible",
+      "portuguese": "Navegador não suportado",
+      "dutch": "Browser niet ondersteund",
+      "french": "Navigateur non pris en charge",
+      "turkish": "Tarayıcı desteklenmiyor"
+    },
+    "browser-not-supported-info": {
+      "english": "Your browser is not supported. Please use a supported browser to continue.",
+      "german": "Ihr Browser wird nicht unterstützt. Bitte verwenden Sie einen unterstützten Browser, um fortzufahren.",
+      "japanese": "あなたのブラウザはサポートされていません。サポートされているブラウザを使用して続行してください。",
+      "korean": "브라우저는 지원되지 않습니다. 지원되는 브라우저를 사용하여 계속하십시오.",
+      "mandarin": "不支持您的浏览器。请使用支持的浏览器继续。",
+      "spanish": "Tu navegador no es compatible. Utilice un navegador compatible para continuar.",
+      "portuguese": "Seu navegador não é suportado. Use um navegador suportado para continuar.",
+      "dutch": "Uw Browser wordt niet Ondersteund. Gebruik een ondersteunde browser om door te gaan.",
+      "french": "Ton navigateur n'est pas supporté. Veuillez utiliser un navigateur pris en charge pour continuer.",
+      "turkish": "Tarayıcınız desteklenmiyor. Devam etmek için lütfen desteklenen bir tarayıcı kullanın."
+    },
+    "error-verifying-passkey": {
+      "english": "Error verifying passkey",
+      "german": "Fehler zur Überprüfung von PassKey",
+      "japanese": "PassKeyの検証エラー",
+      "korean": "패스키를 확인합니다",
+      "mandarin": "错误验证Passkey",
+      "spanish": "Error a verificar PassKey",
+      "portuguese": "Erro verificando o Passkey",
+      "dutch": "Fout bij het verifiëren van Passkey",
+      "french": "Erreur Vérification de Passkey",
+      "turkish": "Passkey'i doğrulama hatası"
+    }
+  }
+}
