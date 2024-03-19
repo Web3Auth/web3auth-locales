@@ -121,6 +121,30 @@
       "french": "vérification de l'E-mail",
       "turkish": "E-posta doğrulaması"
     },
+    "verify-email-code-subheading": {
+      "english": "Please enter the 6-digit verification code that was sent to your email",
+      "german": "Bitte geben Sie den 6-stelligen Überprüfungscode ein, der an Ihre E-Mail gesendet wurde",
+      "japanese": "電子メールに送信された6桁の検証コードを入力してください",
+      "korean": "이메일 으로 전송 된 6 자리 확인 코드를 입력하십시오.",
+      "mandarin": "请输入发送到您的电子邮件的6位验证代码",
+      "spanish": "Ingrese el código de verificación de 6 dígitos que se envió a su correo electrónico",
+      "portuguese": "Por favor, insira o código de verificação de 6 dígitos que foi enviado para o seu email",
+      "dutch": "Voer de 6-cijferige verificatiecode in die is verzonden naar uw e-mail",
+      "french": "Veuillez saisir le code de vérification à 6 chiffres qui a été envoyé à votre e-mail",
+      "turkish": "Lütfen e-postanıza gelen 6 haneli doğrulama kodunu girin"
+    },
+    "resend-code-cta": {
+      "dutch": "Code opnieuw verzenden",
+      "english": "Resend Code",
+      "french": "Renvoyer le code",
+      "german": "Code wiedergeben",
+      "japanese": "再送信コード",
+      "korean": "코드를 재현하십시오",
+      "mandarin": "重新发送验证码",
+      "portuguese": "Reenviar código",
+      "spanish": "Reenviar codigo",
+      "turkish": "Kodu tekrar gönder"
+    },
     "start-verification-subtitle2": {
       "dutch": "Er is een e-mail verzonden naar",
       "english": "An email has been sent to",
@@ -168,18 +192,6 @@
       "portuguese": "Reenviar email",
       "spanish": "Reenviar email",
       "turkish": "E-postayı tekrar gönder"
-    },
-    "verify-email-code-subheading": {
-      "english": "Please enter the 6-digit verification code that was sent to your email",
-      "german": "Bitte geben Sie den 6-stelligen Überprüfungscode ein, der an Ihre E-Mail gesendet wurde",
-      "japanese": "電子メールに送信された6桁の検証コードを入力してください",
-      "korean": "이메일 으로 전송 된 6 자리 확인 코드를 입력하십시오.",
-      "mandarin": "请输入发送到您的电子邮件的6位验证代码",
-      "spanish": "Ingrese el código de verificación de 6 dígitos que se envió a su correo electrónico",
-      "portuguese": "Por favor, insira o código de verificação de 6 dígitos que foi enviado para o seu email",
-      "dutch": "Voer de 6-cijferige verificatiecode in die is verzonden naar uw e-mail",
-      "french": "Veuillez saisir le code de vérification à 6 chiffres qui a été envoyé à votre e-mail",
-      "turkish": "Lütfen e-postanıza gelen 6 haneli doğrulama kodunu girin"
     },
     "2fa-setup-title1": {
       "dutch": "Beveilig uw account",
