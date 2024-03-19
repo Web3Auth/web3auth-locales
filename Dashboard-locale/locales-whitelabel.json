@@ -24,7 +24,7 @@
       "spanish": "Iniciar sesión",
       "turkish": "Giriş yap"
     },
-    "social.view-less": {
+    "social-view-less": {
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
@@ -36,7 +36,7 @@
       "spanish": "Ver menos",
       "turkish": "Daha az görüntüle"
     },
-    "social.view-more": {
+    "social-view-more": {
       "dutch": "Meer bekijken",
       "english": "View more",
       "french": "Voir plus",
@@ -48,7 +48,7 @@
       "spanish": "Ver más",
       "turkish": "Daha fazla görüntüle"
     },
-    "social.policy": {
+    "social-policy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
       "english": "We do not store any data related to your social logins.",
       "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
@@ -60,7 +60,7 @@
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
       "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
-    "social.email-continue": {
+    "social-email-continue": {
       "dutch": "Doorgaan met e-mail",
       "english": "Continue with Email",
       "french": "Continuer avec l'email",
@@ -72,7 +72,7 @@
       "spanish": "Continuar con correo electrónico",
       "turkish": "E-posta ile devam et"
     },
-    "social.email": {
+    "social-email": {
       "dutch": "E-mail",
       "english": "Email",
       "french": "Email",
@@ -84,7 +84,7 @@
       "spanish": "Correo electrónico",
       "turkish": "E-posta"
     },
-    "footer.message-new": {
+    "footer-message-new": {
       "dutch": "Zelfkusten via",
       "english": "Self-custody via",
       "french": "Auto-cuir via",
