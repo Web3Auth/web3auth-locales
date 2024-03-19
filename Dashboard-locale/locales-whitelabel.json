@@ -1,127 +1,115 @@
 {
   "whitelabel": {
-    "login-sign-in": {
+    "header-subtitle-new": {
+      "dutch": "Uw {0}-portemonnee met één klik",
+      "english": "Your {0} wallet with one click",
+      "french": "Votre portefeuille {0} en un clic",
+      "german": "Ihre {0}-Brieftasche mit einem Klick",
+      "japanese": "ワンクリックで {0} ウォレット",
+      "korean": "한 번의 클릭으로 {0} 지갑",
+      "mandarin": "一键点击您的 {0} 钱包",
+      "portuguese": "Sua carteira {0} com um clique",
+      "spanish": "Su billetera {0} con un solo clic",
+      "turkish": "Tek tıklama ile {0} cüzdanınız"
+    },
+    "header-title": {
+      "dutch": "Aanmelden",
       "english": "Sign in",
-      "german": "anmelden",
+      "french": "Se connecter",
+      "german": "Einloggen",
       "japanese": "ログイン",
       "korean": "로그인",
-      "mandarin": "登入",
-      "spanish": "Iniciar sesión",
+      "mandarin": "登录",
       "portuguese": "Entrar",
-      "dutch": "Aanmelden",
-      "french": "S'identifier"
+      "spanish": "Iniciar sesión",
+      "turkish": "Giriş yap"
     },
-    "login-app-name": {
-      "english": "Your {0} wallet in one-click",
-      "german": "Ihre {0} Brieftasche in einem Klick",
-      "japanese": "ワンクリックの{0}ウォレット",
-      "korean": "{0} 지갑을 한 번 클릭 한 지갑",
-      "mandarin": "您的{0}钱包一键",
-      "spanish": "Tu billetera {0} en un solo clic",
-      "portuguese": "Sua carteira {0} em um clique",
-      "dutch": "Uw {0} portemonnee in één klik",
-      "french": "Votre portefeuille {0} en un clic"
-    },
-    "login-view-more": {
-      "english": "View More",
-      "german": "Mehr sehen",
-      "japanese": "もっと見る",
-      "korean": "더보기",
-      "mandarin": "查看更多",
-      "spanish": "Ver más",
-      "portuguese": "Veja mais",
-      "dutch": "Bekijk meer",
-      "french": "Voir plus"
-    },
-    "login-view-less": {
-      "english": "View Less",
+    "social-view-less": {
+      "dutch": "Minder bekijken",
+      "english": "View less",
+      "french": "Voir moins",
       "german": "Weniger anzeigen",
       "japanese": "表示が少なくなります",
       "korean": "덜보십시오",
       "mandarin": "少查看",
-      "spanish": "Ver menos",
       "portuguese": "Ver menos",
-      "dutch": "Bekijk minder",
-      "french": "Voir moins"
+      "spanish": "Ver menos",
+      "turkish": "Daha az görüntüle"
     },
-    "login-notes": {
-      "english": "We do not store any data related to your social logins",
-      "german": "Wir speichern keine Daten zu Ihren sozialen Anmeldungen",
-      "japanese": "私たちはあなたのソーシャルログインに関連するデータを保存しません",
-      "korean": "소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
-      "mandarin": "我们不存储与您的社交登录有关的任何数据",
-      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales",
-      "portuguese": "Não armazenamos nenhum dado relacionado aos seus logins sociais",
-      "dutch": "We slaan geen gegevens op met betrekking tot uw sociale aanmeldingen",
-      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales"
+    "social-view-more": {
+      "dutch": "Meer bekijken",
+      "english": "View more",
+      "french": "Voir plus",
+      "german": "Mehr anzeigen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "portuguese": "Ver mais",
+      "spanish": "Ver más",
+      "turkish": "Daha fazla görüntüle"
     },
-    "login-continue-with-mail": {
-      "english": "Continue With Email",
-      "german": "Fahren Sie mit E -Mail fort",
-      "japanese": "電子メールを続けてください",
-      "korean": "이메일을 계속하십시오",
-      "mandarin": "继续电子邮件",
-      "spanish": "Continuar con el correo electrónico",
-      "portuguese": "Continue com e -mail",
-      "dutch": "Ga door met e -mail",
-      "french": "Continuez avec le courrier électronique"
+    "social-policy": {
+      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
+      "english": "We do not store any data related to your social logins.",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "japanese": "ソーシャルログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
-    "login-email": {
+    "social-email-continue": {
+      "dutch": "Doorgaan met e-mail",
+      "english": "Continue with Email",
+      "french": "Continuer avec l'email",
+      "german": "Weitermachen mit E-Mail",
+      "japanese": "メールで続行",
+      "korean": "이메일로 계속하기",
+      "mandarin": "继续使用电子邮件",
+      "portuguese": "Continuar com email",
+      "spanish": "Continuar con correo electrónico",
+      "turkish": "E-posta ile devam et"
+    },
+    "social-email": {
+      "dutch": "E-mail",
       "english": "Email",
-      "german": "Email",
+      "french": "Email",
+      "german": "E-Mail",
       "japanese": "Eメール",
       "korean": "이메일",
       "mandarin": "电子邮件",
+      "portuguese": "Email",
       "spanish": "Correo electrónico",
-      "portuguese": "E-mail",
-      "dutch": "E -mail",
-      "french": "E-mail"
+      "turkish": "E-posta"
     },
-    "login-footer-heading": {
-      "english": "Self-custodial login by Web3Auth",
-      "german": "Selbstversorgungsodiale Login von Web3Auth",
-      "japanese": "Web3Authによる自立ログイン",
-      "korean": "web3auth에 의한 자체 치료법 로그인",
-      "mandarin": "web3auth的自我监测登录",
-      "spanish": "Inicio de sesión de autocustodial por Web3Auth",
-      "portuguese": "Login auto-sustentado por web3auth",
-      "dutch": "Zelfkustodiale login per web3auth",
-      "french": "Connexion auto-curisée par web3Auth"
+    "footer-message-new": {
+      "dutch": "Zelfkusten via",
+      "english": "Self-custody via",
+      "french": "Auto-cuir via",
+      "german": "Selbstversorgung über",
+      "japanese": "経由の自立",
+      "korean": "자해를 통해",
+      "mandarin": "自我castody通过",
+      "portuguese": "Autoconfiança via",
+      "spanish": "Autocustody a través de",
+      "turkish": "Kendi kendine velayet"
     },
-    "login-terms-of-service": {
-      "english": "Terms of Service",
-      "german": "Nutzungsbedingungen",
-      "japanese": "利用規約",
-      "korean": "서비스 약관",
-      "mandarin": "服务条款",
-      "spanish": "Términos de servicio",
-      "portuguese": "Termos de serviço",
-      "dutch": "Servicevoorwaarden",
-      "french": "Conditions d'utilisation"
+
+    "loader-device-detecting": {
+      "dutch": "Uw apparaat word gedetecteerd",
+      "english": "Detecting your device",
+      "french": "Détection de votre appareil",
+      "german": "Erkennen Ihres Geräts",
+      "japanese": "デバイスの検出",
+      "korean": "장치 감지",
+      "mandarin": "检测您的设备",
+      "portuguese": "Detectando seu dispositivo",
+      "spanish": "Detectando su dispositivo",
+      "turkish": "Cihazınız algılanıyor"
     },
-    "login-privacy-policy": {
-      "english": "Privacy Policy",
-      "german": "Datenschutz-Bestimmungen",
-      "japanese": "プライバシーポリシー",
-      "korean": "개인 정보 정책",
-      "mandarin": "隐私政策",
-      "spanish": "política de privacidad",
-      "portuguese": "política de Privacidade",
-      "dutch": "Privacybeleid",
-      "french": "politique de confidentialité"
-    },
-    "loader-text": {
-      "english": "Detecting your device ...",
-      "german": "Erkennen Sie Ihr Gerät ...",
-      "japanese": "デバイスの検出...",
-      "korean": "장치 감지 ...",
-      "mandarin": "检测您的设备...",
-      "spanish": "Detección de su dispositivo ...",
-      "portuguese": "Detectando seu dispositivo ...",
-      "dutch": "Uw apparaat detecteren ...",
-      "french": "Détecter votre appareil ..."
-    },
-    "verification-heading": {
+    "verify-email-code-title": {
       "english": "Email Verification",
       "german": "E-Mail-Verifizierung",
       "japanese": "電子メールの確認",
@@ -130,106 +118,80 @@
       "spanish": "verificacion de email",
       "portuguese": "verificação de e-mail",
       "dutch": "email verificatie",
-      "french": "vérification de l'E-mail"
+      "french": "vérification de l'E-mail",
+      "turkish": "E-posta doğrulaması"
     },
-    "verification-subheading-1": {
+    "verify-email-code-subheading": {
+      "english": "Please enter the 6-digit verification code that was sent to your email",
+      "german": "Bitte geben Sie den 6-stelligen Überprüfungscode ein, der an Ihre E-Mail gesendet wurde",
+      "japanese": "電子メールに送信された6桁の検証コードを入力してください",
+      "korean": "이메일 으로 전송 된 6 자리 확인 코드를 입력하십시오.",
+      "mandarin": "请输入发送到您的电子邮件的6位验证代码",
+      "spanish": "Ingrese el código de verificación de 6 dígitos que se envió a su correo electrónico",
+      "portuguese": "Por favor, insira o código de verificação de 6 dígitos que foi enviado para o seu email",
+      "dutch": "Voer de 6-cijferige verificatiecode in die is verzonden naar uw e-mail",
+      "french": "Veuillez saisir le code de vérification à 6 chiffres qui a été envoyé à votre e-mail",
+      "turkish": "Lütfen e-postanıza gelen 6 haneli doğrulama kodunu girin"
+    },
+    "resend-code-cta": {
+      "dutch": "Code opnieuw verzenden",
+      "english": "Resend Code",
+      "french": "Renvoyer le code",
+      "german": "Code wiedergeben",
+      "japanese": "再送信コード",
+      "korean": "코드를 재현하십시오",
+      "mandarin": "重新发送验证码",
+      "portuguese": "Reenviar código",
+      "spanish": "Reenviar codigo",
+      "turkish": "Kodu tekrar gönder"
+    },
+    "start-verification-subtitle2": {
+      "dutch": "Er is een e-mail verzonden naar",
       "english": "An email has been sent to",
+      "french": "Un email a été envoyé à",
       "german": "Eine email wurde gesendet an",
-      "japanese": "メールが送信されました",
-      "korean": "이메일이 전송되었습니다",
+      "japanese": "メールがに送信されました",
+      "korean": "로 이메일이 전송되었습니다.",
       "mandarin": "一封电子邮件已经发送至",
-      "spanish": "Se ha enviado un correo electrónico a",
       "portuguese": "Um e-mail foi enviado para",
-      "dutch": "Er is een e -mail verzonden naar",
-      "french": "Un courriel a été envoyé à"
+      "spanish": "Se ha enviado un correo electrónico a",
+      "turkish": "Bir e-posta gönderildi"
     },
-    "verification-subheading-2": {
-      "english": "Please verify your email to continue",
-      "german": "Bitte überprüfen Sie Ihre E -Mail, um fortzufahren",
-      "japanese": "継続するには、メールを確認してください",
-      "korean": "계속해서 이메일을 확인하십시오",
-      "mandarin": "请验证您的电子邮件继续",
-      "spanish": "Verifique su correo electrónico para continuar",
-      "portuguese": "Verifique seu e -mail para continuar",
-      "dutch": "Controleer uw e -mail om door te gaan",
-      "french": "Veuillez vérifier votre e-mail pour continuer"
+    "start-verification-subtitle3": {
+      "dutch": "Verifieer uw e-mail om door te gaan.",
+      "english": "Please verify your email to continue.",
+      "french": "Veuillez vérifier votre adresse e-mail pour continuer.",
+      "german": "Bitte bestätigen Sie Ihre E-Mail, um fortzufahren.",
+      "japanese": "続行するには、メールアドレスを確認してください。",
+      "korean": "계속하려면 이메일을 확인하세요.",
+      "mandarin": "请验证您的电子邮件以继续。",
+      "portuguese": "Verifique seu e-mail para continuar.",
+      "spanish": "Verifique su correo electrónico para continuar.",
+      "turkish": "Devam etmek için lütfen e-postanızı doğrulayın"
     },
-    "verificacion-no-email": {
-      "english": "Did not get email?",
-      "german": "Habe keine E -Mail bekommen?",
-      "japanese": "メールを受け取りませんでしたか？",
-      "korean": "이메일을받지 못했습니까?",
-      "mandarin": "没有收到电子邮件？",
-      "spanish": "¿No recibió correo electrónico?",
-      "portuguese": "Não recebeu e -mail?",
-      "dutch": "Heb je geen e -mail gekregen?",
-      "french": "N'as pas reçu de courrier électronique?"
+    "start-verification-subtitle4": {
+      "dutch": "Geen e-mail ontvangen?",
+      "english": "Did not get the email?",
+      "french": "Vous n'avez pas reçu l'e-mail?",
+      "german": "Hast du die E-mail nicht bekommen?",
+      "japanese": "メールは届きませんでしたか？",
+      "korean": "이메일을 받지 못하셨나요?",
+      "mandarin": "没收到邮件吗？",
+      "portuguese": "Não recebeu o email?",
+      "spanish": "no recibiste el email?",
+      "turkish": "E-posta almadınız mı?"
     },
-    "verification-resend-mail": {
+    "start-resend-btn": {
+      "dutch": "E-mail opnieuw verzenden",
       "english": "Resend email",
+      "french": "Renvoyer le courrier électronique",
       "german": "E-Mail zurücksenden",
       "japanese": "メールを再送",
-      "korean": "이메일을 재현하십시오",
+      "korean": "이메일 재전송",
       "mandarin": "重发电子邮件",
-      "spanish": "Reenviar email",
       "portuguese": "Reenviar email",
-      "dutch": "Email opnieuw verzenden",
-      "french": "Ré-envoyer l'email"
-    },
-    "email-subheading": {
-      "english": "Click the button below to log in securely. This verification link will expire in 5 minutes",
-      "german": "Klicken Sie auf die Schaltfläche unten, um sich sicher anzumelden. Dieser Überprüfungsverbindung läuft in 5 Minuten ab",
-      "japanese": "下のボタンをクリックして、安全にログインします。この検証リンクは5分で期限切れになります",
-      "korean": "아래 버튼을 클릭하여 안전하게 로그인하십시오. 이 확인 링크는 5 분 안에 만료됩니다",
-      "mandarin": "单击下面的按钮以牢固登录。此验证链接将在5分钟内到期",
-      "spanish": "Haga clic en el botón de abajo para iniciar sesión de forma segura. Este enlace de verificación caducará en 5 minutos",
-      "portuguese": "Clique no botão abaixo para fazer login com segurança. Este link de verificação expirará em 5 minutos",
-      "dutch": "Klik op de onderstaande knop om veilig in te loggen. Deze verificatielink loopt binnen 5 minuten af",
-      "french": "Cliquez sur le bouton ci-dessous pour vous connecter en toute sécurité. Ce lien de vérification expirera en 5 minutes"
-    },
-    "email-verify-button": {
-      "english": "Verify my email",
-      "german": "Überprüfen Sie meine E -Mail",
-      "japanese": "メールを確認してください",
-      "korean": "내 이메일을 확인하십시오",
-      "mandarin": "验证我的电子邮件",
-      "spanish": "Verificar mi correo electrónico",
-      "portuguese": "Verifique meu e -mail",
-      "dutch": "Controleer mijn e -mail",
-      "french": "Vérifiez mon e-mail"
-    },
-    "email-footer": {
-      "english": "© 2022 Web3Auth. All Rights Reserved.",
-      "german": "© 2022 Web3Auth. Alle Rechte vorbehalten.",
-      "japanese": "©2022 web3auth。全著作権所有。",
-      "korean": "© 2022 Web3auth. 판권 소유.",
-      "mandarin": "©2022 Web3Auth。版权所有。",
-      "spanish": "© 2022 Web3Auth. Reservados todos los derechos.",
-      "portuguese": "© 2022 Web3auth. Todos os direitos reservados.",
-      "dutch": "© 2022 Web3Auth. Alle rechten voorbehouden.",
-      "french": "© 2022 Web3Auth. Tous les droits sont réservés."
-    },
-    "codeSubHeading1": {
-      "english": "Please enter the 6-digit verification code",
-      "german": "Bitte geben Sie den 6-stelligen Überprüfungscode ein",
-      "japanese": "6桁の検証コードを入力してください",
-      "korean": "6 자리 확인 코드를 입력하십시오",
-      "mandarin": "请输入6位验证代码",
-      "spanish": "Ingrese el código de verificación de 6 dígitos",
-      "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
-      "dutch": "Voer de 6-cijferige verificatiecode in",
-      "french": "Veuillez saisir le code de vérification à 6 chiffres"
-    },
-    "codeSubHeading2": {
-      "english": "that was sent to your email",
-      "german": "Das wurde an Ihre E -Mail gesendet",
-      "japanese": "それはあなたのメールに送信されました",
-      "korean": "그것은 당신의 이메일로 전송되었습니다",
-      "mandarin": "那是发送到您的电子邮件的",
-      "spanish": "que fue enviado a su correo electrónico",
-      "portuguese": "que foi enviado para o seu e -mail",
-      "dutch": "Dat is naar uw e -mail gestuurd",
-      "french": "qui a été envoyé à votre e-mail"
+      "spanish": "Reenviar email",
+      "turkish": "E-postayı tekrar gönder"
     },
     "2fa-setup-title1": {
       "dutch": "Beveilig uw account",
@@ -240,7 +202,8 @@
       "korean": "계정 보안",
       "mandarin": "保护您的帐户",
       "portuguese": "Proteja sua conta",
-      "spanish": "Asegure su cuenta"
+      "spanish": "Asegure su cuenta",
+      "turkish": "Hesabınızı güvence altına alın"
     },
     "2fa-setup-step1-sub1": {
       "dutch": "Activeer 2-factor authenticatie (2FA)",
@@ -251,7 +214,8 @@
       "korean": "2단계 인증(2FA) 활성화",
       "mandarin": "启用 2 因素身份验证 (2FA)",
       "portuguese": "Ativar autenticação de 2 fatores (2FA)",
-      "spanish": "Habilitar la autenticación de 2 factores (2FA)"
+      "spanish": "Habilitar la autenticación de 2 factores (2FA)",
+      "turkish": "2 Faktörlü Kimlik Doğrulamayı Etkinleştir (2FA)"
     },
     "2fa-setup-step1-sub1-desc": {
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account. Elke login vereist 2 factoren voor authenticatie",
@@ -262,18 +226,20 @@
       "korean": "계정에 추가 보안 설정을 하세요. 로그인할 때마다 2단계의 인증을 요구하게 됩니다.",
       "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
       "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação",
-      "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación"
+      "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación",
+      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin. Her oturum açma, kimlik doğrulama için 2 faktör gerektirir"
     },
-    "setup2fa": {
-      "english": "Setup 2FA",
-      "german": "Setup 2FA",
-      "japanese": "セットアップ2FA",
-      "korean": "설정 2FA",
-      "mandarin": "设置2FA",
-      "spanish": "Configuración 2FA",
-      "portuguese": "Configuração 2fa",
-      "dutch": "Setup 2fa",
-      "french": "Configuration 2fa"
+    "2fa-setup-step1-next": {
+      "dutch": "2FA instellen",
+      "english": "Set up 2FA",
+      "french": "Configurer 2FA",
+      "german": "2FA einrichten",
+      "japanese": "2FAを設定する",
+      "korean": "2FA 설정",
+      "mandarin": "设置 2FA",
+      "portuguese": "Configurar 2FA",
+      "spanish": "Configurar 2FA",
+      "turkish": "2 Faktörlü doğrulamayı kurun"
     },
     "register-skip": {
       "dutch": "Nu overslaan",
@@ -284,7 +250,8 @@
       "korean": "건너뛰기",
       "mandarin": "立即跳过",
       "portuguese": "Pular por agora",
-      "spanish": "Saltar por ahora"
+      "spanish": "Saltar por ahora",
+      "turkish": "Şimdilik Atla"
     }
   }
 }
