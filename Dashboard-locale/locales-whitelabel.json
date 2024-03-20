@@ -252,6 +252,18 @@
       "portuguese": "Pular por agora",
       "spanish": "Saltar por ahora",
       "turkish": "Şimdilik Atla"
+    },
+    "tokens": {
+      "english": "Tokens",
+      "german": "Token",
+      "japanese": "トークン",
+      "korean": "토큰",
+      "mandarin": "令牌",
+      "spanish": "Tokens",
+      "portuguese": "Tokens",
+      "dutch": "Munten",
+      "french": "Jetons",
+      "turkish": "Jeton"
     }
   }
 }
