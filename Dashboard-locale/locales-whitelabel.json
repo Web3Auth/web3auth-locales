@@ -300,6 +300,18 @@
       "dutch": "Kopen",
       "french": "Acheter",
       "turkish": "Satın almak"
+    },
+    "yourTokens": {
+      "english": "Your Tokens",
+      "german": "Deine Token",
+      "japanese": "あなたのトークン",
+      "korean": "당신의 토큰",
+      "mandarin": "你的令牌",
+      "spanish": "Tus tokens",
+      "portuguese": "Seus tokens",
+      "dutch": "Uw tokens",
+      "french": "Vos jetons",
+      "turkish": "Jetonlarınız"
     }
   }
 }
