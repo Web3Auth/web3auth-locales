@@ -312,6 +312,30 @@
       "dutch": "Uw tokens",
       "french": "Vos jetons",
       "turkish": "Jetonlarınız"
+    },
+    "home": {
+      "english": "Home",
+      "german": "Heim",
+      "japanese": "家",
+      "korean": "집",
+      "mandarin": "家",
+      "spanish": "Hogar",
+      "portuguese": "Lar",
+      "dutch": "Thuis",
+      "french": "Maison",
+      "turkish": "Ev"
+    },
+    "activity": {
+      "english": "Activity",
+      "german": "Aktivität",
+      "japanese": "活動",
+      "korean": "활동",
+      "mandarin": "活动",
+      "spanish": "Actividad",
+      "portuguese": "Atividade",
+      "dutch": "Activiteit",
+      "french": "Activité",
+      "turkish": "Aktivite"
     }
   }
 }
