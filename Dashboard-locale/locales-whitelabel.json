@@ -264,6 +264,42 @@
       "dutch": "Munten",
       "french": "Jetons",
       "turkish": "Jeton"
+    },
+    "send": {
+      "english": "Send",
+      "german": "Schicken",
+      "japanese": "送信",
+      "korean": "보내다",
+      "mandarin": "发送",
+      "spanish": "Enviar",
+      "portuguese": "Enviar",
+      "dutch": "Versturen",
+      "french": "Envoyer",
+      "turkish": "Göndermek"
+    },
+    "receive": {
+      "english": "Receive",
+      "german": "Erhalten",
+      "japanese": "受け取る",
+      "korean": "받다",
+      "mandarin": "收到",
+      "spanish": "Recibir",
+      "portuguese": "Receber",
+      "dutch": "Ontvangen",
+      "french": "Recevoir",
+      "turkish": "Almak"
+    },
+    "buy": {
+      "english": "Buy",
+      "german": "Kaufen",
+      "japanese": "買う",
+      "korean": "구입하다",
+      "mandarin": "买",
+      "spanish": "Comprar",
+      "portuguese": "Comprar",
+      "dutch": "Kopen",
+      "french": "Acheter",
+      "turkish": "Satın almak"
     }
   }
 }
