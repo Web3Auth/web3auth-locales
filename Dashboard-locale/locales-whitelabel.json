@@ -252,6 +252,90 @@
       "portuguese": "Pular por agora",
       "spanish": "Saltar por ahora",
       "turkish": "Şimdilik Atla"
+    },
+    "tokens": {
+      "english": "Tokens",
+      "german": "Token",
+      "japanese": "トークン",
+      "korean": "토큰",
+      "mandarin": "令牌",
+      "spanish": "Tokens",
+      "portuguese": "Tokens",
+      "dutch": "Munten",
+      "french": "Jetons",
+      "turkish": "Jeton"
+    },
+    "send": {
+      "english": "Send",
+      "german": "Schicken",
+      "japanese": "送信",
+      "korean": "보내다",
+      "mandarin": "发送",
+      "spanish": "Enviar",
+      "portuguese": "Enviar",
+      "dutch": "Versturen",
+      "french": "Envoyer",
+      "turkish": "Göndermek"
+    },
+    "receive": {
+      "english": "Receive",
+      "german": "Erhalten",
+      "japanese": "受け取る",
+      "korean": "받다",
+      "mandarin": "收到",
+      "spanish": "Recibir",
+      "portuguese": "Receber",
+      "dutch": "Ontvangen",
+      "french": "Recevoir",
+      "turkish": "Almak"
+    },
+    "buy": {
+      "english": "Buy",
+      "german": "Kaufen",
+      "japanese": "買う",
+      "korean": "구입하다",
+      "mandarin": "买",
+      "spanish": "Comprar",
+      "portuguese": "Comprar",
+      "dutch": "Kopen",
+      "french": "Acheter",
+      "turkish": "Satın almak"
+    },
+    "yourTokens": {
+      "english": "Your Tokens",
+      "german": "Deine Token",
+      "japanese": "あなたのトークン",
+      "korean": "당신의 토큰",
+      "mandarin": "你的令牌",
+      "spanish": "Tus tokens",
+      "portuguese": "Seus tokens",
+      "dutch": "Uw tokens",
+      "french": "Vos jetons",
+      "turkish": "Jetonlarınız"
+    },
+    "home": {
+      "english": "Home",
+      "german": "Heim",
+      "japanese": "家",
+      "korean": "집",
+      "mandarin": "家",
+      "spanish": "Hogar",
+      "portuguese": "Lar",
+      "dutch": "Thuis",
+      "french": "Maison",
+      "turkish": "Ev"
+    },
+    "activity": {
+      "english": "Activity",
+      "german": "Aktivität",
+      "japanese": "活動",
+      "korean": "활동",
+      "mandarin": "活动",
+      "spanish": "Actividad",
+      "portuguese": "Atividade",
+      "dutch": "Activiteit",
+      "french": "Activité",
+      "turkish": "Aktivite"
     }
   }
 }
