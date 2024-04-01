@@ -336,6 +336,42 @@
       "dutch": "Activiteit",
       "french": "Activité",
       "turkish": "Aktivite"
+    },
+    "verify-email-address": {
+      "english":	"Verify your email address",
+      "german":	"Bestätige deine Email-Adresse",
+      "japanese":	"あなたのメールアドレスを確認してください",
+      "korean":	"이메일 주소를 확인",
+      "mandarin":	"确认你的邮件地址",
+      "spanish":	"Verifique su dirección de correo electrónico",
+      "portuguese":	"Verifique seu endereço de e-mail",
+      "dutch":	"Verifieer je e-mailadres",
+      "french":	"Vérifiez votre adresse e-mail",
+      "turkish":	"Email adresinizi doğrulayın"
+    },
+    "verify-email-using-code": {
+      "english":	"Please verify your email address using the code below to login.",
+      "german":	"Bitte bestätigen Sie Ihre E-Mail-Adresse mit dem untenstehenden Code, um sich anzumelden.",
+      "japanese":	"ログインするには、以下のコードを使用してメール アドレスを確認してください。",
+      "korean":	"로그인하려면 아래 코드를 사용하여 이메일 주소를 확인하세요.",
+      "mandarin":	"请使用下面的代码验证您的电子邮件地址以登录。",
+      "spanish":	"Verifique su dirección de correo electrónico utilizando el siguiente código para iniciar sesión.",
+      "portuguese":	"Verifique seu endereço de e-mail usando o código abaixo para fazer login.",
+      "dutch":	"Verifieer uw e-mailadres met behulp van de onderstaande code om in te loggen.",
+      "french":	"Veuillez vérifier votre adresse e-mail en utilisant le code ci-dessous pour vous connecter.",
+      "turkish":	"Giriş yapmak için lütfen aşağıdaki kodu kullanarak e-posta adresinizi doğrulayın."
+    },
+    "verification-expire-in": {
+      "english":	"The verification code will expire in 5 minutes",
+      "german":	"Der Bestätigungscode läuft in 5 Minuten ab",
+      "japanese":	"確認コードの有効期限は 5 分以内です",
+      "korean":	"인증 코드는 5분 후에 만료됩니다.",
+      "mandarin":	"验证码将于5分钟后失效",
+      "spanish":	"El código de verificación caducará en 5 minutos.",
+      "portuguese":	"O código de verificação expirará em 5 minutos",
+      "dutch":	"De verificatiecode vervalt na 5 minuten",
+      "french":	"Le code de vérification expirera dans 5 minutes",
+      "turkish":	"Doğrulama kodunun süresi 5 dakika içinde dolacak",
     }
   }
 }
