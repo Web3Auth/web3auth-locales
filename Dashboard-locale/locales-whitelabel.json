@@ -385,16 +385,52 @@
       "turkish":	"Bu istek, {ipAddress} IP adresiyle {browser} tarafından {generatedTime} tarihinde oluşturuldu. Bu sizin tarafınızdan yapılmadıysa lütfen {reportIt}"
     },
     "manage-keys": {
-      "english":	"To manage your keys for this account, kindly login to {openlogin}. The use of this service and website is subject to Web3Auth’s {toc} and {privacyPolicy}",
-      "german":	"Um Ihre Schlüssel für dieses Konto zu verwalten, melden Sie sich bitte bei {openlogin} an. Die Nutzung dieses Dienstes und dieser Website unterliegt den {toc} und {privacyPolicy} von Web3Auth.",
-      "japanese":	"このアカウントのキーを管理するには、{openlogin} にログインしてください。このサービスと Web サイトの使用には、Web3Auth の {toc} および {privacyPolicy} が適用されます。",
-      "korean":	"이 계정의 키를 관리하려면 {openlogin}에 로그인하세요. 이 서비스 및 웹사이트의 사용에는 Web3Auth의 {toc} 및 {privacyPolicy}가 적용됩니다.",
-      "mandarin":	"要管理此帐户的密钥，请登录 {openlogin}。使用本服务和网站须遵守 Web3Auth 的 {toc} 和 {privacyPolicy}",
-      "spanish":	"Para administrar sus claves para esta cuenta, inicie sesión en {openlogin}. El uso de este servicio y sitio web está sujeto al {toc} y a la {privacyPolicy} de Web3Auth.",
-      "portuguese":	"Para gerenciar suas chaves desta conta, faça login em {openlogin}. O uso deste serviço e site está sujeito às {toc} e {privacyPolicy} da Web3Auth",
-      "dutch":	"Om uw sleutels voor dit account te beheren, logt u in op {openlogin}. Het gebruik van deze dienst en website is onderworpen aan Web3Auth's {toc} en {privacyPolicy}",
-      "french":	"Pour gérer vos clés pour ce compte, veuillez vous connecter à {openlogin}. L'utilisation de ce service et de ce site Web est soumise aux {toc} et {privacyPolicy} de Web3Auth.",
-      "turkish":	"Bu hesaba ilişkin anahtarlarınızı yönetmek için lütfen {openlogin} adresinde oturum açın. Bu hizmetin ve web sitesinin kullanımı Web3Auth'un {toc} ve {privacyPolicy} hükümlerine tabidir."
+      "english":	"To manage your keys for this account, kindly login to {openlogin}. The use of this service and website is subject to Web3Auth’s {toc} and {privacyStatement}",
+      "german":	"Um Ihre Schlüssel für dieses Konto zu verwalten, melden Sie sich bitte bei {openlogin} an. Die Nutzung dieses Dienstes und dieser Website unterliegt den {toc} und {privacyStatement} von Web3Auth.",
+      "japanese":	"このアカウントのキーを管理するには、{openlogin} にログインしてください。このサービスと Web サイトの使用には、Web3Auth の {toc} および {privacyStatement} が適用されます。",
+      "korean":	"이 계정의 키를 관리하려면 {openlogin}에 로그인하세요. 이 서비스 및 웹사이트의 사용에는 Web3Auth의 {toc} 및 {privacyStatement}가 적용됩니다.",
+      "mandarin":	"要管理此帐户的密钥，请登录 {openlogin}。使用本服务和网站须遵守 Web3Auth 的 {toc} 和 {privacyStatement}",
+      "spanish":	"Para administrar sus claves para esta cuenta, inicie sesión en {openlogin}. El uso de este servicio y sitio web está sujeto al {toc} y a la {privacyStatement} de Web3Auth.",
+      "portuguese":	"Para gerenciar suas chaves desta conta, faça login em {openlogin}. O uso deste serviço e site está sujeito às {toc} e {privacyStatement} da Web3Auth",
+      "dutch":	"Om uw sleutels voor dit account te beheren, logt u in op {openlogin}. Het gebruik van deze dienst en website is onderworpen aan Web3Auth's {toc} en {privacyStatement}",
+      "french":	"Pour gérer vos clés pour ce compte, veuillez vous connecter à {openlogin}. L'utilisation de ce service et de ce site Web est soumise aux {toc} et {privacyStatement} de Web3Auth.",
+      "turkish":	"Bu hesaba ilişkin anahtarlarınızı yönetmek için lütfen {openlogin} adresinde oturum açın. Bu hizmetin ve web sitesinin kullanımı Web3Auth'un {toc} ve {privacyStatement} hükümlerine tabidir."
+    },
+    "report-it": {
+      "english":	"report it",
+      "german":	"berichten Sie",
+      "japanese":	"それを報告する",
+      "korean":	"신고해",
+      "mandarin":	"报告它",
+      "spanish":	"reportalo",
+      "portuguese":	"denuncie",
+      "dutch":	"rapporteer het",
+      "french":	"signalez-le",
+      "turkish":	"onu rapor et"
+    },
+    "terms-of-service": {
+      "english":	"Terms of Service",
+      "german":	"Nutzungsbedingungen",
+      "japanese":	"利用規約",
+      "korean":	"서비스 약관",
+      "mandarin":	"服务条款",
+      "spanish":	"Términos de servicio",
+      "portuguese":	"Termos de serviço",
+      "dutch":	"Servicevoorwaarden",
+      "french":	"Conditions d'utilisation",
+      "turkish":	"Kullanım Şartları"
+    },
+    "privacy-statement": {
+      "english":	"Privacy Statement",
+      "german":	"Datenschutzerklärung",
+      "japanese":	"プライバシーに関する声明",
+      "korean":	"개인 정보 보호 정책",
+      "mandarin":	"隐私声明",
+      "spanish":	"Declaracion de privacidad",
+      "portuguese":	"Declaração de privacidade",
+      "dutch":	"Privacyverklaring",
+      "french":	"Déclaration de confidentialité",
+      "turkish":	"Gizlilik Bildirimi"
     }
   }
 }
