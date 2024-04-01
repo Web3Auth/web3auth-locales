@@ -373,16 +373,16 @@
       "turkish": "Doğrulama kodunun süresi 5 dakika içinde dolacak"
     },
     "request-generated-on": {
-      "english":	"This request is generated on {0} from {1} with the IP address {2}. If this is not done by you, please {3}",
-      "german":	"Diese Anfrage wird am {0} von {1} mit der IP-Adresse {2} generiert. Wenn Sie dies nicht tun, {3}",
-      "japanese":	"このリクエストは、IP アドレス {2} を使用して {1} から {0} で生成されます。これをあなたが行っていない場合は、{3} を行ってください。",
-      "korean":	"이 요청은 IP 주소가 {2}인 {1}에서 {0}에 생성됩니다. 귀하가 이 작업을 수행하지 않은 경우 다음을 수행하십시오. {3}",
-      "mandarin":	"该请求是在 {0} 上从 {1} 生成的，IP 地址为 {2}。如果这不是您做的，请{3}",
-      "spanish":	"Esta solicitud se genera el {0} desde {1} con la dirección IP {2}. Si esto no lo hace usted, por favor {3}",
-      "portuguese":	"Esta solicitação é gerada em {0} de {1} com o endereço IP {2}. Se isso não for feito por você, por favor {3}",
-      "dutch":	"Dit verzoek wordt gegenereerd op {0} vanuit {1} met het IP-adres {2}. Als u dit niet zelf doet, {3}",
-      "french":	"Cette requête est générée le {0} à partir de {1} avec l'adresse IP {2}. Si vous ne l'avez pas fait, veuillez {3}",
-      "turkish":	"Bu istek, {2} IP adresiyle {1} tarafından {0} tarihinde oluşturuldu. Bu sizin tarafınızdan yapılmadıysa lütfen {3}"
+      "english":	"This request is generated on {generatedTime} from {browser} with the IP address {ipAddress}. If this is not done by you, please {reportIt}",
+      "german":	"Diese Anfrage wird am {generatedTime} von {browser} mit der IP-Adresse {ipAddress} generiert. Wenn Sie dies nicht tun, {reportIt}",
+      "japanese":	"このリクエストは、IP アドレス {ipAddress} を使用して {browser} から {generatedTime} で生成されます。これをあなたが行っていない場合は、{reportIt} を行ってください。",
+      "korean":	"이 요청은 IP 주소가 {ipAddress}인 {browser}에서 {generatedTime}에 생성됩니다. 귀하가 이 작업을 수행하지 않은 경우 다음을 수행하십시오. {reportIt}",
+      "mandarin":	"该请求是在 {generatedTime} 上从 {browser} 生成的，IP 地址为 {ipAddress}。如果这不是您做的，请{reportIt}",
+      "spanish":	"Esta solicitud se genera el {generatedTime} desde {browser} con la dirección IP {ipAddress}. Si esto no lo hace usted, por favor {reportIt}",
+      "portuguese":	"Esta solicitação é gerada em {generatedTime} de {browser} com o endereço IP {ipAddress}. Se isso não for feito por você, por favor {reportIt}",
+      "dutch":	"Dit verzoek wordt gegenereerd op {generatedTime} vanuit {browser} met het IP-adres {ipAddress}. Als u dit niet zelf doet, {reportIt}",
+      "french":	"Cette requête est générée le {generatedTime} à partir de {browser} avec l'adresse IP {ipAddress}. Si vous ne l'avez pas fait, veuillez {reportIt}",
+      "turkish":	"Bu istek, {ipAddress} IP adresiyle {browser} tarafından {generatedTime} tarihinde oluşturuldu. Bu sizin tarafınızdan yapılmadıysa lütfen {reportIt}"
     },
     "manage-keys": {
       "english":	"To manage your keys for this account, kindly login to {openlogin}. The use of this service and website is subject to Web3Auth’s {toc} and {privacyPolicy}",
