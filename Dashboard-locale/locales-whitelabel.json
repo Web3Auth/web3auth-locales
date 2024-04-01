@@ -371,6 +371,18 @@
       "dutch": "De verificatiecode vervalt na 5 minuten",
       "french": "Le code de vérification expirera dans 5 minutes",
       "turkish": "Doğrulama kodunun süresi 5 dakika içinde dolacak"
+    },
+    "manage-keys": {
+      "english":	"To manage your keys for this account, kindly login to {0}. The use of this service and website is subject to Web3Auth’s {1} and {2}",
+      "german":	"Um Ihre Schlüssel für dieses Konto zu verwalten, melden Sie sich bitte bei {0} an. Die Nutzung dieses Dienstes und dieser Website unterliegt den {1} und {2} von Web3Auth.",
+      "japanese":	"このアカウントのキーを管理するには、{0} にログインしてください。このサービスと Web サイトの使用には、Web3Auth の {1} および {2} が適用されます。",
+      "korean":	"이 계정의 키를 관리하려면 {0}에 로그인하세요. 이 서비스와 웹사이트의 사용에는 Web3Auth의 {1} 및 {2}가 적용됩니다.",
+      "mandarin":	"要管理此帐户的密钥，请登录到 {0}。使用此服务和网站须遵守 Web3Auth 的 {1} 和 {2}",
+      "spanish":	"Para administrar sus claves para esta cuenta, inicie sesión en {0}. El uso de este servicio y sitio web está sujeto a las {1} y {2} de Web3Auth.",
+      "portuguese":	"Para gerenciar suas chaves desta conta, faça login em {0}. O uso deste serviço e site está sujeito aos {1} e {2} do Web3Auth",
+      "dutch":	"Om uw sleutels voor dit account te beheren, logt u in op {0}. Het gebruik van deze dienst en website is onderworpen aan Web3Auth's {1} en {2}",
+      "french":	"Pour gérer vos clés pour ce compte, veuillez vous connecter à {0}. L'utilisation de ce service et de ce site Web est soumise aux règles {1} et {2} de Web3Auth.",
+      "turkish":	"Bu hesaba ilişkin anahtarlarınızı yönetmek için lütfen {0} hesabına giriş yapın. Bu hizmetin ve web sitesinin kullanımı Web3Auth'un {1} ve {2} hükümlerine tabidir."
     }
   }
 }
