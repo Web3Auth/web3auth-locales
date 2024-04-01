@@ -96,7 +96,6 @@
       "spanish": "Autocustody a través de",
       "turkish": "Kendi kendine velayet"
     },
-
     "loader-device-detecting": {
       "dutch": "Uw apparaat word gedetecteerd",
       "english": "Detecting your device",
@@ -336,6 +335,102 @@
       "dutch": "Activiteit",
       "french": "Activité",
       "turkish": "Aktivite"
+    },
+    "verify-email-address": {
+      "english": "Verify your email address",
+      "german": "Bestätige deine Email-Adresse",
+      "japanese": "あなたのメールアドレスを確認してください",
+      "korean": "이메일 주소를 확인",
+      "mandarin": "确认你的邮件地址",
+      "spanish": "Verifique su dirección de correo electrónico",
+      "portuguese": "Verifique seu endereço de e-mail",
+      "dutch": "Verifieer je e-mailadres",
+      "french": "Vérifiez votre adresse e-mail",
+      "turkish": "Email adresinizi doğrulayın"
+    },
+    "verify-email-using-code": {
+      "english": "Please verify your email address using the code below to login.",
+      "german": "Bitte bestätigen Sie Ihre E-Mail-Adresse mit dem untenstehenden Code, um sich anzumelden.",
+      "japanese": "ログインするには、以下のコードを使用してメール アドレスを確認してください。",
+      "korean": "로그인하려면 아래 코드를 사용하여 이메일 주소를 확인하세요.",
+      "mandarin": "请使用下面的代码验证您的电子邮件地址以登录。",
+      "spanish": "Verifique su dirección de correo electrónico utilizando el siguiente código para iniciar sesión.",
+      "portuguese": "Verifique seu endereço de e-mail usando o código abaixo para fazer login.",
+      "dutch": "Verifieer uw e-mailadres met behulp van de onderstaande code om in te loggen.",
+      "french": "Veuillez vérifier votre adresse e-mail en utilisant le code ci-dessous pour vous connecter.",
+      "turkish": "Giriş yapmak için lütfen aşağıdaki kodu kullanarak e-posta adresinizi doğrulayın."
+    },
+    "verification-expire-in": {
+      "english": "The verification code will expire in 5 minutes",
+      "german": "Der Bestätigungscode läuft in 5 Minuten ab",
+      "japanese": "確認コードの有効期限は 5 分以内です",
+      "korean": "인증 코드는 5분 후에 만료됩니다.",
+      "mandarin": "验证码将于5分钟后失效",
+      "spanish": "El código de verificación caducará en 5 minutos.",
+      "portuguese": "O código de verificação expirará em 5 minutos",
+      "dutch": "De verificatiecode vervalt na 5 minuten",
+      "french": "Le code de vérification expirera dans 5 minutes",
+      "turkish": "Doğrulama kodunun süresi 5 dakika içinde dolacak"
+    },
+    "request-generated-on": {
+      "english":	"This request is generated on {generatedTime} from {browser} with the IP address {ipAddress}. If this is not done by you, please {reportIt}",
+      "german":	"Diese Anfrage wird am {generatedTime} von {browser} mit der IP-Adresse {ipAddress} generiert. Wenn Sie dies nicht tun, {reportIt}",
+      "japanese":	"このリクエストは、IP アドレス {ipAddress} を使用して {browser} から {generatedTime} で生成されます。これをあなたが行っていない場合は、{reportIt} を行ってください。",
+      "korean":	"이 요청은 IP 주소가 {ipAddress}인 {browser}에서 {generatedTime}에 생성됩니다. 귀하가 이 작업을 수행하지 않은 경우 다음을 수행하십시오. {reportIt}",
+      "mandarin":	"该请求是在 {generatedTime} 上从 {browser} 生成的，IP 地址为 {ipAddress}。如果这不是您做的，请{reportIt}",
+      "spanish":	"Esta solicitud se genera el {generatedTime} desde {browser} con la dirección IP {ipAddress}. Si esto no lo hace usted, por favor {reportIt}",
+      "portuguese":	"Esta solicitação é gerada em {generatedTime} de {browser} com o endereço IP {ipAddress}. Se isso não for feito por você, por favor {reportIt}",
+      "dutch":	"Dit verzoek wordt gegenereerd op {generatedTime} vanuit {browser} met het IP-adres {ipAddress}. Als u dit niet zelf doet, {reportIt}",
+      "french":	"Cette requête est générée le {generatedTime} à partir de {browser} avec l'adresse IP {ipAddress}. Si vous ne l'avez pas fait, veuillez {reportIt}",
+      "turkish":	"Bu istek, {ipAddress} IP adresiyle {browser} tarafından {generatedTime} tarihinde oluşturuldu. Bu sizin tarafınızdan yapılmadıysa lütfen {reportIt}"
+    },
+    "manage-keys": {
+      "english":	"To manage your keys for this account, kindly login to {openlogin}. The use of this service and website is subject to Web3Auth’s {toc} and {privacyStatement}",
+      "german":	"Um Ihre Schlüssel für dieses Konto zu verwalten, melden Sie sich bitte bei {openlogin} an. Die Nutzung dieses Dienstes und dieser Website unterliegt den {toc} und {privacyStatement} von Web3Auth.",
+      "japanese":	"このアカウントのキーを管理するには、{openlogin} にログインしてください。このサービスと Web サイトの使用には、Web3Auth の {toc} および {privacyStatement} が適用されます。",
+      "korean":	"이 계정의 키를 관리하려면 {openlogin}에 로그인하세요. 이 서비스 및 웹사이트의 사용에는 Web3Auth의 {toc} 및 {privacyStatement}가 적용됩니다.",
+      "mandarin":	"要管理此帐户的密钥，请登录 {openlogin}。使用本服务和网站须遵守 Web3Auth 的 {toc} 和 {privacyStatement}",
+      "spanish":	"Para administrar sus claves para esta cuenta, inicie sesión en {openlogin}. El uso de este servicio y sitio web está sujeto al {toc} y a la {privacyStatement} de Web3Auth.",
+      "portuguese":	"Para gerenciar suas chaves desta conta, faça login em {openlogin}. O uso deste serviço e site está sujeito às {toc} e {privacyStatement} da Web3Auth",
+      "dutch":	"Om uw sleutels voor dit account te beheren, logt u in op {openlogin}. Het gebruik van deze dienst en website is onderworpen aan Web3Auth's {toc} en {privacyStatement}",
+      "french":	"Pour gérer vos clés pour ce compte, veuillez vous connecter à {openlogin}. L'utilisation de ce service et de ce site Web est soumise aux {toc} et {privacyStatement} de Web3Auth.",
+      "turkish":	"Bu hesaba ilişkin anahtarlarınızı yönetmek için lütfen {openlogin} adresinde oturum açın. Bu hizmetin ve web sitesinin kullanımı Web3Auth'un {toc} ve {privacyStatement} hükümlerine tabidir."
+    },
+    "report-it": {
+      "english":	"report it",
+      "german":	"berichten Sie",
+      "japanese":	"それを報告する",
+      "korean":	"신고해",
+      "mandarin":	"报告它",
+      "spanish":	"reportalo",
+      "portuguese":	"denuncie",
+      "dutch":	"rapporteer het",
+      "french":	"signalez-le",
+      "turkish":	"onu rapor et"
+    },
+    "terms-of-service": {
+      "english":	"Terms of Service",
+      "german":	"Nutzungsbedingungen",
+      "japanese":	"利用規約",
+      "korean":	"서비스 약관",
+      "mandarin":	"服务条款",
+      "spanish":	"Términos de servicio",
+      "portuguese":	"Termos de serviço",
+      "dutch":	"Servicevoorwaarden",
+      "french":	"Conditions d'utilisation",
+      "turkish":	"Kullanım Şartları"
+    },
+    "privacy-statement": {
+      "english":	"Privacy Statement",
+      "german":	"Datenschutzerklärung",
+      "japanese":	"プライバシーに関する声明",
+      "korean":	"개인 정보 보호 정책",
+      "mandarin":	"隐私声明",
+      "spanish":	"Declaracion de privacidad",
+      "portuguese":	"Declaração de privacidade",
+      "dutch":	"Privacyverklaring",
+      "french":	"Déclaration de confidentialité",
+      "turkish":	"Gizlilik Bildirimi"
     }
   }
 }
