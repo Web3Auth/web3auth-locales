@@ -1,0 +1,183 @@
+{
+  "authenticator": {
+    "complete-desc": {
+      "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
+      "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
+      "french": "Si vous perdez l'accès à votre deuxième facteur, utilisez votre application d'authentification pour récupérer votre compte.",
+      "german": "Wenn Sie den Zugriff auf Ihren 2. Faktor verlieren, verwenden Sie Ihre Authentifizierungs-App, um Ihr Konto wiederherzustellen.",
+      "japanese": "2 番目の要素にアクセスできなくなった場合は、認証アプリを使用してアカウントを取り戻します。",
+      "korean": "2 차 요소에 액세스 할 수 없는 경우 인증 앱을 사용하여 계정을 복구하십시오.",
+      "mandarin": "如果您无法访问第二个因素，请使用您的身份验证应用程序恢复您的帐户。",
+      "portuguese": "Se você perder o acesso ao seu segundo fator, use seu aplicativo de autenticação para recuperar sua conta.",
+      "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
+      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı kurtarmak için kimlik doğrulama uygulamanızı kullanın."
+    },
+    "error-invalid-otp": {
+      "english": "Invalid OTP, please try again",
+      "french": "OTP invalide, veuillez réessayer",
+      "german": "Ungültiges OTP, bitte versuchen Sie es erneut",
+      "japanese": "無効な OTP です。もう一度やり直してください",
+      "korean": "잘못된 OTP입니다. 다시 시도하십시오.",
+      "mandarin": "无效的 OTP，请重试",
+      "portuguese": "OTP inválido, tente novamente",
+      "spanish": "OTP no válido, inténtelo de nuevo",
+      "turkish": "Geçersiz OTP, lütfen tekrar deneyin"
+    },
+    "manual-entry": {
+      "dutch": "Voer de code handmatig in",
+      "english": "Enter code manually",
+      "french": "Entrez le code manuellement",
+      "german": "Geben Sie den Code manuell ein",
+      "japanese": "コードを手動で入力する",
+      "korean": "코드를 수동으로 입력하십시오.",
+      "mandarin": "手动输入代码",
+      "portuguese": "Digite o código manualmente",
+      "spanish": "Ingrese el código manualmente",
+      "turkish": "Kodu manuel olarak girin"
+    },
+    "scan-qr-code": {
+      "dutch": "Scan QR-code",
+      "english": "Scan QR code",
+      "french": "Scanner le code QR",
+      "german": "QR-Code scannen",
+      "japanese": "QR コードをスキャンする",
+      "korean": "QR 코드 스캔",
+      "mandarin": "扫描 QR 码",
+      "portuguese": "Digitalizar código QR",
+      "spanish": "Escanear código QR",
+      "turkish": "QR kodunu tarayın"
+    },
+    "setup-complete-desc": {
+      "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
+      "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
+      "french": "Si vous perdez l'accès à votre deuxième facteur, utilisez votre application d'authentification pour récupérer votre compte.",
+      "german": "Wenn Sie den Zugriff auf Ihren 2. Faktor verlieren, verwenden Sie Ihre Authentifizierungs-App, um Ihr Konto wiederherzustellen.",
+      "japanese": "2 番目の要素にアクセスできなくなった場合は、認証アプリを使用してアカウントを取り戻します。",
+      "korean": "2 차 요소에 액세스 할 수 없는 경우 인증 앱을 사용하여 계정을 복구하십시오.",
+      "mandarin": "如果您无法访问第二个因素，请使用您的身份验证应用程序恢复您的帐户。",
+      "portuguese": "Se você perder o acesso ao seu segundo fator, use seu aplicativo de autenticação para recuperar sua conta.",
+      "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
+      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı geri almak için kimlik doğrulama uygulamanızı kullanın."
+    },
+    "setup-complete-title": {
+      "dutch": "Authenticator App als herstelfactor is succesvol toegevoegd",
+      "english": "Authenticator App as a recovery factor has been added successfully",
+      "french": "L'application Authenticator en tant que facteur de récupération a été ajoutée avec succès",
+      "german": "Authenticator App als Wiederherstellungsfaktor wurde erfolgreich hinzugefügt",
+      "japanese": "アプリケーション Authenticator を回復要素として正常に追加しました",
+      "korean": "앱 Authenticator 를 복구 요소로 성공적으로 추가했습니다.",
+      "mandarin": "已成功将 Authenticator 应用程序添加为恢复因素。",
+      "portuguese": "O aplicativo Authenticator como fator de recuperação foi adicionado com sucesso",
+      "spanish": "La aplicación Authenticator como factor de recuperación se agregó correctamente",
+      "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi"
+    },
+    "setup-desc": {
+      "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
+      "english": "Use your authentication app (e.g. Google Authenticator or Authy) to scan this QR code.",
+      "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour scanner ce code QR.",
+      "german": "Verwenden Sie Ihre Authentifizierungs-App (z. B. Google Authenticator oder Authy), um diesen QR-Code zu scannen.",
+      "japanese": "認証アプリ（Google Authenticator や Authy など）を使用して、この QR コードをスキャンします。",
+      "korean": "인증 앱 (예 : Google Authenticator 또는 Authy)을 사용하여이 QR 코드를 스캔하십시오.",
+      "mandarin": "使用您的身份验证应用程序（例如 Google Authenticator 或 Authy）扫描此 QR 码。",
+      "portuguese": "Use seu aplicativo de autenticação (por exemplo, Google Authenticator ou Authy) para escanear este código QR.",
+      "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
+      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
+    },
+    "setup-title": {
+      "dutch": "Authenticator App instellen",
+      "english": "Set up Authenticator App",
+      "french": "Configurer l'application Authenticator",
+      "german": "Authenticator App einrichten",
+      "japanese": "Authenticator アプリを設定する",
+      "korean": "Authenticator 앱 설정",
+      "mandarin": "设置 Authenticator 应用程序",
+      "portuguese": "Configuração do aplicativo Authenticator",
+      "spanish": "Configuración de la aplicación Authenticator",
+      "turkish": "Authenticator Uygulamasını ayarla"
+    },
+    "verify-desc": {
+      "dutch": "Voer de 6-cijferige verificatiecode in van uw authenticatie-app",
+      "english": "Enter the 6-digit verification code from your authentication app",
+      "french": "Entrez le code de vérification à 6 chiffres de votre application d'authentification",
+      "german": "Geben Sie den 6-stelligen Bestätigungscode Ihrer Authentifizierungs-App ein",
+      "japanese": "認証アプリからの6桁の確認コードを入力します",
+      "korean": "인증 앱에서 6 자리 인증 코드를 입력하십시오.",
+      "mandarin": "从您的身份验证应用程序输入 6 位数验证码",
+      "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
+      "spanish": "Ingrese el código de verificación de 6 dígitos de su aplicación de autenticación",
+      "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin"
+    },
+    "verify-title": {
+      "dutch": "Verifieer uw Authenticator App",
+      "english": "Verify your Authenticator App",
+      "french": "Vérifiez votre application Authenticator",
+      "german": "Überprüfen Sie Ihre Authenticator App",
+      "japanese": "Authenticator アプリを確認する",
+      "korean": "Authenticator 앱 확인",
+      "mandarin": "验证您的 Authenticator 应用程序",
+      "portuguese": "Verifique seu aplicativo Authenticator",
+      "spanish": "Verifique su aplicación Authenticator",
+      "turkish": "Authenticator Uygulamanızı doğrulayın"
+    },
+    "cancel": {
+      "dutch": "Annuleren",
+      "english": "Cancel",
+      "french": "Annuler",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "mandarin": "取消",
+      "portuguese": "Cancelar",
+      "spanish": "Cancelar",
+      "turkish": "İptal etmek"
+    },
+    "done": {
+      "dutch": "Klaar",
+      "english": "Done",
+      "french": "Terminé",
+      "german": "Erledigt",
+      "japanese": "完了",
+      "korean": "끝난",
+      "mandarin": "完成",
+      "portuguese": "Concluído",
+      "spanish": "Hecho",
+      "turkish": "Bitti"
+    },
+    "next": {
+      "dutch": "Volgende",
+      "english": "Next",
+      "french": "Suivant",
+      "german": "Nächster",
+      "japanese": "次",
+      "korean": "다음",
+      "mandarin": "下一个",
+      "portuguese": "Próximo",
+      "spanish": "Próximo",
+      "turkish": "Sonraki"
+    },
+    "error-something-wrong-error": {
+      "dutch": "Er is iets misgegaan",
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다.",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal",
+      "turkish": "Bir şeyler ters gitti"
+    },
+    "error-too-many-attempts": {
+      "dutch": "Te veel verzoeken, probeer het later opnieuw",
+      "english": "Too many requests, try again after some time",
+      "french": "Trop de demandes, réessayez plus tard",
+      "german": "Zu viele Anfragen, versuchen Sie es später erneut",
+      "japanese": "リクエストが多すぎます。しばらくしてからもう一度やり直してください",
+      "korean": "요청이 너무 많습니다. 시간이 지난 후 다시 시도하십시오",
+      "mandarin": "请求太多，请稍后重试",
+      "portuguese": "Muitas solicitações, tente novamente depois de algum tempo",
+      "spanish": "Demasiadas solicitudes, inténtelo de nuevo después de un tiempo",
+      "turkish": "Çok fazla istek, bir süre sonra tekrar deneyin"
+    }
+  }
+}
