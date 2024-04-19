@@ -431,6 +431,18 @@
       "dutch": "Privacyverklaring",
       "french": "Déclaration de confidentialité",
       "turkish": "Gizlilik Bildirimi"
+    },
+    "social-continueCustom": {
+      "dutch": "Doorgaan met {adapter}",
+      "english": "Continue with {adapter}",
+      "french": "Continuer avec {adapter}",
+      "german": "Fahren Sie mit {adapter} fort",
+      "japanese": "{adapter}を続けます",
+      "korean": "{adapter}을 계속하십시오",
+      "mandarin": "继续使用{adapter}",
+      "portuguese": "Continue com o {adapter}",
+      "spanish": "Continuar con {adapter}",
+      "turkish": "{adapter} ile devam et"
     }
   }
 }
