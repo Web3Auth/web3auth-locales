@@ -9,7 +9,8 @@
       "spanish": "Tu intercambio",
       "portuguese": "Sua troca",
       "dutch": "Uw uitwisseling",
-      "french": "Votre échange"
+      "french": "Votre échange",
+      "turkish": "Senin Değişim"
     },
     "useMax": {
       "english": "Use Max",
@@ -20,7 +21,8 @@
       "spanish": "Usar max",
       "portuguese": "Use max",
       "dutch": "Gebruik Max",
-      "french": "Utiliser Max"
+      "french": "Utiliser Max",
+      "turkish": "Maksimum kullanmak"
     },
     "for": {
       "english": "For",
@@ -31,7 +33,8 @@
       "spanish": "Para",
       "portuguese": "Para",
       "dutch": "Voor",
-      "french": "Pour"
+      "french": "Pour",
+      "turkish": "İçin"
     },
     "txnFee": {
       "english": "Transaction Fee",
@@ -42,7 +45,8 @@
       "spanish": "Tarifa de transacción",
       "portuguese": "Taxa de transação",
       "dutch": "Transactiekosten",
-      "french": "Frais de transaction"
+      "french": "Frais de transaction",
+      "turkish": "İşlem Ücreti"
     },
     "txnCost": {
       "english": "Transaction cost",
@@ -53,7 +57,8 @@
       "spanish": "Costo de la transacción",
       "portuguese": "Custo da transação",
       "dutch": "Transactiekosten",
-      "french": "Coût de transaction"
+      "french": "Coût de transaction",
+      "turkish": "İşlem Ücreti"
     },
     "value": {
       "english": "Value",
@@ -64,7 +69,8 @@
       "spanish": "Valor",
       "portuguese": "Valor",
       "dutch": "Waarde",
-      "french": "Valeur"
+      "french": "Valeur",
+      "turkish": "Miktar"
     },
     "advancedOptions": {
       "english": "Advanced options",
@@ -75,7 +81,8 @@
       "spanish": "Opciones avanzadas",
       "portuguese": "Opções avançadas",
       "dutch": "Geavanceerde mogelijkheden",
-      "french": "Options avancées"
+      "french": "Options avancées",
+      "turkish": "Gelişmiş Seçenekler"
     },
     "confirmSwapTxn": {
       "english": "Confirm Swap Transaction",
@@ -86,7 +93,8 @@
       "spanish": "Confirmar la transacción de intercambio",
       "portuguese": "Confirme a transação de troca",
       "dutch": "Bevestig swap -transactie",
-      "french": "Confirmer la transaction d'échange"
+      "french": "Confirmer la transaction d'échange",
+      "turkish": "Değişimi Onayla"
     },
     "processIn": {
       "english": "Process in",
@@ -97,7 +105,8 @@
       "spanish": "Procesar",
       "portuguese": "Processo em",
       "dutch": "Verwerken",
-      "french": "Tracer"
+      "french": "Tracer",
+      "turkish": "İşlem"
     },
     "confirm": {
       "english": "Confirm",
@@ -108,7 +117,8 @@
       "spanish": "Confirmar",
       "portuguese": "confirme",
       "dutch": "Bevestigen",
-      "french": "Confirmer"
+      "french": "Confirmer",
+      "turkish": "Onayla"
     },
     "cancel": {
       "english": "Cancel",
@@ -119,7 +129,8 @@
       "spanish": "Cancelar",
       "portuguese": "Cancelar",
       "dutch": "Annuleren",
-      "french": "Annuler"
+      "french": "Annuler",
+      "turkish": "İptal Et"
     },
     "gasLimit": {
       "english": "Gas Limit",
@@ -130,7 +141,8 @@
       "spanish": "Límite de gas",
       "portuguese": "Limite de gás",
       "dutch": "Gasgrens",
-      "french": "Limite de gaz"
+      "french": "Limite de gaz",
+      "turkish": "Jener Limiti"
     },
     "maxPriorityFee": {
       "english": "Max Priority Fee",
@@ -141,7 +153,8 @@
       "spanish": "Tarifa de prioridad máxima",
       "portuguese": "Taxa prioritária máxima",
       "dutch": "Maximale prioriteitskosten",
-      "french": "Frais de priorité maximale"
+      "french": "Frais de priorité maximale",
+      "turkish": "Maksimum Öncelik Ücreti"
     },
     "maxTxnFee": {
       "english": "Max Transaction Fee",
@@ -152,7 +165,8 @@
       "spanish": "Tarifa de transacción máxima",
       "portuguese": "Taxa de transação máxima",
       "dutch": "Max transactiekosten",
-      "french": "Frais de transaction maximale"
+      "french": "Frais de transaction maximale",
+      "turkish": "Maksimum İşlem Ücreti"
     }
   }
 }

@@ -9,7 +9,8 @@
       "spanish": "Cancelar",
       "portuguese": "Cancelar",
       "dutch": "Annuleren",
-      "french": "Annuler"
+      "french": "Annuler",
+      "turkish": "İptal etmek"
     },
     "next": {
       "english": "Next",
@@ -20,7 +21,8 @@
       "spanish": "Próximo",
       "portuguese": "Próximo",
       "dutch": "Volgende",
-      "french": "Suivant"
+      "french": "Suivant",
+      "turkish": "Sonraki"
     },
     "send": {
       "english": "Send",
@@ -31,7 +33,8 @@
       "spanish": "Enviar",
       "portuguese": "Enviar",
       "dutch": "Versturen",
-      "french": "Envoyer"
+      "french": "Envoyer",
+      "turkish": "Gönder"
     },
     "receive": {
       "english": "Receive",
@@ -42,7 +45,8 @@
       "spanish": "Recibir",
       "portuguese": "Receber",
       "dutch": "Ontvangen",
-      "french": "Recevoir"
+      "french": "Recevoir",
+      "turkish": "Al"
     },
     "buySell": {
       "english": "Buy/Sell",
@@ -53,7 +57,8 @@
       "spanish": "Compra venta",
       "portuguese": "Compra venda",
       "dutch": "Kopen verkopen",
-      "french": "Acheter vendre"
+      "french": "Acheter vendre",
+      "turkish": "Alış veriş"
     },
     "swap": {
       "english": "Swap",
@@ -64,7 +69,8 @@
       "spanish": "Intercambio",
       "portuguese": "Trocar",
       "dutch": "Ruil",
-      "french": "Échanger"
+      "french": "Échanger",
+      "turkish": "Değiştir"
     },
     "tokens": {
       "english": "Tokens",
@@ -75,7 +81,8 @@
       "spanish": "Tokens",
       "portuguese": "Tokens",
       "dutch": "Munten",
-      "french": "Jetons"
+      "french": "Jetons",
+      "turkish": "Token"
     },
     "yourTokens": {
       "english": "Your Tokens",
@@ -86,7 +93,8 @@
       "spanish": "Tus tokens",
       "portuguese": "Seus tokens",
       "dutch": "Uw tokens",
-      "french": "Vos jetons"
+      "french": "Vos jetons",
+      "turkish": "Sizin Token"
     },
     "yourNfts": {
       "english": "Your NFTs",
@@ -97,7 +105,8 @@
       "spanish": "Tus NFTS",
       "portuguese": "Seus NFTs",
       "dutch": "Uw NFT's",
-      "french": "Vos NFT"
+      "french": "Vos NFT",
+      "turkish": "Sizin NFT"
     },
     "addNft": {
       "english": "Add NFT",
@@ -108,7 +117,8 @@
       "spanish": "Agregar NFT",
       "portuguese": "Adicione a NFT",
       "dutch": "Voeg NFT toe",
-      "french": "Ajouter NFT"
+      "french": "Ajouter NFT",
+      "turkish": "NFT ekle"
     },
     "addToken": {
       "english": "Add Token",
@@ -119,7 +129,8 @@
       "spanish": "Agregar token",
       "portuguese": "Adicione token",
       "dutch": "Token toevoegen",
-      "french": "Ajouter un jeton"
+      "french": "Ajouter un jeton",
+      "turkish": "Token ekle"
     },
     "description": {
       "english": "Description",
@@ -130,7 +141,8 @@
       "spanish": "Descripción",
       "portuguese": "Descrição",
       "dutch": "Beschrijving",
-      "french": "Description"
+      "french": "Description",
+      "turkish": "Açıklama"
     },
     "id": {
       "english": "ID",
@@ -141,7 +153,8 @@
       "spanish": "IDENTIFICACIÓN",
       "portuguese": "EU IA",
       "dutch": "ID kaart",
-      "french": "IDENTIFIANT"
+      "french": "IDENTIFIANT",
+      "turkish": "ID"
     },
     "type": {
       "english": "Type",
@@ -152,7 +165,8 @@
       "spanish": "Tipo",
       "portuguese": "Tipo",
       "dutch": "Type",
-      "french": "Taper"
+      "french": "Taper",
+      "turkish": "Tip"
     },
     "quantity": {
       "english": "Quantity",
@@ -163,7 +177,8 @@
       "spanish": "Cantidad",
       "portuguese": "Quantidade",
       "dutch": "Hoeveelheid",
-      "french": "Quantité"
+      "french": "Quantité",
+      "turkish": "Miktar"
     },
     "blockExplorer": {
       "english": "Block-explorer",
@@ -174,7 +189,8 @@
       "spanish": "Explorador de bloques",
       "portuguese": "Block-Explorer",
       "dutch": "Block-explorer",
-      "french": "Banc de blocs"
+      "french": "Banc de blocs",
+      "turkish": "Blok Explorer"
     },
     "buy": {
       "english": "Buy",
@@ -185,7 +201,8 @@
       "spanish": "Comprar",
       "portuguese": "Comprar",
       "dutch": "Kopen",
-      "french": "Acheter"
+      "french": "Acheter",
+      "turkish": "Al"
     },
     "advancedOptions": {
       "english": "Advanced options",
@@ -196,7 +213,8 @@
       "spanish": "Opciones avanzadas",
       "portuguese": "Opções avançadas",
       "dutch": "Geavanceerde mogelijkheden",
-      "french": "Options avancées"
+      "french": "Options avancées",
+      "turkish": "Gelişmiş seçenekler"
     },
     "gasLimit": {
       "english": "Gas Limit",
@@ -207,7 +225,8 @@
       "spanish": "Límite de gas",
       "portuguese": "Limite de gás",
       "dutch": "Gasgrens",
-      "french": "Limite de gaz"
+      "french": "Limite de gaz",
+      "turkish": "Jener Gaz Sınırı"
     },
     "nonce": {
       "english": "Nonce",
@@ -218,7 +237,8 @@
       "spanish": "Mientras tanto",
       "portuguese": "Nonce",
       "dutch": "Nonce",
-      "french": "Nonce"
+      "french": "Nonce",
+      "turkish": "Nonce"
     },
     "maxPriorityFee": {
       "english": "Max Priority Fee",
@@ -229,7 +249,8 @@
       "spanish": "Tarifa de prioridad máxima",
       "portuguese": "Taxa prioritária máxima",
       "dutch": "Maximale prioriteitskosten",
-      "french": "Frais de priorité maximale"
+      "french": "Frais de priorité maximale",
+      "turkish": "Maksimum Öncelik Ücreti"
     },
     "maxTxnFee": {
       "english": "Max Transaction Fee",
@@ -240,7 +261,8 @@
       "spanish": "Tarifa de transacción máxima",
       "portuguese": "Taxa de transação máxima",
       "dutch": "Max transactiekosten",
-      "french": "Frais de transaction maximale"
+      "french": "Frais de transaction maximale",
+      "turkish": "Maksimum İşlem Ücreti"
     },
     "selectToken": {
       "english": "Select Token",
@@ -251,7 +273,8 @@
       "spanish": "Seleccionar token",
       "portuguese": "Selecione token",
       "dutch": "Selecteer token",
-      "french": "Sélectionner le jeton"
+      "french": "Sélectionner le jeton",
+      "turkish": "Token seçin"
     },
     "availableBalance": {
       "english": "Available Balance",
@@ -262,7 +285,8 @@
       "spanish": "Saldo disponible",
       "portuguese": "Saldo disponível",
       "dutch": "beschikbaar saldo",
-      "french": "Solde disponible"
+      "french": "Solde disponible",
+      "turkish": "Mevcut Bakiye"
     },
     "sendingFrom": {
       "english": "Sending from",
@@ -273,7 +297,8 @@
       "spanish": "Envío desde",
       "portuguese": "Enviando de",
       "dutch": "Verzenden van",
-      "french": "Envoi de"
+      "french": "Envoi de",
+      "turkish": "Gönderen"
     },
     "transactionCost": {
       "english": "Transaction cost",
@@ -284,7 +309,8 @@
       "spanish": "Costo de la transacción",
       "portuguese": "Custo da transação",
       "dutch": "Transactiekosten",
-      "french": "Coût de transaction"
+      "french": "Coût de transaction",
+      "turkish": "İşlem Ücreti"
     },
     "value": {
       "english": "Value",
@@ -295,7 +321,8 @@
       "spanish": "Valor",
       "portuguese": "Valor",
       "dutch": "Waarde",
-      "french": "Valeur"
+      "french": "Valeur",
+      "turkish": "Miktar"
     },
     "sendTo": {
       "english": "Send to",
@@ -306,7 +333,8 @@
       "spanish": "Enviar a",
       "portuguese": "Enviar para",
       "dutch": "Verzenden naar",
-      "french": "Envoyer à"
+      "french": "Envoyer à",
+      "turkish": "Gönder"
     },
     "asset": {
       "english": "Asset",
@@ -317,7 +345,8 @@
       "spanish": "Activo",
       "portuguese": "Ativo",
       "dutch": "Bezit",
-      "french": "Actif"
+      "french": "Actif",
+      "turkish": "Varlık"
     },
     "amount": {
       "english": "Amount",
@@ -328,7 +357,8 @@
       "spanish": "Cantidad",
       "portuguese": "Quantia",
       "dutch": "Hoeveelheid",
-      "french": "Montant"
+      "french": "Montant",
+      "turkish": "Miktar"
     },
     "txnCost": {
       "english": "Transaction cost",
@@ -339,7 +369,8 @@
       "spanish": "Costo de la transacción",
       "portuguese": "Custo da transação",
       "dutch": "Transactiekosten",
-      "french": "Coût de transaction"
+      "french": "Coût de transaction",
+      "turkish": "İşlem Ücreti"
     },
     "confirmTxn": {
       "english": "Confirm Transaction",
@@ -350,7 +381,8 @@
       "spanish": "Confirmar transacción",
       "portuguese": "Confirme a transação",
       "dutch": "Bevestig transactie",
-      "french": "Confirmer la transaction"
+      "french": "Confirmer la transaction",
+      "turkish": "İşlemi Onayla"
     },
     "transferredAsset": {
       "english": "Transferred Asset",
@@ -361,7 +393,8 @@
       "spanish": "Activo transferido",
       "portuguese": "Ativo transferido",
       "dutch": "Overgedragen activa",
-      "french": "Actif transféré"
+      "french": "Actif transféré",
+      "turkish": "Varlık aktarıldı"
     },
     "transferredToken": {
       "english": "Transferred Token",
@@ -372,7 +405,8 @@
       "spanish": "Token transferido",
       "portuguese": "Token transferido",
       "dutch": "Overgedragen token",
-      "french": "Jeté transféré"
+      "french": "Jeté transféré",
+      "turkish": "Token aktarıldı"
     },
     "confirm": {
       "english": "Confirm",
@@ -383,7 +417,8 @@
       "spanish": "Confirmar",
       "portuguese": "confirme",
       "dutch": "Bevestigen",
-      "french": "Confirmer"
+      "french": "Confirmer",
+      "turkish": "Onayla"
     },
     "txnFee": {
       "english": "Transaction Fee",
@@ -394,7 +429,8 @@
       "spanish": "Tarifa de transacción",
       "portuguese": "Taxa de transação",
       "dutch": "Transactiekosten",
-      "french": "Frais de transaction"
+      "french": "Frais de transaction",
+      "turkish": "İşlem Ücreti"
     },
     "transferredOn": {
       "english": "Transferred on",
@@ -405,7 +441,8 @@
       "spanish": "Transferido",
       "portuguese": "Transferido em",
       "dutch": "Overgedragen op",
-      "french": "Transféré sur"
+      "french": "Transféré sur",
+      "turkish": "Aktarıldı"
     },
     "txnState": {
       "english": "Transaction state",
@@ -416,7 +453,8 @@
       "spanish": "Estado de transacción",
       "portuguese": "Estado de transação",
       "dutch": "Transactiestaat",
-      "french": "État de transaction"
+      "french": "État de transaction",
+      "turkish": "İşlem Durumu"
     },
     "txnHistory": {
       "english": "Transaction History",
@@ -427,7 +465,8 @@
       "spanish": "Historial de transacciones",
       "portuguese": "Histórico de transações",
       "dutch": "Transactie Geschiedenis",
-      "french": "Historique des transactions"
+      "french": "Historique des transactions",
+      "turkish": "İşlem Geçmişi"
     },
     "totalEth": {
       "english": "Total Eth",
@@ -438,7 +477,8 @@
       "spanish": "Total ETH",
       "portuguese": "ETH total",
       "dutch": "Totale ETH",
-      "french": "ETH total"
+      "french": "ETH total",
+      "turkish": "Toplam ETH"
     },
     "rate": {
       "english": "Rate",
@@ -449,7 +489,8 @@
       "spanish": "Tasa",
       "portuguese": "Avaliar",
       "dutch": "Tarief",
-      "french": "Taux"
+      "french": "Taux",
+      "turkish": "Oran"
     },
     "claim": {
       "english": "Claim",
@@ -460,7 +501,8 @@
       "spanish": "Afirmar",
       "portuguese": "Alegar",
       "dutch": "Claim",
-      "french": "Réclamer"
+      "french": "Réclamer",
+      "turkish": "Talep Et"
     },
     "creditUsage": {
       "english": "Credit Usage",
@@ -471,7 +513,8 @@
       "spanish": "Uso de crédito",
       "portuguese": "Uso de crédito",
       "dutch": "Kredietgebruik",
-      "french": "Utilisation du crédit"
+      "french": "Utilisation du crédit",
+      "turkish": "Kredi Kullanımı"
     },
     "totalCost": {
       "english": "Total Cost",
@@ -482,7 +525,8 @@
       "spanish": "Coste total",
       "portuguese": "Custo total",
       "dutch": "Totale prijs",
-      "french": "Coût total"
+      "french": "Coût total",
+      "turkish": "Toplam Maliyet"
     },
     "copied": {
       "english": "Copied",
@@ -493,7 +537,8 @@
       "spanish": "Copiado",
       "portuguese": "Copiado",
       "dutch": "Gekopieerd",
-      "french": "Copié"
+      "french": "Copié",
+      "turkish": "Kopyalandı"
     },
     "topUp": {
       "english": "Top Up",
@@ -504,7 +549,8 @@
       "spanish": "Completar",
       "portuguese": "Completar",
       "dutch": "Aanvullen",
-      "french": "Se débarrasser de"
+      "french": "Se débarrasser de",
+      "turkish": "Dolu Et"
     },
     "ownerEoaAcc": {
       "english": "Owner EOA Account",
@@ -515,7 +561,8 @@
       "spanish": "Cuenta EOA del propietario",
       "portuguese": "Conta do proprietário EOA",
       "dutch": "Eigenaar EOA -account",
-      "french": "Compte EOA propriétaire"
+      "french": "Compte EOA propriétaire",
+      "turkish": "Sahib EOA Hesabı"
     },
     "ownerEoaBalance": {
       "english": "Owner EOA Balance",
@@ -526,7 +573,8 @@
       "spanish": "Balance de propietario EOA",
       "portuguese": "Proprietário EOA Balance",
       "dutch": "Eigenaar EOA Balans",
-      "french": "Propriétaire EOA Balance"
+      "french": "Propriétaire EOA Balance",
+      "turkish": "Sahib EOA Bakiye"
     },
     "toppedUpAmt": {
       "english": "Topped up amount",
@@ -537,7 +585,8 @@
       "spanish": "Cantidad rematada",
       "portuguese": "TODO OURMOURO",
       "dutch": "Bedacht bedrag",
-      "french": "Montant complété"
+      "french": "Montant complété",
+      "turkish": "Toplam Tutarı"
     },
     "selectSpeed": {
       "english": "Select Speed",
@@ -548,7 +597,8 @@
       "spanish": "Velocidad de selección",
       "portuguese": "Selecione a velocidade",
       "dutch": "Selecteer snelheid",
-      "french": "Sélectionner la vitesse"
+      "french": "Sélectionner la vitesse",
+      "turkish": "Hız Seç"
     },
     "enterRecipientAdd": {
       "english": "Enter recipient address",
@@ -559,7 +609,8 @@
       "spanish": "Ingrese la dirección del destinatario",
       "portuguese": "Digite o endereço do destinatário",
       "dutch": "Voer het adres van de ontvanger in",
-      "french": "Entrez l'adresse du destinataire"
+      "french": "Entrez l'adresse du destinataire",
+      "turkish": "Alıcı Adresi Giriniz"
     },
     "insufficientAmtMsg": {
       "english": "Insufficient gas credit, wallet balance will be used to cover fee",
@@ -570,7 +621,8 @@
       "spanish": "Crédito de gas insuficiente, el saldo de la billetera se utilizará para cubrir la tarifa",
       "portuguese": "Crédito a gás insuficiente, o saldo da carteira será usado para cobrir a taxa",
       "dutch": "Onvoldoende gaskrediet, portemonnee saldo wordt gebruikt om kosten te dekken",
-      "french": "Crédit de gaz insuffisant, le solde du portefeuille sera utilisé pour couvrir les frais"
+      "french": "Crédit de gaz insuffisant, le solde du portefeuille sera utilisé pour couvrir les frais",
+      "turkish": "Gaz Kredisi Yetersiz, Portföy Bakiyesi Kullanılacak"
     },
     "all": {
       "english": "All",
@@ -581,7 +633,8 @@
       "spanish": "Todo",
       "portuguese": "Todos",
       "dutch": "Alle",
-      "french": "Tous"
+      "french": "Tous",
+      "turkish": "Hepsi"
     },
     "sent": {
       "english": "Sent",
@@ -592,7 +645,8 @@
       "spanish": "Enviado",
       "portuguese": "Enviado",
       "dutch": "Verstuurd",
-      "french": "Envoyé"
+      "french": "Envoyé",
+      "turkish": "Gönderildi"
     },
     "received": {
       "english": "Received",
@@ -603,7 +657,8 @@
       "spanish": "Recibió",
       "portuguese": "Recebido",
       "dutch": "Ontvangen",
-      "french": "Reçu"
+      "french": "Reçu",
+      "turkish": "Alındı"
     },
     "top-up": {
       "english": "Top-up",
@@ -614,7 +669,8 @@
       "spanish": "Recarga",
       "portuguese": "Completar",
       "dutch": "Bijvoegen",
-      "french": "Reprise"
+      "french": "Reprise",
+      "turkish": "Toplu"
     },
     "allDates": {
       "english": "All Dates",
@@ -625,7 +681,8 @@
       "spanish": "Todas las fechas",
       "portuguese": "Todas as datas",
       "dutch": "Alle datums",
-      "french": "Toutes les dates"
+      "french": "Toutes les dates",
+      "turkish": "Tüm Tarihler"
     },
     "last1Week": {
       "english": "Last 1 week",
@@ -636,7 +693,8 @@
       "spanish": "Última 1 semana",
       "portuguese": "Última 1 semana",
       "dutch": "Laatste 1 week",
-      "french": "1 semaine dernière"
+      "french": "1 semaine dernière",
+      "turkish": "Son 1 hafta"
     },
     "last1Month": {
       "english": "Last 1 month",
@@ -647,7 +705,8 @@
       "spanish": "Último 1 mes",
       "portuguese": "Último 1 mês",
       "dutch": "Laatste 1 maand",
-      "french": "1 mois dernier"
+      "french": "1 mois dernier",
+      "turkish": "Son 1 ay"
     },
     "last6Months": {
       "english": "Last 6 months",
@@ -658,7 +717,8 @@
       "spanish": "Últimos 6 meses",
       "portuguese": "Últimos 6 meses",
       "dutch": "Laatste 6 maanden",
-      "french": "6 derniers mois"
+      "french": "6 derniers mois",
+      "turkish": "Son 6 aylar"
     },
     "porcessIn": {
       "english": "Process in < {0} seconds",
@@ -669,7 +729,8 @@
       "spanish": "Proceso en <{0} segundos",
       "portuguese": "Processo em <{0} segundos",
       "dutch": "Proces in <{0} seconden",
-      "french": "Processus en <{0} secondes"
+      "french": "Processus en <{0} secondes",
+      "turkish": "<{0} saniyede işlem"
     },
     "processInLabel": {
       "english": "Process In",
@@ -680,7 +741,8 @@
       "spanish": "Procesar",
       "portuguese": "Processo em",
       "dutch": "Verwerken",
-      "french": "Tracer"
+      "french": "Tracer",
+      "turkish": "İşlem"
     },
     "processTime": {
       "english": "< {0} seconds",
@@ -691,7 +753,8 @@
       "spanish": "<{0} segundos",
       "portuguese": "<{0} segundos",
       "dutch": "<{0} seconden",
-      "french": "<{0} secondes"
+      "french": "<{0} secondes",
+      "turkish": "<{0} saniye"
     },
     "advanced": {
       "english": "Advanced",
@@ -702,7 +765,8 @@
       "spanish": "Avanzado",
       "portuguese": "Avançado",
       "dutch": "Geavanceerd",
-      "french": "Avancé"
+      "french": "Avancé",
+      "turkish": "Gelişmiş"
     },
     "customizeGasFee": {
       "english": "Customize your gas fee",
@@ -713,7 +777,8 @@
       "spanish": "Personaliza tu tarifa de gasolina",
       "portuguese": "Personalize sua taxa de gás",
       "dutch": "Pas uw gaskosten aan",
-      "french": "Personnalisez vos frais de gaz"
+      "french": "Personnalisez vos frais de gaz",
+      "turkish": "Gaz Ücretinizi Özelleştirin"
     },
     "average": {
       "english": "Average",
@@ -724,7 +789,8 @@
       "spanish": "Promedio",
       "portuguese": "Média",
       "dutch": "Gemiddeld",
-      "french": "Moyenne"
+      "french": "Moyenne",
+      "turkish": "Ortalama"
     },
     "fast": {
       "english": "Fast",
@@ -735,7 +801,8 @@
       "spanish": "Rápido",
       "portuguese": "Rápido",
       "dutch": "Snel",
-      "french": "Rapide"
+      "french": "Rapide",
+      "turkish": "Hızlı"
     },
     "slow": {
       "english": "Slow",
@@ -746,7 +813,8 @@
       "spanish": "Lento",
       "portuguese": "Lento",
       "dutch": "Langzaam",
-      "french": "Lent"
+      "french": "Lent",
+      "turkish": "Yavaş"
     },
     "medium": {
       "english": "Medium",
@@ -757,7 +825,8 @@
       "spanish": "Medio",
       "portuguese": "Médio",
       "dutch": "Medium",
-      "french": "Moyen"
+      "french": "Moyen",
+      "turkish": "Orta"
     },
     "upTo": {
       "english": "Up to",
@@ -768,7 +837,8 @@
       "spanish": "Hasta",
       "portuguese": "Até",
       "dutch": "Tot",
-      "french": "Jusqu'à"
+      "french": "Jusqu'à",
+      "turkish": "Kadar"
     },
     "selectAnAsset": {
       "english": "Select an asset",
@@ -779,7 +849,8 @@
       "spanish": "Seleccione un activo",
       "portuguese": "Selecione um ativo",
       "dutch": "Selecteer een actief",
-      "french": "Sélectionnez un actif"
+      "french": "Sélectionnez un actif",
+      "turkish": "Bir varlık seçin"
     },
     "buyDisableTestnet": {
       "english": "Feature unavailable on testnet",
@@ -790,7 +861,8 @@
       "spanish": "Característica no disponible en TestNet",
       "portuguese": "Recurso indisponível no TestNet",
       "dutch": "Feature niet beschikbaar op testnet",
-      "french": "Fonctionnalité indisponible sur testnet"
+      "french": "Fonctionnalité indisponible sur testnet",
+      "turkish": "Özellik testnet'te kullanılamıyor"
     },
     "viewTransaction": {
       "english": "View Transaction",
@@ -801,7 +873,8 @@
       "spanish": "Ver transacción",
       "portuguese": "Visualizar transação",
       "dutch": "Bekijk transactie",
-      "french": "Afficher la transaction"
+      "french": "Afficher la transaction",
+      "turkish": "İşlemi Görüntüle"
     }
   },
   "activity": {
@@ -814,7 +887,8 @@
       "spanish": "Seleccione la transacción para ver los detalles",
       "portuguese": "Selecione a transação para visualizar detalhes",
       "dutch": "Selecteer transactie om details te bekijken",
-      "french": "Sélectionnez la transaction pour afficher les détails"
+      "french": "Sélectionnez la transaction pour afficher les détails",
+      "turkish": "Detayları görmek için bir işlem seçin"
     },
     "selectTxnSubDetails": {
       "english": "Select any transaction to view details",
@@ -825,7 +899,8 @@
       "spanish": "Seleccione cualquier transacción para ver los detalles",
       "portuguese": "Selecione qualquer transação para visualizar detalhes",
       "dutch": "Selecteer elke transactie om details te bekijken",
-      "french": "Sélectionnez toute transaction pour afficher les détails"
+      "french": "Sélectionnez toute transaction pour afficher les détails",
+      "turkish": "Detayları görmek için herhangi bir işlem seçin"
     },
     "noTxnMsg": {
       "english": "You don’t have any Transactions yet",
@@ -836,7 +911,8 @@
       "spanish": "Todavía no tienes transacciones",
       "portuguese": "Você ainda não tem transações",
       "dutch": "U hebt nog geen transacties",
-      "french": "Vous n'avez pas encore de transactions"
+      "french": "Vous n'avez pas encore de transactions",
+      "turkish": "Henüz herhangi bir işlem yok"
     },
     "movingAssetMsg": {
       "english": "Once you start moving your assets, your transactions will appear here.",
@@ -847,7 +923,8 @@
       "spanish": "Una vez que comience a mover sus activos, sus transacciones aparecerán aquí.",
       "portuguese": "Depois de começar a mover seus ativos, suas transações aparecerão aqui.",
       "dutch": "Zodra u begint met het verplaatsen van uw vermogen, verschijnen uw transacties hier.",
-      "french": "Une fois que vous commencerez à déplacer vos actifs, vos transactions apparaîtront ici."
+      "french": "Une fois que vous commencerez à déplacer vos actifs, vos transactions apparaîtront ici.",
+      "turkish": "Bir varlığınızı taşıdığınızda, bu işlemler burada görünür."
     }
   },
   "home": {
@@ -860,7 +937,8 @@
       "spanish": "Balance de billetera total",
       "portuguese": "Equilíbrio total da carteira",
       "dutch": "Totale portemonnee balans",
-      "french": "Équilibre total du portefeuille"
+      "french": "Équilibre total du portefeuille",
+      "turkish": "Toplam cüzdan bakiyesi"
     },
     "copyAddress": {
       "english": "Copy Address",
@@ -871,7 +949,8 @@
       "spanish": "Dirección de copia",
       "portuguese": "Endereço de cópia",
       "dutch": "Kopieeradres",
-      "french": "Copier l'adresse"
+      "french": "Copier l'adresse",
+      "turkish": "Adres kopyala"
     },
     "qrScanner": {
       "english": "QR Code Scanner",
@@ -882,7 +961,8 @@
       "spanish": "Escáner de código QR",
       "portuguese": "Scanner de código QR",
       "dutch": "QR -codescanner",
-      "french": "Scanner de code QR"
+      "french": "Scanner de code QR",
+      "turkish": "QR kodu tarayıcısı"
     },
     "walletConnect": {
       "english": "Wallet Connect",
@@ -893,7 +973,8 @@
       "spanish": "Billetera conectar",
       "portuguese": "Carteira Connect",
       "dutch": "Portemonnee verbindt",
-      "french": "Portefeuille"
+      "french": "Portefeuille",
+      "turkish": "Cüzdanı bağla"
     },
     "tokenContractAddress": {
       "english": "Token Contract Address",
@@ -904,7 +985,8 @@
       "spanish": "Dirección del contrato de token",
       "portuguese": "Endereço do contrato de token",
       "dutch": "Token contractadres",
-      "french": "Adresse du contrat de jeton"
+      "french": "Adresse du contrat de jeton",
+      "turkish": "Token Sözleşme Adresi"
     },
     "NftContractAddress": {
       "english": "NFT Contract Address",
@@ -915,7 +997,8 @@
       "spanish": "Dirección del contrato NFT",
       "portuguese": "Endereço do contrato da NFT",
       "dutch": "NFT -contractadres",
-      "french": "Adresse du contrat NFT"
+      "french": "Adresse du contrat NFT",
+      "turkish": "NFT Sözleşme Adresi"
     },
     "tokenSymbol": {
       "english": "Token Symbol",
@@ -926,7 +1009,8 @@
       "spanish": "Símbolo de token",
       "portuguese": "Símbolo simbólico",
       "dutch": "Tokensymbool",
-      "french": "Symbole de jeton"
+      "french": "Symbole de jeton",
+      "turkish": "Token sembolü"
     },
     "tokenId": {
       "english": "Token Id",
@@ -937,7 +1021,8 @@
       "spanish": "ID de token",
       "portuguese": "Id token",
       "dutch": "Token -ID",
-      "french": "Identifiant de jeton"
+      "french": "Identifiant de jeton",
+      "turkish": "Token ID"
     },
     "tokenName": {
       "english": "Token Name",
@@ -948,7 +1033,8 @@
       "spanish": "Nombre de token",
       "portuguese": "Nome do token",
       "dutch": "Tokennaam",
-      "french": "Nom de jeton"
+      "french": "Nom de jeton",
+      "turkish": "Token adı"
     },
     "decimalsOfPrecision": {
       "english": "Decimals of Precision",
@@ -959,7 +1045,8 @@
       "spanish": "Decimales de precisión",
       "portuguese": "Decimais de precisão",
       "dutch": "Precimals van precisie",
-      "french": "Décimales de précision"
+      "french": "Décimales de précision",
+      "turkish": "Ondalık önem"
     },
     "noTokenNftMsg": {
       "english": "You don’t have any {0} yet",
@@ -970,7 +1057,8 @@
       "spanish": "No tienes {0} todavía",
       "portuguese": "Você ainda não tem {0}",
       "dutch": "Je hebt nog geen {0}",
-      "french": "Vous n'avez pas encore de {0}"
+      "french": "Vous n'avez pas encore de {0}",
+      "turkish": "Henüz {0} yok"
     },
     "noTokenNftSubMsg": {
       "english": "Once you buy, receive or add any {0}, they will appear here.",
@@ -981,7 +1069,8 @@
       "spanish": "Una vez que compre, reciba o agregue cualquier {0}, aparecerán aquí.",
       "portuguese": "Depois de comprar, receber ou adicionar qualquer {0}, eles aparecerão aqui.",
       "dutch": "Nadat u een {0} hebt gekocht, ontvangt of toevoegt, verschijnen ze hier.",
-      "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici."
+      "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici.",
+      "turkish": "Bir {0} satın aldıktan sonra, alınan veya eklendiğinde bunlar burada gösterilecektir."
     },
     "receivedEth": {
       "english": "Received Ethereum",
@@ -992,7 +1081,8 @@
       "spanish": "Recibido Ethereum",
       "portuguese": "Recebeu Ethereum",
       "dutch": "Ethereum ontvangen",
-      "french": "Reçu Ethereum"
+      "french": "Reçu Ethereum",
+      "turkish": "Alınan Ethereum"
     },
     "transferredToken": {
       "english": "Transferred token",
@@ -1003,7 +1093,8 @@
       "spanish": "Token transferido",
       "portuguese": "Token transferido",
       "dutch": "Overgedragen token",
-      "french": "Jeté transféré"
+      "french": "Jeté transféré",
+      "turkish": "Transfer edilen token"
     },
     "gasCredit": {
       "english": "Gas Credit",
@@ -1014,7 +1105,8 @@
       "spanish": "Crédito de gas",
       "portuguese": "Crédito a gás",
       "dutch": "Gaskrediet",
-      "french": "Crédit de gaz"
+      "french": "Crédit de gaz",
+      "turkish": "Gaz kredisi"
     },
     "smartContractAcc": {
       "english": "Smart Contract Account",
@@ -1025,7 +1117,8 @@
       "spanish": "Cuenta de contrato inteligente",
       "portuguese": "Conta de contrato inteligente",
       "dutch": "Slimme contractaccount",
-      "french": "Compte de contrat intelligent"
+      "french": "Compte de contrat intelligent",
+      "turkish": "Akıllı sözleşme hesabı"
     },
     "ownerEoa": {
       "english": "Owner EOA",
@@ -1036,7 +1129,8 @@
       "spanish": "Propietario EOA",
       "portuguese": "Proprietário EOA",
       "dutch": "Eigenaar EOA",
-      "french": "Propriétaire EOA"
+      "french": "Propriétaire EOA",
+      "turkish": "Sahib EOA"
     }
   },
   "qrCode": {
@@ -1049,7 +1143,8 @@
       "spanish": "Mi código QR",
       "portuguese": "Meu código QR",
       "dutch": "Mijn QR -code",
-      "french": "Mon code QR"
+      "french": "Mon code QR",
+      "turkish": "Benim QR kodum"
     }
   },
   "settings": {
@@ -1062,7 +1157,8 @@
       "spanish": "Cuenta",
       "portuguese": "Conta",
       "dutch": "Rekening",
-      "french": "Compte"
+      "french": "Compte",
+      "turkish": "Hesap"
     },
     "profile": {
       "english": "Manage Wallets",
@@ -1073,7 +1169,8 @@
       "spanish": "Administrar billeteras",
       "portuguese": "Gerenciar carteiras",
       "dutch": "Beheer portefeuilles",
-      "french": "Gérer les portefeuilles"
+      "french": "Gérer les portefeuilles",
+      "turkish": "Cüzdanları yönet"
     },
     "general": {
       "english": "General",
@@ -1084,7 +1181,8 @@
       "spanish": "General",
       "portuguese": "Em geral",
       "dutch": "Algemeen",
-      "french": "Général"
+      "french": "Général",
+      "turkish": "Genel"
     },
     "privacyAndSecurity": {
       "english": "Privacy and security",
@@ -1095,7 +1193,8 @@
       "spanish": "Privacidad y seguridad",
       "portuguese": "Privacidade e segurança",
       "dutch": "Privacy en beveiliging",
-      "french": "Confidentialité et sécurité"
+      "french": "Confidentialité et sécurité",
+      "turkish": "Gizlilik ve güvenlik"
     },
     "appearance": {
       "english": "Appearance",
@@ -1106,7 +1205,8 @@
       "spanish": "Apariencia",
       "portuguese": "Aparência",
       "dutch": "Verschijning",
-      "french": "Apparence"
+      "french": "Apparence",
+      "turkish": "Görünüm"
     },
     "notification": {
       "english": "Notifications",
@@ -1117,7 +1217,8 @@
       "spanish": "Notificaciones",
       "portuguese": "Notificações",
       "dutch": "Meldingen",
-      "french": "Notifications"
+      "french": "Notifications",
+      "turkish": "Bildirimler"
     },
     "profileDesc": {
       "english": "Default wallet, Import wallet etc.,",
@@ -1128,7 +1229,8 @@
       "spanish": "Billetera predeterminada, billetera de importación, etc.,",
       "portuguese": "Carteira padrão, carteira de importação etc.,",
       "dutch": "Standaard portemonnee, portemonnee enz. Importeren,",
-      "french": "Portefeuille par défaut, portefeuille d'importation, etc.,"
+      "french": "Portefeuille par défaut, portefeuille d'importation, etc.,",
+      "turkish": "Varsayılan cüzdan, içe aktarma cüzdanı vs."
     },
     "generalDesc": {
       "english": "Network, Language, Currency etc.,",
@@ -1139,7 +1241,8 @@
       "spanish": "Red, idioma, moneda, etc.,",
       "portuguese": "Rede, idioma, moeda etc.,",
       "dutch": "Netwerk, taal, valuta enz.,",
-      "french": "Réseau, langue, devise, etc.,"
+      "french": "Réseau, langue, devise, etc.,",
+      "turkish": "Ağ, dil, para birimi vs."
     },
     "privKeyDesc": {
       "english": "Private key (Download or copy)",
@@ -1150,7 +1253,8 @@
       "spanish": "Clave privada (descargar o copiar)",
       "portuguese": "Chave privada (download ou cópia)",
       "dutch": "Privésleutel (downloaden of kopiëren)",
-      "french": "Clé privée (télécharger ou copier)"
+      "french": "Clé privée (télécharger ou copier)",
+      "turkish": "Gizli anahtar (indir veya kopyala)"
     },
     "appearanceDesc": {
       "english": "Enable or disable Dark mode",
@@ -1161,7 +1265,8 @@
       "spanish": "Habilitar o deshabilitar el modo oscuro",
       "portuguese": "Habilitar ou desativar o modo escuro",
       "dutch": "Schakel de donkere modus in of uit",
-      "french": "Activer ou désactiver le mode sombre"
+      "french": "Activer ou désactiver le mode sombre",
+      "turkish": "Koyu modu etkinleştirmek veya devre dışı bırakmak"
     },
     "notificationDesc": {
       "english": "Enable and disable notifications",
@@ -1172,7 +1277,8 @@
       "spanish": "Habilitar y deshabilitar notificaciones",
       "portuguese": "Ativar e desativar notificações",
       "dutch": "Meldingen inschakelen en uitschakelen",
-      "french": "Activer et désactiver les notifications"
+      "french": "Activer et désactiver les notifications",
+      "turkish": "Bildirimleri etkinleştirmek ve devre dışı bırakmak"
     },
     "contactDesc": {
       "english": "Address book, Add contacts",
@@ -1183,7 +1289,8 @@
       "spanish": "Libreta de direcciones, agregar contactos",
       "portuguese": "Livro de endereços, adicione contatos",
       "dutch": "Adresboek, contacten toevoegen",
-      "french": "Carnet d'adresses, ajouter des contacts"
+      "french": "Carnet d'adresses, ajouter des contacts",
+      "turkish": "Adres defteri, kişileri ekle"
     },
     "copy": {
       "english": "Copy",
@@ -1194,7 +1301,8 @@
       "spanish": "Copiar",
       "portuguese": "cópia de",
       "dutch": "Kopiëren",
-      "french": "Copie"
+      "french": "Copie",
+      "turkish": "Kopyala"
     },
     "copyAddress": {
       "english": "Copy Address",
@@ -1205,7 +1313,8 @@
       "spanish": "Dirección de copia",
       "portuguese": "Endereço de cópia",
       "dutch": "Kopieeradres",
-      "french": "Copier l'adresse"
+      "french": "Copier l'adresse",
+      "turkish": "Adresi kopyala"
     },
     "copied": {
       "english": "Copied",
@@ -1216,7 +1325,8 @@
       "spanish": "Copiado",
       "portuguese": "Copiado",
       "dutch": "Gekopieerd",
-      "french": "Copié"
+      "french": "Copié",
+      "turkish": "Kopyalandı"
     },
     "showQr": {
       "english": "Show QR",
@@ -1227,7 +1337,8 @@
       "spanish": "Mostrar QR",
       "portuguese": "Mostrar QR",
       "dutch": "Toon QR",
-      "french": "Montrer QR"
+      "french": "Montrer QR",
+      "turkish": "QR'yi göster"
     },
     "light": {
       "english": "Light",
@@ -1238,7 +1349,8 @@
       "spanish": "Luz",
       "portuguese": "Luz",
       "dutch": "Licht",
-      "french": "Lumière"
+      "french": "Lumière",
+      "turkish": "Aydınlık"
     },
     "dark": {
       "english": "Dark",
@@ -1249,7 +1361,8 @@
       "spanish": "Oscuro",
       "portuguese": "Escuro",
       "dutch": "Donker",
-      "french": "Sombre"
+      "french": "Sombre",
+      "turkish": "Koyu"
     },
     "system": {
       "english": "System",
@@ -1260,7 +1373,8 @@
       "spanish": "Sistema",
       "portuguese": "Sistema",
       "dutch": "Systeem",
-      "french": "Système"
+      "french": "Système",
+      "turkish": "Sistem"
     },
     "addNewContact": {
       "english": "Add New Contact",
@@ -1271,7 +1385,8 @@
       "spanish": "Añadir nuevo contacto",
       "portuguese": "Adicionar novo contato",
       "dutch": "Voeg nieuw contact toe",
-      "french": "Ajouter un nouveau contact"
+      "french": "Ajouter un nouveau contact",
+      "turkish": "Yeni kişi ekle"
     },
     "address": {
       "english": "Address",
@@ -1282,7 +1397,8 @@
       "spanish": "DIRECCIÓN",
       "portuguese": "Endereço",
       "dutch": "Adres",
-      "french": "Adresse"
+      "french": "Adresse",
+      "turkish": "Adres"
     },
     "addContact": {
       "english": "Add Contact",
@@ -1293,7 +1409,8 @@
       "spanish": "Agregar contacto",
       "portuguese": "Adicionar contato",
       "dutch": "Voeg contact toe",
-      "french": "Ajouter le contact"
+      "french": "Ajouter le contact",
+      "turkish": "Kişi ekle"
     },
     "enterContactsName": {
       "english": "Enter contact's name",
@@ -1304,7 +1421,8 @@
       "spanish": "Ingrese el nombre del contacto",
       "portuguese": "Digite o nome do contato",
       "dutch": "Voer de naam van Contact in",
-      "french": "Entrez le nom du contact"
+      "french": "Entrez le nom du contact",
+      "turkish": "Kişi ismi girin"
     },
     "enterEthAddress": {
       "english": "Enter ETH's address",
@@ -1315,7 +1433,8 @@
       "spanish": "Ingrese la dirección de ETH",
       "portuguese": "Digite o endereço da ETH",
       "dutch": "Voer het adres van ETH in",
-      "french": "Entrez l'adresse de Eth"
+      "french": "Entrez l'adresse de Eth",
+      "turkish": "ETH adresini girin"
     },
     "contacts": {
       "english": "Contacts",
@@ -1326,7 +1445,8 @@
       "spanish": "Contactos",
       "portuguese": "Contatos",
       "dutch": "Contacten",
-      "french": "Contacts"
+      "french": "Contacts",
+      "turkish": "Kişiler"
     },
     "addAccount": {
       "english": "Add Account",
@@ -1337,7 +1457,8 @@
       "spanish": "Añadir cuenta",
       "portuguese": "Adicionar Conta",
       "dutch": "Account toevoegen",
-      "french": "Ajouter un compte"
+      "french": "Ajouter un compte",
+      "turkish": "Hesap ekle"
     },
     "listOfContacts": {
       "english": "List of contacts",
@@ -1348,7 +1469,8 @@
       "spanish": "Lista de contactos",
       "portuguese": "Lista de contatos",
       "dutch": "Lijst met contacten",
-      "french": "Liste de contacts"
+      "french": "Liste de contacts",
+      "turkish": "Kişiler listesi"
     },
     "defaultAccount": {
       "english": "Default account",
@@ -1359,7 +1481,8 @@
       "spanish": "Cuenta predeterminada",
       "portuguese": "Conta padrão",
       "dutch": "Standaardaccount",
-      "french": "Compte par défaut"
+      "french": "Compte par défaut",
+      "turkish": "Varsayılan hesap"
     },
     "network": {
       "english": "Network",
@@ -1370,7 +1493,8 @@
       "spanish": "Red",
       "portuguese": "Rede",
       "dutch": "Netwerk",
-      "french": "Réseau"
+      "french": "Réseau",
+      "turkish": "Ağ"
     },
     "selectDefaultNetwork": {
       "english": "Select Default Network",
@@ -1381,7 +1505,8 @@
       "spanish": "Seleccione la red predeterminada",
       "portuguese": "Selecione rede padrão",
       "dutch": "Selecteer Standaardnetwerk",
-      "french": "Sélectionnez le réseau par défaut"
+      "french": "Sélectionnez le réseau par défaut",
+      "turkish": "Varsayılan ağı seçin"
     },
     "switchNetwork": {
       "english": "Switch Network",
@@ -1392,7 +1517,8 @@
       "spanish": "Cambiar de red",
       "portuguese": "Switch Network",
       "dutch": "Wisselnetwerk",
-      "french": "Réseau de commutation"
+      "french": "Réseau de commutation",
+      "turkish": "Ağ değiştir"
     },
     "addCustomNetwork": {
       "english": "Add Custom Network",
@@ -1403,7 +1529,8 @@
       "spanish": "Agregar red personalizada",
       "portuguese": "Adicione rede personalizada",
       "dutch": "Voeg een aangepast netwerk toe",
-      "french": "Ajouter un réseau personnalisé"
+      "french": "Ajouter un réseau personnalisé",
+      "turkish": "Özel ağ ekle"
     },
     "testNetworks": {
       "english": "Test networks",
@@ -1414,7 +1541,8 @@
       "spanish": "Redes de prueba",
       "portuguese": "Redes de teste",
       "dutch": "Testnetwerken",
-      "french": "Réseaux de test"
+      "french": "Réseaux de test",
+      "turkish": "Test ağları"
     },
     "editCustomNetwork": {
       "english": "Edit Custom Network",
@@ -1425,7 +1553,8 @@
       "spanish": "Editar red personalizada",
       "portuguese": "Editar rede personalizada",
       "dutch": "Bewerk aangepast netwerk",
-      "french": "Modifier le réseau personnalisé"
+      "french": "Modifier le réseau personnalisé",
+      "turkish": "Özel ağ düzenle"
     },
     "networkAddSuccess": {
       "english": "Successfully added custom network",
@@ -1436,7 +1565,8 @@
       "spanish": "Network personalizado agregado con éxito",
       "portuguese": "Rede personalizada adicionada com sucesso",
       "dutch": "Succesvol aangepast netwerk toegevoegd",
-      "french": "Ajout de réseau personnalisé avec succès"
+      "french": "Ajout de réseau personnalisé avec succès",
+      "turkish": "Özel ağ başarıyla eklendi"
     },
     "networkAddFail": {
       "english": "Unable to add custom network",
@@ -1447,7 +1577,8 @@
       "spanish": "No se puede agregar una red personalizada",
       "portuguese": "Não é possível adicionar rede personalizada",
       "dutch": "Kan geen aangepast netwerk toevoegen",
-      "french": "Impossible d'ajouter un réseau personnalisé"
+      "french": "Impossible d'ajouter un réseau personnalisé",
+      "turkish": "Özel ağ eklenemedi"
     },
     "networkUpdateSuccess": {
       "english": "Successfully updated custom network",
@@ -1458,7 +1589,8 @@
       "spanish": "Red personalizada actualizada con éxito",
       "portuguese": "Rede personalizada atualizada com sucesso",
       "dutch": "Succesvol bijgewerkt aangepast netwerk",
-      "french": "Réseau personnalisé mis à jour avec succès"
+      "french": "Réseau personnalisé mis à jour avec succès",
+      "turkish": "Özel ağ başarıyla güncellendi"
     },
     "networkUpdateFail": {
       "english": "Unable to add custom network",
@@ -1469,7 +1601,8 @@
       "spanish": "No se puede agregar una red personalizada",
       "portuguese": "Não é possível adicionar rede personalizada",
       "dutch": "Kan geen aangepast netwerk toevoegen",
-      "french": "Impossible d'ajouter un réseau personnalisé"
+      "french": "Impossible d'ajouter un réseau personnalisé",
+      "turkish": "Özel ağ eklenemedi"
     },
     "networkDeleteSuccess": {
       "english": "Successfully deleted custom network",
@@ -1480,7 +1613,8 @@
       "spanish": "Eliminada con éxito la red personalizada",
       "portuguese": "Excluído com sucesso Rede Custom",
       "dutch": "Met succes verwijderd aangepast netwerk",
-      "french": "Réseau personnalisé supprimé avec succès"
+      "french": "Réseau personnalisé supprimé avec succès",
+      "turkish": "Özel ağ başarıyla silindi"
     },
     "networkDeleteFail": {
       "english": "Unable to delete custom network",
@@ -1491,7 +1625,8 @@
       "spanish": "No se puede eliminar la red personalizada",
       "portuguese": "Não é possível excluir rede personalizada",
       "dutch": "Kan het aangepaste netwerk niet verwijderen",
-      "french": "Impossible de supprimer le réseau personnalisé"
+      "french": "Impossible de supprimer le réseau personnalisé",
+      "turkish": "Özel ağ silinemedi"
     },
     "invalidHex": {
       "english": "Invalid hexadecimal number.",
@@ -1502,7 +1637,8 @@
       "spanish": "Número hexadecimal inválido.",
       "portuguese": "Número hexadecimal inválido.",
       "dutch": "Ongeldige hexadecimale nummer.",
-      "french": "Nombre hexadécimal non valide."
+      "french": "Nombre hexadécimal non valide.",
+      "turkish": "Geçersiz onaltılık sayı."
     },
     "networkNameExists": {
       "english": "Network name already exists",
@@ -1513,7 +1649,8 @@
       "spanish": "El nombre de la red ya existe",
       "portuguese": "O nome da rede já existe",
       "dutch": "Netwerknaam bestaat al",
-      "french": "Le nom du réseau existe déjà"
+      "french": "Le nom du réseau existe déjà",
+      "turkish": "Ağ adı zaten mevcut"
     },
     "enterNetworkName": {
       "english": "Enter Network Name",
@@ -1524,7 +1661,8 @@
       "spanish": "Ingrese el nombre de la red",
       "portuguese": "Digite o nome da rede",
       "dutch": "Voer de netwerknaam in",
-      "french": "Entrez le nom du réseau"
+      "french": "Entrez le nom du réseau",
+      "turkish": "Ağ adı giriniz"
     },
     "enterRpc": {
       "english": "Enter RPC URL",
@@ -1535,7 +1673,8 @@
       "spanish": "Ingrese RPC URL",
       "portuguese": "Digite RPC URL",
       "dutch": "Voer RPC URL in",
-      "french": "Entrez l'URL du RPC"
+      "french": "Entrez l'URL du RPC",
+      "turkish": "RPC URL giriniz"
     },
     "enterChainId": {
       "english": "Enter Chain ID",
@@ -1546,7 +1685,8 @@
       "spanish": "Ingrese la identificación de la cadena",
       "portuguese": "Digite ID da corrente",
       "dutch": "Voer ketting -ID in",
-      "french": "Entrez la chaîne ID"
+      "french": "Entrez la chaîne ID",
+      "turkish": "Ket ID giriniz"
     },
     "enterSymbol": {
       "english": "Enter Symbol (optional)",
@@ -1557,7 +1697,8 @@
       "spanish": "Ingrese el símbolo (opcional)",
       "portuguese": "Digite o símbolo (opcional)",
       "dutch": "Voer symbool in (optioneel)",
-      "french": "Entrez le symbole (facultatif)"
+      "french": "Entrez le symbole (facultatif)",
+      "turkish": "Sembol giriniz (opsiyonel)"
     },
     "enterBlockExplorer": {
       "english": "Enter Block Explorer URL (optional)",
@@ -1568,7 +1709,8 @@
       "spanish": "Ingrese a la URL de explorador de bloques (opcional)",
       "portuguese": "Digite o URL do Block Explorer (opcional)",
       "dutch": "Voer Block Explorer URL in (optioneel)",
-      "french": "Entrez l'URL de l'explorateur de blocs (facultatif)"
+      "french": "Entrez l'URL de l'explorateur de blocs (facultatif)",
+      "turkish": "Blok Explorer URL giriniz (opsiyonel)"
     },
     "save": {
       "english": "Save",
@@ -1579,7 +1721,8 @@
       "spanish": "Ahorrar",
       "portuguese": "Salvar",
       "dutch": "Redden",
-      "french": "Sauvegarder"
+      "french": "Sauvegarder",
+      "turkish": "Kaydet"
     },
     "delete": {
       "english": "Delete",
@@ -1590,7 +1733,8 @@
       "spanish": "Borrar",
       "portuguese": "Excluir",
       "dutch": "Verwijderen",
-      "french": "Supprimer"
+      "french": "Supprimer",
+      "turkish": "Sil"
     },
     "edit": {
       "english": "Edit",
@@ -1601,7 +1745,8 @@
       "spanish": "Editar",
       "portuguese": "Editar",
       "dutch": "Bewerking",
-      "french": "Modifier"
+      "french": "Modifier",
+      "turkish": "Düzenle"
     },
     "enableNetworksMsg": {
       "english": "Enable to see test networks",
@@ -1612,7 +1757,8 @@
       "spanish": "Habilitar para ver las redes de prueba",
       "portuguese": "Ativar ver redes de teste",
       "dutch": "Schakel testnetwerken in",
-      "french": "Permettre de voir les réseaux de test"
+      "french": "Permettre de voir les réseaux de test",
+      "turkish": "Test ağlarını görmek için etkinleştirin"
     },
     "devMsg": {
       "english": "This is a developer setting and meant for testing and advanced usage. Avoid changing these settings if you're not familiar with their purpose.",
@@ -1623,7 +1769,8 @@
       "spanish": "Esta es una configuración de desarrollador y destinada a pruebas y uso avanzado. Evite cambiar estas configuraciones si no está familiarizado con su propósito.",
       "portuguese": "Esta é uma configuração de desenvolvedor e destinada a testes e uso avançado. Evite alterar essas configurações se você não estiver familiarizado com o objetivo deles.",
       "dutch": "Dit is een ontwikkelaarsinstelling en bedoeld voor testen en geavanceerd gebruik. Verander deze instellingen niet als u niet bekend bent met hun doel.",
-      "french": "Il s'agit d'un paramètre de développeur et destiné aux tests et à l'utilisation avancée. Évitez de changer ces paramètres si vous n'êtes pas familier avec leur objectif."
+      "french": "Il s'agit d'un paramètre de développeur et destiné aux tests et à l'utilisation avancée. Évitez de changer ces paramètres si vous n'êtes pas familier avec leur objectif.",
+      "turkish": "Bu geliştirici ayarı ve test ve gelişmiş kullanım için tasarlanmıştır. Bu ayarları değiştirmeyi bilmiyorsanız, bunları değiştirmeyin."
     },
     "language": {
       "english": "Language",
@@ -1634,7 +1781,8 @@
       "spanish": "Idioma",
       "portuguese": "Linguagem",
       "dutch": "Taal",
-      "french": "Langue"
+      "french": "Langue",
+      "turkish": "Dil"
     },
     "selectDefaultLang": {
       "english": "select Default Language",
@@ -1645,7 +1793,8 @@
       "spanish": "Seleccione el lenguaje predeterminado",
       "portuguese": "Selecione o idioma padrão",
       "dutch": "Selecteer Standaardtaal",
-      "french": "Sélectionnez la langue par défaut"
+      "french": "Sélectionnez la langue par défaut",
+      "turkish": "Varsayılan dil seç"
     },
     "currency": {
       "english": "Currency",
@@ -1656,7 +1805,8 @@
       "spanish": "Divisa",
       "portuguese": "Moeda",
       "dutch": "Munteenheid",
-      "french": "Devise"
+      "french": "Devise",
+      "turkish": "Para birimi"
     },
     "selectDefaultCurrency": {
       "english": "Select Default Currency",
@@ -1667,7 +1817,8 @@
       "spanish": "Seleccionar moneda predeterminada",
       "portuguese": "Selecione a moeda padrão",
       "dutch": "Selecteer standaardvaluta",
-      "french": "Sélectionnez la devise par défaut"
+      "french": "Sélectionnez la devise par défaut",
+      "turkish": "Varsayılan para birimi seç"
     },
     "importAcc": {
       "english": "Import Account",
@@ -1678,7 +1829,8 @@
       "spanish": "Cuenta de importación",
       "portuguese": "Conta de importação",
       "dutch": "Importrekening",
-      "french": "Compte d'importation"
+      "french": "Compte d'importation",
+      "turkish": "Hesap içeri aktarma"
     },
     "selectImportType": {
       "english": "Select Import Type",
@@ -1689,7 +1841,8 @@
       "spanish": "Seleccione Tipo de importación",
       "portuguese": "Selecione o tipo de importação",
       "dutch": "Selecteer het type import",
-      "french": "Sélectionnez le type d'importation"
+      "french": "Sélectionnez le type d'importation",
+      "turkish": "İçeri aktarma türü seç"
     },
     "inputPrivKey": {
       "english": "Input Private Key",
@@ -1700,7 +1853,8 @@
       "spanish": "Ingreso clave privada",
       "portuguese": "Insira a chave privada",
       "dutch": "Invoer privésleutel",
-      "french": "Entrez la clé privée"
+      "french": "Entrez la clé privée",
+      "turkish": "Gizli anahtarı gir"
     },
     "import": {
       "english": "Import",
@@ -1711,7 +1865,8 @@
       "spanish": "Importar",
       "portuguese": "Importar",
       "dutch": "Importeren",
-      "french": "Importer"
+      "french": "Importer",
+      "turkish": "İçeri aktar"
     },
     "importError": {
       "english": "Something went wrong, please check console logs",
@@ -1722,7 +1877,8 @@
       "spanish": "Algo salió mal, por favor revise los registros de la consola",
       "portuguese": "Algo deu errado, verifique os logs do console",
       "dutch": "Er is iets misgegaan, controleer de consologogels",
-      "french": "Quelque chose s'est mal passé, veuillez vérifier les journaux de la console"
+      "french": "Quelque chose s'est mal passé, veuillez vérifier les journaux de la console",
+      "turkish": "Bir şeyler yanlış gitti, lütfen konsola günlüklerini kontrol edin"
     },
     "errors-invalid-password": {
       "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
@@ -1730,7 +1886,11 @@
       "japanese": "10文字以上である必要があります。 少なくとも1つの大文字、1つの小文字、1つの数字",
       "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자, 하나의 숫자",
       "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
-      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número"
+      "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
+      "portuguese": "Deve conter pelo menos 10 caracteres. Pelo menos uma letra maiúscula, uma letra minúscula, um número",
+      "dutch": "Moet ten minste 10 tekens bevatten. Ten minste één hoofdletter, één kleine letter, één cijfer",
+      "french": "Doit contenir au moins 10 caractères. Au moins une lettre majuscule, une lettre minuscule, un nombre",
+      "turkish": "En az 10 karakter içermelidir. En az bir büyük harf, bir küçük harf ve bir sayı"
     },
     "privateKey": {
       "english": "Private Key",
@@ -1741,7 +1901,8 @@
       "spanish": "Llave privada",
       "portuguese": "Chave privada",
       "dutch": "Privésleutel",
-      "french": "Clé privée"
+      "french": "Clé privée",
+      "turkish": "Gizli anahtar"
     },
     "inputPassword": {
       "english": "Please input password",
@@ -1752,7 +1913,8 @@
       "spanish": "Por favor ingrese la contraseña",
       "portuguese": "Insira a senha",
       "dutch": "Voer het wachtwoord in",
-      "french": "Veuillez saisir le mot de passe"
+      "french": "Veuillez saisir le mot de passe",
+      "turkish": "Lütfen şifreyi girin"
     },
     "showPrivateKey": {
       "english": "Show Private Key",
@@ -1763,7 +1925,8 @@
       "spanish": "Mostrar llave privada",
       "portuguese": "Mostre chave privada",
       "dutch": "Toon privésleutel",
-      "french": "Afficher la clé privée"
+      "french": "Afficher la clé privée",
+      "turkish": "Gizli anahtarı göster"
     },
     "hidePrivateKey": {
       "english": "Hide Private Key",
@@ -1774,7 +1937,8 @@
       "spanish": "Ocultar la llave privada",
       "portuguese": "Ocultar a chave privada",
       "dutch": "Verberg de privésleutel",
-      "french": "Masquer la clé privée"
+      "french": "Masquer la clé privée",
+      "turkish": "Gizli anahtarı gizle"
     },
     "recoveryKit": {
       "english": "Recovery Kit",
@@ -1785,7 +1949,8 @@
       "spanish": "Kit de recuperación",
       "portuguese": "Kit de recuperação",
       "dutch": "Herstelkit",
-      "french": "Kit de récupération"
+      "french": "Kit de récupération",
+      "turkish": "Kurtarma Kiti"
     },
     "browserNotification": {
       "english": "Browser notifications",
@@ -1796,7 +1961,8 @@
       "spanish": "Notificaciones del navegador",
       "portuguese": "Notificações do navegador",
       "dutch": "Browsermeldingen",
-      "french": "Notifications de navigateur"
+      "french": "Notifications de navigateur",
+      "turkish": "Tarayıcı bildirimleri"
     },
     "enableNotificationMsg": {
       "english": "Enable this to get browser notifications related to transactions in your Torus wallet.",
@@ -1807,7 +1973,8 @@
       "spanish": "Permita que esto haga que las notificaciones del navegador sean relacionadas con las transacciones en su billetera Torus.",
       "portuguese": "Habilite isso para obter notificações do navegador relacionadas a transações na carteira do Torus.",
       "dutch": "Schakel dit in om browsermeldingen te krijgen met betrekking tot transacties in uw Torus -portemonnee.",
-      "french": "Activez ceci pour obtenir des notifications de navigateur liées aux transactions dans votre portefeuille Torus."
+      "french": "Activez ceci pour obtenir des notifications de navigateur liées aux transactions dans votre portefeuille Torus.",
+      "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tarayıcı bildirimlerini almak için bu seçeneği etkinleştirin."
     },
     "emailNotification": {
       "english": "Email notifications",
@@ -1818,7 +1985,8 @@
       "spanish": "Notificaciónes de Correo Electrónico",
       "portuguese": "Notificações por e -mail",
       "dutch": "E-mail notificaties",
-      "french": "Notifications par email"
+      "french": "Notifications par email",
+      "turkish": "E-posta bildirimleri"
     },
     "enableEmailNotificationMsg": {
       "english": "Enable this to get all email notification related to transactions in your Torus Wallet.",
@@ -1829,7 +1997,8 @@
       "spanish": "Habilite esto para obtener todas las notificaciones de correo electrónico relacionadas con las transacciones en su billetera Torus.",
       "portuguese": "Habilite isso para obter todas as notificações por e -mail relacionadas a transações na sua carteira de torus.",
       "dutch": "Schakel dit in om alle e -mailmeldingen met betrekking tot transacties in uw Torus -portemonnee te krijgen.",
-      "french": "Activez ceci pour obtenir toute la notification par e-mail liée aux transactions dans votre portefeuille Torus."
+      "french": "Activez ceci pour obtenir toute la notification par e-mail liée aux transactions dans votre portefeuille Torus.",
+      "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tüm e-posta bildirimlerini almak için bu seçeneği etkinleştirin."
     },
     "inAppNotification": {
       "english": "In-app notifications",
@@ -1840,7 +2009,8 @@
       "spanish": "Notificaciones en la aplicación",
       "portuguese": "Notificações no aplicativo",
       "dutch": "In-app-meldingen",
-      "french": "Notifications intégrées"
+      "french": "Notifications intégrées",
+      "turkish": "Uygulama içi bildirimler"
     },
     "enableInAppNotificationMsg": {
       "english": "Enable this to get all in-app notifications related to transactions in your Torus wallet.",
@@ -1851,7 +2021,8 @@
       "spanish": "Permita que esto obtenga todas las notificaciones en la aplicación relacionadas con las transacciones en su billetera Torus.",
       "portuguese": "Habilite isso para obter todas as notificações no aplicativo relacionadas a transações em sua carteira de torus.",
       "dutch": "Schakel dit in om alle in-app-meldingen met betrekking tot transacties in uw Torus-portemonnee te krijgen.",
-      "french": "Activez ceci pour obtenir toutes les notifications intégrées à l'application liées aux transactions dans votre portefeuille Torus."
+      "french": "Activez ceci pour obtenir toutes les notifications intégrées à l'application liées aux transactions dans votre portefeuille Torus.",
+      "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tüm uygulama içi bildirimlerini almak için bu seçeneği etkinleştirin."
     },
     "yourAcc": {
       "english": "Other accounts",
@@ -1862,7 +2033,8 @@
       "spanish": "Otras cuentas",
       "portuguese": "Outras contas",
       "dutch": "Andere accounts",
-      "french": "Autres comptes"
+      "french": "Autres comptes",
+      "turkish": "Diğer hesaplar"
     },
     "downloadSoftCopy": {
       "english": "Download Soft copy (JSON)",
@@ -1873,7 +2045,8 @@
       "spanish": "Descargar una copia suave (JSON)",
       "portuguese": "Download Soft Cópia (JSON)",
       "dutch": "Download Soft Copy (JSON)",
-      "french": "Télécharger Soft Copy (JSON)"
+      "french": "Télécharger Soft Copy (JSON)",
+      "turkish": "Ince ince (JSON) indir"
     },
     "switchAccount": {
       "english": "Switch Account",
@@ -1884,7 +2057,8 @@
       "spanish": "Cambiar cuenta",
       "portuguese": "Mudar de conta",
       "dutch": "Verwissel van profiel",
-      "french": "Changer de compte"
+      "french": "Changer de compte",
+      "turkish": "Hesap değiştir"
     }
   },
   "widget": {
@@ -1897,7 +2071,8 @@
       "spanish": "Equilibrio de billetera",
       "portuguese": "Balanço da carteira",
       "dutch": "Portemonnee",
-      "french": "Équilibre du portefeuille"
+      "french": "Équilibre du portefeuille",
+      "turkish": "Cüzdan bakiyesi"
     },
     "openWallet": {
       "english": "Open Wallet",
@@ -1908,7 +2083,8 @@
       "spanish": "Billetera abierta",
       "portuguese": "Carteira aberta",
       "dutch": "Open portemonnee",
-      "french": "Portefeuille ouvert"
+      "french": "Portefeuille ouvert",
+      "turkish": "Açık cüzdan"
     }
   },
   "moca": {
@@ -1921,7 +2097,8 @@
       "spanish": "MOCA XP total",
       "portuguese": "Total MOCA XP",
       "dutch": "Totaal MOCA XP",
-      "french": "Total MOCA XP"
+      "french": "Total MOCA XP",
+      "turkish": "Toplam MOCA XP"
     },
     "pendingMocaXp": {
       "english": "Total Moca XP",
@@ -1932,7 +2109,8 @@
       "spanish": "MOCA XP total",
       "portuguese": "Total MOCA XP",
       "dutch": "Totaal MOCA XP",
-      "french": "Total MOCA XP"
+      "french": "Total MOCA XP",
+      "turkish": "Toplam MOCA XP"
     }
   }
 }

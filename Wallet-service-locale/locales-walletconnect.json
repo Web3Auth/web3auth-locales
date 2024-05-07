@@ -9,7 +9,8 @@
       "spanish": "Pegar el enlace QR de WalletConnect a continuación",
       "portuguese": "Cole o link QR WalletConnect abaixo",
       "dutch": "Plak WalletConnect QR -link hieronder",
-      "french": "Coller le lien QR WalletConnect ci-dessous"
+      "french": "Coller le lien QR WalletConnect ci-dessous",
+      "turkish": "WalletConnect QR bağlantısını aşağıda yapıştırın"
     },
     "connect": {
       "english": "Connect",
@@ -20,7 +21,8 @@
       "spanish": "Conectar",
       "portuguese": "Conectar",
       "dutch": "Aansluiten",
-      "french": "Connecter"
+      "french": "Connecter",
+      "turkish": "Bağlan"
     },
     "disConnect": {
       "english": "Disconnect",
@@ -31,7 +33,8 @@
       "spanish": "Desconectar",
       "portuguese": "desconectar",
       "dutch": "Loskoppelen",
-      "french": "Débrancher"
+      "french": "Débrancher",
+      "turkish": "Bağlantıyı kes"
     },
     "connectedWithWalletConnect": {
       "english": "Connected with WalletConnect",
@@ -42,7 +45,8 @@
       "spanish": "Conectado con WalletConnect",
       "portuguese": "Conectado com WalletConnect",
       "dutch": "Verbonden met WalletConnect",
-      "french": "Lié à WalletConnect"
+      "french": "Lié à WalletConnect",
+      "turkish": "WalletConnect ile bağlı"
     },
     "takeMeTo": {
       "english": "Take me to",
@@ -53,7 +57,8 @@
       "spanish": "Llévame a",
       "portuguese": "Leva me para",
       "dutch": "Breng me naar",
-      "french": "M'emmène"
+      "french": "M'emmène",
+      "turkish": "Bana bana"
     },
     "showGuide": {
       "english": "Show Guide",
@@ -64,7 +69,8 @@
       "spanish": "Guía",
       "portuguese": "Mostrar Guia",
       "dutch": "Toon gids",
-      "french": "Guide"
+      "french": "Guide",
+      "turkish": "Rehberi göster"
     },
     "hideGuide": {
       "english": "Hide Guide",
@@ -75,7 +81,8 @@
       "spanish": "Escondite",
       "portuguese": "Ocultar guia",
       "dutch": "Gids verbergen",
-      "french": "Guide"
+      "french": "Guide",
+      "turkish": "Rehberi gizle"
     },
     "pasteQrLinkHere": {
       "english": "Paste QR link here",
@@ -86,7 +93,8 @@
       "spanish": "Pegar el enlace QR aquí",
       "portuguese": "Cole o link QR aqui",
       "dutch": "Plak hier de QR -link",
-      "french": "Coller le lien QR ici"
+      "french": "Coller le lien QR ici",
+      "turkish": "QR bağlantısını buraya yapıştırın"
     },
     "connectedApplications": {
       "english": "Connected Applications",
@@ -97,7 +105,8 @@
       "spanish": "Aplicaciones conectadas",
       "portuguese": "Aplicações conectadas",
       "dutch": "Verbonden toepassingen",
-      "french": "Applications connectées"
+      "french": "Applications connectées",
+      "turkish": "Bağlı uygulamalar"
     },
     "maxAppConnected": {
       "english": "Maximum applications connected",
@@ -108,7 +117,8 @@
       "spanish": "Aplicaciones máximas conectadas",
       "portuguese": "Aplicações máximas conectadas",
       "dutch": "Maximale toepassingen verbonden",
-      "french": "Applications maximales connectées"
+      "french": "Applications maximales connectées",
+      "turkish": "Bağlı uygulama maksimum"
     },
     "connected": {
       "english": "Connected",
@@ -119,7 +129,8 @@
       "spanish": "Conectado",
       "portuguese": "Conectado",
       "dutch": "Verbonden",
-      "french": "Connecté"
+      "french": "Connecté",
+      "turkish": "Bağlı"
     },
     "connectedSuccess": {
       "english": "Connected Successfully",
@@ -130,7 +141,8 @@
       "spanish": "Conectado con éxito",
       "portuguese": "Conectado com sucesso",
       "dutch": "Succesvol verbonden",
-      "french": "Connecté avec succès"
+      "french": "Connecté avec succès",
+      "turkish": "Bağlantı başarıyla yapıldı"
     }
   },
   "carousel": {
@@ -143,7 +155,8 @@
       "spanish": "Conectarse a la aplicación",
       "portuguese": "Conectar ao aplicativo",
       "dutch": "Maak verbinding met de applicatie",
-      "french": "Se connecter à l'application"
+      "french": "Se connecter à l'application",
+      "turkish": "Bağlan uygulamaya"
     },
     "subHeading1": {
       "english": "Access the Web3 marketplace in a few steps",
@@ -154,7 +167,8 @@
       "spanish": "Acceda al mercado Web3 en unos pocos pasos",
       "portuguese": "Acesse o Web3 Marketplace em algumas etapas",
       "dutch": "Toegang tot de Web3 -markt in enkele stappen",
-      "french": "Accéder au marché Web3 en quelques étapes"
+      "french": "Accéder au marché Web3 en quelques étapes",
+      "turkish": "Web3 mağazasını birkaç adımda erişin"
     },
     "heading2": {
       "english": "Visit Application Site",
@@ -165,7 +179,8 @@
       "spanish": "Visite el sitio de solicitud",
       "portuguese": "Visite site de inscrição",
       "dutch": "Bezoek de toepassingssite",
-      "french": "Visitez le site de la demande"
+      "french": "Visitez le site de la demande",
+      "turkish": "Bağlantı sitesine git"
     },
     "subHeading2": {
       "english": "Go to Application that has WalletConnect",
@@ -176,7 +191,8 @@
       "spanish": "Vaya a la aplicación que tiene WalletConnect",
       "portuguese": "Vá para a aplicação que tenha WalletConnect",
       "dutch": "Ga naar de toepassing die WalletConnect heeft",
-      "french": "Accédez à une application qui a WalletConnect"
+      "french": "Accédez à une application qui a WalletConnect",
+      "turkish": "Uygulamadaki WalletConnect ile bağlantılı bir uygulamaya git"
     },
     "heading3": {
       "english": "Select WalletConnect",
@@ -187,7 +203,8 @@
       "spanish": "Seleccionar WalletConnect",
       "portuguese": "Selecione WalleTConnect",
       "dutch": "Selecteer WalletConnect",
-      "french": "Sélectionnez WalletConnect"
+      "french": "Sélectionnez WalletConnect",
+      "turkish": "WalletConnect'i seçin"
     },
     "subHeading3": {
       "english": "From the list of Wallets on application",
@@ -198,7 +215,8 @@
       "spanish": "De la lista de billeteras en la aplicación",
       "portuguese": "Da lista de carteiras na aplicação",
       "dutch": "Uit de lijst met portefeuilles op toepassing",
-      "french": "À partir de la liste des portefeuilles sur l'application"
+      "french": "À partir de la liste des portefeuilles sur l'application",
+      "turkish": "Uygulamadaki portföyler listesinden"
     },
     "heading4": {
       "english": "Click 'Copy to clipboard'",
@@ -209,7 +227,8 @@
       "spanish": "Haga clic en 'Copiar al portapapeles'",
       "portuguese": "Clique em 'Copiar para a área de transferência'",
       "dutch": "Klik op 'Kopiëren naar klembord'",
-      "french": "Cliquez sur 'Copier dans le presse-papiers'"
+      "french": "Cliquez sur 'Copier dans le presse-papiers'",
+      "turkish": "'Panoya' düğmesine tıklayın"
     },
     "subHeading4": {
       "english": "Located below the QR Code",
@@ -220,7 +239,8 @@
       "spanish": "Ubicado debajo del código QR",
       "portuguese": "Localizado abaixo do código QR",
       "dutch": "Gelegen onder de QR -code",
-      "french": "Situé sous le code QR"
+      "french": "Situé sous le code QR",
+      "turkish": "QR kodu altında"
     },
     "heading5": {
       "english": "Paste QR Link below",
@@ -231,7 +251,8 @@
       "spanish": "Pegar el enlace QR a continuación",
       "portuguese": "Cole o link QR abaixo",
       "dutch": "Plak de QR -link hieronder",
-      "french": "Coller le lien QR ci-dessous"
+      "french": "Coller le lien QR ci-dessous",
+      "turkish": "QR bağlantısını aşağıya yapıştırın"
     },
     "subHeading5": {
       "english": "Or scan the QR code directly",
@@ -242,7 +263,8 @@
       "spanish": "O escanear el código QR directamente",
       "portuguese": "Ou digitalize o código QR diretamente",
       "dutch": "Of scan de QR -code rechtstreeks",
-      "french": "Ou numériser directement le code QR"
+      "french": "Ou numériser directement le code QR",
+      "turkish": "Veya QR kodunu doğrudan tarayın"
     },
     "heading6": {
       "english": "Accept Terms and Conditions",
@@ -253,7 +275,8 @@
       "spanish": "Aceptar terminos y condiciones",
       "portuguese": "Aceita termos e Condições",
       "dutch": "Accepteer de algemene voorwaarden",
-      "french": "Accepter les termes et conditions"
+      "french": "Accepter les termes et conditions",
+      "turkish": "Kullanım Şartlarını kabul edin"
     },
     "subHeading6": {
       "english": "Return to Application to Accept and Sign",
@@ -264,7 +287,8 @@
       "spanish": "Volver a la solicitud para aceptar y firmar",
       "portuguese": "Retorne ao aplicativo para aceitar e assinar",
       "dutch": "Keer terug naar de aanvraag om te accepteren en te ondertekenen",
-      "french": "Revenir à la demande pour accepter et signer"
+      "french": "Revenir à la demande pour accepter et signer",
+      "turkish": "Uygulamaya dönerek onaylayın ve imzalayın"
     },
     "heading7": {
       "english": "Authorize Application",
@@ -275,7 +299,8 @@
       "spanish": "Autorizar la solicitud",
       "portuguese": "Autorize Aplicação",
       "dutch": "Autoriseer een aanvraag",
-      "french": "Autoriser la demande"
+      "french": "Autoriser la demande",
+      "turkish": "Başvuru onaylayın"
     },
     "subHeading7": {
       "english": "Approve application's message to continue",
@@ -286,7 +311,8 @@
       "spanish": "Aprobar el mensaje de la aplicación para continuar",
       "portuguese": "Aprovar a mensagem do aplicativo para continuar",
       "dutch": "Goedkeuren het bericht van de aanvraag om door te gaan",
-      "french": "Approuver le message de l'application pour continuer"
+      "french": "Approuver le message de l'application pour continuer",
+      "turkish": "Uygulamanın iletisini onaylayarak devam edin"
     },
     "heading8": {
       "english": "You are all set!",
@@ -297,7 +323,8 @@
       "spanish": "¡Estas listo!",
       "portuguese": "Estás pronto!",
       "dutch": "Jullie zijn er klaar voor!",
-      "french": "Vous êtes prêt!"
+      "french": "Vous êtes prêt!",
+      "turkish": "Hazır ol!"
     },
     "subHeading8": {
       "english": "Return to Application to start exploring!",
@@ -308,7 +335,8 @@
       "spanish": "¡Regrese a la aplicación para comenzar a explorar!",
       "portuguese": "Volte ao aplicativo para começar a explorar!",
       "dutch": "Keer terug naar de aanvraag om te beginnen met verkennen!",
-      "french": "Revenez à l'application pour commencer à explorer!"
+      "french": "Revenez à l'application pour commencer à explorer!",
+      "turkish": "Uygulamaya dönerek keşfetmek için başlayın!"
     }
   },
   "error": {
@@ -321,7 +349,8 @@
       "spanish": "URL de conexión de billetera no válida",
       "portuguese": "Carteira inválida URL de conexão",
       "dutch": "Ongeldige portemonnee verbind url",
-      "french": "URL de connexion du portefeuille non valide"
+      "french": "URL de connexion du portefeuille non valide",
+      "turkish": "Hatalı bir cüzdan bağlantısı URL"
     },
     "v1Deprecated": {
       "english": "v1 is deprecated",
@@ -332,7 +361,8 @@
       "spanish": "V1 está en desuso",
       "portuguese": "v1 está preguiçoso",
       "dutch": "V1 is verouderd",
-      "french": "V1 est obsolète"
+      "french": "V1 est obsolète",
+      "turkish": "V1 kullanımdan kaldırıldı"
     },
     "grantCameraPermission": {
       "english": "You need to grant camera access permission",
@@ -343,7 +373,8 @@
       "spanish": "Necesita otorgar permiso de acceso a la cámara",
       "portuguese": "Você precisa conceder permissão de acesso à câmera",
       "dutch": "U moet toestemming van de camera toegang geven",
-      "french": "Vous devez accorder une autorisation d'accès à la caméra"
+      "french": "Vous devez accorder une autorisation d'accès à la caméra",
+      "turkish": "Kamera erişim izni verilmesi gerekiyor"
     },
     "noCamera": {
       "english": "No camera on this device",
@@ -354,7 +385,8 @@
       "spanish": "No hay cámara en este dispositivo",
       "portuguese": "Nenhuma câmera neste dispositivo",
       "dutch": "Geen camera op dit apparaat",
-      "french": "Pas de caméra sur cet appareil"
+      "french": "Pas de caméra sur cet appareil",
+      "turkish": "Bu cihazda kamera yok"
     },
     "secureContext": {
       "english": "Secure context required (HTTPS, localhost)",
@@ -365,7 +397,8 @@
       "spanish": "Contexto seguro requerido (https, localhost)",
       "portuguese": "Contexto seguro necessário (https, localhost)",
       "dutch": "Veilige context vereist (https, localhost)",
-      "french": "Contexte sécurisé requis (HTTPS, localhost)"
+      "french": "Contexte sécurisé requis (HTTPS, localhost)",
+      "turkish": "Güvenli bağlam gerekli (HTTPS, localhost)"
     },
     "cameraInUse": {
       "english": "Is the camera already in use?",
@@ -376,7 +409,8 @@
       "spanish": "¿La cámara ya está en uso?",
       "portuguese": "A câmera já está em uso?",
       "dutch": "Is de camera al in gebruik?",
-      "french": "La caméra est-elle déjà utilisée?"
+      "french": "La caméra est-elle déjà utilisée?",
+      "turkish": "Kamera zaten kullanılıyor mu?"
     },
     "installedCameraErr": {
       "english": "Installed cameras are not suitable",
@@ -387,7 +421,8 @@
       "spanish": "Las cámaras instaladas no son adecuadas",
       "portuguese": "Câmeras instaladas não são adequadas",
       "dutch": "Geïnstalleerde camera's zijn niet geschikt",
-      "french": "Les caméras installées ne conviennent pas"
+      "french": "Les caméras installées ne conviennent pas",
+      "turkish": "Yüklü kamera uygun değil"
     },
     "streamErr": {
       "english": "Stream Api not supported",
@@ -398,7 +433,8 @@
       "spanish": "API de transmisión no es compatible",
       "portuguese": "API de fluxo não suportada",
       "dutch": "Stream API niet ondersteund",
-      "french": "API Stream non pris en charge"
+      "french": "API Stream non pris en charge",
+      "turkish": "Stream API desteklenmiyor"
     },
     "qrReaderErr": {
       "english": "QR reader error",
@@ -409,7 +445,8 @@
       "spanish": "Error del lector QR",
       "portuguese": "Erro do leitor QR",
       "dutch": "QR Reader Fout",
-      "french": "Erreur du lecteur QR"
+      "french": "Erreur du lecteur QR",
+      "turkish": "QR Okuyucu Hatası"
     },
     "wcInit": {
       "english": "Something went wrong during initialization.",
@@ -420,7 +457,8 @@
       "spanish": "Algo salió mal durante la inicialización.",
       "portuguese": "Algo deu errado durante a inicialização.",
       "dutch": "Er ging iets mis tijdens de initialisatie.",
-      "french": "Quelque chose s'est mal passé lors de l'initialisation."
+      "french": "Quelque chose s'est mal passé lors de l'initialisation.",
+      "turkish": "Başlatma sırasında bir şeyler ters gitti."
     }
   }
 }
