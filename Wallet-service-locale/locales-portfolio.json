@@ -616,6 +616,61 @@
       "dutch": "Bijvoegen",
       "french": "Reprise"
     },
+    "sentItem": {
+      "english": "Sent {0}",
+      "german": "Gesendet {0}",
+      "japanese": "送信された{0}",
+      "korean": "{0}를 보냈습니다",
+      "mandarin": "发送 {0}",
+      "spanish": "{0} enviado",
+      "portuguese": "Enviado {0}",
+      "dutch": "{0} verzonden",
+      "french": "{0} envoyé"
+    },
+    "receivedItem": {
+      "english": "Received {0}",
+      "german": "{0} erhalten",
+      "japanese": "{0}を受信しました",
+      "korean": "{0}를 받았습니다",
+      "mandarin": "收到{0}",
+      "spanish": "{0} recibido",
+      "portuguese": "{0} recebidos",
+      "dutch": "{0} ontvangen",
+      "french": "{0} reçu"
+    },
+    "approvedItem": {
+      "english": "Approved {0}",
+      "german": "Anerkannte {0}",
+      "japanese": "承認された{0}",
+      "korean": "승인된 {0}",
+      "mandarin": "批准的 {0}",
+      "spanish": "{0} aprobado",
+      "portuguese": "{0} aprovado",
+      "dutch": "Goedgekeurde {0}",
+      "french": "{0} approuvé"
+    },
+    "contractInteraction": {
+      "english": "Contract Interaction",
+      "german": "Vertragsinteraktion",
+      "japanese": "契約のやり取り",
+      "korean": "계약 상호작용",
+      "mandarin": "合约交互",
+      "spanish": "Interacción contractual",
+      "portuguese": "Interação Contratual",
+      "dutch": "Contractinteractie",
+      "french": "Interaction contractuelle"
+    },
+    "contractDeployment": {
+      "english": "Contract Deployment",
+      "german": "Vertragsbereitstellung",
+      "japanese": "契約の展開",
+      "korean": "계약 배포",
+      "mandarin": "合约部署",
+      "spanish": "Implementación del contrato",
+      "portuguese": "Implantação de contrato",
+      "dutch": "Contractimplementatie",
+      "french": "Déploiement du contrat"
+    },
     "allDates": {
       "english": "All Dates",
       "german": "Alle Daten",
