@@ -9,7 +9,7 @@
       "korean": "닫다",
       "mandarin": "关闭",
       "portuguese": "fechar",
-      "spanish": "cerca"
+      "spanish": "Cerrar"
     },
     "drawer": {
       "dutch": "Hoofdnavigatie",
@@ -20,7 +20,7 @@
       "korean": "메인 탐색",
       "mandarin": "主要导航",
       "portuguese": "Navegação Principal",
-      "spanish": "Navegación Principal"
+      "spanish": "Página Principal"
     },
     "lang-select": {
       "dutch": "Taalkeuze",
@@ -56,7 +56,7 @@
       "spanish": "Aplicaciones autorizadas"
     },
     "link-home": {
-      "dutch": "Startpagina",
+      "dutch": "Homepagina",
       "english": "Home",
       "french": "Accueil",
       "german": "Startseite",
@@ -64,7 +64,7 @@
       "korean": "홈페이지",
       "mandarin": "主页",
       "portuguese": "Início",
-      "spanish": "página principal"
+      "spanish": "Página principal"
     },
     "link-logout": {
       "dutch": "Uitloggen",
@@ -86,7 +86,7 @@
       "korean": "지원하다",
       "mandarin": "支持",
       "portuguese": "Suporte",
-      "spanish": "Apoyo"
+      "spanish": "Soporte"
     },
     "list-bottom": {
       "dutch": "Hoofdnavigatie onderaan",

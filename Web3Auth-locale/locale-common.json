@@ -81,7 +81,7 @@
       "korean": "지갑에 연결",
       "mandarin": "使用钱包连接",
       "portuguese": "Conectar com carteira",
-      "spanish": "Conectar con billetera",
+      "spanish": "Conectar con la billetera",
       "turkish": "Cüzdan ile Bağlan"
     },
     "external.title": {
@@ -141,7 +141,7 @@
       "korean": "자기 보관 로그인",
       "mandarin": "自托管登录由",
       "portuguese": "Login de autocustódia por",
-      "spanish": "Inicio de sesión con autogestión por",
+      "spanish": "Inicio de sesión con autocustodia por",
       "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
@@ -153,7 +153,7 @@
       "korean": "자해를 통해",
       "mandarin": "自我castody通过",
       "portuguese": "Autoconfiança via",
-      "spanish": "Autocustody a través de",
+      "spanish": "Autocustodia a través de",
       "turkish": "Kendi kendine velayet"
     },
     "footer.policy": {

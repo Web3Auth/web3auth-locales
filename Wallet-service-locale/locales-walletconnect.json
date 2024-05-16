@@ -117,7 +117,7 @@
       "korean": "WalletConnect가있는 응용 프로그램으로 이동하십시오",
       "mandarin": "转到具有WalletConnect的应用程序",
       "portuguese": "Vá para a aplicação que tenha WalletConnect",
-      "spanish": "Vaya a la aplicación que tiene WalletConnect",
+      "spanish": "Ir a la aplicación que tiene WalletConnect",
       "turkish": "Uygulamadaki WalletConnect ile bağlantılı bir uygulamaya git"
     },
     "subHeading3": {
@@ -397,7 +397,7 @@
       "korean": "가이드를 숨 깁니다",
       "mandarin": "隐藏指南",
       "portuguese": "Ocultar guia",
-      "spanish": "Escondite",
+      "spanish": "Ocultar guía",
       "turkish": "Rehberi gizle"
     },
     "maxAppConnected": {
@@ -445,7 +445,7 @@
       "korean": "쇼 가이드",
       "mandarin": "展示指南",
       "portuguese": "Mostrar Guia",
-      "spanish": "Guía",
+      "spanish": "Mostrar Guía",
       "turkish": "Rehberi göster"
     },
     "takeMeTo": {
@@ -457,7 +457,7 @@
       "korean": "나를 데려 가라",
       "mandarin": "带我去",
       "portuguese": "Leva me para",
-      "spanish": "Llévame a",
+      "spanish": "Ir a",
       "turkish": "Bana bana"
     }
   }

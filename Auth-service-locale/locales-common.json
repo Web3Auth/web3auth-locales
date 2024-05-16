@@ -21,19 +21,19 @@
       "korean": "뒤로",
       "mandarin": "背部",
       "portuguese": "Voltar",
-      "spanish": "Espalda",
+      "spanish": "Volver",
       "turkish": "Geri"
     },
     "back-to-download": {
       "dutch": "Terug naar download herstel Factor",
       "english": "Back to download Recovery Factor",
       "french": "Retour au facteur de récupération de téléchargement",
-      "german": "E-Mail bearbeiten",
+      "german": "Zurück zum Download von Recovery Factor",
       "japanese": "メールを編集",
       "korean": "이메일 수정",
       "mandarin": "编辑电子邮件",
-      "portuguese": "Editar e-mail",
-      "spanish": "Editar correo electrónico",
+      "portuguese": "Voltar para baixar o Fator de Recuperação",
+      "spanish": "Volver a descargar Factor de Recuperación",
       "turkish": "Kurtarma Faktörünü indirmek için geri dönün"
     },
     "confirm": {
@@ -249,7 +249,7 @@
       "korean": "더 알아보기",
       "mandarin": "更多详情",
       "portuguese": "Saber mais",
-      "spanish": "Aprende más",
+      "spanish": "Mas información",
       "turkish": "Daha fazla bilgi edinin"
     },
     "loader-not-done-note": {
@@ -261,7 +261,7 @@
       "korean": "로딩중입니다. 조금만 기다려주세요.",
       "mandarin": "我们将在几秒钟内到达",
       "portuguese": "Estaremos lá em alguns segundos",
-      "spanish": "Estaremos allí en unos segundos",
+      "spanish": "Estaremos listos en unos segundos",
       "turkish": "Birkaç saniye içinde orada olacağız."
     },
     "new-device-detected": {
@@ -285,7 +285,7 @@
       "korean": "다음",
       "mandarin": "下一个",
       "portuguese": "Próximo",
-      "spanish": "Próximo",
+      "spanish": "Siguiente",
       "turkish": "Sonraki"
     },
     "or": {
@@ -309,7 +309,7 @@
       "korean": "암호",
       "mandarin": "密码",
       "portuguese": "Senha",
-      "spanish": "Password",
+      "spanish": "Contraseña",
       "turkish": "Şifre"
     },
     "password-label": {
@@ -321,7 +321,7 @@
       "korean": "암호를 입력",
       "mandarin": "输入密码",
       "portuguese": "Digite a senha",
-      "spanish": "Ingresa tu password",
+      "spanish": "Ingresa tu contraseña",
       "turkish": "Şifrenizi girin"
     },
     "phone": {
@@ -357,7 +357,7 @@
       "korean": "복구 팩터 재전송",
       "mandarin": "重新发送恢复因子",
       "portuguese": "Reenviar Fator de Recuperação",
-      "spanish": "Factor de recuperación de reenvío",
+      "spanish": "Reenviar Factor de recuperación",
       "turkish": "Kurtarma Faktörünü yeniden gönder"
     },
     "selfCustodial": {
@@ -369,7 +369,7 @@
       "korean": "자가 관리 로그인",
       "mandarin": "自托管登录由",
       "portuguese": "Login autocustodial por",
-      "spanish": "Inicio de sesión con autocustodia por",
+      "spanish": "Inicio de sesión auto-custodiado por",
       "turkish": "Öz-yönetimli giriş yapan"
     },
     "self-custody-via": {
@@ -378,7 +378,7 @@
       "japanese": "経由の自立",
       "korean": "자해를 통해",
       "mandarin": "自我castody通过",
-      "spanish": "Autocustody a través de",
+      "spanish": "Autocustodia a través de",
       "portuguese": "Autoconfiança via",
       "dutch": "Zelfkusten via",
       "french": "Auto-cuir via",
@@ -429,7 +429,7 @@
       "korean": "백업 공유 확인 실패",
       "mandarin": "备份共享验证失败",
       "portuguese": "Falha na verificação do compartilhamento de backup",
-      "spanish": "Error en la verificación del recurso compartido de copia de seguridad",
+      "spanish": "Error en la verificación de la copia de seguridad del recurso compartido",
       "turkish": "Yedekleme Şifresi parça doğrulaması başarısız oldu"
     },
     "toast-password-verification-fail": {
@@ -441,7 +441,7 @@
       "korean": "비밀번호 확인 실패",
       "mandarin": "密码验证失败",
       "portuguese": "A verificação da senha falhou",
-      "spanish": "Falló la verificación de la contraseña",
+      "spanish": "La verificación de la contraseña falló",
       "turkish": "Şifre doğrulama başarısız oldu"
     },
     "toast-registration-failed": {
@@ -453,7 +453,7 @@
       "korean": "등록 실패",
       "mandarin": "注册失败",
       "portuguese": "Registro falhou",
-      "spanish": "Registro fallido",
+      "spanish": "El registro ha fallado",
       "turkish": "Kayıt başarısız oldu"
     },
     "toast-require-verification": {
