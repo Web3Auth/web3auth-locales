@@ -21,7 +21,7 @@
       "korean": "현재 장치를 두 번째 요소로 사용하여 지갑을 확인하고 보호하십시오.",
       "mandarin": "使用当前设备作为第二个因素来验证和保护你的钱包",
       "portuguese": "Use o dispositivo atual como segundo fator para verificar e proteger sua carteira",
-      "spanish": "Use el dispositivo actual como segundo factor para verificar y asegurar su billetera",
+      "spanish": "Use el dispositivo actual como segundo factor para verificar y asegurar tu billetera",
       "turkish": "Bu cihazı cüzdanınızı doğrulamak ve güvence altına almak için ikinci faktör olarak kullanın."
     },
     "2fa-device-save-input-label": {
@@ -285,7 +285,7 @@
       "korean": "받지 못하셨나요? 화내다. {0}에서 다시 확인",
       "mandarin": "没有收到吗？ 反感。 再次签入{0}",
       "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}",
-      "spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}",
+      "spanish": "¿No lo recibiste? Reenviar. Vuelve a comprobar en {0}",
       "turkish": "Almadınız mı? Tekrar gönder. {0} süre sonra bir daha kontrol edin"
     },
     "2fa-setup-step4-contact-support": {
@@ -297,7 +297,7 @@
       "korean": "연락처 지원",
       "mandarin": "联系支持",
       "portuguese": "Entre em contato com o suporte",
-      "spanish": "Soporte de contacto",
+      "spanish": "Contactar con el soporte",
       "turkish": "İletişim Desteği"
     },
     "2fa-setup-step4-not-received": {
@@ -309,7 +309,7 @@
       "korean": "받지 못하셨나요?",
       "mandarin": "没有收到吗？",
       "portuguese": "Não recebeu?",
-      "spanish": "¿No lo recibiste?",
+      "spanish": "¿No lo has recibido?",
       "turkish": "Almadınız mı?"
     },
     "2fa-setup-step4-resend": {
@@ -645,7 +645,7 @@
       "korean": "건너뛰기",
       "mandarin": "立即跳过",
       "portuguese": "Pular por agora",
-      "spanish": "Saltar por ahora",
+      "spanish": "Saltear por ahora",
       "turkish": "Şimdilik atla"
     },
     "register-subtitle": {
@@ -1131,7 +1131,7 @@
       "japanese": "もっと詳しく知る",
       "korean": "더 알아보기",
       "mandarin": "了解更多",
-      "spanish": "Aprende más",
+      "spanish": "Mas información",
       "portuguese": "Saber mais",
       "dutch": "Kom meer te weten",
       "french": "Apprendre encore plus"

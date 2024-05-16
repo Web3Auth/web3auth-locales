@@ -47,7 +47,7 @@
     "copier-terms-of-use": {
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of use",
-      "french": "Conditions d'utilisation,",
+      "french": "Conditions d'utilisation",
       "german": "Nutzungsbedingungen",
       "japanese": "利用規約",
       "korean": "이용 약관",
@@ -112,7 +112,7 @@
     },
     "other-factor-pwd": {
       "dutch": "Andere factoren: wachtwoord",
-      "english": "Other Factors : Password",
+      "english": "Other Factors: Password",
       "german": "Andere Faktoren: Passwort",
       "japanese": "その他の要因 : パスワード",
       "korean": "기타 요소: 비밀번호",
@@ -227,8 +227,8 @@
       "japanese": "自己管理ログイン by",
       "korean": "자가 관리 로그인",
       "mandarin": "自托管登录由",
-      "portuguese": "Login autocustodial por",
-      "spanish": "Inicio de sesión con autocustodia por"
+      "portuguese": "Autocustódia de login por",
+      "spanish": "Inicio de sesión auto-custodiado por"
     },
     "social": {
       "dutch": "Sociaal",

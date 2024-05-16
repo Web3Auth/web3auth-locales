@@ -381,7 +381,7 @@
       "korean": "뒤",
       "mandarin": "后退",
       "portuguese": "Voltar",
-      "spanish": "atrás",
+      "spanish": "Atrás",
       "turkish": "Geri"
     },
     "2fa-setup-step2-confirm-note": {
@@ -770,7 +770,7 @@
     },
     "2fa-setup-step4-check-time": {
       "dutch": "Niet ontvangen? Opnieuw versturen. Controleer opnieuw in {0}",
-      "english": "Did not receive it? Resent. Check again in {0}",
+      "english": "Did not receive it? Resend. Check again in {0}",
       "french": "Vous ne l'avez pas reçu ? Renvoyez. Vérifiez à nouveau dans {0}",
       "german": "Nicht erhalten? Übelnehmen. Erneut einchecken in {0}",
       "japanese": "受け取りませんでしたか？ 憤る。 {0}でもう一度確認してください",
