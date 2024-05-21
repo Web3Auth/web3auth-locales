@@ -1414,6 +1414,18 @@
       "spanish": "Divisa",
       "turkish": "Para birimi"
     },
+    "custom": {
+      "english": "Custom",
+      "german": "Brauch",
+      "japanese": "カスタム",
+      "korean": "관습",
+      "mandarin": "风俗",
+      "spanish": "Costumbre",
+      "portuguese": "Personalizado",
+      "dutch": "Aangepast",
+      "french": "Coutume",
+      "turkish": "Gelenek"
+    },
     "dark": {
       "dutch": "Donker",
       "english": "Dark",
