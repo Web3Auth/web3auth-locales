@@ -576,6 +576,30 @@
       "spanish": "Ver más",
       "turkish": "Daha fazla görüntüle"
     },
+    "social.view-less-socials": {
+      "dutch": "Bekijk minder socials",
+      "english": "View less socials",
+      "french": "Voir moins socials",
+      "german": "Weniger anzeigen socials",
+      "japanese": "表示を減らす socials",
+      "korean": "간략히 보기 socials",
+      "mandarin": "查看更少socials",
+      "portuguese": "Ver menos socials",
+      "spanish": "Ver menos socials",
+      "turkish": "Daha az socials görüntüle"
+    },
+    "social.view-more-socials": {
+      "dutch": "Bekijk meer socials",
+      "english": "View more socials",
+      "french": "Voir plus socials",
+      "german": "Weitere socials anzeigen",
+      "japanese": "もっと見る socials",
+      "korean": "더보기 socials",
+      "mandarin": "查看更多socials",
+      "portuguese": "Ver mais socials",
+      "spanish": "Ver más socials",
+      "turkish": "Daha fazlasını görüntüle socials"
+    },
     "passkey.haveExisting": {
       "dutch": "Heeft u een bestaande passkey?",
       "english": "Have an existing passkey?",
@@ -611,6 +635,54 @@
       "portuguese": "ou",
       "spanish": "o",
       "turkish": "veya"
+    },
+    "passkey.register-title": {
+      "dutch": "Registreer Passkey",
+      "english": "Register Passkey",
+      "french": "Inscrivez-vous Passkey",
+      "german": "Registrieren Sie Passkey",
+      "japanese": "Passkey を登録する",
+      "korean": "Passkey 등록",
+      "mandarin": "注册Passkey",
+      "portuguese": "Registre-se Passkey",
+      "spanish": "Registrarse Passkey",
+      "turkish": "Passkey'ı kaydedin"
+    },
+    "passkey.register-desc": {
+      "dutch": "Met passkeys kunt u uw identiteit verifiëren via uw gezicht, vingerafdruk of beveiligingssleutels.",
+      "english": "With passkeys, you can verify your identity through your face, fingerprint, or security keys.",
+      "french": "Avec passkeys, vous pouvez vérifier votre identité grâce à votre visage, vos empreintes digitales ou vos clés de sécurité.",
+      "german": "Mit passkeys können Sie Ihre Identität durch Ihr Gesicht, Ihren Fingerabdruck oder Sicherheitsschlüssel überprüfen.",
+      "japanese": "passkeys を使用すると、顔、指紋、またはセキュリティ キーを使用して本人確認を行うことができます。",
+      "korean": "passkeys를 사용하면 얼굴, 지문 또는 보안 키를 통해 본인임을 확인할 수 있습니다.",
+      "mandarin": "使用passkeys，您可以通过面部、指纹或安全密钥验证您的身份。",
+      "portuguese": "Com passkeys, você pode verificar sua identidade por meio de seu rosto, impressão digital ou chaves de segurança.",
+      "spanish": "Con passkeys, puedes verificar tu identidad a través de tu rostro, huella digital o claves de seguridad.",
+      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
+    },
+    "passkey.learn-more": {
+      "dutch": "Kom meer te weten",
+      "english": "Learn more",
+      "french": "Apprendre encore plus",
+      "german": "Erfahren Sie mehr",
+      "japanese": "もっと詳しく知る",
+      "korean": "더 알아보기",
+      "mandarin": "了解更多",
+      "portuguese": "Saber mais",
+      "spanish": "Aprende más",
+      "turkish": "Daha fazla bilgi edin"
+    },
+    "passkey.add": {
+      "dutch": "Passkey toevoegen",
+      "english": "Add Passkey",
+      "french": "Ajouter Passkey",
+      "german": "Passkey hinzufügen",
+      "japanese": "{パス}を追加",
+      "korean": "Passkey 추가",
+      "mandarin": "添加Passkey",
+      "portuguese": "Adicionar Passkey",
+      "spanish": "Añadir Passkey",
+      "turkish": "Passkey ekle"
     },
     "post-loading.connected": {
       "dutch": "U bent verbonden met uw account",
