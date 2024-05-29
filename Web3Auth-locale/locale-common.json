@@ -590,8 +590,8 @@
     },
     "passkey.use": {
       "dutch": "Gebruik passkey",
-      "french": "Utilisez passkey",
       "english": "Use passkey",
+      "french": "Utilisez passkey",
       "german": "Verwenden Sie passkey",
       "japanese": "passkeyを使用してください",
       "korean": "passkey를 사용하세요",
@@ -599,6 +599,18 @@
       "portuguese": "Use passkey",
       "spanish": "Utilice passkey",
       "turkish": "passkey'ı kullanın"
+    },
+    "passkey.or": {
+      "dutch": "of",
+      "english": "or",
+      "french": "ou",
+      "german": "oder",
+      "japanese": "または",
+      "korean": "또는",
+      "mandarin": "或者",
+      "portuguese": "ou",
+      "spanish": "o",
+      "turkish": "veya"
     },
     "post-loading.connected": {
       "dutch": "U bent verbonden met uw account",
