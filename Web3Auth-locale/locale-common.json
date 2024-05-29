@@ -84,6 +84,18 @@
       "spanish": "Conectar con la billetera",
       "turkish": "Cüzdan ile Bağlan"
     },
+    "external.continue": {
+      "dutch": "Ga verder met externe portemonnee",
+      "english": "Continue with external wallet",
+      "french": "Continuer avec le portefeuille externe",
+      "german": "Fahren Sie mit der externen Wallet fort",
+      "japanese": "外部ウォレットを続行する",
+      "korean": "외부 지갑으로 계속하기",
+      "mandarin": "继续使用外部钱包",
+      "portuguese": "Continuar com carteira externa",
+      "spanish": "Continuar con billetera externa",
+      "turkish": "Harici cüzdanla devam et"
+    },
     "external.title": {
       "dutch": "Externe portemonnee",
       "english": "External Wallet",
@@ -444,6 +456,18 @@
       "spanish": "Continuar",
       "turkish": "Devam et"
     },
+    "social.passwordless-login": {
+      "dutch": "Log in",
+      "english": "Login",
+      "french": "Se connecter",
+      "german": "Anmeldung",
+      "japanese": "ログイン",
+      "korean": "로그인",
+      "mandarin": "登录",
+      "portuguese": "Conecte-se",
+      "spanish": "Acceso",
+      "turkish": "Giriş yapmak"
+    },
     "social.passwordless-title": {
       "dutch": "E-mail of telefoon",
       "english": "Email or Phone",
@@ -551,6 +575,30 @@
       "portuguese": "Ver mais",
       "spanish": "Ver más",
       "turkish": "Daha fazla görüntüle"
+    },
+    "passkey.haveExisting": {
+      "dutch": "Heeft u een bestaande passkey?",
+      "english": "Have an existing passkey?",
+      "french": "Vous disposez déjà d'un passkey ?",
+      "german": "Haben Sie bereits einen passkey?",
+      "japanese": "既存の passkey をお持ちですか?",
+      "korean": "기존 passkey가 있습니까?",
+      "mandarin": "已有 passkey 吗？",
+      "portuguese": "Você já possui um passkey?",
+      "spanish": "¿Tiene un passkey existente?",
+      "turkish": "Mevcut bir passkey'ınız mı var?"
+    },
+    "passkey.use": {
+      "dutch": "Gebruik passkey",
+      "french": "Utilisez passkey",
+      "english": "Use passkey",
+      "german": "Verwenden Sie passkey",
+      "japanese": "passkeyを使用してください",
+      "korean": "passkey를 사용하세요",
+      "mandarin": "使用passkey",
+      "portuguese": "Use passkey",
+      "spanish": "Utilice passkey",
+      "turkish": "passkey'ı kullanın"
     },
     "post-loading.connected": {
       "dutch": "U bent verbonden met uw account",
