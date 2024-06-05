@@ -230,7 +230,7 @@
     },
     "2fa-setup-step1-sub1-desc": {
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account. Elke login vereist 2 factoren voor authenticatie",
-      "english": "Add an extra layer of security to your account, Each login requires 2 factors for authentication",
+      "english": "Add an extra layer of security to your account. Each login requires 2 factors for authentication",
       "french": "Ajoutez une couche de sécurité supplémentaire à votre compte, chaque connexion nécessite 2 facteurs pour l'authentification",
       "german": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu. Jede Anmeldung erfordert 2 Faktoren zur Authentifizierung",
       "japanese": "アカウントに追加のセキュリティ設定を追加してください。ログイン時には2段階の認証が必要になります。",
