@@ -515,6 +515,42 @@
       "portuguese": "Verifique com outros fatores",
       "spanish": "Verificar con otros factores",
       "turkish": "Başka faktörler ile doğrula"
+    },
+    "donNotSave": {
+      "english": "Do not save",
+      "german": "Rette nicht",
+      "japanese": "保存しない",
+      "korean": "저장하지 마십시오",
+      "mandarin": "不要保存",
+      "spanish": "No guarde",
+      "portuguese": "Não salve",
+      "dutch": "Bewaar niet",
+      "french": "Ne pas enregistrer",
+      "turkish": "Kaydetme"
+    },
+    "saveThisDevice": {
+      "english": "Save this device",
+      "german": "Dieses Gerät speichern",
+      "japanese": "このデバイスを保存しますか",
+      "korean": "이 기기를 저장하시겠습니까",
+      "mandarin": "保存该设备吗",
+      "spanish": "¿Guardar este dispositivo",
+      "portuguese": "Salvar este dispositivo",
+      "dutch": "Dit apparaat opslaan",
+      "french": "Enregistrer cet appareil ",
+      "turkish": "Bu cihaz kaydedilsin mi"
+    },
+    "saveDeviceDesc": {
+      "english": "You will not be asked to verify the next time you sign in if you save this device",
+      "german": "Wenn Sie dieses Gerät speichern, werden Sie bei der nächsten Anmeldung nicht zur Bestätigung aufgefordert",
+      "japanese": "このデバイスを保存すると、次回サインインするときに確認を求められなくなります",
+      "korean": "이 기기를 저장하면 다음에 로그인할 때 인증하라는 메시지가 표시되지 않습니다.",
+      "mandarin": "如果您保存此设备，下次登录时将不会要求您进行验证",
+      "spanish": "No se le pedirá que verifique la próxima vez que inicie sesión si guarda este dispositivo",
+      "portuguese": "Você não será solicitado a verificar na próxima vez que fizer login se salvar este dispositivo",
+      "dutch": "Als u dit apparaat opslaat, wordt u de volgende keer dat u zich aanmeldt niet om verificatie gevraagd",
+      "french": "Il ne vous sera pas demandé de vérifier la prochaine fois que vous vous connecterez si vous enregistrez cet appareil",
+      "turkish": "Bu cihazı kaydederseniz bir sonraki oturum açışınızda doğrulamanız istenmeyecektir."
     }
   },
   "error-block": {
