@@ -613,16 +613,16 @@
       "turkish": "Mevcut bir passkey'ınız mı var?"
     },
     "passkey.use": {
-      "dutch": "Gebruik passkey",
-      "english": "Use passkey",
-      "french": "Utilisez passkey",
-      "german": "Verwenden Sie passkey",
-      "japanese": "passkeyを使用してください",
-      "korean": "passkey를 사용하세요",
-      "mandarin": "使用passkey",
-      "portuguese": "Use passkey",
-      "spanish": "Utilice passkey",
-      "turkish": "passkey'ı kullanın"
+      "dutch": "Ik heb een passkey",
+      "english": "I have a passkey",
+      "french": "J'ai un passkey",
+      "german": "Ich habe einen passkey",
+      "japanese": "Passkey を持っています",
+      "korean": "나에게는 passkey이(가) 있습니다.",
+      "mandarin": "我有一个Passkey",
+      "portuguese": "Eu tenho uma passkey",
+      "spanish": "Tengo una Passkey",
+      "turkish": "Bir passkey'im var"
     },
     "passkey.or": {
       "dutch": "of",
