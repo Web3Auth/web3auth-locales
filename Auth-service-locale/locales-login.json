@@ -1226,7 +1226,7 @@
       "dutch": "Als u klaar bent, verifieert u met uw Passkey met de onderstaande knop.",
       "french": "Lorsque vous êtes prêt, vérifiez avec votre touche passante en utilisant le bouton ci-dessous."
     },
-    "setup-desc": {
+    "authenticator-setup-desc": {
       "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
       "english": "Use your authentication app (e.g. Google Authenticator or Authy) to scan this QR code.",
       "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour scanner ce code QR.",
@@ -1238,7 +1238,7 @@
       "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
       "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
     },
-    "setup-title": {
+    "authenticator-setup-title": {
       "dutch": "Authenticator App instellen",
       "english": "Set up Authenticator App",
       "french": "Configurer l'application Authenticator",
@@ -1250,7 +1250,7 @@
       "spanish": "Configuración de la aplicación Authenticator",
       "turkish": "Authenticator Uygulamasını ayarla"
     },
-    "setup-cta": {
+    "authenticator-setup-cta": {
       "dutch": "Authenticator toevoegen",
       "english": "Add Authenticator",
       "french": "Ajouter un authentificateur",
