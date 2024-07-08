@@ -1225,6 +1225,42 @@
       "portuguese": "Quando estiver pronto, verifique com a sua pasta passada usando o botão abaixo.",
       "dutch": "Als u klaar bent, verifieert u met uw Passkey met de onderstaande knop.",
       "french": "Lorsque vous êtes prêt, vérifiez avec votre touche passante en utilisant le bouton ci-dessous."
+    },
+    "setup-desc": {
+      "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
+      "english": "Use your authentication app (e.g. Google Authenticator or Authy) to scan this QR code.",
+      "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour scanner ce code QR.",
+      "german": "Verwenden Sie Ihre Authentifizierungs-App (z. B. Google Authenticator oder Authy), um diesen QR-Code zu scannen.",
+      "japanese": "認証アプリ（Google Authenticator や Authy など）を使用して、この QR コードをスキャンします。",
+      "korean": "인증 앱 (예 : Google Authenticator 또는 Authy)을 사용하여이 QR 코드를 스캔하십시오.",
+      "mandarin": "使用您的身份验证应用程序（例如 Google Authenticator 或 Authy）扫描此 QR 码。",
+      "portuguese": "Use seu aplicativo de autenticação (por exemplo, Google Authenticator ou Authy) para escanear este código QR.",
+      "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
+      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
+    },
+    "setup-title": {
+      "dutch": "Authenticator App instellen",
+      "english": "Set up Authenticator App",
+      "french": "Configurer l'application Authenticator",
+      "german": "Authenticator App einrichten",
+      "japanese": "Authenticator アプリを設定する",
+      "korean": "Authenticator 앱 설정",
+      "mandarin": "设置 Authenticator 应用程序",
+      "portuguese": "Configuração do aplicativo Authenticator",
+      "spanish": "Configuración de la aplicación Authenticator",
+      "turkish": "Authenticator Uygulamasını ayarla"
+    },
+    "setup-cta": {
+      "dutch": "Authenticator toevoegen",
+      "english": "Add Authenticator",
+      "french": "Ajouter un authentificateur",
+      "german": "Authentifikator hinzufügen",
+      "japanese": "認証子の追加",
+      "korean": "인증기 추가",
+      "mandarin": "添加验证器",
+      "portuguese": "Adicionar autenticador",
+      "spanish": "Agregar autenticador",
+      "turkish": "Kimlik Doğrulayıcı Ekle"
     }
   }
 }
