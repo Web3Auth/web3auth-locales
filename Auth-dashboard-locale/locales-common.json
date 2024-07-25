@@ -56,37 +56,37 @@
       "spanish": "Condiciones de uso"
     },
     "factor1-social-login": {
-      "dutch": "Factor 1: Sociale login",
-      "english": "Factor 1: Social Login",
-      "french": "Facteur 1: Connexion sociale",
-      "german": "Faktor 1: Social-Login",
-      "japanese": "要因 1: ソーシャル ログイン",
-      "korean": "요소 1: 소셜 로그인",
-      "mandarin": "因素 1：社交登录",
-      "portuguese": "Fator 1: Login social",
-      "spanish": "Factor 1: inicio de sesión social"
+      "dutch": "Sociaal inloggen",
+      "english": "Social Login",
+      "french": "Connexion sociale",
+      "german": "Soziales Login",
+      "japanese": "ソーシャルログイン",
+      "korean": "소셜 로그인",
+      "mandarin": "社交登录",
+      "portuguese": "Login social",
+      "spanish": "Inicio de sesión social"
     },
     "factor2-devices": {
-      "dutch": "Factor 2: Apparaat (en)",
-      "english": "Factor 2: Device (s)",
-      "french": "Facteur 2: Dispositif (s)",
-      "german": "Faktor 2: Gerät(e)",
-      "japanese": "要因 2: デバイス",
-      "korean": "요소 2: 장치(들)",
-      "mandarin": "因素 2：设备",
-      "portuguese": "Fator 2: Dispositivo(s)",
-      "spanish": "Factor 2: Dispositivo(s)"
+      "dutch": "Apparaat (en)",
+      "english": "Device (s)",
+      "french": "Dispositif (s)",
+      "german": "Gerät(e)",
+      "japanese": "デバイス",
+      "korean": "장치(들)",
+      "mandarin": "设备",
+      "portuguese": "Dispositivo(s)",
+      "spanish": "Dispositivo(s)"
     },
     "factor3-social-recovery": {
-      "dutch": "Factor 3: Sociaal herstel",
-      "english": "Factor 3: Social Recovery",
-      "french": "Facteur 3: Récupération sociale",
-      "german": "Faktor 3: Soziale Erholung",
-      "japanese": "要因 3: 社会的回復",
-      "korean": "요인 3: 사회적 회복",
-      "mandarin": "因素 3：社会恢复",
-      "portuguese": "Fator 3: Recuperação Social",
-      "spanish": "Factor 3: Recuperación Social"
+      "dutch": "Sociaal herstel",
+      "english": "Social Recovery",
+      "french": "Récupération sociale",
+      "german": "Soziale Erholung",
+      "japanese": "社会的回復",
+      "korean": "사회적 회복",
+      "mandarin": "社会恢复",
+      "portuguese": "Recuperação Social",
+      "spanish": "Recuperación Social"
     },
     "new-device-detected": {
       "dutch": "Nieuw apparaat gedetecteerd",
@@ -111,14 +111,14 @@
       "spanish": "o"
     },
     "other-factor-pwd": {
-      "dutch": "Andere factoren: wachtwoord",
-      "english": "Other Factors: Password",
-      "german": "Andere Faktoren: Passwort",
-      "japanese": "その他の要因 : パスワード",
-      "korean": "기타 요소: 비밀번호",
-      "mandarin": "其他因素：密码",
-      "portuguese": "Outros fatores: senha",
-      "spanish": "Otros factores: contraseña"
+      "dutch": "Wachtwoord",
+      "english": "Password",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "비밀번호",
+      "mandarin": "密码",
+      "portuguese": "senha",
+      "spanish": "contraseña"
     },
     "password": {
       "dutch": "Wachtwoord",
