@@ -385,15 +385,15 @@
       "spanish": "Copiar y pegar"
     },
     "copy-recovery-phrase": {
-      "dutch": "Herstelzin kopiëren",
-      "english": "Copy Recovery Phrase",
-      "french": "Copier la phrase de récupération",
-      "german": "Wiederherstellungssatz kopieren",
-      "japanese": "リカバリーフレーズをコピー",
-      "korean": "복구 문구 복사",
-      "mandarin": "复制助记词",
-      "portuguese": "Copiar frase de recuperação",
-      "spanish": "Copiar frase de recuperación"
+      "dutch": "Herstelzin bekijken",
+      "english": "View Recovery Phrase",
+      "french": "Afficher la phrase de récupération",
+      "german": "Wiederherstellungsphrase anzeigen",
+      "japanese": "リカバリーフレーズを見る",
+      "korean": "회복 문구 보기",
+      "mandarin": "查看恢复短语",
+      "portuguese": "Ver frase de recuperação",
+      "spanish": "Ver frase de recuperación"
     },
     "last-accessed-on": {
       "dutch": "Laatst bezocht op:",
