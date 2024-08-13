@@ -1486,6 +1486,18 @@
       "spanish": "Descargar una copia suave (JSON)",
       "turkish": "Ince ince (JSON) indir"
     },
+    "copyPrivateKey": {
+      "dutch": "Kopieer privésleutel",
+      "english": "Copy Private Key",
+      "french": "Copier la clé privée",
+      "german": "Privaten Schlüssel kopieren",
+      "japanese": "秘密キーをコピーする",
+      "korean": "개인 키 복사",
+      "mandarin": "复制私钥",
+      "portuguese": "Copiar chave privada",
+      "spanish": "Copiar clave privada",
+      "turkish": "Özel Anahtarı Kopyala"
+    },
     "edit": {
       "dutch": "Bewerking",
       "english": "Edit",
