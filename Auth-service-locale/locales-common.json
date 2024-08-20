@@ -276,6 +276,30 @@
       "spanish": "Nuevo dispositivo detectado",
       "turkish": "Yeni cihaz algılandı"
     },
+    "factorListTitle": {
+      "english": "Add an authentication method",
+      "german": "Fügen Sie eine Authentifizierungsmethode hinzu",
+      "japanese": "認証方法を追加する",
+      "korean": "인증 방법 추가",
+      "mandarin": "添加身份验证方法",
+      "spanish": "Agregar un método de autenticación",
+      "portuguese": "Adicione um método de autenticação",
+      "dutch": "Voeg een authenticatiemethode toe",
+      "french": "Ajouter une méthode d'authentification",
+      "turkish": "Kimlik doğrulama yöntemi ekleyin"
+    },
+    "factorListDesc": {
+      "english": "If unauthorized account access is suspected, you'll need to verify using this authentication method.",
+      "german": "Bei Verdacht auf unbefugten Kontozugriff müssen Sie die Verifizierung mit dieser Authentifizierungsmethode durchführen.",
+      "japanese": "不正なアカウント アクセスが疑われる場合は、この認証方法を使用して確認する必要があります。",
+      "korean": "무단 계정 액세스가 의심되는 경우 이 인증 방법을 사용하여 확인해야 합니다.",
+      "mandarin": "如果怀疑有未经授权的帐户访问，您需要使用此身份验证方法进行验证。",
+      "spanish": "Si se sospecha un acceso no autorizado a la cuenta, deberá verificarla utilizando este método de autenticación.",
+      "portuguese": "Se houver suspeita de acesso não autorizado à conta, você precisará verificar usando este método de autenticação.",
+      "dutch": "Als ongeautoriseerde accounttoegang wordt vermoed, moet u verifiëren met deze authenticatiemethode.",
+      "french": "Si un accès non autorisé au compte est suspecté, vous devrez vérifier à l'aide de cette méthode d'authentification.",
+      "turkish": "Hesaba yetkisiz erişimden şüpheleniliyorsa, bu kimlik doğrulama yöntemini kullanarak doğrulama yapmanız gerekir."
+    },
     "next": {
       "dutch": "Volgende",
       "english": "Next",
@@ -407,6 +431,30 @@
       "portuguese": "Fator Social",
       "spanish": "Factor social",
       "turkish": "Sosyal Medya Faktörü"
+    },
+    "socialPasswordlessFactor": {
+      "english": "SMS OTP/Social",
+      "german": "SMS OTP/Soziale Netzwerke",
+      "japanese": "SMS OTP/ソーシャル",
+      "korean": "SMS OTP/소셜",
+      "mandarin": "SMS OTP/社交",
+      "spanish": "SMS OTP/Social",
+      "portuguese": "SMS OTP/Redes sociais",
+      "dutch": "SMS OTP/Sociaal",
+      "french": "SMS OTP/Réseaux sociaux",
+      "turkish": "SMS OTP/Sosyal"
+    },
+    "socialPasswordlessFactorDesc": {
+      "english": "Receive a unique code via SMS or use another social credential to login as a backup",
+      "german": "Erhalten Sie einen eindeutigen Code per SMS oder verwenden Sie einen anderen Social-Media-Zugangsdatensatz, um sich als Backup anzumelden",
+      "japanese": "SMS 経由で一意のコードを受信するか、別のソーシャル認証情報を使用してバックアップとしてログインします",
+      "korean": "SMS를 통해 고유 코드를 받거나 다른 소셜 자격 증명을 사용하여 백업으로 로그인하세요.",
+      "mandarin": "通过SMS接收唯一代码或使用其他社交凭据作为备份登录",
+      "spanish": "Reciba un código único a través de SMS o utilice otra credencial social para iniciar sesión como respaldo",
+      "portuguese": "Receba um código exclusivo via SMS ou use outra credencial social para fazer login como backup",
+      "dutch": "Ontvang een unieke code via SMS of gebruik een andere sociale inloggegevens om in te loggen als back-up",
+      "french": "Recevez un code unique via SMS ou utilisez un autre identifiant social pour vous connecter en tant que sauvegarde",
+      "turkish": "SMS aracılığıyla benzersiz bir kod alın veya yedek olarak oturum açmak için başka bir sosyal kimlik bilgisi kullanın"
     },
     "socialLogin": {
       "dutch": "Sociale login",
@@ -551,6 +599,114 @@
       "dutch": "Als u dit apparaat opslaat, wordt u de volgende keer dat u zich aanmeldt niet om verificatie gevraagd",
       "french": "Il ne vous sera pas demandé de vérifier la prochaine fois que vous vous connecterez si vous enregistrez cet appareil",
       "turkish": "Bu cihazı kaydederseniz bir sonraki oturum açışınızda doğrulamanız istenmeyecektir."
+    },
+    "recoveryPhrase": {
+      "english": "Recovery Phrase",
+      "german": "Wiederherstellungssatz",
+      "japanese": "リカバリーフレーズ",
+      "korean": "회복 문구",
+      "mandarin": "恢复短语",
+      "spanish": "Frase de recuperación",
+      "portuguese": "Frase de Recuperação",
+      "dutch": "Herstelzin",
+      "french": "Phrase de récupération",
+      "turkish": "Kurtarma İfadesi"
+    },
+    "recoveryPhraseDesc": {
+      "english": "Get a 12 word recovery phrase via email",
+      "german": "Erhalten Sie per E-Mail einen Wiederherstellungssatz mit 12 Wörtern",
+      "japanese": "12単語のリカバリフレーズをメールで入手",
+      "korean": "이메일을 통해 12단어 복구 문구 받기",
+      "mandarin": "通过电子邮件获取 12 个字的恢复短语",
+      "spanish": "Recibe una frase de recuperación de 12 palabras por correo electrónico",
+      "portuguese": "Receba uma frase de recuperação de 12 palavras por e-mail",
+      "dutch": "Ontvang een herstelzin van 12 woorden via e-mail",
+      "french": "Recevez une phrase de récupération de 12 mots par e-mail",
+      "turkish": "E-posta yoluyla 12 kelimelik bir kurtarma ifadesi alın"
+    },
+    "passwordFactor": {
+      "english": "Password",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "비밀번호",
+      "mandarin": "密码",
+      "spanish": "Contraseña",
+      "portuguese": "Senha",
+      "dutch": "Wachtwoord",
+      "french": "Mot de passe",
+      "turkish": "Şifre"
+    },
+    "passwordFactorDesc": {
+      "english": "Set a unique password to protect your account",
+      "german": "Legen Sie ein einzigartiges Passwort fest, um Ihr Konto zu schützen",
+      "japanese": "アカウントを保護するために固有のパスワードを設定します",
+      "korean": "계정을 보호하려면 고유한 비밀번호를 설정하세요.",
+      "mandarin": "设置唯一的密码来保护您的帐户",
+      "spanish": "Establezca una contraseña única para proteger su cuenta",
+      "portuguese": "Defina uma senha exclusiva para proteger sua conta",
+      "dutch": "Stel een uniek wachtwoord in om uw account te beschermen",
+      "french": "Définissez un mot de passe unique pour protéger votre compte",
+      "turkish": "Hesabınızı korumak için benzersiz bir şifre belirleyin"
+    },
+    "authenticatorFactor": {
+      "english": "Authenticator App",
+      "german": "Authentifizierungs-App",
+      "japanese": "認証アプリ",
+      "korean": "인증자 앱",
+      "mandarin": "验证器应用程序",
+      "spanish": "Aplicación de autenticación",
+      "portuguese": "Aplicativo autenticador",
+      "dutch": "Authenticator-app",
+      "french": "Application d'authentification",
+      "turkish": "Kimlik Doğrulayıcı Uygulaması"
+    },
+    "authenticatorFactorDesc": {
+      "english": "Get codes from Authy, 1Password, Microsoft, Authenticator or Google authenticator",
+      "german": "Holen Sie sich Codes von Authy, 1Password, Microsoft, Authenticator oder Google Authenticator",
+      "japanese": "Authy、1Password、Microsoft、Authenticator、または Google Authenticator からコードを取得します",
+      "korean": "Authy, 1Password, Microsoft, Authenticator 또는 Google 인증기에서 코드 받기",
+      "mandarin": "从 Authy、1Password、Microsoft、Authenticator 或 Google 身份验证器获取代码",
+      "spanish": "Obtenga códigos de Authy, 1Password, Microsoft, Authenticator o Google Authenticator",
+      "portuguese": "Obtenha códigos do Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
+      "dutch": "Ontvang codes van Authy, 1Password, Microsoft, Authenticator of Google authenticator",
+      "french": "Obtenez des codes d'Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
+      "turkish": "Authy, 1Password, Microsoft, Authenticator veya Google Authenticator'dan kod alın"
+    },
+    "required": {
+      "english": "Required",
+      "german": "Erforderlich",
+      "japanese": "必須",
+      "korean": "필수의",
+      "mandarin": "必需的",
+      "spanish": "Requerido",
+      "portuguese": "Obrigatório",
+      "dutch": "Vereist",
+      "french": "Requis",
+      "turkish": "Gerekli"
+    },
+    "enabled": {
+      "english": "Enabled",
+      "german": "Ermöglicht",
+      "japanese": "有効",
+      "korean": "활성화됨",
+      "mandarin": "启用",
+      "spanish": "Activado",
+      "portuguese": "Habilitado",
+      "dutch": "Ingeschakeld",
+      "french": "Activé",
+      "turkish": "Etkinleştirilmiş"
+    },
+    "finishSetup": {
+      "english": "Finish set up",
+      "german": "Fertigstellen",
+      "japanese": "セットアップを完了する",
+      "korean": "설정 완료",
+      "mandarin": "完成设置",
+      "spanish": "Terminar de configurar",
+      "portuguese": "Concluir a configuração",
+      "dutch": "Voltooi het instellen",
+      "french": "Terminer la configuration",
+      "turkish": "Kurulumu bitir"
     }
   },
   "error-block": {
@@ -652,7 +808,6 @@
       "spanish": "Factor de recuperación",
       "turkish": "Kurtarma faktörü"
     },
-
     "auth-factors-password-confirm": {
       "dutch": "Voer uw wachtwoord opnieuw in",
       "english": "Re-enter your password",

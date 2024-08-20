@@ -1261,6 +1261,90 @@
       "portuguese": "Adicionar autenticador",
       "spanish": "Agregar autenticador",
       "turkish": "Kimlik Doğrulayıcı Ekle"
+    },
+    "mfa-setup-title": {
+      "english": "Set up Multi Factor Authentication (MFA)",
+      "german": "Multi-Faktor-Authentifizierung (MFA) einrichten",
+      "japanese": "多要素認証 (MFA) をセットアップする",
+      "korean": "다단계 인증(MFA) 설정",
+      "mandarin": "设置多重身份验证 (MFA)",
+      "spanish": "Configurar la autenticación multifactor (MFA)",
+      "portuguese": "Configurar a autenticação multifator (MFA)",
+      "dutch": "Multi-Factor Authenticatie (MFA) instellen",
+      "french": "Configurer l'authentification multifacteur (MFA)",
+      "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Ayarlama"
+    },
+    "mfa-setup-desc": {
+      "english": "Enabling this feature will add a second login will require a second login step. Once this feature is enabled, it cannot be disabled.",
+      "german": "Wenn Sie diese Funktion aktivieren, wird eine zweite Anmeldung hinzugefügt, die einen zweiten Anmeldeschritt erfordert. Sobald diese Funktion aktiviert ist, kann sie nicht deaktiviert werden.",
+      "japanese": "この機能を有効にすると、2 回目のログインが追加され、2 回目のログイン手順が必要になります。この機能を一度有効にすると、無効にすることはできません。",
+      "korean": "이 기능을 활성화하면 두 번째 로그인이 추가되고 두 ​​번째 로그인 단계가 필요합니다. 이 기능은 활성화되면 비활성화할 수 없습니다.",
+      "mandarin": "启用此功能将添加第二次登录，将需要第二次登录步骤。一旦启用此功能，就无法将其禁用。",
+      "spanish": "Habilitar esta función agregará un segundo inicio de sesión y requerirá un segundo paso de inicio de sesión. Una vez que esta función está habilitada, no se puede deshabilitar.",
+      "portuguese": "A ativação deste recurso adicionará um segundo login e exigirá uma segunda etapa de login. Depois que esse recurso estiver ativado, ele não poderá ser desativado.",
+      "dutch": "Als u deze functie inschakelt, wordt er een tweede login toegevoegd. Hiervoor is een tweede loginstap vereist. Zodra deze functie is ingeschakeld, kan deze niet meer worden uitgeschakeld.",
+      "french": "L'activation de cette fonctionnalité ajoutera une deuxième connexion nécessitera une deuxième étape de connexion. Une fois cette fonctionnalité activée, elle ne peut pas être désactivée.",
+      "turkish": "Bu özelliğin etkinleştirilmesi ikinci bir oturum açma işlemi ekleyecek ve ikinci bir oturum açma adımı gerektirecektir. Bu özellik etkinleştirildikten sonra devre dışı bırakılamaz."
+    },
+    "mfa-enable-title": {
+      "english": "Enable Multi Factor Authentication (MFA)",
+      "german": "Aktivieren Sie die Multi-Faktor-Authentifizierung (MFA)",
+      "japanese": "多要素認証 (MFA) を有効にする",
+      "korean": "다단계 인증(MFA) 활성화",
+      "mandarin": "启用多重身份验证 (MFA)",
+      "spanish": "Habilitar la autenticación multifactor (MFA)",
+      "portuguese": "Habilitar autenticação multifator (MFA)",
+      "dutch": "Schakel Multi Factor Authenticatie (MFA) in",
+      "french": "Activer l'authentification multifacteur (MFA)",
+      "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Etkinleştir"
+    },
+    "mfa-enable-desc": {
+      "english": "To ensure your account remains secure, login will require at least two authentication factors. Once this feature is enabled, it cannot be disabled",
+      "german": "Um sicherzustellen, dass Ihr Konto sicher bleibt, sind für die Anmeldung mindestens zwei Authentifizierungsfaktoren erforderlich. Sobald diese Funktion aktiviert ist, kann sie nicht deaktiviert werden",
+      "japanese": "アカウントの安全性を確保するには、ログインに少なくとも 2 つの認証要素が必要です。この機能は一度有効にすると無効にすることはできません",
+      "korean": "귀하의 계정을 안전하게 유지하려면 로그인 시 최소한 두 가지 인증 요소가 필요합니다. 이 기능을 활성화하면 비활성화할 수 없습니다.",
+      "mandarin": "为了确保您的帐户安全，登录将需要至少两个身份验证因素。此功能一旦启用，就无法禁用",
+      "spanish": "Para garantizar que su cuenta permanezca segura, el inicio de sesión requerirá al menos dos factores de autenticación. Una vez que esta función está habilitada, no se puede deshabilitar.",
+      "portuguese": "Para garantir que sua conta permaneça segura, o login exigirá pelo menos dois fatores de autenticação. Depois que esse recurso estiver ativado, ele não poderá ser desativado",
+      "dutch": "Om ervoor te zorgen dat uw account veilig blijft, zijn voor het inloggen ten minste twee authenticatiefactoren vereist. Zodra deze functie is ingeschakeld, kan deze niet meer worden uitgeschakeld",
+      "french": "Pour garantir la sécurité de votre compte, la connexion nécessitera au moins deux facteurs d'authentification. Une fois cette fonctionnalité activée, elle ne peut pas être désactivée",
+      "turkish": "Hesabınızın güvende kalmasını sağlamak için giriş yaparken en az iki kimlik doğrulama faktörü gerekir. Bu özellik etkinleştirildikten sonra devre dışı bırakılamaz"
+    },
+    "mfa-add-title": {
+      "english": "Set up additional methods",
+      "german": "Richten Sie zusätzliche Methoden ein",
+      "japanese": "追加のメソッドをセットアップする",
+      "korean": "추가 방법 설정",
+      "mandarin": "设置附加方法",
+      "spanish": "Configurar métodos adicionales",
+      "portuguese": "Configure métodos adicionais",
+      "dutch": "Stel aanvullende methoden in",
+      "french": "Configurer des méthodes supplémentaires",
+      "turkish": "Ek yöntemler ayarlayın"
+    },
+    "mfa-add-desc": {
+      "english": "You may choose to set up more methods in order to further enhance security and recoverability of your account",
+      "german": "Sie können weitere Methoden einrichten, um die Sicherheit und Wiederherstellbarkeit Ihres Kontos weiter zu verbessern",
+      "japanese": "アカウントのセキュリティと回復可能性をさらに強化するために、さらに多くの方法を設定することを選択できます。",
+      "korean": "계정의 보안과 복구 가능성을 더욱 강화하기 위해 더 많은 방법을 설정하도록 선택할 수 있습니다.",
+      "mandarin": "您可以选择设置更多方式，以进一步增强您账户的安全性和可恢复性",
+      "spanish": "Puede optar por configurar más métodos para mejorar aún más la seguridad y la capacidad de recuperación de su cuenta.",
+      "portuguese": "Você pode optar por configurar mais métodos para aumentar ainda mais a segurança e a capacidade de recuperação da sua conta.",
+      "dutch": "U kunt ervoor kiezen om meer methoden in te stellen om de beveiliging en herstelbaarheid van uw account verder te verbeteren",
+      "french": "Vous pouvez choisir de configurer davantage de méthodes afin d'améliorer davantage la sécurité et la récupérabilité de votre compte.",
+      "turkish": "Hesabınızın güvenliğini ve kurtarılabilirliğini daha da artırmak için daha fazla yöntem ayarlamayı seçebilirsiniz."
+    },
+    "mfa-switch-method": {
+      "english": "Switch to another method",
+      "german": "Wechseln Sie zu einer anderen Methode",
+      "japanese": "別の方法に切り替える",
+      "korean": "다른 방법으로 전환",
+      "mandarin": "切换到另一种方法",
+      "spanish": "Cambiar a otro método",
+      "portuguese": "Mude para outro método",
+      "dutch": "Schakel over naar een andere methode",
+      "french": "Passer à une autre méthode",
+      "turkish": "Başka bir yönteme geç"
     }
   }
 }
