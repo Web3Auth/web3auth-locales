@@ -360,6 +360,18 @@
       "spanish": "Teléfono",
       "turkish": "Telefon"
     },
+    "phone-number": {
+      "english": "Phone Number",
+      "german": "Telefonnummer",
+      "japanese": "電話番号",
+      "korean": "전화 번호",
+      "mandarin": "电话号码",
+      "spanish": "Número de teléfono",
+      "portuguese": "Número de telefone",
+      "dutch": "Telefoonnummer",
+      "french": "Numéro de téléphone",
+      "turkish": "Telefon Numarası"
+    },
     "referenceId": {
       "dutch": "Referentie-ID:",
       "english": "Reference ID:",
@@ -707,6 +719,30 @@
       "dutch": "Voltooi het instellen",
       "french": "Terminer la configuration",
       "turkish": "Kurulumu bitir"
+    },
+    "setupLater": {
+      "english": "Set up later",
+      "german": "Später einrichten",
+      "japanese": "後で設定する",
+      "korean": "나중에 설정하세요",
+      "mandarin": "稍后设置",
+      "spanish": "Configurar más tarde",
+      "portuguese": "Configurar mais tarde",
+      "dutch": "Later instellen",
+      "french": "Configurer plus tard",
+      "turkish": "Daha sonra kur"
+    },
+    "continue": {
+      "english": "Continue",
+      "german": "Weitermachen",
+      "japanese": "続く",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "spanish": "Continuar",
+      "portuguese": "Continuar",
+      "dutch": "Doorgaan",
+      "french": "Continuer",
+      "turkish": "Devam etmek"
     }
   },
   "error-block": {
