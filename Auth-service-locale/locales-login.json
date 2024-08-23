@@ -432,6 +432,30 @@
       "spanish": "Configurar un factor de recuperación social",
       "turkish": "Sosyal kurtarma faktörü ayarlayın"
     },
+    "2fa-social-register-to": {
+      "english": "Registered to",
+      "german": "Registriert für",
+      "japanese": "登録先",
+      "korean": "에 등록됨",
+      "mandarin": "注册到",
+      "spanish": "Registrado en",
+      "portuguese": "Registrado para",
+      "dutch": "Geregistreerd bij",
+      "french": "Inscrit à",
+      "turkish": "Kayıtlı"
+    },
+    "2fa-social-backup-social": {
+      "english": "Backup social",
+      "german": "Backup-Sozial",
+      "japanese": "バックアップソーシャル",
+      "korean": "백업 소셜",
+      "mandarin": "备份社交",
+      "spanish": "Copia de seguridad social",
+      "portuguese": "Backup social",
+      "dutch": "Maak een back-up van sociaal",
+      "french": "Sauvegarde sociale",
+      "turkish": "Sosyal yedekleme"
+    },
     "2fa-verify-save-save": {
       "dutch": "Dit apparaat opslaan",
       "english": "Save this device",

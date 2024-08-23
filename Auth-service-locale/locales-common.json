@@ -648,6 +648,42 @@
       "french": "Recevez une phrase de récupération de 12 mots par e-mail",
       "turkish": "E-posta yoluyla 12 kelimelik bir kurtarma ifadesi alın"
     },
+    "recoveryPhraseDescCopied": {
+      "english": "Manually Copied",
+      "german": "Manuell kopiert",
+      "japanese": "手動でコピーされました",
+      "korean": "수동으로 복사됨",
+      "mandarin": "手动复制",
+      "spanish": "Copiado manualmente",
+      "portuguese": "Copiado manualmente",
+      "dutch": "Handmatig gekopieerd",
+      "french": "Copié manuellement",
+      "turkish": "Manuel Olarak Kopyalandı"
+    },
+    "recoveryPhraseDescDownloaded": {
+      "english": "Manually Downloaded",
+      "german": "Manuell heruntergeladen",
+      "japanese": "手動でダウンロード",
+      "korean": "수동으로 다운로드됨",
+      "mandarin": "手动下载",
+      "spanish": "Descargado manualmente",
+      "portuguese": "Baixado manualmente",
+      "dutch": "Handmatig gedownload",
+      "french": "Téléchargé manuellement",
+      "turkish": "Manuel Olarak İndirildi"
+    },
+    "recoveryPhraseDescEmailed": {
+      "english": "Emailed to {0}",
+      "german": "Per E-Mail an {0} gesendet",
+      "japanese": "{0} にメール送信しました",
+      "korean": "{0}(으)로 이메일을 보냈습니다.",
+      "mandarin": "已通过电子邮件发送至 {0}",
+      "spanish": "Enviado por correo electrónico a {0}",
+      "portuguese": "Enviado por e-mail para {0}",
+      "dutch": "Gemaild naar {0}",
+      "french": "Envoyé par e-mail à {0}",
+      "turkish": "{0} adresine e-postayla gönderildi"
+    },
     "passwordFactor": {
       "english": "Password",
       "german": "Passwort",
