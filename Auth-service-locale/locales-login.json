@@ -72,6 +72,18 @@
       "spanish": "Establezca una contraseña que se utilizará para acceder a su cuenta y servirá como factor de recuperación.",
       "turkish": "Hesabınıza erişmenizi sağlayacak ve kurtarma faktörü olarak çalışacak bir şifre belirleyin."
     },
+    "2fa-pwd-desc2": {
+      "english": "Set a strong password that will be used to access your account",
+      "german": "Legen Sie ein sicheres Passwort fest, das für den Zugriff auf Ihr Konto verwendet wird",
+      "japanese": "アカウントへのアクセスに使用される強力なパスワードを設定します",
+      "korean": "귀하의 계정에 액세스하는 데 사용될 강력한 비밀번호를 설정하십시오",
+      "mandarin": "设置用于访问您的帐户的强密码",
+      "spanish": "Establezca una contraseña segura que se utilizará para acceder a su cuenta",
+      "portuguese": "Defina uma senha forte que será usada para acessar sua conta",
+      "dutch": "Stel een sterk wachtwoord in dat wordt gebruikt om toegang te krijgen tot uw account",
+      "french": "Définissez un mot de passe fort qui sera utilisé pour accéder à votre compte",
+      "turkish": "Hesabınıza erişmek için kullanılacak güçlü bir şifre belirleyin"
+    },
     "2fa-pwd-title": {
       "dutch": "Stel wachtwoord in als herstelfactor",
       "english": "Set password as Recovery Factor",
@@ -83,6 +95,18 @@
       "portuguese": "Definir senha como fator de recuperação",
       "spanish": "Establecer contraseña como factor de recuperación",
       "turkish": "Kurtarma faktörü için bir şifre belirleyin."
+    },
+    "2fa-pwd-title2": {
+      "english": "Set up a Password",
+      "german": "Richten Sie ein Passwort ein",
+      "japanese": "パスワードを設定する",
+      "korean": "비밀번호 설정",
+      "mandarin": "设置密码",
+      "spanish": "Configurar una contraseña",
+      "portuguese": "Configure uma senha",
+      "dutch": "Stel een wachtwoord in",
+      "french": "Configurer un mot de passe",
+      "turkish": "Bir Şifre Ayarlayın"
     },
     "2fa-recovery-copied-subDesc": {
       "dutch": "Voer de gekopieerde herstelfactor in",

@@ -784,6 +784,18 @@
       "spanish": "Requisitos de la contraseña:",
       "turkish": "Şifre gereksinimleri:"
     },
+    "password-requirement2": {
+      "english": "Password minimum requirements:",
+      "german": "Mindestanforderungen an das Passwort:",
+      "japanese": "パスワードの最小要件:",
+      "korean": "비밀번호 최소 요구 사항:",
+      "mandarin": "密码最低要求：",
+      "spanish": "Requisitos mínimos de contraseña:",
+      "portuguese": "Requisitos mínimos de senha:",
+      "dutch": "Minimale wachtwoordvereisten:",
+      "french": "Exigences minimales du mot de passe :",
+      "turkish": "Minimum şifre gereksinimleri:"
+    },
     "password-requirement-10-char": {
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
       "english": "At least 10 characters (and up to 100 characters)",
@@ -795,6 +807,18 @@
       "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
       "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)",
       "turkish": "En az 10 karakter (ve en fazla 100 karakter)"
+    },
+    "password-requirement-10-char2": {
+      "english": "Minimum 10 characters long",
+      "german": "Mindestens 10 Zeichen lang",
+      "japanese": "最低 10 文字の長さ",
+      "korean": "최소 10자 길이",
+      "mandarin": "长度至少 10 个字符",
+      "spanish": "Mínimo 10 caracteres",
+      "portuguese": "Mínimo de 10 caracteres",
+      "dutch": "Minimaal 10 tekens lang",
+      "french": "Minimum 10 caractères",
+      "turkish": "Minimum 10 karakter uzunluğunda"
     },
     "password-requirement-desc": {
       "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
@@ -832,6 +856,18 @@
       "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}",
       "turkish": "En az bir özel karakterin dahil edilmesi, örneğin, {'! @ # ?'}"
     },
+    "password-requirement-specialchar2": {
+      "english": "Contain 1 special character (!@#?)",
+      "german": "Enthält 1 Sonderzeichen (!@#?)",
+      "japanese": "特殊文字 (!@#?) を 1 つ含む",
+      "korean": "특수문자(!@#?) 1개 포함",
+      "mandarin": "包含 1 个特殊字符 (!@#?)",
+      "spanish": "Contiene 1 carácter especial (!@#?)",
+      "portuguese": "Contém 1 caractere especial (!@#?)",
+      "dutch": "Bevat 1 speciaal teken (!@#?)",
+      "french": "Contient 1 caractère spécial ($!@#?)",
+      "turkish": "1 özel karakter içerir (!@#?)"
+    },
     "password-requirement-upercase": {
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
       "english": "At least one uppercase character",
@@ -843,6 +879,18 @@
       "portuguese": "Pelo menos um caractere maiúsculo",
       "spanish": "Al menos un carácter en mayúscula",
       "turkish": "En az bir büyük harf"
+    },
+    "password-requirement-upperlowercase": {
+      "english": "Include both uppercase and lowercase letters",
+      "german": "Geben Sie sowohl Groß- als auch Kleinbuchstaben an",
+      "japanese": "大文字と小文字の両方を含める",
+      "korean": "대문자와 소문자를 모두 포함하세요.",
+      "mandarin": "包括大写和小写字母",
+      "spanish": "Incluir letras mayúsculas y minúsculas",
+      "portuguese": "Incluir letras maiúsculas e minúsculas",
+      "dutch": "Gebruik zowel hoofdletters als kleine letters",
+      "french": "Inclure les lettres majuscules et minuscules",
+      "turkish": "Hem büyük hem de küçük harfleri dahil edin"
     },
     "mpc-auth-factors-recovery-phrase": {
       "dutch": "Herstelfactor",
