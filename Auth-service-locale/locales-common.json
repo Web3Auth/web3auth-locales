@@ -857,16 +857,16 @@
       "turkish": "En az bir özel karakterin dahil edilmesi, örneğin, {'! @ # ?'}"
     },
     "password-requirement-specialchar2": {
-      "english": "Contain 1 special character (!@#?)",
-      "german": "Enthält 1 Sonderzeichen (!@#?)",
-      "japanese": "特殊文字 (!@#?) を 1 つ含む",
-      "korean": "특수문자(!@#?) 1개 포함",
-      "mandarin": "包含 1 个特殊字符 (!@#?)",
-      "spanish": "Contiene 1 carácter especial (!@#?)",
-      "portuguese": "Contém 1 caractere especial (!@#?)",
-      "dutch": "Bevat 1 speciaal teken (!@#?)",
-      "french": "Contient 1 caractère spécial ($!@#?)",
-      "turkish": "1 özel karakter içerir (!@#?)"
+      "english": "Contain 1 special character {'(!@#?)'}",
+      "german": "Enthält 1 Sonderzeichen {'(!@#?)'}",
+      "japanese": "特殊文字 {'(!@#?)'} を 1 つ含む",
+      "korean": "특수문자{'(!@#?)'} 1개 포함",
+      "mandarin": "包含 1 个特殊字符 {'(!@#?)'}",
+      "spanish": "Contiene 1 carácter especial {'(!@#?)'}",
+      "portuguese": "Contém 1 caractere especial {'(!@#?)'}",
+      "dutch": "Bevat 1 speciaal teken {'(!@#?)'}",
+      "french": "Contient 1 caractère spécial {'(!@#?)'}",
+      "turkish": "1 özel karakter içerir {'(!@#?)'}"
     },
     "password-requirement-upercase": {
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
