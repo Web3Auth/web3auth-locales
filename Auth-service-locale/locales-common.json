@@ -300,6 +300,18 @@
       "french": "Si un accès non autorisé au compte est suspecté, vous devrez vérifier à l'aide de cette méthode d'authentification.",
       "turkish": "Hesaba yetkisiz erişimden şüpheleniliyorsa, bu kimlik doğrulama yöntemini kullanarak doğrulama yapmanız gerekir."
     },
+    "factorListSetup": {
+      "english": "Setup additional methods",
+      "german": "Richten Sie zusätzliche Methoden ein",
+      "japanese": "追加のメソッドをセットアップする",
+      "korean": "추가 방법 설정",
+      "mandarin": "设置附加方法",
+      "spanish": "Configurar métodos adicionales",
+      "portuguese": "Configure métodos adicionais",
+      "dutch": "Aanvullende methoden instellen",
+      "french": "Configurer des méthodes supplémentaires",
+      "turkish": "Ek yöntemler ayarlayın"
+    },
     "next": {
       "dutch": "Volgende",
       "english": "Next",
