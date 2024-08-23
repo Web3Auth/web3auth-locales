@@ -72,6 +72,18 @@
       "spanish": "Establezca una contraseña que se utilizará para acceder a su cuenta y servirá como factor de recuperación.",
       "turkish": "Hesabınıza erişmenizi sağlayacak ve kurtarma faktörü olarak çalışacak bir şifre belirleyin."
     },
+    "2fa-pwd-desc2": {
+      "english": "Set a strong password that will be used to access your account",
+      "german": "Legen Sie ein sicheres Passwort fest, das für den Zugriff auf Ihr Konto verwendet wird",
+      "japanese": "アカウントへのアクセスに使用される強力なパスワードを設定します",
+      "korean": "귀하의 계정에 액세스하는 데 사용될 강력한 비밀번호를 설정하십시오",
+      "mandarin": "设置用于访问您的帐户的强密码",
+      "spanish": "Establezca una contraseña segura que se utilizará para acceder a su cuenta",
+      "portuguese": "Defina uma senha forte que será usada para acessar sua conta",
+      "dutch": "Stel een sterk wachtwoord in dat wordt gebruikt om toegang te krijgen tot uw account",
+      "french": "Définissez un mot de passe fort qui sera utilisé pour accéder à votre compte",
+      "turkish": "Hesabınıza erişmek için kullanılacak güçlü bir şifre belirleyin"
+    },
     "2fa-pwd-title": {
       "dutch": "Stel wachtwoord in als herstelfactor",
       "english": "Set password as Recovery Factor",
@@ -83,6 +95,18 @@
       "portuguese": "Definir senha como fator de recuperação",
       "spanish": "Establecer contraseña como factor de recuperación",
       "turkish": "Kurtarma faktörü için bir şifre belirleyin."
+    },
+    "2fa-pwd-title2": {
+      "english": "Set up a Password",
+      "german": "Richten Sie ein Passwort ein",
+      "japanese": "パスワードを設定する",
+      "korean": "비밀번호 설정",
+      "mandarin": "设置密码",
+      "spanish": "Configurar una contraseña",
+      "portuguese": "Configure uma senha",
+      "dutch": "Stel een wachtwoord in",
+      "french": "Configurer un mot de passe",
+      "turkish": "Bir Şifre Ayarlayın"
     },
     "2fa-recovery-copied-subDesc": {
       "dutch": "Voer de gekopieerde herstelfactor in",
@@ -156,6 +180,18 @@
       "spanish": "Ingrese su correo electrónico para recibir un factor de recuperación de billetera. Lo necesitas para recuperar tu billetera.",
       "turkish": "Cüzdanınıza bir kurtarma faktörü almak için e-postanızı girin. Cüzdanınızı kurtarmak için ihtiyacınız olacak."
     },
+    "2fa-recovery-factor-desc2": {
+      "english": "Input your email to receive a wallet recovery phrase. You need it to recover your wallet.",
+      "german": "Geben Sie Ihre E-Mail-Adresse ein, um einen Schlüssel zur Wiederherstellung Ihrer Brieftasche zu erhalten. Sie benötigen es, um Ihr Portemonnaie wiederherzustellen.",
+      "japanese": "メールアドレスを入力してウォレット回復フレーズを受け取ります。ウォレットを回復するために必要です。",
+      "korean": "지갑 복구 문구를 받으시려면 이메일을 입력하세요. 지갑을 복구하려면 필요합니다.",
+      "mandarin": "输入您的电子邮件以接收钱包恢复短语。您需要它来恢复您的钱包。",
+      "spanish": "Ingrese su correo electrónico para recibir una frase de recuperación de billetera. Lo necesitas para recuperar tu billetera.",
+      "portuguese": "Insira seu e-mail para receber uma frase de recuperação de carteira. Você precisa dele para recuperar sua carteira.",
+      "dutch": "Voer uw e-mailadres in om een ​​portemonnee-herstelzin te ontvangen. Je hebt het nodig om je portemonnee te herstellen.",
+      "french": "Saisissez votre e-mail pour recevoir une phrase de récupération de portefeuille. Vous en avez besoin pour récupérer votre portefeuille.",
+      "turkish": "Cüzdan kurtarma ifadesini almak için e-postanızı girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var."
+    },
     "2fa-recovery-factor-send-btn": {
       "dutch": "Stuur mij mijn herstelfactor",
       "english": "Send me my recovery factor",
@@ -179,6 +215,18 @@
       "portuguese": "Obter meu Fator de Recuperação",
       "spanish": "Obtener mi factor de recuperación",
       "turkish": "Kurtarma faktörümü al"
+    },
+    "2fa-recovery-factor-title2": {
+      "english": "Get my Recovery Phrase",
+      "german": "Holen Sie sich meine Wiederherstellungsphrase",
+      "japanese": "リカバリーフレーズを取得する",
+      "korean": "내 회복 문구 받기",
+      "mandarin": "获取我的恢复短语",
+      "spanish": "Obtenga mi frase de recuperación",
+      "portuguese": "Obter minha frase de recuperação",
+      "dutch": "Ontvang mijn herstelzin",
+      "french": "Obtenir ma phrase de récupération",
+      "turkish": "Kurtarma İfademi Alın"
     },
     "2fa-setup-done-sub1": {
       "dutch": "Ga nu door naar {0}",
@@ -360,6 +408,18 @@
       "spanish": "Continúe con uno de los siguientes para configurarlo como su factor de recuperación.",
       "turkish": "Seçeneklerden bir tanesini kurtarma faktörünüz olarak belirleyin."
     },
+    "2fa-social-desc2": {
+      "english": "Use a different social account as backup or receive an SMS OTP on your phone.",
+      "german": "Verwenden Sie ein anderes soziales Konto als Backup oder erhalten Sie ein SMS-OTP auf Ihrem Telefon.",
+      "japanese": "別のソーシャル アカウントをバックアップとして使用するか、携帯電話で SMS OTP を受信します。",
+      "korean": "다른 소셜 계정을 백업으로 사용하거나 휴대폰으로 SMS OTP를 받으세요.",
+      "mandarin": "使用不同的社交帐户作为备份或在手机上接收短信 OTP。",
+      "spanish": "Utilice una cuenta social diferente como respaldo o reciba un SMS OTP en su teléfono.",
+      "portuguese": "Use uma conta social diferente como backup ou receba um SMS OTP em seu telefone.",
+      "dutch": "Gebruik een ander sociaal account als back-up of ontvang een sms-OTP op uw telefoon.",
+      "french": "Utilisez un autre compte social comme sauvegarde ou recevez un SMS OTP sur votre téléphone.",
+      "turkish": "Yedek olarak farklı bir sosyal hesap kullanın veya telefonunuza bir SMS OTP alın."
+    },
     "2fa-social-title": {
       "dutch": "Stel een sociaal herstelfactor in",
       "english": "Set up a Social recovery factor",
@@ -371,6 +431,30 @@
       "portuguese": "Configure um fator de recuperação social",
       "spanish": "Configurar un factor de recuperación social",
       "turkish": "Sosyal kurtarma faktörü ayarlayın"
+    },
+    "2fa-social-register-to": {
+      "english": "Registered to",
+      "german": "Registriert für",
+      "japanese": "登録先",
+      "korean": "에 등록됨",
+      "mandarin": "注册到",
+      "spanish": "Registrado en",
+      "portuguese": "Registrado para",
+      "dutch": "Geregistreerd bij",
+      "french": "Inscrit à",
+      "turkish": "Kayıtlı"
+    },
+    "2fa-social-backup-social": {
+      "english": "Backup social",
+      "german": "Backup-Sozial",
+      "japanese": "バックアップソーシャル",
+      "korean": "백업 소셜",
+      "mandarin": "备份社交",
+      "spanish": "Copia de seguridad social",
+      "portuguese": "Backup social",
+      "dutch": "Maak een back-up van sociaal",
+      "french": "Sauvegarde sociale",
+      "turkish": "Sosyal yedekleme"
     },
     "2fa-verify-save-save": {
       "dutch": "Dit apparaat opslaan",
@@ -407,6 +491,30 @@
       "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de recuperação social",
       "spanish": "Desacuadado de la cuenta, continúe con uno que establezca como factor de recuperación social",
       "turkish": "Hesap eşleşmiyor, lütfen sosyal kurtarma faktörü olarak belirlediğiniz hesap ile devam edin."
+    },
+    "social-label": {
+      "english": "Backup Social Account",
+      "german": "Soziales Konto sichern",
+      "japanese": "バックアップソーシャルアカウント",
+      "korean": "백업 소셜 계정",
+      "mandarin": "备份社交帐户",
+      "spanish": "Cuenta social de respaldo",
+      "portuguese": "Backup de conta social",
+      "dutch": "Maak een back-up van een sociaal account",
+      "french": "Compte social de sauvegarde",
+      "turkish": "Sosyal Hesabı Yedekle"
+    },
+    "social-label-tooltip": {
+      "english": "Ensure your backup social account is not the same as your primary login.",
+      "german": "Stellen Sie sicher, dass Ihr soziales Backup-Konto nicht mit Ihrem primären Login übereinstimmt.",
+      "japanese": "バックアップ ソーシャル アカウントがプライマリ ログインと同じでないことを確認してください。",
+      "korean": "백업 소셜 계정이 기본 로그인과 동일하지 않은지 확인하세요.",
+      "mandarin": "确保您的备用社交帐户与您的主要登录帐户不同。",
+      "spanish": "Asegúrese de que su cuenta social de respaldo no sea la misma que su inicio de sesión principal.",
+      "portuguese": "Certifique-se de que sua conta social de backup não seja igual ao seu login principal.",
+      "dutch": "Zorg ervoor dat uw back-up sociale account niet hetzelfde is als uw primaire login.",
+      "french": "Assurez-vous que votre compte social de sauvegarde n'est pas le même que votre connexion principale.",
+      "turkish": "Yedek sosyal hesabınızın birincil giriş bilginizle aynı olmadığından emin olun."
     },
     "connect-email": {
       "dutch": "Verbinden met e-mail",
@@ -948,6 +1056,18 @@
       "spanish": "Verifique su factor de recuperación",
       "turkish": "Kurtarma faktörünüzü doğrulayın"
     },
+    "mpc-2fa-setup-step42-sub1": {
+      "english": "Verify your recovery phrase",
+      "german": "Überprüfen Sie Ihre Wiederherstellungsphrase",
+      "japanese": "リカバリフレーズを確認してください",
+      "korean": "복구 문구를 확인하세요",
+      "mandarin": "验证您的恢复短语",
+      "spanish": "Verifica tu frase de recuperación",
+      "portuguese": "Verifique sua frase de recuperação",
+      "dutch": "Controleer uw herstelzin",
+      "french": "Vérifiez votre phrase de récupération",
+      "turkish": "Kurtarma ifadenizi doğrulayın"
+    },
     "mpc-2fa-setup-step4-sub21": {
       "dutch": "Plak het herstelfactor",
       "english": "Paste the recovery factor",
@@ -1125,6 +1245,102 @@
       "dutch": "Met Passkeys kunt u uw identiteit verifiëren door uw gezicht, vingerafdruk of schermvergrendeling",
       "french": "Avec PassKeys, vous pouvez vérifier votre identité à travers votre visage, vos empreintes digitales ou verrouillage d'écran"
     },
+    "passkeyAdd": {
+      "english": "Add a passkey",
+      "german": "Fügen Sie einen Passkey hinzu",
+      "japanese": "パスキーを追加する",
+      "korean": "암호 키 추가",
+      "mandarin": "添加密钥",
+      "spanish": "Agregar una clave de acceso",
+      "portuguese": "Adicionar uma chave de acesso",
+      "dutch": "Voeg een toegangssleutel toe",
+      "french": "Ajouter un mot de passe",
+      "turkish": "Bir şifre anahtarı ekleyin"
+    },
+    "passkeySetup": {
+      "english": "Set up passkeys",
+      "german": "Passkeys einrichten",
+      "japanese": "Passkeys をセットアップする",
+      "korean": "Passkeys 설정",
+      "mandarin": "设置passkeys",
+      "spanish": "Configurar passkeys",
+      "portuguese": "Configurar passkeys",
+      "dutch": "Passkeys instellen",
+      "french": "Configurer les passkeys",
+      "turkish": "Passkeys ayarlayın"
+    },
+    "passkeyDetail1": {
+      "english": "No need to remember passwords",
+      "german": "Sie müssen sich keine Passwörter merken",
+      "japanese": "パスワードを覚える必要はありません",
+      "korean": "비밀번호를 기억할 필요가 없습니다.",
+      "mandarin": "无需记住密码",
+      "spanish": "No es necesario recordar contraseñas",
+      "portuguese": "Não há necessidade de lembrar senhas",
+      "dutch": "U hoeft geen wachtwoorden te onthouden",
+      "french": "Pas besoin de mémoriser les mots de passe",
+      "turkish": "Şifreleri hatırlamanıza gerek yok"
+    },
+    "passkeyDetail1Desc": {
+      "english": "With passkey, you can log in using fingerprint, face or screen lock to verify that it’s really you",
+      "german": "Mit dem Passkey können Sie sich per Fingerabdruck, Gesichts- oder Bildschirmsperre anmelden, um zu bestätigen, dass Sie es wirklich sind",
+      "japanese": "パスキーを使用すると、指紋、顔、または画面ロックを使用してログインし、本人であることを確認できます",
+      "korean": "패스키를 사용하면 지문, 얼굴 잠금 또는 화면 잠금을 사용하여 로그인하여 본인인지 확인할 수 있습니다.",
+      "mandarin": "通过密钥，您可以使用指纹、面部或屏幕锁定登录来验证您的身份",
+      "spanish": "Con la clave de acceso, puedes iniciar sesión usando la huella digital, el rostro o el bloqueo de pantalla para verificar que realmente eres tú.",
+      "portuguese": "Com a senha, você pode fazer login usando impressão digital, rosto ou bloqueio de tela para verificar se é realmente você",
+      "dutch": "Met de toegangssleutel kunt u inloggen met uw vingerafdruk, gezichts- of schermvergrendeling om te verifiëren dat u het echt bent",
+      "french": "Avec le mot de passe, vous pouvez vous connecter en utilisant votre empreinte digitale, votre visage ou le verrouillage de l'écran pour vérifier qu'il s'agit bien de vous.",
+      "turkish": "Parolayla, kişinin gerçekten siz olduğunuzu doğrulamak için parmak izi, yüz veya ekran kilidini kullanarak oturum açabilirsiniz."
+    },
+    "passkeyDetail2": {
+      "english": "Works on all your compatible devices",
+      "german": "Funktioniert auf allen Ihren kompatiblen Geräten",
+      "japanese": "互換性のあるすべてのデバイスで動作します",
+      "korean": "모든 호환 장치에서 작동",
+      "mandarin": "适用于所有兼容设备",
+      "spanish": "Funciona en todos tus dispositivos compatibles",
+      "portuguese": "Funciona em todos os seus dispositivos compatíveis",
+      "dutch": "Werkt op al uw compatibele apparaten",
+      "french": "Fonctionne sur tous vos appareils compatibles",
+      "turkish": "Tüm uyumlu cihazlarınızda çalışır"
+    },
+    "passkeyDetail2Desc": {
+      "english": "Passkeys will automatically be available on synced devices. Only set up passkeys on devices you own.",
+      "german": "Passkeys sind automatisch auf synchronisierten Geräten verfügbar. Richten Sie Passkeys nur auf Geräten ein, die Sie besitzen.",
+      "japanese": "パスキーは同期されたデバイスで自動的に利用可能になります。パスキーは自分が所有するデバイスにのみ設定してください。",
+      "korean": "패스키는 동기화된 장치에서 자동으로 사용할 수 있습니다. 자신이 소유한 장치에만 암호키를 설정하세요.",
+      "mandarin": "密钥将自动在同步设备上可用。仅在您拥有的设备上设置密钥。",
+      "spanish": "Las claves de acceso estarán disponibles automáticamente en los dispositivos sincronizados. Configure claves de acceso solo en dispositivos de su propiedad.",
+      "portuguese": "As chaves estarão disponíveis automaticamente nos dispositivos sincronizados. Configure senhas apenas nos dispositivos que você possui.",
+      "dutch": "Wachtwoorden zijn automatisch beschikbaar op gesynchroniseerde apparaten. Stel alleen toegangscodes in op apparaten waarvan u de eigenaar bent.",
+      "french": "Les clés d'accès seront automatiquement disponibles sur les appareils synchronisés. Configurez des mots de passe uniquement sur les appareils que vous possédez.",
+      "turkish": "Geçiş anahtarları senkronize edilen cihazlarda otomatik olarak kullanılabilecektir. Yalnızca sahip olduğunuz cihazlara şifre anahtarları ayarlayın."
+    },
+    "passkeyDetail3": {
+      "english": "Ensures your account’s security",
+      "german": "Gewährleistet die Sicherheit Ihres Kontos",
+      "japanese": "アカウントのセキュリティを確保します",
+      "korean": "귀하의 계정 보안을 보장합니다",
+      "mandarin": "确保您帐户的安全",
+      "spanish": "Garantiza la seguridad de su cuenta",
+      "portuguese": "Garante a segurança da sua conta",
+      "dutch": "Garandeert de veiligheid van uw account",
+      "french": "Assure la sécurité de votre compte",
+      "turkish": "Hesabınızın güvenliğini sağlar"
+    },
+    "passkeyDetail3Desc": {
+      "english": "Passkey provides state-of-the-art phishing protection. We do not store your face, fingerprint or PIN data.",
+      "german": "Passkey bietet hochmodernen Phishing-Schutz. Wir speichern Ihre Gesichts-, Fingerabdruck- oder PIN-Daten nicht.",
+      "japanese": "Passkey は最先端のフィッシング保護を提供します。当社はあなたの顔、指紋、または PIN データを保存しません。",
+      "korean": "Passkey는 최첨단 피싱 보호 기능을 제공합니다. 우리는 귀하의 얼굴, 지문 또는 PIN 데이터를 저장하지 않습니다.",
+      "mandarin": "Passkey 提供最先进的网络钓鱼防护。我们不会存储您的面部、指纹或 PIN 数据。",
+      "spanish": "Passkey proporciona protección contra phishing de última generación. No almacenamos datos de su rostro, huellas dactilares o PIN.",
+      "portuguese": "Passkey fornece proteção contra phishing de última geração. Não armazenamos seu rosto, impressão digital ou dados de PIN.",
+      "dutch": "Passkey biedt geavanceerde phishing-beveiliging. Wij slaan uw gezichts-, vingerafdruk- of PIN-gegevens niet op.",
+      "french": "Passkey offre une protection contre le phishing de pointe. Nous ne stockons pas votre visage, vos empreintes digitales ou vos données PIN.",
+      "turkish": "Passkey, son teknoloji ürünü kimlik avı koruması sağlar. Yüzünüzü, parmak izinizi veya PIN verilerinizi saklamayız."
+    },
     "learnMore": {
       "english": "Learn more",
       "german": "Erfahren Sie mehr",
@@ -1261,6 +1477,90 @@
       "portuguese": "Adicionar autenticador",
       "spanish": "Agregar autenticador",
       "turkish": "Kimlik Doğrulayıcı Ekle"
+    },
+    "mfa-setup-title": {
+      "english": "Set up Multi Factor Authentication (MFA)",
+      "german": "Multi-Faktor-Authentifizierung (MFA) einrichten",
+      "japanese": "多要素認証 (MFA) をセットアップする",
+      "korean": "다단계 인증(MFA) 설정",
+      "mandarin": "设置多重身份验证 (MFA)",
+      "spanish": "Configurar la autenticación multifactor (MFA)",
+      "portuguese": "Configurar a autenticação multifator (MFA)",
+      "dutch": "Multi-Factor Authenticatie (MFA) instellen",
+      "french": "Configurer l'authentification multifacteur (MFA)",
+      "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Ayarlama"
+    },
+    "mfa-setup-desc": {
+      "english": "Enabling this feature will add a second login will require a second login step. Once this feature is enabled, it cannot be disabled.",
+      "german": "Wenn Sie diese Funktion aktivieren, wird eine zweite Anmeldung hinzugefügt, die einen zweiten Anmeldeschritt erfordert. Sobald diese Funktion aktiviert ist, kann sie nicht deaktiviert werden.",
+      "japanese": "この機能を有効にすると、2 回目のログインが追加され、2 回目のログイン手順が必要になります。この機能を一度有効にすると、無効にすることはできません。",
+      "korean": "이 기능을 활성화하면 두 번째 로그인이 추가되고 두 ​​번째 로그인 단계가 필요합니다. 이 기능은 활성화되면 비활성화할 수 없습니다.",
+      "mandarin": "启用此功能将添加第二次登录，将需要第二次登录步骤。一旦启用此功能，就无法将其禁用。",
+      "spanish": "Habilitar esta función agregará un segundo inicio de sesión y requerirá un segundo paso de inicio de sesión. Una vez que esta función está habilitada, no se puede deshabilitar.",
+      "portuguese": "A ativação deste recurso adicionará um segundo login e exigirá uma segunda etapa de login. Depois que esse recurso estiver ativado, ele não poderá ser desativado.",
+      "dutch": "Als u deze functie inschakelt, wordt er een tweede login toegevoegd. Hiervoor is een tweede loginstap vereist. Zodra deze functie is ingeschakeld, kan deze niet meer worden uitgeschakeld.",
+      "french": "L'activation de cette fonctionnalité ajoutera une deuxième connexion nécessitera une deuxième étape de connexion. Une fois cette fonctionnalité activée, elle ne peut pas être désactivée.",
+      "turkish": "Bu özelliğin etkinleştirilmesi ikinci bir oturum açma işlemi ekleyecek ve ikinci bir oturum açma adımı gerektirecektir. Bu özellik etkinleştirildikten sonra devre dışı bırakılamaz."
+    },
+    "mfa-enable-title": {
+      "english": "Enable Multi Factor Authentication (MFA)",
+      "german": "Aktivieren Sie die Multi-Faktor-Authentifizierung (MFA)",
+      "japanese": "多要素認証 (MFA) を有効にする",
+      "korean": "다단계 인증(MFA) 활성화",
+      "mandarin": "启用多重身份验证 (MFA)",
+      "spanish": "Habilitar la autenticación multifactor (MFA)",
+      "portuguese": "Habilitar autenticação multifator (MFA)",
+      "dutch": "Schakel Multi Factor Authenticatie (MFA) in",
+      "french": "Activer l'authentification multifacteur (MFA)",
+      "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Etkinleştir"
+    },
+    "mfa-enable-desc": {
+      "english": "To ensure your account remains secure, login will require at least two authentication factors. Once this feature is enabled, it cannot be disabled",
+      "german": "Um sicherzustellen, dass Ihr Konto sicher bleibt, sind für die Anmeldung mindestens zwei Authentifizierungsfaktoren erforderlich. Sobald diese Funktion aktiviert ist, kann sie nicht deaktiviert werden",
+      "japanese": "アカウントの安全性を確保するには、ログインに少なくとも 2 つの認証要素が必要です。この機能は一度有効にすると無効にすることはできません",
+      "korean": "귀하의 계정을 안전하게 유지하려면 로그인 시 최소한 두 가지 인증 요소가 필요합니다. 이 기능을 활성화하면 비활성화할 수 없습니다.",
+      "mandarin": "为了确保您的帐户安全，登录将需要至少两个身份验证因素。此功能一旦启用，就无法禁用",
+      "spanish": "Para garantizar que su cuenta permanezca segura, el inicio de sesión requerirá al menos dos factores de autenticación. Una vez que esta función está habilitada, no se puede deshabilitar.",
+      "portuguese": "Para garantir que sua conta permaneça segura, o login exigirá pelo menos dois fatores de autenticação. Depois que esse recurso estiver ativado, ele não poderá ser desativado",
+      "dutch": "Om ervoor te zorgen dat uw account veilig blijft, zijn voor het inloggen ten minste twee authenticatiefactoren vereist. Zodra deze functie is ingeschakeld, kan deze niet meer worden uitgeschakeld",
+      "french": "Pour garantir la sécurité de votre compte, la connexion nécessitera au moins deux facteurs d'authentification. Une fois cette fonctionnalité activée, elle ne peut pas être désactivée",
+      "turkish": "Hesabınızın güvende kalmasını sağlamak için giriş yaparken en az iki kimlik doğrulama faktörü gerekir. Bu özellik etkinleştirildikten sonra devre dışı bırakılamaz"
+    },
+    "mfa-add-title": {
+      "english": "Set up additional methods",
+      "german": "Richten Sie zusätzliche Methoden ein",
+      "japanese": "追加のメソッドをセットアップする",
+      "korean": "추가 방법 설정",
+      "mandarin": "设置附加方法",
+      "spanish": "Configurar métodos adicionales",
+      "portuguese": "Configure métodos adicionais",
+      "dutch": "Stel aanvullende methoden in",
+      "french": "Configurer des méthodes supplémentaires",
+      "turkish": "Ek yöntemler ayarlayın"
+    },
+    "mfa-add-desc": {
+      "english": "You may choose to set up more methods in order to further enhance security and recoverability of your account",
+      "german": "Sie können weitere Methoden einrichten, um die Sicherheit und Wiederherstellbarkeit Ihres Kontos weiter zu verbessern",
+      "japanese": "アカウントのセキュリティと回復可能性をさらに強化するために、さらに多くの方法を設定することを選択できます。",
+      "korean": "계정의 보안과 복구 가능성을 더욱 강화하기 위해 더 많은 방법을 설정하도록 선택할 수 있습니다.",
+      "mandarin": "您可以选择设置更多方式，以进一步增强您账户的安全性和可恢复性",
+      "spanish": "Puede optar por configurar más métodos para mejorar aún más la seguridad y la capacidad de recuperación de su cuenta.",
+      "portuguese": "Você pode optar por configurar mais métodos para aumentar ainda mais a segurança e a capacidade de recuperação da sua conta.",
+      "dutch": "U kunt ervoor kiezen om meer methoden in te stellen om de beveiliging en herstelbaarheid van uw account verder te verbeteren",
+      "french": "Vous pouvez choisir de configurer davantage de méthodes afin d'améliorer davantage la sécurité et la récupérabilité de votre compte.",
+      "turkish": "Hesabınızın güvenliğini ve kurtarılabilirliğini daha da artırmak için daha fazla yöntem ayarlamayı seçebilirsiniz."
+    },
+    "mfa-switch-method": {
+      "english": "Switch to another method",
+      "german": "Wechseln Sie zu einer anderen Methode",
+      "japanese": "別の方法に切り替える",
+      "korean": "다른 방법으로 전환",
+      "mandarin": "切换到另一种方法",
+      "spanish": "Cambiar a otro método",
+      "portuguese": "Mude para outro método",
+      "dutch": "Schakel over naar een andere methode",
+      "french": "Passer à une autre méthode",
+      "turkish": "Başka bir yönteme geç"
     }
   }
 }
