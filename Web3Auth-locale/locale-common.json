@@ -96,6 +96,18 @@
       "spanish": "Continuar con billetera externa",
       "turkish": "Harici cüzdanla devam et"
     },
+    "external.no-wallets-found": {
+      "dutch": "Geen portefeuilles gevonden",
+      "english": "No wallets found",
+      "french": "Aucun portefeuille trouvé",
+      "german": "Keine Wallets gefunden",
+      "japanese": "ウォレットが見つかりません",
+      "korean": "지갑을 찾을 수 없습니다.",
+      "mandarin": "没有找到钱包",
+      "portuguese": "Nenhuma carteira encontrada",
+      "spanish": "No se encontraron billeteras",
+      "turkish": "Cüzdan bulunamadı"
+    },
     "external.title": {
       "dutch": "Externe portemonnee",
       "english": "External Wallet",
