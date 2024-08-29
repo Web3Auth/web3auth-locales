@@ -48,6 +48,30 @@
       "spanish": "Correo electrónico o número de teléfono inválido",
       "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
+    "errors-invalid-number": {
+      "english":	"Invalid Phone Number",
+      "german":	"Ungültige Telefonnummer",
+      "japanese":	"無効な電話番号",
+      "korean":	"잘못된 전화번호",
+      "mandarin":	"电话号码无效",
+      "spanish":	"Número de teléfono no válido",
+      "portuguese":	"Número de telefone inválido",
+      "dutch":	"Ongeldig telefoonnummer",
+      "french":	"Numéro de téléphone invalide",
+      "turkish":	"Geçersiz Telefon Numarası"
+    },
+    "errors-invalid-email": {
+      "english":	"Invalid Email",
+      "german":	"Ungültige E-Mail",
+      "japanese":	"無効な電子メール",
+      "korean":	"잘못된 이메일",
+      "mandarin":	"无效的电子邮件",
+      "spanish":	"Correo electrónico no válido",
+      "portuguese":	"E-mail inválido",
+      "dutch":	"Ongeldig e-mailadres",
+      "french":	"E-mail invalide",
+      "turkish":	"Geçersiz E-posta"
+    },
     "errors-required": {
       "dutch": "Vereist",
       "english": "Required",
