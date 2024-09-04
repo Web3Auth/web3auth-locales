@@ -110,39 +110,39 @@
     },
     "2fa-recovery-copied-subDesc": {
       "dutch": "Voer de gekopieerde herstelfactor in",
-      "english": "Enter the copied Recovery factor",
+      "english": "Enter the copied recovery factor",
       "french": "Entrez le facteur de récupération copié",
-      "german": "Geben Sie den kopierten Erholungsfaktor ein",
-      "japanese": "コピーしたリカバリーファクターを入力してください",
-      "korean": "복사한 Recovery factor 입력",
-      "mandarin": "输入复制的恢复因子",
-      "portuguese": "Digite o fator de recuperação copiado",
-      "spanish": "Introduzca el factor de recuperación copiado",
-      "turkish": "Kopyalanmış kurtarma faktörünü girin."
+      "german": "Geben Sie den kopierten Wiederherstellungsfaktor ein",
+      "japanese": "コピーした回復係数を入力します",
+      "korean": "복사된 회복 인자를 입력하세요",
+      "mandarin": "输入复制的恢复系数",
+      "portuguese": "Insira o fator de recuperação copiado",
+      "spanish": "Ingrese el factor de recuperación copiado",
+      "turkish": "Kopyalanan kurtarma faktörünü girin"
     },
     "2fa-recovery-cpy-subDesc": {
-      "dutch": "Voer de herstelzin in die naar {email} is verzonden",
-      "english": "Enter Recovery Phrase sent to {email}",
-      "french": "Entrez la phrase de récupération envoyée à {email}",
-      "german": "Geben Sie die an {eamil} gesendete Wiederherstellungsausstellung ein",
-      "japanese": "{email} に送信されたリカバリーフレーズを入力します",
-      "korean": "{email} 으로 전송 된 복구 구절을 입력하십시오.",
-      "mandarin": "输入发送到 {email} 的恢复短语",
-      "portuguese": "Digite a frase de recuperação enviada para {email}",
+      "dutch": "Voer de herstelzin in die is verzonden naar {email}",
+      "english": "Enter recovery phrase sent to {email}",
+      "french": "Saisissez la phrase de récupération envoyée à {email}",
+      "german": "Geben Sie die Wiederherstellungsphrase ein, die an {email} gesendet wurde.",
+      "japanese": "{email} に送信された回復フレーズを入力してください",
+      "korean": "{email}(으)로 전송된 복구 문구를 입력하세요.",
+      "mandarin": "输入发送至 {email} 的恢复短语",
+      "portuguese": "Insira a frase de recuperação enviada para {email}",
       "spanish": "Ingrese la frase de recuperación enviada a {email}",
-      "turkish": "{email} adresine gönderilen kurtarma metnini girin"
+      "turkish": "{email} adresine gönderilen kurtarma ifadesini girin"
     },
     "2fa-recovery-cpy-subTitle": {
-      "dutch": "Herstelfactor verificatie",
-      "english": "Recovery Factor verification",
+      "dutch": "Herstelfactorverificatie",
+      "english": "Recovery Factor Verification",
       "french": "Vérification du facteur de récupération",
       "german": "Überprüfung des Wiederherstellungsfaktors",
-      "japanese": "リカバリーファクターの検証",
-      "korean": "지갑 복구 문구 검증",
-      "mandarin": "采收率验证",
+      "japanese": "回復率の検証",
+      "korean": "회복 인자 검증",
+      "mandarin": "恢复系数验证",
       "portuguese": "Verificação do Fator de Recuperação",
       "spanish": "Verificación del factor de recuperación",
-      "turkish": "Kurtarma faktörü doğrulaması"
+      "turkish": "Kurtarma Faktörü Doğrulaması"
     },
     "2fa-recovery-cpy-textArea": {
       "english": "Paste your recovery phrase",
@@ -158,15 +158,15 @@
     },
     "2fa-recovery-downloaded-subDesc": {
       "dutch": "Upload de gedownloade herstelfactor",
-      "english": "Upload the downloaded Recovery factor",
+      "english": "Upload the downloaded recovery factor",
       "french": "Téléchargez le facteur de récupération téléchargé",
       "german": "Laden Sie den heruntergeladenen Wiederherstellungsfaktor hoch",
-      "japanese": "ダウンロードしたリカバリーファクターをアップロードしてください",
-      "korean": "다운받은 회복인자 업로드",
+      "japanese": "ダウンロードした回復係数をアップロードします",
+      "korean": "다운로드한 복구인자를 업로드하세요",
       "mandarin": "上传下载的恢复因子",
       "portuguese": "Carregue o fator de recuperação baixado",
       "spanish": "Cargue el factor de recuperación descargado",
-      "turkish": "İndirilen kurtarma faktörünü buraya yükleyin."
+      "turkish": "İndirilen kurtarma faktörünü yükleyin"
     },
     "2fa-recovery-factor-desc": {
       "dutch": "Voer uw e-mailadres in om een herstelfactor voor uw portemonnee te ontvangen. U heeft het nodig om uw portemonnee te herstellen.",

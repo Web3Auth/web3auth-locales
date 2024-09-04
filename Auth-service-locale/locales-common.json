@@ -98,15 +98,15 @@
     },
     "copy-paste": {
       "dutch": "Kopiëren en plakken",
-      "english": "Copy and Paste",
-      "french": "Copier coller",
-      "german": "Kopieren und Einfügen",
-      "japanese": "コピーアンドペースト",
-      "korean": "복사 및 붙여넣기",
-      "mandarin": "复制和粘贴",
-      "portuguese": "Copiar e colar",
+      "english": "Copy and paste",
+      "french": "Copier et coller",
+      "german": "Kopieren und einfügen",
+      "japanese": "コピー＆ペースト",
+      "korean": "복사하여 붙여넣기",
+      "mandarin": "复制并粘贴",
+      "portuguese": "Copie e cole",
       "spanish": "Copiar y pegar",
-      "turkish": "Kopyala ve Yapıştır"
+      "turkish": "Kopyala ve yapıştır"
     },
     "device": {
       "dutch": "Apparaat",
