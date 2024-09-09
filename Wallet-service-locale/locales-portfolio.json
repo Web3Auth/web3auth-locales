@@ -330,6 +330,18 @@
       "spanish": "Opciones avanzadas",
       "turkish": "Gelişmiş seçenekler"
     },
+    "submit": {
+      "dutch": "Indienen",
+      "english": "Submit",
+      "french": "Soumettre",
+      "german": "Einreichen",
+      "japanese": "提出する",
+      "korean": "제출하다",
+      "mandarin": "提交",
+      "portuguese": "Enviar",
+      "spanish": "Entregar",
+      "turkish": "Göndermek"
+    },
     "all": {
       "dutch": "Alle",
       "english": "All",
