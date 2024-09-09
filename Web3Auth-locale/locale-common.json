@@ -108,6 +108,18 @@
       "spanish": "Conectar con la billetera",
       "turkish": "Cüzdan ile Bağlan"
     },
+    "external.connect-wallet": {
+      "dutch": "Verbinden met portemonnee",
+      "english": "Connect Wallet",
+      "french": "Connecter le portefeuille",
+      "german": "Wallet verbinden",
+      "japanese": "ウォレットを接続",
+      "korean": "지갑 연결",
+      "mandarin": "连接钱包",
+      "portuguese": "Conectar carteira",
+      "spanish": "Conectar billetera",
+      "turkish": "Cüzdanı Bağla"
+    },
     "external.continue": {
       "dutch": "Ga verder met externe portemonnee",
       "english": "Continue with external wallet",
@@ -120,6 +132,76 @@
       "spanish": "Continuar con billetera externa",
       "turkish": "Harici cüzdanla devam et"
     },
+    "external.dont-have": {
+      "dutch": "Heb niet",
+      "english": "Don't have",
+      "french": "N'avez pas",
+      "german": "Haben nicht",
+      "japanese": "持っていない",
+      "korean": "없음",
+      "mandarin": "没有",
+      "portuguese": "Não tem",
+      "spanish": "No tiene",
+      "turkish": "Yok"
+    },
+    "external.get": {
+      "dutch": "Krijgen",
+      "english": "Get",
+      "french": "Obtenir",
+      "german": "Erhalten",
+      "japanese": "取得",
+      "korean": "받기",
+      "mandarin": "获取",
+      "portuguese": "Obter",
+      "spanish": "Obtener",
+      "turkish": "Al"
+    },
+    "external.get-wallet": {
+      "dutch": "Portemonnee krijgen",
+      "english": "Get Wallet",
+      "french": "Obtenir un portefeuille",
+      "german": "Wallet erhalten",
+      "japanese": "ウォレットを取得",
+      "korean": "지갑 받기",
+      "mandarin": "获取钱包",
+      "portuguese": "Obter carteira",
+      "spanish": "Obtener billetera",
+      "turkish": "Cüzdan Al"
+    },
+    "external.install-browser-extension": {
+      "dutch": "{{browser}}-extensie installeren",
+      "english": "Install {{browser}} extension",
+      "german": "Installieren Sie die {{browser}}-Erweiterung",
+      "japanese": "{{browser}} 拡張機能をインストール",
+      "korean": "{{browser}} 확장 프로그램 설치",
+      "mandarin": "安装{{browser}}扩展",
+      "portuguese": "Instalar extensão {{browser}}",
+      "spanish": "Instalar extensión {{browser}}",
+      "turkish": "{{browser}} uzantısını yükle"
+    },
+    "external.install-mobile-app": {
+      "dutch": "Installeer {{os}}-app",
+      "english": "Install {{os}} app",
+      "german": "Installieren Sie die {{os}}-App",
+      "japanese": "{{os}}アプリをインストール",
+      "korean": "{{os}} 앱 설치",
+      "mandarin": "安装{{os}}应用",
+      "portuguese": "Instalar aplicativo {{os}}",
+      "spanish": "Instalar aplicación {{os}}",
+      "turkish": "{{os}} uygulamasını yükle"
+    },
+    "external.installed": {
+      "dutch": "Geïnstalleerd",
+      "english": "Installed",
+      "french": "Installé",
+      "german": "Installiert",
+      "japanese": "インストール済み",
+      "korean": "설치됨",
+      "mandarin": "已安装",
+      "portuguese": "Instalado",
+      "spanish": "Instalado",
+      "turkish": "Yüklendi"
+    },
     "external.no-wallets-found": {
       "dutch": "Geen portefeuilles gevonden",
       "english": "No wallets found",
@@ -131,6 +213,18 @@
       "portuguese": "Nenhuma carteira encontrada",
       "spanish": "No se encontraron billeteras",
       "turkish": "Cüzdan bulunamadı"
+    },
+    "external.search-wallet": {
+      "dutch": "Zoeken door {{count}} portemonnees...",
+      "english": "Search through {{count}} wallets...",
+      "french": "Rechercher parmi {{count}} portefeuilles...",
+      "german": "Suche durch {{count}} Geldbörsen...",
+      "japanese": "{{count}} ウォレットを検索...",
+      "korean": "{{count}} 지갑 검색...",
+      "mandarin": "搜索{{count}}个钱包...",
+      "portuguese": "Pesquisar através de {{count}} carteiras...",
+      "spanish": "Buscar a través de {{count}} billeteras...",
+      "turkish": "{{count}} cüzdan ara..."
     },
     "external.title": {
       "dutch": "Externe portemonnee",
