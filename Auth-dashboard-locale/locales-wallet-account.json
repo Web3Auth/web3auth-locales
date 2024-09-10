@@ -143,6 +143,17 @@
       "portuguese": "Ativar biometria",
       "spanish": "Habilitar la biometría"
     },
+    "auth-factors-enable-webauthn": {
+      "dutch": "Schakel WebAuthn delen in",
+      "english": "Enable WebAuthn Share",
+      "french": "Activer le partage WebAuthn",
+      "german": "Aktivieren Sie die WebAuthn-Freigabe",
+      "japanese": "WebAuthn 共有を有効にする",
+      "korean": "WebAuthn 공유 활성화",
+      "mandarin": "启用 WebAuthn 共享",
+      "portuguese": "Habilitar compartilhamento WebAuthn",
+      "spanish": "Habilitar WebAuthn Compartir"
+    },
     "auth-factors-network": {
       "dutch": "Sociale logins via Torus-nodes",
       "english": "Social logins via Torus nodes",
@@ -208,6 +219,28 @@
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación"
+    },
+    "auth-factors-device-view": {
+      "dutch": "Bekijk Apparaat delen",
+      "english": "View Device Share",
+      "french": "Afficher le partage d'appareil",
+      "german": "Gerätefreigabe anzeigen",
+      "japanese": "デバイス共有の表示",
+      "korean": "장치 공유 보기",
+      "mandarin": "查看设备共享",
+      "portuguese": "Ver compartilhamento de dispositivos",
+      "spanish": "Ver dispositivo compartido"
+    },
+    "auth-factors-device-delete": {
+      "dutch": "Apparaat delen verwijderen",
+      "english": "Delete Device Share",
+      "french": "Supprimer le partage d'appareil",
+      "german": "Gerätefreigabe löschen",
+      "japanese": "デバイス共有の削除",
+      "korean": "장치 공유 삭제",
+      "mandarin": "删除设备共享",
+      "portuguese": "Excluir compartilhamento de dispositivo",
+      "spanish": "Eliminar dispositivo compartido"
     },
     "auth-factors-subtitle": {
       "dutch": "Lijst van authenticatiefactoren",
