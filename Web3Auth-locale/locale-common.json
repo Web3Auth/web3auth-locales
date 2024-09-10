@@ -49,28 +49,28 @@
       "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-invalid-number": {
-      "english":	"Invalid Phone Number",
-      "german":	"Ungültige Telefonnummer",
-      "japanese":	"無効な電話番号",
-      "korean":	"잘못된 전화번호",
-      "mandarin":	"电话号码无效",
-      "spanish":	"Número de teléfono no válido",
-      "portuguese":	"Número de telefone inválido",
-      "dutch":	"Ongeldig telefoonnummer",
-      "french":	"Numéro de téléphone invalide",
-      "turkish":	"Geçersiz Telefon Numarası"
+      "english": "Invalid Phone Number",
+      "german": "Ungültige Telefonnummer",
+      "japanese": "無効な電話番号",
+      "korean": "잘못된 전화번호",
+      "mandarin": "电话号码无效",
+      "spanish": "Número de teléfono no válido",
+      "portuguese": "Número de telefone inválido",
+      "dutch": "Ongeldig telefoonnummer",
+      "french": "Numéro de téléphone invalide",
+      "turkish": "Geçersiz Telefon Numarası"
     },
     "errors-invalid-email": {
-      "english":	"Invalid Email",
-      "german":	"Ungültige E-Mail",
-      "japanese":	"無効な電子メール",
-      "korean":	"잘못된 이메일",
-      "mandarin":	"无效的电子邮件",
-      "spanish":	"Correo electrónico no válido",
-      "portuguese":	"E-mail inválido",
-      "dutch":	"Ongeldig e-mailadres",
-      "french":	"E-mail invalide",
-      "turkish":	"Geçersiz E-posta"
+      "english": "Invalid Email",
+      "german": "Ungültige E-Mail",
+      "japanese": "無効な電子メール",
+      "korean": "잘못된 이메일",
+      "mandarin": "无效的电子邮件",
+      "spanish": "Correo electrónico no válido",
+      "portuguese": "E-mail inválido",
+      "dutch": "Ongeldig e-mailadres",
+      "french": "E-mail invalide",
+      "turkish": "Geçersiz E-posta"
     },
     "errors-required": {
       "dutch": "Vereist",
@@ -97,16 +97,16 @@
       "turkish": "Geri"
     },
     "external.connect": {
-      "dutch": "Verbinden met portemonnee",
-      "english": "Connect with Wallet",
-      "french": "Se connecter avec un portefeuille",
-      "german": "Mit Wallet verbinden",
-      "japanese": "ウォレットと接続",
-      "korean": "지갑에 연결",
-      "mandarin": "使用钱包连接",
-      "portuguese": "Conectar com carteira",
-      "spanish": "Conectar con la billetera",
-      "turkish": "Cüzdan ile Bağlan"
+      "english": "Continue with a wallet",
+      "dutch": "Ga verder met een portemonnee",
+      "french": "Continuer avec un portefeuille",
+      "german": "Fahren Sie mit einer Brieftasche fort",
+      "japanese": "ウォレットを続ける",
+      "korean": "지갑으로 계속하기",
+      "mandarin": "继续使用钱包",
+      "portuguese": "Continuar com uma carteira",
+      "spanish": "Continuar con una billetera",
+      "turkish": "Cüzdanla devam et"
     },
     "external.connect-wallet": {
       "dutch": "Verbinden met portemonnee",
