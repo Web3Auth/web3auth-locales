@@ -1,4 +1,162 @@
 {
+  "account": {
+    "auth-factors-password-confirm": {
+      "dutch": "Voer uw wachtwoord opnieuw in",
+      "english": "Re-enter your password",
+      "french": "Re-entrez votre mot de passe",
+      "german": "Wiederhole die Eingabe deines Passwortes",
+      "japanese": "パスワードを再入力してください",
+      "korean": "비밀번호 재 입력",
+      "mandarin": "重新输入密码",
+      "portuguese": "Redigite sua senha",
+      "spanish": "reingresa tu contraseña",
+      "turkish": "Şifrenizi yeniden girin"
+    },
+    "auth-factors-password-set": {
+      "dutch": "Stel je wachtwoord in",
+      "english": "Set your password",
+      "french": "Définissez votre mot de passe",
+      "german": "Lege ein Passwort fest",
+      "japanese": "パスワードを作る",
+      "korean": "비밀번호를 설정하세요",
+      "mandarin": "设置你的密码",
+      "portuguese": "Coloque sua senha",
+      "spanish": "Establece tu contraseña",
+      "turkish": "Şifrenizi belirleyin"
+    },
+    "mpc-auth-factors-recovery-phrase": {
+      "dutch": "Herstelfactor",
+      "english": "Recovery factor",
+      "french": "Facteur de récupération",
+      "german": "Erholungsfaktor",
+      "japanese": "回収率",
+      "korean": "회복 계수",
+      "mandarin": "恢复系数",
+      "portuguese": "Fator de recuperação",
+      "spanish": "Factor de recuperación",
+      "turkish": "Kurtarma faktörü"
+    },
+    "password-requirement": {
+      "dutch": "Wachtwoordvereisten:",
+      "english": "Password requirements:",
+      "french": "Exigences relatives au mot de passe :",
+      "german": "Passwortanforderungen:",
+      "japanese": "パスワード要件:",
+      "korean": "암호 요구 사항:",
+      "mandarin": "密码要求：",
+      "portuguese": "Requisitos de senha:",
+      "spanish": "Requisitos de la contraseña:",
+      "turkish": "Şifre gereksinimleri:"
+    },
+    "password-requirement-10-char": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
+      "english": "At least 10 characters (and up to 100 characters)",
+      "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
+      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
+      "japanese": "少なくとも 10 文字 (最大 100 文字)",
+      "korean": "최소 10 자 (최대 100 자)",
+      "mandarin": "至少 10 个字符（最多 100 个字符）",
+      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
+      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)",
+      "turkish": "En az 10 karakter (ve en fazla 100 karakter)"
+    },
+    "password-requirement-10-char2": {
+      "dutch": "Minimaal 10 tekens lang",
+      "english": "Minimum 10 characters long",
+      "french": "Minimum 10 caractères",
+      "german": "Mindestens 10 Zeichen lang",
+      "japanese": "最低 10 文字の長さ",
+      "korean": "최소 10자 길이",
+      "mandarin": "长度至少 10 个字符",
+      "portuguese": "Mínimo de 10 caracteres",
+      "spanish": "Mínimo 10 caracteres",
+      "turkish": "Minimum 10 karakter uzunluğunda"
+    },
+    "password-requirement-desc": {
+      "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
+      "english": "Ensure that these requirements are met:",
+      "french": "Assurez-vous que ces exigences sont respectées :",
+      "german": "Stellen Sie sicher, dass diese Anforderungen erfüllt sind:",
+      "japanese": "次の要件が満たされていることを確認します。",
+      "korean": "다음 요구 사항이 충족되는지 확인하십시오.",
+      "mandarin": "确保满足这些要求：",
+      "portuguese": "Certifique-se de que estes requisitos sejam atendidos:",
+      "spanish": "Asegúrese de que se cumplan estos requisitos:",
+      "turkish": "Bu gerekliliklerin karşılandığından emin olun:"
+    },
+    "password-requirement-lowercase": {
+      "dutch": "Minstens één kleine letter vereist",
+      "english": "At least one lowercase character",
+      "french": "Au moins un caractère en minuscule",
+      "german": "Mindestens ein Kleinbuchstabe",
+      "japanese": "少なくとも 1 つの小文字",
+      "korean": "하나 이상의 소문자",
+      "mandarin": "至少一个小写字符",
+      "portuguese": "Pelo menos um caractere minúsculo",
+      "spanish": "Al menos un carácter en minúscula",
+      "turkish": "En az bir küçük harf"
+    },
+    "password-requirement-specialchar": {
+      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
+      "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
+      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
+      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
+      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
+      "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
+      "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
+      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
+      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}",
+      "turkish": "En az bir özel karakterin dahil edilmesi, örneğin, {'! @ # ?'}"
+    },
+    "password-requirement-specialchar2": {
+      "dutch": "Ten minste één van deze speciale tekens bevatten{'(!@#?)'}",
+      "english": "Contain at least one of these special characters{'(!@#?)'}",
+      "french": "Contenir au moins un de ces caractères spéciaux {'(!@#?)'}",
+      "german": "Enthalten mindestens eines dieser Sonderzeichen {'(!@#?)'}",
+      "japanese": "これらの特殊文字 {'(!@#?)'} を少なくとも 1 つ含む",
+      "korean": "다음 특수 문자{'(!@#?)'} 중 하나 이상을 포함하십시오.",
+      "mandarin": "至少包含以下特殊字符之一{'(!@#?)'}",
+      "portuguese": "Contém pelo menos um destes caracteres especiais {'(!@#?)'}",
+      "spanish": "Contener al menos uno de estos caracteres especiales{'(!@#?)'}",
+      "turkish": "Bu özel karakterlerden en az birini içerir{'(!@#?)'}"
+    },
+    "password-requirement-upercase": {
+      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
+      "english": "At least one uppercase character",
+      "french": "Au moins un caractère en majuscule",
+      "german": "Mindestens ein Großbuchstabe",
+      "japanese": "少なくとも 1 つの大文字",
+      "korean": "하나 이상의 대문자",
+      "mandarin": "至少一个大写字符",
+      "portuguese": "Pelo menos um caractere maiúsculo",
+      "spanish": "Al menos un carácter en mayúscula",
+      "turkish": "En az bir büyük harf"
+    },
+    "password-requirement-upperlowercase": {
+      "dutch": "Gebruik zowel hoofdletters als kleine letters",
+      "english": "Include both uppercase and lowercase letters",
+      "french": "Inclure les lettres majuscules et minuscules",
+      "german": "Geben Sie sowohl Groß- als auch Kleinbuchstaben an",
+      "japanese": "大文字と小文字の両方を含める",
+      "korean": "대문자와 소문자를 모두 포함하세요.",
+      "mandarin": "包括大写和小写字母",
+      "portuguese": "Incluir letras maiúsculas e minúsculas",
+      "spanish": "Incluir letras mayúsculas y minúsculas",
+      "turkish": "Hem büyük hem de küçük harfleri dahil edin"
+    },
+    "password-requirement2": {
+      "dutch": "Minimale wachtwoordvereisten:",
+      "english": "Password minimum requirements:",
+      "french": "Exigences minimales du mot de passe :",
+      "german": "Mindestanforderungen an das Passwort:",
+      "japanese": "パスワードの最小要件:",
+      "korean": "비밀번호 최소 요구 사항:",
+      "mandarin": "密码最低要求：",
+      "portuguese": "Requisitos mínimos de senha:",
+      "spanish": "Requisitos mínimos de contraseña:",
+      "turkish": "Minimum şifre gereksinimleri:"
+    }
+  },
   "common": {
     "advanced-options": {
       "dutch": "Geavanceerde opties",
@@ -11,6 +169,30 @@
       "portuguese": "Opções avançadas",
       "spanish": "Opciones avanzadas",
       "turkish": "Gelişmiş Ayarlar"
+    },
+    "authenticatorFactor": {
+      "dutch": "Authenticator-app",
+      "english": "Authenticator App",
+      "french": "Application d'authentification",
+      "german": "Authentifizierungs-App",
+      "japanese": "認証アプリ",
+      "korean": "인증자 앱",
+      "mandarin": "验证器应用程序",
+      "portuguese": "Aplicativo autenticador",
+      "spanish": "Aplicación de autenticación",
+      "turkish": "Kimlik Doğrulayıcı Uygulaması"
+    },
+    "authenticatorFactorDesc": {
+      "dutch": "Ontvang codes van Authy, 1Password, Microsoft, Authenticator of Google authenticator",
+      "english": "Get codes from Authy, 1Password, Microsoft, Authenticator or Google authenticator",
+      "french": "Obtenez des codes d'Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
+      "german": "Holen Sie sich Codes von Authy, 1Password, Microsoft, Authenticator oder Google Authenticator",
+      "japanese": "Authy、1Password、Microsoft、Authenticator、または Google Authenticator からコードを取得します",
+      "korean": "Authy, 1Password, Microsoft, Authenticator 또는 Google 인증기에서 코드 받기",
+      "mandarin": "从 Authy、1Password、Microsoft、Authenticator 或 Google 身份验证器获取代码",
+      "portuguese": "Obtenha códigos do Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
+      "spanish": "Obtenga códigos de Authy, 1Password, Microsoft, Authenticator o Google Authenticator",
+      "turkish": "Authy, 1Password, Microsoft, Authenticator veya Google Authenticator'dan kod alın"
     },
     "back": {
       "dutch": "Terug",
@@ -47,6 +229,18 @@
       "portuguese": "Confirmar",
       "spanish": "Confirmar",
       "turkish": "Onayla"
+    },
+    "continue": {
+      "dutch": "Doorgaan",
+      "english": "Continue",
+      "french": "Continuer",
+      "german": "Weitermachen",
+      "japanese": "続く",
+      "korean": "계속하다",
+      "mandarin": "继续",
+      "portuguese": "Continuar",
+      "spanish": "Continuar",
+      "turkish": "Devam etmek"
     },
     "copier-copied": {
       "dutch": "Gekopieerd!",
@@ -144,6 +338,18 @@
       "spanish": "Hecho",
       "turkish": "Bitti"
     },
+    "donNotSave": {
+      "dutch": "Bewaar niet",
+      "english": "Do not save",
+      "french": "Ne pas enregistrer",
+      "german": "Rette nicht",
+      "japanese": "保存しない",
+      "korean": "저장하지 마십시오",
+      "mandarin": "不要保存",
+      "portuguese": "Não salve",
+      "spanish": "No guarde",
+      "turkish": "Kaydetme"
+    },
     "edit-email": {
       "dutch": "Wijzig email",
       "english": "Edit email",
@@ -155,6 +361,42 @@
       "portuguese": "Editar e-mail",
       "spanish": "Editar correo electrónico",
       "turkish": "E-postayı düzenle"
+    },
+    "enabled": {
+      "dutch": "Ingeschakeld",
+      "english": "Enabled",
+      "french": "Activé",
+      "german": "Ermöglicht",
+      "japanese": "有効",
+      "korean": "활성화됨",
+      "mandarin": "启用",
+      "portuguese": "Habilitado",
+      "spanish": "Activado",
+      "turkish": "Etkinleştirilmiş"
+    },
+    "error-something-wrong-error": {
+      "dutch": "Er is iets misgegaan",
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다.",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal",
+      "turkish": "Bir şeyler ters gitti"
+    },
+    "error-too-many-attempts": {
+      "dutch": "Te veel verzoeken, probeer het later opnieuw",
+      "english": "Too many requests, try again after some time",
+      "french": "Trop de demandes, réessayez plus tard",
+      "german": "Zu viele Anfragen, versuchen Sie es später erneut",
+      "japanese": "リクエストが多すぎます。しばらくしてからもう一度やり直してください",
+      "korean": "요청이 너무 많습니다. 시간이 지난 후 다시 시도하십시오",
+      "mandarin": "请求太多，请稍后重试",
+      "portuguese": "Muitas solicitações, tente novamente depois de algum tempo",
+      "spanish": "Demasiadas solicitudes, inténtelo de nuevo después de un tiempo",
+      "turkish": "Çok fazla istek, bir süre sonra tekrar deneyin"
     },
     "errors-incorrect-password": {
       "dutch": "Onjuist wachtwoord",
@@ -204,29 +446,53 @@
       "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social",
       "turkish": "E-posta, sosyal medya giriş kimliği ile aynı olamaz"
     },
-    "error-something-wrong-error": {
-      "dutch": "Er is iets misgegaan",
-      "english": "Something went wrong",
-      "french": "Quelque chose s'est mal passé",
-      "german": "Etwas ist schief gelaufen",
-      "japanese": "何かがうまくいかなかった",
-      "korean": "문제가 발생했습니다.",
-      "mandarin": "出问题了",
-      "portuguese": "Algo deu errado",
-      "spanish": "Algo salió mal",
-      "turkish": "Bir şeyler ters gitti"
+    "factorListDesc": {
+      "dutch": "Als ongeautoriseerde accounttoegang wordt vermoed, moet u verifiëren met deze authenticatiemethode.",
+      "english": "If unauthorized account access is suspected, you'll need to verify using this authentication method.",
+      "french": "Si un accès non autorisé au compte est suspecté, vous devrez vérifier à l'aide de cette méthode d'authentification.",
+      "german": "Bei Verdacht auf unbefugten Kontozugriff müssen Sie die Verifizierung mit dieser Authentifizierungsmethode durchführen.",
+      "japanese": "不正なアカウント アクセスが疑われる場合は、この認証方法を使用して確認する必要があります。",
+      "korean": "무단 계정 액세스가 의심되는 경우 이 인증 방법을 사용하여 확인해야 합니다.",
+      "mandarin": "如果怀疑有未经授权的帐户访问，您需要使用此身份验证方法进行验证。",
+      "portuguese": "Se houver suspeita de acesso não autorizado à conta, você precisará verificar usando este método de autenticação.",
+      "spanish": "Si se sospecha un acceso no autorizado a la cuenta, deberá verificarla utilizando este método de autenticación.",
+      "turkish": "Hesaba yetkisiz erişimden şüpheleniliyorsa, bu kimlik doğrulama yöntemini kullanarak doğrulama yapmanız gerekir."
     },
-    "error-too-many-attempts": {
-      "dutch": "Te veel verzoeken, probeer het later opnieuw",
-      "english": "Too many requests, try again after some time",
-      "french": "Trop de demandes, réessayez plus tard",
-      "german": "Zu viele Anfragen, versuchen Sie es später erneut",
-      "japanese": "リクエストが多すぎます。しばらくしてからもう一度やり直してください",
-      "korean": "요청이 너무 많습니다. 시간이 지난 후 다시 시도하십시오",
-      "mandarin": "请求太多，请稍后重试",
-      "portuguese": "Muitas solicitações, tente novamente depois de algum tempo",
-      "spanish": "Demasiadas solicitudes, inténtelo de nuevo después de un tiempo",
-      "turkish": "Çok fazla istek, bir süre sonra tekrar deneyin"
+    "factorListSetup": {
+      "dutch": "Aanvullende methoden instellen",
+      "english": "Setup additional methods",
+      "french": "Configurer des méthodes supplémentaires",
+      "german": "Richten Sie zusätzliche Methoden ein",
+      "japanese": "追加のメソッドをセットアップする",
+      "korean": "추가 방법 설정",
+      "mandarin": "设置附加方法",
+      "portuguese": "Configure métodos adicionais",
+      "spanish": "Configurar métodos adicionales",
+      "turkish": "Ek yöntemler ayarlayın"
+    },
+    "factorListTitle": {
+      "dutch": "Voeg een authenticatiemethode toe",
+      "english": "Add an authentication method",
+      "french": "Ajouter une méthode d'authentification",
+      "german": "Fügen Sie eine Authentifizierungsmethode hinzu",
+      "japanese": "認証方法を追加する",
+      "korean": "인증 방법 추가",
+      "mandarin": "添加身份验证方法",
+      "portuguese": "Adicione um método de autenticação",
+      "spanish": "Agregar un método de autenticación",
+      "turkish": "Kimlik doğrulama yöntemi ekleyin"
+    },
+    "finishSetup": {
+      "dutch": "Voltooi het instellen",
+      "english": "Finish set up",
+      "french": "Terminer la configuration",
+      "german": "Fertigstellen",
+      "japanese": "セットアップを完了する",
+      "korean": "설정 완료",
+      "mandarin": "完成设置",
+      "portuguese": "Concluir a configuração",
+      "spanish": "Terminar de configurar",
+      "turkish": "Kurulumu bitir"
     },
     "hide-options": {
       "dutch": "Opties verbergen",
@@ -276,42 +542,6 @@
       "spanish": "Nuevo dispositivo detectado",
       "turkish": "Yeni cihaz algılandı"
     },
-    "factorListTitle": {
-      "english": "Add an authentication method",
-      "german": "Fügen Sie eine Authentifizierungsmethode hinzu",
-      "japanese": "認証方法を追加する",
-      "korean": "인증 방법 추가",
-      "mandarin": "添加身份验证方法",
-      "spanish": "Agregar un método de autenticación",
-      "portuguese": "Adicione um método de autenticação",
-      "dutch": "Voeg een authenticatiemethode toe",
-      "french": "Ajouter une méthode d'authentification",
-      "turkish": "Kimlik doğrulama yöntemi ekleyin"
-    },
-    "factorListDesc": {
-      "english": "If unauthorized account access is suspected, you'll need to verify using this authentication method.",
-      "german": "Bei Verdacht auf unbefugten Kontozugriff müssen Sie die Verifizierung mit dieser Authentifizierungsmethode durchführen.",
-      "japanese": "不正なアカウント アクセスが疑われる場合は、この認証方法を使用して確認する必要があります。",
-      "korean": "무단 계정 액세스가 의심되는 경우 이 인증 방법을 사용하여 확인해야 합니다.",
-      "mandarin": "如果怀疑有未经授权的帐户访问，您需要使用此身份验证方法进行验证。",
-      "spanish": "Si se sospecha un acceso no autorizado a la cuenta, deberá verificarla utilizando este método de autenticación.",
-      "portuguese": "Se houver suspeita de acesso não autorizado à conta, você precisará verificar usando este método de autenticação.",
-      "dutch": "Als ongeautoriseerde accounttoegang wordt vermoed, moet u verifiëren met deze authenticatiemethode.",
-      "french": "Si un accès non autorisé au compte est suspecté, vous devrez vérifier à l'aide de cette méthode d'authentification.",
-      "turkish": "Hesaba yetkisiz erişimden şüpheleniliyorsa, bu kimlik doğrulama yöntemini kullanarak doğrulama yapmanız gerekir."
-    },
-    "factorListSetup": {
-      "english": "Setup additional methods",
-      "german": "Richten Sie zusätzliche Methoden ein",
-      "japanese": "追加のメソッドをセットアップする",
-      "korean": "추가 방법 설정",
-      "mandarin": "设置附加方法",
-      "spanish": "Configurar métodos adicionales",
-      "portuguese": "Configure métodos adicionais",
-      "dutch": "Aanvullende methoden instellen",
-      "french": "Configurer des méthodes supplémentaires",
-      "turkish": "Ek yöntemler ayarlayın"
-    },
     "next": {
       "dutch": "Volgende",
       "english": "Next",
@@ -360,6 +590,30 @@
       "spanish": "Ingresa tu contraseña",
       "turkish": "Şifrenizi girin"
     },
+    "passwordFactor": {
+      "dutch": "Wachtwoord",
+      "english": "Password",
+      "french": "Mot de passe",
+      "german": "Passwort",
+      "japanese": "パスワード",
+      "korean": "비밀번호",
+      "mandarin": "密码",
+      "portuguese": "Senha",
+      "spanish": "Contraseña",
+      "turkish": "Şifre"
+    },
+    "passwordFactorDesc": {
+      "dutch": "Stel een uniek wachtwoord in om uw account te beschermen",
+      "english": "Set a unique password to protect your account",
+      "french": "Définissez un mot de passe unique pour protéger votre compte",
+      "german": "Legen Sie ein einzigartiges Passwort fest, um Ihr Konto zu schützen",
+      "japanese": "アカウントを保護するために固有のパスワードを設定します",
+      "korean": "계정을 보호하려면 고유한 비밀번호를 설정하세요.",
+      "mandarin": "设置唯一的密码来保护您的帐户",
+      "portuguese": "Defina uma senha exclusiva para proteger sua conta",
+      "spanish": "Establezca una contraseña única para proteger su cuenta",
+      "turkish": "Hesabınızı korumak için benzersiz bir şifre belirleyin"
+    },
     "phone": {
       "dutch": "Telefoon",
       "english": "Phone",
@@ -373,16 +627,76 @@
       "turkish": "Telefon"
     },
     "phone-number": {
+      "dutch": "Telefoonnummer",
       "english": "Phone Number",
+      "french": "Numéro de téléphone",
       "german": "Telefonnummer",
       "japanese": "電話番号",
       "korean": "전화 번호",
       "mandarin": "电话号码",
-      "spanish": "Número de teléfono",
       "portuguese": "Número de telefone",
-      "dutch": "Telefoonnummer",
-      "french": "Numéro de téléphone",
+      "spanish": "Número de teléfono",
       "turkish": "Telefon Numarası"
+    },
+    "recoveryPhrase": {
+      "dutch": "Herstelzin",
+      "english": "Recovery Phrase",
+      "french": "Phrase de récupération",
+      "german": "Wiederherstellungssatz",
+      "japanese": "リカバリーフレーズ",
+      "korean": "회복 문구",
+      "mandarin": "恢复短语",
+      "portuguese": "Frase de Recuperação",
+      "spanish": "Frase de recuperación",
+      "turkish": "Kurtarma İfadesi"
+    },
+    "recoveryPhraseDesc": {
+      "dutch": "Ontvang een herstelzin van 12 woorden via e-mail",
+      "english": "Get a 12 word recovery phrase via email",
+      "french": "Recevez une phrase de récupération de 12 mots par e-mail",
+      "german": "Erhalten Sie per E-Mail einen Wiederherstellungssatz mit 12 Wörtern",
+      "japanese": "12単語のリカバリフレーズをメールで入手",
+      "korean": "이메일을 통해 12단어 복구 문구 받기",
+      "mandarin": "通过电子邮件获取 12 个字的恢复短语",
+      "portuguese": "Receba uma frase de recuperação de 12 palavras por e-mail",
+      "spanish": "Recibe una frase de recuperación de 12 palabras por correo electrónico",
+      "turkish": "E-posta yoluyla 12 kelimelik bir kurtarma ifadesi alın"
+    },
+    "recoveryPhraseDescCopied": {
+      "dutch": "Handmatig gekopieerd",
+      "english": "Manually Copied",
+      "french": "Copié manuellement",
+      "german": "Manuell kopiert",
+      "japanese": "手動でコピーされました",
+      "korean": "수동으로 복사됨",
+      "mandarin": "手动复制",
+      "portuguese": "Copiado manualmente",
+      "spanish": "Copiado manualmente",
+      "turkish": "Manuel Olarak Kopyalandı"
+    },
+    "recoveryPhraseDescDownloaded": {
+      "dutch": "Handmatig gedownload",
+      "english": "Manually Downloaded",
+      "french": "Téléchargé manuellement",
+      "german": "Manuell heruntergeladen",
+      "japanese": "手動でダウンロード",
+      "korean": "수동으로 다운로드됨",
+      "mandarin": "手动下载",
+      "portuguese": "Baixado manualmente",
+      "spanish": "Descargado manualmente",
+      "turkish": "Manuel Olarak İndirildi"
+    },
+    "recoveryPhraseDescEmailed": {
+      "dutch": "Gemaild naar {0}",
+      "english": "Emailed to {0}",
+      "french": "Envoyé par e-mail à {0}",
+      "german": "Per E-Mail an {0} gesendet",
+      "japanese": "{0} にメール送信しました",
+      "korean": "{0}(으)로 이메일을 보냈습니다.",
+      "mandarin": "已通过电子邮件发送至 {0}",
+      "portuguese": "Enviado por e-mail para {0}",
+      "spanish": "Enviado por correo electrónico a {0}",
+      "turkish": "{0} adresine e-postayla gönderildi"
     },
     "referenceId": {
       "dutch": "Referentie-ID:",
@@ -396,6 +710,18 @@
       "spanish": "Identificación de referencia:",
       "turkish": "Referans kimliği:"
     },
+    "required": {
+      "dutch": "Vereist",
+      "english": "Required",
+      "french": "Requis",
+      "german": "Erforderlich",
+      "japanese": "必須",
+      "korean": "필수의",
+      "mandarin": "必需的",
+      "portuguese": "Obrigatório",
+      "spanish": "Requerido",
+      "turkish": "Gerekli"
+    },
     "resend-recovery": {
       "dutch": "Herstelfactor opnieuw verzenden",
       "english": "Resend Recovery Factor",
@@ -407,6 +733,42 @@
       "portuguese": "Reenviar Fator de Recuperação",
       "spanish": "Reenviar Factor de recuperación",
       "turkish": "Kurtarma Faktörünü yeniden gönder"
+    },
+    "saveDeviceDesc": {
+      "dutch": "Als u dit apparaat opslaat, wordt u de volgende keer dat u zich aanmeldt niet om verificatie gevraagd",
+      "english": "You will not be asked to verify the next time you sign in if you save this device",
+      "french": "Il ne vous sera pas demandé de vérifier la prochaine fois que vous vous connecterez si vous enregistrez cet appareil",
+      "german": "Wenn Sie dieses Gerät speichern, werden Sie bei der nächsten Anmeldung nicht zur Bestätigung aufgefordert",
+      "japanese": "このデバイスを保存すると、次回サインインするときに確認を求められなくなります",
+      "korean": "이 기기를 저장하면 다음에 로그인할 때 인증하라는 메시지가 표시되지 않습니다.",
+      "mandarin": "如果您保存此设备，下次登录时将不会要求您进行验证",
+      "portuguese": "Você não será solicitado a verificar na próxima vez que fizer login se salvar este dispositivo",
+      "spanish": "No se le pedirá que verifique la próxima vez que inicie sesión si guarda este dispositivo",
+      "turkish": "Bu cihazı kaydederseniz bir sonraki oturum açışınızda doğrulamanız istenmeyecektir."
+    },
+    "saveThisDevice": {
+      "dutch": "Dit apparaat opslaan",
+      "english": "Save this device",
+      "french": "Enregistrer cet appareil ",
+      "german": "Dieses Gerät speichern",
+      "japanese": "このデバイスを保存しますか",
+      "korean": "이 기기를 저장하시겠습니까",
+      "mandarin": "保存该设备吗",
+      "portuguese": "Salvar este dispositivo",
+      "spanish": "¿Guardar este dispositivo",
+      "turkish": "Bu cihaz kaydedilsin mi"
+    },
+    "self-custody-via": {
+      "dutch": "Zelfkusten via",
+      "english": "Self-custody via",
+      "french": "Auto-cuir via",
+      "german": "Selbstversorgung über",
+      "japanese": "経由の自立",
+      "korean": "자해를 통해",
+      "mandarin": "自我castody通过",
+      "portuguese": "Autoconfiança via",
+      "spanish": "Autocustodia a través de",
+      "turkish": "Kendi kendine velayet"
     },
     "selfCustodial": {
       "dutch": "Zelfbewarend inloggen door",
@@ -420,17 +782,17 @@
       "spanish": "Inicio de sesión auto-custodiado por",
       "turkish": "Öz-yönetimli giriş yapan"
     },
-    "self-custody-via": {
-      "english": "Self-custody via",
-      "german": "Selbstversorgung über",
-      "japanese": "経由の自立",
-      "korean": "자해를 통해",
-      "mandarin": "自我castody通过",
-      "spanish": "Autocustodia a través de",
-      "portuguese": "Autoconfiança via",
-      "dutch": "Zelfkusten via",
-      "french": "Auto-cuir via",
-      "turkish": "Kendi kendine velayet"
+    "setupLater": {
+      "dutch": "Later instellen",
+      "english": "Set up later",
+      "french": "Configurer plus tard",
+      "german": "Später einrichten",
+      "japanese": "後で設定する",
+      "korean": "나중에 설정하세요",
+      "mandarin": "稍后设置",
+      "portuguese": "Configurar mais tarde",
+      "spanish": "Configurar más tarde",
+      "turkish": "Daha sonra kur"
     },
     "social": {
       "dutch": "Sociaal",
@@ -456,30 +818,6 @@
       "spanish": "Factor social",
       "turkish": "Sosyal Medya Faktörü"
     },
-    "socialPasswordlessFactor": {
-      "english": "SMS OTP/Social",
-      "german": "SMS OTP/Soziale Netzwerke",
-      "japanese": "SMS OTP/ソーシャル",
-      "korean": "SMS OTP/소셜",
-      "mandarin": "SMS OTP/社交",
-      "spanish": "SMS OTP/Social",
-      "portuguese": "SMS OTP/Redes sociais",
-      "dutch": "SMS OTP/Sociaal",
-      "french": "SMS OTP/Réseaux sociaux",
-      "turkish": "SMS OTP/Sosyal"
-    },
-    "socialPasswordlessFactorDesc": {
-      "english": "Receive a unique code via SMS or use another social credential to login as a backup",
-      "german": "Erhalten Sie einen eindeutigen Code per SMS oder verwenden Sie einen anderen Social-Media-Zugangsdatensatz, um sich als Backup anzumelden",
-      "japanese": "SMS 経由で一意のコードを受信するか、別のソーシャル認証情報を使用してバックアップとしてログインします",
-      "korean": "SMS를 통해 고유 코드를 받거나 다른 소셜 자격 증명을 사용하여 백업으로 로그인하세요.",
-      "mandarin": "通过SMS接收唯一代码或使用其他社交凭据作为备份登录",
-      "spanish": "Reciba un código único a través de SMS o utilice otra credencial social para iniciar sesión como respaldo",
-      "portuguese": "Receba um código exclusivo via SMS ou use outra credencial social para fazer login como backup",
-      "dutch": "Ontvang een unieke code via SMS of gebruik een andere sociale inloggegevens om in te loggen als back-up",
-      "french": "Recevez un code unique via SMS ou utilisez un autre identifiant social pour vous connecter en tant que sauvegarde",
-      "turkish": "SMS aracılığıyla benzersiz bir kod alın veya yedek olarak oturum açmak için başka bir sosyal kimlik bilgisi kullanın"
-    },
     "socialLogin": {
       "dutch": "Sociale login",
       "english": "Social login",
@@ -491,6 +829,30 @@
       "portuguese": "Login social",
       "spanish": "Inicio de sesión social",
       "turkish": "Sosyal Medya Girişi"
+    },
+    "socialPasswordlessFactor": {
+      "dutch": "SMS OTP/Sociaal",
+      "english": "SMS OTP/Social",
+      "french": "SMS OTP/Réseaux sociaux",
+      "german": "SMS OTP/Soziale Netzwerke",
+      "japanese": "SMS OTP/ソーシャル",
+      "korean": "SMS OTP/소셜",
+      "mandarin": "SMS OTP/社交",
+      "portuguese": "SMS OTP/Redes sociais",
+      "spanish": "SMS OTP/Social",
+      "turkish": "SMS OTP/Sosyal"
+    },
+    "socialPasswordlessFactorDesc": {
+      "dutch": "Ontvang een unieke code via SMS of gebruik een andere sociale inloggegevens om in te loggen als back-up",
+      "english": "Receive a unique code via SMS or use another social credential to login as a backup",
+      "french": "Recevez un code unique via SMS ou utilisez un autre identifiant social pour vous connecter en tant que sauvegarde",
+      "german": "Erhalten Sie einen eindeutigen Code per SMS oder verwenden Sie einen anderen Social-Media-Zugangsdatensatz, um sich als Backup anzumelden",
+      "japanese": "SMS 経由で一意のコードを受信するか、別のソーシャル認証情報を使用してバックアップとしてログインします",
+      "korean": "SMS를 통해 고유 코드를 받거나 다른 소셜 자격 증명을 사용하여 백업으로 로그인하세요.",
+      "mandarin": "通过SMS接收唯一代码或使用其他社交凭据作为备份登录",
+      "portuguese": "Receba um código exclusivo via SMS ou use outra credencial social para fazer login como backup",
+      "spanish": "Reciba un código único a través de SMS o utilice otra credencial social para iniciar sesión como respaldo",
+      "turkish": "SMS aracılığıyla benzersiz bir kod alın veya yedek olarak oturum açmak için başka bir sosyal kimlik bilgisi kullanın"
     },
     "toast-backup-share-verification-fail": {
       "dutch": "Verificatie van gedeelde back-up is mislukt",
@@ -587,210 +949,6 @@
       "portuguese": "Verifique com outros fatores",
       "spanish": "Verificar con otros factores",
       "turkish": "Başka faktörler ile doğrula"
-    },
-    "donNotSave": {
-      "english": "Do not save",
-      "german": "Rette nicht",
-      "japanese": "保存しない",
-      "korean": "저장하지 마십시오",
-      "mandarin": "不要保存",
-      "spanish": "No guarde",
-      "portuguese": "Não salve",
-      "dutch": "Bewaar niet",
-      "french": "Ne pas enregistrer",
-      "turkish": "Kaydetme"
-    },
-    "saveThisDevice": {
-      "english": "Save this device",
-      "german": "Dieses Gerät speichern",
-      "japanese": "このデバイスを保存しますか",
-      "korean": "이 기기를 저장하시겠습니까",
-      "mandarin": "保存该设备吗",
-      "spanish": "¿Guardar este dispositivo",
-      "portuguese": "Salvar este dispositivo",
-      "dutch": "Dit apparaat opslaan",
-      "french": "Enregistrer cet appareil ",
-      "turkish": "Bu cihaz kaydedilsin mi"
-    },
-    "saveDeviceDesc": {
-      "english": "You will not be asked to verify the next time you sign in if you save this device",
-      "german": "Wenn Sie dieses Gerät speichern, werden Sie bei der nächsten Anmeldung nicht zur Bestätigung aufgefordert",
-      "japanese": "このデバイスを保存すると、次回サインインするときに確認を求められなくなります",
-      "korean": "이 기기를 저장하면 다음에 로그인할 때 인증하라는 메시지가 표시되지 않습니다.",
-      "mandarin": "如果您保存此设备，下次登录时将不会要求您进行验证",
-      "spanish": "No se le pedirá que verifique la próxima vez que inicie sesión si guarda este dispositivo",
-      "portuguese": "Você não será solicitado a verificar na próxima vez que fizer login se salvar este dispositivo",
-      "dutch": "Als u dit apparaat opslaat, wordt u de volgende keer dat u zich aanmeldt niet om verificatie gevraagd",
-      "french": "Il ne vous sera pas demandé de vérifier la prochaine fois que vous vous connecterez si vous enregistrez cet appareil",
-      "turkish": "Bu cihazı kaydederseniz bir sonraki oturum açışınızda doğrulamanız istenmeyecektir."
-    },
-    "recoveryPhrase": {
-      "english": "Recovery Phrase",
-      "german": "Wiederherstellungssatz",
-      "japanese": "リカバリーフレーズ",
-      "korean": "회복 문구",
-      "mandarin": "恢复短语",
-      "spanish": "Frase de recuperación",
-      "portuguese": "Frase de Recuperação",
-      "dutch": "Herstelzin",
-      "french": "Phrase de récupération",
-      "turkish": "Kurtarma İfadesi"
-    },
-    "recoveryPhraseDesc": {
-      "english": "Get a 12 word recovery phrase via email",
-      "german": "Erhalten Sie per E-Mail einen Wiederherstellungssatz mit 12 Wörtern",
-      "japanese": "12単語のリカバリフレーズをメールで入手",
-      "korean": "이메일을 통해 12단어 복구 문구 받기",
-      "mandarin": "通过电子邮件获取 12 个字的恢复短语",
-      "spanish": "Recibe una frase de recuperación de 12 palabras por correo electrónico",
-      "portuguese": "Receba uma frase de recuperação de 12 palavras por e-mail",
-      "dutch": "Ontvang een herstelzin van 12 woorden via e-mail",
-      "french": "Recevez une phrase de récupération de 12 mots par e-mail",
-      "turkish": "E-posta yoluyla 12 kelimelik bir kurtarma ifadesi alın"
-    },
-    "recoveryPhraseDescCopied": {
-      "english": "Manually Copied",
-      "german": "Manuell kopiert",
-      "japanese": "手動でコピーされました",
-      "korean": "수동으로 복사됨",
-      "mandarin": "手动复制",
-      "spanish": "Copiado manualmente",
-      "portuguese": "Copiado manualmente",
-      "dutch": "Handmatig gekopieerd",
-      "french": "Copié manuellement",
-      "turkish": "Manuel Olarak Kopyalandı"
-    },
-    "recoveryPhraseDescDownloaded": {
-      "english": "Manually Downloaded",
-      "german": "Manuell heruntergeladen",
-      "japanese": "手動でダウンロード",
-      "korean": "수동으로 다운로드됨",
-      "mandarin": "手动下载",
-      "spanish": "Descargado manualmente",
-      "portuguese": "Baixado manualmente",
-      "dutch": "Handmatig gedownload",
-      "french": "Téléchargé manuellement",
-      "turkish": "Manuel Olarak İndirildi"
-    },
-    "recoveryPhraseDescEmailed": {
-      "english": "Emailed to {0}",
-      "german": "Per E-Mail an {0} gesendet",
-      "japanese": "{0} にメール送信しました",
-      "korean": "{0}(으)로 이메일을 보냈습니다.",
-      "mandarin": "已通过电子邮件发送至 {0}",
-      "spanish": "Enviado por correo electrónico a {0}",
-      "portuguese": "Enviado por e-mail para {0}",
-      "dutch": "Gemaild naar {0}",
-      "french": "Envoyé par e-mail à {0}",
-      "turkish": "{0} adresine e-postayla gönderildi"
-    },
-    "passwordFactor": {
-      "english": "Password",
-      "german": "Passwort",
-      "japanese": "パスワード",
-      "korean": "비밀번호",
-      "mandarin": "密码",
-      "spanish": "Contraseña",
-      "portuguese": "Senha",
-      "dutch": "Wachtwoord",
-      "french": "Mot de passe",
-      "turkish": "Şifre"
-    },
-    "passwordFactorDesc": {
-      "english": "Set a unique password to protect your account",
-      "german": "Legen Sie ein einzigartiges Passwort fest, um Ihr Konto zu schützen",
-      "japanese": "アカウントを保護するために固有のパスワードを設定します",
-      "korean": "계정을 보호하려면 고유한 비밀번호를 설정하세요.",
-      "mandarin": "设置唯一的密码来保护您的帐户",
-      "spanish": "Establezca una contraseña única para proteger su cuenta",
-      "portuguese": "Defina uma senha exclusiva para proteger sua conta",
-      "dutch": "Stel een uniek wachtwoord in om uw account te beschermen",
-      "french": "Définissez un mot de passe unique pour protéger votre compte",
-      "turkish": "Hesabınızı korumak için benzersiz bir şifre belirleyin"
-    },
-    "authenticatorFactor": {
-      "english": "Authenticator App",
-      "german": "Authentifizierungs-App",
-      "japanese": "認証アプリ",
-      "korean": "인증자 앱",
-      "mandarin": "验证器应用程序",
-      "spanish": "Aplicación de autenticación",
-      "portuguese": "Aplicativo autenticador",
-      "dutch": "Authenticator-app",
-      "french": "Application d'authentification",
-      "turkish": "Kimlik Doğrulayıcı Uygulaması"
-    },
-    "authenticatorFactorDesc": {
-      "english": "Get codes from Authy, 1Password, Microsoft, Authenticator or Google authenticator",
-      "german": "Holen Sie sich Codes von Authy, 1Password, Microsoft, Authenticator oder Google Authenticator",
-      "japanese": "Authy、1Password、Microsoft、Authenticator、または Google Authenticator からコードを取得します",
-      "korean": "Authy, 1Password, Microsoft, Authenticator 또는 Google 인증기에서 코드 받기",
-      "mandarin": "从 Authy、1Password、Microsoft、Authenticator 或 Google 身份验证器获取代码",
-      "spanish": "Obtenga códigos de Authy, 1Password, Microsoft, Authenticator o Google Authenticator",
-      "portuguese": "Obtenha códigos do Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
-      "dutch": "Ontvang codes van Authy, 1Password, Microsoft, Authenticator of Google authenticator",
-      "french": "Obtenez des codes d'Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
-      "turkish": "Authy, 1Password, Microsoft, Authenticator veya Google Authenticator'dan kod alın"
-    },
-    "required": {
-      "english": "Required",
-      "german": "Erforderlich",
-      "japanese": "必須",
-      "korean": "필수의",
-      "mandarin": "必需的",
-      "spanish": "Requerido",
-      "portuguese": "Obrigatório",
-      "dutch": "Vereist",
-      "french": "Requis",
-      "turkish": "Gerekli"
-    },
-    "enabled": {
-      "english": "Enabled",
-      "german": "Ermöglicht",
-      "japanese": "有効",
-      "korean": "활성화됨",
-      "mandarin": "启用",
-      "spanish": "Activado",
-      "portuguese": "Habilitado",
-      "dutch": "Ingeschakeld",
-      "french": "Activé",
-      "turkish": "Etkinleştirilmiş"
-    },
-    "finishSetup": {
-      "english": "Finish set up",
-      "german": "Fertigstellen",
-      "japanese": "セットアップを完了する",
-      "korean": "설정 완료",
-      "mandarin": "完成设置",
-      "spanish": "Terminar de configurar",
-      "portuguese": "Concluir a configuração",
-      "dutch": "Voltooi het instellen",
-      "french": "Terminer la configuration",
-      "turkish": "Kurulumu bitir"
-    },
-    "setupLater": {
-      "english": "Set up later",
-      "german": "Später einrichten",
-      "japanese": "後で設定する",
-      "korean": "나중에 설정하세요",
-      "mandarin": "稍后设置",
-      "spanish": "Configurar más tarde",
-      "portuguese": "Configurar mais tarde",
-      "dutch": "Later instellen",
-      "french": "Configurer plus tard",
-      "turkish": "Daha sonra kur"
-    },
-    "continue": {
-      "english": "Continue",
-      "german": "Weitermachen",
-      "japanese": "続く",
-      "korean": "계속하다",
-      "mandarin": "继续",
-      "spanish": "Continuar",
-      "portuguese": "Continuar",
-      "dutch": "Doorgaan",
-      "french": "Continuer",
-      "turkish": "Devam etmek"
     }
   },
   "error-block": {
@@ -805,164 +963,6 @@
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
       "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos",
       "turkish": "Aşağıdaki gerekli parametrelerden biri veya daha fazlası eksik/geçersiz"
-    }
-  },
-  "account": {
-    "password-requirement": {
-      "dutch": "Wachtwoordvereisten:",
-      "english": "Password requirements:",
-      "french": "Exigences relatives au mot de passe :",
-      "german": "Passwortanforderungen:",
-      "japanese": "パスワード要件:",
-      "korean": "암호 요구 사항:",
-      "mandarin": "密码要求：",
-      "portuguese": "Requisitos de senha:",
-      "spanish": "Requisitos de la contraseña:",
-      "turkish": "Şifre gereksinimleri:"
-    },
-    "password-requirement2": {
-      "english": "Password minimum requirements:",
-      "german": "Mindestanforderungen an das Passwort:",
-      "japanese": "パスワードの最小要件:",
-      "korean": "비밀번호 최소 요구 사항:",
-      "mandarin": "密码最低要求：",
-      "spanish": "Requisitos mínimos de contraseña:",
-      "portuguese": "Requisitos mínimos de senha:",
-      "dutch": "Minimale wachtwoordvereisten:",
-      "french": "Exigences minimales du mot de passe :",
-      "turkish": "Minimum şifre gereksinimleri:"
-    },
-    "password-requirement-10-char": {
-      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
-      "english": "At least 10 characters (and up to 100 characters)",
-      "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
-      "german": "Mindestens 10 Zeichen (und bis zu 100 Zeichen)",
-      "japanese": "少なくとも 10 文字 (最大 100 文字)",
-      "korean": "최소 10 자 (최대 100 자)",
-      "mandarin": "至少 10 个字符（最多 100 个字符）",
-      "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
-      "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)",
-      "turkish": "En az 10 karakter (ve en fazla 100 karakter)"
-    },
-    "password-requirement-10-char2": {
-      "english": "Minimum 10 characters long",
-      "german": "Mindestens 10 Zeichen lang",
-      "japanese": "最低 10 文字の長さ",
-      "korean": "최소 10자 길이",
-      "mandarin": "长度至少 10 个字符",
-      "spanish": "Mínimo 10 caracteres",
-      "portuguese": "Mínimo de 10 caracteres",
-      "dutch": "Minimaal 10 tekens lang",
-      "french": "Minimum 10 caractères",
-      "turkish": "Minimum 10 karakter uzunluğunda"
-    },
-    "password-requirement-desc": {
-      "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
-      "english": "Ensure that these requirements are met:",
-      "french": "Assurez-vous que ces exigences sont respectées :",
-      "german": "Stellen Sie sicher, dass diese Anforderungen erfüllt sind:",
-      "japanese": "次の要件が満たされていることを確認します。",
-      "korean": "다음 요구 사항이 충족되는지 확인하십시오.",
-      "mandarin": "确保满足这些要求：",
-      "portuguese": "Certifique-se de que estes requisitos sejam atendidos:",
-      "spanish": "Asegúrese de que se cumplan estos requisitos:",
-      "turkish": "Bu gerekliliklerin karşılandığından emin olun:"
-    },
-    "password-requirement-lowercase": {
-      "dutch": "Minstens één kleine letter vereist",
-      "english": "At least one lowercase character",
-      "french": "Au moins un caractère en minuscule",
-      "german": "Mindestens ein Kleinbuchstabe",
-      "japanese": "少なくとも 1 つの小文字",
-      "korean": "하나 이상의 소문자",
-      "mandarin": "至少一个小写字符",
-      "portuguese": "Pelo menos um caractere minúsculo",
-      "spanish": "Al menos un carácter en minúscula",
-      "turkish": "En az bir küçük harf"
-    },
-    "password-requirement-specialchar": {
-      "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
-      "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
-      "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
-      "german": "Aufnahme mindestens eines Sonderzeichens, z. B. {'! @ # ?'}",
-      "japanese": "少なくとも 1 つの特殊文字を含める (例: {'! @ # ?'}",
-      "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
-      "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
-      "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
-      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}",
-      "turkish": "En az bir özel karakterin dahil edilmesi, örneğin, {'! @ # ?'}"
-    },
-    "password-requirement-specialchar2": {
-      "english": "Contain at least one of these special characters{'(!@#?)'}",
-      "german": "Enthalten mindestens eines dieser Sonderzeichen {'(!@#?)'}",
-      "japanese": "これらの特殊文字 {'(!@#?)'} を少なくとも 1 つ含む",
-      "korean": "다음 특수 문자{'(!@#?)'} 중 하나 이상을 포함하십시오.",
-      "mandarin": "至少包含以下特殊字符之一{'(!@#?)'}",
-      "spanish": "Contener al menos uno de estos caracteres especiales{'(!@#?)'}",
-      "portuguese": "Contém pelo menos um destes caracteres especiais {'(!@#?)'}",
-      "dutch": "Ten minste één van deze speciale tekens bevatten{'(!@#?)'}",
-      "french": "Contenir au moins un de ces caractères spéciaux {'(!@#?)'}",
-      "turkish": "Bu özel karakterlerden en az birini içerir{'(!@#?)'}"
-    },
-    "password-requirement-upercase": {
-      "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
-      "english": "At least one uppercase character",
-      "french": "Au moins un caractère en majuscule",
-      "german": "Mindestens ein Großbuchstabe",
-      "japanese": "少なくとも 1 つの大文字",
-      "korean": "하나 이상의 대문자",
-      "mandarin": "至少一个大写字符",
-      "portuguese": "Pelo menos um caractere maiúsculo",
-      "spanish": "Al menos un carácter en mayúscula",
-      "turkish": "En az bir büyük harf"
-    },
-    "password-requirement-upperlowercase": {
-      "english": "Include both uppercase and lowercase letters",
-      "german": "Geben Sie sowohl Groß- als auch Kleinbuchstaben an",
-      "japanese": "大文字と小文字の両方を含める",
-      "korean": "대문자와 소문자를 모두 포함하세요.",
-      "mandarin": "包括大写和小写字母",
-      "spanish": "Incluir letras mayúsculas y minúsculas",
-      "portuguese": "Incluir letras maiúsculas e minúsculas",
-      "dutch": "Gebruik zowel hoofdletters als kleine letters",
-      "french": "Inclure les lettres majuscules et minuscules",
-      "turkish": "Hem büyük hem de küçük harfleri dahil edin"
-    },
-    "mpc-auth-factors-recovery-phrase": {
-      "dutch": "Herstelfactor",
-      "english": "Recovery factor",
-      "french": "Facteur de récupération",
-      "german": "Erholungsfaktor",
-      "japanese": "回収率",
-      "korean": "회복 계수",
-      "mandarin": "恢复系数",
-      "portuguese": "Fator de recuperação",
-      "spanish": "Factor de recuperación",
-      "turkish": "Kurtarma faktörü"
-    },
-    "auth-factors-password-confirm": {
-      "dutch": "Voer uw wachtwoord opnieuw in",
-      "english": "Re-enter your password",
-      "french": "Re-entrez votre mot de passe",
-      "german": "Wiederhole die Eingabe deines Passwortes",
-      "japanese": "パスワードを再入力してください",
-      "korean": "비밀번호 재 입력",
-      "mandarin": "重新输入密码",
-      "portuguese": "Redigite sua senha",
-      "spanish": "reingresa tu contraseña",
-      "turkish": "Şifrenizi yeniden girin"
-    },
-    "auth-factors-password-set": {
-      "dutch": "Stel je wachtwoord in",
-      "english": "Set your password",
-      "french": "Définissez votre mot de passe",
-      "german": "Lege ein Passwort fest",
-      "japanese": "パスワードを作る",
-      "korean": "비밀번호를 설정하세요",
-      "mandarin": "设置你的密码",
-      "portuguese": "Coloque sua senha",
-      "spanish": "Establece tu contraseña",
-      "turkish": "Şifrenizi belirleyin"
     }
   }
 }

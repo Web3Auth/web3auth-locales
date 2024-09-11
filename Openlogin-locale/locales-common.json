@@ -165,7 +165,7 @@
       "korean": "복구 문구 복사",
       "mandarin": "复制助记词",
       "portuguese": "Copiar frase de recuperação",
-      "spanish": "Copiar frase de recuperación",
+      "spanish": "Copiar frase de respaldo",
       "turkish": "Kurtarma ifadesini kopyala"
     },
     "device": {
@@ -488,7 +488,7 @@
       "korean": "복구 문구 복사됨",
       "mandarin": "助记词已复制",
       "portuguese": "Frase de Recuperação Copiada",
-      "spanish": "Frase de recuperación copiada",
+      "spanish": "Frase de respaldo copiada",
       "turkish": "Kurtarma İfadesi Kopyalandı"
     },
     "recoveryFactor": {
@@ -500,7 +500,7 @@
       "korean": "복구 계수",
       "mandarin": "恢复因子",
       "portuguese": "Fator de recuperação",
-      "spanish": "Factor de recuperación",
+      "spanish": "Factor de respaldo",
       "turkish": "Kurtarma Faktörü"
     },
     "referenceId": {
@@ -524,7 +524,7 @@
       "korean": "복구 팩터 재전송",
       "mandarin": "重新发送恢复因子",
       "portuguese": "Reenviar Fator de Recuperação",
-      "spanish": "Factor de recuperación de reenvío",
+      "spanish": "Factor de respaldo de reenvío",
       "turkish": "Kurtarma Faktörünü Yeniden Gönder"
     },
     "secured-by": {
@@ -644,7 +644,7 @@
       "korean": "백업 공유 확인 실패",
       "mandarin": "备份共享验证失败",
       "portuguese": "Falha na verificação do compartilhamento de backup",
-      "spanish": "Error en la verificación del recurso compartido de copia de seguridad",
+      "spanish": "Error en la verificación del fragmento de la copia de seguridad",
       "turkish": "Yedekleme parçası doğrulanamadı"
     },
     "toast-device-share-delete-fail": {
@@ -656,7 +656,7 @@
       "korean": "기기 공유 삭제 실패",
       "mandarin": "设备共享删除失败",
       "portuguese": "Falha na exclusão do compartilhamento do dispositivo",
-      "spanish": "No se pudo eliminar el dispositivo compartido",
+      "spanish": "No se pudo eliminar el fragmento del dispositivo",
       "turkish": "Cihaz şifresi silinemedi"
     },
     "toast-device-share-delete-success": {
@@ -668,7 +668,7 @@
       "korean": "장치 공유가 성공적으로 삭제되었습니다.",
       "mandarin": "设备共享已成功删除",
       "portuguese": "Compartilhamento de dispositivo excluído com sucesso",
-      "spanish": "Dispositivo compartido eliminado correctamente",
+      "spanish": "Fragmento del dispositivo eliminado correctamente",
       "turkish": "Cihaz şifresi başarıyla silindi"
     },
     "toast-password-change-fail": {
@@ -716,7 +716,7 @@
       "korean": "복구 공유 삭제 실패",
       "mandarin": "恢复共享删除失败",
       "portuguese": "A exclusão do compartilhamento de recuperação falhou",
-      "spanish": "Error al eliminar el recurso compartido de recuperación",
+      "spanish": "Error al eliminar el fragmento de respaldo",
       "turkish": "Kurtarma ifadesi silinemedi"
     },
     "toast-recovery-share-delete-success": {
@@ -728,7 +728,7 @@
       "korean": "복구 공유가 성공적으로 삭제되었습니다.",
       "mandarin": "恢复共享已成功删除",
       "portuguese": "Compartilhamento de recuperação excluído com sucesso",
-      "spanish": "El recurso compartido de recuperación se eliminó correctamente",
+      "spanish": "Fragmento de respaldo eliminado con éxito",
       "turkish": "Kurtarma ifadesi başarıyla silindi"
     },
     "toast-registration-failed": {
@@ -764,7 +764,7 @@
       "korean": "공유 전송 실패",
       "mandarin": "股份转让失败",
       "portuguese": "Falha na transferência de compartilhamento",
-      "spanish": "Error al transferir el recurso compartido",
+      "spanish": "Error al transferir el fragmento",
       "turkish": "Şifre parçası transfer edilemedi"
     },
     "toast-something-went-wrong": {
@@ -788,7 +788,7 @@
       "korean": "회복 인자 업로드",
       "mandarin": "上传恢复因子",
       "portuguese": "Carregar Fator de Recuperação",
-      "spanish": "Subir factor de recuperación",
+      "spanish": "Subir factor de respaldo",
       "turkish": "Kurtarma Faktörü yükle"
     },
     "verify": {

@@ -105,7 +105,7 @@
       "korean": "메인 탐색 바닥",
       "mandarin": "主导航底部",
       "portuguese": "Parte inferior da navegação principal",
-      "spanish": "Parte inferior de navegación principal",
+      "spanish": "Botón principal de navegación",
       "turkish": "Ana Menü altı"
     },
     "logo": {
@@ -141,7 +141,7 @@
       "korean": "사용자 정보",
       "mandarin": "用户信息",
       "portuguese": "Informação do usuário",
-      "spanish": "Informacion del usuario",
+      "spanish": "Información del usuario",
       "turkish": "Kullanıcı bilgisi"
     }
   }

@@ -81,7 +81,7 @@
       "korean": "기기를 2단계로 저장",
       "mandarin": "将您的设备保存为第二因素",
       "portuguese": "Salve seu dispositivo como 2º fator",
-      "spanish": "Guarde su dispositivo como 2nd Factor",
+      "spanish": "Guarde su dispositivo como 2º factor",
       "turkish": "Cihazınızı 2. Faktör olarak kaydedin"
     },
     "2fa-dwnld-desc": {
@@ -117,7 +117,7 @@
       "korean": "비밀번호가 2차 인증으로 성공적으로 설정되었습니다.",
       "mandarin": "您的密码已成功设置为第二因素",
       "portuguese": "Sua senha foi definida com sucesso como 2º Fator",
-      "spanish": "Su contraseña se establece con éxito como un segundo factor",
+      "spanish": "Su contraseña se estableció con éxito como un segundo factor",
       "turkish": "Şifreniz 2. Faktör olarak başarıyla belirlendi"
     },
     "2fa-pwd-title": {
@@ -169,15 +169,15 @@
       "turkish": "Kurtarma Faktörü doğrulaması"
     },
     "2fa-recovery-cpy-textArea": {
+      "dutch": "Plak uw herstelzin",
       "english": "Paste your recovery phrase",
+      "french": "Collez votre phrase de récupération",
       "german": "Fügen Sie Ihren Wiederherstellungsausweg ein",
       "japanese": "回復フレーズを貼り付けます",
       "korean": "회복 문구를 붙여 넣으십시오",
       "mandarin": "粘贴您的恢复短语",
-      "spanish": "Pega tu frase de recuperación",
       "portuguese": "Cole sua frase de recuperação",
-      "dutch": "Plak uw herstelzin",
-      "french": "Collez votre phrase de récupération",
+      "spanish": "Pega tu frase de recuperación",
       "turkish": "Kurtarma ifadenizi yapıştırın"
     },
     "2fa-recovery-downloaded-subDesc": {
@@ -201,7 +201,7 @@
       "korean": "지갑 복구 문구를 받으려면 이메일을 입력하세요. 지갑 복구에 필요합니다.",
       "mandarin": "输入您的电子邮件以接收钱包恢复系数。你需要它来恢复你的钱包。",
       "portuguese": "Insira seu e-mail para receber um fator de recuperação da carteira. Você precisa dele para recuperar sua carteira.",
-      "spanish": "Ingrese su correo electrónico para recibir un factor de recuperación de billetera. Lo necesitas para recuperar tu billetera.",
+      "spanish": "Introduzca su correo electrónico para recibir el factor de recuperación de su billetera. Lo necesita para recuperar su billetera.",
       "turkish": "Cüzdan Kurtarma Faktörü almak için e-posta adresinizi girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var."
     },
     "2fa-recovery-factor-send-btn": {
@@ -297,7 +297,7 @@
       "korean": "귀하와 같은 활성 사용자를 위해 2FA 설정을 적극 권장합니다.",
       "mandarin": "我们强烈建议为像您这样的活跃用户设置 2FA。",
       "portuguese": "Recomendamos fortemente uma configuração 2FA para um usuário ativo como você.",
-      "spanish": "Recomendamos encarecidamente una configuración 2FA para un usuario activo como usted.",
+      "spanish": "Recomendamos encarecidamente una configuración de 2 factores para un usuario activo como usted.",
       "turkish": "Sizin gibi aktif bir kullanıcı için 2FA kurulumunu şiddetle tavsiye ediyoruz."
     },
     "2fa-setup-step1-desc22": {
@@ -309,7 +309,7 @@
       "korean": "간단한 3단계로 설정하세요!",
       "mandarin": "只需 3 个简单的步骤即可完成设置！",
       "portuguese": "Configure em 3 passos simples!",
-      "spanish": "¡Configúralo en 3 sencillos pasos!",
+      "spanish": "¡Configúrelo en 3 sencillos pasos!",
       "turkish": "3 basit adımda kurun!"
     },
     "2fa-setup-step1-next": {
@@ -321,7 +321,7 @@
       "korean": "2FA 설정",
       "mandarin": "设置 2FA",
       "portuguese": "Configurar 2FA",
-      "spanish": "Configurar 2FA",
+      "spanish": "Configurar autenticación de 2 factores",
       "turkish": "2 Faktörlü doğrulamayı kurun"
     },
     "2fa-setup-step1-sub1": {
@@ -2470,27 +2470,27 @@
       "turkish": "Giriş bilgilerinizi doğrulayın"
     },
     "recovery-factor-sent-to": {
+      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op {link}",
       "english": "Input the recovery phrase sent to {email} on {date}, or if it's not in your email, you may retrieve it at {link}",
+      "french": "Entrez la phrase de récupération envoyée à {email} au {date}, ou si ce n'est pas dans votre e-mail, vous pouvez le récupérer sur {link}",
       "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein oder wenn er nicht in Ihrer E -Mail ist, können Sie sie unter {link} abrufen",
       "japanese": "{date}で{email}に送信された回復フレーズを入力するか、電子メールに入っていない場合は、{link}で取得できます。",
       "korean": "{date}에서 {email}로 전송 된 복구 문구를 입력하거나 이메일에 있지 않으면 {link}에서 검색 할 수 있습니다.",
       "mandarin": "在{date}上输入发送到{email}的恢复短语，或者如果不在电子邮件中，则可以在{link}上检索它。",
-      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en {link}",
       "portuguese": "Insira a frase de recuperação enviada para {email} em {date}, ou se não estiver em seu e -mail, você pode recuperá -lo em {link}",
-      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op {link}",
-      "french": "Entrez la phrase de récupération envoyée à {email} au {date}, ou si ce n'est pas dans votre e-mail, vous pouvez le récupérer sur {link}",
+      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en {link}",
       "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin veya e-postanızda yoksa {link} adresinden alabilirsiniz"
     },
     "recovery-factor-sent-to-custom-verifier": {
+      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}",
       "english": "Input the recovery phrase sent to {email} on {date}",
+      "french": "Entrez la phrase de récupération envoyée à {email} à {date}",
       "german": "Geben Sie den an {email} gesendeten Wiederherstellungsausdruck auf {date} ein",
       "japanese": "{date}で{email}に送信された回復フレーズを入力します",
       "korean": "{date}에서 {email}로 전송 된 복구 구를 입력하십시오.",
       "mandarin": "在{date}上输入发送到{email}的恢复短语",
-      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}",
       "portuguese": "Insira a frase de recuperação enviada para {email} em {date}",
-      "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}",
-      "french": "Entrez la phrase de récupération envoyée à {email} à {date}",
+      "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}",
       "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin"
     },
     "register-backup-phrase-additional-security-desc1": {
@@ -3393,6 +3393,18 @@
       "spanish": "Continuar con WebAuthn",
       "turkish": "WebAuthn ile devam et"
     },
+    "verify-factorList-desc": {
+      "dutch": "Controleer met een van de volgende om door te gaan",
+      "english": "Verify with one of the following to continue",
+      "french": "Vérifiez avec l'un des éléments suivants pour continuer",
+      "german": "Überprüfen Sie mit einem der folgenden Aussagen, um fortzufahren",
+      "japanese": "次のいずれかで確認してください",
+      "korean": "다음 중 하나를 확인하여 계속 확인하십시오",
+      "mandarin": "验证以下一个继续",
+      "portuguese": "Verifique com um dos seguintes para continuar",
+      "spanish": "Verifique con uno de los siguientes para continuar",
+      "turkish": "Devam etmek için aşağıdakilerden biriyle doğrulayın"
+    },
     "verify-otp-description": {
       "dutch": "Voer de OTP-code in die naar {number} is verzonden",
       "english": "Enter OTP-Code sent to {number}",
@@ -3465,40 +3477,28 @@
       "turkish": "Devam etmek için bir faktör daha doğrulayın"
     },
     "verify-with-recovery-factor-desc": {
+      "dutch": "Controleer met uw herstelzin die is verzonden om door te gaan",
       "english": "Verify with your recovery phrase sent to continue",
+      "french": "Vérifiez avec votre phrase de récupération envoyée pour continuer",
       "german": "Überprüfen Sie mit Ihrem Wiederherstellungsausdruck, um fortzufahren",
       "japanese": "継続するために送信される回復フレーズを確認します",
       "korean": "계속해서 회복 문구를 확인하십시오",
       "mandarin": "用发送的恢复短语验证以继续",
-      "spanish": "Verifique con su frase de recuperación enviada para continuar",
       "portuguese": "Verifique com sua frase de recuperação enviada para continuar",
-      "dutch": "Controleer met uw herstelzin die is verzonden om door te gaan",
-      "french": "Vérifiez avec votre phrase de récupération envoyée pour continuer",
+      "spanish": "Verifique con su frase de recuperación enviada para continuar",
       "turkish": "Devam etmek için gönderilen kurtarma ifadenizle doğrulayın"
     },
     "verify-with-social-factor-desc": {
+      "dutch": "Controleer met de sociale herstelfactor die u eerder had opgezet.",
       "english": "Verify with the social recovery factor that you had previously set up.",
+      "french": "Vérifiez avec le facteur de récupération sociale que vous aviez créé auparavant.",
       "german": "Überprüfen Sie mit dem zuvor eingerichteten sozialen Genesungsfaktor.",
       "japanese": "以前に設定した社会的回復要因で確認してください。",
       "korean": "이전에 설정했던 소셜 복구 요소로 확인하십시오.",
       "mandarin": "使用您先前设置的社会恢复因素进行验证。",
-      "spanish": "Verifique con el factor de recuperación social que había establecido anteriormente.",
       "portuguese": "Verifique com o fator de recuperação social que você configurou anteriormente.",
-      "dutch": "Controleer met de sociale herstelfactor die u eerder had opgezet.",
-      "french": "Vérifiez avec le facteur de récupération sociale que vous aviez créé auparavant.",
+      "spanish": "Verifique con el factor de recuperación social que había establecido anteriormente.",
       "turkish": "Daha önce kurmuş olduğunuz sosyal medya kurtarma faktörü ile doğrulayın."
-    },
-    "verify-factorList-desc": {
-      "english": "Verify with one of the following to continue",
-      "german": "Überprüfen Sie mit einem der folgenden Aussagen, um fortzufahren",
-      "japanese": "次のいずれかで確認してください",
-      "korean": "다음 중 하나를 확인하여 계속 확인하십시오",
-      "mandarin": "验证以下一个继续",
-      "spanish": "Verifique con uno de los siguientes para continuar",
-      "portuguese": "Verifique com um dos seguintes para continuar",
-      "dutch": "Controleer met een van de volgende om door te gaan",
-      "french": "Vérifiez avec l'un des éléments suivants pour continuer",
-      "turkish": "Devam etmek için aşağıdakilerden biriyle doğrulayın"
     }
   }
 }
