@@ -1,49 +1,5 @@
 {
   "login": {
-    "verifier-google-desc": {
-      "dutch": "Doorgaan met Google",
-      "english": "Continue with Google",
-      "french": "Continuer avec Google",
-      "german": "Fahren Sie mit Google fort",
-      "japanese": "Googleで続行",
-      "korean": "Google로 계속",
-      "mandarin": "继续使用Google",
-      "portuguese": "Continuar com o Google",
-      "spanish": "Continuar con Google"
-    },
-    "social-2fa-view-less": {
-      "dutch": "Minder bekijken",
-      "english": "View less",
-      "french": "Voir moins",
-      "german": "Weniger anzeigen",
-      "japanese": "表示が少なくなります",
-      "korean": "덜보십시오",
-      "mandarin": "少查看",
-      "portuguese": "Ver menos",
-      "spanish": "Ver menos"
-    },
-    "social-2fa-view-more": {
-      "dutch": "Bekijk meer",
-      "english": "View more",
-      "french": "Voir plus",
-      "german": "Mehr sehen",
-      "japanese": "もっと見る",
-      "korean": "더보기",
-      "mandarin": "查看更多",
-      "portuguese": "Veja mais",
-      "spanish": "Ver más"
-    },
-    "phone-email-label": {
-      "dutch": "Telefoon of e-mail",
-      "english": "Phone or Email",
-      "french": "Téléphone ou e-mail",
-      "german": "Telefon oder E-Mail",
-      "japanese": "電話かメール",
-      "korean": "전화 또는 이메일",
-      "mandarin": "电话还是邮件",
-      "portuguese": "Telefone ou email",
-      "spanish": "Teléfono o correo electrónico"
-    },
     "connect-email": {
       "dutch": "Verbinden met e-mail",
       "english": "Connect with Email",
@@ -88,16 +44,38 @@
       "portuguese": "Início de sessão com autocustódia por Web3Auth",
       "spanish": "Inicio de sesión con autocustodia por Web3Auth"
     },
-    "social-policy": {
-      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
-      "english": "We do not store any data related to your social logins.",
-      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
-      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
-      "japanese": "ソーシャル ログインに関連するデータは保存されません。",
-      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
-      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
-      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
-      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
+    "login-page-desc": {
+      "dutch": "Beheer de toegangs- en beveiligingsinstellingen voor alle door Web3Auth ondersteunde toepassingen.",
+      "english": "Manage the access and security settings across all applications supported by Web3Auth.",
+      "french": "Gérez les paramètres d'accès et de sécurité sur toutes les applications prises en charge par Web3Auth.",
+      "german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
+      "japanese": "Web3Auth でサポートされているすべてのアプリケーションのアクセスとセキュリティ設定を管理します。",
+      "korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
+      "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
+      "portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth.",
+      "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth."
+    },
+    "login-page-title": {
+      "dutch": "Twee-factor portemonnee accountbeheer",
+      "english": "Two Factor Wallet Account Management",
+      "french": "Gestion du compte de portefeuille à deux facteurs",
+      "german": "Zwei-Faktor-Wallet-Kontoverwaltung",
+      "japanese": "2 要素ウォレット アカウント管理",
+      "korean": "이중 지갑 계정 관리",
+      "mandarin": "两因素钱包账户管理",
+      "portuguese": "Gerenciamento de conta de carteira de dois fatores",
+      "spanish": "Gestión de cuenta de billetera de dos factores"
+    },
+    "phone-email-label": {
+      "dutch": "Telefoon of e-mail",
+      "english": "Phone or Email",
+      "french": "Téléphone ou e-mail",
+      "german": "Telefon oder E-Mail",
+      "japanese": "電話かメール",
+      "korean": "전화 또는 이메일",
+      "mandarin": "电话还是邮件",
+      "portuguese": "Telefone ou email",
+      "spanish": "Teléfono o correo electrónico"
     },
     "popup-subtitle": {
       "dutch": "Selecteer hoe u verder wilt gaan",
@@ -132,6 +110,63 @@
       "portuguese": "Bem-vindo a bordo",
       "spanish": "Bienvenido a bordo"
     },
+    "social-2fa-used-passwordless": {
+      "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
+      "english": "{0} login is not available since it has been used for your login, please select another option for recovery.",
+      "french": "La connexion {0} n'est pas disponible car elle a été utilisée pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
+      "german": "{0}-Login ist nicht verfügbar, da es für Ihr Login verwendet wurde. Bitte wählen Sie eine andere Option zur Wiederherstellung aus.",
+      "japanese": "ログインに使用されているため、{0} ログインは使用できません。別の回復オプションを選択してください。",
+      "korean": "{0} 로그인은 귀하의 로그인에 사용되었기 때문에 사용할 수 없습니다. 다른 복구 옵션을 선택하십시오.",
+      "mandarin": "{0} 登录不可用，因为它已被用于您的登录，请选择其他选项进行恢复。",
+      "portuguese": "{0} login não está disponível porque foi usado para seu login, selecione outra opção para recuperação.",
+      "spanish": "El inicio de sesión de {0} no está disponible ya que se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
+      "turkish": "{0} şuan giriş yapılamıyor çünkü giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
+    },
+    "social-2fa-used-social": {
+      "dutch": "{0} is gebruikt voor uw aanmelding, selecteer een andere optie voor herstel.",
+      "english": "{0} has been used for your login, please select another option for recovery.",
+      "french": "{0} a été utilisé pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
+      "german": "{0} wurde für Ihre Anmeldung verwendet, bitte wählen Sie eine andere Option zur Wiederherstellung.",
+      "japanese": "ログインに {0} が使用されています。回復のための別のオプションを選択してください。",
+      "korean": "{0}이(가) 로그인에 사용되었습니다. 다른 복구 옵션을 선택하십시오.",
+      "mandarin": "{0} 已用于您的登录，请选择其他选项进行恢复。",
+      "portuguese": "{0} foi usado para seu login, selecione outra opção para recuperação.",
+      "spanish": "{0} se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
+      "turkish": "{0} giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
+    },
+    "social-2fa-view-less": {
+      "dutch": "Minder bekijken",
+      "english": "View less",
+      "french": "Voir moins",
+      "german": "Weniger anzeigen",
+      "japanese": "表示が少なくなります",
+      "korean": "덜보십시오",
+      "mandarin": "少查看",
+      "portuguese": "Ver menos",
+      "spanish": "Ver menos"
+    },
+    "social-2fa-view-more": {
+      "dutch": "Bekijk meer",
+      "english": "View more",
+      "french": "Voir plus",
+      "german": "Mehr sehen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "portuguese": "Veja mais",
+      "spanish": "Ver más"
+    },
+    "social-policy": {
+      "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
+      "english": "We do not store any data related to your social logins.",
+      "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
+      "german": "Wir speichern keine Daten im Zusammenhang mit Ihren Social Logins.",
+      "japanese": "ソーシャル ログインに関連するデータは保存されません。",
+      "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
+      "mandarin": "我们不存储与您的社交登录相关的任何数据。",
+      "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
+    },
     "tooltip-phone-details": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u de juiste landcode handmatig invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
@@ -154,51 +189,16 @@
       "portuguese": "Número de telefone e código de país",
       "spanish": "Número de teléfono y código de país"
     },
-    "login-page-desc": {
-      "dutch": "Beheer de toegangs- en beveiligingsinstellingen voor alle door Web3Auth ondersteunde toepassingen.",
-      "english": "Manage the access and security settings across all applications supported by Web3Auth.",
-      "french": "Gérez les paramètres d'accès et de sécurité sur toutes les applications prises en charge par Web3Auth.",
-      "german": "Verwalten Sie die Zugriffs- und Sicherheitseinstellungen für alle von Web3Auth unterstützten Anwendungen.",
-      "japanese": "Web3Auth でサポートされているすべてのアプリケーションのアクセスとセキュリティ設定を管理します。",
-      "korean": "Web3Auth가 지원하는 모든 애플리케이션에서 액세스 및 보안 설정을 관리합니다.",
-      "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
-      "portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth.",
-      "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth."
-    },
-    "login-page-title": {
-      "dutch": "Twee-factor portemonnee accountbeheer",
-      "english": "Two Factor Wallet Account Management",
-      "french": "Gestion du compte de portefeuille à deux facteurs",
-      "german": "Zwei-Faktor-Wallet-Kontoverwaltung",
-      "japanese": "2 要素ウォレット アカウント管理",
-      "korean": "이중 지갑 계정 관리",
-      "mandarin": "两因素钱包账户管理",
-      "portuguese": "Gerenciamento de conta de carteira de dois fatores",
-      "spanish": "Gestión de cuenta de billetera de dos factores"
-    },
-    "social-2fa-used-social": {
-      "dutch": "{0} is gebruikt voor uw aanmelding, selecteer een andere optie voor herstel.",
-      "english": "{0} has been used for your login, please select another option for recovery.",
-      "french": "{0} a été utilisé pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
-      "german": "{0} wurde für Ihre Anmeldung verwendet, bitte wählen Sie eine andere Option zur Wiederherstellung.",
-      "japanese": "ログインに {0} が使用されています。回復のための別のオプションを選択してください。",
-      "korean": "{0}이(가) 로그인에 사용되었습니다. 다른 복구 옵션을 선택하십시오.",
-      "mandarin": "{0} 已用于您的登录，请选择其他选项进行恢复。",
-      "portuguese": "{0} foi usado para seu login, selecione outra opção para recuperação.",
-      "spanish": "{0} se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
-      "turkish": "{0} giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
-    },
-    "social-2fa-used-passwordless": {
-      "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
-      "english": "{0} login is not available since it has been used for your login, please select another option for recovery.",
-      "french": "La connexion {0} n'est pas disponible car elle a été utilisée pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
-      "german": "{0}-Login ist nicht verfügbar, da es für Ihr Login verwendet wurde. Bitte wählen Sie eine andere Option zur Wiederherstellung aus.",
-      "japanese": "ログインに使用されているため、{0} ログインは使用できません。別の回復オプションを選択してください。",
-      "korean": "{0} 로그인은 귀하의 로그인에 사용되었기 때문에 사용할 수 없습니다. 다른 복구 옵션을 선택하십시오.",
-      "mandarin": "{0} 登录不可用，因为它已被用于您的登录，请选择其他选项进行恢复。",
-      "portuguese": "{0} login não está disponível porque foi usado para seu login, selecione outra opção para recuperação.",
-      "spanish": "El inicio de sesión de {0} no está disponible ya que se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
-      "turkish": "{0} şuan giriş yapılamıyor çünkü giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
+    "verifier-google-desc": {
+      "dutch": "Doorgaan met Google",
+      "english": "Continue with Google",
+      "french": "Continuer avec Google",
+      "german": "Fahren Sie mit Google fort",
+      "japanese": "Googleで続行",
+      "korean": "Google로 계속",
+      "mandarin": "继续使用Google",
+      "portuguese": "Continuar com o Google",
+      "spanish": "Continuar con Google"
     }
   }
 }

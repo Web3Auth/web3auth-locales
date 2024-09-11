@@ -45,7 +45,7 @@
       "korean": "장치 공유가 없습니다.",
       "mandarin": "未找到设备共享",
       "portuguese": "Nenhum compartilhamento de dispositivo encontrado",
-      "spanish": "No se encontraron recursos compartidos de dispositivos",
+      "spanish": "No se encontraron fragmentos de dispositivos",
       "turkish": "Cihaz şifre parçaları bulunamadı"
     },
     "auth-factors-device-title": {
@@ -165,7 +165,7 @@
       "korean": "Torus 노드를 통한 소셜 로그인",
       "mandarin": "通过Torus节点进行社交登录",
       "portuguese": "Logins sociais via Torus nodes",
-      "spanish": "Inicios de sesión sociales a través de nodos Torus",
+      "spanish": "Inicios de sesión de redes sociales a través de nodos Torus",
       "turkish": "Torus nodes ile sosyal medya oturumu aç"
     },
     "auth-factors-password": {
@@ -201,7 +201,7 @@
       "korean": "비밀번호 재 입력",
       "mandarin": "重新输入密码",
       "portuguese": "Redigite sua senha",
-      "spanish": "reingresa tu contraseña",
+      "spanish": "Reingresa tu contraseña",
       "turkish": "Şifreyi tekrar girin"
     },
     "auth-factors-password-set": {
@@ -297,7 +297,7 @@
       "korean": "복구 문구 사본 저장",
       "mandarin": "保存恢复短语的副本",
       "portuguese": "Salve uma cópia da sua frase de recuperação",
-      "spanish": "Guarda una copia de tu frase de recuperación",
+      "spanish": "Guarde una copia de tu frase de recuperación",
       "turkish": "Kurtarma aşamanızın bir kopyasını kaydedin"
     },
     "delete-recovery-title": {
@@ -321,7 +321,7 @@
       "korean": "다음과 같이 매우 확신하십시오.",
       "mandarin": "非常确定",
       "portuguese": "Tenha muita certeza como",
-      "spanish": "estar muy seguro como",
+      "spanish": "Está muy seguro de querer",
       "turkish": "Emin olun"
     },
     "delete-share-desc-2": {
@@ -393,7 +393,7 @@
       "korean": "2FA 활성화",
       "mandarin": "启用 2FA",
       "portuguese": "Ativar 2FA",
-      "spanish": "Habilitar 2FA",
+      "spanish": "Habilitar segundo factor de autenticación (2FA)",
       "turkish": "2FA'yı aktive et"
     },
     "export-onkey-2fa-recommend": {
@@ -573,7 +573,7 @@
       "korean": "하나 이상의 특수 문자 포함(예: !) {'@ # ?'}",
       "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
       "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
-      "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}",
+      "spanish": "Incluya al menos un carácter especial, por ejemplo, {'! @ # ?'}",
       "turkish": "En az bir özel karakter içermelidir, {'!@#?'}"
     },
     "password-requirement-upercase": {
@@ -597,7 +597,7 @@
       "korean": "공유 제거",
       "mandarin": "删除共享",
       "portuguese": "Remover compartilhamento",
-      "spanish": "Quitar compartir",
+      "spanish": "Remover fragmento",
       "turkish": "Şifre parçasını sil"
     },
     "social-factor-change": {
