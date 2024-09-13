@@ -108,6 +108,30 @@
       "spanish": "Conectar con la billetera",
       "turkish": "Cüzdanla devam et"
     },
+    "external.search-text": {
+      "dutch": "Ziet u uw portemonnee niet?",
+      "english": "Don't see your wallet?",
+      "french": "Vous ne voyez pas votre portefeuille ?",
+      "german": "Sie sehen Ihr Portemonnaie nicht?",
+      "japanese": "財布が見えませんか？",
+      "korean": "지갑이 보이지 않나요?",
+      "mandarin": "没看到你的钱包吗？",
+      "portuguese": "Não vê sua carteira?",
+      "spanish": "¿No ves tu billetera?",
+      "turkish": "Cüzdanınızı görmüyor musunuz?"
+    },
+    "external.search-subtext": {
+      "dutch": "Probeer in plaats daarvan te zoeken",
+      "english": "Try search instead",
+      "french": "Essayez plutôt de rechercher",
+      "german": "Versuchen Sie es stattdessen mit der Suche",
+      "japanese": "代わりに検索してみてください",
+      "korean": "대신 검색해 보세요",
+      "mandarin": "尝试改为搜索",
+      "portuguese": "Tente pesquisar",
+      "spanish": "Intenta buscar en su lugar",
+      "turkish": "Bunun yerine aramayı deneyin"
+    },
     "external.connect-wallet": {
       "dutch": "Verbinden met portemonnee",
       "english": "Connect Wallet",
