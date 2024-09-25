@@ -12,6 +12,30 @@
       "spanish": "Opciones avanzadas",
       "turkish": "Gelişmiş Seçenekler"
     },
+    "apply": {
+      "dutch": "Toepassen",
+      "english": "Apply",
+      "french": "Appliquer",
+      "german": "Anwenden",
+      "japanese": "適用する",
+      "korean": "적용하다",
+      "mandarin": "申请",
+      "portuguese": "Aplicar",
+      "spanish": "Aplicar",
+      "turkish": "Uygula"
+    },
+    "balance": {
+      "dutch": "Evenwicht",
+      "english": "Balance",
+      "french": "Équilibre",
+      "german": "Gleichgewicht",
+      "japanese": "バランス",
+      "korean": "균형",
+      "mandarin": "平衡",
+      "portuguese": "Equilíbrio",
+      "spanish": "Balance",
+      "turkish": "Denge"
+    },
     "cancel": {
       "dutch": "Annuleren",
       "english": "Cancel",
@@ -48,6 +72,78 @@
       "spanish": "Confirmar la transacción de intercambio",
       "turkish": "Değişimi Onayla"
     },
+    "errorInvalidAddress": {
+      "dutch": "Ongeldig adres",
+      "english": "Invalid address",
+      "french": "Adresse invalide",
+      "german": "Ungültige Adresse",
+      "japanese": "無効なアドレス",
+      "korean": "잘못된 주소",
+      "mandarin": "地址无效",
+      "portuguese": "Endereço inválido",
+      "spanish": "Dirección no válida",
+      "turkish": "Geçersiz adres"
+    },
+    "errorSelectToken": {
+      "dutch": "Selecteer een token",
+      "english": "Please select a token",
+      "french": "Veuillez sélectionner un jeton",
+      "german": "Bitte wählen Sie einen Token aus",
+      "japanese": "トークンを選択してください",
+      "korean": "토큰을 선택하세요.",
+      "mandarin": "请选择一个代币",
+      "portuguese": "Selecione um token",
+      "spanish": "Por favor seleccione una ficha",
+      "turkish": "Lütfen bir belirteç seçin"
+    },
+    "errorTokenAmount": {
+      "dutch": "Voer een bedrag in",
+      "english": "Enter an amount",
+      "french": "Entrez un montant",
+      "german": "Geben Sie einen Betrag ein",
+      "japanese": "金額を入力してください",
+      "korean": "금액을 입력하세요",
+      "mandarin": "输入金额",
+      "portuguese": "Insira um valor",
+      "spanish": "Introduce una cantidad",
+      "turkish": "Bir tutar girin"
+    },
+    "failedSwapDesc": {
+      "dutch": "Er is een fout opgetreden tijdens het verwerken van de swap",
+      "english": "An error occurred while processing the swap",
+      "french": "Une erreur s'est produite lors du traitement du swap",
+      "german": "Beim Verarbeiten des Austauschs ist ein Fehler aufgetreten",
+      "japanese": "スワップの処理中にエラーが発生しました",
+      "korean": "스왑 처리 중 오류가 발생했습니다.",
+      "mandarin": "处理交换时发生错误",
+      "portuguese": "Ocorreu um erro ao processar a troca",
+      "spanish": "Se produjo un error al procesar el intercambio.",
+      "turkish": "Takas işlenirken bir hata oluştu"
+    },
+    "failedSwapTitle": {
+      "dutch": "Uw ruilverzoek kan niet worden verwerkt",
+      "english": "Your swap request cannot be processed",
+      "french": "Votre demande d'échange ne peut pas être traitée",
+      "german": "Ihre Tauschanfrage kann nicht bearbeitet werden",
+      "japanese": "交換リクエストを処理できません",
+      "korean": "교환 요청을 처리할 수 없습니다.",
+      "mandarin": "无法处理您的交换请求",
+      "portuguese": "Sua solicitação de troca não pode ser processada",
+      "spanish": "Su solicitud de intercambio no se puede procesar",
+      "turkish": "Takas talebiniz işleme alınamıyor"
+    },
+    "fetchingPrice": {
+      "dutch": "Beste prijs ophalen",
+      "english": "Fetching best price",
+      "french": "Obtenir le meilleur prix",
+      "german": "Den besten Preis erzielen",
+      "japanese": "最良価格を取得中",
+      "korean": "최적의 가격을 가져오는 중",
+      "mandarin": "获取最优惠价格",
+      "portuguese": "Buscando o melhor preço",
+      "spanish": "Obteniendo el mejor precio",
+      "turkish": "En iyi fiyat getiriliyor"
+    },
     "for": {
       "dutch": "Voor",
       "english": "For",
@@ -59,6 +155,30 @@
       "portuguese": "Para",
       "spanish": "Para",
       "turkish": "İçin"
+    },
+    "from": {
+      "dutch": "Van:",
+      "english": "From:",
+      "french": "Depuis:",
+      "german": "Aus:",
+      "japanese": "から：",
+      "korean": "에서:",
+      "mandarin": "从：",
+      "portuguese": "De:",
+      "spanish": "De:",
+      "turkish": "Şuna:"
+    },
+    "fromAddress": {
+      "dutch": "Van portemonnee-adres:",
+      "english": "From wallet address:",
+      "french": "À partir de l'adresse du portefeuille :",
+      "german": "Von der Wallet-Adresse:",
+      "japanese": "ウォレットアドレスから:",
+      "korean": "지갑 주소:",
+      "mandarin": "来自钱包地址：",
+      "portuguese": "Do endereço da carteira:",
+      "spanish": "Desde la dirección de la billetera:",
+      "turkish": "Cüzdan adresinden:"
     },
     "gasLimit": {
       "dutch": "Gasgrens",
@@ -72,6 +192,18 @@
       "spanish": "Límite de gas",
       "turkish": "Jener Limiti"
     },
+    "max": {
+      "dutch": "Max",
+      "english": "Max",
+      "french": "Max.",
+      "german": "Max",
+      "japanese": "マックス",
+      "korean": "맥스",
+      "mandarin": "最大限度",
+      "portuguese": "Máx.",
+      "spanish": "máx.",
+      "turkish": "Maksimum"
+    },
     "maxPriorityFee": {
       "dutch": "Maximale prioriteitskosten",
       "english": "Max Priority Fee",
@@ -83,6 +215,18 @@
       "portuguese": "Taxa prioritária máxima",
       "spanish": "Tarifa de prioridad máxima",
       "turkish": "Maksimum Öncelik Ücreti"
+    },
+    "maxSlippage": {
+      "dutch": "Maximale slip",
+      "english": "Max Slippage",
+      "french": "Glissement maximum",
+      "german": "Maximaler Schlupf",
+      "japanese": "最大スリッページ",
+      "korean": "최대 미끄러짐",
+      "mandarin": "最大滑点",
+      "portuguese": "Deslizamento máximo",
+      "spanish": "Deslizamiento máximo",
+      "turkish": "Maksimum Kayma"
     },
     "maxTxnFee": {
       "dutch": "Max transactiekosten",
@@ -96,6 +240,66 @@
       "spanish": "Tarifa de transacción máxima",
       "turkish": "Maksimum İşlem Ücreti"
     },
+    "minutes": {
+      "dutch": "notulen",
+      "english": "minutes",
+      "french": "minutes",
+      "german": "Minuten",
+      "japanese": "分",
+      "korean": "분",
+      "mandarin": "分钟",
+      "portuguese": "minutos",
+      "spanish": "minutos",
+      "turkish": "dakika"
+    },
+    "networkFee": {
+      "dutch": "Netwerkkosten",
+      "english": "Network Fee",
+      "french": "Frais de réseau",
+      "german": "Netzwerkgebühr",
+      "japanese": "ネットワーク料金",
+      "korean": "네트워크 수수료",
+      "mandarin": "网络费",
+      "portuguese": "Taxa de rede",
+      "spanish": "Tarifa de red",
+      "turkish": "Ağ Ücreti"
+    },
+    "previewSwap": {
+      "dutch": "Voorbeeld wisselen",
+      "english": "Preview Swap",
+      "french": "Échange d'aperçu",
+      "german": "Vorschau-Tausch",
+      "japanese": "プレビュースワップ",
+      "korean": "미리보기 스왑",
+      "mandarin": "预览交换",
+      "portuguese": "Pré-visualização da troca",
+      "spanish": "Intercambio de vista previa",
+      "turkish": "Önizleme Değiştirme"
+    },
+    "price": {
+      "dutch": "Prijs",
+      "english": "Price",
+      "french": "Prix",
+      "german": "Preis",
+      "japanese": "価格",
+      "korean": "가격",
+      "mandarin": "价格",
+      "portuguese": "Preço",
+      "spanish": "Precio",
+      "turkish": "Fiyat"
+    },
+    "priceImpact": {
+      "dutch": "Prijsimpact",
+      "english": "Price Impact",
+      "french": "Impact sur les prix",
+      "german": "Preisauswirkungen",
+      "japanese": "価格への影響",
+      "korean": "가격 영향",
+      "mandarin": "价格影响",
+      "portuguese": "Impacto no preço",
+      "spanish": "Impacto en el precio",
+      "turkish": "Fiyat Etkisi"
+    },
     "processIn": {
       "dutch": "Verwerken",
       "english": "Process in",
@@ -107,6 +311,162 @@
       "portuguese": "Processo em",
       "spanish": "Procesar",
       "turkish": "İşlem"
+    },
+    "reviewOrder": {
+      "dutch": "Bekijk de ruilorder",
+      "english": "Review Swap Order",
+      "french": "Vérifier la commande d'échange",
+      "german": "Überprüfen Sie die Tauschbestellung",
+      "japanese": "スワップ注文を確認する",
+      "korean": "스왑 주문 검토",
+      "mandarin": "查看掉期订单",
+      "portuguese": "Revise o pedido de troca",
+      "spanish": "Revisar orden de intercambio",
+      "turkish": "Takas Siparişini İnceleyin"
+    },
+    "searchToken": {
+      "dutch": "Zoek tokennaam",
+      "english": "Search Token Name",
+      "french": "Rechercher le nom du jeton",
+      "german": "Token-Namen suchen",
+      "japanese": "検索トークン名",
+      "korean": "토큰 이름 검색",
+      "mandarin": "搜索代币名称",
+      "portuguese": "Pesquisar nome do token",
+      "spanish": "Nombre del token de búsqueda",
+      "turkish": "Belirteç Adını Ara"
+    },
+    "selectAToken": {
+      "dutch": "Selecteer een token",
+      "english": "Select a token",
+      "french": "Sélectionnez un jeton",
+      "german": "Wählen Sie einen Token aus",
+      "japanese": "トークンを選択してください",
+      "korean": "토큰을 선택하세요",
+      "mandarin": "选择一个代币",
+      "portuguese": "Selecione um token",
+      "spanish": "Seleccione una ficha",
+      "turkish": "Bir belirteç seçin"
+    },
+    "selectToken": {
+      "dutch": "Selecteer token",
+      "english": "Select Token",
+      "french": "Sélectionner le jeton",
+      "german": "Wählen Sie Token",
+      "japanese": "トークンを選択します",
+      "korean": "토큰을 선택하십시오",
+      "mandarin": "选择令牌",
+      "portuguese": "Selecione token",
+      "spanish": "Seleccionar token",
+      "turkish": "Token seçin"
+    },
+    "sendToAddress": {
+      "dutch": "Stuur geld naar een ander portemonnee-adres",
+      "english": "Send funds to other wallet address",
+      "french": "Envoyer des fonds à une autre adresse de portefeuille",
+      "german": "Senden Sie Geld an eine andere Wallet-Adresse",
+      "japanese": "他のウォレットアドレスに資金を送金する",
+      "korean": "다른 지갑 주소로 자금 보내기",
+      "mandarin": "将资金发送至其​​他钱包地址",
+      "portuguese": "Envie fundos para outro endereço de carteira",
+      "spanish": "Enviar fondos a otra dirección de billetera",
+      "turkish": "Parayı başka bir cüzdan adresine gönderin"
+    },
+    "slippageTolerance": {
+      "dutch": "Sliptolerantie",
+      "english": "Slippage Tolerance",
+      "french": "Tolérance au glissement",
+      "german": "Rutschtoleranz",
+      "japanese": "滑り許容値",
+      "korean": "미끄러짐 공차",
+      "mandarin": "滑移容差",
+      "portuguese": "Tolerância ao deslizamento",
+      "spanish": "Tolerancia al deslizamiento",
+      "turkish": "Kayma Toleransı"
+    },
+    "swap": {
+      "dutch": "Ruil",
+      "english": "Swap",
+      "french": "Échanger",
+      "german": "Tauschen",
+      "japanese": "スワップ",
+      "korean": "교환",
+      "mandarin": "交换",
+      "portuguese": "Trocar",
+      "spanish": "Intercambio",
+      "turkish": "Takas"
+    },
+    "swapSuccess": {
+      "dutch": "Wissel succes!",
+      "english": "Swap success!",
+      "french": "Échangez le succès !",
+      "german": "Erfolg tauschen!",
+      "japanese": "交換成功！",
+      "korean": "교환 성공!",
+      "mandarin": "兑换成功！",
+      "portuguese": "Sucesso na troca!",
+      "spanish": "¡Intercambia éxito!",
+      "turkish": "Başarıyı değiştir!"
+    },
+    "swapSuccessDetails": {
+      "dutch": "Uw ruilverzoek is succesvol verwerkt en afgerond.",
+      "english": "Your swap request was processed and completed successfully.",
+      "french": "Votre demande d'échange a été traitée et complétée avec succès.",
+      "german": "Ihre Tauschanfrage wurde erfolgreich bearbeitet und abgeschlossen.",
+      "japanese": "交換リクエストは処理され、正常に完了しました。",
+      "korean": "귀하의 교환 요청이 처리되어 성공적으로 완료되었습니다.",
+      "mandarin": "您的交换请求已成功处理并完成。",
+      "portuguese": "Sua solicitação de troca foi processada e concluída com sucesso.",
+      "spanish": "Su solicitud de intercambio fue procesada y completada exitosamente.",
+      "turkish": "Takas talebiniz işleme alındı ​​ve başarıyla tamamlandı."
+    },
+    "to": {
+      "dutch": "Naar:",
+      "english": "To:",
+      "french": "À:",
+      "german": "Zu:",
+      "japanese": "に：",
+      "korean": "에게:",
+      "mandarin": "到：",
+      "portuguese": "Para:",
+      "spanish": "A:",
+      "turkish": "İçin:"
+    },
+    "toAddress": {
+      "dutch": "Naar portemonnee-adres:",
+      "english": "To wallet address:",
+      "french": "Vers l'adresse du portefeuille :",
+      "german": "An die Wallet-Adresse:",
+      "japanese": "ウォレットアドレスへ:",
+      "korean": "지갑 주소로:",
+      "mandarin": "至钱包地址：",
+      "portuguese": "Para o endereço da carteira:",
+      "spanish": "A la dirección de la billetera:",
+      "turkish": "Cüzdan adresine:"
+    },
+    "tokens": {
+      "dutch": "Munten",
+      "english": "Tokens",
+      "french": "Jetons",
+      "german": "Token",
+      "japanese": "トークン",
+      "korean": "토큰",
+      "mandarin": "令牌",
+      "portuguese": "Tokens",
+      "spanish": "Tokens",
+      "turkish": "Token"
+    },
+    "transactionDeadline": {
+      "dutch": "Transactiedeadline",
+      "english": "Transaction Deadline",
+      "french": "Date limite des transactions",
+      "german": "Transaktionsfrist",
+      "japanese": "取引期限",
+      "korean": "거래 마감일",
+      "mandarin": "交易截止日期",
+      "portuguese": "Prazo de transação",
+      "spanish": "Fecha límite de transacción",
+      "turkish": "İşlem Son Tarihi"
     },
     "txnCost": {
       "dutch": "Transactiekosten",
@@ -155,6 +515,42 @@
       "portuguese": "Valor",
       "spanish": "Valor",
       "turkish": "Miktar"
+    },
+    "viewTransaction": {
+      "dutch": "Transactie bekijken",
+      "english": "View Transaction",
+      "french": "Afficher la transaction",
+      "german": "Transaktion anzeigen",
+      "japanese": "トランザクションの表示",
+      "korean": "거래 보기",
+      "mandarin": "查看交易",
+      "portuguese": "Ver transação",
+      "spanish": "Ver transacción",
+      "turkish": "İşlemi Görüntüle"
+    },
+    "youPay": {
+      "dutch": "Jij betaalt",
+      "english": "You pay",
+      "french": "Vous payez",
+      "german": "Sie zahlen",
+      "japanese": "あなたが支払います",
+      "korean": "당신은 지불",
+      "mandarin": "你付钱",
+      "portuguese": "Você paga",
+      "spanish": "tu pagas",
+      "turkish": "Sen öde"
+    },
+    "youReceive": {
+      "dutch": "Jij ontvangt",
+      "english": "You receive",
+      "french": "Vous recevez",
+      "german": "Sie erhalten",
+      "japanese": "あなたは受け取ります",
+      "korean": "당신은 받는다",
+      "mandarin": "您收到",
+      "portuguese": "Você recebe",
+      "spanish": "tu recibes",
+      "turkish": "Alırsın"
     },
     "yourExchange": {
       "dutch": "Uw uitwisseling",
