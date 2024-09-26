@@ -947,16 +947,16 @@
       "turkish": "Lütfen sayfayı yenilemeyin"
     },
     "passkeyAdd": {
-      "dutch": "Voeg een toegangssleutel toe",
+      "dutch": "Voeg een Passkey toe",
       "english": "Add a passkey",
-      "french": "Ajouter un mot de passe",
-      "german": "Fügen Sie einen Passkey hinzu",
-      "japanese": "パスキーを追加する",
-      "korean": "암호 키 추가",
-      "mandarin": "添加密钥",
-      "portuguese": "Adicionar uma chave de acesso",
-      "spanish": "Agregar una clave de acceso",
-      "turkish": "Bir şifre anahtarı ekleyin"
+      "french": "Ajouter un Passkey",
+      "german": "Fügen Sie einen passkey hinzu",
+      "japanese": "Passkeyを追加する",
+      "korean": "Passkey 추가",
+      "mandarin": "添加一个Passkey",
+      "portuguese": "Adicione uma Passkey",
+      "spanish": "Agregar una Passkey",
+      "turkish": "Bir passkey ekleyin"
     },
     "passkeyBrowserNotSupported": {
       "dutch": "Om Passkeys -functionaliteit te garanderen, zorg er dan voor dat u hieronder ondersteunde browsers gebruikt",
@@ -973,13 +973,13 @@
     "passkeyDesc": {
       "dutch": "Met Passkeys kunt u uw identiteit verifiëren door uw gezicht, vingerafdruk of schermvergrendeling",
       "english": "With passkeys, you can verify your identity through your face, fingerprint, or screen lock",
-      "french": "Avec PassKeys, vous pouvez vérifier votre identité à travers votre visage, vos empreintes digitales ou verrouillage d'écran",
+      "french": "Avec Passkeys, vous pouvez vérifier votre identité à travers votre visage, vos empreintes digitales ou verrouillage d'écran",
       "german": "Mit Passkeys können Sie Ihre Identität über Ihr Gesicht, Ihr Fingerabdruck oder Ihr Bildschirmschloss überprüfen",
-      "japanese": "PassKeysを使用すると、顔、指紋、またはスクリーンロックを介して身元を確認できます",
-      "korean": "패스 키를 사용하면 얼굴, 지문 또는 스크린 잠금을 통해 신원을 확인할 수 있습니다.",
+      "japanese": "Passkeysを使用すると、顔、指紋、またはスクリーンロックを介して身元を確認できます",
+      "korean": "Passkeys를 사용하면 얼굴, 지문 또는 화면 잠금을 통해 신원을 확인할 수 있습니다.",
       "mandarin": "使用Passkeys，您可以通过脸部，指纹或屏幕锁来验证自己的身份",
-      "portuguese": "Com as passagens, você pode verificar sua identidade através do seu rosto, impressão digital ou trava de tela",
-      "spanish": "Con PassKeys, puede verificar su identidad a través de su cara, huella digital o bloqueo de pantalla"
+      "portuguese": "Com as Passkeys, você pode verificar sua identidade através do seu rosto, impressão digital ou trava de tela",
+      "spanish": "Con Passkeys, puede verificar su identidad a través de su cara, huella digital o bloqueo de pantalla"
     },
     "passkeyDetail1": {
       "dutch": "U hoeft geen wachtwoorden te onthouden",
@@ -994,16 +994,16 @@
       "turkish": "Şifreleri hatırlamanıza gerek yok"
     },
     "passkeyDetail1Desc": {
-      "dutch": "Met de toegangssleutel kunt u inloggen met uw vingerafdruk, gezichts- of schermvergrendeling om te verifiëren dat u het echt bent",
+      "dutch": "Met passkey kunt u inloggen met uw vingerafdruk, gezichtsvergrendeling of schermvergrendeling om te verifiëren dat u het echt bent",
       "english": "With passkey, you can log in using fingerprint, face or screen lock to verify that it’s really you",
-      "french": "Avec le mot de passe, vous pouvez vous connecter en utilisant votre empreinte digitale, votre visage ou le verrouillage de l'écran pour vérifier qu'il s'agit bien de vous.",
-      "german": "Mit dem Passkey können Sie sich per Fingerabdruck, Gesichts- oder Bildschirmsperre anmelden, um zu bestätigen, dass Sie es wirklich sind",
-      "japanese": "パスキーを使用すると、指紋、顔、または画面ロックを使用してログインし、本人であることを確認できます",
-      "korean": "패스키를 사용하면 지문, 얼굴 잠금 또는 화면 잠금을 사용하여 로그인하여 본인인지 확인할 수 있습니다.",
-      "mandarin": "通过密钥，您可以使用指纹、面部或屏幕锁定登录来验证您的身份",
-      "portuguese": "Com a senha, você pode fazer login usando impressão digital, rosto ou bloqueio de tela para verificar se é realmente você",
-      "spanish": "Con la clave de acceso, puedes iniciar sesión usando la huella digital, el rostro o el bloqueo de pantalla para verificar que realmente eres tú.",
-      "turkish": "Parolayla, kişinin gerçekten siz olduğunuzu doğrulamak için parmak izi, yüz veya ekran kilidini kullanarak oturum açabilirsiniz."
+      "french": "Avec passkey, vous pouvez vous connecter en utilisant votre empreinte digitale, votre visage ou le verrouillage de l'écran pour vérifier qu'il s'agit bien de vous.",
+      "german": "Mit passkey können Sie sich per Fingerabdruck, Gesichts- oder Bildschirmsperre anmelden, um zu bestätigen, dass Sie es wirklich sind",
+      "japanese": "Passkey を使用すると、指紋、顔、または画面ロックを使用してログインし、本人であることを確認できます",
+      "korean": "Passkey를 사용하면 지문, 얼굴 또는 화면 잠금을 사용하여 로그인하여 본인인지 확인할 수 있습니다.",
+      "mandarin": "使用passkey，您可以使用指纹、面部或屏幕锁定登录来验证您的身份",
+      "portuguese": "Com passkey, você pode fazer login usando impressão digital, rosto ou bloqueio de tela para verificar se é realmente você",
+      "spanish": "Con passkey, puedes iniciar sesión usando la huella digital, el rostro o el bloqueo de pantalla para verificar que realmente eres tú",
+      "turkish": "passkey ile parmak izi, yüz veya ekran kilidini kullanarak giriş yaparak bu kişinin gerçekten siz olduğunuzu doğrulayabilirsiniz"
     },
     "passkeyDetail2": {
       "dutch": "Werkt op al uw compatibele apparaten",
@@ -1018,16 +1018,16 @@
       "turkish": "Tüm uyumlu cihazlarınızda çalışır"
     },
     "passkeyDetail2Desc": {
-      "dutch": "Wachtwoorden zijn automatisch beschikbaar op gesynchroniseerde apparaten. Stel alleen toegangscodes in op apparaten waarvan u de eigenaar bent.",
+      "dutch": "Passkeys zijn automatisch beschikbaar op gesynchroniseerde apparaten. Stel alleen passkeys in op apparaten waarvan u de eigenaar bent.",
       "english": "Passkeys will automatically be available on synced devices. Only set up passkeys on devices you own.",
-      "french": "Les clés d'accès seront automatiquement disponibles sur les appareils synchronisés. Configurez des mots de passe uniquement sur les appareils que vous possédez.",
-      "german": "Passkeys sind automatisch auf synchronisierten Geräten verfügbar. Richten Sie Passkeys nur auf Geräten ein, die Sie besitzen.",
-      "japanese": "パスキーは同期されたデバイスで自動的に利用可能になります。パスキーは自分が所有するデバイスにのみ設定してください。",
-      "korean": "패스키는 동기화된 장치에서 자동으로 사용할 수 있습니다. 자신이 소유한 장치에만 암호키를 설정하세요.",
-      "mandarin": "密钥将自动在同步设备上可用。仅在您拥有的设备上设置密钥。",
-      "portuguese": "As chaves estarão disponíveis automaticamente nos dispositivos sincronizados. Configure senhas apenas nos dispositivos que você possui.",
-      "spanish": "Las claves de acceso estarán disponibles automáticamente en los dispositivos sincronizados. Configure claves de acceso solo en dispositivos de su propiedad.",
-      "turkish": "Geçiş anahtarları senkronize edilen cihazlarda otomatik olarak kullanılabilecektir. Yalnızca sahip olduğunuz cihazlara şifre anahtarları ayarlayın."
+      "french": "Les Passkeys seront automatiquement disponibles sur les appareils synchronisés. Configurez des passkeys uniquement sur les appareils que vous possédez.",
+      "german": "Passkeys sind automatisch auf synchronisierten Geräten verfügbar. Richten Sie passkeys nur auf Geräten ein, die Sie besitzen.",
+      "japanese": "Passkeysは、同期されたデバイスで自動的に使用できるようになります。 passkeys は自分が所有するデバイスにのみ設定してください。",
+      "korean": "Passkeys는 동기화된 장치에서 자동으로 사용할 수 있습니다. 귀하가 소유한 기기에만 passkeys를 설정하세요.",
+      "mandarin": "Passkeys 将自动在同步设备上可用。仅在您拥有的设备上设置 passkeys。",
+      "portuguese": "Passkeys estarão automaticamente disponíveis em dispositivos sincronizados. Configure passkeys apenas nos seus dispositivos.",
+      "spanish": "Passkeys estarán disponibles automáticamente en los dispositivos sincronizados. Configure passkeys solo en dispositivos de su propiedad.",
+      "turkish": "Passkeys senkronize edilen cihazlarda otomatik olarak kullanılabilecektir. Yalnızca sahip olduğunuz cihazlarda passkeys ayarlayın."
     },
     "passkeyDetail3": {
       "dutch": "Garandeert de veiligheid van uw account",
@@ -1078,26 +1078,28 @@
       "turkish": "Passkeys işlevselliğini sağlamak için lütfen aşağıda desteklenen herhangi bir işletim sistemini kullandığınızdan emin olun"
     },
     "passkeyVerification": {
-      "dutch": "Passkey verificatie",
+      "dutch": "Passkey-verificatie",
       "english": "Passkey Verification",
-      "french": "Vérification de la clé passante",
-      "german": "PassKey -Überprüfung",
-      "japanese": "パスキー検証",
-      "korean": "패스 키 검증",
+      "french": "Vérification de la Passkey",
+      "german": "Passkey-Verifizierung",
+      "japanese": "Passkeyの検証",
+      "korean": "Passkey 확인",
       "mandarin": "Passkey验证",
-      "portuguese": "Verificação da Passkey",
-      "spanish": "Verificación de llave"
+      "portuguese": "Verificação de Passkey",
+      "spanish": "Passkey Verificación",
+      "turkish": "Passkey Doğrulaması"
     },
     "passkeyVerificationDesc": {
-      "dutch": "Bijna daar! Bevestig je Passkey nog een keer om ervoor te zorgen dat het is opgeslagen voor dit apparaat.",
+      "dutch": "Bijna daar! Bevestig uw passkey nogmaals om er zeker van te zijn dat deze voor dit apparaat is opgeslagen.",
       "english": "Almost there! Just confirm your passkey once more to make sure it's saved for this device.",
-      "french": "Presque là! Confirmez votre Passkey une fois de plus pour vous assurer qu'elle est enregistrée pour cet appareil.",
-      "german": "Fast dort! Bestätigen Sie einfach Ihren PassKey noch einmal, um sicherzustellen, dass er für dieses Gerät gespeichert ist.",
-      "japanese": "もうすぐ！ PassKeyをもう一度確認して、このデバイスのために保存されていることを確認してください。",
-      "korean": "거의 다 왔어! 패스 키를 다시 한 번 확인 하여이 장치에 저장되었는지 확인하십시오.",
-      "mandarin": "差不多了！只需再次确认您的Passkey即可确保为此设备保存它即可。",
-      "portuguese": "Quase lá! Basta confirmar sua pasta mais uma vez para garantir que ela seja salva para este dispositivo.",
-      "spanish": "¡Casi llegamos! Simplemente confirme su clave de passación una vez más para asegurarse de que se guarde para este dispositivo."
+      "french": "J'y suis presque ! Confirmez simplement votre passkey une fois de plus pour vous assurer qu'il est enregistré pour cet appareil.",
+      "german": "Fast geschafft! Bestätigen Sie einfach noch einmal Ihren passkey, um sicherzustellen, dass er für dieses Gerät gespeichert ist.",
+      "japanese": "もうすぐそこです！ passkey をもう一度確認して、このデバイスに保存されていることを確認してください。",
+      "korean": "거의 다 왔어요! passkey가 이 기기에 저장되었는지 다시 한 번 확인하세요.",
+      "mandarin": "快到了！只需再次确认您的 passkey，以确保它已为此设备保存。",
+      "portuguese": "Quase lá! Basta confirmar sua passkey mais uma vez para garantir que ela esteja salva neste dispositivo.",
+      "spanish": "¡Casi llegamos! Simplemente confirme su passkey una vez más para asegurarse de que esté guardada para este dispositivo.",
+      "turkish": "Neredeyse orada! Bu cihaz için kaydedildiğinden emin olmak için passkey bir kez daha onaylamanız yeterlidir."
     },
     "password-verification": {
       "dutch": "Wachtwoordverificatie",
@@ -1282,13 +1284,14 @@
     "registerPasskey": {
       "dutch": "Registreer een Passkey",
       "english": "Register a Passkey",
-      "french": "Enregistrez un touke",
+      "french": "Enregistrez un Passkey",
       "german": "Registrieren Sie einen Passkey",
-      "japanese": "PassKeyを登録します",
-      "korean": "패스 키를 등록하십시오",
+      "japanese": "Passkeyを登録する",
+      "korean": "Passkey 등록",
       "mandarin": "注册一个Passkey",
-      "portuguese": "Registre uma pasta passada",
-      "spanish": "Registre un PassKey"
+      "portuguese": "Registre uma Passkey",
+      "spanish": "Registrar una Passkey",
+      "turkish": "Bir Passkey kaydedin"
     },
     "returning-continue": {
       "dutch": "Doorgaan met {0}",
@@ -1307,11 +1310,12 @@
       "english": "Simplify your 2FA with Passkeys",
       "french": "Simplifiez votre 2FA avec Passkeys",
       "german": "Vereinfachen Sie Ihre 2FA mit Passkeys",
-      "japanese": "PassKeysで2FAを簡素化します",
-      "korean": "패스 키로 2FA를 단순화하십시오",
-      "mandarin": "用Passkeys简化2FA",
-      "portuguese": "Simplifique seu 2FA com passagens",
-      "spanish": "Simplifique su 2FA con PassKeys"
+      "japanese": "Passkeys を使用して 2FA を簡素化する",
+      "korean": "Passkeys로 2FA를 단순화하세요",
+      "mandarin": "使用 Passkeys 简化您的 2FA",
+      "portuguese": "Simplifique seu 2FA com Passkeys",
+      "spanish": "Simplifique su 2FA con Passkeys",
+      "turkish": "Passkeys ile 2FA'nızı basitleştirin"
     },
     "social-2fa-used-passwordless": {
       "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
@@ -1445,15 +1449,16 @@
       "spanish": "Usa PassKey"
     },
     "usePasskeyDesc": {
-      "dutch": "Als u klaar bent, verifieert u met uw Passkey met de onderstaande knop.",
-      "english": "When you are ready, verify with your passkey using the button below. ",
-      "french": "Lorsque vous êtes prêt, vérifiez avec votre touche passante en utilisant le bouton ci-dessous.",
-      "german": "Wenn Sie bereit sind, überprüfen Sie mit Ihrem PassKey mit dem folgenden Button.",
-      "japanese": "準備ができたら、下のボタンを使用してPassKeyで確認してください。",
-      "korean": "준비가되면 아래 버튼을 사용하여 Passkey를 확인하십시오.",
-      "mandarin": "准备就绪后，使用下面的按钮验证Passkey。",
-      "portuguese": "Quando estiver pronto, verifique com a sua pasta passada usando o botão abaixo.",
-      "spanish": "Cuando esté listo, verifique con su clave de passación usando el botón a continuación."
+      "dutch": "Als u klaar bent, kunt u uw passkey verifiëren via de onderstaande knop.",
+      "english": "When you are ready, verify with your passkey using the button below.",
+      "french": "Lorsque vous êtes prêt, vérifiez avec votre passkey en utilisant le bouton ci-dessous.",
+      "german": "Wenn Sie bereit sind, bestätigen Sie mit Ihrem passkey über die Schaltfläche unten.",
+      "japanese": "準備ができたら、下のボタンを使用して passkey を確認してください。",
+      "korean": "준비가 되면 아래 버튼을 사용하여 passkey를 확인하세요.",
+      "mandarin": "准备好后，请使用下面的按钮验证您的passkey。",
+      "portuguese": "Quando estiver pronto, verifique sua passkey usando o botão abaixo.",
+      "spanish": "Cuando esté listo, verifique con su passkey usando el botón a continuación.",
+      "turkish": "Hazır olduğunuzda aşağıdaki düğmeyi kullanarak passkey kodunuzla doğrulayın."
     },
     "verifier-email-desc": {
       "dutch": "Doorgaan met e-mail",
@@ -1552,15 +1557,16 @@
       "turkish": "Önceden belirlediğiniz sosyal kurtarma faktörü ile doğrulama yapın"
     },
     "verifyPasskey": {
-      "dutch": "Controleer Passkey",
+      "dutch": "Verifieer Passkey",
       "english": "Verify Passkey",
-      "french": "Vérifiez",
-      "german": "Überprüfen Sie PassKey",
-      "japanese": "PassKeyを確認します",
-      "korean": "PassKey를 확인하십시오",
+      "french": "Vérifier Passkey",
+      "german": "Passkey überprüfen",
+      "japanese": "Passkeyを確認してください",
+      "korean": "Passkey 확인",
       "mandarin": "验证Passkey",
-      "portuguese": "Verifique se a pasta",
-      "spanish": "Verificar PassKey"
+      "portuguese": "Verifique Passkey",
+      "spanish": "Verificar Passkey",
+      "turkish": "Passkey'yi doğrulayın"
     }
   }
 }
