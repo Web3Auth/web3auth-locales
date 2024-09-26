@@ -105,7 +105,7 @@
       "korean": "더 알아보기",
       "mandarin": "了解更多",
       "portuguese": "Saber mais",
-      "spanish": "Aprende más",
+      "spanish": "Saber más",
       "turkish": "Daha fazla bilgi edinin"
     },
     "missing-params": {
@@ -117,7 +117,7 @@
       "korean": "누락된 매개변수",
       "mandarin": "缺少参数",
       "portuguese": "Parâmetros ausentes",
-      "spanish": "Parámetros faltantes",
+      "spanish": "Faltan parámetros",
       "turkish": "Eksik parametreler"
     },
     "operation-timeout": {
@@ -153,7 +153,7 @@
       "korean": "장치 등록",
       "mandarin": "注册您的设备",
       "portuguese": "Registrando seu dispositivo",
-      "spanish": "Registro de su dispositivo",
+      "spanish": "Registrando su dispositivo",
       "turkish": "Cihazınız kaydediliyor"
     },
     "required-params-note": {

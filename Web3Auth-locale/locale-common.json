@@ -36,6 +36,30 @@
       "spanish": "cuenta para continuar",
       "turkish": "devam edecek hesap"
     },
+    "errors-invalid-email": {
+      "dutch": "Ongeldig e-mailadres",
+      "english": "Invalid Email",
+      "french": "E-mail invalide",
+      "german": "Ungültige E-Mail",
+      "japanese": "無効な電子メール",
+      "korean": "잘못된 이메일",
+      "mandarin": "无效的电子邮件",
+      "portuguese": "E-mail inválido",
+      "spanish": "Correo electrónico no válido",
+      "turkish": "Geçersiz E-posta"
+    },
+    "errors-invalid-number": {
+      "dutch": "Ongeldig telefoonnummer",
+      "english": "Invalid Phone Number",
+      "french": "Numéro de téléphone invalide",
+      "german": "Ungültige Telefonnummer",
+      "japanese": "無効な電話番号",
+      "korean": "잘못된 전화번호",
+      "mandarin": "电话号码无效",
+      "portuguese": "Número de telefone inválido",
+      "spanish": "Número de teléfono no válido",
+      "turkish": "Geçersiz Telefon Numarası"
+    },
     "errors-invalid-number-email": {
       "dutch": "Ongeldig e-mailadres of telefoonnummer",
       "english": "Invalid Email or Phone Number",
@@ -45,7 +69,7 @@
       "korean": "잘못된 이메일 또는 전화번호",
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email ou número de telefone inválido",
-      "spanish": "Correo electrónico o número de teléfono inválido",
+      "spanish": "Correo electrónico o número de teléfono no válido",
       "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-required": {
@@ -73,16 +97,52 @@
       "turkish": "Geri"
     },
     "external.connect": {
-      "dutch": "Verbinden met portemonnee",
-      "english": "Connect with Wallet",
-      "french": "Se connecter avec un portefeuille",
-      "german": "Mit Wallet verbinden",
-      "japanese": "ウォレットと接続",
-      "korean": "지갑에 연결",
-      "mandarin": "使用钱包连接",
-      "portuguese": "Conectar com carteira",
+      "dutch": "Ga verder met een portemonnee",
+      "english": "Continue with a wallet",
+      "french": "Continuer avec un portefeuille",
+      "german": "Fahren Sie mit einer Brieftasche fort",
+      "japanese": "ウォレットを続ける",
+      "korean": "지갑으로 계속하기",
+      "mandarin": "继续使用钱包",
+      "portuguese": "Continuar com uma carteira",
       "spanish": "Conectar con la billetera",
-      "turkish": "Cüzdan ile Bağlan"
+      "turkish": "Cüzdanla devam et"
+    },
+    "external.search-text": {
+      "dutch": "Ziet u uw portemonnee niet?",
+      "english": "Don't see your wallet?",
+      "french": "Vous ne voyez pas votre portefeuille ?",
+      "german": "Sie sehen Ihr Portemonnaie nicht?",
+      "japanese": "財布が見えませんか？",
+      "korean": "지갑이 보이지 않나요?",
+      "mandarin": "没看到你的钱包吗？",
+      "portuguese": "Não vê sua carteira?",
+      "spanish": "¿No ves tu billetera?",
+      "turkish": "Cüzdanınızı görmüyor musunuz?"
+    },
+    "external.search-subtext": {
+      "dutch": "Probeer in plaats daarvan te zoeken",
+      "english": "Try search instead",
+      "french": "Essayez plutôt de rechercher",
+      "german": "Versuchen Sie es stattdessen mit der Suche",
+      "japanese": "代わりに検索してみてください",
+      "korean": "대신 검색해 보세요",
+      "mandarin": "尝试改为搜索",
+      "portuguese": "Tente pesquisar",
+      "spanish": "Intenta buscar en su lugar",
+      "turkish": "Bunun yerine aramayı deneyin"
+    },
+    "external.connect-wallet": {
+      "dutch": "Verbinden met portemonnee",
+      "english": "Connect Wallet",
+      "french": "Connecter le portefeuille",
+      "german": "Wallet verbinden",
+      "japanese": "ウォレットを接続",
+      "korean": "지갑 연결",
+      "mandarin": "连接钱包",
+      "portuguese": "Conectar carteira",
+      "spanish": "Conectar billetera",
+      "turkish": "Cüzdanı Bağla"
     },
     "external.continue": {
       "dutch": "Ga verder met externe portemonnee",
@@ -95,6 +155,100 @@
       "portuguese": "Continuar com carteira externa",
       "spanish": "Continuar con billetera externa",
       "turkish": "Harici cüzdanla devam et"
+    },
+    "external.dont-have": {
+      "dutch": "Heb niet",
+      "english": "Don't have",
+      "french": "N'avez pas",
+      "german": "Haben nicht",
+      "japanese": "持っていない",
+      "korean": "없음",
+      "mandarin": "没有",
+      "portuguese": "Não tem",
+      "spanish": "No tiene",
+      "turkish": "Yok"
+    },
+    "external.get": {
+      "dutch": "Krijgen",
+      "english": "Get",
+      "french": "Obtenir",
+      "german": "Erhalten",
+      "japanese": "取得",
+      "korean": "받기",
+      "mandarin": "获取",
+      "portuguese": "Obter",
+      "spanish": "Obtener",
+      "turkish": "Al"
+    },
+    "external.get-wallet": {
+      "dutch": "Portemonnee krijgen",
+      "english": "Get Wallet",
+      "french": "Obtenir un portefeuille",
+      "german": "Wallet erhalten",
+      "japanese": "ウォレットを取得",
+      "korean": "지갑 받기",
+      "mandarin": "获取钱包",
+      "portuguese": "Obter carteira",
+      "spanish": "Obtener billetera",
+      "turkish": "Cüzdan Al"
+    },
+    "external.install-browser-extension": {
+      "dutch": "{{browser}}-extensie installeren",
+      "english": "Install {{browser}} extension",
+      "german": "Installieren Sie die {{browser}}-Erweiterung",
+      "japanese": "{{browser}} 拡張機能をインストール",
+      "korean": "{{browser}} 확장 프로그램 설치",
+      "mandarin": "安装{{browser}}扩展",
+      "portuguese": "Instalar extensão {{browser}}",
+      "spanish": "Instalar extensión {{browser}}",
+      "turkish": "{{browser}} uzantısını yükle"
+    },
+    "external.install-mobile-app": {
+      "dutch": "Installeer {{os}}-app",
+      "english": "Install {{os}} app",
+      "german": "Installieren Sie die {{os}}-App",
+      "japanese": "{{os}}アプリをインストール",
+      "korean": "{{os}} 앱 설치",
+      "mandarin": "安装{{os}}应用",
+      "portuguese": "Instalar aplicativo {{os}}",
+      "spanish": "Instalar aplicación {{os}}",
+      "turkish": "{{os}} uygulamasını yükle"
+    },
+    "external.installed": {
+      "dutch": "Geïnstalleerd",
+      "english": "Installed",
+      "french": "Installé",
+      "german": "Installiert",
+      "japanese": "インストール済み",
+      "korean": "설치됨",
+      "mandarin": "已安装",
+      "portuguese": "Instalado",
+      "spanish": "Instalado",
+      "turkish": "Yüklendi"
+    },
+    "external.no-wallets-found": {
+      "dutch": "Geen portefeuilles gevonden",
+      "english": "No wallets found",
+      "french": "Aucun portefeuille trouvé",
+      "german": "Keine Wallets gefunden",
+      "japanese": "ウォレットが見つかりません",
+      "korean": "지갑을 찾을 수 없습니다.",
+      "mandarin": "没有找到钱包",
+      "portuguese": "Nenhuma carteira encontrada",
+      "spanish": "No se encontraron billeteras",
+      "turkish": "Cüzdan bulunamadı"
+    },
+    "external.search-wallet": {
+      "dutch": "Zoeken door {{count}} portemonnees...",
+      "english": "Search through {{count}} wallets...",
+      "french": "Rechercher parmi {{count}} portefeuilles...",
+      "german": "Suche durch {{count}} Geldbörsen...",
+      "japanese": "{{count}} ウォレットを検索...",
+      "korean": "{{count}} 지갑 검색...",
+      "mandarin": "搜索{{count}}个钱包...",
+      "portuguese": "Pesquisar através de {{count}} carteiras...",
+      "spanish": "Buscar a través de {{count}} billeteras...",
+      "turkish": "{{count}} cüzdan ara..."
     },
     "external.title": {
       "dutch": "Externe portemonnee",
@@ -121,16 +275,16 @@
       "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
-      "dutch": "Klik op de QR-code om te kopiëren naar het klembord",
-      "english": "Click on the QR Code to copy to clipboard",
-      "french": "Cliquez sur le code QR pour le copier dans le presse-papiers",
-      "german": "Klicken Sie auf den QR-Code, um ihn in die Zwischenablage zu kopieren",
-      "japanese": "QRコードをクリックしてクリップボードにコピー",
-      "korean": "클립보드에 복사하려면 QR 코드를 클릭하세요",
-      "mandarin": "点击二维码复制到剪贴板",
-      "portuguese": "Clique no código QR para copiar para a área de transferência",
-      "spanish": "Haz clic en el código QR para copiarlo al portapapeles",
-      "turkish": "Panoya kopyalamak için QR koduna tıkla"
+      "dutch": "Scan met een WalletConnect-ondersteunde portemonnee of klik op de QR-code om naar uw klembord te kopiëren.",
+      "english": "Scan with a WalletConnect-supported wallet or click the QR code to copy to your clipboard.",
+      "french": "Scannez avec un portefeuille pris en charge par WalletConnect ou cliquez sur le code QR pour le copier dans votre presse-papiers.",
+      "german": "Scannen Sie mit einem von WalletConnect unterstützten Wallet oder klicken Sie auf den QR-Code, um ihn in Ihre Zwischenablage zu kopieren.",
+      "japanese": "WalletConnect がサポートするウォレットでスキャンするか、QR コードをクリックしてクリップボードにコピーします。",
+      "korean": "WalletConnect 지원 지갑으로 스캔하거나 QR 코드를 클릭하여 클립보드에 복사하세요.",
+      "mandarin": "使用支持 WalletConnect 的钱包进行扫描或单击二维码以复制到剪贴板。",
+      "portuguese": "Digitalize com uma carteira compatível com WalletConnect ou clique no código QR para copiar para sua área de transferência.",
+      "spanish": "Escanee con una billetera compatible con WalletConnect o haga clic en el código QR para copiarlo en su portapapeles.",
+      "turkish": "WalletConnect destekli bir cüzdanla tarayın veya panonuza kopyalamak için QR kodunu tıklayın."
     },
     "external.walletconnect-subtitle": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
@@ -273,7 +427,7 @@
       "korean": "지갑은 블록체인에서 디지털 자산을 저장하고 관리하는 데 사용되는 계정입니다.",
       "mandarin": "钱包作为一个账户用于在区块链上存储和管理您的数字资产。",
       "portuguese": "A carteira serve como uma conta para armazenar e gerenciar seus ativos digitais na blockchain.",
-      "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la cadena de bloques.",
+      "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la blockchain.",
       "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür."
     },
     "header-tooltip-title": {
@@ -360,6 +514,90 @@
       "spanish": "A",
       "turkish": "Nereye"
     },
+    "passkey.add": {
+      "dutch": "Passkey toevoegen",
+      "english": "Add Passkey",
+      "french": "Ajouter Passkey",
+      "german": "Passkey hinzufügen",
+      "japanese": "{パス}を追加",
+      "korean": "Passkey 추가",
+      "mandarin": "添加Passkey",
+      "portuguese": "Adicionar Passkey",
+      "spanish": "Añadir Passkey",
+      "turkish": "Passkey ekle"
+    },
+    "passkey.haveExisting": {
+      "dutch": "Heeft u een bestaande passkey?",
+      "english": "Have an existing passkey?",
+      "french": "Vous disposez déjà d'un passkey ?",
+      "german": "Haben Sie bereits einen passkey?",
+      "japanese": "既存の passkey をお持ちですか?",
+      "korean": "기존 passkey가 있습니까?",
+      "mandarin": "已有 passkey 吗？",
+      "portuguese": "Você já possui um passkey?",
+      "spanish": "¿Tiene un passkey existente?",
+      "turkish": "Mevcut bir passkey'ınız mı var?"
+    },
+    "passkey.learn-more": {
+      "dutch": "Kom meer te weten",
+      "english": "Learn more",
+      "french": "Apprendre encore plus",
+      "german": "Erfahren Sie mehr",
+      "japanese": "もっと詳しく知る",
+      "korean": "더 알아보기",
+      "mandarin": "了解更多",
+      "portuguese": "Saber mais",
+      "spanish": "Aprende más",
+      "turkish": "Daha fazla bilgi edin"
+    },
+    "passkey.or": {
+      "dutch": "of",
+      "english": "or",
+      "french": "ou",
+      "german": "oder",
+      "japanese": "または",
+      "korean": "또는",
+      "mandarin": "或者",
+      "portuguese": "ou",
+      "spanish": "o",
+      "turkish": "veya"
+    },
+    "passkey.register-desc": {
+      "dutch": "Met passkeys kunt u uw identiteit verifiëren via uw gezicht, vingerafdruk of beveiligingssleutels.",
+      "english": "With passkeys, you can verify your identity through your face, fingerprint, or security keys.",
+      "french": "Avec passkeys, vous pouvez vérifier votre identité grâce à votre visage, vos empreintes digitales ou vos clés de sécurité.",
+      "german": "Mit passkeys können Sie Ihre Identität durch Ihr Gesicht, Ihren Fingerabdruck oder Sicherheitsschlüssel überprüfen.",
+      "japanese": "passkeys を使用すると、顔、指紋、またはセキュリティ キーを使用して本人確認を行うことができます。",
+      "korean": "passkeys를 사용하면 얼굴, 지문 또는 보안 키를 통해 본인임을 확인할 수 있습니다.",
+      "mandarin": "使用passkeys，您可以通过面部、指纹或安全密钥验证您的身份。",
+      "portuguese": "Com passkeys, você pode verificar sua identidade por meio de seu rosto, impressão digital ou chaves de segurança.",
+      "spanish": "Con passkeys, puedes verificar tu identidad a través de tu rostro, huella digital o claves de seguridad.",
+      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
+    },
+    "passkey.register-title": {
+      "dutch": "Registreer Passkey",
+      "english": "Register Passkey",
+      "french": "Inscrivez-vous Passkey",
+      "german": "Registrieren Sie Passkey",
+      "japanese": "Passkey を登録する",
+      "korean": "Passkey 등록",
+      "mandarin": "注册Passkey",
+      "portuguese": "Registre-se Passkey",
+      "spanish": "Registrarse Passkey",
+      "turkish": "Passkey'ı kaydedin"
+    },
+    "passkey.use": {
+      "dutch": "Ik heb een passkey",
+      "english": "I have a passkey",
+      "french": "J'ai un passkey",
+      "german": "Ich habe einen passkey",
+      "japanese": "Passkey を持っています",
+      "korean": "나에게는 passkey이(가) 있습니다.",
+      "mandarin": "我有一个Passkey",
+      "portuguese": "Eu tenho uma passkey",
+      "spanish": "Tengo una Passkey",
+      "turkish": "Bir passkey'im var"
+    },
     "popup.phone-body": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u handmatig de juiste landcode invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
@@ -383,6 +621,30 @@
       "portuguese": "Número de telefone e código do país",
       "spanish": "Número de teléfono y código de país",
       "turkish": "Telefon numarası ve ülke kodu"
+    },
+    "post-loading.connected": {
+      "dutch": "U bent verbonden met uw account",
+      "english": "You are connected with your account",
+      "french": "Vous êtes connecté avec votre compte",
+      "german": "Sie sind mit Ihrem Konto verbunden",
+      "japanese": "アカウントに接続されています",
+      "korean": "귀하는 귀하의 계정과 연결되어 있습니다",
+      "mandarin": "您与您的帐户有联系",
+      "portuguese": "Você está conectado com sua conta",
+      "spanish": "Estás conectado con tu cuenta",
+      "turkish": "Hesabınızla bağlandınız"
+    },
+    "post-loading.something-wrong": {
+      "dutch": "Er is iets fout gegaan!",
+      "english": "Something went wrong!",
+      "french": "Quelque chose s'est mal passé!",
+      "german": "Etwas ist schief gelaufen!",
+      "japanese": "何かがうまくいかなかった！",
+      "korean": "뭔가 잘못되었습니다!",
+      "mandarin": "出了些问题！",
+      "portuguese": "Algo deu errado!",
+      "spanish": "¡Algo salió mal!",
+      "turkish": "Bir şeyler ters gitti!"
     },
     "social.continue": {
       "dutch": "Doorgaan met",
@@ -564,18 +826,6 @@
       "spanish": "Ver menos",
       "turkish": "Daha az görüntüle"
     },
-    "social.view-more": {
-      "dutch": "Meer bekijken",
-      "english": "View more",
-      "french": "Voir plus",
-      "german": "Mehr anzeigen",
-      "japanese": "もっと見る",
-      "korean": "더보기",
-      "mandarin": "查看更多",
-      "portuguese": "Ver mais",
-      "spanish": "Ver más",
-      "turkish": "Daha fazla görüntüle"
-    },
     "social.view-less-socials": {
       "dutch": "Bekijk minder socials",
       "english": "View less socials",
@@ -588,6 +838,18 @@
       "spanish": "Ver menos socials",
       "turkish": "Daha az socials görüntüle"
     },
+    "social.view-more": {
+      "dutch": "Meer bekijken",
+      "english": "View more",
+      "french": "Voir plus",
+      "german": "Mehr anzeigen",
+      "japanese": "もっと見る",
+      "korean": "더보기",
+      "mandarin": "查看更多",
+      "portuguese": "Ver mais",
+      "spanish": "Ver más",
+      "turkish": "Daha fazla görüntüle"
+    },
     "social.view-more-socials": {
       "dutch": "Bekijk meer socials",
       "english": "View more socials",
@@ -599,114 +861,6 @@
       "portuguese": "Ver mais socials",
       "spanish": "Ver más socials",
       "turkish": "Daha fazlasını görüntüle socials"
-    },
-    "passkey.haveExisting": {
-      "dutch": "Heeft u een bestaande passkey?",
-      "english": "Have an existing passkey?",
-      "french": "Vous disposez déjà d'un passkey ?",
-      "german": "Haben Sie bereits einen passkey?",
-      "japanese": "既存の passkey をお持ちですか?",
-      "korean": "기존 passkey가 있습니까?",
-      "mandarin": "已有 passkey 吗？",
-      "portuguese": "Você já possui um passkey?",
-      "spanish": "¿Tiene un passkey existente?",
-      "turkish": "Mevcut bir passkey'ınız mı var?"
-    },
-    "passkey.use": {
-      "dutch": "Ik heb een passkey",
-      "english": "I have a passkey",
-      "french": "J'ai un passkey",
-      "german": "Ich habe einen passkey",
-      "japanese": "Passkey を持っています",
-      "korean": "나에게는 passkey이(가) 있습니다.",
-      "mandarin": "我有一个Passkey",
-      "portuguese": "Eu tenho uma passkey",
-      "spanish": "Tengo una Passkey",
-      "turkish": "Bir passkey'im var"
-    },
-    "passkey.or": {
-      "dutch": "of",
-      "english": "or",
-      "french": "ou",
-      "german": "oder",
-      "japanese": "または",
-      "korean": "또는",
-      "mandarin": "或者",
-      "portuguese": "ou",
-      "spanish": "o",
-      "turkish": "veya"
-    },
-    "passkey.register-title": {
-      "dutch": "Registreer Passkey",
-      "english": "Register Passkey",
-      "french": "Inscrivez-vous Passkey",
-      "german": "Registrieren Sie Passkey",
-      "japanese": "Passkey を登録する",
-      "korean": "Passkey 등록",
-      "mandarin": "注册Passkey",
-      "portuguese": "Registre-se Passkey",
-      "spanish": "Registrarse Passkey",
-      "turkish": "Passkey'ı kaydedin"
-    },
-    "passkey.register-desc": {
-      "dutch": "Met passkeys kunt u uw identiteit verifiëren via uw gezicht, vingerafdruk of beveiligingssleutels.",
-      "english": "With passkeys, you can verify your identity through your face, fingerprint, or security keys.",
-      "french": "Avec passkeys, vous pouvez vérifier votre identité grâce à votre visage, vos empreintes digitales ou vos clés de sécurité.",
-      "german": "Mit passkeys können Sie Ihre Identität durch Ihr Gesicht, Ihren Fingerabdruck oder Sicherheitsschlüssel überprüfen.",
-      "japanese": "passkeys を使用すると、顔、指紋、またはセキュリティ キーを使用して本人確認を行うことができます。",
-      "korean": "passkeys를 사용하면 얼굴, 지문 또는 보안 키를 통해 본인임을 확인할 수 있습니다.",
-      "mandarin": "使用passkeys，您可以通过面部、指纹或安全密钥验证您的身份。",
-      "portuguese": "Com passkeys, você pode verificar sua identidade por meio de seu rosto, impressão digital ou chaves de segurança.",
-      "spanish": "Con passkeys, puedes verificar tu identidad a través de tu rostro, huella digital o claves de seguridad.",
-      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
-    },
-    "passkey.learn-more": {
-      "dutch": "Kom meer te weten",
-      "english": "Learn more",
-      "french": "Apprendre encore plus",
-      "german": "Erfahren Sie mehr",
-      "japanese": "もっと詳しく知る",
-      "korean": "더 알아보기",
-      "mandarin": "了解更多",
-      "portuguese": "Saber mais",
-      "spanish": "Aprende más",
-      "turkish": "Daha fazla bilgi edin"
-    },
-    "passkey.add": {
-      "dutch": "Passkey toevoegen",
-      "english": "Add Passkey",
-      "french": "Ajouter Passkey",
-      "german": "Passkey hinzufügen",
-      "japanese": "{パス}を追加",
-      "korean": "Passkey 추가",
-      "mandarin": "添加Passkey",
-      "portuguese": "Adicionar Passkey",
-      "spanish": "Añadir Passkey",
-      "turkish": "Passkey ekle"
-    },
-    "post-loading.connected": {
-      "dutch": "U bent verbonden met uw account",
-      "english": "You are connected with your account",
-      "french": "Vous êtes connecté avec votre compte",
-      "german": "Sie sind mit Ihrem Konto verbunden",
-      "japanese": "アカウントに接続されています",
-      "korean": "귀하는 귀하의 계정과 연결되어 있습니다",
-      "mandarin": "您与您的帐户有联系",
-      "portuguese": "Você está conectado com sua conta",
-      "spanish": "Estás conectado con tu cuenta",
-      "turkish": "Hesabınızla bağlandınız"
-    },
-    "post-loading.something-wrong": {
-      "dutch": "Er is iets fout gegaan!",
-      "english": "Something went wrong!",
-      "french": "Quelque chose s'est mal passé!",
-      "german": "Etwas ist schief gelaufen!",
-      "japanese": "何かがうまくいかなかった！",
-      "korean": "뭔가 잘못되었습니다!",
-      "mandarin": "出了些问题！",
-      "portuguese": "Algo deu errado!",
-      "spanish": "¡Algo salió mal!",
-      "turkish": "Bir şeyler ters gitti!"
     }
   }
 }

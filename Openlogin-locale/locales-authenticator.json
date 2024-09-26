@@ -1,5 +1,17 @@
 {
   "authenticator": {
+    "cancel": {
+      "dutch": "Annuleren",
+      "english": "Cancel",
+      "french": "Annuler",
+      "german": "Stornieren",
+      "japanese": "キャンセル",
+      "korean": "취소",
+      "mandarin": "取消",
+      "portuguese": "Cancelar",
+      "spanish": "Cancelar",
+      "turkish": "İptal etmek"
+    },
     "complete-desc": {
       "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
       "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
@@ -12,6 +24,18 @@
       "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
       "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı kurtarmak için kimlik doğrulama uygulamanızı kullanın."
     },
+    "done": {
+      "dutch": "Klaar",
+      "english": "Done",
+      "french": "Terminé",
+      "german": "Erledigt",
+      "japanese": "完了",
+      "korean": "끝난",
+      "mandarin": "完成",
+      "portuguese": "Concluído",
+      "spanish": "Hecho",
+      "turkish": "Bitti"
+    },
     "error-invalid-otp": {
       "english": "Invalid OTP, please try again",
       "french": "OTP invalide, veuillez réessayer",
@@ -23,6 +47,30 @@
       "spanish": "OTP no válido, inténtelo de nuevo",
       "turkish": "Geçersiz OTP, lütfen tekrar deneyin"
     },
+    "error-something-wrong-error": {
+      "dutch": "Er is iets misgegaan",
+      "english": "Something went wrong",
+      "french": "Quelque chose s'est mal passé",
+      "german": "Etwas ist schief gelaufen",
+      "japanese": "何かがうまくいかなかった",
+      "korean": "문제가 발생했습니다.",
+      "mandarin": "出问题了",
+      "portuguese": "Algo deu errado",
+      "spanish": "Algo salió mal",
+      "turkish": "Bir şeyler ters gitti"
+    },
+    "error-too-many-attempts": {
+      "dutch": "Je hebt te veel pogingen gedaan. Wacht 60 seconden voordat u het opnieuw probeert",
+      "english": "You've made too many attempts. Please wait for 60 sec before trying again",
+      "french": "Vous avez fait trop de tentatives. Veuillez attendre 60 secondes avant de réessayer",
+      "german": "Sie haben zu viele Versuche unternommen. Bitte warten Sie 60 Sekunden, bevor Sie es erneut versuchen",
+      "japanese": "試みが多すぎます。 60 秒待ってから再試行してください",
+      "korean": "시도를 너무 많이 했습니다. 60초 동안 기다린 후 다시 시도해 주세요.",
+      "mandarin": "你已经做了太多的尝试。请等待 60 秒，然后重试",
+      "portuguese": "Você fez muitas tentativas. Aguarde 60 segundos antes de tentar novamente",
+      "spanish": "Has hecho demasiados intentos. Espere 60 segundos antes de volver a intentarlo.",
+      "turkish": "Çok fazla deneme yaptınız. Tekrar denemeden önce lütfen 60 saniye bekleyin"
+    },
     "manual-entry": {
       "dutch": "Voer de code handmatig in",
       "english": "Enter code manually",
@@ -32,8 +80,20 @@
       "korean": "코드를 수동으로 입력하십시오.",
       "mandarin": "手动输入代码",
       "portuguese": "Digite o código manualmente",
-      "spanish": "Ingrese el código manualmente",
+      "spanish": "Introduzca el código manualmente",
       "turkish": "Kodu manuel olarak girin"
+    },
+    "next": {
+      "dutch": "Volgende",
+      "english": "Next",
+      "french": "Suivant",
+      "german": "Nächster",
+      "japanese": "次",
+      "korean": "다음",
+      "mandarin": "下一个",
+      "portuguese": "Próximo",
+      "spanish": "Próximo",
+      "turkish": "Sonraki"
     },
     "scan-qr-code": {
       "dutch": "Scan QR-code",
@@ -48,8 +108,8 @@
       "turkish": "QR kodunu tarayın"
     },
     "setup-complete-desc": {
-      "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
       "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
+      "english": "If you lose access to your 2nd factor, use your authenticator app to get back your account.",
       "french": "Si vous perdez l'accès à votre deuxième facteur, utilisez votre application d'authentification pour récupérer votre compte.",
       "german": "Wenn Sie den Zugriff auf Ihren 2. Faktor verlieren, verwenden Sie Ihre Authentifizierungs-App, um Ihr Konto wiederherzustellen.",
       "japanese": "2 番目の要素にアクセスできなくなった場合は、認証アプリを使用してアカウントを取り戻します。",
@@ -68,7 +128,7 @@
       "korean": "앱 Authenticator 를 복구 요소로 성공적으로 추가했습니다.",
       "mandarin": "已成功将 Authenticator 应用程序添加为恢复因素。",
       "portuguese": "O aplicativo Authenticator como fator de recuperação foi adicionado com sucesso",
-      "spanish": "La aplicación Authenticator como factor de recuperación se agregó correctamente",
+      "spanish": "La aplicación Authenticator como factor de recuperación se añadio correctamente",
       "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi"
     },
     "setup-desc": {
@@ -104,7 +164,7 @@
       "korean": "인증 앱에서 6 자리 인증 코드를 입력하십시오.",
       "mandarin": "从您的身份验证应用程序输入 6 位数验证码",
       "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
-      "spanish": "Ingrese el código de verificación de 6 dígitos de su aplicación de autenticación",
+      "spanish": "Introduzca el código de verificación de 6 dígitos de su aplicación de autenticación",
       "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin"
     },
     "verify-title": {
@@ -118,66 +178,6 @@
       "portuguese": "Verifique seu aplicativo Authenticator",
       "spanish": "Verifique su aplicación Authenticator",
       "turkish": "Authenticator Uygulamanızı doğrulayın"
-    },
-    "cancel": {
-      "dutch": "Annuleren",
-      "english": "Cancel",
-      "french": "Annuler",
-      "german": "Stornieren",
-      "japanese": "キャンセル",
-      "korean": "취소",
-      "mandarin": "取消",
-      "portuguese": "Cancelar",
-      "spanish": "Cancelar",
-      "turkish": "İptal etmek"
-    },
-    "done": {
-      "dutch": "Klaar",
-      "english": "Done",
-      "french": "Terminé",
-      "german": "Erledigt",
-      "japanese": "完了",
-      "korean": "끝난",
-      "mandarin": "完成",
-      "portuguese": "Concluído",
-      "spanish": "Hecho",
-      "turkish": "Bitti"
-    },
-    "next": {
-      "dutch": "Volgende",
-      "english": "Next",
-      "french": "Suivant",
-      "german": "Nächster",
-      "japanese": "次",
-      "korean": "다음",
-      "mandarin": "下一个",
-      "portuguese": "Próximo",
-      "spanish": "Próximo",
-      "turkish": "Sonraki"
-    },
-    "error-something-wrong-error": {
-      "dutch": "Er is iets misgegaan",
-      "english": "Something went wrong",
-      "french": "Quelque chose s'est mal passé",
-      "german": "Etwas ist schief gelaufen",
-      "japanese": "何かがうまくいかなかった",
-      "korean": "문제가 발생했습니다.",
-      "mandarin": "出问题了",
-      "portuguese": "Algo deu errado",
-      "spanish": "Algo salió mal",
-      "turkish": "Bir şeyler ters gitti"
-    },
-    "error-too-many-attempts": {
-      "english": "You've made too many attempts. Please wait for 60 sec before trying again",
-      "german": "Sie haben zu viele Versuche unternommen. Bitte warten Sie 60 Sekunden, bevor Sie es erneut versuchen",
-      "japanese": "試みが多すぎます。 60 秒待ってから再試行してください",
-      "korean": "시도를 너무 많이 했습니다. 60초 동안 기다린 후 다시 시도해 주세요.",
-      "mandarin": "你已经做了太多的尝试。请等待 60 秒，然后重试",
-      "spanish": "Has hecho demasiados intentos. Espere 60 segundos antes de volver a intentarlo.",
-      "portuguese": "Você fez muitas tentativas. Aguarde 60 segundos antes de tentar novamente",
-      "dutch": "Je hebt te veel pogingen gedaan. Wacht 60 seconden voordat u het opnieuw probeert",
-      "french": "Vous avez fait trop de tentatives. Veuillez attendre 60 secondes avant de réessayer",
-      "turkish": "Çok fazla deneme yaptınız. Tekrar denemeden önce lütfen 60 saniye bekleyin"
     }
   }
 }

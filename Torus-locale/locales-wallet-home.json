@@ -396,6 +396,14 @@
 			"mandarin": "连接中",
 			"spanish": "Conectando"
 		},
+		"connectWallet": {
+			"english": "Connect your Wallet",
+			"german": "Schließen Sie Ihre Brieftasche an",
+			"japanese": "ウォレットを接続します",
+			"korean": "지갑을 연결하십시오",
+			"mandarin": "连接钱包",
+			"spanish": "Conecte su billetera"
+		},
 		"disconnect": {
 			"english": "Disconnect",
 			"german": "Trennen",
@@ -428,45 +436,29 @@
 			"mandarin": "隐藏指南",
 			"spanish": "Ocultar guía"
 		},
-		"scanToConnect": {
-			"english": "Scan to connect",
-			"german": "Zum Verbinden scannen",
-			"japanese": "スキャンして接続",
-			"korean": "스캔하여 연결",
-			"mandarin": "扫描连接",
-			"spanish": "Escanear para conectar"
+		"keepWalletOpen": {
+			"english": "Keep this wallet open to approve a signature request from {0} later",
+			"german": "Halten Sie diese Brieftasche offen, um eine Signaturanforderung von {0} später zu genehmigen",
+			"japanese": "このウォレットを開いて、{0}からの署名要求を後で承認します",
+			"korean": "{0} 나중에 서명 요청을 승인하기 위해이 지갑을 열어 두십시오.",
+			"mandarin": "让此钱包打开以批准{0}的签名请求",
+			"spanish": "Mantenga esta billetera abierta para aprobar una solicitud de firma de {0} más tarde"
 		},
-		"title": {
-			"english": "Connect to DApp via WalletConnect",
-			"german": "Verbinden Sie sich über WalletConnect mit DApp",
-			"japanese": "WalletConnect 経由で DApp に接続する",
-			"korean": "WalletConnect를 통해 DApp에 연결",
-			"mandarin": "通过 WalletConnect 连接到 DApp",
-			"spanish": "Conéctese a DApp a través de WalletConnect"
+		"qRInputPlaceholder": {
+			"english": "Paste QR link here",
+			"german": "Fügen Sie hier den QR -Link ein",
+			"japanese": "ここにQRリンクを貼り付けます",
+			"korean": "여기에 QR 링크를 붙여 넣으십시오",
+			"mandarin": "粘贴QR链接在这里",
+			"spanish": "Pegar el enlace QR aquí"
 		},
-		"titleOpensea": {
-			"english": "Connect to OpenSea via WalletConnect",
-			"german": "Stellen Sie über WalletConnect mit Opensea an",
-			"japanese": "WalletConnectを介してOpenseaに接続します",
-			"korean": "WalletConnect를 통해 OpenSea에 연결하십시오",
-			"mandarin": "通过WalletConnect连接到OpenSea",
-			"spanish": "Conectar a Opensea a través de WalletConnect"
-		},
-		"viewGuide": {
-			"english": "View guide",
-			"german": "Anleitung ansehen",
-			"japanese": "ガイドを見る",
-			"korean": "가이드 보기",
-			"mandarin": "查看指南",
-			"spanish": "Ver guía"
-		},
-		"useWalletConnect": {
-			"english": "Use WalletConnect",
-			"german": "Verwenden Sie Walletconnect",
-			"japanese": "WalletConnectを使用します",
-			"korean": "WalletConnect를 사용하십시오",
-			"mandarin": "使用WalletConnect",
-			"spanish": "Use WalletConnect"
+		"qrScan": {
+			"english": "Scan instead",
+			"german": "Stattdessen scannen",
+			"japanese": "代わりにスキャンします",
+			"korean": "대신 스캔하십시오",
+			"mandarin": "而是扫描",
+			"spanish": "Escanear"
 		},
 		"requestApproved": {
 			"english": "Request approved!",
@@ -476,53 +468,13 @@
 			"mandarin": "要求批准！",
 			"spanish": "¡Petición aprobada!"
 		},
-		"youAreConnected": {
-			"english": "You are now connected!",
-			"german": "Sie sind jetzt verbunden!",
-			"japanese": "あなたは今つながっています！",
-			"korean": "당신은 이제 연결되어 있습니다!",
-			"mandarin": "您现在已经连接了！",
-			"spanish": "¡Ahora estás conectado!"
-		},
-		"successfulConnect": {
-			"english": "Successfully connected!",
-			"german": "Erfolgreich verbunden!",
-			"japanese": "正常に接続！",
-			"korean": "성공적으로 연결되었습니다!",
-			"mandarin": "成功连接！",
-			"spanish": "¡Conectado con éxito!"
-		},
-		"connectWallet": {
-			"english": "Connect your Wallet",
-			"german": "Schließen Sie Ihre Brieftasche an",
-			"japanese": "ウォレットを接続します",
-			"korean": "지갑을 연결하십시오",
-			"mandarin": "连接钱包",
-			"spanish": "Conecte su billetera"
-		},
-		"youAllSet": {
-			"english": "You are all set",
-			"german": "Sie sind alle eingestellt",
-			"japanese": "準備万端です",
-			"korean": "당신 준비 다 됐어요",
-			"mandarin": "你们都设定",
-			"spanish": "Estas listo"
-		},
-		"keepWalletOpen": {
-			"english": "Keep this wallet open to approve a signature request from {0} later",
-			"german": "Halten Sie diese Brieftasche offen, um eine Signaturanforderung von {0} später zu genehmigen",
-			"japanese": "このウォレットを開いて、{0}からの署名要求を後で承認します",
-			"korean": "{0} 나중에 서명 요청을 승인하기 위해이 지갑을 열어 두십시오.",
-			"mandarin": "让此钱包打开以批准{0}的签名请求",
-			"spanish": "Mantenga esta billetera abierta para aprobar una solicitud de firma de {0} más tarde"
-		},
-		"takeMeToDapp": {
-			"english": "Take me to {0}",
-			"german": "Bring mich zu {0}",
-			"japanese": "{0}に連れて行ってください",
-			"korean": "{0}로 데려다주세요",
-			"mandarin": "带我去{0}",
-			"spanish": "Llévame a {0}"
+		"scanToConnect": {
+			"english": "Scan to connect",
+			"german": "Zum Verbinden scannen",
+			"japanese": "スキャンして接続",
+			"korean": "스캔하여 연결",
+			"mandarin": "扫描连接",
+			"spanish": "Escanear para conectar"
 		},
 		"step": {
 			"english": "STEP {0}",
@@ -564,21 +516,69 @@
 			"mandarin": "粘贴QR链接在下面的框中。完毕！",
 			"spanish": "Pegue el enlace QR en el cuadro a continuación. ¡Hecho!"
 		},
-		"qRInputPlaceholder": {
-			"english": "Paste QR link here",
-			"german": "Fügen Sie hier den QR -Link ein",
-			"japanese": "ここにQRリンクを貼り付けます",
-			"korean": "여기에 QR 링크를 붙여 넣으십시오",
-			"mandarin": "粘贴QR链接在这里",
-			"spanish": "Pegar el enlace QR aquí"
+		"successfulConnect": {
+			"english": "Successfully connected!",
+			"german": "Erfolgreich verbunden!",
+			"japanese": "正常に接続！",
+			"korean": "성공적으로 연결되었습니다!",
+			"mandarin": "成功连接！",
+			"spanish": "¡Conectado con éxito!"
 		},
-		"qrScan": {
-			"english": "Scan instead",
-			"german": "Stattdessen scannen",
-			"japanese": "代わりにスキャンします",
-			"korean": "대신 스캔하십시오",
-			"mandarin": "而是扫描",
-			"spanish": "Escanear"
+		"takeMeToDapp": {
+			"english": "Take me to {0}",
+			"german": "Bring mich zu {0}",
+			"japanese": "{0}に連れて行ってください",
+			"korean": "{0}로 데려다주세요",
+			"mandarin": "带我去{0}",
+			"spanish": "Llévame a {0}"
+		},
+		"title": {
+			"english": "Connect to DApp via WalletConnect",
+			"german": "Verbinden Sie sich über WalletConnect mit DApp",
+			"japanese": "WalletConnect 経由で DApp に接続する",
+			"korean": "WalletConnect를 통해 DApp에 연결",
+			"mandarin": "通过 WalletConnect 连接到 DApp",
+			"spanish": "Conéctese a DApp a través de WalletConnect"
+		},
+		"titleOpensea": {
+			"english": "Connect to OpenSea via WalletConnect",
+			"german": "Stellen Sie über WalletConnect mit Opensea an",
+			"japanese": "WalletConnectを介してOpenseaに接続します",
+			"korean": "WalletConnect를 통해 OpenSea에 연결하십시오",
+			"mandarin": "通过WalletConnect连接到OpenSea",
+			"spanish": "Conectar a Opensea a través de WalletConnect"
+		},
+		"useWalletConnect": {
+			"english": "Use WalletConnect",
+			"german": "Verwenden Sie Walletconnect",
+			"japanese": "WalletConnectを使用します",
+			"korean": "WalletConnect를 사용하십시오",
+			"mandarin": "使用WalletConnect",
+			"spanish": "Use WalletConnect"
+		},
+		"viewGuide": {
+			"english": "View guide",
+			"german": "Anleitung ansehen",
+			"japanese": "ガイドを見る",
+			"korean": "가이드 보기",
+			"mandarin": "查看指南",
+			"spanish": "Ver guía"
+		},
+		"youAllSet": {
+			"english": "You are all set",
+			"german": "Sie sind alle eingestellt",
+			"japanese": "準備万端です",
+			"korean": "당신 준비 다 됐어요",
+			"mandarin": "你们都设定",
+			"spanish": "Estas listo"
+		},
+		"youAreConnected": {
+			"english": "You are now connected!",
+			"german": "Sie sind jetzt verbunden!",
+			"japanese": "あなたは今つながっています！",
+			"korean": "당신은 이제 연결되어 있습니다!",
+			"mandarin": "您现在已经连接了！",
+			"spanish": "¡Ahora estás conectado!"
 		}
 	},
 	"walletDiscover": {
