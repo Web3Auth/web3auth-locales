@@ -347,6 +347,18 @@
       "spanish": "Creado",
       "turkish": "Oluşturuldu"
     },
+    "dark-mode": {
+      "dutch": "Donkere modus",
+      "english": "Dark mode",
+      "french": "Mode sombre",
+      "german": "Dunkler Modus",
+      "japanese": "ダークモード",
+      "korean": "다크 모드",
+      "mandarin": "深色模式",
+      "portuguese": "Modo escuro",
+      "spanish": "modo oscuro",
+      "turkish": "Karanlık mod"
+    },
     "delete-recovery-title": {
       "dutch": "Herstelfactor verwijderen",
       "english": "Delete Recovery Factor",
