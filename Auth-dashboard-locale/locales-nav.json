@@ -69,13 +69,14 @@
     "link-logout": {
       "dutch": "Uitloggen",
       "english": "Logout",
-      "french": "Se déconnecter",
-      "german": "Ausloggen",
+      "french": "Déconnexion",
+      "german": "Abmelden",
       "japanese": "ログアウト",
-      "korean": "로그 아웃",
-      "mandarin": "登出",
+      "korean": "로그아웃",
+      "mandarin": "退出",
       "portuguese": "Sair",
-      "spanish": "Cerrar sesión"
+      "spanish": "Cerrar sesión",
+      "turkish": "Oturumu kapat"
     },
     "link-support": {
       "dutch": "Ondersteuning",
