@@ -180,12 +180,13 @@
       "dutch": "Wachtwoord moet overeenkomen",
       "english": "Password must match",
       "french": "Le mot de passe doit correspondre",
-      "german": "Passwort muss übereinstimmen",
-      "japanese": "パスワードが一致している必要があります",
-      "korean": "암호가 일치해야합니다",
+      "german": "Das Passwort muss übereinstimmen",
+      "japanese": "パスワードは一致する必要があります",
+      "korean": "비밀번호가 일치해야 합니다.",
       "mandarin": "密码必须匹配",
-      "portuguese": "A senha deve ser igual",
-      "spanish": "Contraseña debe coincidir con"
+      "portuguese": "A senha deve corresponder",
+      "spanish": "La contraseña debe coincidir",
+      "turkish": "Şifre eşleşmelidir"
     },
     "errors-required": {
       "dutch": "Verplicht",
