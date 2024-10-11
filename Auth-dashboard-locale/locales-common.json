@@ -222,26 +222,28 @@
       "spanish": "Factor 1: inicio de sesión social"
     },
     "factor2-devices": {
-      "dutch": "Factor 2: Apparaat (en)",
-      "english": "Factor 2: Device (s)",
-      "french": "Facteur 2: Dispositif (s)",
-      "german": "Faktor 2: Gerät(e)",
-      "japanese": "要因 2: デバイス",
-      "korean": "요소 2: 장치(들)",
-      "mandarin": "因素 2：设备",
-      "portuguese": "Fator 2: Dispositivo(s)",
-      "spanish": "Factor 2: Dispositivo(s)"
+      "dutch": "Apparaat(en)",
+      "english": "Device(s)",
+      "french": "Appareil(s)",
+      "german": "Geräte)",
+      "japanese": "デバイス",
+      "korean": "장치",
+      "mandarin": "设备",
+      "portuguese": "Dispositivos)",
+      "spanish": "Dispositivos)",
+      "turkish": "Cihaz(lar)"
     },
     "factor3-social-recovery": {
-      "dutch": "Factor 3: Sociaal herstel",
-      "english": "Factor 3: Social Recovery",
-      "french": "Facteur 3: Récupération sociale",
-      "german": "Faktor 3: Soziale Erholung",
-      "japanese": "要因 3: 社会的回復",
-      "korean": "요인 3: 사회적 회복",
-      "mandarin": "因素 3：社会恢复",
-      "portuguese": "Fator 3: Recuperação Social",
-      "spanish": "Factor 3: Recuperación Social"
+      "dutch": "Sociaal herstel",
+      "english": "Social Recovery",
+      "french": "Récupération sociale",
+      "german": "Sozialer Aufschwung",
+      "japanese": "社会的回復",
+      "korean": "사회 회복",
+      "mandarin": "社会康复",
+      "portuguese": "Recuperação Social",
+      "spanish": "Recuperación Social",
+      "turkish": "Sosyal Kurtarma"
     },
     "last-accessed-on": {
       "dutch": "Laatst bezocht op:",
@@ -303,10 +305,11 @@
       "french": "Mot de passe",
       "german": "Passwort",
       "japanese": "パスワード",
-      "korean": "암호",
+      "korean": "비밀번호",
       "mandarin": "密码",
       "portuguese": "Senha",
-      "spanish": "Password"
+      "spanish": "Contraseña",
+      "turkish": "Şifre"
     },
     "password-label": {
       "dutch": "Voer wachtwoord in",
