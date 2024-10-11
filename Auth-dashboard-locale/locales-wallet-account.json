@@ -903,16 +903,16 @@
       "spanish": "Asegúrese de que se cumplan estos requisitos:"
     },
     "password-requirement-length": {
-      "dutch": "Gebruik zowel hoofdletters als kleine letters",
-      "english": "Include both uppercase and lowercase letters",
-      "french": "Inclure les lettres majuscules et minuscules",
-      "german": "Geben Sie sowohl Groß- als auch Kleinbuchstaben an",
-      "japanese": "大文字と小文字の両方を含める",
-      "korean": "대문자와 소문자를 모두 포함하세요.",
-      "mandarin": "包括大写和小写字母",
-      "portuguese": "Incluir letras maiúsculas e minúsculas",
-      "spanish": "Incluir letras mayúsculas y minúsculas",
-      "turkish": "Hem büyük hem de küçük harfleri dahil edin"
+      "dutch": "Minimaal 10 tekens lang",
+      "english": "Minimum 10 characters long",
+      "french": "Minimum 10 caractères",
+      "german": "Mindestens 10 Zeichen lang",
+      "japanese": "最低 10 文字の長さ",
+      "korean": "최소 10자 길이",
+      "mandarin": "长度至少 10 个字符",
+      "portuguese": "Mínimo de 10 caracteres",
+      "spanish": "Mínimo 10 caracteres",
+      "turkish": "Minimum 10 karakter uzunluğunda"
     },
     "password-requirement-lowercase": {
       "dutch": "Minstens één kleine letter vereist",
