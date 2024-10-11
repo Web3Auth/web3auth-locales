@@ -421,6 +421,30 @@
       "portuguese": "Social",
       "spanish": "Social"
     },
+    "toast-authenticator-share-delete-fail": {
+      "dutch": "Verwijderen van Authenticator-app-share is mislukt",
+      "english": "Authenticator App share deletion failed",
+      "french": "Échec de la suppression du partage de l'application Authenticator",
+      "german": "Das Löschen der Authenticator-App-Freigabe ist fehlgeschlagen",
+      "japanese": "Authenticator アプリ共有の削除に失敗しました",
+      "korean": "OTP 앱 공유 삭제 실패",
+      "mandarin": "验证器应用程序共享删除失败",
+      "portuguese": "Falha na exclusão do compartilhamento do aplicativo Authenticator",
+      "spanish": "Error al eliminar el recurso compartido de la aplicación de autenticación",
+      "turkish": "Authenticator Uygulama paylaşımının silinmesi başarısız oldu"
+    },
+    "toast-authenticator-share-delete-success": {
+      "dutch": "Authenticator App-share is succesvol verwijderd",
+      "english": "Authenticator App share deleted successfully",
+      "french": "Partage d'application d'authentification supprimé avec succès",
+      "german": "Authenticator-App-Freigabe erfolgreich gelöscht",
+      "japanese": "Authenticator アプリ共有が正常に削除されました",
+      "korean": "OTP 앱 공유가 삭제되었습니다.",
+      "mandarin": "验证器应用程序共享已成功删除",
+      "portuguese": "Compartilhamento do aplicativo autenticador excluído com sucesso",
+      "spanish": "El recurso compartido de la aplicación de autenticación se eliminó correctamente",
+      "turkish": "Authenticator Uygulama paylaşımı başarıyla silindi"
+    },
     "toast-backup-phase-email-send-success": {
       "dutch": "Back-upzin verzonden naar uw e-mail",
       "english": "Backup Phrase sent to your email",
@@ -497,6 +521,30 @@
       "mandarin": "设备共享已成功删除",
       "portuguese": "Compartilhamento de dispositivo excluído com sucesso",
       "spanish": "Dispositivo compartido eliminado correctamente"
+    },
+    "toast-passkey-share-delete-fail": {
+      "dutch": "Verwijderen van Passkey-share is mislukt",
+      "english": "Passkey share deletion failed",
+      "french": "Échec de la suppression du partage Passkey",
+      "german": "Das Löschen der Passkey-Freigabe ist fehlgeschlagen",
+      "japanese": "Passkey 共有の削除に失敗しました",
+      "korean": "Passkey 공유 삭제 실패",
+      "mandarin": "Passkey共享删除失败",
+      "portuguese": "Falha na exclusão do compartilhamento Passkey",
+      "spanish": "Error al eliminar Passkey recurso compartido",
+      "turkish": "Passkey paylaşımının silinmesi başarısız oldu"
+    },
+    "toast-passkey-share-delete-success": {
+      "dutch": "Passkey-share is succesvol verwijderd",
+      "english": "Passkey share deleted successfully",
+      "french": "Partage Passkey supprimé avec succès",
+      "german": "Passkey-Freigabe erfolgreich gelöscht",
+      "japanese": "Passkey 共有が正常に削除されました",
+      "korean": "Passkey 공유가 삭제되었습니다.",
+      "mandarin": "Passkey 共享已成功删除",
+      "portuguese": "Compartilhamento Passkey excluído com sucesso",
+      "spanish": "Passkey recurso compartido eliminado correctamente",
+      "turkish": "Passkey paylaşımı başarıyla silindi"
     },
     "toast-password-change-fail": {
       "dutch": "Wachtwoordwijziging mislukt",
