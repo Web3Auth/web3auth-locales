@@ -450,6 +450,18 @@
       "spanish": "Confirmar la eliminación del dispositivo compartido",
       "turkish": "Cihaz paylaşımının silinmesini onaylayın"
     },
+    "device-desc": {
+      "dutch": "Recent gebruikte apparaten worden automatisch toegevoegd als vertrouwde apparaten en kunnen dienen als herstelfactoren. Ze kunnen echter geen op zichzelf staande herstelfactoren zijn, omdat ze niet gewogen zijn en de accountbeveiliging niet verbeteren.",
+      "english": "Recently used devices are automatically added as trusted devices and can serve as recovery factors. However, they can't be standalone recovery factors since they are non-weighted and do not enhance account security.",
+      "french": "Les appareils récemment utilisés sont automatiquement ajoutés en tant qu'appareils de confiance et peuvent servir de facteurs de récupération. Cependant, ils ne peuvent pas constituer des facteurs de recouvrement autonomes puisqu'ils ne sont pas pondérés et n'améliorent pas la sécurité du compte.",
+      "german": "Zuletzt verwendete Geräte werden automatisch als vertrauenswürdige Geräte hinzugefügt und können als Wiederherstellungsfaktoren dienen. Sie können jedoch keine eigenständigen Wiederherstellungsfaktoren sein, da sie nicht gewichtet sind und die Kontosicherheit nicht erhöhen.",
+      "japanese": "最近使用したデバイスは信頼できるデバイスとして自動的に追加され、回復要素として機能します。ただし、これらは加重されておらず、アカウントのセキュリティを強化しないため、独立した回復要素とすることはできません。",
+      "korean": "최근 사용한 기기는 자동으로 신뢰하는 기기로 추가되어 복구 요소로 활용될 수 있습니다. 그러나 가중치가 적용되지 않고 계정 보안을 강화하지 않으므로 독립형 복구 요소가 될 수 없습니다.",
+      "mandarin": "最近使用的设备会自动添加为可信设备，并可作为恢复因素。但是，它们不能成为独立的恢复因素，因为它们是非加权的并且不会增强帐户安全性。",
+      "portuguese": "Os dispositivos usados ​​recentemente são adicionados automaticamente como dispositivos confiáveis ​​e podem servir como fatores de recuperação. No entanto, não podem ser fatores de recuperação independentes, uma vez que não são ponderados e não melhoram a segurança da conta.",
+      "spanish": "Los dispositivos usados ​​recientemente se agregan automáticamente como dispositivos confiables y pueden servir como factores de recuperación. Sin embargo, no pueden ser factores de recuperación independientes ya que no están ponderados y no mejoran la seguridad de la cuenta.",
+      "turkish": "Son kullanılan cihazlar otomatik olarak güvenilir cihazlar olarak eklenir ve kurtarma faktörleri olarak kullanılabilir. Ancak ağırlıklandırılmadıkları ve hesap güvenliğini artırmadıkları için tek başına kurtarma faktörleri olamazlar."
+    },
     "email-with-date": {
       "dutch": "Verstuurd via e-mail op {0} naar:",
       "english": "Emailed on {0} to :",
