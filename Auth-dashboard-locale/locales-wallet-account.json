@@ -1103,6 +1103,18 @@
       "spanish": "Mostrar opciones avanzadas",
       "turkish": "Gelişmiş seçenekleri göster"
     },
+    "recovery-phrase-back": {
+      "dutch": "Terug",
+      "english": "Back",
+      "french": "Retour",
+      "german": "Zurück",
+      "japanese": "バック",
+      "korean": "뒤로",
+      "mandarin": "背部",
+      "portuguese": "Voltar",
+      "spanish": "Volver",
+      "turkish": "Geri"
+    },
     "recovery-phrase-desc": {
       "dutch": "Voer uw e-mailadres in om een ​​portemonnee-herstelzin te ontvangen. Je hebt het nodig om je portemonnee te herstellen.",
       "english": "Input your email to receive a wallet recovery phrase. You need it to recover your wallet.",
