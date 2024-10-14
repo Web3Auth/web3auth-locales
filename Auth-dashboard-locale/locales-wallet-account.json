@@ -1402,6 +1402,30 @@
       "spanish": "cuenta de {0}",
       "turkish": "{0} hesabı"
     },
+    "social-delete-note-desc": {
+      "dutch": "Door 'Bevestigen' te selecteren, verwijdert u de sociale herstelfactor definitief. U kunt dit sociale account niet langer als herstelmethode gebruiken, tenzij u het opnieuw instelt.",
+      "english": "By selecting \"Confirm,\" you will permanently delete the social recovery factor. You will no longer be able to use this social account as a recovery method unless you set it up again.",
+      "french": "En sélectionnant \"Confirmer\", vous supprimerez définitivement le facteur de récupération sociale. Vous ne pourrez plus utiliser ce compte social comme méthode de récupération à moins de le reconfigurer.",
+      "german": "Durch Auswahl von „Bestätigen“ löschen Sie den Social-Recovery-Faktor dauerhaft. Sie können dieses soziale Konto nicht mehr als Wiederherstellungsmethode verwenden, es sei denn, Sie richten es erneut ein.",
+      "japanese": "「確認」を選択すると、社会的回復要素が完全に削除されます。再度設定しない限り、このソーシャル アカウントを回復方法として使用することはできなくなります。",
+      "korean": "\"확인\"을 선택하시면 사회복귀 요인이 영구적으로 삭제됩니다. 이 소셜 계정을 다시 설정하지 않으면 더 이상 복구 방법으로 사용할 수 없습니다.",
+      "mandarin": "通过选择“确认”，您将永久删除社交恢复因素。除非您重新设置，否则您将无法再使用此社交帐户作为恢复方法。",
+      "portuguese": "Ao selecionar “Confirmar”, você excluirá permanentemente o fator de recuperação social. Você não poderá mais usar esta conta social como método de recuperação, a menos que a configure novamente.",
+      "spanish": "Al seleccionar \"Confirmar\", eliminará permanentemente el factor de recuperación social. Ya no podrás utilizar esta cuenta social como método de recuperación a menos que la configures nuevamente.",
+      "turkish": "\"Onayla\"yı seçtiğinizde sosyal kurtarma faktörünü kalıcı olarak sileceksiniz. Tekrar kurmadığınız sürece bu sosyal hesabı artık bir kurtarma yöntemi olarak kullanamayacaksınız."
+    },
+    "social-delete-title": {
+      "dutch": "Sociale herstelfactor verwijderen",
+      "english": "Deleting Social Recovery Factor",
+      "french": "Suppression du facteur de récupération sociale",
+      "german": "Social-Recovery-Faktor wird gelöscht",
+      "japanese": "社会的回復係数の削除",
+      "korean": "사회 회복 인자 삭제",
+      "mandarin": "删除社交恢复因素",
+      "portuguese": "Excluindo Fator de Recuperação Social",
+      "spanish": "Eliminación del factor de recuperación social",
+      "turkish": "Sosyal Kurtarma Faktörünün Silinmesi"
+    },
     "social-desc": {
       "dutch": "Stel uw sociale account in als herstelfactor.",
       "english": "Set up your social account as a recovery factor.",

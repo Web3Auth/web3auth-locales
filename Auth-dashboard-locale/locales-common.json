@@ -658,6 +658,30 @@
       "portuguese": "Falha na transferência de compartilhamento",
       "spanish": "Error al transferir el recurso compartido"
     },
+    "toast-social-share-delete-fail": {
+      "dutch": "Het verwijderen van het Social Recovery-aandeel is mislukt",
+      "english": "Social Recovery share deletion unsuccessful",
+      "french": "Échec de la suppression du partage de récupération sociale",
+      "german": "Das Löschen der Social Recovery-Freigabe ist fehlgeschlagen",
+      "japanese": "Social Recovery 共有の削除に失敗しました",
+      "korean": "사회 회복 공유 삭제 실패",
+      "mandarin": "Social Recovery 共享删除失败",
+      "portuguese": "Falha na exclusão do compartilhamento de Recuperação Social",
+      "spanish": "La eliminación del recurso compartido de Social Recovery no se realizó correctamente",
+      "turkish": "Social Recovery paylaşımının silinmesi başarısız oldu"
+    },
+    "toast-social-share-delete-success": {
+      "dutch": "Social Recovery-aandeel succesvol verwijderd",
+      "english": "Social Recovery share successfully deleted",
+      "french": "Partage de récupération sociale supprimé avec succès",
+      "german": "Social Recovery-Freigabe erfolgreich gelöscht",
+      "japanese": "Social Recovery 共有が正常に削除されました",
+      "korean": "사회 회복 공유가 삭제되었습니다.",
+      "mandarin": "社交恢复共享已成功删除",
+      "portuguese": "Compartilhamento de recuperação social excluído com sucesso",
+      "spanish": "El recurso compartido de Social Recovery se eliminó correctamente",
+      "turkish": "Sosyal Kurtarma paylaşımı başarıyla silindi"
+    },
     "toast-something-went-wrong": {
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
