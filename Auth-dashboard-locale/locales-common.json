@@ -568,6 +568,30 @@
       "portuguese": "Senha alterada com sucesso",
       "spanish": "Contraseña cambiada correctamente"
     },
+    "toast-password-share-delete-fail": {
+      "dutch": "Verwijderen van wachtwoord delen is mislukt",
+      "english": "Password share deletion unsuccessful",
+      "french": "Échec de la suppression du partage de mot de passe",
+      "german": "Das Löschen der Passwortfreigabe ist fehlgeschlagen",
+      "japanese": "パスワード共有の削除に失敗しました",
+      "korean": "비밀번호 공유 삭제 실패",
+      "mandarin": "密码共享删除失败",
+      "portuguese": "Falha na exclusão do compartilhamento de senha",
+      "spanish": "La eliminación del recurso compartido de contraseña no se realizó correctamente",
+      "turkish": "Şifre paylaşımının silinmesi başarısız oldu"
+    },
+    "toast-password-share-delete-success": {
+      "dutch": "Wachtwoord delen succesvol verwijderd",
+      "english": "Password share successfully deleted",
+      "french": "Le partage de mot de passe a été supprimé avec succès",
+      "german": "Passwortfreigabe erfolgreich gelöscht",
+      "japanese": "パスワード共有が正常に削除されました",
+      "korean": "비밀번호 공유가 삭제되었습니다.",
+      "mandarin": "密码共享已成功删除",
+      "portuguese": "Compartilhamento de senha excluído com sucesso",
+      "spanish": "El recurso compartido de contraseña se eliminó correctamente",
+      "turkish": "Şifre paylaşımı başarıyla silindi"
+    },
     "toast-password-verification-fail": {
       "dutch": "Wachtwoordverificatie mislukt",
       "english": "Password verification failed",
