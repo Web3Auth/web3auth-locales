@@ -24,6 +24,30 @@
       "spanish": "Aplicar",
       "turkish": "Uygula"
     },
+    "approve-swap": {
+      "dutch": "Goedkeuren en ruilen",
+      "english": "Approve and Swap",
+      "french": "Approuver et échanger",
+      "german": "Genehmigen und tauschen",
+      "japanese": "承認して交換する",
+      "korean": "승인 및 교환",
+      "mandarin": "批准和交换",
+      "portuguese": "Aprovar e trocar",
+      "spanish": "Aprobar e intercambiar",
+      "turkish": "Onayla ve Değiştir"
+    },
+    "approving-token": {
+      "dutch": "Overdracht van token goedkeuren",
+      "english": "Approving token transfer",
+      "french": "Approbation du transfert de token",
+      "german": "Die Übertragung von token wird genehmigt",
+      "japanese": "Token の転送を承認しています",
+      "korean": "Token 전송 승인 중",
+      "mandarin": "批准token转移",
+      "portuguese": "Aprovando transferência de token",
+      "spanish": "Aprobando la transferencia de token",
+      "turkish": "Token aktarımı onaylanıyor"
+    },
     "balance": {
       "dutch": "Evenwicht",
       "english": "Balance",
@@ -325,16 +349,16 @@
       "turkish": "Takas Siparişini İnceleyin"
     },
     "searchToken": {
-      "dutch": "Zoek tokennaam",
-      "english": "Search Token Name",
-      "french": "Rechercher le nom du jeton",
-      "german": "Token-Namen suchen",
-      "japanese": "検索トークン名",
-      "korean": "토큰 이름 검색",
-      "mandarin": "搜索代币名称",
-      "portuguese": "Pesquisar nome do token",
-      "spanish": "Nombre del token de búsqueda",
-      "turkish": "Belirteç Adını Ara"
+      "dutch": "Zoek door {0} tokens",
+      "english": "Search through {0} tokens",
+      "french": "Rechercher parmi {0} jetons",
+      "german": "Durchsuchen Sie {0} Token",
+      "japanese": "{0} 個のトークンを検索する",
+      "korean": "{0}개의 토큰을 통해 검색",
+      "mandarin": "搜索 {0} 个代币",
+      "portuguese": "Pesquise {0} tokens",
+      "spanish": "Busca entre {0} tokens",
+      "turkish": "{0} token arasında arama yapın"
     },
     "selectAToken": {
       "dutch": "Selecteer een token",
@@ -419,6 +443,18 @@
       "portuguese": "Sua solicitação de troca foi processada e concluída com sucesso.",
       "spanish": "Su solicitud de intercambio fue procesada y completada exitosamente.",
       "turkish": "Takas talebiniz işleme alındı ​​ve başarıyla tamamlandı."
+    },
+    "swapping-token": {
+      "dutch": "Token ruilen",
+      "english": "Swapping token",
+      "french": "Échange de token",
+      "german": "Token austauschen",
+      "japanese": "Tokenの交換",
+      "korean": "Token 교환 중",
+      "mandarin": "交换token",
+      "portuguese": "Trocando token",
+      "spanish": "Intercambiar token",
+      "turkish": "Değiştirme token"
     },
     "to": {
       "dutch": "Naar:",
