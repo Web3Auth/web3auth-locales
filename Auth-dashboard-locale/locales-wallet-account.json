@@ -1,5 +1,29 @@
 {
   "account": {
+    "adding-authenticator": {
+      "dutch": "Authenticator-app toevoegen",
+      "english": "Adding Authenticator App",
+      "french": "Ajout d'une application d'authentification",
+      "german": "Authentifikator-App hinzufügen",
+      "japanese": "認証アプリの追加",
+      "korean": "OTP 앱 추가",
+      "mandarin": "添加身份验证器应用程序",
+      "portuguese": "Adicionando aplicativo autenticador",
+      "spanish": "Agregar aplicación de autenticación",
+      "turkish": "Authenticator Uygulaması Ekleme"
+    },
+    "adding-passkey": {
+      "dutch": "Passkey toevoegen",
+      "english": "Adding passkey",
+      "french": "Ajout de passkey",
+      "german": "Passkey wird hinzugefügt",
+      "japanese": "Passkeyを追加しています",
+      "korean": "Passkey 추가 중",
+      "mandarin": "添加passkey",
+      "portuguese": "Adicionando passkey",
+      "spanish": "Agregar passkey",
+      "turkish": "Passkey ekleniyor"
+    },
     "auth-factors-device-biometrics": {
       "dutch": "Biometrische gegevens geregistreerd",
       "english": "biometrics registered",
@@ -594,6 +618,18 @@
       "mandarin": "备用词组",
       "portuguese": "Frase de backup",
       "spanish": "Frase de respaldo"
+    },
+    "fetching-devices": {
+      "dutch": "Apparaten ophalen",
+      "english": "Fetching devices",
+      "french": "Récupérer des appareils",
+      "german": "Geräte abrufen",
+      "japanese": "デバイスの取得",
+      "korean": "장치를 가져오는 중",
+      "mandarin": "获取设备",
+      "portuguese": "Buscando dispositivos",
+      "spanish": "Dispositivos de búsqueda",
+      "turkish": "Cihazlar getiriliyor"
     },
     "generated-on": {
       "dutch": "Gegenereerd op",
