@@ -50,6 +50,18 @@
     }
   },
   "home": {
+    "NftContractAddress": {
+      "dutch": "NFT -contractadres",
+      "english": "NFT Contract Address",
+      "french": "Adresse du contrat NFT",
+      "german": "NFT -Vertragsadresse",
+      "japanese": "NFT契約アドレス",
+      "korean": "NFT 계약 주소",
+      "mandarin": "NFT合同地址",
+      "portuguese": "Endereço do contrato da NFT",
+      "spanish": "Dirección del contrato NFT",
+      "turkish": "NFT Sözleşme Adresi"
+    },
     "copyAddress": {
       "dutch": "Kopieeradres",
       "english": "Copy Address",
@@ -85,18 +97,6 @@
       "portuguese": "Crédito a gás",
       "spanish": "Crédito de gas",
       "turkish": "Gaz kredisi"
-    },
-    "NftContractAddress": {
-      "dutch": "NFT -contractadres",
-      "english": "NFT Contract Address",
-      "french": "Adresse du contrat NFT",
-      "german": "NFT -Vertragsadresse",
-      "japanese": "NFT契約アドレス",
-      "korean": "NFT 계약 주소",
-      "mandarin": "NFT合同地址",
-      "portuguese": "Endereço do contrato da NFT",
-      "spanish": "Dirección del contrato NFT",
-      "turkish": "NFT Sözleşme Adresi"
     },
     "noTokenNftMsg": {
       "dutch": "Je hebt nog geen {0}",
@@ -606,6 +606,18 @@
       "spanish": "Rápido",
       "turkish": "Hızlı"
     },
+    "featureUnavailableOnNetwork": {
+      "dutch": "Functie niet beschikbaar op huidig netwerk",
+      "english": "Feature unavailable on current network",
+      "french": "Fonctionnalité indisponible sur le réseau actuel",
+      "german": "Funktion auf dem aktuellen Netzwerk nicht verfügbar",
+      "japanese": "現在のネットワークで利用できない機能",
+      "korean": "현재 네트워크에서 사용할 수 없는 기능",
+      "mandarin": "当前网络上不可用的功能",
+      "portuguese": "Recurso indisponível na rede atual",
+      "spanish": "Característica no disponible en la red actual",
+      "turkish": "Mevcut ağda kullanılamayan özellik"
+    },
     "gasLimit": {
       "dutch": "Gasgrens",
       "english": "Gas Limit",
@@ -906,18 +918,6 @@
       "spanish": "Enviar",
       "turkish": "Gönder"
     },
-    "sendingFrom": {
-      "dutch": "Verzenden van",
-      "english": "Sending from",
-      "french": "Envoi de",
-      "german": "Senden von",
-      "japanese": "から送信",
-      "korean": "보내기",
-      "mandarin": "从",
-      "portuguese": "Enviando de",
-      "spanish": "Envío desde",
-      "turkish": "Gönderen"
-    },
     "sendTo": {
       "dutch": "Verzenden naar",
       "english": "Send to",
@@ -929,6 +929,18 @@
       "portuguese": "Enviar para",
       "spanish": "Enviar a",
       "turkish": "Gönder"
+    },
+    "sendingFrom": {
+      "dutch": "Verzenden van",
+      "english": "Sending from",
+      "french": "Envoi de",
+      "german": "Senden von",
+      "japanese": "から送信",
+      "korean": "보내기",
+      "mandarin": "从",
+      "portuguese": "Enviando de",
+      "spanish": "Envío desde",
+      "turkish": "Gönderen"
     },
     "sent": {
       "dutch": "Verstuurd",
@@ -1014,18 +1026,6 @@
       "spanish": "Recarga",
       "turkish": "Toplu"
     },
-    "toppedUpAmt": {
-      "dutch": "Bedacht bedrag",
-      "english": "Topped up amount",
-      "french": "Montant complété",
-      "german": "Belastet die Menge",
-      "japanese": "補充量",
-      "korean": "윗면 금액",
-      "mandarin": "总额",
-      "portuguese": "TODO OURMOURO",
-      "spanish": "Cantidad rematada",
-      "turkish": "Toplam Tutarı"
-    },
     "topUp": {
       "dutch": "Aanvullen",
       "english": "Top Up",
@@ -1037,6 +1037,18 @@
       "portuguese": "Completar",
       "spanish": "Completar",
       "turkish": "Dolu Et"
+    },
+    "toppedUpAmt": {
+      "dutch": "Bedacht bedrag",
+      "english": "Topped up amount",
+      "french": "Montant complété",
+      "german": "Belastet die Menge",
+      "japanese": "補充量",
+      "korean": "윗면 금액",
+      "mandarin": "总额",
+      "portuguese": "TODO OURMOURO",
+      "spanish": "Cantidad rematada",
+      "turkish": "Toplam Tutarı"
     },
     "totalCost": {
       "dutch": "Totale prijs",
@@ -1966,6 +1978,18 @@
       "spanish": "Habilitar y deshabilitar notificaciones",
       "turkish": "Bildirimleri etkinleştirmek ve devre dışı bırakmak"
     },
+    "privKeyDesc": {
+      "dutch": "Privésleutel (downloaden of kopiëren)",
+      "english": "Private key (Download or copy)",
+      "french": "Clé privée (télécharger ou copier)",
+      "german": "Privatschlüssel (herunterladen oder kopieren)",
+      "japanese": "秘密鍵（ダウンロードまたはコピー）",
+      "korean": "개인 키 (다운로드 또는 복사)",
+      "mandarin": "私钥（下载或复制）",
+      "portuguese": "Chave privada (download ou cópia)",
+      "spanish": "Clave privada (descargar o copiar)",
+      "turkish": "Gizli anahtar (indir veya kopyala)"
+    },
     "privacyAndSecurity": {
       "dutch": "Privacy en beveiliging",
       "english": "Privacy and security",
@@ -1989,18 +2013,6 @@
       "portuguese": "Chave privada",
       "spanish": "Llave privada",
       "turkish": "Gizli anahtar"
-    },
-    "privKeyDesc": {
-      "dutch": "Privésleutel (downloaden of kopiëren)",
-      "english": "Private key (Download or copy)",
-      "french": "Clé privée (télécharger ou copier)",
-      "german": "Privatschlüssel (herunterladen oder kopieren)",
-      "japanese": "秘密鍵（ダウンロードまたはコピー）",
-      "korean": "개인 키 (다운로드 또는 복사)",
-      "mandarin": "私钥（下载或复制）",
-      "portuguese": "Chave privada (download ou cópia)",
-      "spanish": "Clave privada (descargar o copiar)",
-      "turkish": "Gizli anahtar (indir veya kopyala)"
     },
     "profile": {
       "dutch": "Beheer portefeuilles",
