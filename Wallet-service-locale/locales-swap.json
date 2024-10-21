@@ -132,6 +132,18 @@
       "spanish": "Introduce una cantidad",
       "turkish": "Bir tutar girin"
     },
+    "failedFetchingQuote": {
+      "dutch": "Fout bij het ophalen van de prijs",
+      "english": "Failed to fetch quote",
+      "french": "Erreur lors de la récupération du prix",
+      "german": "Fehler beim Abrufen des Preises",
+      "japanese": "価格の取得に失敗しました",
+      "korean": "가격 가져오기 실패",
+      "mandarin": "获取价格失败",
+      "portuguese": "Erro ao obter o preço",
+      "spanish": "Error al obtener el precio",
+      "turkish": "Fiyat alınamadı"
+    },
     "failedSwapDesc": {
       "dutch": "Er is een fout opgetreden tijdens het verwerken van de swap",
       "english": "An error occurred while processing the swap",
