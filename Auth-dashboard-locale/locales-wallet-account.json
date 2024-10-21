@@ -348,6 +348,28 @@
       "spanish": "Desvincular la aplicación de autenticación",
       "turkish": "Authenticator Uygulamasının Bağlantısını Kaldırma"
     },
+    "connected-account": {
+      "dutch": "Verbonden account",
+      "english": "Connected Account",
+      "french": "Compte connecté",
+      "german": "Verbundenes Konto",
+      "japanese": "接続済みアカウント",
+      "korean": "연결된 계정",
+      "mandarin": "已连接的帐户",
+      "portuguese": "Conta conectada",
+      "spanish": "Cuenta conectada"
+    },
+    "connected-account-desc": {
+      "dutch": "Uw account is verbonden met een {0} account.",
+      "english": "Your account is connected to a {0} account.",
+      "french": "Votre compte est connecté à un compte {0}.",
+      "german": "Ihr Konto ist mit einem {0}-Konto verbunden.",
+      "japanese": "{0} アカウントに接続されています。",
+      "korean": "{0} 계정에 연결되어 있습니다.",
+      "mandarin": "您的帐户已连接到 {0} 帐户。",
+      "portuguese": "Sua conta está conectada a uma conta do {0}.",
+      "spanish": "Su cuenta está conectada a una cuenta de {0}."
+    },
     "copy-recovery-phrase-desc": {
       "dutch": "Sla een kopie op van uw herstelfrase",
       "english": "Save a copy of your recovery phrase",
