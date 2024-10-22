@@ -10,6 +10,7 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
+      "thai": "ยกเลิก",
       "turkish": "İptal etmek"
     },
     "complete-desc": {
@@ -45,7 +46,8 @@
       "mandarin": "无效的 OTP，请重试",
       "portuguese": "OTP inválido, tente novamente",
       "spanish": "OTP no válido, inténtelo de nuevo",
-      "turkish": "Geçersiz OTP, lütfen tekrar deneyin"
+      "turkish": "Geçersiz OTP, lütfen tekrar deneyin",
+      "thai": "รหัส OTP ไม่ถูกต้อง โปรดลองอีกครั้ง"
     },
     "error-something-wrong-error": {
       "dutch": "Er is iets misgegaan",
@@ -81,7 +83,8 @@
       "mandarin": "手动输入代码",
       "portuguese": "Digite o código manualmente",
       "spanish": "Introduzca el código manualmente",
-      "turkish": "Kodu manuel olarak girin"
+      "turkish": "Kodu manuel olarak girin",
+      "thai": "ป้อนรหัสด้วยตนเอง"
     },
     "next": {
       "dutch": "Volgende",
@@ -129,7 +132,8 @@
       "mandarin": "已成功将 Authenticator 应用程序添加为恢复因素。",
       "portuguese": "O aplicativo Authenticator como fator de recuperação foi adicionado com sucesso",
       "spanish": "La aplicación Authenticator como factor de recuperación se añadio correctamente",
-      "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi"
+      "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi",
+      "thai": "เพิ่มแอป Authenticator เป็นปัจจัยการกู้คืนสำเร็จแล้ว"
     },
     "setup-desc": {
       "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
@@ -141,7 +145,8 @@
       "mandarin": "使用您的身份验证应用程序（例如 Google Authenticator 或 Authy）扫描此 QR 码。",
       "portuguese": "Use seu aplicativo de autenticação (por exemplo, Google Authenticator ou Authy) para escanear este código QR.",
       "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
-      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
+      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın.",
+      "thai": "ใช้แอปพลิเคชันยืนยันตัวตน (เช่น Google Authenticator หรือ Authy) เพื่อสแกนรหัส QR นี้"
     },
     "setup-title": {
       "dutch": "Authenticator App instellen",
@@ -165,7 +170,8 @@
       "mandarin": "从您的身份验证应用程序输入 6 位数验证码",
       "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
       "spanish": "Introduzca el código de verificación de 6 dígitos de su aplicación de autenticación",
-      "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin"
+      "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin",
+      "thai": "ป้อนรหัสยืนยัน 6 หลักจากแอปพลิเคชันยืนยันตัวตนของคุณ"
     },
     "verify-title": {
       "dutch": "Verifieer uw Authenticator App",
@@ -177,7 +183,8 @@
       "mandarin": "验证您的 Authenticator 应用程序",
       "portuguese": "Verifique seu aplicativo Authenticator",
       "spanish": "Verifique su aplicación Authenticator",
-      "turkish": "Authenticator Uygulamanızı doğrulayın"
+      "turkish": "Authenticator Uygulamanızı doğrulayın",
+      "thai": "ยืนยันแอป Authenticator ของคุณ"
     }
   }
 }

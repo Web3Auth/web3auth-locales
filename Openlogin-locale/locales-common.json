@@ -10,9 +10,10 @@
       "mandarin": "高级选项",
       "portuguese": "Opções avançadas",
       "spanish": "Opciones avanzadas",
+      "thai": "ตัวเลือกขั้นสูง",
       "turkish": "Gelişmiş Seçenekler"
     },
-   "back-to-download": {
+    "back-to-download": {
       "dutch": "Terug naar download herstelfactor",
       "english": "Back to download Recovery Factor",
       "french": "Retour au téléchargement du facteur de récupération",
@@ -22,6 +23,7 @@
       "mandarin": "返回下载恢复系数",
       "portuguese": "Voltar para baixar o fator de recuperação",
       "spanish": "Volver a descargar el factor de recuperación",
+      "thai": "กลับไปดาวน์โหลดปัจจัยการกู้คืน",
       "turkish": "Kurtarma faktörünü indirmeye geri dön"
     },
     "backup-phrase-copied": {
@@ -34,6 +36,7 @@
       "mandarin": "备份短语已复制",
       "portuguese": "Frase de backup copiada",
       "spanish": "Frase de respaldo copiada",
+      "thai": "คัดลอกวลีสำรองแล้ว",
       "turkish": "Yedekleme ifadesi kopyalandı"
     },
     "cancel": {
@@ -46,6 +49,7 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
+      "thai": "ยกเลิก",
       "turkish": "İptal"
     },
     "close": {
@@ -58,6 +62,7 @@
       "mandarin": "关闭",
       "portuguese": "Fechar",
       "spanish": "Cerrar",
+      "thai": "ปิด",
       "turkish": "Kapat"
     },
     "confirm": {
@@ -70,6 +75,7 @@
       "mandarin": "确认",
       "portuguese": "Confirmar",
       "spanish": "Confirmar",
+      "thai": "ยืนยัน",
       "turkish": "Onayla"
     },
     "copier-copied": {
@@ -82,6 +88,7 @@
       "mandarin": "复制！",
       "portuguese": "Copiado!",
       "spanish": "Copiado!",
+      "thai": "คัดลอกแล้ว!",
       "turkish": "Kopyalandı!"
     },
     "copier-copy": {
@@ -94,6 +101,7 @@
       "mandarin": "复制到剪贴板",
       "portuguese": "Copiar para área de transferência",
       "spanish": "Copiar al portapapeles",
+      "thai": "คัดลอกไปยังคลิปบอร์ด",
       "turkish": "Panoya kopyala"
     },
     "copier-manage-account": {
@@ -106,6 +114,7 @@
       "mandarin": "管理帐户",
       "portuguese": "Gerenciar conta",
       "spanish": "Administrar cuenta",
+      "thai": "จัดการบัญชี",
       "turkish": "Hesabı yönet"
     },
     "copier-privacy-policy": {
@@ -118,6 +127,7 @@
       "mandarin": "隐私政策",
       "portuguese": "Política de privacidade",
       "spanish": "Política de privacidad",
+      "thai": "นโยบายความเป็นส่วนตัว",
       "turkish": "Gizlilik Politikası"
     },
     "copier-terms-of-use": {
@@ -130,6 +140,7 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
       "spanish": "Condiciones de uso",
+      "thai": "ข้อกำหนดการใช้งาน",
       "turkish": "Kullanım Şartları"
     },
     "copy-backup-phrase": {
@@ -142,6 +153,7 @@
       "mandarin": "复制备份短语",
       "portuguese": "Copiar Frase de Backup",
       "spanish": "Copiar frase de respaldo",
+      "thai": "คัดลอกวลีสำรอง",
       "turkish": "Yedekleme İfadesini Kopyala"
     },
     "copy-paste": {
@@ -154,6 +166,7 @@
       "mandarin": "复制和粘贴",
       "portuguese": "Copiar e colar",
       "spanish": "Copiar y pegar",
+      "thai": "คัดลอกและวาง",
       "turkish": "Kopyala ve yapıştır"
     },
     "copy-recovery-phrase": {
@@ -166,6 +179,7 @@
       "mandarin": "复制助记词",
       "portuguese": "Copiar frase de recuperação",
       "spanish": "Copiar frase de respaldo",
+      "thai": "คัดลอกวลีกู้คืน",
       "turkish": "Kurtarma ifadesini kopyala"
     },
     "device": {
@@ -178,6 +192,7 @@
       "mandarin": "设备",
       "portuguese": "Dispositivo",
       "spanish": "Dispositivo",
+      "thai": "อุปกรณ์",
       "turkish": "Cihaz"
     },
     "devices": {
@@ -190,6 +205,7 @@
       "mandarin": "设备",
       "portuguese": "Dispositivo (s)",
       "spanish": "Dispositivo (s)",
+      "thai": "อุปกรณ์",
       "turkish": "Cihaz(lar)"
     },
     "edit-email": {
@@ -202,6 +218,7 @@
       "mandarin": "编辑电子邮件",
       "portuguese": "Editar e-mail",
       "spanish": "Editar correo electrónico",
+      "thai": "แก้ไขอีเมล",
       "turkish": "E-postayı düzenle"
     },
     "errors-incorrect-mnemonic": {
@@ -214,6 +231,7 @@
       "mandarin": "不正确的共享助记符",
       "portuguese": "Mnemônico de compartilhamento incorreto",
       "spanish": "Mnemónico compartido incorrecto",
+      "thai": "รหัสช่วยจำที่แชร์ไม่ถูกต้อง",
       "turkish": "Hatalı mnemonic parçası"
     },
     "errors-incorrect-password": {
@@ -226,6 +244,7 @@
       "mandarin": "密码错误",
       "portuguese": "Senha incorreta",
       "spanish": "Contraseña incorrecta",
+      "thai": "รหัสผ่านไม่ถูกต้อง",
       "turkish": "Hatalı parola"
     },
     "errors-invalid-email": {
@@ -238,6 +257,7 @@
       "mandarin": "不合规电邮",
       "portuguese": "E-mail inválido",
       "spanish": "Email inválido",
+      "thai": "อีเมลไม่ถูกต้อง",
       "turkish": "Hatalı e-posta"
     },
     "errors-invalid-mnemonic": {
@@ -250,6 +270,7 @@
       "mandarin": "助记词短语无效",
       "portuguese": "Frase mnemônica inválida",
       "spanish": "Frase mnemotécnica no válida",
+      "thai": "วลีรหัสช่วยจำไม่ถูกต้อง",
       "turkish": "Geçersiz mnemonic"
     },
     "errors-invalid-password": {
@@ -262,6 +283,7 @@
       "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
       "portuguese": "Deve conter pelo menos 10 caracteres. Pelo menos uma letra maiúscula, uma letra minúscula, um número",
       "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
+      "thai": "ต้องมีอย่างน้อย 10 ตัวอักษร อย่างน้อยหนึ่งตัวพิมพ์ใหญ่ หนึ่งตัวพิมพ์เล็ก หนึ่งตัวเลข",
       "turkish": "En az 10 karakter içermelidir. En az bir büyük harf, bir küçük harf, bir rakam."
     },
     "errors-mismatch-password": {
@@ -274,6 +296,7 @@
       "mandarin": "密码必须匹配",
       "portuguese": "A senha deve ser igual",
       "spanish": "Contraseña debe coincidir con",
+      "thai": "รหัสผ่านต้องตรงกัน",
       "turkish": "Şifre eşleşmelidir"
     },
     "errors-required": {
@@ -286,6 +309,7 @@
       "mandarin": "必需的",
       "portuguese": "Requerido",
       "spanish": "Requerido",
+      "thai": "จำเป็น",
       "turkish": "Zorunlu"
     },
     "errors-same-email-verifier": {
@@ -298,6 +322,7 @@
       "mandarin": "电子邮件不能与社交登录ID相同",
       "portuguese": "O email não pode ser o mesmo que o ID de login social",
       "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social",
+      "thai": "อีเมลต้องไม่เหมือนกับ ID เข้าสู่ระบบทางสังคม",
       "turkish": "E-posta sosyal medya giriş kimliğiyle aynı olamaz"
     },
     "factor1-social-login": {
@@ -310,6 +335,7 @@
       "mandarin": "因素 1：社交登录",
       "portuguese": "Fator 1: Login social",
       "spanish": "Factor 1: inicio de sesión social",
+      "thai": "ปัจจัยที่ 1: การเข้าสู่ระบบทางสังคม",
       "turkish": "1. Faktör: Sosyal Medya Girişi"
     },
     "factor2-devices": {
@@ -322,6 +348,7 @@
       "mandarin": "因素 2：设备",
       "portuguese": "Fator 2: Dispositivo(s)",
       "spanish": "Factor 2: Dispositivo(s)",
+      "thai": "ปัจจัยที่ 2: อุปกรณ์",
       "turkish": "2. Faktör: Cihaz(lar)"
     },
     "factor3-social-recovery": {
@@ -334,6 +361,7 @@
       "mandarin": "因素 3：社会恢复",
       "portuguese": "Fator 3: Recuperação Social",
       "spanish": "Factor 3: Recuperación Social",
+      "thai": "ปัจจัยที่ 3: การกู้คืนทางสังคม",
       "turkish": "3. Faktör: Sosyal Medya ile Kurtar"
     },
     "hide-options": {
@@ -346,6 +374,7 @@
       "mandarin": "隐藏选项",
       "portuguese": "Ocultar opções",
       "spanish": "Ocultar opciones",
+      "thai": "ซ่อนตัวเลือก",
       "turkish": "Seçenekleri Gizle"
     },
     "last-accessed-on": {
@@ -358,6 +387,7 @@
       "mandarin": "最后访问时间：",
       "portuguese": "Último acesso em:",
       "spanish": "Último acceso el:",
+      "thai": "เข้าถึงครั้งล่าสุดเมื่อ:",
       "turkish": "Son Giriş:"
     },
     "learn-more": {
@@ -370,6 +400,7 @@
       "mandarin": "更多详情",
       "portuguese": "Saber mais",
       "spanish": "Aprende más",
+      "thai": "เรียนรู้เพิ่มเติม",
       "turkish": "Daha fazla bilgi edinin"
     },
     "loader-device-detecting": {
@@ -382,6 +413,7 @@
       "mandarin": "检测您的设备",
       "portuguese": "Detectando seu dispositivo",
       "spanish": "Detectando su dispositivo",
+      "thai": "กำลังตรวจจับอุปกรณ์ของคุณ",
       "turkish": "Cihazınız algılanıyor"
     },
     "loader-secure-login": {
@@ -394,6 +426,7 @@
       "mandarin": "使用tKey保护登录",
       "portuguese": "Protegendo o login com tKey",
       "spanish": "Asegurar el inicio de sesión con tKey",
+      "thai": "กำลังรักษาความปลอดภัยการเข้าสู่ระบบด้วย tKey",
       "turkish": "tKey ile giriş güvenliği sağlanıyor"
     },
     "new-device-detected": {
@@ -406,6 +439,7 @@
       "mandarin": "检测到新设备",
       "portuguese": "Novo dispositivo detectado",
       "spanish": "Nuevo dispositivo detectado",
+      "thai": "ตรวจพบอุปกรณ์ใหม่",
       "turkish": "Yeni cihaz algılandı"
     },
     "or": {
@@ -418,6 +452,7 @@
       "mandarin": "或者",
       "portuguese": "ou",
       "spanish": "o",
+      "thai": "หรือ",
       "turkish": "veya"
     },
     "other-factor-pwd": {
@@ -429,6 +464,7 @@
       "mandarin": "其他因素：密码",
       "portuguese": "Outros fatores: senha",
       "spanish": "Otros factores: contraseña",
+      "thai": "ปัจจัยอื่น ๆ : รหัสผ่าน",
       "turkish": "Diğer Faktörler : Şifre"
     },
     "password": {
@@ -441,6 +477,7 @@
       "mandarin": "密码",
       "portuguese": "Senha",
       "spanish": "Password",
+      "thai": "รหัสผ่าน",
       "turkish": "Şifre"
     },
     "password-label": {
@@ -453,6 +490,7 @@
       "mandarin": "输入密码",
       "portuguese": "Digite a senha",
       "spanish": "Ingresa tu password",
+      "thai": "ป้อนรหัสผ่าน",
       "turkish": "Şifrenizi girin"
     },
     "phone": {
@@ -465,6 +503,7 @@
       "mandarin": "电话",
       "portuguese": "Telefone",
       "spanish": "Teléfono",
+      "thai": "โทรศัพท์",
       "turkish": "Telefon"
     },
     "powered-by": {
@@ -477,6 +516,7 @@
       "mandarin": "通过",
       "portuguese": "Provido por",
       "spanish": "por",
+      "thai": "ขับเคลื่อนโดย",
       "turkish": "Powered by"
     },
     "recovery-phrase-copied": {
@@ -489,6 +529,7 @@
       "mandarin": "助记词已复制",
       "portuguese": "Frase de Recuperação Copiada",
       "spanish": "Frase de respaldo copiada",
+      "thai": "คัดลอกวลีกู้คืนแล้ว",
       "turkish": "Kurtarma İfadesi Kopyalandı"
     },
     "recoveryFactor": {
@@ -501,6 +542,7 @@
       "mandarin": "恢复因子",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de respaldo",
+      "thai": "ปัจจัยการกู้คืน",
       "turkish": "Kurtarma Faktörü"
     },
     "referenceId": {
@@ -513,6 +555,7 @@
       "mandarin": "参考编号：",
       "portuguese": "ID de referência:",
       "spanish": "Identificación de referencia:",
+      "thai": "รหัสอ้างอิง:",
       "turkish": "Referans Kimliği:"
     },
     "resend-recovery": {
@@ -525,6 +568,7 @@
       "mandarin": "重新发送恢复因子",
       "portuguese": "Reenviar Fator de Recuperação",
       "spanish": "Factor de respaldo de reenvío",
+      "thai": "ส่งปัจจัยการกู้คืนอีกครั้ง",
       "turkish": "Kurtarma Faktörünü Yeniden Gönder"
     },
     "secured-by": {
@@ -537,6 +581,7 @@
       "mandarin": "担保人",
       "portuguese": "Assegurado por",
       "spanish": "Asegurado por",
+      "thai": "รักษาความปลอดภัยโดย",
       "turkish": "Secured by"
     },
     "selfCustodial": {
@@ -549,6 +594,7 @@
       "mandarin": "自托管登录由",
       "portuguese": "Login autocustodial por",
       "spanish": "Inicio de sesión con autocustodia por",
+      "thai": "การเข้าสู่ระบบแบบดูแลตนเองโดย",
       "turkish": "Öz-yönetimli giriş yapan:"
     },
     "social": {
@@ -561,6 +607,7 @@
       "mandarin": "社会的",
       "portuguese": "Social",
       "spanish": "Social",
+      "thai": "สังคม",
       "turkish": "Sosyal"
     },
     "socialFactor": {
@@ -573,6 +620,7 @@
       "mandarin": "社会因素",
       "portuguese": "Fator Social",
       "spanish": "Factor social",
+      "thai": "ปัจจัยทางสังคม",
       "turkish": "Sosyal Medya Faktörü"
     },
     "socialLogin": {
@@ -585,6 +633,7 @@
       "mandarin": "社交登录",
       "portuguese": "Login social",
       "spanish": "Inicio de sesión social",
+      "thai": "เข้าสู่ระบบทางสังคม",
       "turkish": "Sosyal medya girişi"
     },
     "toast-backup-phase-email-send-success": {
@@ -644,7 +693,7 @@
       "korean": "복구 수단 인증이 완료되지 않았습니다",
       "mandarin": "备份共享验证失败",
       "portuguese": "Falha na verificação do compartilhamento de backup",
-      "spanish": "Error en la verificación del fragmento de la copia de seguridad",
+      "spanish": "Error en la verificación del fragmento del respaldo",
       "turkish": "Yedekleme parçası doğrulanamadı"
     },
     "toast-device-share-delete-fail": {
@@ -839,6 +888,7 @@
       "mandarin": "以下一个或多个必需参数缺失/无效",
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes/inválidos",
       "spanish": "Uno o más de los siguientes parámetros obligatorios faltan o no son válidos",
+      "thai": "หนึ่งหรือมากกว่าหนึ่งพารามิเตอร์ที่จำเป็นต่อไปนี้หายไป/ไม่ถูกต้อง",
       "turkish": "Gerekli parametrelerden bir veya daha fazlası eksik/geçersiz"
     }
   }

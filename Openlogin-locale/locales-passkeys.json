@@ -10,6 +10,7 @@
       "mandarin": "浏览器不支持",
       "portuguese": "Navegador não suportado",
       "spanish": "Navegador no compatible",
+      "thai": "เบราว์เซอร์ไม่รองรับ",
       "turkish": "Tarayıcı desteklenmiyor"
     },
     "browser-not-supported-info": {
@@ -22,6 +23,7 @@
       "mandarin": "不支持您的浏览器。请使用支持的浏览器继续。",
       "portuguese": "Seu navegador não é suportado. Use um navegador suportado para continuar.",
       "spanish": "Su navegador no es compatible. Utilice uno compatible para continuar.",
+      "thai": "เบราว์เซอร์ของคุณไม่รองรับ โปรดใช้เบราว์เซอร์ที่รองรับเพื่อดำเนินการต่อ",
       "turkish": "Tarayıcınız desteklenmiyor. Devam etmek için lütfen desteklenen bir tarayıcı kullanın."
     },
     "cancel": {
@@ -34,6 +36,7 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
+      "thai": "ยกเลิก",
       "turkish": "İptal etmek"
     },
     "error-verifying-passkey": {
@@ -46,6 +49,7 @@
       "mandarin": "错误验证Passkey",
       "portuguese": "Erro verificando o Passkey",
       "spanish": "Error a verificar PassKey",
+      "thai": "มีข้อผิดพลาดในการตรวจสอบ Passkey",
       "turkish": "Passkey'i doğrulama hatası"
     },
     "setup-failed": {
@@ -70,7 +74,8 @@
       "mandarin": "差不多了！只需再次确认您的Passkey即可确保为此设备保存它即可。",
       "portuguese": "Quase lá! Basta confirmar sua pasta mais uma vez para garantir que ela seja salva para este dispositivo.",
       "spanish": "¡Casi terminamos! Simplemente confirme su PassKey una vez más para asegurarse de que se guarde para este dispositivo.",
-      "turkish": ""
+      "thai": "เกือบเสร็จแล้ว! เพียงยืนยันรหัสผ่านอีกครั้งเพื่อตรวจสอบว่ามันถูกจัดเก็บสำหรับอุปกรณ์นี้",
+      "turkish": "Neredeyse bitti! Sadece PassKey'inizi tekrar onaylayarak, bunun bu cihazda kaydedildiğini doğrulayın."
     },
     "verification-desc-register": {
       "dutch": "Registreer uw Passkey om te zorgen voor een naadloze login.",
@@ -82,6 +87,7 @@
       "mandarin": "注册您的Passkey以确保无缝登录。",
       "portuguese": "Registre sua chave passada para garantir o login sem costura.",
       "spanish": "Registre su PassKey para garantizar un inicio de sesión fluido.",
+      "thai": "ลงทะเบียนรหัสผ่านของคุณเพื่อความสะดวกในการเข้าสู่ระบบ",
       "turkish": "Kesintisiz giriş sağlamak için passey'inizi kaydedin."
     },
     "verification-title-login": {
@@ -94,6 +100,7 @@
       "mandarin": "Passkey验证",
       "portuguese": "Verificação da Passkey",
       "spanish": "Verificación de Passkey",
+      "thai": "ตรวจสอบ Passkey",
       "turkish": "Passkey doğrulama"
     },
     "verification-title-register": {
@@ -106,6 +113,7 @@
       "mandarin": "注册Passkey",
       "portuguese": "Registre a Passkey",
       "spanish": "Registre su PassKey",
+      "thai": "ลงทะเบียน Passkey",
       "turkish": "Passkey'i kaydet"
     },
     "verify-cta-login": {
@@ -118,6 +126,7 @@
       "mandarin": "验证Passkey",
       "portuguese": "Verifique se a pasta",
       "spanish": "Verifique PassKey",
+      "thai": "ตรวจสอบ Passkey",
       "turkish": "Passkey'i doğrulayın"
     },
     "verify-cta-register": {
@@ -130,6 +139,7 @@
       "mandarin": "注册Passkey",
       "portuguese": "Registre a Passkey",
       "spanish": "Registre PassKey",
+      "thai": "ลงทะเบียน Passkey",
       "turkish": "Passkey'i kaydet"
     }
   }

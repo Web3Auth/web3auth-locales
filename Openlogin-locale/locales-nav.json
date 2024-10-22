@@ -10,6 +10,7 @@
       "mandarin": "关闭",
       "portuguese": "fechar",
       "spanish": "Cerrar",
+      "thai": "ปิด",
       "turkish": "kapat"
     },
     "drawer": {
@@ -22,6 +23,7 @@
       "mandarin": "主要导航",
       "portuguese": "Navegação Principal",
       "spanish": "Navegación Principal",
+      "thai": "การนำทางหลัก",
       "turkish": "Ana Menü"
     },
     "lang-select": {
@@ -34,6 +36,7 @@
       "mandarin": "语言选择器",
       "portuguese": "Seletor de idiomas",
       "spanish": "selector de idiomas",
+      "thai": "ตัวเลือกภาษา",
       "turkish": "Dil Seçimi"
     },
     "link-account": {
@@ -46,6 +49,7 @@
       "mandarin": "帐户",
       "portuguese": "Conta",
       "spanish": "Cuenta",
+      "thai": "บัญชี",
       "turkish": "Hesap"
     },
     "link-apps": {
@@ -58,6 +62,7 @@
       "mandarin": "授权应用",
       "portuguese": "Aplicativos autorizados",
       "spanish": "Aplicaciones autorizadas",
+      "thai": "แอปที่ได้รับอนุญาต",
       "turkish": "Yetkili Uygulamalar"
     },
     "link-home": {
@@ -70,6 +75,7 @@
       "mandarin": "主页",
       "portuguese": "Início",
       "spanish": "Página principal",
+      "thai": "หน้าหลัก",
       "turkish": "Ana sayfa"
     },
     "link-logout": {
@@ -82,6 +88,7 @@
       "mandarin": "登出",
       "portuguese": "Sair",
       "spanish": "Cerrar sesión",
+      "thai": "ออกจากระบบ",
       "turkish": "Çıkış yap"
     },
     "link-support": {
@@ -94,6 +101,7 @@
       "mandarin": "支持",
       "portuguese": "Suporte",
       "spanish": "Ayuda",
+      "thai": "การสนับสนุน",
       "turkish": "Destek"
     },
     "list-bottom": {
@@ -106,6 +114,7 @@
       "mandarin": "主导航底部",
       "portuguese": "Parte inferior da navegação principal",
       "spanish": "Botón principal de navegación",
+      "thai": "การนำทางหลักด้านล่าง",
       "turkish": "Ana Menü altı"
     },
     "logo": {
@@ -118,6 +127,7 @@
       "mandarin": "标识",
       "portuguese": "logotipo",
       "spanish": "logo",
+      "thai": "โลโก้",
       "turkish": "logo"
     },
     "toggle-btn": {
@@ -130,6 +140,7 @@
       "mandarin": "导航栏切换",
       "portuguese": "Navigação Bargle de barra",
       "spanish": "Barra de navegación",
+      "thai": "สลับแถบนำทาง",
       "turkish": "Gezinti Çubuğu geçişi"
     },
     "user-info": {
@@ -142,6 +153,7 @@
       "mandarin": "用户信息",
       "portuguese": "Informação do usuário",
       "spanish": "Información del usuario",
+      "thai": "ข้อมูลผู้ใช้",
       "turkish": "Kullanıcı bilgisi"
     }
   }
