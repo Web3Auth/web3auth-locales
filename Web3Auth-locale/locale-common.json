@@ -10,6 +10,7 @@
       "mandarin": "验证您的{{adapter}}帐户以继续",
       "portuguese": "Verifique a sua conta {{adapter}} para continuar",
       "spanish": "Verifica tu cuenta {{adapter}} para continuar",
+      "thai": "ตรวจสอบบัญชี {{adapter}} ของคุณเพื่อดำเนินการต่อ",
       "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula"
     },
     "adapter-loader.message1": {
@@ -22,6 +23,7 @@
       "mandarin": "在您的{{adapter}}上验证",
       "portuguese": "Verifique o(a) seu/sua {{adapter}}",
       "spanish": "Verifique su {{adapter}}",
+      "thai": "ตรวจสอบ {{adapter}} ของคุณ",
       "turkish": "{{adapter}} doğrula"
     },
     "adapter-loader.message2": {
@@ -34,6 +36,7 @@
       "mandarin": "帐号继续",
       "portuguese": "conta para continuar",
       "spanish": "cuenta para continuar",
+      "thai": "บัญชีเพื่อดำเนินการต่อ",
       "turkish": "devam edecek hesap"
     },
     "errors-invalid-email": {
@@ -46,6 +49,7 @@
       "mandarin": "无效的电子邮件",
       "portuguese": "E-mail inválido",
       "spanish": "Correo electrónico no válido",
+      "thai": "อีเมลไม่ถูกต้อง",
       "turkish": "Geçersiz E-posta"
     },
     "errors-invalid-number": {
@@ -58,6 +62,7 @@
       "mandarin": "电话号码无效",
       "portuguese": "Número de telefone inválido",
       "spanish": "Número de teléfono no válido",
+      "thai": "หมายเลขโทรศัพท์ไม่ถูกต้อง",
       "turkish": "Geçersiz Telefon Numarası"
     },
     "errors-invalid-number-email": {
@@ -70,6 +75,7 @@
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email ou número de telefone inválido",
       "spanish": "Correo electrónico o número de teléfono no válido",
+      "thai": "อีเมลหรือหมายเลขโทรศัพท์ไม่ถูกต้อง",
       "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-required": {
@@ -82,6 +88,7 @@
       "mandarin": "必填",
       "portuguese": "Obrigatório",
       "spanish": "Campo obligatorio",
+      "thai": "จำเป็น",
       "turkish": "Zorunlu"
     },
     "external.back": {
@@ -94,6 +101,7 @@
       "mandarin": "返回",
       "portuguese": "Voltar",
       "spanish": "Atrás",
+      "thai": "กลับ",
       "turkish": "Geri"
     },
     "external.connect": {
@@ -106,6 +114,7 @@
       "mandarin": "继续使用钱包",
       "portuguese": "Continuar com uma carteira",
       "spanish": "Conectar con la billetera",
+      "thai": "ดำเนินการต่อด้วยกระเป๋าเงิน",
       "turkish": "Cüzdanla devam et"
     },
     "external.search-text": {
@@ -118,6 +127,7 @@
       "mandarin": "没看到你的钱包吗？",
       "portuguese": "Não vê sua carteira?",
       "spanish": "¿No ves tu billetera?",
+      "thai": "ไม่เห็นกระเป๋าเงินของคุณ?",
       "turkish": "Cüzdanınızı görmüyor musunuz?"
     },
     "external.search-subtext": {
@@ -130,6 +140,7 @@
       "mandarin": "尝试改为搜索",
       "portuguese": "Tente pesquisar",
       "spanish": "Intenta buscar en su lugar",
+      "thai": "ลองค้นหาแทน",
       "turkish": "Bunun yerine aramayı deneyin"
     },
     "external.connect-wallet": {
@@ -142,6 +153,7 @@
       "mandarin": "连接钱包",
       "portuguese": "Conectar carteira",
       "spanish": "Conectar billetera",
+      "thai": "เชื่อมต่อกระเป๋าเงิน",
       "turkish": "Cüzdanı Bağla"
     },
     "external.continue": {
@@ -154,6 +166,7 @@
       "mandarin": "继续使用外部钱包",
       "portuguese": "Continuar com carteira externa",
       "spanish": "Continuar con billetera externa",
+      "thai": "ดำเนินการต่อด้วยกระเป๋าเงินภายนอก",
       "turkish": "Harici cüzdanla devam et"
     },
     "external.dont-have": {
@@ -166,6 +179,7 @@
       "mandarin": "没有",
       "portuguese": "Não tem",
       "spanish": "No tiene",
+      "thai": "ไม่มี",
       "turkish": "Yok"
     },
     "external.get": {
@@ -178,6 +192,7 @@
       "mandarin": "获取",
       "portuguese": "Obter",
       "spanish": "Obtener",
+      "thai": "รับ",
       "turkish": "Al"
     },
     "external.get-wallet": {
@@ -190,6 +205,7 @@
       "mandarin": "获取钱包",
       "portuguese": "Obter carteira",
       "spanish": "Obtener billetera",
+      "thai": "รับกระเป๋าเงิน",
       "turkish": "Cüzdan Al"
     },
     "external.install-browser-extension": {
@@ -201,6 +217,7 @@
       "mandarin": "安装{{browser}}扩展",
       "portuguese": "Instalar extensão {{browser}}",
       "spanish": "Instalar extensión {{browser}}",
+      "thai": "ติดตั้งส่วนขยาย {{browser}}",
       "turkish": "{{browser}} uzantısını yükle"
     },
     "external.install-mobile-app": {
@@ -212,6 +229,7 @@
       "mandarin": "安装{{os}}应用",
       "portuguese": "Instalar aplicativo {{os}}",
       "spanish": "Instalar aplicación {{os}}",
+      "thai": "ติดตั้งแอป {{os}}",
       "turkish": "{{os}} uygulamasını yükle"
     },
     "external.installed": {
@@ -224,6 +242,7 @@
       "mandarin": "已安装",
       "portuguese": "Instalado",
       "spanish": "Instalado",
+      "thai": "ติดตั้งแล้ว",
       "turkish": "Yüklendi"
     },
     "external.no-wallets-found": {
@@ -236,6 +255,7 @@
       "mandarin": "没有找到钱包",
       "portuguese": "Nenhuma carteira encontrada",
       "spanish": "No se encontraron billeteras",
+      "thai": "ไม่พบกระเป๋าเงิน",
       "turkish": "Cüzdan bulunamadı"
     },
     "external.search-wallet": {
@@ -248,6 +268,7 @@
       "mandarin": "搜索{{count}}个钱包...",
       "portuguese": "Pesquisar através de {{count}} carteiras...",
       "spanish": "Buscar a través de {{count}} billeteras...",
+      "thai": "ค้นหากระเป๋าเงิน {{count}} รายการ...",
       "turkish": "{{count}} cüzdan ara..."
     },
     "external.title": {
@@ -260,6 +281,7 @@
       "mandarin": "外部钱包",
       "portuguese": "Carteira Externa",
       "spanish": "Billetera Externa",
+      "thai": "กระเป๋าเงินภายนอก",
       "turkish": "Harici Cüzdan"
     },
     "external.walletconnect-connect": {
@@ -272,6 +294,7 @@
       "mandarin": "连接",
       "portuguese": "Conectar",
       "spanish": "Conectar",
+      "thai": "เชื่อมต่อ",
       "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
@@ -284,6 +307,7 @@
       "mandarin": "使用支持 WalletConnect 的钱包进行扫描或单击二维码以复制到剪贴板。",
       "portuguese": "Digitalize com uma carteira compatível com WalletConnect ou clique no código QR para copiar para sua área de transferência.",
       "spanish": "Escanee con una billetera compatible con WalletConnect o haga clic en el código QR para copiarlo en su portapapeles.",
+      "thai": "สแกนด้วยกระเป๋าเงินที่รองรับ WalletConnect หรือคลิกที่รหัส QR เพื่อคัดลอกไปยังคลิปบอร์ดของคุณ",
       "turkish": "WalletConnect destekli bir cüzdanla tarayın veya panonuza kopyalamak için QR kodunu tıklayın."
     },
     "external.walletconnect-subtitle": {
@@ -296,6 +320,7 @@
       "mandarin": "使用兼容 WalletConnect 的钱包扫描 QR 码",
       "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect",
       "spanish": "Escanear el código QR con una billetera compatible con WalletConnect",
+      "thai": "สแกนรหัส QR ด้วยกระเป๋าเงินที่รองรับ WalletConnect",
       "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın"
     },
     "footer.message": {
@@ -308,6 +333,7 @@
       "mandarin": "自托管登录由",
       "portuguese": "Login de autocustódia por",
       "spanish": "Inicio de sesión con autocustodia por",
+      "thai": "การเข้าสู่ระบบแบบจัดการด้วยตนเองโดย",
       "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
@@ -320,6 +346,7 @@
       "mandarin": "自我castody通过",
       "portuguese": "Autoconfiança via",
       "spanish": "Autocustodia a través de",
+      "thai": "การดูแลตนเองผ่าน",
       "turkish": "Kendi kendine velayet"
     },
     "footer.policy": {
@@ -332,6 +359,7 @@
       "mandarin": "隐私政策",
       "portuguese": "Política de Privacidade",
       "spanish": "Política de privacidad",
+      "thai": "นโยบายความเป็นส่วนตัว",
       "turkish": "Gizlilik Politikası"
     },
     "footer.terms": {
@@ -344,6 +372,7 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de Uso",
       "spanish": "Términos de Uso",
+      "thai": "ข้อกำหนดการใช้งาน",
       "turkish": "Kullanım Şartları"
     },
     "footer.terms-service": {
@@ -356,6 +385,7 @@
       "mandarin": "服务条款",
       "portuguese": "Termos de Serviço",
       "spanish": "Términos de servicio",
+      "thai": "ข้อกำหนดการให้บริการ",
       "turkish": "Hizmet Şartları"
     },
     "footer.version": {
@@ -368,6 +398,7 @@
       "mandarin": "版本",
       "portuguese": "Versão",
       "spanish": "Versión",
+      "thai": "เวอร์ชัน",
       "turkish": "Versiyon"
     },
     "header-subtitle": {
@@ -380,6 +411,7 @@
       "mandarin": "选择以下选项以继续",
       "portuguese": "Selecione uma das seguintes opções para continuar",
       "spanish": "Seleccione una de las siguientes opciones para continuar",
+      "thai": "เลือกหนึ่งในตัวเลือกต่อไปนี้เพื่อดำเนินการต่อ",
       "turkish": "Devam etmek için seçeneklerden birini işaretle"
     },
     "header-subtitle-name": {
@@ -392,6 +424,7 @@
       "mandarin": "一键点击您的 {{appName}} 钱包",
       "portuguese": "Sua carteira {{appName}} com um clique",
       "spanish": "Su billetera {{appName}} con un solo clic",
+      "thai": "กระเป๋าเงิน {{appName}} ของคุณด้วยการคลิกเพียงครั้งเดียว",
       "turkish": "Tek tıklama ile {{appName}} cüzdanınız"
     },
     "header-subtitle-new": {
@@ -404,6 +437,7 @@
       "mandarin": "一键点击您的区块链钱包",
       "portuguese": "Sua carteira de blockchain com um clique",
       "spanish": "Su billetera blockchain con un solo clic",
+      "thai": "กระเป๋าเงินบล็อกเชนของคุณด้วยการคลิกเพียงครั้งเดียว",
       "turkish": "Tek tıklama ile blockchain cüzdanınız"
     },
     "header-title": {
@@ -416,6 +450,7 @@
       "mandarin": "登录",
       "portuguese": "Entrar",
       "spanish": "Iniciar sesión",
+      "thai": "เข้าสู่ระบบ",
       "turkish": "Giriş yap"
     },
     "header-tooltip-desc": {
@@ -428,6 +463,7 @@
       "mandarin": "钱包作为一个账户用于在区块链上存储和管理您的数字资产。",
       "portuguese": "A carteira serve como uma conta para armazenar e gerenciar seus ativos digitais na blockchain.",
       "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la blockchain.",
+      "thai": "กระเป๋าเงินทำหน้าที่เป็นบัญชีสำหรับเก็บและจัดการสินทรัพย์ดิจิทัลของคุณบนบล็อกเชน",
       "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür."
     },
     "header-tooltip-title": {
@@ -440,6 +476,7 @@
       "mandarin": "钱包",
       "portuguese": "Carteira",
       "spanish": "Billetera",
+      "thai": "กระเป๋าเงิน",
       "turkish": "Cüzdan"
     },
     "network.add-request": {
@@ -452,6 +489,7 @@
       "mandarin": "此站点正在请求添加网络",
       "portuguese": "Este site está solicitando adicionar uma rede",
       "spanish": "Este sitio está solicitando agregar una red",
+      "thai": "เว็บไซต์นี้กำลังขอเพิ่มเครือข่าย",
       "turkish": "Bu site bir ağ eklemek istiyor"
     },
     "network.cancel": {
@@ -464,6 +502,7 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
+      "thai": "ยกเลิก",
       "turkish": "İptal"
     },
     "network.from": {
@@ -476,6 +515,7 @@
       "mandarin": "从",
       "portuguese": "De",
       "spanish": "De",
+      "thai": "จาก",
       "turkish": "Nereden"
     },
     "network.proceed": {
@@ -488,6 +528,7 @@
       "mandarin": "继续",
       "portuguese": "Prosseguir",
       "spanish": "Continuar",
+      "thai": "ดำเนินการต่อ",
       "turkish": "Devam"
     },
     "network.switch-request": {
@@ -500,6 +541,7 @@
       "mandarin": "此站点正在请求切换网络",
       "portuguese": "Este site está solicitando trocar de rede",
       "spanish": "Este sitio está solicitando cambiar de red",
+      "thai": "เว็บไซต์นี้กำลังขอสลับเครือข่าย",
       "turkish": "Bu site ağ değiştirmeyi talep ediyor"
     },
     "network.to": {
@@ -512,6 +554,7 @@
       "mandarin": "至",
       "portuguese": "Para",
       "spanish": "A",
+      "thai": "ถึง",
       "turkish": "Nereye"
     },
     "passkey.add": {
@@ -524,6 +567,7 @@
       "mandarin": "添加Passkey",
       "portuguese": "Adicionar Passkey",
       "spanish": "Añadir Passkey",
+      "thai": "เพิ่ม Passkey",
       "turkish": "Passkey ekle"
     },
     "passkey.haveExisting": {
@@ -536,6 +580,7 @@
       "mandarin": "已有 passkey 吗？",
       "portuguese": "Você já possui um passkey?",
       "spanish": "¿Tiene un passkey existente?",
+      "thai": "มี passkey อยู่แล้วหรือไม่?",
       "turkish": "Mevcut bir passkey'ınız mı var?"
     },
     "passkey.learn-more": {
@@ -548,6 +593,7 @@
       "mandarin": "了解更多",
       "portuguese": "Saber mais",
       "spanish": "Aprende más",
+      "thai": "เรียนรู้เพิ่มเติม",
       "turkish": "Daha fazla bilgi edin"
     },
     "passkey.or": {
@@ -560,6 +606,7 @@
       "mandarin": "或者",
       "portuguese": "ou",
       "spanish": "o",
+      "thai": "หรือ",
       "turkish": "veya"
     },
     "passkey.register-desc": {
@@ -572,6 +619,7 @@
       "mandarin": "使用passkeys，您可以通过面部、指纹或安全密钥验证您的身份。",
       "portuguese": "Com passkeys, você pode verificar sua identidade por meio de seu rosto, impressão digital ou chaves de segurança.",
       "spanish": "Con passkeys, puedes verificar tu identidad a través de tu rostro, huella digital o claves de seguridad.",
+      "thai": "ด้วย passkeys คุณสามารถยืนยันตัวตนผ่านใบหน้า ลายนิ้วมือ หรือคีย์ความปลอดภัยของคุณได้",
       "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
     },
     "passkey.register-title": {
@@ -584,6 +632,7 @@
       "mandarin": "注册Passkey",
       "portuguese": "Registre-se Passkey",
       "spanish": "Registrarse Passkey",
+      "thai": "ลงทะเบียน Passkey",
       "turkish": "Passkey'ı kaydedin"
     },
     "passkey.use": {
@@ -596,6 +645,7 @@
       "mandarin": "我有一个Passkey",
       "portuguese": "Eu tenho uma passkey",
       "spanish": "Tengo una Passkey",
+      "thai": "ฉันมี passkey",
       "turkish": "Bir passkey'im var"
     },
     "popup.phone-body": {
@@ -608,6 +658,7 @@
       "mandarin": "您的国家代码将自动检测到，但如果您使用其他国家/地区的电话号码，您需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se estiver usando um número de telefone de um país diferente, você precisará inserir manualmente o código correto do país.",
       "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de otro país, deberá ingresar manualmente el código de país correcto.",
+      "thai": "รหัสประเทศของคุณจะถูกตรวจจับโดยอัตโนมัติ แต่หากคุณใช้หมายเลขโทรศัพท์จากประเทศอื่น คุณจะต้องป้อนรหัสประเทศที่ถูกต้องด้วยตนเอง",
       "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir."
     },
     "popup.phone-header": {
@@ -620,6 +671,7 @@
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código do país",
       "spanish": "Número de teléfono y código de país",
+      "thai": "หมายเลขโทรศัพท์และรหัสประเทศ",
       "turkish": "Telefon numarası ve ülke kodu"
     },
     "post-loading.connected": {
@@ -632,6 +684,7 @@
       "mandarin": "您与您的帐户有联系",
       "portuguese": "Você está conectado com sua conta",
       "spanish": "Estás conectado con tu cuenta",
+      "thai": "คุณเชื่อมต่อกับบัญชีของคุณแล้ว",
       "turkish": "Hesabınızla bağlandınız"
     },
     "post-loading.something-wrong": {
@@ -644,6 +697,7 @@
       "mandarin": "出了些问题！",
       "portuguese": "Algo deu errado!",
       "spanish": "¡Algo salió mal!",
+      "thai": "มีบางอย่างผิดพลาด!",
       "turkish": "Bir şeyler ters gitti!"
     },
     "social.continue": {
@@ -656,6 +710,7 @@
       "mandarin": "继续",
       "portuguese": "Continuar com",
       "spanish": "Continuar con",
+      "thai": "ดำเนินการต่อด้วย",
       "turkish": "Devam et: "
     },
     "social.continueCustom": {
@@ -668,6 +723,7 @@
       "mandarin": "继续使用{{adapter}}",
       "portuguese": "Continue com o {{adapter}}",
       "spanish": "Continuar con {{adapter}}",
+      "thai": "ดำเนินการต่อด้วย {{adapter}}",
       "turkish": "{{adapter}} ile devam et"
     },
     "social.email": {
@@ -680,6 +736,7 @@
       "mandarin": "电子邮件",
       "portuguese": "Email",
       "spanish": "Correo electrónico",
+      "thai": "อีเมล",
       "turkish": "E-posta"
     },
     "social.email-continue": {
@@ -692,6 +749,7 @@
       "mandarin": "继续使用电子邮件",
       "portuguese": "Continuar com email",
       "spanish": "Continuar con correo electrónico",
+      "thai": "ดำเนินการต่อด้วยอีเมล",
       "turkish": "E-posta ile devam et"
     },
     "social.email-new": {
@@ -704,6 +762,7 @@
       "mandarin": "name@example.com",
       "portuguese": "nome@exemplo.com",
       "spanish": "nombre@ejemplo.com",
+      "thai": "ชื่อ@ตัวอย่าง.com",
       "turkish": "isim@ornek.com"
     },
     "social.passwordless-cta": {
@@ -716,6 +775,7 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
+      "thai": "ดำเนินการต่อ",
       "turkish": "Devam et"
     },
     "social.passwordless-login": {
@@ -728,6 +788,7 @@
       "mandarin": "登录",
       "portuguese": "Conecte-se",
       "spanish": "Acceso",
+      "thai": "เข้าสู่ระบบ",
       "turkish": "Giriş yapmak"
     },
     "social.passwordless-title": {
@@ -740,6 +801,7 @@
       "mandarin": "邮件或电话",
       "portuguese": "Email ou telefone",
       "spanish": "Email o teléfono",
+      "thai": "อีเมลหรือโทรศัพท์",
       "turkish": "E-posta veya Telefon"
     },
     "social.phone": {
@@ -752,6 +814,7 @@
       "mandarin": "电话",
       "portuguese": "Telefone",
       "spanish": "Teléfono",
+      "thai": "โทรศัพท์",
       "turkish": "Telefon"
     },
     "social.policy": {
@@ -764,6 +827,7 @@
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+      "thai": "เราไม่เก็บข้อมูลใด ๆ ที่เกี่ยวข้องกับการเข้าสู่ระบบทางสังคมของคุณ",
       "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
     "social.sms": {
@@ -776,6 +840,7 @@
       "mandarin": "移动",
       "portuguese": "Móvel",
       "spanish": "Móvil",
+      "thai": "มือถือ",
       "turkish": "Mobil Telefon"
     },
     "social.sms-continue": {
@@ -788,6 +853,7 @@
       "mandarin": "继续使用移动设备",
       "portuguese": "Continuar com o celular",
       "spanish": "Continuar con móvil",
+      "thai": "ดำเนินการต่อด้วยมือถือ",
       "turkish": "Telefon ile devam et"
     },
     "social.sms-invalid-number": {
@@ -800,6 +866,7 @@
       "mandarin": "无效的电话号码",
       "portuguese": "Número de telefone inválido",
       "spanish": "Número de teléfono inválido",
+      "thai": "หมายเลขโทรศัพท์ไม่ถูกต้อง",
       "turkish": "Geçersiz telefon numarası"
     },
     "social.sms-placeholder-text": {
@@ -812,6 +879,7 @@
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
       "spanish": "Por ej.:",
+      "thai": "เช่น:",
       "turkish": "Örneğin:"
     },
     "social.view-less": {
@@ -824,6 +892,7 @@
       "mandarin": "少查看",
       "portuguese": "Ver menos",
       "spanish": "Ver menos",
+      "thai": "ดูน้อยลง",
       "turkish": "Daha az görüntüle"
     },
     "social.view-less-socials": {
@@ -836,6 +905,7 @@
       "mandarin": "查看更少socials",
       "portuguese": "Ver menos socials",
       "spanish": "Ver menos socials",
+      "thai": "ดูโซเชียลน้อยลง",
       "turkish": "Daha az socials görüntüle"
     },
     "social.view-more": {
@@ -848,6 +918,7 @@
       "mandarin": "查看更多",
       "portuguese": "Ver mais",
       "spanish": "Ver más",
+      "thai": "ดูเพิ่มเติม",
       "turkish": "Daha fazla görüntüle"
     },
     "social.view-more-socials": {
@@ -860,6 +931,7 @@
       "mandarin": "查看更多socials",
       "portuguese": "Ver mais socials",
       "spanish": "Ver más socials",
+      "thai": "ดูโซเชียลเพิ่มเติม",
       "turkish": "Daha fazlasını görüntüle socials"
     }
   }
