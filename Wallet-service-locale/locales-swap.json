@@ -398,12 +398,12 @@
     },
     "sendToAddress": {
       "dutch": "Stuur geld naar een ander portemonnee-adres",
-      "english": "Send funds to other wallet address",
+      "english": "Send funds to another wallet address",
       "french": "Envoyer des fonds à une autre adresse de portefeuille",
       "german": "Senden Sie Geld an eine andere Wallet-Adresse",
-      "japanese": "他のウォレットアドレスに資金を送金する",
+      "japanese": "別のウォレットアドレスに資金を送金する",
       "korean": "다른 지갑 주소로 자금 보내기",
-      "mandarin": "将资金发送至其​​他钱包地址",
+      "mandarin": "将资金发送到另一个钱包地址",
       "portuguese": "Envie fundos para outro endereço de carteira",
       "spanish": "Enviar fondos a otra dirección de billetera",
       "turkish": "Parayı başka bir cüzdan adresine gönderin"
