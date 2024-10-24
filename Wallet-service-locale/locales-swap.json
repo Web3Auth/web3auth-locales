@@ -611,6 +611,30 @@
       "portuguese": "Sua troca",
       "spanish": "Tu intercambio",
       "turkish": "Senin Değişim"
+    },
+    "slippageToleranceTooltip": {
+      "dutch": "Uw transactie wordt niet voltooid als de prijs boven dit percentage komt.",
+      "english": "Your transaction will not complete if the price moves beyond this percentage.",
+      "french": "Votre transaction ne sera pas finalisée si le prix dépasse ce pourcentage.",
+      "german": "Ihre Transaktion wird nicht abgeschlossen, wenn der Preis diesen Prozentsatz überschreitet.",
+      "japanese": "価格がこのパーセンテージを超えて変動すると、トランザクションは完了しません。",
+      "korean": "가격이 이 비율을 초과하면 거래가 완료되지 않습니다.",
+      "mandarin": "如果价格超出此百分比，您的交易将无法完成。",
+      "portuguese": "Sua transação não será concluída se o preço ultrapassar essa porcentagem.",
+      "spanish": "Su transacción no se completará si el precio supera este porcentaje.",
+      "turkish": "Fiyatın bu yüzdeyi aşması durumunda işleminiz tamamlanmayacaktır."
+    },
+    "txnDeadlineTooltip": {
+      "dutch": "De transactie wordt geannuleerd als deze langer dan deze tijdslimiet in behandeling blijft.",
+      "english": "The transaction will be canceled if it remains pending longer than this time limit.",
+      "french": "La transaction sera annulée si elle reste en attente au-delà de ce délai.",
+      "german": "Die Transaktion wird storniert, wenn sie länger als diese Frist aussteht.",
+      "japanese": "この制限時間を超えて保留状態が続くと、トランザクションはキャンセルされます。",
+      "korean": "이 제한 시간보다 오랫동안 보류 상태로 유지되면 거래가 취소됩니다.",
+      "mandarin": "如果交易等待时间超过此时间限制，交易将被取消。",
+      "portuguese": "A transação será cancelada se permanecer pendente por mais tempo que esse prazo.",
+      "spanish": "La transacción se cancelará si permanece pendiente más tiempo que este límite de tiempo.",
+      "turkish": "Bu süre sınırından daha uzun süre beklemede kalması durumunda işlem iptal edilecektir."
     }
   }
 }
