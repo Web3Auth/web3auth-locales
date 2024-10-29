@@ -242,6 +242,18 @@
       "spanish": "Ver información del usuario",
       "turkish": "Kullanıcı Bilgilerini Görüntüle"
     },
+    "copied": {
+      "dutch": "Gekopieerd",
+      "english": "Copied",
+      "french": "Copié",
+      "german": "Kopiert",
+      "japanese": "コピーされました",
+      "korean": "복사됨",
+      "mandarin": "已复制",
+      "portuguese": "Copiado",
+      "spanish": "copiado",
+      "turkish": "Kopyalandı"
+    },
     "passkeys": {
       "dutch": "Wachtwoorden",
       "english": "Passkeys",
