@@ -613,6 +613,30 @@
       "portuguese": "com nossa equipe hoje",
       "spanish": "con nuestro equipo hoy",
       "turkish": "bugün ekibimizle"
+    },
+    "userInfo-console": {
+      "dutch": "Gebruikersinfoconsole",
+      "english": "User Info Console",
+      "french": "Console d'informations utilisateur",
+      "german": "Benutzerinfokonsole",
+      "japanese": "ユーザー情報コンソール",
+      "korean": "사용자 정보 콘솔",
+      "mandarin": "用户信息控制台",
+      "portuguese": "Console de informações do usuário",
+      "spanish": "Consola de información del usuario",
+      "turkish": "Kullanıcı Bilgi Konsolu"
+    },
+    "close": {
+      "dutch": "Dichtbij",
+      "english": "Close",
+      "french": "Fermer",
+      "german": "Schließen",
+      "japanese": "近い",
+      "korean": "닫다",
+      "mandarin": "关闭",
+      "portuguese": "Fechar",
+      "spanish": "Cerca",
+      "turkish": "Kapalı"
     }
   }
 }
