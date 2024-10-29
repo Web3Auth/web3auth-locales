@@ -362,6 +362,18 @@
       "spanish": "Servicios de billetera",
       "turkish": "Cüzdan Hizmetleri"
     },
+    "wallet-services-subtext": {
+      "dutch": "Productieklare portemonnee-UI",
+      "english": "Production-ready wallet UI",
+      "french": "Interface utilisateur du portefeuille prête pour la production",
+      "german": "Produktionsbereite Wallet-Benutzeroberfläche",
+      "japanese": "本番環境に対応したウォレット UI",
+      "korean": "생산 준비가 완료된 지갑 UI",
+      "mandarin": "生产就绪的钱包 UI",
+      "portuguese": "UI de carteira pronta para produção",
+      "spanish": "UI de billetera lista para producción",
+      "turkish": "Üretime hazır cüzdan kullanıcı arayüzü"
+    },
     "open-wallet-ui": {
       "dutch": "Open de Wallet-gebruikersinterface",
       "english": "Open Wallet UI",
@@ -373,6 +385,18 @@
       "portuguese": "Abrir UI da Carteira",
       "spanish": "Abrir la interfaz de usuario de Wallet",
       "turkish": "Cüzdan kullanıcı arayüzünü aç"
+    },
+    "onrmap": {
+      "dutch": "Gebruik Fiat Onramp",
+      "english": "Use Fiat Onramp",
+      "french": "Utiliser la rampe d'accès Fiat",
+      "german": "Verwenden Sie Fiat Onramp",
+      "japanese": "フィアット オンランプを使用する",
+      "korean": "피아트 온램프(Fiat Onramp) 사용",
+      "mandarin": "使用菲亚特匝道",
+      "portuguese": "Use Fiat Onramp",
+      "spanish": "Utilice la rampa de acceso Fiat",
+      "turkish": "Fiat Onramp'ı kullanın"
     },
     "connect-app": {
       "dutch": "Maak verbinding met applicaties",
@@ -409,6 +433,30 @@
       "portuguese": "Assinar mensagem pessoal",
       "spanish": "Firmar mensaje personal",
       "turkish": "Kişisel Mesajı İmzala"
+    },
+    "sign-success": {
+      "dutch": "Handtekening succes!",
+      "english": "Signature Success!",
+      "french": "Succès emblématique !",
+      "german": "Signature Success!",
+      "japanese": "署名成功！",
+      "korean": "시그니처 성공!",
+      "mandarin": "签名成功！",
+      "portuguese": "Sucesso de Assinatura!",
+      "spanish": "¡Éxito exclusivo!",
+      "turkish": "İmza Başarısı!"
+    },
+    "sign-failed": {
+      "dutch": "Handtekening mislukt. Probeer het opnieuw",
+      "english": "Signature Failed, Try again",
+      "french": "Échec de la signature, réessayez",
+      "german": "Signatur fehlgeschlagen. Versuchen Sie es erneut",
+      "japanese": "署名に失敗しました。もう一度お試しください",
+      "korean": "서명에 실패했습니다. 다시 시도하세요.",
+      "mandarin": "签名失败，请重试",
+      "portuguese": "Falha na assinatura, tente novamente",
+      "spanish": "Error de firma, inténtelo de nuevo",
+      "turkish": "İmza Başarısız Oldu, Tekrar Deneyin"
     },
     "nft-services": {
       "dutch": "NFT-diensten",
