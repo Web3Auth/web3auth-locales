@@ -637,6 +637,18 @@
       "portuguese": "Fechar",
       "spanish": "Cerca",
       "turkish": "Kapalı"
+    },
+    "disabled-btn-text": {
+      "dutch": "Deze functie ondersteunt alleen sociale logins.",
+      "english": "This feature supports social logins only.",
+      "french": "Cette fonctionnalité prend uniquement en charge les connexions sociales.",
+      "german": "Diese Funktion unterstützt nur soziale Anmeldungen.",
+      "japanese": "この機能はソーシャル ログインのみをサポートします。",
+      "korean": "이 기능은 소셜 로그인만 지원합니다.",
+      "mandarin": "此功能仅支持社交登录。",
+      "portuguese": "Este recurso suporta apenas logins sociais.",
+      "spanish": "Esta función solo admite inicios de sesión sociales.",
+      "turkish": "Bu özellik yalnızca sosyal oturum açmaları destekler."
     }
   }
 }
