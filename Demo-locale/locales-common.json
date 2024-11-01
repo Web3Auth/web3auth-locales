@@ -639,16 +639,16 @@
       "turkish": "Kapalı"
     },
     "disabled-btn-text": {
-      "dutch": "Deze functie ondersteunt alleen sociale logins.",
-      "english": "This feature supports social logins only.",
-      "french": "Cette fonctionnalité prend uniquement en charge les connexions sociales.",
-      "german": "Diese Funktion unterstützt nur soziale Anmeldungen.",
-      "japanese": "この機能はソーシャル ログインのみをサポートします。",
-      "korean": "이 기능은 소셜 로그인만 지원합니다.",
-      "mandarin": "此功能仅支持社交登录。",
-      "portuguese": "Este recurso suporta apenas logins sociais.",
-      "spanish": "Esta función solo admite inicios de sesión sociales.",
-      "turkish": "Bu özellik yalnızca sosyal oturum açmaları destekler."
+      "dutch": "Deze functie wordt alleen ondersteund via sociale logins",
+      "english": "This feature is supported via social logins only",
+      "french": "Cette fonctionnalité est prise en charge via les connexions sociales uniquement",
+      "german": "Diese Funktion wird nur über soziale Anmeldungen unterstützt",
+      "japanese": "この機能はソーシャル ログイン経由でのみサポートされます",
+      "korean": "이 기능은 소셜 로그인을 통해서만 지원됩니다.",
+      "mandarin": "仅通过社交登录支持此功能",
+      "portuguese": "Este recurso é compatível apenas com logins sociais",
+      "spanish": "Esta función solo se admite mediante inicios de sesión sociales",
+      "turkish": "Bu özellik yalnızca sosyal oturum açma yoluyla desteklenir"
     }
   }
 }
