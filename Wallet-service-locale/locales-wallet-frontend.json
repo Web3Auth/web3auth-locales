@@ -1079,6 +1079,18 @@
       "portuguese": "Você envia",
       "spanish": "Usted envía",
       "turkish": "Sen sen"
+    },
+    "isSmartAccount": {
+      "dutch": "Dit is een Smart Contract Account",
+      "english": "This is a Smart Contract Account",
+      "french": "C'est un compte Smart Contract",
+      "german": "Dies ist ein Smart Contract Konto",
+      "japanese": "これはスマートコントラクトアカウントです",
+      "korean": "이것은 스마트 컨트랙트 계정입니다",
+      "mandarin": "这是一个智能合约账户",
+      "portuguese": "Este é um contrato inteligente",
+      "spanish": "Este es un contrato inteligente",
+      "turkish": "Bu, bir akıllı sözleşme hesabıdır"
     }
   }
 }
