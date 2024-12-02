@@ -450,7 +450,7 @@
       "french": "Utilisez le navigateur actuel pour approuver l'accès à partir de nouveaux appareils/navigateurs.",
       "german": "Verwenden Sie den aktuellen Browser, um den Zugriff von neuen Geräten/Browsern zu genehmigen.",
       "japanese": "現在のブラウザを使用して、新しいデバイス/ブラウザからのアクセスを承認します。",
-      "korean": "사용 중인 브라우저로 새로운 기기/브라우저의 접근 승인하기”,
+      "korean": "사용 중인 브라우저로 새로운 기기/브라우저의 접근 승인하기 ",
       "mandarin": "使用当前浏览器批准来自新设备/浏览器的访问。",
       "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores.",
       "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.",
@@ -714,7 +714,7 @@
       "french": "Je sais que si je perds cette phrase de récupération, je prendrai le risque de perdre mon compte.",
       "german": "Ich weiß, dass ich das Risiko trage, mein Konto zu verlieren, wenn ich diesen Wiederherstellungssatz verliere.",
       "japanese": "この回復フレーズを失った場合、アカウントを失うリスクを負うことを私は知っています。",
-      "korean": "복구 구문 분실 시, 계정 분실 위험이 있음을 이해합니다."
+      "korean": "복구 구문 분실 시 계정 분실 위험이 있음을 이해합니다.",
       "mandarin": "我知道如果我丢失了这个恢复短语，我将承担丢失帐户的风险。",
       "portuguese": "Sei que se eu perder esta frase de recuperação, correrei o risco de perder minha conta.",
       "spanish": "Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta.",
@@ -750,7 +750,7 @@
       "french": "Vérifié",
       "german": "Verifiziert",
       "japanese": "確認済み",
-      "korean": "인증 완료"
+      "korean": "인증 완료",
       "mandarin": "已验证",
       "portuguese": "Verificado",
       "spanish": "Verificado",
