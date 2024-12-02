@@ -630,6 +630,18 @@
       "spanish": "Límite de gas",
       "turkish": "Jener Gaz Sınırı"
     },
+    "gasPrice": {
+      "dutch": "Gaskosten",
+      "english": "Gas Price",
+      "french": "Prix du gaz",
+      "german": "Gaskosten",
+      "japanese": "ガス料金",
+      "korean": "가스 가격",
+      "mandarin": "汽油价格",
+      "portuguese": "Preço do gás",
+      "spanish": "Precio del gas",
+      "turkish": "Gaz Ücreti"
+    },
     "id": {
       "dutch": "ID kaart",
       "english": "ID",
@@ -690,6 +702,18 @@
       "spanish": "Últimos 6 meses",
       "turkish": "Son 6 aylar"
     },
+    "maxFeePerGas": {
+      "dutch": "Maximale kosten per gas",
+      "english": "Max Fee Per Gas",
+      "french": "Frais maximum par gaz",
+      "german": "Maximale Kosten pro Gas",
+      "japanese": "最大ガス料金",
+      "korean": "최대 가스 비용",
+      "mandarin": "最大汽油费用",
+      "portuguese": "Taxa máxima por gas",
+      "spanish": "Tarifa máxima por gas",
+      "turkish": "Maksimum Gaz Ücreti"
+    },
     "maxPriorityFee": {
       "dutch": "Maximale prioriteitskosten",
       "english": "Max Priority Fee",
@@ -701,18 +725,6 @@
       "portuguese": "Taxa prioritária máxima",
       "spanish": "Tarifa de prioridad máxima",
       "turkish": "Maksimum Öncelik Ücreti"
-    },
-    "maxTxnFee": {
-      "dutch": "Max transactiekosten",
-      "english": "Max Transaction Fee",
-      "french": "Frais de transaction maximale",
-      "german": "Max -Transaktionsgebühr",
-      "japanese": "最大取引料",
-      "korean": "최대 거래 수수료",
-      "mandarin": "最大交易费",
-      "portuguese": "Taxa de transação máxima",
-      "spanish": "Tarifa de transacción máxima",
-      "turkish": "Maksimum İşlem Ücreti"
     },
     "medium": {
       "dutch": "Medium",
