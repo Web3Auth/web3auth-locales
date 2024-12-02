@@ -999,15 +999,15 @@
     },
     "password-requirement-char": {
       "dutch": "Bevat 1 speciaal teken ({'!@#?'})",
-      "english": "Contain 1 special character ({'!@#?'})",
-      "french": "Contient 1 caractère spécial ({'!@#?'})",
-      "german": "Enthält 1 Sonderzeichen ({'!@#?'})",
+      "english": "Include one of these characters ({'!@#?'})",
+      "french": "Inclure un de ces caractères ({'!@#?'})",
+      "german": "Enthält eines dieser Zeichen ({'!@#?'})",
       "japanese": "特殊文字 ({'!@#?'}) を 1 つ含む",
       "korean": "특수문자({'!@#?'}) 1개 포함",
-      "mandarin": "包含 1 个特殊字符 ({'!@#?'})",
-      "portuguese": "Contém 1 caractere especial ({'!@#?'})",
-      "spanish": "Contiene 1 carácter especial ({'!@#?'})",
-      "turkish": "1 özel karakter içerir ({'!@#?'})"
+      "mandarin": "包含这些字符之一 ({'!@#?'})",
+      "portuguese": "Contém um desses caracteres ({'!@#?'})",
+      "spanish": "Contiene uno de estos caracteres ({'!@#?'})",
+      "turkish": "Bu karakterlerden birini içerir ({'!@#?'})"
     },
     "password-requirement-desc": {
       "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
