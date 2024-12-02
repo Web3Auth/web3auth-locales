@@ -726,6 +726,18 @@
       "spanish": "Tarifa de prioridad máxima",
       "turkish": "Maksimum Öncelik Ücreti"
     },
+    "maxTxnFee": {
+      "dutch": "Max transactiekosten",
+      "english": "Max Transaction Fee",
+      "french": "Frais de transaction maximale",
+      "german": "Max -Transaktionsgebühr",
+      "japanese": "最大取引料",
+      "korean": "최대 거래 수수료",
+      "mandarin": "最大交易费",
+      "portuguese": "Taxa de transação máxima",
+      "spanish": "Tarifa de transacción máxima",
+      "turkish": "Maksimum İşlem Ücreti"
+    },
     "medium": {
       "dutch": "Medium",
       "english": "Medium",
