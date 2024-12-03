@@ -1702,6 +1702,30 @@
       "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
       "turkish": "En az 10 karakter içermelidir. En az bir büyük harf, bir küçük harf ve bir sayı"
     },
+    "exportAaNoteDesc": {
+      "dutch": "Voor extra beveiliging is deze EOA sleutel gekoppeld aan uw smart contract account voor beveiligingsdoeleinden.",
+      "english": "For added security, this EOA key is linked to your smart contract account for security purposes.",
+      "french": "Pour une sécurité supplémentaire, cette clé EOA est liée à votre smart contract account pour des raisons de sécurité.",
+      "german": "Für zusätzliche Sicherheit ist diese EOA-Schlüssel mit Ihrem smart contract account für Sicherheitszwecke verknüpft.",
+      "japanese": "Smart contract accountにリンクされています。",
+      "korean": "추가 보안을 위해 이 EOA 키는 보안 목적으로 사용자의 smart contract account에 연결되어 있습니다.",
+      "mandarin": "Smart contract account链接，以确保安全。",
+      "portuguese": "Para maior segurança, esta chave EOA está vinculada ao seu smart contract account para fins de segurança.",
+      "spanish": "Para mayor seguridad, esta clave EOA está vinculada a su smart contract account con fines de seguridad.",
+      "turkish": "Güvenliği artırmak için, bu EOA anahtarı güvenlik amacıyla smart contract account'nızla bağlanmıştır."
+    },
+    "exportAaNoteTitle": {
+      "dutch": "Dit is een Smart Contract Account.",
+      "english": "This is a Smart Contract Account.",
+      "french": "C'est un Smart Contract Account.",
+      "german": "Dies ist ein Smart Contract Account.",
+      "japanese": "これはSmart Contract Accountです。",
+      "korean": "이것은 Smart Contract Account입니다.",
+      "mandarin": "这是一个Smart Contract Account。",
+      "portuguese": "Este é um Smart Contract Account.",
+      "spanish": "Este es un Smart Contract Account.",
+      "turkish": "Bu, Smart Contract Account'dir."
+    },
     "general": {
       "dutch": "Algemeen",
       "english": "General",
