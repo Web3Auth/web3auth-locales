@@ -755,16 +755,16 @@
       "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Etkinleştir"
     },
     "mfa-setup-desc": {
-      "dutch": "Als u deze functie inschakelt, wordt er een tweede login toegevoegd. Hiervoor is een tweede loginstap vereist. Zodra deze functie is ingeschakeld, kan deze niet meer worden uitgeschakeld.",
-      "english": "Enabling this feature will add a second login will require a second login step. Once this feature is enabled, it cannot be disabled.",
-      "french": "L'activation de cette fonctionnalité ajoutera une deuxième connexion nécessitera une deuxième étape de connexion. Une fois cette fonctionnalité activée, elle ne peut pas être désactivée.",
-      "german": "Wenn Sie diese Funktion aktivieren, wird eine zweite Anmeldung hinzugefügt, die einen zweiten Anmeldeschritt erfordert. Sobald diese Funktion aktiviert ist, kann sie nicht deaktiviert werden.",
-      "japanese": "この機能を有効にすると、2 回目のログインが追加され、2 回目のログイン手順が必要になります。この機能を一度有効にすると、無効にすることはできません。",
-      "korean": "이 기능을 활성화하면 두 번째 로그인이 추가되고 두 ​​번째 로그인 단계가 필요합니다. 이 기능은 활성화되면 비활성화할 수 없습니다.",
-      "mandarin": "启用此功能将添加第二次登录，将需要第二次登录步骤。一旦启用此功能，就无法将其禁用。",
-      "portuguese": "A ativação deste recurso adicionará um segundo login e exigirá uma segunda etapa de login. Depois que esse recurso estiver ativado, ele não poderá ser desativado.",
-      "spanish": "Habilitar esta función agregará un segundo inicio de sesión y requerirá un segundo paso de inicio de sesión. Una vez que esta función está habilitada, no se puede deshabilitar.",
-      "turkish": "Bu özelliğin etkinleştirilmesi ikinci bir oturum açma işlemi ekleyecek ve ikinci bir oturum açma adımı gerektirecektir. Bu özellik etkinleştirildikten sonra devre dışı bırakılamaz."
+      "dutch": "Als MFA is ingeschakeld, zijn voor opnieuw inloggen twee authenticatiefactoren vereist. Eenmaal ingeschakeld, kan het niet meer worden uitgeschakeld",
+      "english": "With MFA enabled, relogin will require two authentication factors. Once enabled, it cannot be disabled",
+      "french": "Avec MFA activé, la reconnexion nécessitera deux facteurs d’authentification. Une fois activé, il ne peut pas être désactivé",
+      "german": "Wenn MFA aktiviert ist, sind für die erneute Anmeldung zwei Authentifizierungsfaktoren erforderlich. Sobald es aktiviert ist, kann es nicht deaktiviert werden",
+      "japanese": "MFA を有効にすると、再ログインには 2 つの認証要素が必要になります。一度有効にすると無効にすることはできません",
+      "korean": "MFA를 활성화하면 다시 로그인하려면 두 가지 인증 요소가 필요합니다. 한 번 활성화되면 비활성화할 수 없습니다.",
+      "mandarin": "启用 MFA 后，重新登录将需要两个身份验证因素。一旦启用，就无法禁用",
+      "portuguese": "Com o MFA habilitado, o novo login exigirá dois fatores de autenticação. Uma vez ativado, não pode ser desativado",
+      "spanish": "Con MFA habilitado, volver a iniciar sesión requerirá dos factores de autenticación. Una vez habilitado, no se puede deshabilitar.",
+      "turkish": "MFA etkinleştirildiğinde, yeniden oturum açmak için iki kimlik doğrulama faktörü gerekir. Etkinleştirildikten sonra devre dışı bırakılamaz"
     },
     "mfa-setup-title": {
       "dutch": "Multi-Factor Authenticatie (MFA) instellen",
