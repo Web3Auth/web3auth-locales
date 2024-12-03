@@ -1,5 +1,17 @@
 {
   "login": {
+    "2fa-setup-step4-check-time": {
+      "dutch": "Niet ontvangen? Opnieuw versturen. Controleer opnieuw in {0}",
+      "english": "Did not receive it? Resent. Check again in {0}",
+      "french": "Vous ne l'avez pas reçu ? Renvoyez. Vérifiez à nouveau dans {0}",
+      "german": "Nicht erhalten? Übelnehmen. Erneut einchecken in {0}",
+      "japanese": "受け取れませんでしたか？再送します。{0}で再度確認してください",
+      "korean": "받지 못하셨나요? 화내다. {0}에서 다시 확인",
+      "mandarin": "没有收到吗？ 反感。 再次签入{0}",
+      "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}",
+      "spanish": "¿No lo recibiste? Reenviar. Vuelve a comprobar en {0}",
+      "turkish": "Almadınız mı? Tekrar gönder. {0} süre sonra bir daha kontrol edin"
+    },
     "connect-email": {
       "dutch": "Verbinden met e-mail",
       "english": "Connect with Email",
