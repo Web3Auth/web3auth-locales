@@ -714,16 +714,16 @@
       "turkish": "Orta Düzeyde Güvenlik"
     },
     "info-security-weak-desc": {
-      "dutch": "Uw account is beveiligd met één herstelfactor. U kunt nog steeds meer toevoegen voor extra bescherming.",
-      "english": "Your account is secured with one recovery factor. You can still add more for added protection.",
-      "french": "Votre compte est sécurisé avec un facteur de récupération. Vous pouvez toujours en ajouter davantage pour une protection supplémentaire.",
-      "german": "Ihr Konto ist mit einem Wiederherstellungsfaktor gesichert. Für zusätzlichen Schutz können Sie noch weitere hinzufügen.",
-      "japanese": "あなたのアカウントは 1 つの回復要素で保護されています。さらに保護を強化するためにさらに追加することもできます。",
-      "korean": "귀하의 계정은 하나의 복구 요소로 보호됩니다. 추가 보호를 위해 더 추가할 수 있습니다.",
-      "mandarin": "您的帐户受到一个恢复因素的保护。您仍然可以添加更多以增强保护。",
-      "portuguese": "Sua conta está protegida com um fator de recuperação. Você ainda pode adicionar mais para proteção adicional.",
-      "spanish": "Su cuenta está protegida con un factor de recuperación. Aún puedes agregar más para mayor protección.",
-      "turkish": "Hesabınız bir kurtarma faktörüyle güvence altına alınmıştır. Daha fazla koruma için yine de daha fazlasını ekleyebilirsiniz."
+      "dutch": "Uw account heeft momenteel geen herstelfactor ingesteld. Schakel MFA in om uw account te beveiligen en extra herstelfactoren toe te voegen.",
+      "english": "Your account currently has no recovery factor set up. Enable MFA to secure your account and add recovery options.",
+      "french": "Votre compte n'a actuellement aucun facteur de récupération configuré. Activez MFA pour sécuriser votre compte et ajouter des options de récupération.",
+      "german": "Ihr Konto hat derzeit keinen Wiederherstellungsfaktor eingerichtet. Aktivieren Sie MFA, um Ihr Konto zu sichern und zusätzliche Wiederherstellungsfaktoren hinzuzufügen.",
+      "japanese": "あなたのアカウントは現在、回復要素が設定されていません。MFA を有効にしてアカウントを保護し、回復オプションを追加します。",
+      "korean": "귀하의 계정은 현재 복구 요소가 설정되어 있지 않습니다. MFA를 활성화하여 계정을 보호하고 복구 옵션을 추가하세요.",
+      "mandarin": "您的帐户目前没有设置恢复因素。启用 MFA 以保护您的帐户并添加恢复选项。",
+      "portuguese": "Sua conta não tem um fator de recuperação configurado. Ative MFA para proteger sua conta e adicionar opções de recuperação.",
+      "spanish": "Su cuenta no tiene ningún factor de recuperación configurado. Active MFA para proteger su cuenta y agregar opciones de recuperación.",
+      "turkish": "Hesabınızda şu anda herhangi bir kurtarma faktörü yok. MFA'yı etkinleştirerek hesabınızı koruyun ve kurtarma seçeneklerini ekleyin."
     },
     "info-security-weak-title": {
       "dutch": "Zwakke beveiliging",
