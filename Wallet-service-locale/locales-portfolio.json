@@ -990,6 +990,18 @@
       "spanish": "{0} enviado",
       "turkish": "{0} gönderildi"
     },
+    "showAllTokens": {
+      "dutch": "Alle tokens weergeven",
+      "english": "Show All Tokens",
+      "french": "Afficher tous les jetons",
+      "german": "Alle Token anzeigen",
+      "japanese": "すべてのトークンを表示",
+      "korean": "모든 토큰 표시",
+      "mandarin": "显示所有代币",
+      "portuguese": "Mostrar todos os tokens",
+      "spanish": "Mostrar todos los tokens",
+      "turkish": "Tüm jetonları görüntüle"
+    },
     "slow": {
       "dutch": "Langzaam",
       "english": "Slow",
