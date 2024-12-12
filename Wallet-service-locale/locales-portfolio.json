@@ -618,6 +618,18 @@
       "spanish": "Característica no disponible en la red actual",
       "turkish": "Mevcut ağda kullanılamayan özellik"
     },
+    "firstTransaction": {
+      "dutch": "Uw eerste transactie kost meer omdat het het implementeren van uw smart account betekent. Volgende transacties zullen lagere kosten hebben.",
+      "english": "Your first transaction incurs a higher fee as it involves deploying your smart account. Subsequent transactions will have lower fees.",
+      "french": "Votre première transaction entraîne un coût supérieur car elle implique le déploiement de votre compte intelligent. Les transactions suivantes auront des coûts inférieurs.",
+      "german": "Ihre erste Transaktion verursacht einen höheren Gebühr, da sie das Bereitstellen Ihres intelligenten Kontos beinhaltet. Folgende Transaktionen werden mit niedrigeren Gebühren abgerechnet.",
+      "japanese": "最初の取引は、スマートアカウントのデプロイを含むため、より高い手数料がかかります。後続の取引は、より低い手数料で計算されます。",
+      "korean": "첫 번째 거래는 스마트 계정의 배포를 포함하므로 더 높은 수수료가 발생합니다. 이후 거래는 더 낮은 수수료로 계산됩니다.",
+      "mandarin": "您的第一次交易由于涉及部署您的智能账户，因此会产生较高的费用。后续交易将按较低的费用计算。",
+      "portuguese": "Sua primeira transação incorre em uma taxa mais alta, pois envolve o deploy do seu conta inteligente. As transações subsequentes terão taxas menores.",
+      "spanish": "Su primera transacción incurre en una tarifa más alta, ya que implica el despliegue de su cuenta inteligente. Las transacciones posteriores tendrán tarifas más bajas.",
+      "turkish": "İlk işlem, akıllı hesap dağıtımını içerdiğinden, daha yüksek bir ücretlendirmeye neden olur. Sonraki işlemler, daha düşük ücretlerle hesaplanır."
+    },
     "gasLimit": {
       "dutch": "Gasgrens",
       "english": "Gas Limit",
