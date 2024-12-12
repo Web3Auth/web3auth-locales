@@ -759,6 +759,61 @@
       "portuguese": "Observação: esse fator de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro.",
       "spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
     },
+    "no-mfa-sub1desc": {
+      "dutch": "Door een tweede laag verificatie toe te voegen, kunnen alleen jij toegang krijgen en je activa beheren—zodat je crypto veilig en volledig onder je controle blijft.",
+      "english": "By adding a second layer of verification, only you can access and manage your assets—keeping your crypto secure and fully under your control.",
+      "french": "En ajoutant une deuxième couche de vérification, seul vous pouvez accéder et gérer vos actifs—en gardant vos crypto-monnaies sécurisées et entièrement sous votre contrôle.",
+      "german": "Indem Sie eine zweite Verifizierungsebene hinzufügen, können nur Sie Ihre Assets zugreifen und verwalten—wodurch Ihre Krypto sicher und vollständig unter Ihrem Kontrolle bleibt.",
+      "japanese": "2段階認証を追加することで、あなただけが資産にアクセスして管理できるようになります。これにより、暗号資産は安全に完全にあなたの管理下に置かれます。",
+      "korean": "2단계 인증을 추가하면 당신만 자산에 액세스하고 관리할 수 있습니다. 이를 통해 암호화폐는 안전하게 완전히 당신의 관리 하에 두게 됩니다.",
+      "mandarin": "通过添加第二层验证，只有您可以访问和管理您的资产——确保您的加密货币安全且完全受您控制。",
+      "portuguese": "Adicionando uma segunda camada de verificação, apenas você pode acessar e gerenciar seus ativos—mantendo suas criptomoedas seguras e totalmente sob seu controle.",
+      "spanish": "Al agregar una segunda capa de verificación, solo usted puede acceder y gestionar sus activos—manteniendo su criptomonedas seguras y totalmente bajo su control."
+    },
+    "no-mfa-sub1title": {
+      "dutch": "Uw sleutels, uw crypto, uw controle",
+      "english": "Your keys, your crypto, your control",
+      "french": "Vos clés, vos crypto, votre contrôle",
+      "german": "Ihre Schlüssel, Ihre Krypto, Ihr Kontrolle",
+      "japanese": "あなたのキー、あなたの暗号、あなたのコントロール",
+      "korean": "당신의 키, 당신의 암호, 당신의 제어",
+      "mandarin": "您的密钥，您的加密货币，您的控制",
+      "portuguese": "Suas chaves, suas criptomoedas, seu controle",
+      "spanish": "Sus claves, sus criptomonedas, su control"
+    },
+    "no-mfa-sub2desc": {
+      "dutch": "Door een tweede laag verificatie toe te voegen, kunnen alleen jij toegang krijgen en je activa beheren—zodat je crypto veilig en volledig onder je controle blijft.",
+      "english": "Protect your assets with a mix of security factors that best suit your wallet, including passkeys, passwords, recovery phrases, social recovery, or an authenticator app.",
+      "french": "Protégez vos actifs avec une combinaison de facteurs de sécurité qui conviennent le mieux à votre portefeuille, y compris les passkeys, les mots de passe, les phrases de récupération, la récupération sociale ou une application d'authenticateur.",
+      "german": "Schützen Sie Ihre Assets mit einer Kombination von Sicherheitselementen, die am besten zu Ihrem Wallet passen, einschließlich Passkeys, Passwörtern, Wiederherstellungsphrasen, sozialer Wiederherstellung oder einer Authenticator-App.",
+      "japanese": "あなたのウォレットに最も合うセキュリティ要素の組み合わせを使用して、あなたの資産を保護します。これには、パスキー、パスワード、回復フレーズ、ソーシャル回復、または認証アプリが含まれます。",
+      "korean": "당신의 지갑에 가장 적합한 보안 요소의 조합을 사용하여 당신의 자산을 보호하세요. 이에는 패스키, 패스워드, 복구 문구, 사회 복구, 또는 인증 앱이 포함됩니다.",
+      "mandarin": "使用最适合您钱包的组合安全因素保护您的资产。这包括 passkeys、密码、恢复短语、社会恢复或认证应用程序。",
+      "portuguese": "Proteja seus ativos com uma combinação de fatores de segurança que melhor se adapta ao seu portfólio, incluindo passkeys, senhas, frases de recuperação, recuperação social ou um aplicativo de autenticador.",
+      "spanish": "Protege tus activos con una combinación de factores de seguridad que mejor se adapte a tu billetera, incluyendo passkeys, contraseñas, frases de recuperación, recuperación social o una aplicación de autenticador."
+    },
+    "no-mfa-sub2title": {
+      "dutch": "Sécurité personnalisée pour vous",
+      "english": "Security Tailored to You",
+      "french": "Sécurité personnalisée pour vous",
+      "german": "Sicherheit für Sie angepasst",
+      "japanese": "あなたに合わせたセキュリティ",
+      "korean": "당신에게 맞춘 보안",
+      "mandarin": "为您量身定制的安全性",
+      "portuguese": "Segurança personalizada para você",
+      "spanish": "Seguridad personalizada para ti"
+    },
+    "no-mfa-title": {
+      "dutch": "Schützen Sie Ihr Konto mit",
+      "english": "Shield Your Account with",
+      "french": "Protégez votre compte avec",
+      "german": "Schützen Sie Ihr Konto mit",
+      "japanese": "アカウントを保護する",
+      "korean": "계정 보호",
+      "mandarin": "保护您的帐户",
+      "portuguese": "Proteja seu conta com",
+      "spanish": "Protege su cuenta con"
+    },
     "passkey-add": {
       "dutch": "Passkey toevoegen",
       "english": "Add Passkey",
