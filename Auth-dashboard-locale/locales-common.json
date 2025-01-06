@@ -222,16 +222,16 @@
       "spanish": "Factor 1: inicio de sesión social"
     },
     "factor2-devices": {
-      "dutch": "Apparaat(en)",
-      "english": "Device(s)",
-      "french": "Appareil(s)",
-      "german": "Geräte)",
+      "dutch": "Apparaten",
+      "english": "Devices",
+      "french": "Appareils",
+      "german": "Geräte",
       "japanese": "デバイス",
       "korean": "장치",
       "mandarin": "设备",
-      "portuguese": "Dispositivos)",
-      "spanish": "Dispositivos)",
-      "turkish": "Cihaz(lar)"
+      "portuguese": "Dispositivos",
+      "spanish": "Dispositivos",
+      "turkish": "Cihazlar"
     },
     "factor3-social-recovery": {
       "dutch": "Sociaal herstel",
