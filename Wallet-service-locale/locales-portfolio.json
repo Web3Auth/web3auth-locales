@@ -906,6 +906,18 @@
       "spanish": "{0} recibido",
       "turkish": "{0} alındı"
     },
+    "reset": {
+      "dutch": "Reset",
+      "english": "Reset",
+      "french": "Réinitialiser",
+      "german": "Zurücksetzen",
+      "japanese": "リセット",
+      "korean": "리셋",
+      "mandarin": "重置",
+      "portuguese": "Reiniciar",
+      "spanish": "Reiniciar",
+      "turkish": "Sıfırla"
+    },
     "selectAnAsset": {
       "dutch": "Selecteer een actief",
       "english": "Select an asset",
@@ -953,6 +965,18 @@
       "portuguese": "Enviar",
       "spanish": "Enviar",
       "turkish": "Gönder"
+    },
+    "sendAll": {
+      "dutch": "Verstuur alles",
+      "english": "Send All",
+      "french": "Envoyer tout",
+      "german": "Alle senden",
+      "japanese": "すべて送信",
+      "korean": "모두 보내다",
+      "mandarin": "发送所有",
+      "portuguese": "Enviar tudo",
+      "spanish": "Enviar todo",
+      "turkish": "Tümü gönder"
     },
     "sendTo": {
       "dutch": "Verzenden naar",
