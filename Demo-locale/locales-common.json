@@ -350,6 +350,18 @@
       "spanish": "Agregar MFA",
       "turkish": "MFA ekle"
     },
+    "manage-mfa": {
+      "dutch": "MFA beheren",
+      "english": "Manage MFA",
+      "french": "Gérer MFA",
+      "german": "MFA verwalten",
+      "japanese": "MFA 管理",
+      "korean": "MFA 관리",
+      "mandarin": "管理 MFA",
+      "portuguese": "Gerenciar MFA",
+      "spanish": "Administrar MFA",
+      "turkish": "MFA'yı yönet"
+    },
     "wallet-services": {
       "dutch": "Wallet-diensten",
       "english": "Wallet Services",
