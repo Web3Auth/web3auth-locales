@@ -60,6 +60,18 @@
       "spanish": "Cantidad + tarifa de gas",
       "turkish": "Tutar + gas ücreti"
     },
+    "amountPlusNetworkFee": {
+      "dutch": "Bedrag + netwerkkosten",
+      "english": "Amount + network fee",
+      "french": "Montant + frais de réseau",
+      "german": "Betrag + Netzwerkgebühr",
+      "japanese": "金額 + ネットワーク料金",
+      "korean": "금액 + 네트워크 수수료",
+      "mandarin": "金额 + 网络费用",
+      "portuguese": "Valor + taxa de rede",
+      "spanish": "Cantidad + tarifa de red",
+      "turkish": "Tutar + ağ ücreti"
+    },
     "approve": {
       "dutch": "Goedkeuren",
       "english": "Approve",
@@ -276,6 +288,18 @@
       "spanish": "{0} le gustaría su clave de cifrado público. Al consentir, este sitio podrá componerle mensajes cifrados.",
       "turkish": "{0} sizin şifreleme anahtarınızı istiyor. Kabul ederek, bu site sizinle şifrelenmiş mesajlar oluşturabilir."
     },
+    "errorEstimatingBalanceChanges": {
+      "dutch": "Er is een fout opgetreden bij het schatten van de balansveranderingen",
+      "english": "An error occurred while estimating the balance changes",
+      "french": "Une erreur est survenue lors de l'estimation des changements de solde",
+      "german": "Es ist ein Fehler aufgetreten, während die Saldoänderungen geschätzt wurden",
+      "japanese": "残高変更の推定中にエラーが発生しました",
+      "korean": "잔액 변경 추정 중 오류가 발생했습니다",
+      "mandarin": "估计余额变化时发生错误",
+      "portuguese": "Ocorreu um erro ao estimar as alterações de saldo",
+      "spanish": "Se produjo un error al estimar los cambios de saldo",
+      "turkish": "Bakiye değişikliklerini tahminirken bir hata oluştu"
+    },
     "estimatedGasFee": {
       "dutch": "Geschatte gaskosten",
       "english": "Estimated gas fee",
@@ -287,6 +311,30 @@
       "portuguese": "Taxa estimada de gás",
       "spanish": "Tarifa de gas estimada",
       "turkish": "Tahmini Gas Ücreti"
+    },
+    "estimatedBalanceChanges": {
+      "dutch": "Geschatte balansveranderingen",
+      "english": "Estimated Balance Changes",
+      "french": "Changements estimés de solde",
+      "german": "Geschätzte Saldoänderungen",
+      "japanese": "推定残高変更",
+      "korean": "예상 잔액 변경",
+      "mandarin": "估计余额变化",
+      "portuguese": "Alterações estimadas de saldo",
+      "spanish": "Cambios estimados de saldo",
+      "turkish": "Tahmini Bakiye Değişiklikleri"
+    },
+    "estimatedNetworkFee": {
+      "dutch": "Geschatte netwerkkosten",
+      "english": "Estimated Network Fee",
+      "french": "Frais de réseau estimés",
+      "german": "Geschätzte Netzwerkgebühr",
+      "japanese": "推定ネットワーク料金",
+      "korean": "예상 네트워크 수수료",
+      "mandarin": "估计网络费用",
+      "portuguese": "Taxa estimada de rede",
+      "spanish": "Tarifa de red estimada",
+      "turkish": "Tahmini Ağ Ücreti"
     },
     "from": {
       "dutch": "Van:",
