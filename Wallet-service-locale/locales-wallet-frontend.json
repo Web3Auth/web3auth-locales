@@ -24,6 +24,18 @@
       "spanish": "Permitir {0} agregar nueva red {1}",
       "turkish": "{0} yeni ağ {1} ekleme izni ver"
     },
+    "advanced": {
+      "dutch": "Geavanceerd",
+      "english": "Advanced",
+      "french": "Avancé",
+      "german": "Fortschrittlich",
+      "japanese": "高度な",
+      "korean": "고급의",
+      "mandarin": "先进的",
+      "portuguese": "Avançado",
+      "spanish": "Avanzado",
+      "turkish": "Gelişmiş"
+    },
     "allow": {
       "dutch": "Toestaan",
       "english": "Allow",
