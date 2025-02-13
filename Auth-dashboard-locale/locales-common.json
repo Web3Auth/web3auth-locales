@@ -1,5 +1,17 @@
 {
   "common": {
+    "apply-changes": {
+      "dutch": "Wijzigingen toepassen",
+      "english": "Apply changes",
+      "french": "Appliquer les modifications",
+      "german": "Änderungen anwenden",
+      "japanese": "変更を適用",
+      "korean": "변경 적용",
+      "mandarin": "应用更改",
+      "portuguese": "Aplicar alterações",
+      "spanish": "Aplicar cambios",
+      "turkish": "Değişiklikleri uygula"
+    },
     "backup-phrase-copied": {
       "dutch": "Herstelzin gekopieerd",
       "english": "Backup Phrase Copied",
