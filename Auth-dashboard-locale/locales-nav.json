@@ -145,19 +145,7 @@
       "spanish": "Seguridad",
       "turkish": "Güvenlik"
     },
-    "security1": {
-      "dutch": "Beveiliging",
-      "english": "Security",
-      "french": "Sécurité",
-      "german": "Sicherheit",
-      "japanese": "セキュリティ",
-      "korean": "보안",
-      "mandarin": "安全",
-      "portuguese": "Segurança",
-      "spanish": "Seguridad",
-      "turkish": "Güvenlik"
-    },
-    "authorizedDapps": {
+    "authorized-dapps": {
       "dutch": "Toegevoegde apps",
       "english  ": "Authorized apps",
       "french": "Applications autorisées",
