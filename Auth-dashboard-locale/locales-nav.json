@@ -132,6 +132,30 @@
       "mandarin": "用户信息",
       "portuguese": "Informação do usuário",
       "spanish": "Informacion del usuario"
+    },
+    "security": {
+      "dutch": "Beveiliging",
+      "english": "Security",
+      "french": "Sécurité",
+      "german": "Sicherheit",
+      "japanese": "セキュリティ",
+      "korean": "보안",
+      "mandarin": "安全",
+      "portuguese": "Segurança",
+      "spanish": "Seguridad",
+      "turkish": "Güvenlik"
+    },
+    "authorized-apps": {
+      "dutch": "Toegevoegde apps",
+      "english  ": "Authorized apps",
+      "french": "Applications autorisées",
+      "german": "Autorisierte Apps",
+      "japanese": "許可されたアプリ",
+      "korean": "승인된 앱",
+      "mandarin": "已授权的应用",
+      "portuguese": "Aplicativos autorizados",
+      "spanish": "Aplicaciones autorizadas",
+      "turkish": "Yetkilendirilmiş Uygulamalar"
     }
   }
 }

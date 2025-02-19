@@ -1,0 +1,100 @@
+{
+  "dapps": {
+    "connectes-apps": {
+      "dutch": "Verbonden apps",
+      "english": "Connected apps",
+      "french": "Applications connectées",
+      "german": "Verbundene Apps",
+      "japanese": "接続されたアプリ",
+      "korean": "연결된 앱",
+      "mandarin": "已连接的应用",
+      "portuguese": "Aplicativos conectados",
+      "spanish": "Aplicaciones conectadas",
+      "turkish": "Bağlı uygulamalar"
+    },
+    "download-private-key": {
+      "dutch": "Privé sleutel downloaden",
+      "english": "Download private key",
+      "french": "Télécharger la clé privée",
+      "german": "Privater Schlüssel herunterladen",
+      "japanese": "秘密鍵のダウンロード",
+      "korean": "개인 키 다운로드",
+      "mandarin": "下载私钥",
+      "portuguese": "Baixar chave privada",
+      "spanish": "Descargar clave privada",
+      "turkish": "Özel anahtarı indir"
+    },
+    "view-wallet": {
+      "dutch": "Portemonnee bekijken",
+      "english": "View wallet",
+      "french": "Afficher le portefeuille",
+      "german": "Portemonnee anzeigen",
+      "japanese": "ウォレットを表示",
+      "korean": "지갑 보기",
+      "mandarin": "查看钱包",
+      "portuguese": "Ver portefólio",
+      "spanish": "Ver cartera",
+      "turkish": "Cüzdanı görüntüle"
+    },
+    "select-private-key": {
+      "dutch": "Privé sleutel selecteren",
+      "english": "Select private key",
+      "french": "Sélectionner la clé privée",
+      "german": "Privater Schlüssel auswählen",
+      "japanese": "秘密鍵を選択",
+      "korean": "개인 키 선택",
+      "mandarin": "选择私钥",
+      "portuguese": "Selecionar chave privada",
+      "spanish": "Seleccionar clave privada",
+      "turkish": "Özel anahtarı seç"
+    },
+    "private-key": {
+      "dutch": "Privé sleutel",
+      "english": "Private key",
+      "french": "Clé privée",
+      "german": "Privater Schlüssel",
+      "japanese": "秘密鍵",
+      "korean": "개인 키",
+      "mandarin": "私钥",
+      "portuguese": "Chave privada",
+      "spanish": "Clave privada",
+      "turkish": "Özel anahtar"
+    },
+    "copy-private-key": {
+      "dutch": "Privé sleutel kopiëren",
+      "english": "Copy private key",
+      "french": "Copier la clé privée",
+      "german": "Privater Schlüssel kopieren",
+      "japanese": "秘密鍵をコピー",
+      "korean": "개인 키 복사",
+      "mandarin": "复制私钥",
+      "portuguese": "Copiar chave privada",
+      "spanish": "Copiar clave privada",
+      "turkish": "Özel anahtarı kopyala"
+    },
+    "private-key-copied": {
+      "dutch": "Privé sleutel gekopieerd",
+      "english": "Private key copied",
+      "french": "Clé privée copiée",
+      "german": "Privater Schlüssel kopiert",
+      "japanese": "秘密鍵をコピーしました",
+      "korean": "개인 키를 복사했습니다",
+      "mandarin": "私钥已复制",
+      "portuguese": "Chave privada copiada",
+      "spanish": "Clave privada copiada",
+      "turkish": "Özel anahtar kopyalandı"
+    },
+    "download-soft-key-json": {
+      "dutch": "Soft-key (JSON) downloaden",
+      "english": "Download soft-key (JSON)",
+      "french": "Télécharger la clé souple (JSON)",
+      "german": "Soft-Schlüssel (JSON) herunterladen",
+      "japanese": "ソフトキー (JSON) をダウンロード",
+      "korean": "소프트 키 (JSON) 다운로드",
+      "mandarin": "下载软密钥（JSON）",
+      "portuguese": "Baixar chave suave (JSON)",
+      "spanish": "Descargar clave suave (JSON)",
+      "turkish": "ft-key (JSON) indir"
+    }
+  }
+}
