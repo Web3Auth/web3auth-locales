@@ -250,6 +250,30 @@
       "spanish": "Buscar a través de {{count}} billeteras...",
       "turkish": "{{count}} cüzdan ara..."
     },
+    "external.select-chain": {
+      "dutch": "Ketting selecteren",
+      "english": "Select Chain",
+      "french": "Sélectionner la chaîne",
+      "german": "Kette auswählen",
+      "japanese": "チェーンを選択",
+      "korean": "체인 선택",
+      "mandarin": "选择链",
+      "portuguese": "Selecionar cadeia",
+      "spanish": "Seleccionar cadena",
+      "turkish": "Zincir seç"
+    },
+    "external.select-chain-description": {
+      "dutch": "Deze {{wallet}} portemonnee ondersteunt meerdere ketens. Selecteer welke ketting u wilt verbinden",
+      "english": "This {{wallet}} wallet supports multiple chains. Select which chain you'd like to connect to",
+      "french": "Cette {{wallet}} portefeuille prend en charge plusieurs chaînes. Sélectionnez la chaîne que vous souhaitez connecter",
+      "german": "Diese {{wallet}}-Brieftasche unterstützt mehrere Ketten. Wählen Sie die Kette aus, mit der Sie verbinden möchten",
+      "japanese": "この {{wallet}} ウォレットは複数のチェーンをサポートしています。接続したいチェーンを選択してください",
+      "korean": "이 {{wallet}} 지갑은 여러 체인을 지원합니다. 연결하려는 체인을 선택하세요",
+      "mandarin": "这个 {{wallet}} 钱包支持多种链。选择您想要连接的链",
+      "portuguese": "Este {{wallet}} carteira suporta várias cadeias. Selecione a cadeia que você gostaria de conectar",
+      "spanish": "Este {{wallet}} billetera soporta varias cadenas. Seleccione la cadena que desea conectar",
+      "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin"
+    },
     "external.title": {
       "dutch": "Externe portemonnee",
       "english": "External Wallet",
