@@ -156,17 +156,17 @@
       "spanish": "Continuar con billetera externa",
       "turkish": "Harici cüzdanla devam et"
     },
-    "external.continue-metamask": {
-      "dutch": "Doorgaan met MetaMask",
-      "english": "Continue with MetaMask",
-      "french": "Continuer avec MetaMask",
-      "german": "Mit MetaMask fortfahren",
-      "japanese": "MetaMaskで続ける",
-      "korean": "MetaMask로 계속하기",
-      "mandarin": "继续使用MetaMask",
-      "portuguese": "Continuar com MetaMask",
-      "spanish": "Continuar con MetaMask",
-      "turkish": "MetaMask ile devam et"
+    "external.continue-custom": {
+      "dutch": "Doorgaan met {{wallet}}",
+      "english": "Continue with {{wallet}}",
+      "french": "Continuer avec {{wallet}}",
+      "german": "Fahren Sie mit {{wallet}} fort",
+      "japanese": "{{wallet}}を続けます",
+      "korean": "{{wallet}}로 계속하기",
+      "mandarin": "继续使用{{wallet}}",
+      "portuguese": "Continue com o {{wallet}}",
+      "spanish": "Continuar con {{wallet}}",
+      "turkish": "{{wallet}} ile devam et"
     },
     "external.dont-have": {
       "dutch": "Heb niet",
