@@ -1313,6 +1313,18 @@
       "portuguese": "Seus tokens",
       "spanish": "Tus tokens",
       "turkish": "Sizin Token"
+    },
+    "tempApiDisabled": {
+      "english": "Token and NFT information is temporarily unavailable. We are working to restore this functionality.",
+      "dutch": "Token en NFT-informatie is tijdelijk niet beschikbaar. We werken aan het herstellen van deze functionaliteit.",
+      "french": "Les jetons et NFT sont temporairement indisponibles. Nous travaillons à rétablir cette fonctionnalité.",
+      "german": "Token- und NFT-Informationen sind vorübergehend nicht verfügbar. Wir arbeiten daran, diese Funktionalität wiederherzustellen.",
+      "japanese": "トークンと NFT の情報は一時的に利用できません。この機能の復旧に取り組んでいます。",
+      "korean": "토큰 및 NFT 정보를 일시적으로 사용할 수 없습니다. 이 기능을 복구하기 위해 노력하고 있습니다.",
+      "mandarin": "代币和 NFT 信息暂时不可用。我们正在努力恢复此功能。",
+      "portuguese": "As informações sobre tokens e NFTs estão temporariamente indisponíveis. Estamos a trabalhar para restaurar essa funcionalidade.",
+      "spanish": "La información sobre tokens y NFT no está disponible temporalmente. Estamos trabajando para restablecer esta funcionalidad.",
+      "turkish": "Token ve NFT bilgileri geçici olarak kullanılamıyor. Bu işlevselliği geri yüklemek için çalışıyoruz."
     }
   },
   "qrCode": {
