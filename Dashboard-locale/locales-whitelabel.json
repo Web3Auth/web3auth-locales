@@ -444,7 +444,7 @@
       "spanish": "Tus tokens",
       "turkish": "Jetonlarınız"
     },
-    "social.passwordless-title": {
+    "social-passwordless-title": {
       "dutch": "E-mail of telefoon",
       "english": "Email or Phone",
       "french": "Email ou téléphone",
@@ -456,7 +456,7 @@
       "spanish": "Email o teléfono",
       "turkish": "E-posta veya Telefon"
     },
-    "passwordless.title": {
+    "passwordless-title": {
       "dutch": "Doorgaan met {title}",
       "english": "Continue with {title}",
       "french": "Continuer avec {title}",
