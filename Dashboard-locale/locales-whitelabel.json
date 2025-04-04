@@ -240,18 +240,6 @@
       "spanish": "Continuar con {adapter}",
       "turkish": "{adapter} ile devam et"
     },
-    "social-email": {
-      "dutch": "E-mail",
-      "english": "Email",
-      "french": "Email",
-      "german": "E-Mail",
-      "japanese": "Eメール",
-      "korean": "이메일",
-      "mandarin": "电子邮件",
-      "portuguese": "Email",
-      "spanish": "Correo electrónico",
-      "turkish": "E-posta"
-    },
     "social-email-continue": {
       "dutch": "Doorgaan met e-mail",
       "english": "Continue with Email",
@@ -455,6 +443,30 @@
       "portuguese": "Email ou telefone",
       "spanish": "Email o teléfono",
       "turkish": "E-posta veya Telefon"
+    },
+    "social-email": {
+      "dutch": "E-mail",
+      "english": "Email",
+      "french": "Email",
+      "german": "E-Mail",
+      "japanese": "Eメール",
+      "korean": "이메일",
+      "mandarin": "电子邮件",
+      "portuguese": "Email",
+      "spanish": "Correo electrónico",
+      "turkish": "E-posta"
+    },
+    "social-phone": {
+      "dutch": "Telefoon",
+      "english": "Phone",
+      "french": "Téléphone",
+      "german": "Telefon",
+      "japanese": "電話",
+      "korean": "전화번호",
+      "mandarin": "电话",
+      "portuguese": "Telefone",
+      "spanish": "Teléfono",
+      "turkish": "Telefon"
     },
     "passwordless-title": {
       "dutch": "Doorgaan met {title}",
