@@ -444,6 +444,18 @@
       "spanish": "Tus tokens",
       "turkish": "Jetonlarınız"
     },
+    "social.passwordless-title": {
+      "dutch": "E-mail of telefoon",
+      "english": "Email or Phone",
+      "french": "Email ou téléphone",
+      "german": "E-Mail oder Telefon",
+      "japanese": "メールまたは電話",
+      "korean": "이메일 또는 전화번호",
+      "mandarin": "邮件或电话",
+      "portuguese": "Email ou telefone",
+      "spanish": "Email o teléfono",
+      "turkish": "E-posta veya Telefon"
+    },
     "passwordless.title": {
       "dutch": "Doorgaan met {title}",
       "english": "Continue with {title}",
