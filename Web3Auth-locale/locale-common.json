@@ -919,7 +919,8 @@
       "mandarin": "登录",
       "portuguese": "Entrar",
       "spanish": "Iniciar sesión",
-      "turkish": "Giriş yap"
+      "turkish": "Giriş yap",
+      "dutch": "Inloggen"
     },
     "footer.by-signing-in": {
       "english": "By signing in, you agree to our",
@@ -930,7 +931,8 @@
       "mandarin": "登录即表示您同意我们的",
       "portuguese": "Ao se conectar, você concorda com nossos",
       "spanish": "Al iniciar sesión, acepta nuestros",
-      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir."
+      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir.",
+      "dutch": "Door in te loggen, gaat u akkoord met onze"
     },
     "footer.terms-of-service": {
       "english": "Terms of Service",
@@ -941,7 +943,8 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
       "spanish": "Términos de uso",
-      "turkish": "Kullanım Şartları"
+      "turkish": "Kullanım Şartları",
+      "dutch": "Gebruiksvoorwaarden"
     },
     "footer.and": {
       "english": "and",
@@ -952,7 +955,8 @@
       "mandarin": "和",
       "portuguese": "e",
       "spanish": "y",
-      "turkish": "ve"
+      "turkish": "ve",
+      "dutch": "en"
     },
     "footer.privacy-policy": {
       "english": "Privacy Policy",
@@ -963,7 +967,8 @@
       "mandarin": "隐私政策",
       "portuguese": "Política de privacidade",
       "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası"
+      "turkish": "Gizlilik Politikası",
+      "dutch": "Privacy Policy"
     },
     "connect-wallet.more-wallets": {
       "english": "More Wallets",
@@ -974,7 +979,8 @@
       "mandarin": "查看更多钱包",
       "portuguese": "Mais carteiras",
       "spanish": "Más carteras",
-      "turkish": "Daha fazla cüzdan"
+      "turkish": "Daha fazla cüzdan",
+      "dutch": "Meer portemonnees"
     },
     "otp.success": {
       "english": "You are connected to your account!",
@@ -985,7 +991,8 @@
       "mandarin": "您已连接到您的帐户！",
       "portuguese": "Você está conectado ao seu conta!",
       "spanish": "¡Estás conectado a tu cuenta!",
-      "turkish": "Hesabınıza bağlandınız!"
+      "turkish": "Hesabınıza bağlandınız!",
+      "dutch": "U bent verbonden met uw account!"
     },
     "otp.mobile-title": {
       "english": "OTP verification",
@@ -996,7 +1003,8 @@
       "mandarin": "OTP 验证",
       "portuguese": "Verificação OTP",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama"
+      "turkish": "OTP Doğrulama",
+      "dutch": "OTP Verificatie"
     },
     "otp.mobile-subtext": {
       "english": "Enter the OTP sent to",
@@ -1007,7 +1015,8 @@
       "mandarin": "输入 OTP 验证",
       "portuguese": "Verifique o OTP enviado para",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama"
+      "turkish": "OTP Doğrulama",
+      "dutch": "OTP Verificatie"
     },
     "otp.email-title": {
       "english": "Email verification",
@@ -1018,7 +1027,8 @@
       "mandarin": "电子邮件验证",
       "portuguese": "Verificação de email",
       "spanish": "Verificación de email",
-      "turkish": "Email Doğrulama"
+      "turkish": "Email Doğrulama",
+      "dutch": "Email Verificatie"
     },
     "otp.email-subtext": {
       "english": "Please enter the 6-digit verification code",
@@ -1029,7 +1039,8 @@
       "mandarin": "请输入6位验证码",
       "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
       "spanish": "Por favor, ingrese el código de verificación de 6 dígitos",
-      "turkish": "6 haneli doğrulama kodunu giriniz"
+      "turkish": "6 haneli doğrulama kodunu giriniz",
+      "dutch": "Voer de 6-cijferige verificatiecode in"
     },
     "otp.email-subtext-example": {
       "english": "that was sent to your email {{email}}",
@@ -1040,7 +1051,8 @@
       "mandarin": "{{email}} 发送的",
       "portuguese": "que foi enviado para o seu email {{email}}",
       "spanish": "que fue enviado a su email {{email}}",
-      "turkish": "{{email}} adresine gönderildi"
+      "turkish": "{{email}} adresine gönderildi",
+      "dutch": "{{email}} adres is verstuurd"
     },
     "passwordless.title": {
       "english": "Continue with {{title}}",
@@ -1051,7 +1063,8 @@
       "mandarin": "继续使用 {{title}}",
       "portuguese": "Continuar com {{title}}",
       "spanish": "Continuar con {{title}}",
-      "turkish": "{{title}} ile devam et"
+      "turkish": "{{title}} ile devam et",
+      "dutch": "Doorgaan met {{title}}"
     }
   }
 }
