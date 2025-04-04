@@ -479,6 +479,18 @@
       "portuguese": "Continuar com {title}",
       "spanish": "Continuar con {title}",
       "turkish": "{title} ile devam et"
+    },
+    "external-all-wallets": {
+      "dutch": "Alle portemonnees",
+      "english": "All wallets",
+      "french": "Toutes les billeteras",
+      "german": "Alle Geldbörsen",
+      "japanese": "すべてのウォレット",
+      "korean": "모든 지갑",
+      "mandarin": "所有钱包",
+      "portuguese": "Todas as carteiras",
+      "spanish": "Todas las billeteras",
+      "turkish": "Tüm cüzdanlar"
     }
   }
 }
