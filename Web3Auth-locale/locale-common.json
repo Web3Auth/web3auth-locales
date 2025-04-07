@@ -1065,6 +1065,54 @@
       "spanish": "Continuar con {{title}}",
       "turkish": "{{title}} ile devam et",
       "dutch": "Doorgaan met {{title}}"
+    },
+    "resendCode": {
+      "english": "Resend Code",
+      "french": "Renvoyer le code",
+      "german": "Code erneut senden",
+      "japanese": "コードを再送信",
+      "korean": "코드 다시 보내기",
+      "mandarin": "重新发送代码",
+      "portuguese": "Reenviar código",
+      "spanish": "Reenviar código",
+      "turkish": "Kodu tekrar gönder",
+      "dutch": "Code opnieuw verzenden"
+    },
+    "resendTimer": {
+      "english": " Resend in {{timer}} seconds",
+      "french": " Renvoyer dans {{timer}} secondes",
+      "german": " {{timer}} Sekunden später erneut senden",
+      "japanese": " {{timer}} 秒後に再送信",
+      "korean": " {{timer}} 초 후 다시 보내기",
+      "mandarin": " {{timer}} 秒后重新发送",
+      "portuguese": " Reenviar em {{timer}} segundos",
+      "spanish": " Reenviar en {{timer}} segundos",
+      "turkish": " {{timer}} saniye sonra tekrar gönder",
+      "dutch": " Opnieuw verzenden in {{timer}} seconden"
+    },
+    "connectYourWallet": {
+      "english": "Connect your wallet",
+      "french": "Connectez votre portefeuille",
+      "german": "Ihre Wallet verbinden",
+      "japanese": "ウォレットを接続",
+      "korean": "지갑 연결",
+      "mandarin": "连接您的钱包",
+      "portuguese": "Conecte seu portefeuille",
+      "spanish": "Conecte su portefeuille",
+      "turkish": "Cüzdanınızı bağlayın",
+      "dutch": "Uw portemonnee verbinden"
+    },
+    "allChains": {
+      "english": "All Chains",
+      "french": "Toutes les chaînes",
+      "german": "Alle Kettens",
+      "japanese": "すべてのチェーン",
+      "korean": "모든 체인",
+      "mandarin": "所有链",
+      "portuguese": "Todas as cadeias",
+      "spanish": "Todas las cadenas",
+      "turkish": "Tüm zincirler",
+      "dutch": "Alle ketens"
     }
   },
   "passwordless": {
