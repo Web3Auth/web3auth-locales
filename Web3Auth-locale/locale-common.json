@@ -1113,6 +1113,18 @@
       "spanish": "Todas las cadenas",
       "turkish": "Tüm zincirler",
       "dutch": "Alle ketens"
+    },
+    "getWallet": {
+      "english": "Get Wallet",
+      "french": "Obtenir le portefeuille",
+      "german": "Wallet holen",
+      "japanese": "ウォレットを取得",
+      "korean": "지갑 가져오기",
+      "mandarin": "获取钱包",
+      "portuguese": "Obter carteira",
+      "spanish": "Obtener billetera",
+      "turkish": "Cüzdanı al",
+      "dutch": "Portemonnee ophalen"
     }
   },
   "passwordless": {
