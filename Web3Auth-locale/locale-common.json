@@ -323,16 +323,16 @@
       "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
-      "dutch": "Scan met een WalletConnect-ondersteunde portemonnee of klik op de QR-code om naar uw klembord te kopiëren.",
-      "english": "Scan with a WalletConnect-supported wallet or click the QR code to copy to your clipboard.",
-      "french": "Scannez avec un portefeuille pris en charge par WalletConnect ou cliquez sur le code QR pour le copier dans votre presse-papiers.",
-      "german": "Scannen Sie mit einem von WalletConnect unterstützten Wallet oder klicken Sie auf den QR-Code, um ihn in Ihre Zwischenablage zu kopieren.",
-      "japanese": "WalletConnect がサポートするウォレットでスキャンするか、QR コードをクリックしてクリップボードにコピーします。",
-      "korean": "WalletConnect 호환 지갑으로 스캔하거나, QR 코드를 클릭하여 클립보드에 복사하세요.",
-      "mandarin": "使用支持 WalletConnect 的钱包进行扫描或单击二维码以复制到剪贴板。",
-      "portuguese": "Digitalize com uma carteira compatível com WalletConnect ou clique no código QR para copiar para sua área de transferência.",
-      "spanish": "Escanee con una billetera compatible con WalletConnect o haga clic en el código QR para copiarlo en su portapapeles.",
-      "turkish": "WalletConnect destekli bir cüzdanla tarayın veya panonuza kopyalamak için QR kodunu tıklayın."
+      "english": "Scan the QR code with WalletConnect supported wallet or click to copy link",
+      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez pour copier le lien",
+      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse oder klicken Sie, um den Link zu kopieren",
+      "japanese": "WalletConnect がサポートするウォレットで QR コードをスキャンするか、リンクをクリックしてコピーします。",
+      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하거나 링크를 클릭하여 복사하세요.",
+      "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击复制链接",
+      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique para copiar o link",
+      "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic para copiar el enlace",
+      "turkish": "WalletConnect destekli bir cüzdanla QR kodu tarayın veya bağlantıyı kopyalayın",
+      "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren."
     },
     "external.walletconnect-subtitle": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
