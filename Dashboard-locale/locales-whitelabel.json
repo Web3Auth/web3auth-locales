@@ -491,6 +491,30 @@
       "portuguese": "Todas as carteiras",
       "spanish": "Todas las billeteras",
       "turkish": "Tüm cüzdanlar"
+    },
+    "swap": {
+      "dutch": "Ruil",
+      "english": "Swap",
+      "french": "Échanger",
+      "german": "Tauschen",
+      "japanese": "スワップ",
+      "korean": "교환",
+      "mandarin": "交换",
+      "portuguese": "Trocar",
+      "spanish": "Intercambio",
+      "turkish": "Takas"
+    },
+    "settings": {
+      "dutch": "Instellingen",
+      "english": "Settings",
+      "french": "Paramètres",
+      "german": "Einstellungen",
+      "japanese": "設定",
+      "korean": "설정",
+      "mandarin": "设置",
+      "portuguese": "Configurações",
+      "spanish": "Ajustes",
+      "turkish": "Ayarlar"
     }
   }
 }
