@@ -99,6 +99,17 @@
       "portuguese": "Último acesso em",
       "spanish": "Último acceso en"
     },
+    "no-connected-apps": {
+      "dutch": "Geen geautoriseerde apps",
+      "english": "No connected apps",
+      "french": "Aucune application connectée",
+      "german": "Keine verbundenen Apps",
+      "japanese": "接続されたアプリがありません",
+      "korean": "연결된 앱이 없습니다",
+      "mandarin": "没有连接的应用程序",
+      "portuguese": "Nenhuma aplicação conectada",
+      "spanish": "Ninguna aplicación conectada"
+    },
     "revoke": {
       "dutch": "Intrekken",
       "english": "Revoke",
