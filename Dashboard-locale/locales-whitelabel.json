@@ -433,16 +433,16 @@
       "turkish": "Jetonlarınız"
     },
     "social-passwordless-title": {
-      "dutch": "E-mail of telefoon",
-      "english": "Email or Phone",
-      "french": "Email ou téléphone",
-      "german": "E-Mail oder Telefon",
-      "japanese": "メールまたは電話",
-      "korean": "이메일 또는 전화번호",
-      "mandarin": "邮件或电话",
-      "portuguese": "Email ou telefone",
-      "spanish": "Email o teléfono",
-      "turkish": "E-posta veya Telefon"
+      "dutch": "E-mail/Telefoon",
+      "english": "Email/Phone",
+      "french": "Email/Téléphone",
+      "german": "E-Mail/Telefon",
+      "japanese": "メール/電話",
+      "korean": "이메일/전화번호",
+      "mandarin": "电子邮件/电话",
+      "portuguese": "Email/Telefone",
+      "spanish": "Email/Teléfono",
+      "turkish": "E-posta/Telefon"
     },
     "social-email": {
       "dutch": "E-mail",
