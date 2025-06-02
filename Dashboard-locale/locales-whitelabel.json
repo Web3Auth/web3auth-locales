@@ -156,6 +156,18 @@
       "spanish": "Declaracion de privacidad",
       "turkish": "Gizlilik Bildirimi"
     },
+    "privacy-policy": {
+      "dutch":	"Privacybeleid",
+      "english":	"Privacy Policy",
+      "french":	"politique de confidentialité",
+      "german":	"Datenschutzrichtlinie",
+      "japanese":	"プライバシーポリシー",
+      "korean":	"개인정보 보호정책",
+      "mandarin":	"隐私政策",
+      "portuguese":	"política de Privacidade",
+      "spanish":	"política de privacidad",
+      "turkish":	"Gizlilik Politikası"
+    },
     "receive": {
       "dutch": "Ontvangen",
       "english": "Receive",
@@ -347,6 +359,18 @@
       "portuguese": "Termos de serviço",
       "spanish": "Términos de servicio",
       "turkish": "Kullanım Şartları"
+    },
+    "terms-of-use": {
+      "dutch":	"Gebruiksvoorwaarden",
+      "english":	"Terms of Use",
+      "french":	"Conditions d'utilisation",
+      "german":	"Nutzungsbedingungen",
+      "japanese":	"利用規約",
+      "korean":	"이용 약관",
+      "mandarin":	"使用条款",
+      "portuguese":	"Termos de Uso",
+      "spanish":	"Condiciones de uso",
+      "turkish":	"Kullanım Şartları"
     },
     "tokens": {
       "dutch": "Munten",
