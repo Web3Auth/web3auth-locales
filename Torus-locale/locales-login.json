@@ -56,6 +56,14 @@
       "mandarin": "{walletName}不存储与您的社交登录相关的任何数据。",
       "spanish": "{walletName} no almacena ningún dato relacionado con sus inicios de sesión sociales."
     },
+    "deprecationAlert": {
+      "english": "This wallet will be deprecated from {0}. Please switch to our new wallet at {1}. Your assets and accounts remains unchanged.",
+      "german": "Diese Brieftasche wird ab {0} eingestellt. Bitte wechseln Sie zu unserer neuen Brieftasche unter {1}. Ihre Vermögenswerte und Konten bleiben unverändert.",
+      "japanese": "{0}からこのウォレットは非推奨になります。新しいウォレットに切り替えてください。{1}。あなたの資産とアカウントは変更されません。",
+      "korean": "{0}에서 이 지갑은 더 이상 사용되지 않습니다. 새로운 지갑으로 전환하세요. {1}에서 새로운 지갑으로 전환하세요. 당신의 자산과 계정은 변경되지 않습니다.",
+      "mandarin": "此钱包将从{0}开始弃用。请切换到我们的新钱包{1}。您的资产和账户保持不变。",
+      "spanish": "Esta billetera será descontinuada desde {0}. Por favor, cambie a nuestra nueva billetera en {1}. Sus activos y cuentas permanecen sin cambios."
+    },
     "digitalWallet": {
       "english": "digital wallet in one-click",
       "german": "digitale Geldbörse mit einem Klick",
@@ -762,14 +770,6 @@
       "mandarin": "认证的多重因素",
       "spanish": "Múltiples factores de autenticación"
     },
-    "notNow": {
-      "english": "Not now",
-      "german": "Nicht jetzt",
-      "japanese": "今はやめろ",
-      "korean": "지금은 아니야",
-      "mandarin": "现在不要",
-      "spanish": "Ahora no"
-    },
     "noWorry": {
       "english": "Don't worry, it is free",
       "german": "Mach dir keine Sorgen, es ist kostenlos",
@@ -777,6 +777,14 @@
       "korean": "걱정하지 마세요, 무료입니다",
       "mandarin": "不用担心，它是免费的",
       "spanish": "No te preocupes es gratis"
+    },
+    "notNow": {
+      "english": "Not now",
+      "german": "Nicht jetzt",
+      "japanese": "今はやめろ",
+      "korean": "지금은 아니야",
+      "mandarin": "现在不要",
+      "spanish": "Ahora no"
     },
     "of": {
       "english": "of",
