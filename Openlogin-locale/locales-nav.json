@@ -10,7 +10,8 @@
       "mandarin": "关闭",
       "portuguese": "fechar",
       "spanish": "Cerrar",
-      "turkish": "kapat"
+      "turkish": "kapat",
+      "russian": "закрыть"
     },
     "drawer": {
       "dutch": "Hoofdnavigatie",
@@ -22,7 +23,8 @@
       "mandarin": "主要导航",
       "portuguese": "Navegação Principal",
       "spanish": "Navegación Principal",
-      "turkish": "Ana Menü"
+      "turkish": "Ana Menü",
+      "russian": "Основная навигация"
     },
     "lang-select": {
       "dutch": "Taalkeuze",
@@ -34,7 +36,8 @@
       "mandarin": "语言选择器",
       "portuguese": "Seletor de idiomas",
       "spanish": "selector de idiomas",
-      "turkish": "Dil Seçimi"
+      "turkish": "Dil Seçimi",
+      "russian": "выбор языка"
     },
     "link-account": {
       "dutch": "Account",
@@ -46,7 +49,8 @@
       "mandarin": "帐户",
       "portuguese": "Conta",
       "spanish": "Cuenta",
-      "turkish": "Hesap"
+      "turkish": "Hesap",
+      "russian": "Аккаунт"
     },
     "link-apps": {
       "dutch": "Geautoriseerde apps",
@@ -58,7 +62,8 @@
       "mandarin": "授权应用",
       "portuguese": "Aplicativos autorizados",
       "spanish": "Aplicaciones autorizadas",
-      "turkish": "Yetkili Uygulamalar"
+      "turkish": "Yetkili Uygulamalar",
+      "russian": "Авторизованные приложения"
     },
     "link-home": {
       "dutch": "Startpagina",
@@ -70,7 +75,8 @@
       "mandarin": "主页",
       "portuguese": "Início",
       "spanish": "Página principal",
-      "turkish": "Ana sayfa"
+      "turkish": "Ana sayfa",
+      "russian": "Главная"
     },
     "link-logout": {
       "dutch": "Uitloggen",
@@ -82,7 +88,8 @@
       "mandarin": "登出",
       "portuguese": "Sair",
       "spanish": "Cerrar sesión",
-      "turkish": "Çıkış yap"
+      "turkish": "Çıkış yap",
+      "russian": "Выйти"
     },
     "link-support": {
       "dutch": "Ondersteuning",
@@ -94,7 +101,8 @@
       "mandarin": "支持",
       "portuguese": "Suporte",
       "spanish": "Ayuda",
-      "turkish": "Destek"
+      "turkish": "Destek",
+      "russian": "Поддержка"
     },
     "list-bottom": {
       "dutch": "Hoofdnavigatie onderaan",
@@ -106,7 +114,8 @@
       "mandarin": "主导航底部",
       "portuguese": "Parte inferior da navegação principal",
       "spanish": "Botón principal de navegación",
-      "turkish": "Ana Menü altı"
+      "turkish": "Ana Menü altı",
+      "russian": "Нижняя часть основной навигации"
     },
     "logo": {
       "dutch": "logo",
@@ -118,7 +127,8 @@
       "mandarin": "标识",
       "portuguese": "logotipo",
       "spanish": "logo",
-      "turkish": "logo"
+      "turkish": "logo",
+      "russian": "логотип"
     },
     "toggle-btn": {
       "dutch": "Navigatiebalk schakelen",
@@ -130,7 +140,8 @@
       "mandarin": "导航栏切换",
       "portuguese": "Navigação Bargle de barra",
       "spanish": "Barra de navegación",
-      "turkish": "Gezinti Çubuğu geçişi"
+      "turkish": "Gezinti Çubuğu geçişi",
+      "russian": "Переключить панель навигации"
     },
     "user-info": {
       "dutch": "Gebruikersinformatie",
@@ -142,7 +153,8 @@
       "mandarin": "用户信息",
       "portuguese": "Informação do usuário",
       "spanish": "Información del usuario",
-      "turkish": "Kullanıcı bilgisi"
+      "turkish": "Kullanıcı bilgisi",
+      "russian": "Информация о пользователе"
     }
   }
 }
