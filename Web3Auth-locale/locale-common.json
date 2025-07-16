@@ -10,8 +10,7 @@
       "mandarin": "验证您的{{adapter}}帐户以继续",
       "portuguese": "Verifique a sua conta {{adapter}} para continuar",
       "spanish": "Verifica tu cuenta {{adapter}} para continuar",
-      "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula",
-      "russian": "Подтвердите ваш аккаунт {{adapter}}, чтобы продолжить"
+      "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula"
     },
     "adapter-loader.message1": {
       "dutch": "Verifieer uw {{adapter}}",
@@ -23,8 +22,7 @@
       "mandarin": "在您的{{adapter}}上验证",
       "portuguese": "Verifique o(a) seu/sua {{adapter}}",
       "spanish": "Verifique su {{adapter}}",
-      "turkish": "{{adapter}} doğrula",
-      "russian": "Подтвердите ваш {{adapter}}"
+      "turkish": "{{adapter}} doğrula"
     },
     "adapter-loader.message2": {
       "dutch": "account om door te gaan",
@@ -36,8 +34,7 @@
       "mandarin": "帐号继续",
       "portuguese": "conta para continuar",
       "spanish": "cuenta para continuar",
-      "turkish": "devam edecek hesap",
-      "russian": "аккаунт, чтобы продолжить"
+      "turkish": "devam edecek hesap"
     },
     "allChains": {
       "dutch": "Alle ketens",
@@ -49,8 +46,7 @@
       "mandarin": "所有链",
       "portuguese": "Todas as cadeias",
       "spanish": "Todas las cadenas",
-      "turkish": "Tüm zincirler",
-      "russian": "Все цепочки"
+      "turkish": "Tüm zincirler"
     },
     "connect-wallet.more-wallets": {
       "dutch": "Meer portemonnees",
@@ -62,8 +58,7 @@
       "mandarin": "查看更多钱包",
       "portuguese": "Mais carteiras",
       "spanish": "Más carteras",
-      "turkish": "Daha fazla cüzdan",
-      "russian": "Другие кошельки"
+      "turkish": "Daha fazla cüzdan"
     },
     "connectYourWallet": {
       "dutch": "Uw portemonnee verbinden",
@@ -75,8 +70,7 @@
       "mandarin": "连接您的钱包",
       "portuguese": "Conecte seu portefeuille",
       "spanish": "Conecte su portefeuille",
-      "turkish": "Cüzdanınızı bağlayın",
-      "russian": "Подключите ваш кошелек"
+      "turkish": "Cüzdanınızı bağlayın"
     },
     "errors-invalid-email": {
       "dutch": "Ongeldig e-mailadres",
@@ -88,8 +82,7 @@
       "mandarin": "无效的电子邮件",
       "portuguese": "E-mail inválido",
       "spanish": "Correo electrónico no válido",
-      "turkish": "Geçersiz E-posta",
-      "russian": "Неверный адрес электронной почты"
+      "turkish": "Geçersiz E-posta"
     },
     "errors-invalid-number": {
       "dutch": "Ongeldig telefoonnummer",
@@ -101,8 +94,7 @@
       "mandarin": "电话号码无效",
       "portuguese": "Número de telefone inválido",
       "spanish": "Número de teléfono no válido",
-      "turkish": "Geçersiz Telefon Numarası",
-      "russian": "Неверный номер телефона"
+      "turkish": "Geçersiz Telefon Numarası"
     },
     "errors-invalid-number-email": {
       "dutch": "Ongeldig e-mailadres of telefoonnummer",
@@ -114,8 +106,7 @@
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email ou número de telefone inválido",
       "spanish": "Correo electrónico o número de teléfono no válido",
-      "turkish": "Geçersiz E-posta veya Telefon Numarası",
-      "russian": "Неверный адрес электронной почты или номер телефона"
+      "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-required": {
       "dutch": "Vereist",
@@ -127,8 +118,7 @@
       "mandarin": "必填",
       "portuguese": "Obrigatório",
       "spanish": "Campo obligatorio",
-      "turkish": "Zorunlu",
-      "russian": "Обязательно"
+      "turkish": "Zorunlu"
     },
     "external.all-wallets": {
       "dutch": "Alle portemonnees",
@@ -140,8 +130,7 @@
       "mandarin": "所有钱包",
       "portuguese": "Todas as carteiras",
       "spanish": "Todas las billeteras",
-      "turkish": "Tüm cüzdanlar",
-      "russian": "Все кошельки"
+      "turkish": "Tüm cüzdanlar"
     },
     "external.back": {
       "dutch": "Terug",
@@ -153,8 +142,7 @@
       "mandarin": "返回",
       "portuguese": "Voltar",
       "spanish": "Atrás",
-      "turkish": "Geri",
-      "russian": "Назад"
+      "turkish": "Geri"
     },
     "external.connect": {
       "dutch": "Ga verder met een portemonnee",
@@ -164,10 +152,9 @@
       "japanese": "ウォレットを続ける",
       "korean": "지갑으로 계속하기",
       "mandarin": "继续使用钱包",
-      "portuguese": "Continuar com carteira",
+      "portuguese": "Continuar com uma carteira",
       "spanish": "Conectar con la billetera",
-      "turkish": "Cüzdanla devam et",
-      "russian": "Продолжить с кошельком"
+      "turkish": "Cüzdanla devam et"
     },
     "external.connect-wallet": {
       "dutch": "Verbinden met portemonnee",
@@ -179,8 +166,7 @@
       "mandarin": "连接钱包",
       "portuguese": "Conectar carteira",
       "spanish": "Conectar billetera",
-      "turkish": "Cüzdanı Bağla",
-      "russian": "Подключить кошелек"
+      "turkish": "Cüzdanı Bağla"
     },
     "external.continue": {
       "dutch": "Ga verder met externe portemonnee",
@@ -192,8 +178,7 @@
       "mandarin": "继续使用外部钱包",
       "portuguese": "Continuar com carteira externa",
       "spanish": "Continuar con billetera externa",
-      "turkish": "Harici cüzdanla devam et",
-      "russian": "Продолжить с внешним кошельком"
+      "turkish": "Harici cüzdanla devam et"
     },
     "external.continue-custom": {
       "dutch": "Doorgaan met {{wallet}}",
@@ -205,8 +190,7 @@
       "mandarin": "继续使用{{wallet}}",
       "portuguese": "Continue com o {{wallet}}",
       "spanish": "Continuar con {{wallet}}",
-      "turkish": "{{wallet}} ile devam et",
-      "russian": "Продолжить с {{wallet}}"
+      "turkish": "{{wallet}} ile devam et"
     },
     "external.dont-have": {
       "dutch": "Heb niet",
@@ -218,8 +202,7 @@
       "mandarin": "没有",
       "portuguese": "Não tem",
       "spanish": "No tiene",
-      "turkish": "Yok",
-      "russian": "Нет"
+      "turkish": "Yok"
     },
     "external.get": {
       "dutch": "Krijgen",
@@ -231,8 +214,7 @@
       "mandarin": "获取",
       "portuguese": "Obter",
       "spanish": "Obtener",
-      "turkish": "Al",
-      "russian": "Получить"
+      "turkish": "Al"
     },
     "external.get-wallet": {
       "dutch": "Portemonnee krijgen",
@@ -244,8 +226,7 @@
       "mandarin": "获取钱包",
       "portuguese": "Obter carteira",
       "spanish": "Obtener billetera",
-      "turkish": "Cüzdan Al",
-      "russian": "Получить кошелек"
+      "turkish": "Cüzdan Al"
     },
     "external.install-browser-extension": {
       "dutch": "{{browser}}-extensie installeren",
@@ -256,8 +237,7 @@
       "mandarin": "安装{{browser}}扩展",
       "portuguese": "Instalar extensão {{browser}}",
       "spanish": "Instalar extensión {{browser}}",
-      "turkish": "{{browser}} uzantısını yükle",
-      "russian": "Установите расширение {{browser}}"
+      "turkish": "{{browser}} uzantısını yükle"
     },
     "external.install-mobile-app": {
       "dutch": "Installeer {{os}}-app",
@@ -268,8 +248,7 @@
       "mandarin": "安装{{os}}应用",
       "portuguese": "Instalar aplicativo {{os}}",
       "spanish": "Instalar aplicación {{os}}",
-      "turkish": "{{os}} uygulamasını yükle",
-      "russian": "Установите приложение {{os}}"
+      "turkish": "{{os}} uygulamasını yükle"
     },
     "external.installed": {
       "dutch": "Geïnstalleerd",
@@ -281,8 +260,7 @@
       "mandarin": "已安装",
       "portuguese": "Instalado",
       "spanish": "Instalado",
-      "turkish": "Yüklendi",
-      "russian": "Установлено"
+      "turkish": "Yüklendi"
     },
     "external.no-wallets-found": {
       "dutch": "Geen portefeuilles gevonden",
@@ -294,8 +272,7 @@
       "mandarin": "没有找到钱包",
       "portuguese": "Nenhuma carteira encontrada",
       "spanish": "No se encontraron billeteras",
-      "turkish": "Cüzdan bulunamadı",
-      "russian": "Кошельки не найдены"
+      "turkish": "Cüzdan bulunamadı"
     },
     "external.search-subtext": {
       "dutch": "Probeer in plaats daarvan te zoeken",
@@ -307,8 +284,7 @@
       "mandarin": "尝试改为搜索",
       "portuguese": "Tente pesquisar",
       "spanish": "Intenta buscar en su lugar",
-      "turkish": "Bunun yerine aramayı deneyin",
-      "russian": "Попробуйте поиск"
+      "turkish": "Bunun yerine aramayı deneyin"
     },
     "external.search-text": {
       "dutch": "Ziet u uw portemonnee niet?",
@@ -320,8 +296,7 @@
       "mandarin": "没看到你的钱包吗？",
       "portuguese": "Não vê sua carteira?",
       "spanish": "¿No ves tu billetera?",
-      "turkish": "Cüzdanınızı görmüyor musunuz?",
-      "russian": "Не видите ваш кошелек?"
+      "turkish": "Cüzdanınızı görmüyor musunuz?"
     },
     "external.search-wallet": {
       "dutch": "Zoeken door {{count}} portemonnees...",
@@ -333,8 +308,7 @@
       "mandarin": "搜索{{count}}个钱包...",
       "portuguese": "Pesquisar através de {{count}} carteiras...",
       "spanish": "Buscar a través de {{count}} billeteras...",
-      "turkish": "{{count}} cüzdan ara...",
-      "russian": "Поиск среди {{count}} кошельков..."
+      "turkish": "{{count}} cüzdan ara..."
     },
     "external.select-chain": {
       "dutch": "Ketting selecteren",
@@ -346,8 +320,7 @@
       "mandarin": "选择链",
       "portuguese": "Selecionar cadeia",
       "spanish": "Seleccionar cadena",
-      "turkish": "Zincir seç",
-      "russian": "Выберите цепочку"
+      "turkish": "Zincir seç"
     },
     "external.select-chain-description": {
       "dutch": "Deze {{wallet}} portemonnee ondersteunt meerdere ketens. Selecteer welke ketting u wilt verbinden",
@@ -359,8 +332,7 @@
       "mandarin": "这个 {{wallet}} 钱包支持多种链。选择您想要连接的链",
       "portuguese": "Este {{wallet}} carteira suporta várias cadeias. Selecione a cadeia que você gostaria de conectar",
       "spanish": "Este {{wallet}} billetera soporta varias cadenas. Seleccione la cadena que desea conectar",
-      "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin",
-      "russian": "Этот кошелек {{wallet}} поддерживает несколько цепочек. Выберите цепочку для подключения"
+      "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin"
     },
     "external.title": {
       "dutch": "Externe portemonnee",
@@ -372,8 +344,7 @@
       "mandarin": "外部钱包",
       "portuguese": "Carteira Externa",
       "spanish": "Billetera Externa",
-      "turkish": "Harici Cüzdan",
-      "russian": "Внешний кошелек"
+      "turkish": "Harici Cüzdan"
     },
     "external.walletconnect-connect": {
       "dutch": "Verbinden",
@@ -385,8 +356,7 @@
       "mandarin": "连接",
       "portuguese": "Conectar",
       "spanish": "Conectar",
-      "turkish": "Bağla",
-      "russian": "Подключить"
+      "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren.",
@@ -398,8 +368,7 @@
       "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击复制链接",
       "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique para copiar o link",
       "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic para copiar el enlace",
-      "turkish": "WalletConnect destekli bir cüzdanla QR kodu tarayın veya bağlantıyı kopyalayın",
-      "russian": "Отсканируйте QR-код кошельком, поддерживающим WalletConnect, или нажмите, чтобы скопировать ссылку"
+      "turkish": "WalletConnect destekli bir cüzdanla QR kodu tarayın veya bağlantıyı kopyalayın"
     },
     "external.walletconnect-subtitle": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
@@ -411,8 +380,7 @@
       "mandarin": "使用兼容 WalletConnect 的钱包扫描 QR 码",
       "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect",
       "spanish": "Escanear el código QR con una billetera compatible con WalletConnect",
-      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın",
-      "russian": "Отсканируйте QR-код совместимым с WalletConnect кошельком"
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın"
     },
     "footer.and": {
       "dutch": "en",
@@ -424,8 +392,7 @@
       "mandarin": "和",
       "portuguese": "e",
       "spanish": "y",
-      "turkish": "ve",
-      "russian": "и"
+      "turkish": "ve"
     },
     "footer.by-signing-in": {
       "dutch": "Door in te loggen, gaat u akkoord met onze",
@@ -437,8 +404,7 @@
       "mandarin": "登录即表示您同意我们的",
       "portuguese": "Ao se conectar, você concorda com nossos",
       "spanish": "Al iniciar sesión, acepta nuestros",
-      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir.",
-      "russian": "Войдя, вы соглашаетесь с нашими"
+      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir."
     },
     "footer.message": {
       "dutch": "Zelfbeheerde login door",
@@ -450,8 +416,7 @@
       "mandarin": "自托管登录由",
       "portuguese": "Login de autocustódia por",
       "spanish": "Inicio de sesión con autocustodia por",
-      "turkish": "Öz-yönetimli giriş yapan:",
-      "russian": "Самостоятельный вход через"
+      "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
       "dutch": "Zelfkusten via",
@@ -463,8 +428,7 @@
       "mandarin": "自我castody通过",
       "portuguese": "Autoconfiança via",
       "spanish": "Autocustodia a través de",
-      "turkish": "Kendi kendine velayet",
-      "russian": "Самостоятельное хранение через"
+      "turkish": "Kendi kendine velayet"
     },
     "footer.policy": {
       "dutch": "Privacybeleid",
@@ -476,8 +440,7 @@
       "mandarin": "隐私政策",
       "portuguese": "Política de Privacidade",
       "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası",
-      "russian": "Политика конфиденциальности"
+      "turkish": "Gizlilik Politikası"
     },
     "footer.privacy-policy": {
       "dutch": "Privacy Policy",
@@ -489,8 +452,7 @@
       "mandarin": "隐私政策",
       "portuguese": "Política de privacidade",
       "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası",
-      "russian": "Политика конфиденциальности"
+      "turkish": "Gizlilik Politikası"
     },
     "footer.terms": {
       "dutch": "Gebruiksvoorwaarden",
@@ -502,8 +464,7 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de Uso",
       "spanish": "Términos de Uso",
-      "turkish": "Kullanım Şartları",
-      "russian": "Условия использования"
+      "turkish": "Kullanım Şartları"
     },
     "footer.terms-of-service": {
       "dutch": "Gebruiksvoorwaarden",
@@ -515,8 +476,7 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
       "spanish": "Términos de uso",
-      "turkish": "Kullanım Şartları",
-      "russian": "Условия обслуживания"
+      "turkish": "Kullanım Şartları"
     },
     "footer.terms-service": {
       "dutch": "Gebruiksvoorwaarden",
@@ -528,21 +488,19 @@
       "mandarin": "服务条款",
       "portuguese": "Termos de Serviço",
       "spanish": "Términos de servicio",
-      "turkish": "Hizmet Şartları",
-      "russian": "Условия обслуживания"
+      "turkish": "Hizmet Şartları"
     },
     "footer.version": {
       "dutch": "Versie",
       "english": "Version",
       "french": "Version",
-      "german": "Versión",
+      "german": "Versión",
       "japanese": "バージョン",
       "korean": "버전",
       "mandarin": "版本",
       "portuguese": "Versão",
       "spanish": "Versión",
-      "turkish": "Versiyon",
-      "russian": "Версия"
+      "turkish": "Versiyon"
     },
     "getWallet": {
       "dutch": "Portemonnee ophalen",
@@ -554,8 +512,7 @@
       "mandarin": "获取钱包",
       "portuguese": "Obter carteira",
       "spanish": "Obtener billetera",
-      "turkish": "Cüzdanı al",
-      "russian": "Получить кошелек"
+      "turkish": "Cüzdanı al"
     },
     "header-subtitle": {
       "dutch": "Selecteer een van de volgende opties om door te gaan",
@@ -567,8 +524,7 @@
       "mandarin": "选择以下选项以继续",
       "portuguese": "Selecione uma das seguintes opções para continuar",
       "spanish": "Seleccione una de las siguientes opciones para continuar",
-      "turkish": "Devam etmek için seçeneklerden birini işaretle",
-      "russian": "Выберите один из следующих вариантов, чтобы продолжить"
+      "turkish": "Devam etmek için seçeneklerden birini işaretle"
     },
     "header-subtitle-name": {
       "dutch": "Uw {{appName}}-portemonnee met één klik",
@@ -580,8 +536,7 @@
       "mandarin": "一键点击您的 {{appName}} 钱包",
       "portuguese": "Sua carteira {{appName}} com um clique",
       "spanish": "Su billetera {{appName}} con un solo clic",
-      "turkish": "Tek tıklama ile {{appName}} cüzdanınız",
-      "russian": "Ваш кошелек {{appName}} в один клик"
+      "turkish": "Tek tıklama ile {{appName}} cüzdanınız"
     },
     "header-subtitle-new": {
       "dutch": "Uw blockchain-portemonnee met één klik",
@@ -593,8 +548,7 @@
       "mandarin": "一键点击您的区块链钱包",
       "portuguese": "Sua carteira de blockchain com um clique",
       "spanish": "Su billetera blockchain con un solo clic",
-      "turkish": "Tek tıklama ile blockchain cüzdanınız",
-      "russian": "Ваш блокчейн-кошелек в один клик"
+      "turkish": "Tek tıklama ile blockchain cüzdanınız"
     },
     "header-title": {
       "dutch": "Aanmelden",
@@ -606,8 +560,7 @@
       "mandarin": "登录",
       "portuguese": "Entrar",
       "spanish": "Iniciar sesión",
-      "turkish": "Giriş yap",
-      "russian": "Войти"
+      "turkish": "Giriş yap"
     },
     "header-tooltip-desc": {
       "dutch": "De portemonnee dient als een account om uw digitale activa op de blockchain op te slaan en te beheren.",
@@ -619,8 +572,7 @@
       "mandarin": "钱包作为一个账户用于在区块链上存储和管理您的数字资产。",
       "portuguese": "A carteira serve como uma conta para armazenar e gerenciar seus ativos digitais na blockchain.",
       "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la blockchain.",
-      "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür.",
-      "russian": "Кошелек служит аккаунтом для хранения и управления цифровыми активами в блокчейне."
+      "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür."
     },
     "header-tooltip-title": {
       "dutch": "Portemonnee",
@@ -632,8 +584,7 @@
       "mandarin": "钱包",
       "portuguese": "Carteira",
       "spanish": "Billetera",
-      "turkish": "Cüzdan",
-      "russian": "Кошелек"
+      "turkish": "Cüzdan"
     },
     "network.add-request": {
       "dutch": "Deze site vraagt om een netwerk toe te voegen",
@@ -645,8 +596,7 @@
       "mandarin": "此站点正在请求添加网络",
       "portuguese": "Este site está solicitando adicionar uma rede",
       "spanish": "Este sitio está solicitando agregar una red",
-      "turkish": "Bu site bir ağ eklemek istiyor",
-      "russian": "Этот сайт запрашивает добавление сети"
+      "turkish": "Bu site bir ağ eklemek istiyor"
     },
     "network.cancel": {
       "dutch": "Annuleren",
@@ -658,8 +608,7 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
-      "turkish": "İptal",
-      "russian": "Отмена"
+      "turkish": "İptal"
     },
     "network.from": {
       "dutch": "Van",
@@ -671,8 +620,7 @@
       "mandarin": "从",
       "portuguese": "De",
       "spanish": "De",
-      "turkish": "Nereden",
-      "russian": "От"
+      "turkish": "Nereden"
     },
     "network.proceed": {
       "dutch": "Doorgaan",
@@ -684,8 +632,7 @@
       "mandarin": "继续",
       "portuguese": "Prosseguir",
       "spanish": "Continuar",
-      "turkish": "Devam",
-      "russian": "Продолжить"
+      "turkish": "Devam"
     },
     "network.switch-request": {
       "dutch": "Deze site vraagt om over te schakelen naar een ander netwerk",
@@ -697,8 +644,7 @@
       "mandarin": "此站点正在请求切换网络",
       "portuguese": "Este site está solicitando trocar de rede",
       "spanish": "Este sitio está solicitando cambiar de red",
-      "turkish": "Bu site ağ değiştirmeyi talep ediyor",
-      "russian": "Этот сайт запрашивает переключение сети"
+      "turkish": "Bu site ağ değiştirmeyi talep ediyor"
     },
     "network.to": {
       "dutch": "Naar",
@@ -710,8 +656,7 @@
       "mandarin": "至",
       "portuguese": "Para",
       "spanish": "A",
-      "turkish": "Nereye",
-      "russian": "К"
+      "turkish": "Nereye"
     },
     "otp.email-subtext": {
       "dutch": "Voer de 6-cijferige verificatiecode in",
@@ -723,8 +668,7 @@
       "mandarin": "请输入6位验证码",
       "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
       "spanish": "Por favor, ingrese el código de verificación de 6 dígitos",
-      "turkish": "6 haneli doğrulama kodunu giriniz",
-      "russian": "Пожалуйста, введите 6-значный код подтверждения"
+      "turkish": "6 haneli doğrulama kodunu giriniz"
     },
     "otp.email-subtext-example": {
       "dutch": "{{email}} adres is verstuurd",
@@ -736,8 +680,7 @@
       "mandarin": "{{email}} 发送的",
       "portuguese": "que foi enviado para o seu email {{email}}",
       "spanish": "que fue enviado a su email {{email}}",
-      "turkish": "{{email}} adresine gönderildi",
-      "russian": "который был отправлен на вашу почту {{email}}"
+      "turkish": "{{email}} adresine gönderildi"
     },
     "otp.email-title": {
       "dutch": "Email Verificatie",
@@ -749,8 +692,7 @@
       "mandarin": "电子邮件验证",
       "portuguese": "Verificação de email",
       "spanish": "Verificación de email",
-      "turkish": "Email Doğrulama",
-      "russian": "Проверка электронной почты"
+      "turkish": "Email Doğrulama"
     },
     "otp.mobile-subtext": {
       "dutch": "OTP Verificatie",
@@ -762,8 +704,7 @@
       "mandarin": "输入 OTP 验证",
       "portuguese": "Verifique o OTP enviado para",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama",
-      "russian": "Введите OTP, отправленный на"
+      "turkish": "OTP Doğrulama"
     },
     "otp.mobile-title": {
       "dutch": "OTP Verificatie",
@@ -775,8 +716,7 @@
       "mandarin": "OTP 验证",
       "portuguese": "Verificação OTP",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama",
-      "russian": "Проверка OTP"
+      "turkish": "OTP Doğrulama"
     },
     "otp.success": {
       "dutch": "U bent verbonden met uw account!",
@@ -788,8 +728,7 @@
       "mandarin": "您已连接到您的帐户！",
       "portuguese": "Você está conectado ao seu conta!",
       "spanish": "¡Estás conectado a tu cuenta!",
-      "turkish": "Hesabınıza bağlandınız!",
-      "russian": "Вы вошли в аккаунт!"
+      "turkish": "Hesabınıza bağlandınız!"
     },
     "passkey.add": {
       "dutch": "Passkey toevoegen",
@@ -801,21 +740,19 @@
       "mandarin": "添加Passkey",
       "portuguese": "Adicionar Passkey",
       "spanish": "Añadir Passkey",
-      "turkish": "Passkey ekle",
-      "russian": "Добавить Passkey"
+      "turkish": "Passkey ekle"
     },
     "passkey.haveExisting": {
       "dutch": "Heeft u een bestaande passkey?",
       "english": "Have an existing passkey?",
-      "french": "Vous disposez déjà d'un passkey ?",
+      "french": "Vous disposez déjà d'un passkey ?",
       "german": "Haben Sie bereits einen passkey?",
       "japanese": "既存の passkey をお持ちですか?",
       "korean": "기존 passkey가 있나요?",
       "mandarin": "已有 passkey 吗？",
       "portuguese": "Você já possui um passkey?",
       "spanish": "¿Tiene un passkey existente?",
-      "turkish": "Mevcut bir passkey'ınız mı var?",
-      "russian": "У вас уже есть passkey?"
+      "turkish": "Mevcut bir passkey'ınız mı var?"
     },
     "passkey.learn-more": {
       "dutch": "Kom meer te weten",
@@ -827,8 +764,7 @@
       "mandarin": "了解更多",
       "portuguese": "Saber mais",
       "spanish": "Aprende más",
-      "turkish": "Daha fazla bilgi edin",
-      "russian": "Узнать больше"
+      "turkish": "Daha fazla bilgi edin"
     },
     "passkey.or": {
       "dutch": "of",
@@ -840,8 +776,7 @@
       "mandarin": "或者",
       "portuguese": "ou",
       "spanish": "o",
-      "turkish": "veya",
-      "russian": "или"
+      "turkish": "veya"
     },
     "passkey.register-desc": {
       "dutch": "Met passkeys kunt u uw identiteit verifiëren via uw gezicht, vingerafdruk of beveiligingssleutels.",
@@ -853,8 +788,7 @@
       "mandarin": "使用passkeys，您可以通过面部、指纹或安全密钥验证您的身份。",
       "portuguese": "Com passkeys, você pode verificar sua identidade por meio de seu rosto, impressão digital ou chaves de segurança.",
       "spanish": "Con passkeys, puedes verificar tu identidad a través de tu rostro, huella digital o claves de seguridad.",
-      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz.",
-      "russian": "С помощью passkeys вы можете подтвердить свою личность по лицу, отпечатку пальца или ключам безопасности."
+      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
     },
     "passkey.register-title": {
       "dutch": "Registreer Passkey",
@@ -866,8 +800,7 @@
       "mandarin": "注册Passkey",
       "portuguese": "Registre-se Passkey",
       "spanish": "Registrarse Passkey",
-      "turkish": "Passkey'ı kaydedin",
-      "russian": "Зарегистрировать Passkey"
+      "turkish": "Passkey'ı kaydedin"
     },
     "passkey.use": {
       "dutch": "Ik heb een passkey",
@@ -879,8 +812,7 @@
       "mandarin": "我有一个Passkey",
       "portuguese": "Eu tenho uma passkey",
       "spanish": "Tengo una Passkey",
-      "turkish": "Bir passkey'im var",
-      "russian": "У меня есть passkey"
+      "turkish": "Bir passkey'im var"
     },
     "passwordless.title": {
       "dutch": "Doorgaan met {{title}}",
@@ -892,8 +824,7 @@
       "mandarin": "继续使用 {{title}}",
       "portuguese": "Continuar com {{title}}",
       "spanish": "Continuar con {{title}}",
-      "turkish": "{{title}} ile devam et",
-      "russian": "Продолжить с {{title}}"
+      "turkish": "{{title}} ile devam et"
     },
     "popup.phone-body": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u handmatig de juiste landcode invoeren.",
@@ -905,8 +836,7 @@
       "mandarin": "您的国家代码将自动检测到，但如果您使用其他国家/地区的电话号码，您需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se estiver usando um número de telefone de um país diferente, você precisará inserir manualmente o código correto do país.",
       "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de otro país, deberá ingresar manualmente el código de país correcto.",
-      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir.",
-      "russian": "Код вашей страны будет определён автоматически, но если вы используете номер из другой страны, вам нужно вручную ввести правильный код страны."
+      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir."
     },
     "popup.phone-header": {
       "dutch": "Telefoonnummer en landcode",
@@ -918,8 +848,7 @@
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código do país",
       "spanish": "Número de teléfono y código de país",
-      "turkish": "Telefon numarası ve ülke kodu",
-      "russian": "Номер телефона и код страны"
+      "turkish": "Telefon numarası ve ülke kodu"
     },
     "post-loading.connected": {
       "dutch": "U bent verbonden met uw account",
@@ -931,8 +860,7 @@
       "mandarin": "您与您的帐户有联系",
       "portuguese": "Você está conectado com sua conta",
       "spanish": "Estás conectado con tu cuenta",
-      "turkish": "Hesabınızla bağlandınız",
-      "russian": "Вы подключены к своему аккаунту"
+      "turkish": "Hesabınızla bağlandınız"
     },
     "post-loading.something-wrong": {
       "dutch": "Er is iets fout gegaan!",
@@ -944,8 +872,7 @@
       "mandarin": "出了些问题！",
       "portuguese": "Algo deu errado!",
       "spanish": "¡Algo salió mal!",
-      "turkish": "Bir şeyler ters gitti!",
-      "russian": "Что-то пошло не так!"
+      "turkish": "Bir şeyler ters gitti!"
     },
     "resendCode": {
       "dutch": "Code opnieuw verzenden",
@@ -957,8 +884,7 @@
       "mandarin": "重新发送代码",
       "portuguese": "Reenviar código",
       "spanish": "Reenviar código",
-      "turkish": "Kodu tekrar gönder",
-      "russian": "Отправить код повторно"
+      "turkish": "Kodu tekrar gönder"
     },
     "resendTimer": {
       "dutch": " Opnieuw verzenden in {{timer}} seconden",
@@ -970,8 +896,7 @@
       "mandarin": " {{timer}} 秒后重新发送",
       "portuguese": " Reenviar em {{timer}} segundos",
       "spanish": " Reenviar en {{timer}} segundos",
-      "turkish": " {{timer}} saniye sonra tekrar gönder",
-      "russian": " Повторно отправить через {{timer}} секунд"
+      "turkish": " {{timer}} saniye sonra tekrar gönder"
     },
     "social.continue": {
       "dutch": "Doorgaan met",
@@ -983,8 +908,7 @@
       "mandarin": "继续",
       "portuguese": "Continuar com",
       "spanish": "Continuar con",
-      "turkish": "Devam et: ",
-      "russian": "Продолжить с"
+      "turkish": "Devam et: "
     },
     "social.continueCustom": {
       "dutch": "Doorgaan met {{adapter}}",
@@ -996,8 +920,7 @@
       "mandarin": "继续使用{{adapter}}",
       "portuguese": "Continue com o {{adapter}}",
       "spanish": "Continuar con {{adapter}}",
-      "turkish": "{{adapter}} ile devam et",
-      "russian": "Продолжить с {{adapter}}"
+      "turkish": "{{adapter}} ile devam et"
     },
     "social.email": {
       "dutch": "E-mail",
@@ -1009,8 +932,7 @@
       "mandarin": "电子邮件",
       "portuguese": "Email",
       "spanish": "Correo electrónico",
-      "turkish": "E-posta",
-      "russian": "Электронная почта"
+      "turkish": "E-posta"
     },
     "social.email-continue": {
       "dutch": "Doorgaan met e-mail",
@@ -1022,8 +944,7 @@
       "mandarin": "继续使用电子邮件",
       "portuguese": "Continuar com email",
       "spanish": "Continuar con correo electrónico",
-      "turkish": "E-posta ile devam et",
-      "russian": "Продолжить с электронной почтой"
+      "turkish": "E-posta ile devam et"
     },
     "social.email-new": {
       "dutch": "naam@voorbeeld.com",
@@ -1035,8 +956,7 @@
       "mandarin": "name@example.com",
       "portuguese": "nome@exemplo.com",
       "spanish": "nombre@ejemplo.com",
-      "turkish": "isim@ornek.com",
-      "russian": "имя@пример.com"
+      "turkish": "isim@ornek.com"
     },
     "social.passwordless-cta": {
       "dutch": "Doorgaan",
@@ -1048,8 +968,7 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam et",
-      "russian": "Продолжить"
+      "turkish": "Devam et"
     },
     "social.passwordless-login": {
       "dutch": "Log in",
@@ -1061,8 +980,7 @@
       "mandarin": "登录",
       "portuguese": "Conecte-se",
       "spanish": "Acceso",
-      "turkish": "Giriş yapmak",
-      "russian": "Вход"
+      "turkish": "Giriş yapmak"
     },
     "social.passwordless-title": {
       "dutch": "E-mail/Telefoon",
@@ -1074,8 +992,7 @@
       "mandarin": "电子邮件/电话",
       "portuguese": "Email/Telefone",
       "spanish": "Email/Teléfono",
-      "turkish": "E-posta/Telefon",
-      "russian": "Эл. почта/Телефон"
+      "turkish": "E-posta/Telefon"
     },
     "social.phone": {
       "dutch": "Telefoon",
@@ -1087,8 +1004,7 @@
       "mandarin": "电话",
       "portuguese": "Telefone",
       "spanish": "Teléfono",
-      "turkish": "Telefon",
-      "russian": "Телефон"
+      "turkish": "Telefon"
     },
     "social.policy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
@@ -1100,8 +1016,7 @@
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz.",
-      "russian": "Мы не храним данные, связанные с вашими социальными входами."
+      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
     "social.sign-in": {
       "dutch": "Inloggen",
@@ -1113,8 +1028,7 @@
       "mandarin": "登录",
       "portuguese": "Entrar",
       "spanish": "Iniciar sesión",
-      "turkish": "Giriş yap",
-      "russian": "Войти"
+      "turkish": "Giriş yap"
     },
     "social.sms": {
       "dutch": "Mobiel",
@@ -1126,8 +1040,7 @@
       "mandarin": "移动",
       "portuguese": "Móvel",
       "spanish": "Móvil",
-      "turkish": "Mobil Telefon",
-      "russian": "Мобильный"
+      "turkish": "Mobil Telefon"
     },
     "social.sms-continue": {
       "dutch": "Doorgaan met mobiel",
@@ -1139,8 +1052,7 @@
       "mandarin": "继续使用移动设备",
       "portuguese": "Continuar com o celular",
       "spanish": "Continuar con móvil",
-      "turkish": "Telefon ile devam et",
-      "russian": "Продолжить с мобильного"
+      "turkish": "Telefon ile devam et"
     },
     "social.sms-invalid-number": {
       "dutch": "Ongeldig telefoonnummer",
@@ -1152,8 +1064,7 @@
       "mandarin": "无效的电话号码",
       "portuguese": "Número de telefone inválido",
       "spanish": "Número de teléfono inválido",
-      "turkish": "Geçersiz telefon numarası",
-      "russian": "Неверный номер телефона"
+      "turkish": "Geçersiz telefon numarası"
     },
     "social.sms-placeholder-text": {
       "dutch": "Bijv.:",
@@ -1165,8 +1076,7 @@
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
       "spanish": "Por ej.:",
-      "turkish": "Örneğin:",
-      "russian": "Напр.:"
+      "turkish": "Örneğin:"
     },
     "social.view-less": {
       "dutch": "Minder bekijken",
@@ -1178,8 +1088,7 @@
       "mandarin": "少查看",
       "portuguese": "Ver menos",
       "spanish": "Ver menos",
-      "turkish": "Daha az görüntüle",
-      "russian": "Показать меньше"
+      "turkish": "Daha az görüntüle"
     },
     "social.view-less-socials": {
       "dutch": "Bekijk minder socials",
@@ -1191,8 +1100,7 @@
       "mandarin": "查看更少socials",
       "portuguese": "Ver menos socials",
       "spanish": "Ver menos socials",
-      "turkish": "Daha az socials görüntüle",
-      "russian": "Показать меньше соцсетей"
+      "turkish": "Daha az socials görüntüle"
     },
     "social.view-more": {
       "dutch": "Meer bekijken",
@@ -1204,8 +1112,7 @@
       "mandarin": "查看更多",
       "portuguese": "Ver mais",
       "spanish": "Ver más",
-      "turkish": "Daha fazla görüntüle",
-      "russian": "Показать больше"
+      "turkish": "Daha fazla görüntüle"
     },
     "social.view-more-socials": {
       "dutch": "Bekijk meer socials",
@@ -1217,8 +1124,7 @@
       "mandarin": "查看更多socials",
       "portuguese": "Ver mais socials",
       "spanish": "Ver más socials",
-      "turkish": "Daha fazlasını görüntüle socials",
-      "russian": "Показать больше соцсетей"
+      "turkish": "Daha fazlasını görüntüle socials"
     }
   },
   "passwordless": {
@@ -1226,14 +1132,13 @@
       "dutch": "Ongeldige verificatielink of link verlopen",
       "english": "Invalid verification link or link expired",
       "french": "Lien de vérification invalide ou lien expiré",
-      "german": "Ungültiger Überprüfungsverbindung of Link ist abgelaufen",
+      "german": "Ungültiger Überprüfungsverbindung oder Link ist abgelaufen",
       "japanese": "無効な検証リンクまたはリンクが期限切れになりました",
       "korean": "유효하지 않은 인증 링크이거나 링크가 만료되었습니다",
       "mandarin": "无效的验证链接或链接已过期",
       "portuguese": "Link de verificação inválido ou link expirado",
-      "spanish": "Enlace de verificación inválido o expirado",
-      "turkish": "Hatalı doğrulama linki veya linkin süresi dolmuş",
-      "russian": "Неверная ссылка для проверки или ссылка истекла"
+      "spanish": "El enlace o el enlace de verificación ha expirado",
+      "turkish": "Hatalı ya da süresi geçmiş doğrulama linki"
     },
     "error-invalid-origin": {
       "dutch": "Er is iets misgegaan, foutcode: E002",
@@ -1245,8 +1150,7 @@
       "mandarin": "出问题了, 错误代码: E002",
       "portuguese": "Algo deu errado, código de erro: E002",
       "spanish": "Algo salió mal, código de error: E002",
-      "turkish": "Bir şeyler ters gitti, hata kodu: E002",
-      "russian": "Что-то пошло не так, код ошибки: E002"
+      "turkish": "Bir şeyler ters gitti, hata kodu: E002"
     },
     "error-invalid-otp": {
       "dutch": "Ongeldige OTP, probeer het opnieuw",
@@ -1258,8 +1162,7 @@
       "mandarin": "无效的OTP，请重试",
       "portuguese": "OTP inválido, por favor tente novamente",
       "spanish": "OTP no válido, intente nuevamente",
-      "turkish": "Hatalı OTP, lütfen tekrar deneyin.",
-      "russian": "Неверный OTP, пожалуйста, попробуйте снова"
+      "turkish": "Hatalı OTP, lütfen tekrar deneyin."
     },
     "error-invalid-params": {
       "dutch": "Ontbrekende of ongeldige parameters",
@@ -1271,8 +1174,7 @@
       "mandarin": "缺失或无效参数",
       "portuguese": "Parâmetros ausentes ou inválidos",
       "spanish": "Parámetros faltantes o no válidos",
-      "turkish": "Eksik ya da hatalı parametreler var.",
-      "russian": "Отсутствуют или недействительны параметры."
+      "turkish": "Eksik ya da hatalı parametreler var."
     },
     "error-max-retry-limit-reached": {
       "dutch": "U heeft de limiet voor verkeerde pogingen bereikt. Start de stroom opnieuw om de verificatie te voltooien.",
@@ -1284,8 +1186,7 @@
       "mandarin": "您已经达到了错误的尝试的极限。请再次重新启动流程以完成验证。",
       "portuguese": "Você atingiu o limite para tentativas erradas. Reinicie o fluxo novamente para concluir a verificação.",
       "spanish": "Has alcanzado el límite para intentos incorrectos. Reinicie el proceso para completar la verificación.",
-      "turkish": "Hatalı deneme limitine ulaştınız. Doğrulamayı tamamlamak için lütfen akışı baştan başlatın.",
-      "russian": "Вы достигли лимита неверных попыток. Пожалуйста, перезапустите процесс, чтобы завершить проверку."
+      "turkish": "Hatalı deneme limitine ulaştınız. Doğrulamayı tamamlamak için lütfen akışı baştan başlatın."
     },
     "error-new-link-generated-heading": {
       "dutch": "Nieuwe verificatielink gegenereerd",
@@ -1297,8 +1198,7 @@
       "mandarin": "生成的新验证链接",
       "portuguese": "Novo link de verificação gerado",
       "spanish": "Nuevo enlace de verificación generado",
-      "turkish": "Yeni doğrulama linki oluşturuldu.",
-      "russian": "Создана новая ссылка для проверки"
+      "turkish": "Yeni doğrulama linki oluşturuldu."
     },
     "error-no-mail-generated": {
       "dutch": "Geen e-mail gegenereerd. Start eerst de wachtwoordloze flow.",
@@ -1310,8 +1210,7 @@
       "mandarin": "没有生成邮件。请先启动无密码流。",
       "portuguese": "Nenhum correio gerado. Inicie o fluxo sem senha primeiro.",
       "spanish": "No se generó el correo. Inicie primero el proceso sin contraseña.",
-      "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın.",
-      "russian": "Письмо не было создано. Пожалуйста, сначала запустите безпарольный поток."
+      "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
     },
     "error-no-sms-generated": {
       "dutch": "Geen OTP gegenereerd. Start eerst de wachtwoordloze flow.",
@@ -1323,8 +1222,7 @@
       "mandarin": "没有生成OTP。请先启动无密码流。",
       "portuguese": "Nenhum OTP gerado. Inicie o fluxo sem senha primeiro.",
       "spanish": "No se generó OTP. Inicie primero el proceso sin contraseña.",
-      "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın.",
-      "russian": "OTP не был создан. Пожалуйста, сначала запустите безпарольный поток."
+      "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
     },
     "error-otp-expired": {
       "dutch": "OTP verlopen",
@@ -1336,8 +1234,7 @@
       "mandarin": "OTP过期",
       "portuguese": "OTP expirou",
       "spanish": "OTP expiró",
-      "turkish": "OTP'nin süresi geçti.",
-      "russian": "OTP истек"
+      "turkish": "OTP'nin süresi geçti."
     },
     "error-plan-limit-reached": {
       "dutch": "E411. Limiet bereikt",
@@ -1349,8 +1246,7 @@
       "mandarin": "E411. 限制已达到",
       "portuguese": "E411. Limite atingido",
       "spanish": "E411. Límite alcanzado",
-      "turkish": "E411. Sınır aşıldı",
-      "russian": "E411. Достигнут предел"
+      "turkish": "E411. Sınır aşıldı"
     },
     "error-recaptcha-verification-failed": {
       "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
@@ -1362,8 +1258,7 @@
       "mandarin": "Captcha 验证失败。请再试一次。",
       "portuguese": "A verificação Captcha falhou. Por favor, tente novamente.",
       "spanish": "La verificación de Captcha ha fallado. Por favor, inténtelo de nuevo.",
-      "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin.",
-      "russian": "Проверка Captcha не удалась. Пожалуйста, попробуйте снова."
+      "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin."
     },
     "error-sending-sms-failed": {
       "dutch": "Er is een fout opgetreden bij het verzenden van een sms. Probeer het opnieuw.",
@@ -1372,11 +1267,10 @@
       "german": "Es gab einen Fehler beim Senden einer SMS. Bitte versuche es erneut.",
       "japanese": "SMSの送信エラーがありました。もう一度やり直してください。",
       "korean": "SMS 전송 중 오류가 발생했습니다. 다시 시도해 주세요.",
-      "mandarin": "发送短信时出错。请再试一次。",
+      "mandarin": "发送短信的错误。请再试一遍。",
       "portuguese": "Houve um erro de envio de um SMS. Por favor, tente novamente.",
       "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
-      "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin.",
-      "russian": "Ошибка при отправке SMS. Пожалуйста, попробуйте снова."
+      "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
     },
     "something-wrong-error": {
       "dutch": "Er is iets misgegaan",
@@ -1388,8 +1282,7 @@
       "mandarin": "出问题了",
       "portuguese": "Algo deu errado",
       "spanish": "Algo salió mal",
-      "turkish": "Bir şeyler ters gitti",
-      "russian": "Что-то пошло не так"
+      "turkish": "Bir şeyler ters gitti"
     }
   }
 }
