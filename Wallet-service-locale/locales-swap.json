@@ -10,7 +10,8 @@
       "mandarin": "高级选项",
       "portuguese": "Opções avançadas",
       "spanish": "Opciones avanzadas",
-      "turkish": "Gelişmiş Seçenekler"
+      "turkish": "Gelişmiş Seçenekler",
+      "russian": "Расширенные параметры"
     },
     "apply": {
       "dutch": "Toepassen",
@@ -22,7 +23,8 @@
       "mandarin": "申请",
       "portuguese": "Aplicar",
       "spanish": "Aplicar",
-      "turkish": "Uygula"
+      "turkish": "Uygula",
+      "russian": "Применить"
     },
     "approve-swap": {
       "dutch": "Goedkeuren en ruilen",
@@ -34,7 +36,8 @@
       "mandarin": "批准和交换",
       "portuguese": "Aprovar e trocar",
       "spanish": "Aprobar e intercambiar",
-      "turkish": "Onayla ve Değiştir"
+      "turkish": "Onayla ve Değiştir",
+      "russian": "Одобрить и обменять"
     },
     "approving-token": {
       "dutch": "Overdracht van token goedkeuren",
@@ -46,7 +49,8 @@
       "mandarin": "批准token转移",
       "portuguese": "Aprovando transferência de token",
       "spanish": "Aprobando la transferencia de token",
-      "turkish": "Token aktarımı onaylanıyor"
+      "turkish": "Token aktarımı onaylanıyor",
+      "russian": "Подтверждение перевода токена"
     },
     "balance": {
       "dutch": "Evenwicht",
@@ -58,7 +62,8 @@
       "mandarin": "平衡",
       "portuguese": "Equilíbrio",
       "spanish": "Balance",
-      "turkish": "Denge"
+      "turkish": "Denge",
+      "russian": "Баланс"
     },
     "cancel": {
       "dutch": "Annuleren",
@@ -70,7 +75,8 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
-      "turkish": "İptal Et"
+      "turkish": "İptal Et",
+      "russian": "Отменить"
     },
     "confirm": {
       "dutch": "Bevestigen",
@@ -82,7 +88,8 @@
       "mandarin": "确认",
       "portuguese": "confirme",
       "spanish": "Confirmar",
-      "turkish": "Onayla"
+      "turkish": "Onayla",
+      "russian": "Подтвердить"
     },
     "confirmSwapTxn": {
       "dutch": "Bevestig swap -transactie",
@@ -94,7 +101,8 @@
       "mandarin": "确认交易交易",
       "portuguese": "Confirme a transação de troca",
       "spanish": "Confirmar la transacción de intercambio",
-      "turkish": "Değişimi Onayla"
+      "turkish": "Değişimi Onayla",
+      "russian": "Подтвердить транзакцию обмена"
     },
     "errorInvalidAddress": {
       "dutch": "Ongeldig adres",
@@ -106,7 +114,8 @@
       "mandarin": "地址无效",
       "portuguese": "Endereço inválido",
       "spanish": "Dirección no válida",
-      "turkish": "Geçersiz adres"
+      "turkish": "Geçersiz adres",
+      "russian": "Недействительный адрес"
     },
     "errorSelectToken": {
       "dutch": "Selecteer een token",
@@ -118,7 +127,8 @@
       "mandarin": "请选择一个代币",
       "portuguese": "Selecione um token",
       "spanish": "Por favor seleccione una ficha",
-      "turkish": "Lütfen bir belirteç seçin"
+      "turkish": "Lütfen bir belirteç seçin",
+      "russian": "Пожалуйста, выберите токен"
     },
     "errorTokenAmount": {
       "dutch": "Voer een bedrag in",
@@ -130,7 +140,8 @@
       "mandarin": "输入金额",
       "portuguese": "Insira um valor",
       "spanish": "Introduce una cantidad",
-      "turkish": "Bir tutar girin"
+      "turkish": "Bir tutar girin",
+      "russian": "Введите сумму"
     },
     "failedFetchingQuote": {
       "dutch": "Fout bij het ophalen van de prijs",
@@ -142,7 +153,8 @@
       "mandarin": "获取价格失败",
       "portuguese": "Erro ao obter o preço",
       "spanish": "Error al obtener el precio",
-      "turkish": "Fiyat alınamadı"
+      "turkish": "Fiyat alınamadı",
+      "russian": "Не удалось получить котировку"
     },
     "failedSwapDesc": {
       "dutch": "Er is een fout opgetreden tijdens het verwerken van de swap",
@@ -154,7 +166,8 @@
       "mandarin": "处理交换时发生错误",
       "portuguese": "Ocorreu um erro ao processar a troca",
       "spanish": "Se produjo un error al procesar el intercambio.",
-      "turkish": "Takas işlenirken bir hata oluştu"
+      "turkish": "Takas işlenirken bir hata oluştu",
+      "russian": "Ошибка при обработке обмена"
     },
     "failedSwapTitle": {
       "dutch": "Uw ruilverzoek kan niet worden verwerkt",
@@ -166,7 +179,8 @@
       "mandarin": "无法处理您的交换请求",
       "portuguese": "Sua solicitação de troca não pode ser processada",
       "spanish": "Su solicitud de intercambio no se puede procesar",
-      "turkish": "Takas talebiniz işleme alınamıyor"
+      "turkish": "Takas talebiniz işleme alınamıyor",
+      "russian": "Ваш запрос на обмен не может быть обработан"
     },
     "fetchingPrice": {
       "dutch": "Beste prijs ophalen",
@@ -178,7 +192,8 @@
       "mandarin": "获取最优惠价格",
       "portuguese": "Buscando o melhor preço",
       "spanish": "Obteniendo el mejor precio",
-      "turkish": "En iyi fiyat getiriliyor"
+      "turkish": "En iyi fiyat getiriliyor",
+      "russian": "Получение лучшей цены"
     },
     "for": {
       "dutch": "Voor",
@@ -190,7 +205,8 @@
       "mandarin": "为了",
       "portuguese": "Para",
       "spanish": "Para",
-      "turkish": "İçin"
+      "turkish": "İçin",
+      "russian": "Для"
     },
     "from": {
       "dutch": "Van:",
@@ -202,7 +218,8 @@
       "mandarin": "从：",
       "portuguese": "De:",
       "spanish": "De:",
-      "turkish": "Şuna:"
+      "turkish": "Şuna:",
+      "russian": "От:"
     },
     "fromAddress": {
       "dutch": "Van portemonnee-adres:",
@@ -214,7 +231,8 @@
       "mandarin": "来自钱包地址：",
       "portuguese": "Do endereço da carteira:",
       "spanish": "Desde la dirección de la billetera:",
-      "turkish": "Cüzdan adresinden:"
+      "turkish": "Cüzdan adresinden:",
+      "russian": "С адреса кошелька:"
     },
     "gasLimit": {
       "dutch": "Gasgrens",
@@ -226,7 +244,8 @@
       "mandarin": "气限",
       "portuguese": "Limite de gás",
       "spanish": "Límite de gas",
-      "turkish": "Jener Limiti"
+      "turkish": "Jener Limiti",
+      "russian": "Лимит газа"
     },
     "max": {
       "dutch": "Max",
@@ -238,7 +257,8 @@
       "mandarin": "最大限度",
       "portuguese": "Máx.",
       "spanish": "máx.",
-      "turkish": "Maksimum"
+      "turkish": "Maksimum",
+      "russian": "Макс."
     },
     "maxPriorityFee": {
       "dutch": "Maximale prioriteitskosten",
@@ -250,7 +270,8 @@
       "mandarin": "最大优先费",
       "portuguese": "Taxa prioritária máxima",
       "spanish": "Tarifa de prioridad máxima",
-      "turkish": "Maksimum Öncelik Ücreti"
+      "turkish": "Maksimum Öncelik Ücreti",
+      "russian": "Максимальный приоритетный сбор"
     },
     "maxSlippage": {
       "dutch": "Maximale slip",
@@ -262,7 +283,8 @@
       "mandarin": "最大滑点",
       "portuguese": "Deslizamento máximo",
       "spanish": "Deslizamiento máximo",
-      "turkish": "Maksimum Kayma"
+      "turkish": "Maksimum Kayma",
+      "russian": "Максимальное проскальзывание"
     },
     "maxTxnFee": {
       "dutch": "Max transactiekosten",
@@ -274,7 +296,8 @@
       "mandarin": "最大交易费",
       "portuguese": "Taxa de transação máxima",
       "spanish": "Tarifa de transacción máxima",
-      "turkish": "Maksimum İşlem Ücreti"
+      "turkish": "Maksimum İşlem Ücreti",
+      "russian": "Максимальная комиссия за транзакцию"
     },
     "minutes": {
       "dutch": "notulen",
@@ -286,7 +309,8 @@
       "mandarin": "分钟",
       "portuguese": "minutos",
       "spanish": "minutos",
-      "turkish": "dakika"
+      "turkish": "dakika",
+      "russian": "минуты"
     },
     "networkFee": {
       "dutch": "Netwerkkosten",
@@ -298,7 +322,8 @@
       "mandarin": "网络费",
       "portuguese": "Taxa de rede",
       "spanish": "Tarifa de red",
-      "turkish": "Ağ Ücreti"
+      "turkish": "Ağ Ücreti",
+      "russian": "Сетевой сбор"
     },
     "previewSwap": {
       "dutch": "Voorbeeld wisselen",
@@ -310,7 +335,8 @@
       "mandarin": "预览交换",
       "portuguese": "Pré-visualização da troca",
       "spanish": "Intercambio de vista previa",
-      "turkish": "Önizleme Değiştirme"
+      "turkish": "Önizleme Değiştirme",
+      "russian": "Предварительный просмотр обмена"
     },
     "price": {
       "dutch": "Prijs",
@@ -322,7 +348,8 @@
       "mandarin": "价格",
       "portuguese": "Preço",
       "spanish": "Precio",
-      "turkish": "Fiyat"
+      "turkish": "Fiyat",
+      "russian": "Цена"
     },
     "priceImpact": {
       "dutch": "Prijsimpact",
@@ -334,7 +361,8 @@
       "mandarin": "价格影响",
       "portuguese": "Impacto no preço",
       "spanish": "Impacto en el precio",
-      "turkish": "Fiyat Etkisi"
+      "turkish": "Fiyat Etkisi",
+      "russian": "Влияние на цену"
     },
     "processIn": {
       "dutch": "Verwerken",
@@ -346,7 +374,8 @@
       "mandarin": "过程中",
       "portuguese": "Processo em",
       "spanish": "Procesar",
-      "turkish": "İşlem"
+      "turkish": "İşlem",
+      "russian": "Обработать"
     },
     "reviewOrder": {
       "dutch": "Bekijk de ruilorder",
@@ -358,7 +387,8 @@
       "mandarin": "查看掉期订单",
       "portuguese": "Revise o pedido de troca",
       "spanish": "Revisar orden de intercambio",
-      "turkish": "Takas Siparişini İnceleyin"
+      "turkish": "Takas Siparişini İnceleyin",
+      "russian": "Просмотреть заказ на обмен"
     },
     "searchToken": {
       "dutch": "Zoek door {0} tokens",
@@ -370,7 +400,8 @@
       "mandarin": "搜索 {0} 个代币",
       "portuguese": "Pesquise {0} tokens",
       "spanish": "Busca entre {0} tokens",
-      "turkish": "{0} token arasında arama yapın"
+      "turkish": "{0} token arasında arama yapın",
+      "russian": "Поиск по {0} токенам"
     },
     "selectAToken": {
       "dutch": "Selecteer een token",
@@ -382,7 +413,8 @@
       "mandarin": "选择一个代币",
       "portuguese": "Selecione um token",
       "spanish": "Seleccione una ficha",
-      "turkish": "Bir belirteç seçin"
+      "turkish": "Bir belirteç seçin",
+      "russian": "Выберите токен"
     },
     "selectToken": {
       "dutch": "Selecteer token",
@@ -394,7 +426,8 @@
       "mandarin": "选择令牌",
       "portuguese": "Selecione token",
       "spanish": "Seleccionar token",
-      "turkish": "Token seçin"
+      "turkish": "Token seçin",
+      "russian": "Выбрать токен"
     },
     "sendToAddress": {
       "dutch": "Stuur geld naar een ander portemonnee-adres",
@@ -406,7 +439,8 @@
       "mandarin": "将资金发送到另一个钱包地址",
       "portuguese": "Envie fundos para outro endereço de carteira",
       "spanish": "Enviar fondos a otra dirección de billetera",
-      "turkish": "Parayı başka bir cüzdan adresine gönderin"
+      "turkish": "Parayı başka bir cüzdan adresine gönderin",
+      "russian": "Отправить средства на другой адрес кошелька"
     },
     "slippageTolerance": {
       "dutch": "Sliptolerantie",
@@ -418,7 +452,8 @@
       "mandarin": "滑移容差",
       "portuguese": "Tolerância ao deslizamento",
       "spanish": "Tolerancia al deslizamiento",
-      "turkish": "Kayma Toleransı"
+      "turkish": "Kayma Toleransı",
+      "russian": "Допуск проскальзывания"
     },
     "swap": {
       "dutch": "Ruil",
@@ -430,7 +465,8 @@
       "mandarin": "交换",
       "portuguese": "Trocar",
       "spanish": "Intercambio",
-      "turkish": "Takas"
+      "turkish": "Takas",
+      "russian": "Обмен"
     },
     "swapSuccess": {
       "dutch": "Wissel succes!",
@@ -442,7 +478,8 @@
       "mandarin": "兑换成功！",
       "portuguese": "Sucesso na troca!",
       "spanish": "¡Intercambia éxito!",
-      "turkish": "Başarıyı değiştir!"
+      "turkish": "Başarıyı değiştir!",
+      "russian": "Обмен выполнен успешно!"
     },
     "swapSuccessDetails": {
       "dutch": "Uw ruilverzoek is succesvol verwerkt en afgerond.",
@@ -454,7 +491,8 @@
       "mandarin": "您的交换请求已成功处理并完成。",
       "portuguese": "Sua solicitação de troca foi processada e concluída com sucesso.",
       "spanish": "Su solicitud de intercambio fue procesada y completada exitosamente.",
-      "turkish": "Takas talebiniz işleme alındı ​​ve başarıyla tamamlandı."
+      "turkish": "Takas talebiniz işleme alındı ​​ve başarıyla tamamlandı.",
+      "russian": "Ваш запрос на обмен был успешно выполнен."
     },
     "swapping-token": {
       "dutch": "Token ruilen",
@@ -466,7 +504,8 @@
       "mandarin": "交换token",
       "portuguese": "Trocando token",
       "spanish": "Intercambiar token",
-      "turkish": "Değiştirme token"
+      "turkish": "Değiştirme token",
+      "russian": "Обмен токена"
     },
     "to": {
       "dutch": "Naar:",
@@ -478,7 +517,8 @@
       "mandarin": "到：",
       "portuguese": "Para:",
       "spanish": "A:",
-      "turkish": "İçin:"
+      "turkish": "İçin:",
+      "russian": "На:"
     },
     "toAddress": {
       "dutch": "Naar portemonnee-adres:",
@@ -490,7 +530,8 @@
       "mandarin": "至钱包地址：",
       "portuguese": "Para o endereço da carteira:",
       "spanish": "A la dirección de la billetera:",
-      "turkish": "Cüzdan adresine:"
+      "turkish": "Cüzdan adresine:",
+      "russian": "На адрес кошелька:"
     },
     "tokens": {
       "dutch": "Munten",
@@ -502,7 +543,8 @@
       "mandarin": "令牌",
       "portuguese": "Tokens",
       "spanish": "Tokens",
-      "turkish": "Token"
+      "turkish": "Token",
+      "russian": "Токены"
     },
     "transactionDeadline": {
       "dutch": "Transactiedeadline",
@@ -514,7 +556,8 @@
       "mandarin": "交易截止日期",
       "portuguese": "Prazo de transação",
       "spanish": "Fecha límite de transacción",
-      "turkish": "İşlem Son Tarihi"
+      "turkish": "İşlem Son Tarihi",
+      "russian": "Срок выполнения транзакции"
     },
     "txnCost": {
       "dutch": "Transactiekosten",
@@ -526,7 +569,8 @@
       "mandarin": "交易成本",
       "portuguese": "Custo da transação",
       "spanish": "Costo de la transacción",
-      "turkish": "İşlem Ücreti"
+      "turkish": "İşlem Ücreti",
+      "russian": "Стоимость транзакции"
     },
     "txnFee": {
       "dutch": "Transactiekosten",
@@ -538,7 +582,8 @@
       "mandarin": "手续费",
       "portuguese": "Taxa de transação",
       "spanish": "Tarifa de transacción",
-      "turkish": "İşlem Ücreti"
+      "turkish": "İşlem Ücreti",
+      "russian": "Комиссия за транзакцию"
     },
     "useMax": {
       "dutch": "Gebruik Max",
@@ -550,7 +595,8 @@
       "mandarin": "使用最大",
       "portuguese": "Use max",
       "spanish": "Usar max",
-      "turkish": "Maksimum kullanmak"
+      "turkish": "Maksimum kullanmak",
+      "russian": "Использовать максимум"
     },
     "value": {
       "dutch": "Waarde",
@@ -562,7 +608,8 @@
       "mandarin": "价值",
       "portuguese": "Valor",
       "spanish": "Valor",
-      "turkish": "Miktar"
+      "turkish": "Miktar",
+      "russian": "Значение"
     },
     "viewTransaction": {
       "dutch": "Transactie bekijken",
@@ -574,7 +621,8 @@
       "mandarin": "查看交易",
       "portuguese": "Ver transação",
       "spanish": "Ver transacción",
-      "turkish": "İşlemi Görüntüle"
+      "turkish": "İşlemi Görüntüle",
+      "russian": "Просмотреть транзакцию"
     },
     "youPay": {
       "dutch": "Jij betaalt",
@@ -586,7 +634,8 @@
       "mandarin": "你付钱",
       "portuguese": "Você paga",
       "spanish": "tu pagas",
-      "turkish": "Sen öde"
+      "turkish": "Sen öde",
+      "russian": "Вы платите"
     },
     "youReceive": {
       "dutch": "Jij ontvangt",
@@ -598,7 +647,8 @@
       "mandarin": "您收到",
       "portuguese": "Você recebe",
       "spanish": "tu recibes",
-      "turkish": "Alırsın"
+      "turkish": "Alırsın",
+      "russian": "Вы получаете"
     },
     "yourExchange": {
       "dutch": "Uw uitwisseling",
@@ -610,7 +660,8 @@
       "mandarin": "您的交流",
       "portuguese": "Sua troca",
       "spanish": "Tu intercambio",
-      "turkish": "Senin Değişim"
+      "turkish": "Senin Değişim",
+      "russian": "Ваш обмен"
     },
     "slippageToleranceTooltip": {
       "dutch": "Uw transactie wordt niet voltooid als de prijs boven dit percentage komt.",
@@ -622,7 +673,8 @@
       "mandarin": "如果价格超出此百分比，您的交易将无法完成。",
       "portuguese": "Sua transação não será concluída se o preço ultrapassar essa porcentagem.",
       "spanish": "Su transacción no se completará si el precio supera este porcentaje.",
-      "turkish": "Fiyatın bu yüzdeyi aşması durumunda işleminiz tamamlanmayacaktır."
+      "turkish": "Fiyatın bu yüzdeyi aşması durumunda işleminiz tamamlanmayacaktır.",
+      "russian": "Ваша транзакция не будет завершена, если цена выйдет за пределы этого процента."
     },
     "txnDeadlineTooltip": {
       "dutch": "De transactie wordt geannuleerd als deze langer dan deze tijdslimiet in behandeling blijft.",
@@ -634,7 +686,8 @@
       "mandarin": "如果交易等待时间超过此时间限制，交易将被取消。",
       "portuguese": "A transação será cancelada se permanecer pendente por mais tempo que esse prazo.",
       "spanish": "La transacción se cancelará si permanece pendiente más tiempo que este límite de tiempo.",
-      "turkish": "Bu süre sınırından daha uzun süre beklemede kalması durumunda işlem iptal edilecektir."
+      "turkish": "Bu süre sınırından daha uzun süre beklemede kalması durumunda işlem iptal edilecektir.",
+      "russian": "Транзакция будет отменена, если она останется в ожидании дольше этого временного ограничения."
     }
   }
 }

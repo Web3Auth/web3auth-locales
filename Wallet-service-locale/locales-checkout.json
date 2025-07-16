@@ -10,7 +10,8 @@
       "mandarin": "所有付款方式",
       "portuguese": "Todos os métodos de pagamento",
       "spanish": "Todos los métodos de pago",
-      "turkish": "Tüm ödeme yöntemleri"
+      "turkish": "Tüm ödeme yöntemleri",
+      "russian": "Все способы оплаты"
     },
     "cancel": {
       "dutch": "Annuleren",
@@ -22,7 +23,8 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
-      "turkish": "İptal etmek"
+      "turkish": "İptal etmek",
+      "russian": "Отмена"
     },
     "close": {
       "dutch": "Dichtbij",
@@ -34,7 +36,8 @@
       "mandarin": "关闭",
       "portuguese": "Fechar",
       "spanish": "Cerrar",
-      "turkish": "Kapalı"
+      "turkish": "Kapalı",
+      "russian": "Закрыть"
     },
     "continue": {
       "dutch": "Doorgaan",
@@ -46,7 +49,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam etmek"
+      "turkish": "Devam etmek",
+      "russian": "Продолжить"
     },
     "for": {
       "dutch": "voor",
@@ -58,7 +62,8 @@
       "mandarin": "为了",
       "portuguese": "para",
       "spanish": "para",
-      "turkish": "için"
+      "turkish": "için",
+      "russian": "для"
     },
     "limit": {
       "dutch": "Begrenzing:",
@@ -70,7 +75,8 @@
       "mandarin": "限制：",
       "portuguese": "Limite:",
       "spanish": "Límite:",
-      "turkish": "Sınır:"
+      "turkish": "Sınır:",
+      "russian": "Лимит:"
     },
     "noProviderSelected": {
       "dutch": "Nog geen providers geselecteerd",
@@ -82,7 +88,8 @@
       "mandarin": "尚未选择提供商",
       "portuguese": "Nenhum provedor selecionado ainda",
       "spanish": "Aún no se han seleccionado proveedores",
-      "turkish": "Henüz Sağlayıcı Seçilmedi"
+      "turkish": "Henüz Sağlayıcı Seçilmedi",
+      "russian": "Провайдеры еще не выбраны"
     },
     "payWith": {
       "dutch": "Betaal met",
@@ -94,7 +101,8 @@
       "mandarin": "使用。。。支付",
       "portuguese": "Pagar com",
       "spanish": "Pagar con",
-      "turkish": "İle ödemek"
+      "turkish": "İle ödemek",
+      "russian": "Оплатить с помощью"
     },
     "poweredBy": {
       "dutch": "Mogelijk gemaakt door {0}",
@@ -106,7 +114,8 @@
       "mandarin": "由{0}提供支持",
       "portuguese": "Desenvolvido por {0}",
       "spanish": "Desarrollado por {0}",
-      "turkish": "{0} tarafından desteklenmektedir"
+      "turkish": "{0} tarafından desteklenmektedir",
+      "russian": "Работает на {0}"
     },
     "provider": {
       "dutch": "Aanbieder",
@@ -118,7 +127,8 @@
       "mandarin": "提供者",
       "portuguese": "Fornecedor",
       "spanish": "Proveedor",
-      "turkish": "Sağlayıcı"
+      "turkish": "Sağlayıcı",
+      "russian": "Провайдер"
     },
     "providerSelectionMsg": {
       "dutch": "Selecteer wat u wilt kopen en betaalmethode om offertes van beschikbare aanbieders te krijgen",
@@ -130,7 +140,8 @@
       "mandarin": "选择要购买的商品和付款方式，以从可用供应商处获取报价",
       "portuguese": "Selecione o que deseja comprar e o método de pagamento para obter cotações dos fornecedores disponíveis",
       "spanish": "Seleccione lo que desea comprar y el método de pago para obtener cotizaciones de los proveedores disponibles.",
-      "turkish": "Mevcut sağlayıcılardan teklif almak için ne satın almak istediğinizi ve ödeme yöntemini seçin"
+      "turkish": "Mevcut sağlayıcılardan teklif almak için ne satın almak istediğinizi ve ödeme yöntemini seçin",
+      "russian": "Выберите, что вы хотите купить, и способ оплаты, чтобы получить котировки от доступных провайдеров"
     },
     "rates": {
       "dutch": "Tarieven",
@@ -142,7 +153,8 @@
       "mandarin": "价格",
       "portuguese": "Cotações",
       "spanish": "Tarifas",
-      "turkish": "Oranlar"
+      "turkish": "Oranlar",
+      "russian": "Курсы"
     },
     "redirectMsg": {
       "dutch": "U wordt doorgestuurd naar de pagina van de derde partij",
@@ -154,7 +166,8 @@
       "mandarin": "您将被重定向到第三方页面",
       "portuguese": "Você será redirecionado para a página de terceiros",
       "spanish": "Serás redirigido a la página del tercero.",
-      "turkish": "Üçüncü taraf sayfasına yönlendirileceksiniz"
+      "turkish": "Üçüncü taraf sayfasına yönlendirileceksiniz",
+      "russian": "Вы будете перенаправлены на стороннюю страницу"
     },
     "selectProvider": {
       "dutch": "Selecteer Aanbieder",
@@ -166,7 +179,8 @@
       "mandarin": "选择提供商",
       "portuguese": "Selecione o provedor",
       "spanish": "Seleccionar Proveedor",
-      "turkish": "Sağlayıcı Seçin"
+      "turkish": "Sağlayıcı Seçin",
+      "russian": "Выбрать провайдера"
     },
     "serviceFee": {
       "dutch": "servicekosten",
@@ -178,7 +192,8 @@
       "mandarin": "服务费",
       "portuguese": "taxa de serviço",
       "spanish": "tarifa de servicio",
-      "turkish": "servis ücreti"
+      "turkish": "servis ücreti",
+      "russian": "Комиссия за обслуживание"
     },
     "topupSuccess": {
       "dutch": "Opwaarderen succesvol",
@@ -190,7 +205,8 @@
       "mandarin": "充值成功",
       "portuguese": "Recarga bem-sucedida",
       "spanish": "Recarga exitosa",
-      "turkish": "Yükleme Başarılı"
+      "turkish": "Yükleme Başarılı",
+      "russian": "Пополнение успешно"
     },
     "transactionFee": {
       "dutch": "Transactiekosten",
@@ -202,7 +218,8 @@
       "mandarin": "手续费",
       "portuguese": "Taxa de transação",
       "spanish": "Tarifa de transacción",
-      "turkish": "İşlem ücreti"
+      "turkish": "İşlem ücreti",
+      "russian": "Комиссия за транзакцию"
     },
     "validationMsg": {
       "dutch": "Houd uw identiteitskaart/paspoort gereed om de aankoop te voltooien.",
@@ -214,7 +231,8 @@
       "mandarin": "请准备好您的身份证/护照以完成购买。",
       "portuguese": "Por favor, prepare o seu Bilhete de Identidade/Passaporte para concluir a compra.",
       "spanish": "Por favor prepara tu DNI/Pasaporte para completar la compra.",
-      "turkish": "Satın alma işlemini tamamlamak için lütfen Kimlik Kartınızı/Pasaportunuzu hazırlayın."
+      "turkish": "Satın alma işlemini tamamlamak için lütfen Kimlik Kartınızı/Pasaportunuzu hazırlayın.",
+      "russian": "Пожалуйста, подготовьте удостоверение личности или паспорт для завершения покупки."
     },
     "value": {
       "dutch": "Waarde:",
@@ -226,7 +244,8 @@
       "mandarin": "价值：",
       "portuguese": "Valor:",
       "spanish": "Valor:",
-      "turkish": "Değer:"
+      "turkish": "Değer:",
+      "russian": "Значение:"
     },
     "youBuy": {
       "dutch": "Je koopt",
@@ -238,7 +257,8 @@
       "mandarin": "你买",
       "portuguese": "Você compra",
       "spanish": "Tu compras",
-      "turkish": "Sen satın al"
+      "turkish": "Sen satın al",
+      "russian": "Вы покупаете"
     },
     "youPay": {
       "dutch": "Je betaalt",
@@ -250,7 +270,8 @@
       "mandarin": "你付钱",
       "portuguese": "Você paga",
       "spanish": "Tu pagas",
-      "turkish": "Öde"
+      "turkish": "Öde",
+      "russian": "Вы платите"
     },
     "youReceive": {
       "dutch": "Jij ontvangt",
@@ -262,7 +283,8 @@
       "mandarin": "你收到",
       "portuguese": "Tu recebes",
       "spanish": "Recibes",
-      "turkish": "Aldığın"
+      "turkish": "Aldığın",
+      "russian": "Вы получаете"
     },
     "youReceived": {
       "dutch": "Je hebt ontvangen",
@@ -274,7 +296,8 @@
       "mandarin": "你收到了",
       "portuguese": "Você recebeu",
       "spanish": "Has recibido",
-      "turkish": "Almış olduğunuz"
+      "turkish": "Almış olduğunuz",
+      "russian": "Вы получили"
     }
   }
 }

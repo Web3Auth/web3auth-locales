@@ -10,7 +10,8 @@
       "mandarin": "连接到应用程序",
       "portuguese": "Conectar ao aplicativo",
       "spanish": "Conectarse a la aplicación",
-      "turkish": "Bağlan uygulamaya"
+      "turkish": "Bağlan uygulamaya",
+      "russian": "Подключиться к приложению"
     },
     "heading2": {
       "dutch": "Bezoek de toepassingssite",
@@ -22,7 +23,8 @@
       "mandarin": "访问申请站点",
       "portuguese": "Visite site de inscrição",
       "spanish": "Visite el sitio de solicitud",
-      "turkish": "Bağlantı sitesine git"
+      "turkish": "Bağlantı sitesine git",
+      "russian": "Посетить сайт приложения"
     },
     "heading3": {
       "dutch": "Selecteer WalletConnect",
@@ -34,7 +36,8 @@
       "mandarin": "选择WalletConnect",
       "portuguese": "Selecione WalleTConnect",
       "spanish": "Seleccionar WalletConnect",
-      "turkish": "WalletConnect'i seçin"
+      "turkish": "WalletConnect'i seçin",
+      "russian": "Выберите WalletConnect"
     },
     "heading4": {
       "dutch": "Klik op 'Kopiëren naar klembord'",
@@ -46,7 +49,8 @@
       "mandarin": "单击“复制到剪贴板”",
       "portuguese": "Clique em 'Copiar para a área de transferência'",
       "spanish": "Haga clic en 'Copiar al portapapeles'",
-      "turkish": "'Panoya' düğmesine tıklayın"
+      "turkish": "'Panoya' düğmesine tıklayın",
+      "russian": "Нажмите «Копировать в буфер обмена»"
     },
     "heading5": {
       "dutch": "Plak de QR -link hieronder",
@@ -58,7 +62,8 @@
       "mandarin": "粘贴QR链接下面",
       "portuguese": "Cole o link QR abaixo",
       "spanish": "Pegar el enlace QR a continuación",
-      "turkish": "QR bağlantısını aşağıya yapıştırın"
+      "turkish": "QR bağlantısını aşağıya yapıştırın",
+      "russian": "Вставьте QR-ссылку ниже"
     },
     "heading6": {
       "dutch": "Accepteer de algemene voorwaarden",
@@ -70,7 +75,8 @@
       "mandarin": "接受条款和条件",
       "portuguese": "Aceita termos e Condições",
       "spanish": "Aceptar terminos y condiciones",
-      "turkish": "Kullanım Şartlarını kabul edin"
+      "turkish": "Kullanım Şartlarını kabul edin",
+      "russian": "Примите условия и положения"
     },
     "heading7": {
       "dutch": "Autoriseer een aanvraag",
@@ -82,7 +88,8 @@
       "mandarin": "授权申请",
       "portuguese": "Autorize Aplicação",
       "spanish": "Autorizar la aplicación",
-      "turkish": "Başvuru onaylayın"
+      "turkish": "Başvuru onaylayın",
+      "russian": "Авторизовать приложение"
     },
     "heading8": {
       "dutch": "Jullie zijn er klaar voor!",
@@ -94,7 +101,8 @@
       "mandarin": "你们都设定了！",
       "portuguese": "Estás pronto!",
       "spanish": "¡Estas listo!",
-      "turkish": "Hazır ol!"
+      "turkish": "Hazır ol!",
+      "russian": "Все готово!"
     },
     "subHeading1": {
       "dutch": "Toegang tot de Web3 -markt in enkele stappen",
@@ -106,7 +114,8 @@
       "mandarin": "通过几个步骤访问Web3市场",
       "portuguese": "Acesse o Web3 Marketplace em algumas etapas",
       "spanish": "Acceda al mercado Web3 en unos pocos pasos",
-      "turkish": "Web3 mağazasını birkaç adımda erişin"
+      "turkish": "Web3 mağazasını birkaç adımda erişin",
+      "russian": "Доступ к маркетплейсу Web3 в несколько шагов"
     },
     "subHeading2": {
       "dutch": "Ga naar de toepassing die WalletConnect heeft",
@@ -118,7 +127,8 @@
       "mandarin": "转到具有WalletConnect的应用程序",
       "portuguese": "Vá para a aplicação que tenha WalletConnect",
       "spanish": "Ir a la aplicación que tiene WalletConnect",
-      "turkish": "Uygulamadaki WalletConnect ile bağlantılı bir uygulamaya git"
+      "turkish": "Uygulamadaki WalletConnect ile bağlantılı bir uygulamaya git",
+      "russian": "Перейдите в приложение с WalletConnect"
     },
     "subHeading3": {
       "dutch": "Uit de lijst met portefeuilles op toepassing",
@@ -130,7 +140,8 @@
       "mandarin": "从应用程序的钱包列表中",
       "portuguese": "Da lista de carteiras na aplicação",
       "spanish": "De la lista de billeteras en la aplicación",
-      "turkish": "Uygulamadaki portföyler listesinden"
+      "turkish": "Uygulamadaki portföyler listesinden",
+      "russian": "Из списка кошельков в приложении"
     },
     "subHeading4": {
       "dutch": "Gelegen onder de QR -code",
@@ -142,7 +153,8 @@
       "mandarin": "位于QR码下方",
       "portuguese": "Localizado abaixo do código QR",
       "spanish": "Ubicado debajo del código QR",
-      "turkish": "QR kodu altında"
+      "turkish": "QR kodu altında",
+      "russian": "Расположено под QR-кодом"
     },
     "subHeading5": {
       "dutch": "Of scan de QR -code rechtstreeks",
@@ -154,7 +166,8 @@
       "mandarin": "或直接扫描QR码",
       "portuguese": "Ou digitalize o código QR diretamente",
       "spanish": "O escanear el código QR directamente",
-      "turkish": "Veya QR kodunu doğrudan tarayın"
+      "turkish": "Veya QR kodunu doğrudan tarayın",
+      "russian": "Или отсканируйте QR-код напрямую"
     },
     "subHeading6": {
       "dutch": "Keer terug naar de aanvraag om te accepteren en te ondertekenen",
@@ -166,7 +179,8 @@
       "mandarin": "返回申请接受和签名",
       "portuguese": "Retorne ao aplicativo para aceitar e assinar",
       "spanish": "Volver a la solicitud para aceptar y firmar",
-      "turkish": "Uygulamaya dönerek onaylayın ve imzalayın"
+      "turkish": "Uygulamaya dönerek onaylayın ve imzalayın",
+      "russian": "Вернитесь в приложение, чтобы принять и подписать"
     },
     "subHeading7": {
       "dutch": "Goedkeuren het bericht van de aanvraag om door te gaan",
@@ -178,7 +192,8 @@
       "mandarin": "批准申请的消息继续",
       "portuguese": "Aprovar a mensagem do aplicativo para continuar",
       "spanish": "Aprobar el mensaje de la aplicación para continuar",
-      "turkish": "Uygulamanın iletisini onaylayarak devam edin"
+      "turkish": "Uygulamanın iletisini onaylayarak devam edin",
+      "russian": "Одобрите сообщение приложения для продолжения"
     },
     "subHeading8": {
       "dutch": "Keer terug naar de aanvraag om te beginnen met verkennen!",
@@ -190,7 +205,8 @@
       "mandarin": "返回应用程序开始探索！",
       "portuguese": "Volte ao aplicativo para começar a explorar!",
       "spanish": "¡Regrese a la aplicación para comenzar a explorar!",
-      "turkish": "Uygulamaya dönerek keşfetmek için başlayın!"
+      "turkish": "Uygulamaya dönerek keşfetmek için başlayın!",
+      "russian": "Вернитесь в приложение, чтобы начать исследовать!"
     }
   },
   "error": {
@@ -204,7 +220,8 @@
       "mandarin": "相机已经在使用吗？",
       "portuguese": "A câmera já está em uso?",
       "spanish": "¿La cámara ya está en uso?",
-      "turkish": "Kamera zaten kullanılıyor mu?"
+      "turkish": "Kamera zaten kullanılıyor mu?",
+      "russian": "Камера уже используется?"
     },
     "grantCameraPermission": {
       "dutch": "U moet toestemming van de camera toegang geven",
@@ -216,7 +233,8 @@
       "mandarin": "您需要授予相机访问权限",
       "portuguese": "Você precisa conceder permissão de acesso à câmera",
       "spanish": "Necesita otorgar permiso de acceso a la cámara",
-      "turkish": "Kamera erişim izni verilmesi gerekiyor"
+      "turkish": "Kamera erişim izni verilmesi gerekiyor",
+      "russian": "Вам нужно предоставить разрешение на доступ к камере"
     },
     "installedCameraErr": {
       "dutch": "Geïnstalleerde camera's zijn niet geschikt",
@@ -228,7 +246,8 @@
       "mandarin": "安装的摄像头不合适",
       "portuguese": "Câmeras instaladas não são adequadas",
       "spanish": "Las cámaras instaladas no son adecuadas",
-      "turkish": "Yüklü kamera uygun değil"
+      "turkish": "Yüklü kamera uygun değil",
+      "russian": "Установленные камеры не подходят"
     },
     "invalidUrl": {
       "dutch": "Ongeldige portemonnee verbind url",
@@ -240,7 +259,8 @@
       "mandarin": "无效的钱包连接URL",
       "portuguese": "Carteira inválida URL de conexão",
       "spanish": "URL de conexión de billetera no válida",
-      "turkish": "Hatalı bir cüzdan bağlantısı URL"
+      "turkish": "Hatalı bir cüzdan bağlantısı URL",
+      "russian": "Неверный URL подключения кошелька"
     },
     "noCamera": {
       "dutch": "Geen camera op dit apparaat",
@@ -252,7 +272,8 @@
       "mandarin": "该设备上没有相机",
       "portuguese": "Nenhuma câmera neste dispositivo",
       "spanish": "No hay cámara en este dispositivo",
-      "turkish": "Bu cihazda kamera yok"
+      "turkish": "Bu cihazda kamera yok",
+      "russian": "На этом устройстве нет камеры"
     },
     "qrReaderErr": {
       "dutch": "QR Reader Fout",
@@ -264,7 +285,8 @@
       "mandarin": "QR阅读器错误",
       "portuguese": "Erro do leitor QR",
       "spanish": "Error del lector QR",
-      "turkish": "QR Okuyucu Hatası"
+      "turkish": "QR Okuyucu Hatası",
+      "russian": "Ошибка считывателя QR"
     },
     "secureContext": {
       "dutch": "Veilige context vereist (https, localhost)",
@@ -276,7 +298,8 @@
       "mandarin": "需要的安全上下文（HTTPS，Localhost）",
       "portuguese": "Contexto seguro necessário (https, localhost)",
       "spanish": "Contexto seguro requerido (https, localhost)",
-      "turkish": "Güvenli bağlam gerekli (HTTPS, localhost)"
+      "turkish": "Güvenli bağlam gerekli (HTTPS, localhost)",
+      "russian": "Требуется безопасный контекст (HTTPS, localhost)"
     },
     "streamErr": {
       "dutch": "Stream API niet ondersteund",
@@ -288,7 +311,8 @@
       "mandarin": "流不支持的流API",
       "portuguese": "API de fluxo não suportada",
       "spanish": "API de transmisión no es compatible",
-      "turkish": "Stream API desteklenmiyor"
+      "turkish": "Stream API desteklenmiyor",
+      "russian": "API потоков не поддерживается"
     },
     "v1Deprecated": {
       "dutch": "V1 is verouderd",
@@ -300,7 +324,8 @@
       "mandarin": "V1被弃用",
       "portuguese": "v1 está preguiçoso",
       "spanish": "V1 está en desuso",
-      "turkish": "V1 kullanımdan kaldırıldı"
+      "turkish": "V1 kullanımdan kaldırıldı",
+      "russian": "v1 устарел"
     },
     "wcInit": {
       "dutch": "Er ging iets mis tijdens de initialisatie.",
@@ -312,7 +337,8 @@
       "mandarin": "初始化期间出了问题。",
       "portuguese": "Algo deu errado durante a inicialização.",
       "spanish": "Algo salió mal durante la inicialización.",
-      "turkish": "Başlatma sırasında bir şeyler ters gitti."
+      "turkish": "Başlatma sırasında bir şeyler ters gitti.",
+      "russian": "Что-то пошло не так при инициализации."
     }
   },
   "walletConnect": {
@@ -326,7 +352,8 @@
       "mandarin": "连接",
       "portuguese": "Conectar",
       "spanish": "Conectar",
-      "turkish": "Bağlan"
+      "turkish": "Bağlan",
+      "russian": "Подключиться"
     },
     "connected": {
       "dutch": "Verbonden",
@@ -338,7 +365,8 @@
       "mandarin": "连接的",
       "portuguese": "Conectado",
       "spanish": "Conectado",
-      "turkish": "Bağlı"
+      "turkish": "Bağlı",
+      "russian": "Подключено"
     },
     "connectedApplications": {
       "dutch": "Verbonden toepassingen",
@@ -350,7 +378,8 @@
       "mandarin": "连接的应用程序",
       "portuguese": "Aplicações conectadas",
       "spanish": "Aplicaciones conectadas",
-      "turkish": "Bağlı uygulamalar"
+      "turkish": "Bağlı uygulamalar",
+      "russian": "Подключенные приложения"
     },
     "connectedSuccess": {
       "dutch": "Succesvol verbonden",
@@ -362,7 +391,8 @@
       "mandarin": "成功连接",
       "portuguese": "Conectado com sucesso",
       "spanish": "Conectado con éxito",
-      "turkish": "Bağlantı başarıyla yapıldı"
+      "turkish": "Bağlantı başarıyla yapıldı",
+      "russian": "Успешно подключено"
     },
     "connectedWithWalletConnect": {
       "dutch": "Verbonden met WalletConnect",
@@ -374,7 +404,8 @@
       "mandarin": "与WalletConnect连接",
       "portuguese": "Conectado com WalletConnect",
       "spanish": "Conectado con WalletConnect",
-      "turkish": "WalletConnect ile bağlı"
+      "turkish": "WalletConnect ile bağlı",
+      "russian": "Подключено через WalletConnect"
     },
     "disConnect": {
       "dutch": "Loskoppelen",
@@ -386,7 +417,8 @@
       "mandarin": "断开",
       "portuguese": "desconectar",
       "spanish": "Desconectar",
-      "turkish": "Bağlantıyı kes"
+      "turkish": "Bağlantıyı kes",
+      "russian": "Отключиться"
     },
     "hideGuide": {
       "dutch": "Gids verbergen",
@@ -398,7 +430,8 @@
       "mandarin": "隐藏指南",
       "portuguese": "Ocultar guia",
       "spanish": "Ocultar guía",
-      "turkish": "Rehberi gizle"
+      "turkish": "Rehberi gizle",
+      "russian": "Скрыть руководство"
     },
     "maxAppConnected": {
       "dutch": "Maximale toepassingen verbonden",
@@ -410,7 +443,8 @@
       "mandarin": "连接的最大应用",
       "portuguese": "Aplicações máximas conectadas",
       "spanish": "Aplicaciones máximas conectadas",
-      "turkish": "Bağlı uygulama maksimum"
+      "turkish": "Bağlı uygulama maksimum",
+      "russian": "Максимальное количество подключенных приложений"
     },
     "pasteQrLinkHere": {
       "dutch": "Plak hier de QR -link",
@@ -422,7 +456,8 @@
       "mandarin": "粘贴QR链接在这里",
       "portuguese": "Cole o link QR aqui",
       "spanish": "Pegar el enlace QR aquí",
-      "turkish": "QR bağlantısını buraya yapıştırın"
+      "turkish": "QR bağlantısını buraya yapıştırın",
+      "russian": "Вставьте QR-ссылку сюда"
     },
     "pasteWalletConnect": {
       "dutch": "Plak WalletConnect QR -link hieronder",
@@ -434,7 +469,8 @@
       "mandarin": "粘贴WalletConnect QR链接下面",
       "portuguese": "Cole o link QR WalletConnect abaixo",
       "spanish": "Pegar el enlace QR de WalletConnect a continuación",
-      "turkish": "WalletConnect QR bağlantısını aşağıda yapıştırın"
+      "turkish": "WalletConnect QR bağlantısını aşağıda yapıştırın",
+      "russian": "Вставьте ниже QR-ссылку WalletConnect"
     },
     "showGuide": {
       "dutch": "Toon gids",
@@ -446,7 +482,8 @@
       "mandarin": "展示指南",
       "portuguese": "Mostrar Guia",
       "spanish": "Mostrar Guía",
-      "turkish": "Rehberi göster"
+      "turkish": "Rehberi göster",
+      "russian": "Показать руководство"
     },
     "takeMeTo": {
       "dutch": "Breng me naar",
@@ -458,7 +495,8 @@
       "mandarin": "带我去",
       "portuguese": "Leva me para",
       "spanish": "Ir a",
-      "turkish": "Bana bana"
+      "turkish": "Bana bana",
+      "russian": "Отправить меня к"
     }
   }
 }
