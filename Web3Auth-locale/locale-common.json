@@ -1272,6 +1272,30 @@
       "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
       "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
     },
+    "error-test-account-invalid-email-flow-type": {
+      "dutch": "Het linkstroomtype wordt niet ondersteund voor testaccounts. Gebruik in plaats daarvan de codestroom.",
+      "english": "Link flow type is not supported for test account. Please use code flow instead.",
+      "french": "Le type de flux de liens n'est pas pris en charge pour le compte de test. Veuillez utiliser le flux de codes.",
+      "german": "Der Link-Flow-Typ wird für Testkonten nicht unterstützt. Verwenden Sie stattdessen Code-Flow.",
+      "japanese": "テストアカウントではリンクフロータイプはサポートされていません。代わりにコードフローを使用してください。",
+      "korean": "테스트 계정에서는 링크 흐름 유형이 지원되지 않습니다. 대신 코드 흐름을 사용하세요.",
+      "mandarin": "测试帐号不支持链接流类型。请改用代码流。",
+      "portuguese": "O tipo de fluxo de link não é compatível com a conta de teste. Em vez disso, use o fluxo de código.",
+      "spanish": "El tipo de flujo de enlace no es compatible con la cuenta de prueba. Utilice el flujo de código en su lugar.",
+      "turkish": "Bağlantı akışı türü test hesabı için desteklenmiyor. Lütfen bunun yerine kod akışını kullanın."
+    },
+    "error-invalid-test-account": {
+      "dutch": "Ongeldig testaccount.",
+      "english": "Invalid test account.",
+      "french": "Compte de test non valide.",
+      "german": "Ungültiges Testkonto.",
+      "japanese": "無効なテスト アカウントです。",
+      "korean": "잘못된 테스트 계정입니다.",
+      "mandarin": "测试帐户无效。",
+      "portuguese": "Conta de teste inválida.",
+      "spanish": "Cuenta de prueba no válida.",
+      "turkish": "Geçersiz test hesabı."
+    },
     "something-wrong-error": {
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
