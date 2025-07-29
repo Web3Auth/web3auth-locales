@@ -180,7 +180,7 @@
       "portuguese": "Logins sociais via Torus nodes",
       "spanish": "Inicios de sesión de redes sociales a través de nodos Torus",
       "turkish": "Torus nodes ile sosyal medya oturumu aç",
-      "russian": "Социальный вход через узлы Torus"
+      "russian": "Вход через социальные сети с использованием узлов Torus"
     },
     "auth-factors-password": {
       "dutch": "Account wachtwoord",
@@ -661,7 +661,7 @@
       "portuguese": "Alterar Fator Social",
       "spanish": "Cambiar el factor social",
       "turkish": "Sosyal medya faktörünü değiştirin",
-      "russian": "Изменить социальный фактор"
+      "russian": "Изменить способ восстановления через соцсети"
     },
     "title": {
       "dutch": "Account",

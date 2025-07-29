@@ -349,7 +349,7 @@
       "portuguese": "Taxa estimada de gás",
       "spanish": "Tarifa de gas estimada",
       "turkish": "Tahmini Gas Ücreti",
-      "russian": "Оценочная комиссия за газ"
+      "russian": "Примерная комиссия за газ"
     },
     "estimatedBalanceChanges": {
       "dutch": "Geschatte balansveranderingen",
@@ -362,7 +362,7 @@
       "portuguese": "Alterações estimadas de saldo",
       "spanish": "Cambios estimados de saldo",
       "turkish": "Tahmini Bakiye Değişiklikleri",
-      "russian": "Оценочные изменения баланса"
+      "russian": "Примерное изменение баланса"
     },
     "estimatedNetworkFee": {
       "dutch": "Geschatte netwerkkosten",
@@ -375,7 +375,7 @@
       "portuguese": "Taxa estimada de rede",
       "spanish": "Tarifa de red estimada",
       "turkish": "Tahmini Ağ Ücreti",
-      "russian": "Оценочная плата за сеть"
+      "russian": "Примерная комиссия сети"
     },
     "from": {
       "dutch": "Van:",
@@ -466,7 +466,7 @@
       "portuguese": "Preço inválido de gás",
       "spanish": "Precio de gas no válido",
       "turkish": "Gas fiyatı geçersiz",
-      "russian": "Недопустимая цена газа"
+      "russian": "Недопустимая цена за газ"
     },
     "invalidMaxFeeErr": {
       "dutch": "Ongeldige maximale prioriteitskosten",
@@ -479,7 +479,7 @@
       "portuguese": "Taxa prioritária máxima inválida",
       "spanish": "Tarifa de prioridad máxima no válida",
       "turkish": "Maksimum öncelik ücreti geçersiz",
-      "russian": "Недопустимая максимальная приоритетная плата"
+      "russian": "Недопустимая максимальная приоритетная цена"
     },
     "invalidMaxTxnFeeErr": {
       "dutch": "Ongeldige max transactiekosten",
@@ -518,7 +518,7 @@
       "portuguese": "Este é um contrato inteligente",
       "spanish": "Este es un contrato inteligente",
       "turkish": "Bu, bir akıllı sözleşme hesabıdır",
-      "russian": "Это учетная запись умного контракта"
+      "russian": "Это аккаунт на базе смарт-контракта"
     },
     "login": {
       "dutch": "Log in",
@@ -986,7 +986,7 @@
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
       "turkish": "Biz hepsini sosyal oturum açma ile ilgili herhangi bir veriyi saklamıyoruz.",
-      "russian": "Мы не храним никаких данных, связанных с вашими социальными входами."
+      "russian": "Мы не храним никаких данных, связанных с вашими соцсетями."
     },
     "socialViewLess": {
       "dutch": "Minder bekijken",

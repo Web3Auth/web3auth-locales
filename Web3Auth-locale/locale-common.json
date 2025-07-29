@@ -347,7 +347,7 @@
       "portuguese": "Selecionar cadeia",
       "spanish": "Seleccionar cadena",
       "turkish": "Zincir seç",
-      "russian": "Выберите цепочку"
+      "russian": "Выберите сеть"
     },
     "external.select-chain-description": {
       "dutch": "Deze {{wallet}} portemonnee ondersteunt meerdere ketens. Selecteer welke ketting u wilt verbinden",
@@ -360,7 +360,7 @@
       "portuguese": "Este {{wallet}} carteira suporta várias cadeias. Selecione a cadeia que você gostaria de conectar",
       "spanish": "Este {{wallet}} billetera soporta varias cadenas. Seleccione la cadena que desea conectar",
       "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin",
-      "russian": "Этот кошелек {{wallet}} поддерживает несколько цепочек. Выберите цепочку для подключения"
+      "russian": "Этот кошелек {{wallet}} поддерживает несколько сетей. Выберите сеть для подключения"
     },
     "external.title": {
       "dutch": "Externe portemonnee",

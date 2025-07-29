@@ -10,7 +10,8 @@
       "mandarin": "我们只是想确保您知道如何恢复您的帐户。",
       "portuguese": "Queremos apenas ter certeza de que você sabe como recuperar sua conta.",
       "spanish": "Solo queremos asegurarnos de que sepas cómo recuperar tu cuenta.",
-      "turkish": "Hesabınızı nasıl kurtaracağınızı bildiğinizden emin olmak istiyoruz."
+      "turkish": "Hesabınızı nasıl kurtaracağınızı bildiğinizden emin olmak istiyoruz.",
+      "russian": "Мы просто хотим убедиться, что вы знаете, как восстановить свой аккаунт."
     },
     "2fa-device-save-desc": {
       "dutch": "Gebruik het huidige apparaat als tweede factor om uw portemonnee te verifiëren en te beveiligen",
@@ -22,7 +23,8 @@
       "mandarin": "使用当前设备作为第二个因素来验证和保护你的钱包",
       "portuguese": "Use o dispositivo atual como segundo fator para verificar e proteger sua carteira",
       "spanish": "Use el dispositivo actual como segundo factor para verificar y asegurar su billetera",
-      "turkish": "Cüzdanınızı doğrulamak ve güvenliğini sağlamak için mevcut cihazı 2. faktör olarak kullanın"
+      "turkish": "Cüzdanınızı doğrulamak ve güvenliğini sağlamak için mevcut cihazı 2. faktör olarak kullanın",
+      "russian": "Используйте текущее устройство как второй фактор для подтверждения и защиты вашего кошелька."
     },
     "2fa-device-save-input-label": {
       "dutch": "Dit apparaat opslaan als",
@@ -34,7 +36,8 @@
       "mandarin": "将此设备另存为",
       "portuguese": "Salve este dispositivo como",
       "spanish": "Guardar este dispositivo como",
-      "turkish": "Bu cihazı şu isimle kaydedin:"
+      "turkish": "Bu cihazı şu isimle kaydedin:",
+      "russian": "Сохранить это устройство как"
     },
     "2fa-device-save-success-cta": {
       "dutch": "Herstelfactor instellen",
@@ -46,7 +49,8 @@
       "mandarin": "设置回收率",
       "portuguese": "Fator de recuperação de configuração",
       "spanish": "Configuración del factor de recuperación",
-      "turkish": "Kurtarma Faktörünü ayarla"
+      "turkish": "Kurtarma Faktörünü ayarla",
+      "russian": "Настроить фактор восстановления"
     },
     "2fa-device-save-success-desc": {
       "dutch": "Stel nu uw herstelfactor in om uw account terug te krijgen als u geen toegang meer heeft tot uw tweede factor.",
@@ -58,7 +62,8 @@
       "mandarin": "现在，如果您无法访问第二个因素，请设置您的恢复因素以取回您的帐户。",
       "portuguese": "Agora, caso você perca o acesso ao seu 2º fator, defina seu fator de recuperação para recuperar sua conta.",
       "spanish": "Ahora, en caso de que pierda el acceso a su segundo factor, configure su factor de recuperación para recuperar su cuenta.",
-      "turkish": "2. faktörünüze erişiminizi kaybederseniz, hesabınızı geri almak için kurtarma faktörünüzü ayarlayın."
+      "turkish": "2. faktörünüze erişiminizi kaybederseniz, hesabınızı geri almak için kurtarma faktörünüzü ayarlayın.",
+      "russian": "Если вы потеряете доступ ко второму фактору, настройте фактор восстановления, чтобы вернуть доступ к аккаунту."
     },
     "2fa-device-save-success-title": {
       "dutch": "Uw huidige apparaat is succesvol ingesteld als tweede herstelfactor",
@@ -70,7 +75,8 @@
       "mandarin": "您当前的设备已成功设置为第二个恢复因素",
       "portuguese": "Seu dispositivo atual foi definido com sucesso como um segundo fator de recuperação",
       "spanish": "Su dispositivo actual se configuró correctamente como segundo factor de recuperación",
-      "turkish": "Mevcut cihazınız 2. kurtarma faktörü olarak başarıyla ayarlandı"
+      "turkish": "Mevcut cihazınız 2. kurtarma faktörü olarak başarıyla ayarlandı",
+      "russian": "Текущее устройство успешно установлено как второй фактор восстановления"
     },
     "2fa-device-save-title": {
       "dutch": "Sla uw apparaat op als 2e factor",
@@ -82,7 +88,8 @@
       "mandarin": "将您的设备保存为第二因素",
       "portuguese": "Salve seu dispositivo como 2º fator",
       "spanish": "Guarde su dispositivo como 2º factor",
-      "turkish": "Cihazınızı 2. Faktör olarak kaydedin"
+      "turkish": "Cihazınızı 2. Faktör olarak kaydedin",
+      "russian": "Сохраните устройство как второй фактор"
     },
     "2fa-dwnld-desc": {
       "dutch": "Upload uw herstelfactor om ervoor te zorgen dat het werkt.",
@@ -94,7 +101,8 @@
       "mandarin": "上传您的恢复因子以确保它有效。",
       "portuguese": "Carregue seu Fator de Recuperação para garantir que funcione.",
       "spanish": "Cargue su factor de recuperación para asegurarse de que funcione.",
-      "turkish": "Çalıştığından emin olmak için Kurtarma Faktörünüzü yükleyin."
+      "turkish": "Çalıştığından emin olmak için Kurtarma Faktörünüzü yükleyin.",
+      "russian": "Загрузите фактор восстановления, чтобы убедиться, что он работает."
     },
     "2fa-pwd-desc": {
       "dutch": "Stel een wachtwoord in dat wordt gebruikt om toegang te krijgen tot uw account en dient als herstelfactor.",
@@ -106,7 +114,8 @@
       "mandarin": "设置将用于访问您的帐户并用作恢复因素的密码。",
       "portuguese": "Defina uma senha que será usada para acessar sua conta e servir como Fator de Recuperação.",
       "spanish": "Establezca una contraseña que se utilizará para acceder a su cuenta y servirá como factor de recuperación.",
-      "turkish": "Hesabınıza erişmek için kullanılacak ve Kurtarma Faktörü görevi görecek bir şifre belirleyin."
+      "turkish": "Hesabınıza erişmek için kullanılacak ve Kurtarma Faktörü görevi görecek bir şifre belirleyin.",
+      "russian": "Установите пароль, который будет использоваться для доступа к вашему аккаунту и служить фактором восстановления."
     },
     "2fa-pwd-success-title": {
       "dutch": "Uw wachtwoord is succesvol ingesteld als tweede factor",
@@ -118,7 +127,8 @@
       "mandarin": "您的密码已成功设置为第二因素",
       "portuguese": "Sua senha foi definida com sucesso como 2º Fator",
       "spanish": "Su contraseña se estableció con éxito como un segundo factor",
-      "turkish": "Şifreniz 2. Faktör olarak başarıyla belirlendi"
+      "turkish": "Şifreniz 2. Faktör olarak başarıyla belirlendi",
+      "russian": "Ваш пароль успешно установлен как второй фактор"
     },
     "2fa-pwd-title": {
       "dutch": "Stel wachtwoord in als herstelfactor",
@@ -130,7 +140,8 @@
       "mandarin": "将密码设置为恢复因子",
       "portuguese": "Definir senha como fator de recuperação",
       "spanish": "Establecer contraseña como factor de recuperación",
-      "turkish": "Şifreyi Kurtarma Faktörü olarak ayarla"
+      "turkish": "Şifreyi Kurtarma Faktörü olarak ayarla",
+      "russian": "Установить пароль как фактор восстановления"
     },
     "2fa-recovery-copied-subDesc": {
       "dutch": "Voer de gekopieerde herstelfactor in",
@@ -142,7 +153,8 @@
       "mandarin": "输入复制的恢复因子",
       "portuguese": "Digite o fator de recuperação copiado",
       "spanish": "Introduzca el factor de recuperación copiado",
-      "turkish": "Kopyalanan Kurtarma faktörünü girin"
+      "turkish": "Kopyalanan Kurtarma faktörünü girin",
+      "russian": "Введите скопированный фактор восстановления"
     },
     "2fa-recovery-cpy-subDesc": {
       "dutch": "Voer de herstelzin in die naar {email} is verzonden",
@@ -154,7 +166,8 @@
       "mandarin": "输入发送到 {email} 的恢复短语",
       "portuguese": "Digite a frase de recuperação enviada para {email}",
       "spanish": "Ingrese la frase de recuperación enviada a {email}",
-      "turkish": "{email} adresine gönderilen Kurtarma İfadesini girin"
+      "turkish": "{email} adresine gönderilen Kurtarma İfadesini girin",
+      "russian": "Введите фразу восстановления, отправленную на {email}"
     },
     "2fa-recovery-cpy-subTitle": {
       "dutch": "Herstelfactor verificatie",
@@ -166,7 +179,8 @@
       "mandarin": "采收率验证",
       "portuguese": "Verificação do Fator de Recuperação",
       "spanish": "Verificación del factor de recuperación",
-      "turkish": "Kurtarma Faktörü doğrulaması"
+      "turkish": "Kurtarma Faktörü doğrulaması",
+      "russian": "Проверка фактора восстановления"
     },
     "2fa-recovery-cpy-textArea": {
       "dutch": "Plak uw herstelzin",
@@ -178,7 +192,8 @@
       "mandarin": "粘贴您的恢复短语",
       "portuguese": "Cole sua frase de recuperação",
       "spanish": "Pega tu frase de recuperación",
-      "turkish": "Kurtarma ifadenizi yapıştırın"
+      "turkish": "Kurtarma ifadenizi yapıştırın",
+      "russian": "Вставьте фразу восстановления"
     },
     "2fa-recovery-downloaded-subDesc": {
       "dutch": "Upload de gedownloade herstelfactor",
@@ -190,7 +205,8 @@
       "mandarin": "上传下载的恢复因子",
       "portuguese": "Carregue o fator de recuperação baixado",
       "spanish": "Cargue el factor de recuperación descargado",
-      "turkish": "İndirilen Kurtarma faktörünü yükleyin"
+      "turkish": "İndirilen Kurtarma faktörünü yükleyin",
+      "russian": "Загрузите скачанный фактор восстановления"
     },
     "2fa-recovery-factor-desc": {
       "dutch": "Voer uw e-mailadres in om een herstelfactor voor uw portemonnee te ontvangen. U heeft het nodig om uw portemonnee te herstellen.",
@@ -202,7 +218,8 @@
       "mandarin": "输入您的电子邮件以接收钱包恢复系数。你需要它来恢复你的钱包。",
       "portuguese": "Insira seu e-mail para receber um fator de recuperação da carteira. Você precisa dele para recuperar sua carteira.",
       "spanish": "Introduzca su correo electrónico para recibir el factor de recuperación de su billetera. Lo necesita para recuperar su billetera.",
-      "turkish": "Cüzdan Kurtarma Faktörü almak için e-posta adresinizi girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var."
+      "turkish": "Cüzdan Kurtarma Faktörü almak için e-posta adresinizi girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var.",
+      "russian": "Введите свою почту, чтобы получить фактор восстановления кошелька. Он необходим для восстановления доступа."
     },
     "2fa-recovery-factor-send-btn": {
       "dutch": "Stuur mij mijn herstelfactor",
@@ -214,7 +231,8 @@
       "mandarin": "给我我的恢复因子",
       "portuguese": "Envie-me meu fator de recuperação",
       "spanish": "Envíame mi factor de recuperación",
-      "turkish": "Bana kurtarma faktörümü gönder"
+      "turkish": "Bana kurtarma faktörümü gönder",
+      "russian": "Отправить мне мой фактор восстановления"
     },
     "2fa-recovery-factor-title": {
       "dutch": "Mijn herstelfactor ophalen",
@@ -226,7 +244,8 @@
       "mandarin": "获取我的恢复因子",
       "portuguese": "Obter meu Fator de Recuperação",
       "spanish": "Obtener mi factor de recuperación",
-      "turkish": "Kurtarma Faktörümü al"
+      "turkish": "Kurtarma Faktörümü al",
+      "russian": "Получить мой фактор восстановления"
     },
     "2fa-recovery-success-title": {
       "dutch": "U heeft uw herstelfactor opgeslagen.",
@@ -238,7 +257,8 @@
       "mandarin": "您已保存恢复因子。",
       "portuguese": "Você salvou seu Fator de Recuperação.",
       "spanish": "Ha guardado su factor de recuperación.",
-      "turkish": "Kurtarma Faktörünüzü kaydettiniz."
+      "turkish": "Kurtarma Faktörünüzü kaydettiniz.",
+      "russian": "Вы сохранили свой фактор восстановления"
     },
     "2fa-setup-done-sub1": {
       "dutch": "Ga nu door naar {0}",
@@ -250,7 +270,8 @@
       "mandarin": "立即继续{0}",
       "portuguese": "Prossiga para {0} agora",
       "spanish": "Proceda a {0} ahora",
-      "turkish": "Şimdi {0}'a ilerleyin"
+      "turkish": "Şimdi {0}'a ilerleyin",
+      "russian": "Перейти к {0} сейчас"
     },
     "2fa-setup-done-title1": {
       "dutch": "Uw herstelfactor is ingesteld",
@@ -262,7 +283,8 @@
       "mandarin": "您的恢复因子是设置",
       "portuguese": "Seu fator de recuperação está configurado",
       "spanish": "Su factor de recuperación está configurado",
-      "turkish": "Kurtarma faktörünüz ayarlandı"
+      "turkish": "Kurtarma faktörünüz ayarlandı",
+      "russian": "Фактор восстановления настроен"
     },
     "2fa-setup-step1-cancel": {
       "dutch": "Misschien de volgende keer",
@@ -274,7 +296,8 @@
       "mandarin": "下次吧",
       "portuguese": "Talvez na próxima vez",
       "spanish": "Quizás la próxima vez",
-      "turkish": "Belki başka zaman"
+      "turkish": "Belki başka zaman",
+      "russian": "Может быть, в следующий раз"
     },
     "2fa-setup-step1-desc1": {
       "dutch": "Elke login vereist 2 factoren voor authenticatie",
@@ -286,7 +309,8 @@
       "mandarin": "每次登录需要 2 个身份验证因素",
       "portuguese": "Cada login requer 2 fatores para autenticação",
       "spanish": "Cada inicio de sesión requiere 2 factores para la autenticación",
-      "turkish": "Her oturum açma, kimlik doğrulama için 2 faktör gerektirir"
+      "turkish": "Her oturum açma, kimlik doğrulama için 2 faktör gerektirir",
+      "russian": "Каждый вход требует два фактора для аутентификации"
     },
     "2fa-setup-step1-desc21": {
       "dutch": "We raden ten zeerste een 2FA-instelling aan voor een actieve gebruiker zoals uzelf.",
@@ -298,7 +322,8 @@
       "mandarin": "我们强烈建议为像您这样的活跃用户设置 2FA。",
       "portuguese": "Recomendamos fortemente uma configuração 2FA para um usuário ativo como você.",
       "spanish": "Recomendamos encarecidamente una configuración de 2 factores para un usuario activo como usted.",
-      "turkish": "Sizin gibi aktif bir kullanıcı için 2FA kurulumunu şiddetle tavsiye ediyoruz."
+      "turkish": "Sizin gibi aktif bir kullanıcı için 2FA kurulumunu şiddetle tavsiye ediyoruz.",
+      "russian": "Мы настоятельно рекомендуем настроить двухфакторную аутентификацию для активных пользователей, как вы."
     },
     "2fa-setup-step1-desc22": {
       "dutch": "Stel het in in 3 eenvoudige stappen!",
@@ -310,7 +335,8 @@
       "mandarin": "只需 3 个简单的步骤即可完成设置！",
       "portuguese": "Configure em 3 passos simples!",
       "spanish": "¡Configúrelo en 3 sencillos pasos!",
-      "turkish": "3 basit adımda kurun!"
+      "turkish": "3 basit adımda kurun!",
+      "russian": "Настройте всего за 3 простых шага!"
     },
     "2fa-setup-step1-next": {
       "dutch": "2FA instellen",
@@ -322,7 +348,8 @@
       "mandarin": "设置 2FA",
       "portuguese": "Configurar 2FA",
       "spanish": "Configurar autenticación de 2 factores",
-      "turkish": "2 Faktörlü doğrulamayı kurun"
+      "turkish": "2 Faktörlü doğrulamayı kurun",
+      "russian": "Установите двухфакторную аутентификацию"
     },
     "2fa-setup-step1-sub1": {
       "dutch": "Activeer 2-factor authenticatie (2FA)",
@@ -334,7 +361,8 @@
       "mandarin": "启用 2 因素身份验证 (2FA)",
       "portuguese": "Ativar autenticação de 2 fatores (2FA)",
       "spanish": "Habilitar la autenticación de 2 factores (2FA)",
-      "turkish": "2 Faktörlü Kimlik Doğrulamayı Etkinleştir (2FA)"
+      "turkish": "2 Faktörlü Kimlik Doğrulamayı Etkinleştir (2FA)",
+      "russian": "Включить двухфакторную аутентификацию (2FA)"
     },
     "2fa-setup-step1-sub1-desc": {
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account. Elke login vereist 2 factoren voor authenticatie",
@@ -346,7 +374,8 @@
       "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
       "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación",
-      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin. Her oturum açma, kimlik doğrulama için 2 faktör gerektirir"
+      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin. Her oturum açma, kimlik doğrulama için 2 faktör gerektirir",
+      "russian": "Добавьте дополнительный уровень защиты для вашего аккаунта. Каждый вход требует два фактора для аутентификации"
     },
     "2fa-setup-step1-sub2": {
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account",
@@ -358,7 +387,8 @@
       "mandarin": "为您的帐户添加额外的安全层",
       "portuguese": "Adicione uma camada extra de segurança à sua conta",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta",
-      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin"
+      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin",
+      "russian": "Добавьте дополнительный уровень защиты для вашего аккаунта"
     },
     "2fa-setup-step1-sub3": {
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account en bewaar uw activa veilig.",
@@ -370,7 +400,8 @@
       "mandarin": "为您的帐户添加额外的安全层并妥善保管您的资产。",
       "portuguese": "Adicione uma camada extra de segurança à sua conta e proteja seus ativos.",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta y proteja sus activos.",
-      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin ve varlıklarınızı koruyun."
+      "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin ve varlıklarınızı koruyun.",
+      "russian": "Добавьте дополнительный уровень защиты и сохраните свои активы в безопасности"
     },
     "2fa-setup-step2-cancel": {
       "dutch": "Terug",
@@ -382,7 +413,8 @@
       "mandarin": "后退",
       "portuguese": "Voltar",
       "spanish": "Atrás",
-      "turkish": "Geri"
+      "turkish": "Geri",
+      "russian": "Назад"
     },
     "2fa-setup-step2-confirm-note": {
       "dutch": "Ik begrijp dat het wissen van de browsergeschiedenis en cookies deze factor op mijn browser zal verwijderen.",
@@ -394,7 +426,8 @@
       "mandarin": "我了解清除浏览器历史记录和 cookie 将删除我浏览器上的这个因素。",
       "portuguese": "Entendo que limpar o histórico e os cookies do navegador excluirá esse fator do meu navegador.",
       "spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador.",
-      "turkish": "Tarayıcı geçmişini ve çerezleri temizlemenin tarayıcımdaki bu faktörü sileceğini anlıyorum."
+      "turkish": "Tarayıcı geçmişini ve çerezleri temizlemenin tarayıcımdaki bu faktörü sileceğini anlıyorum.",
+      "russian": "Я понимаю, что очистка истории браузера и файлов cookie приведет к удалению этого фактора в моем браузере."
     },
     "2fa-setup-step2-current-browser": {
       "dutch": "Huidige browser",
@@ -406,7 +439,8 @@
       "mandarin": "当前浏览器",
       "portuguese": "Navegador atual",
       "spanish": "Navegador actual",
-      "turkish": "Mevcut tarayıcı"
+      "turkish": "Mevcut tarayıcı",
+      "russian": "Текущий браузер"
     },
     "2fa-setup-step2-next": {
       "dutch": "Doorgaan",
@@ -418,7 +452,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam et"
+      "turkish": "Devam et",
+      "russian": "Продолжить"
     },
     "2fa-setup-step2-save-device": {
       "dutch": "Huidige apparaat opslaan",
@@ -430,7 +465,8 @@
       "mandarin": "保存当前设备",
       "portuguese": "Salvar dispositivo atual",
       "spanish": "Guardar dispositivo actual",
-      "turkish": "Mevcut cihazı kaydet"
+      "turkish": "Mevcut cihazı kaydet",
+      "russian": "Сохранить текущее устройство"
     },
     "2fa-setup-step2-sub1": {
       "dutch": "Instellen met de huidige browser",
@@ -442,7 +478,8 @@
       "mandarin": "使用当前浏览器设置",
       "portuguese": "Configurar usando o navegador atual",
       "spanish": "Configurar usando el navegador actual",
-      "turkish": "Mevcut tarayıcıyı kullanarak kurulum yapın"
+      "turkish": "Mevcut tarayıcıyı kullanarak kurulum yapın",
+      "russian": "Настроить с использованием текущего браузера"
     },
     "2fa-setup-step2-sub2": {
       "dutch": "Gebruik de huidige browser om toegang vanaf nieuwe apparaten/browsers goed te keuren.",
@@ -454,7 +491,8 @@
       "mandarin": "使用当前浏览器批准来自新设备/浏览器的访问。",
       "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores.",
       "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.",
-      "turkish": "Yeni cihazlardan/tarayıcılardan erişimi onaylamak için mevcut tarayıcıyı kullanın."
+      "turkish": "Yeni cihazlardan/tarayıcılardan erişimi onaylamak için mevcut tarayıcıyı kullanın.",
+      "russian": "Используйте текущий браузер, чтобы одобрить доступ с новых устройств или браузеров."
     },
     "2fa-setup-step3-cancel": {
       "dutch": "Terug",
@@ -466,7 +504,8 @@
       "mandarin": "后退",
       "portuguese": "Voltar",
       "spanish": "atrás",
-      "turkish": "Geri"
+      "turkish": "Geri",
+      "russian": "Назад"
     },
     "2fa-setup-step3-confirm-phrase": {
       "dutch": "Als gevorderde gebruiker weet ik dat als ik deze herstelfrase verlies, ik het risico loop mijn account te verliezen.",
@@ -478,7 +517,8 @@
       "mandarin": "作为高级用户，我知道如果我丢失了此恢复短语，我将承担丢失帐户的风险。",
       "portuguese": "Como usuário avançado, sei que, se perder esta frase de recuperação, corro o risco de perder minha conta.",
       "spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta.",
-      "turkish": "İleri düzey bir kullanıcı olarak, bu kurtarma ifadesini kaybedersem hesabımı kaybetme riskiyle karşı karşıya olduğumu biliyorum."
+      "turkish": "İleri düzey bir kullanıcı olarak, bu kurtarma ifadesini kaybedersem hesabımı kaybetme riskiyle karşı karşıya olduğumu biliyorum.",
+      "russian": "Как продвинутый пользователь, я понимаю, что потеря фразы восстановления может привести к потере доступа к аккаунту."
     },
     "2fa-setup-step3-copy-phrase": {
       "dutch": "Frase kopiëren",
@@ -490,7 +530,8 @@
       "mandarin": "复制短语",
       "portuguese": "Copiar frase",
       "spanish": "Copiar frase",
-      "turkish": "İfadeyi kopyala"
+      "turkish": "İfadeyi kopyala",
+      "russian": "Скопировать фразу"
     },
     "2fa-setup-step3-download": {
       "dutch": "Download mijn herstelfrase",
@@ -502,7 +543,8 @@
       "mandarin": "下载我的恢复短语",
       "portuguese": "Baixar minha frase de recuperação",
       "spanish": "Descarga mi frase de recuperación",
-      "turkish": "Kurtarma ifademi indir"
+      "turkish": "Kurtarma ifademi indir",
+      "russian": "Скачать фразу восстановления"
     },
     "2fa-setup-step3-download-phrase": {
       "dutch": "Frase downloaden",
@@ -514,7 +556,8 @@
       "mandarin": "下载短语",
       "portuguese": "Baixar frase",
       "spanish": "Descargar frase",
-      "turkish": "İfadeyi indir"
+      "turkish": "İfadeyi indir",
+      "russian": "Скачать фразу"
     },
     "2fa-setup-step3-email": {
       "dutch": "E-mail",
@@ -526,7 +569,8 @@
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
       "spanish": "Correo electrónico",
-      "turkish": "E-posta"
+      "turkish": "E-posta",
+      "russian": "Электронная почта"
     },
     "2fa-setup-step3-enter-email": {
       "dutch": "Voer uw e-mailadres in",
@@ -538,7 +582,8 @@
       "mandarin": "输入你的电子邮箱地址",
       "portuguese": "Insira o seu endereço de email",
       "spanish": "Ingrese su dirección de correo electrónico",
-      "turkish": "E-posta adresinizi girin"
+      "turkish": "E-posta adresinizi girin",
+      "russian": "Введите свой адрес электронной почты"
     },
     "2fa-setup-step3-enter-recovery": {
       "dutch": "Voer uw herstelfrase in",
@@ -550,7 +595,8 @@
       "mandarin": "输入您的辅助短语",
       "portuguese": "Digite sua frase de recuperação",
       "spanish": "Introduce tu frase de recuperación",
-      "turkish": "Kurtarma ifadenizi girin"
+      "turkish": "Kurtarma ifadenizi girin",
+      "russian": "Введите фразу восстановления"
     },
     "2fa-setup-step3-hide-adv": {
       "dutch": "Verberg geavanceerde optie",
@@ -562,7 +608,8 @@
       "mandarin": "隐藏高级选项",
       "portuguese": "Ocultar opção avançada",
       "spanish": "Ocultar opción avanzada",
-      "turkish": "Gelişmiş seçenekleri gizle"
+      "turkish": "Gelişmiş seçenekleri gizle",
+      "russian": "Скрыть расширенные настройки"
     },
     "2fa-setup-step3-manual-save": {
       "dutch": "Sla uw zin handmatig op",
@@ -574,7 +621,8 @@
       "mandarin": "手动保存您的短语",
       "portuguese": "Salve manualmente sua frase",
       "spanish": "Guarde manualmente su frase",
-      "turkish": "İfadenizi manuel olarak kaydedin"
+      "turkish": "İfadenizi manuel olarak kaydedin",
+      "russian": "Сохранить фразу вручную"
     },
     "2fa-setup-step3-next": {
       "dutch": "Doorgaan",
@@ -586,7 +634,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam et"
+      "turkish": "Devam et",
+      "russian": "Продолжить"
     },
     "2fa-setup-step3-next1": {
       "dutch": "Voltooi instellingen",
@@ -598,7 +647,8 @@
       "mandarin": "完成设置",
       "portuguese": "Concluir a configuração",
       "spanish": "Terminar de configurar",
-      "turkish": "Kurulumu bitir"
+      "turkish": "Kurulumu bitir",
+      "russian": "Завершить настройку"
     },
     "2fa-setup-step3-next2": {
       "dutch": "Verifiëren",
@@ -610,7 +660,8 @@
       "mandarin": "核实",
       "portuguese": "Verificar",
       "spanish": "Verificar",
-      "turkish": "Doğrula"
+      "turkish": "Doğrula",
+      "russian": "Подтвердить"
     },
     "2fa-setup-step3-next3": {
       "dutch": "Herstelzin verzenden",
@@ -622,7 +673,8 @@
       "mandarin": "发送恢复短语",
       "portuguese": "Enviar frase de recuperação",
       "spanish": "Enviar frase de recuperación",
-      "turkish": "Kurtarma ifadesini gönder"
+      "turkish": "Kurtarma ifadesini gönder",
+      "russian": "Отправить фразу восстановления"
     },
     "2fa-setup-step3-next4": {
       "dutch": "Ik heb mijn herstelfrase opgeslagen",
@@ -634,7 +686,8 @@
       "mandarin": "我已经保存了我的恢复短语",
       "portuguese": "Salvei minha frase de recuperação",
       "spanish": "He guardado mi frase de recuperación",
-      "turkish": "Kurtarma ifademi kaydettim"
+      "turkish": "Kurtarma ifademi kaydettim",
+      "russian": "Я сохранил свою фразу восстановления"
     },
     "2fa-setup-step3-note11": {
       "dutch": "Opmerking:",
@@ -646,7 +699,8 @@
       "mandarin": "笔记：",
       "portuguese": "Observação:",
       "spanish": "Nota:",
-      "turkish": "Not:"
+      "turkish": "Not:",
+      "russian": "Примечание:"
     },
     "2fa-setup-step3-note12": {
       "dutch": "U moet deze zin bevestigen op het volgende scherm",
@@ -658,7 +712,8 @@
       "mandarin": "您需要在下一个屏幕上确认此短语",
       "portuguese": "Você precisará confirmar esta frase na próxima tela",
       "spanish": "Deberá confirmar esta frase en la siguiente pantalla",
-      "turkish": "Bir sonraki ekranda bu ifadeyi onaylamanız gerekecek"
+      "turkish": "Bir sonraki ekranda bu ifadeyi onaylamanız gerekecek",
+      "russian": "Вам нужно будет подтвердить эту фразу на следующем экране"
     },
     "2fa-setup-step3-show-adv": {
       "dutch": "Bekijk geavanceerde optie",
@@ -670,7 +725,8 @@
       "mandarin": "查看高级选项",
       "portuguese": "Ver opção avançada",
       "spanish": "Ver opción avanzada",
-      "turkish": "Gelişmiş seçeneği görüntüle"
+      "turkish": "Gelişmiş seçeneği görüntüle",
+      "russian": "Показать расширенные настройки"
     },
     "2fa-setup-step3-sub1": {
       "dutch": "Geef een e-mailadres op om de herstelfrase te ontvangen",
@@ -682,7 +738,8 @@
       "mandarin": "提供电子邮件以接收恢复短语",
       "portuguese": "Forneça um e-mail para receber a frase de recuperação",
       "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación",
-      "turkish": "Kurtarma ifadenizi almak için bir e-posta girin"
+      "turkish": "Kurtarma ifadenizi almak için bir e-posta girin",
+      "russian": "Укажите адрес электронной почты для получения фразы восстановления"
     },
     "2fa-setup-step3-sub2": {
       "dutch": "Als u geen toegang meer heeft tot uw opgeslagen browser, kunt u zich authenticeren met uw herstelfrase.",
@@ -694,7 +751,8 @@
       "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
       "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com sua frase de recuperação.",
       "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación.",
-      "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, kurtarma ifadenizle kimlik doğrulaması yapabilirsiniz."
+      "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, kurtarma ifadenizle kimlik doğrulaması yapabilirsiniz.",
+      "russian": "Если вы потеряете доступ к сохранённому браузеру, вы сможете пройти аутентификацию с помощью фразы восстановления."
     },
     "2fa-setup-step3-sub21": {
       "dutch": "Plak uw herstelfrase die naar {0} is verzonden",
@@ -706,7 +764,8 @@
       "mandarin": "粘贴您发送到 {0} 的辅助短语",
       "portuguese": "Cole sua frase de recuperação enviada para {0}",
       "spanish": "Pegue su frase de recuperación enviada a {0}",
-      "turkish": "{0} adresine gönderilen kurtarma ifadenizi yapıştırın"
+      "turkish": "{0} adresine gönderilen kurtarma ifadenizi yapıştırın",
+      "russian": "Вставьте фразу восстановления, отправленную на {0}"
     },
     "2fa-setup-step3-sub22": {
       "dutch": "Ik weet dat als ik deze herstelfrase verlies, ik het risico loop mijn account te verliezen.",
@@ -718,7 +777,8 @@
       "mandarin": "我知道如果我丢失了这个恢复短语，我将承担丢失帐户的风险。",
       "portuguese": "Sei que se eu perder esta frase de recuperação, correrei o risco de perder minha conta.",
       "spanish": "Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta.",
-      "turkish": "Bu kurtarma ifadesini kaybedersem hesabımı kaybetme riskini üstleneceğimi biliyorum."
+      "turkish": "Bu kurtarma ifadesini kaybedersem hesabımı kaybetme riskini üstleneceğimi biliyorum.",
+      "russian": "Я понимаю, что если потеряю эту фразу восстановления, то рискую потерять доступ к аккаунту."
     },
     "2fa-setup-step3-toggle1": {
       "dutch": "Mijn herstelfrase opslaan zonder e-mail",
@@ -730,7 +790,8 @@
       "mandarin": "无需电子邮件即可保存我的恢复短语",
       "portuguese": "Salvar minha frase de recuperação sem e-mail",
       "spanish": "Guardar mi frase de recuperación sin correo electrónico",
-      "turkish": "Kurtarma ifademi e-posta olmadan kaydet"
+      "turkish": "Kurtarma ifademi e-posta olmadan kaydet",
+      "russian": "Сохранить мою фразу восстановления без электронной почты"
     },
     "2fa-setup-step3-toggle2": {
       "dutch": "Stuur mijn herstelfrase per e-mail",
@@ -738,11 +799,12 @@
       "french": "Envoyez-moi ma phrase de récupération par e-mail",
       "german": "Senden Sie mir meinen Wiederherstellungssatz per E-Mail",
       "japanese": "私の回復フレーズを私にメールしてください",
-      "korean":  "내 복구 구문을 이메일로 보내기",
+      "korean": "내 복구 구문을 이메일로 보내기",
       "mandarin": "通过电子邮件向我发送恢复短语",
       "portuguese": "Envie-me um e-mail com minha frase de recuperação",
       "spanish": "Envíame mi frase de recuperación por correo electrónico",
-      "turkish": "Kurtarma ifademi bana e-postayla gönder"
+      "turkish": "Kurtarma ifademi bana e-postayla gönder",
+      "russian": "Отправить мою фразу восстановления на почту"
     },
     "2fa-setup-step3-verified": {
       "dutch": "Geverifieerd",
@@ -754,7 +816,8 @@
       "mandarin": "已验证",
       "portuguese": "Verificado",
       "spanish": "Verificado",
-      "turkish": "Doğrulandı"
+      "turkish": "Doğrulandı",
+      "russian": "Подтверждено"
     },
     "2fa-setup-step4-cancel": {
       "dutch": "Terug",
@@ -766,7 +829,8 @@
       "mandarin": "后退",
       "portuguese": "Voltar",
       "spanish": "atrás",
-      "turkish": "Geri"
+      "turkish": "Geri",
+      "russian": "Назад"
     },
     "2fa-setup-step4-check-time": {
       "dutch": "Niet ontvangen? Opnieuw versturen. Controleer opnieuw in {0}",
@@ -778,7 +842,8 @@
       "mandarin": "没有收到吗？ 反感。 再次签入{0}",
       "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}",
       "spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}",
-      "turkish": "Almadınız mı? Yeniden gönderildi. {0} saniye/dakika sonra tekrar kontrol edin"
+      "turkish": "Almadınız mı? Yeniden gönderildi. {0} saniye/dakika sonra tekrar kontrol edin",
+      "russian": "Не получили? Отправить повторно. Повторная проверка через {0}"
     },
     "2fa-setup-step4-contact-support": {
       "dutch": "Neem contact op met de ondersteuning",
@@ -790,7 +855,8 @@
       "mandarin": "联系支持",
       "portuguese": "Entre em contato com o suporte",
       "spanish": "Soporte de contacto",
-      "turkish": "Destek merkeziyle iletişime geçin"
+      "turkish": "Destek merkeziyle iletişime geçin",
+      "russian": "Связаться с поддержкой"
     },
     "2fa-setup-step4-next": {
       "dutch": "Verifiëren",
@@ -802,7 +868,8 @@
       "mandarin": "核实",
       "portuguese": "Verificar",
       "spanish": "Verificar",
-      "turkish": "Doğrula"
+      "turkish": "Doğrula",
+      "russian": "Подтвердить"
     },
     "2fa-setup-step4-not-received": {
       "dutch": "Niet ontvangen?",
@@ -814,7 +881,8 @@
       "mandarin": "没有收到吗？",
       "portuguese": "Não recebeu?",
       "spanish": "¿No lo recibiste?",
-      "turkish": "Almadınız mı?"
+      "turkish": "Almadınız mı?",
+      "russian": "Не получили?"
     },
     "2fa-setup-step4-recovery": {
       "dutch": "Herstelzin",
@@ -826,7 +894,8 @@
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación",
-      "turkish": "Kurtarma ifadesi"
+      "turkish": "Kurtarma ifadesi",
+      "russian": "Фраза восстановления"
     },
     "2fa-setup-step4-resend": {
       "dutch": "Opnieuw verzenden",
@@ -838,7 +907,8 @@
       "mandarin": "重发",
       "portuguese": "Reenviar",
       "spanish": "Reenviar",
-      "turkish": "Yeniden gönder"
+      "turkish": "Yeniden gönder",
+      "russian": "Отправить повторно"
     },
     "2fa-setup-step4-sub1": {
       "dutch": "Verifieer uw herstelfrase",
@@ -850,7 +920,8 @@
       "mandarin": "验证您的恢复短语",
       "portuguese": "Verifique sua frase de recuperação",
       "spanish": "Verifica tu frase de recuperación",
-      "turkish": "Kurtarma ifadenizi doğrulayın"
+      "turkish": "Kurtarma ifadenizi doğrulayın",
+      "russian": "Подтвердите свою фразу восстановления"
     },
     "2fa-setup-step4-sub21": {
       "dutch": "Plak de herstelfrase",
@@ -862,7 +933,8 @@
       "mandarin": "粘贴恢复短语",
       "portuguese": "Cole a frase de recuperação",
       "spanish": "Pega la frase de recuperación",
-      "turkish": "Kurtarma ifadesini yapıştırın"
+      "turkish": "Kurtarma ifadesini yapıştırın",
+      "russian": "Вставьте фразу восстановления"
     },
     "2fa-setup-step4-sub22": {
       "dutch": "Plak de herstelzin die naar uw e-mail is gestuurd {0}",
@@ -874,7 +946,8 @@
       "mandarin": "粘贴发送到您的电子邮件的恢复短语 {0}",
       "portuguese": "Cole a frase de recuperação enviada para seu e-mail {0}",
       "spanish": "Pega la frase de recuperación enviada a tu correo electrónico {0}",
-      "turkish": "{0} e-postanıza gönderilen kurtarma ifadesini yapıştırın"
+      "turkish": "{0} e-postanıza gönderilen kurtarma ifadesini yapıştırın",
+      "russian": "Вставьте фразу восстановления, отправленную на вашу почту {0}"
     },
     "2fa-setup-step5-next": {
       "dutch": "Klaar",
@@ -886,7 +959,8 @@
       "mandarin": "完毕",
       "portuguese": "Feito",
       "spanish": "Hecho",
-      "turkish": "Tamamlandı"
+      "turkish": "Tamamlandı",
+      "russian": "Готово"
     },
     "2fa-setup-step5-return-app": {
       "dutch": "Terug naar de applicatie",
@@ -898,7 +972,8 @@
       "mandarin": "返回申请",
       "portuguese": "Voltar ao aplicativo",
       "spanish": "Volver a la aplicación",
-      "turkish": "Uygulamaya geri dön"
+      "turkish": "Uygulamaya geri dön",
+      "russian": "Вернуться в приложение"
     },
     "2fa-setup-step5-sub1": {
       "dutch": "Uw 2FA is geactiveerd!",
@@ -910,7 +985,8 @@
       "mandarin": "您的 2FA 已激活！",
       "portuguese": "Seu 2FA foi ativado!",
       "spanish": "¡Su 2FA ha sido activado!",
-      "turkish": "2FA (Çift Faktörlü Doğrulama) aktive edildi!"
+      "turkish": "2FA (Çift Faktörlü Doğrulama) aktive edildi!",
+      "russian": "Двухфакторная аутентификация активирована!"
     },
     "2fa-setup-step5-sub2": {
       "dutch": "Beheer toekomstige accountinstellingen op app.openlogin.com",
@@ -922,7 +998,8 @@
       "mandarin": "在 app.openlogin.com 上管理未来的帐户设置",
       "portuguese": "Gerencie as configurações futuras da conta em app.openlogin.com",
       "spanish": "Administre la configuración de la cuenta futura en app.openlogin.com",
-      "turkish": "Gelecekteki hesap ayarlarını app.openlogin.com'da yönetin"
+      "turkish": "Gelecekteki hesap ayarlarını app.openlogin.com'da yönetin",
+      "russian": "Управляйте настройками будущего аккаунта на app.openlogin.com"
     },
     "2fa-setup-title1": {
       "dutch": "Beveilig uw account",
@@ -934,7 +1011,8 @@
       "mandarin": "保护您的帐户",
       "portuguese": "Proteja sua conta",
       "spanish": "Asegure su cuenta",
-      "turkish": "Hesabınızı güvence altına alın"
+      "turkish": "Hesabınızı güvence altına alın",
+      "russian": "Защитите свой аккаунт"
     },
     "2fa-setup-title12": {
       "dutch": "Stel 2-factor authenticatie in",
@@ -946,7 +1024,8 @@
       "mandarin": "设置 2 因素身份验证",
       "portuguese": "Configure a autenticação de 2 fatores",
       "spanish": "Configurar autenticación de 2 factores",
-      "turkish": "2 Faktörlü Kimlik doğrulamayı kurun"
+      "turkish": "2 Faktörlü Kimlik doğrulamayı kurun",
+      "russian": "Настройте двухфакторную аутентификацию"
     },
     "2fa-setup-title2": {
       "dutch": "2FA instellen",
@@ -958,7 +1037,8 @@
       "mandarin": "设置 2FA",
       "portuguese": "Configurar 2FA",
       "spanish": "Configurar 2FA",
-      "turkish": "2FA (2 Faktörlü Kimlik doğrulama) kurun"
+      "turkish": "2FA (2 Faktörlü Kimlik doğrulama) kurun",
+      "russian": "Установите двухфакторную аутентификацию"
     },
     "2fa-setup-title21": {
       "dutch": "Stap 1: Sla uw apparaat op",
@@ -970,7 +1050,8 @@
       "mandarin": "第 1 步：保存您的设备",
       "portuguese": "Etapa 1: salve seu dispositivo",
       "spanish": "Paso 1: Guarde su dispositivo",
-      "turkish": "1. Adım: Cihazınızı kaydedin"
+      "turkish": "1. Adım: Cihazınızı kaydedin",
+      "russian": "Шаг 1: Сохраните ваше устройство"
     },
     "2fa-setup-title3": {
       "dutch": "Herstelzin opslaan",
@@ -982,7 +1063,8 @@
       "mandarin": "保存恢复短语",
       "portuguese": "Salvar frase de recuperação",
       "spanish": "Guardar frase de recuperación",
-      "turkish": "Kurtarma ifadesini kaydet"
+      "turkish": "Kurtarma ifadesini kaydet",
+      "russian": "Сохранить фразу восстановления"
     },
     "2fa-setup-title31": {
       "dutch": "Stap 2: Bewaar herstelfrase",
@@ -994,7 +1076,8 @@
       "mandarin": "第 2 步：保存恢复短语",
       "portuguese": "Etapa 2: salvar a frase de recuperação",
       "spanish": "Paso 2: Guarda la frase de recuperación",
-      "turkish": "2. Adım: Kurtarma ifadesini kaydedin"
+      "turkish": "2. Adım: Kurtarma ifadesini kaydedin",
+      "russian": "Шаг 2: Сохраните фразу восстановления"
     },
     "2fa-setup-title32": {
       "dutch": "Stap 3: Verifieer herstelzin",
@@ -1006,7 +1089,8 @@
       "mandarin": "第 3 步：验证恢复短语",
       "portuguese": "Etapa 3: verificar a frase de recuperação",
       "spanish": "Paso 3: Verificar la frase de recuperación",
-      "turkish": "3. Adım: Kurtarma ifadesini doğrulayın"
+      "turkish": "3. Adım: Kurtarma ifadesini doğrulayın",
+      "russian": "Шаг 3: Подтвердите фразу восстановления"
     },
     "2fa-setup-title4": {
       "dutch": "Herstelverificatie",
@@ -1018,7 +1102,8 @@
       "mandarin": "恢复验证",
       "portuguese": "Verificação de recuperação",
       "spanish": "Verificación de recuperación",
-      "turkish": "Kurtarma doğrulaması"
+      "turkish": "Kurtarma doğrulaması",
+      "russian": "Проверка восстановления"
     },
     "2fa-setup-title5": {
       "dutch": "2FA geactiveerd",
@@ -1030,7 +1115,8 @@
       "mandarin": "2FA 激活",
       "portuguese": "2FA ativado",
       "spanish": "2FA activado",
-      "turkish": "2FA aktive edildi"
+      "turkish": "2FA aktive edildi",
+      "russian": "'2FA активирован'"
     },
     "2fa-social-desc": {
       "dutch": "Ga verder met een van de volgende stappen om het als uw herstelfactor in te stellen.",
@@ -1042,7 +1128,8 @@
       "mandarin": "继续执行以下操作之一，将其设置为您的恢复因素。",
       "portuguese": "Continue com um dos seguintes para defini-lo como seu fator de recuperação.",
       "spanish": "Continúe con uno de los siguientes para configurarlo como su factor de recuperación.",
-      "turkish": "Kurtarma faktörünüz olarak ayarlamak için aşağıdakilerden biriyle devam edin."
+      "turkish": "Kurtarma faktörünüz olarak ayarlamak için aşağıdakilerden biriyle devam edin.",
+      "russian": "Продолжите с одним из следующих вариантов, чтобы установить его в качестве фактора восстановления."
     },
     "2fa-social-success-title": {
       "dutch": "Uw sociale factor is succesvol ingesteld als tweede herstelfactor",
@@ -1054,7 +1141,8 @@
       "mandarin": "您的社交因素已成功设置为第二恢复因素",
       "portuguese": "Seu fator social foi configurado com sucesso como um segundo fator de recuperação",
       "spanish": "Su factor social se ha configurado con éxito como un segundo factor de recuperación",
-      "turkish": "Sosyal medya faktörünüz 2. kurtarma faktörü olarak başarıyla kuruldu."
+      "turkish": "Sosyal medya faktörünüz 2. kurtarma faktörü olarak başarıyla kuruldu.",
+      "russian": "Вы успешно настроили социальную сеть как второй способ восстановления"
     },
     "2fa-social-title": {
       "dutch": "Stel een sociaal herstelfactor in",
@@ -1066,7 +1154,8 @@
       "mandarin": "设置社会恢复因素",
       "portuguese": "Configure um fator de recuperação social",
       "spanish": "Configurar un factor de recuperación social",
-      "turkish": "Bir Sosyal Medya kurtarma faktörü oluşturun"
+      "turkish": "Bir Sosyal Medya kurtarma faktörü oluşturun",
+      "russian": "Настройте восстановление через социальную сеть"
     },
     "2fa-verify-multi-head": {
       "dutch": "Toegang toestaan vanuit uw opgeslagen browser",
@@ -1078,7 +1167,8 @@
       "mandarin": "允许从您保存的浏览器访问",
       "portuguese": "Permita o acesso do seu navegador salvo",
       "spanish": "Permitir el acceso desde su navegador guardado",
-      "turkish": "Kayıtlı tarayıcınızdan erişime izin verin"
+      "turkish": "Kayıtlı tarayıcınızdan erişime izin verin",
+      "russian": "Разрешите доступ из сохранённого браузера"
     },
     "2fa-verify-multi-subhead": {
       "dutch": "Log in op de volgende opgeslagen browser om toegang goed te keuren",
@@ -1090,7 +1180,8 @@
       "mandarin": "登录到以下已保存的浏览器以批准访问",
       "portuguese": "Faça login no seguinte navegador salvo para aprovar o acesso",
       "spanish": "Inicie sesión en el siguiente navegador guardado para aprobar el acceso",
-      "turkish": "Erişimi onaylamak için aşağıdaki kayıtlı tarayıcıya giriş yapın"
+      "turkish": "Erişimi onaylamak için aşağıdaki kayıtlı tarayıcıya giriş yapın",
+      "russian": "Войдите в указанный сохранённый браузер, чтобы подтвердить доступ"
     },
     "2fa-verify-multi-subhead2": {
       "dutch": "Een inlogverzoek wordt naar uw opgeslagen browser gestuurd",
@@ -1102,7 +1193,8 @@
       "mandarin": "登录请求将发送到您保存的浏览器",
       "portuguese": "Uma solicitação de login será enviada para o seu navegador salvo",
       "spanish": "Se enviará una solicitud de inicio de sesión a su navegador guardado",
-      "turkish": "Kayıtlı tarayıcınıza bir oturum açma isteği gönderilecektir"
+      "turkish": "Kayıtlı tarayıcınıza bir oturum açma isteği gönderilecektir",
+      "russian": "Запрос на вход будет отправлен в ваш сохранённый браузер"
     },
     "2fa-verify-multi-title": {
       "dutch": "{0} apparaten beschikbaar",
@@ -1114,7 +1206,8 @@
       "mandarin": "{0} 台设备可用",
       "portuguese": "{0} dispositivos disponíveis",
       "spanish": "{0} dispositivos disponibles",
-      "turkish": "{0} cihaz mevcut"
+      "turkish": "{0} cihaz mevcut",
+      "russian": "Доступно устройств: {0}"
     },
     "2fa-verify-recovery-label": {
       "dutch": "Voer herstelfrase in",
@@ -1126,7 +1219,8 @@
       "mandarin": "输入恢复短语",
       "portuguese": "Digite a frase de recuperação",
       "spanish": "Ingrese la frase de recuperación",
-      "turkish": "Kurtarma ifadesini girin"
+      "turkish": "Kurtarma ifadesini girin",
+      "russian": "Введите фразу восстановления"
     },
     "2fa-verify-recovery-note": {
       "dutch": "Als u geen van bovenstaande kunt verifiëren, kunt u niet inloggen op uw account.",
@@ -1138,7 +1232,8 @@
       "mandarin": "如果您无法验证上述任何一项，则无法登录您的帐户。",
       "portuguese": "Se você não conseguir verificar nenhum dos itens acima, não poderá fazer login na sua conta.",
       "spanish": "Si no puede verificar ninguno de los anteriores, no puede iniciar sesión en su cuenta.",
-      "turkish": "Yukarıdakilerden herhangi birini doğrulayamıyorsanız, hesabınıza giriş yapamazsınız."
+      "turkish": "Yukarıdakilerden herhangi birini doğrulayamıyorsanız, hesabınıza giriş yapamazsınız.",
+      "russian": "Если вы не можете подтвердить что-либо из вышеуказанного, вы не сможете войти в свой аккаунт."
     },
     "2fa-verify-recovery-placeholder": {
       "dutch": "Herstelzin",
@@ -1150,7 +1245,8 @@
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación",
-      "turkish": "Kurtarma ifadesi"
+      "turkish": "Kurtarma ifadesi",
+      "russian": "Фраза восстановления"
     },
     "2fa-verify-recovery-title": {
       "dutch": "Herstelcode",
@@ -1162,7 +1258,8 @@
       "mandarin": "恢复代码",
       "portuguese": "Código de recuperação",
       "spanish": "Código de recuperación",
-      "turkish": "Kurtarma kodu"
+      "turkish": "Kurtarma kodu",
+      "russian": "Код восстановления"
     },
     "2fa-verify-reference-id": {
       "dutch": "Referentie-ID",
@@ -1174,7 +1271,8 @@
       "mandarin": "参考编号",
       "portuguese": "Identificador de referência",
       "spanish": "Identificación de referencia",
-      "turkish": "Referans Kimliği"
+      "turkish": "Referans Kimliği",
+      "russian": "Идентификатор ссылки"
     },
     "2fa-verify-save-head": {
       "dutch": "Account hersteld",
@@ -1186,7 +1284,8 @@
       "mandarin": "帐户已恢复",
       "portuguese": "Conta recuperada",
       "spanish": "Cuenta recuperada",
-      "turkish": "Hesap kurtarıldı"
+      "turkish": "Hesap kurtarıldı",
+      "russian": "Аккаунт восстановлен"
     },
     "2fa-verify-save-nosave": {
       "dutch": "Misschien de volgende keer",
@@ -1198,7 +1297,8 @@
       "mandarin": "下次吧",
       "portuguese": "Talvez na próxima vez",
       "spanish": "Quizás la próxima vez",
-      "turkish": "Belki başka zaman"
+      "turkish": "Belki başka zaman",
+      "russian": "Возможно в следующий раз"
     },
     "2fa-verify-save-save": {
       "dutch": "Dit apparaat opslaan",
@@ -1210,7 +1310,8 @@
       "mandarin": "保存此设备",
       "portuguese": "Salvar este dispositivo",
       "spanish": "Guardar este dispositivo",
-      "turkish": "Bu cihazı kaydet"
+      "turkish": "Bu cihazı kaydet",
+      "russian": "Сохранить это устройство"
     },
     "2fa-verify-save-subhead": {
       "dutch": "Wilt u dit apparaat opslaan als een vertrouwd apparaat?",
@@ -1222,7 +1323,8 @@
       "mandarin": "您想将此设备保存为受信任的设备吗？",
       "portuguese": "Deseja salvar este dispositivo como um dispositivo confiável?",
       "spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?",
-      "turkish": "Bu cihazı güvenilir bir cihaz olarak kaydetmek ister misiniz?"
+      "turkish": "Bu cihazı güvenilir bir cihaz olarak kaydetmek ister misiniz?",
+      "russian": "Вы хотите сохранить это устройство как доверенное?"
     },
     "2fa-verify-share-browser": {
       "dutch": "Browser",
@@ -1234,7 +1336,8 @@
       "mandarin": "浏览器",
       "portuguese": "Navegador",
       "spanish": "Navegador",
-      "turkish": "Tarayıcı"
+      "turkish": "Tarayıcı",
+      "russian": "Браузер"
     },
     "2fa-verify-share-head": {
       "dutch": "Selecteer een van de volgende",
@@ -1246,7 +1349,8 @@
       "mandarin": "选择以下之一",
       "portuguese": "Selecione um dos seguintes",
       "spanish": "Selecciona uno de los siguientes",
-      "turkish": "Birini seçiniz"
+      "turkish": "Birini seçiniz",
+      "russian": "Выберите один из следующих"
     },
     "2fa-verify-share-resend": {
       "dutch": "Verzoek opnieuw verzenden",
@@ -1258,7 +1362,8 @@
       "mandarin": "重新发送请求",
       "portuguese": "Reenviar solicitação",
       "spanish": "Reenviar solicitud",
-      "turkish": "İsteği yeniden gönder"
+      "turkish": "İsteği yeniden gönder",
+      "russian": "Повторить запрос"
     },
     "2fa-verify-share-send": {
       "dutch": "Verzoek versturen",
@@ -1270,7 +1375,8 @@
       "mandarin": "发送请求",
       "portuguese": "Enviar pedido",
       "spanish": "Enviar petición",
-      "turkish": "İstek gönder"
+      "turkish": "İstek gönder",
+      "russian": "Отправить запрос"
     },
     "2fa-verify-share-subhead": {
       "dutch": "U heeft een van de volgende opties nodig om in te loggen",
@@ -1282,7 +1388,8 @@
       "mandarin": "您需要以下其中一项才能登录",
       "portuguese": "Você precisa de um dos seguintes para fazer login",
       "spanish": "Necesita uno de los siguientes para iniciar sesión",
-      "turkish": "Giriş yapmak için aşağıdakilerden birine ihtiyacınız vardır"
+      "turkish": "Giriş yapmak için aşağıdakilerden birine ihtiyacınız vardır",
+      "russian": "Вам нужно одно из следующего для входа в систему."
     },
     "2fa-verify-step1-do-not-save": {
       "dutch": "Sla deze browser/apparaat niet op.",
@@ -1294,7 +1401,8 @@
       "mandarin": "不要保存此浏览器/设备。",
       "portuguese": "Não salve este navegador/dispositivo.",
       "spanish": "No guarde este navegador / dispositivo.",
-      "turkish": "Bu tarayıcıyı/cihazı kaydetmeyin."
+      "turkish": "Bu tarayıcıyı/cihazı kaydetmeyin.",
+      "russian": "Не сохраняйте этот браузер/устройство."
     },
     "2fa-verify-step1-go-app": {
       "dutch": "Ga naar de app",
@@ -1306,7 +1414,8 @@
       "mandarin": "转到应用程序",
       "portuguese": "Vá para o aplicativo",
       "spanish": "Ir a la aplicación",
-      "turkish": "Uygulamaya git"
+      "turkish": "Uygulamaya git",
+      "russian": "Перейти в приложение"
     },
     "2fa-verify-step1-panel1": {
       "dutch": "Opgeslagen browser(s) / apparaten",
@@ -1318,7 +1427,8 @@
       "mandarin": "保存的浏览器/设备",
       "portuguese": "Navegadores/dispositivos salvos",
       "spanish": "Navegadores / dispositivos guardados",
-      "turkish": "Kaydedilen tarayıcı(lar) / cihazlar"
+      "turkish": "Kaydedilen tarayıcı(lar) / cihazlar",
+      "russian": "Сохраненные браузер(ы) / устройства"
     },
     "2fa-verify-step1-panel2": {
       "dutch": "Herstelzin",
@@ -1330,7 +1440,8 @@
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación",
-      "turkish": "Kurtarma ifadesi"
+      "turkish": "Kurtarma ifadesi",
+      "russian": "Фраза восстановления"
     },
     "2fa-verify-step1-rec-label": {
       "dutch": "Voer herstelfrase in",
@@ -1342,7 +1453,8 @@
       "mandarin": "输入恢复短语",
       "portuguese": "Digite a frase de recuperação",
       "spanish": "Ingrese la frase de recuperación",
-      "turkish": "Kurtarma ifadesini girin"
+      "turkish": "Kurtarma ifadesini girin",
+      "russian": "Введите фразу восстановления"
     },
     "2fa-verify-step1-rec-placeholder": {
       "dutch": "Herstelzin",
@@ -1354,7 +1466,8 @@
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación",
-      "turkish": "Kurtarma ifadesi"
+      "turkish": "Kurtarma ifadesi",
+      "russian": "Фраза восстановления"
     },
     "2fa-verify-step1-sub1": {
       "dutch": "Authenticeren met een van de volgende",
@@ -1366,7 +1479,8 @@
       "mandarin": "使用以下之一进行身份验证",
       "portuguese": "Autenticar com um dos seguintes",
       "spanish": "Autenticarse con uno de los siguientes",
-      "turkish": "Aşağıdakilerden biriyle kimlik doğrulaması yapın"
+      "turkish": "Aşağıdakilerden biriyle kimlik doğrulaması yapın",
+      "russian": "Авторизуйтесь с помощью одного из следующих"
     },
     "2fa-verify-step1-sub2": {
       "dutch": "U heeft een van de volgende opties nodig om in te loggen",
@@ -1378,7 +1492,8 @@
       "mandarin": "您需要以下其中一项才能登录",
       "portuguese": "Você precisa de um dos seguintes para fazer login",
       "spanish": "Necesita uno de los siguientes para iniciar sesión",
-      "turkish": "Giriş yapmak için aşağıdakilerden birine ihtiyacınız vardır"
+      "turkish": "Giriş yapmak için aşağıdakilerden birine ihtiyacınız vardır",
+      "russian": "Вам нужно одно из следующего для входа в систему."
     },
     "2fa-verify-step1-verify": {
       "dutch": "Verifiëren",
@@ -1390,7 +1505,8 @@
       "mandarin": "核实",
       "portuguese": "Verificar",
       "spanish": "Verificar",
-      "turkish": "Doğrula"
+      "turkish": "Doğrula",
+      "russian": "Проверить"
     },
     "2fa-verify-step2-sub1": {
       "dutch": "Verificatie succesvol",
@@ -1402,7 +1518,8 @@
       "mandarin": "验证成功",
       "portuguese": "Verificação bem-sucedida",
       "spanish": "Verificación exitosa",
-      "turkish": "Başarılı doğrulama"
+      "turkish": "Başarılı doğrulama",
+      "russian": "Успешная верификация"
     },
     "2fa-verify-success-head": {
       "dutch": "Succesvol",
@@ -1414,7 +1531,8 @@
       "mandarin": "成功的",
       "portuguese": "Bem sucedido",
       "spanish": "Exitoso",
-      "turkish": "Başarılı"
+      "turkish": "Başarılı",
+      "russian": "Успешно"
     },
     "2fa-verify-success-subtitle": {
       "dutch": "U wordt ingelogd",
@@ -1426,7 +1544,8 @@
       "mandarin": "登录",
       "portuguese": "Conectando você",
       "spanish": "iniciando sesión",
-      "turkish": "Giriş yapıyorsunuz"
+      "turkish": "Giriş yapıyorsunuz",
+      "russian": "Вход в систему"
     },
     "2fa-verify-success-title": {
       "dutch": "2FA geverifieerd",
@@ -1438,7 +1557,8 @@
       "mandarin": "2FA 验证",
       "portuguese": "2FA verificado",
       "spanish": "2FA verificado",
-      "turkish": "2FA doğrulandı"
+      "turkish": "2FA doğrulandı",
+      "russian": "'2FA подтверждена'"
     },
     "2fa-verify-title1": {
       "dutch": "Verifieer uw login",
@@ -1450,7 +1570,8 @@
       "mandarin": "验证您的登录信息",
       "portuguese": "Verifique seu login",
       "spanish": "Verifique su inicio de sesión",
-      "turkish": "Giriş bilgilerinizi doğrulayın"
+      "turkish": "Giriş bilgilerinizi doğrulayın",
+      "russian": "Проверьте ваш вход в систему"
     },
     "2fa-verify-title2": {
       "dutch": "2FA geactiveerd",
@@ -1458,11 +1579,12 @@
       "french": "2FA activé",
       "german": "2FA aktiviert",
       "japanese": "2FAがアクティブ化",
-      "korean":  "2단계 인증이 활성화되었습니다",
+      "korean": "2단계 인증이 활성화되었습니다",
       "mandarin": "2FA 激活",
       "portuguese": "2FA ativado",
       "spanish": "2FA activado",
-      "turkish": "2FA aktifleştirildi"
+      "turkish": "2FA aktifleştirildi",
+      "russian": "2FA активирован"
     },
     "2fa-verify-try-other": {
       "dutch": "Probeer andere methoden",
@@ -1474,7 +1596,8 @@
       "mandarin": "尝试其他方法",
       "portuguese": "Tente outros métodos",
       "spanish": "Pruebe otros métodos",
-      "turkish": "Diğer yöntemleri deneyin"
+      "turkish": "Diğer yöntemleri deneyin",
+      "russian": "Попробуйте другие методы"
     },
     "2fa-verify-verify": {
       "dutch": "Verifiëren",
@@ -1486,7 +1609,8 @@
       "mandarin": "核实",
       "portuguese": "Verificar",
       "spanish": "Verificar",
-      "turkish": "Doğrula"
+      "turkish": "Doğrula",
+      "russian": "Проверить"
     },
     "accountMismatchSocialFactor": {
       "dutch": "Account komt niet overeen, ga verder met degene die je hebt ingesteld als sociaal herstelfactor",
@@ -1498,7 +1622,8 @@
       "mandarin": "帐户不匹配，请继续将您设置为社会恢复因素",
       "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de recuperação social",
       "spanish": "Desacuadado de la cuenta, continúe con uno que establezca como factor de recuperación social",
-      "turkish": "Hesap uyuşmazlığı, lütfen sosyal kurtarma faktörü olarak belirlediğiniz bir hesapla devam edin"
+      "turkish": "Hesap uyuşmazlığı, lütfen sosyal kurtarma faktörü olarak belirlediğiniz bir hesapla devam edin",
+      "russian": "Несоответствие аккаунта, продолжайте с тем, который вы установили как фактор восстановления через соцсети."
     },
     "connect-email": {
       "dutch": "Verbinden met e-mail",
@@ -1510,7 +1635,8 @@
       "mandarin": "连接电子邮件",
       "portuguese": "Conectar com e-mail",
       "spanish": "Conectar con correo electrónico",
-      "turkish": "E-posta ile Bağlanın"
+      "turkish": "E-posta ile Bağlanın",
+      "russian": "Подключиться через электронную почту"
     },
     "connect-phone": {
       "dutch": "Verbinden met telefoon",
@@ -1522,7 +1648,8 @@
       "mandarin": "连接手机",
       "portuguese": "Conectar com telefone",
       "spanish": "Conectar con el teléfono",
-      "turkish": "Telefon ile Bağlanın"
+      "turkish": "Telefon ile Bağlanın",
+      "russian": "Подключиться с телефоном"
     },
     "connect-phone-email": {
       "dutch": "Verbinden met telefoon of e-mail",
@@ -1534,7 +1661,8 @@
       "mandarin": "通过电话或电子邮件联系",
       "portuguese": "Conecte-se com telefone ou e-mail",
       "spanish": "Conectar con teléfono o correo electrónico",
-      "turkish": "Telefon veya E-posta ile Bağlanın"
+      "turkish": "Telefon veya E-posta ile Bağlanın",
+      "russian": "Подключиться с помощью телефона или электронной почты"
     },
     "connect-wallet": {
       "dutch": "Verbinden met portemonnee",
@@ -1546,7 +1674,8 @@
       "mandarin": "连接钱包",
       "portuguese": "Conecte-se com a Carteira",
       "spanish": "Conectar con Monedero",
-      "turkish": "Cüzdan ile Bağlanın"
+      "turkish": "Cüzdan ile Bağlanın",
+      "russian": "Подключиться к кошельку"
     },
     "constructYourKey": {
       "dutch": "Uw sleutel construeren op",
@@ -1558,7 +1687,8 @@
       "mandarin": "构建您的密钥",
       "portuguese": "Construindo sua chave em",
       "spanish": "Construyendo tu clave en",
-      "turkish": "Anahtarınız oluşturuluyor"
+      "turkish": "Anahtarınız oluşturuluyor",
+      "russian": "Создание вашего ключа на"
     },
     "constructYourKeyCustom": {
       "english": "Constructing your key on {0}",
@@ -1567,7 +1697,8 @@
       "korean": "{0}에서 키 생성 중입니다",
       "mandarin": "在{0}上构建密钥",
       "spanish": "Construyendo su clave en {0}",
-      "turkish": "Anahtarınız oluşturuluyor {0}"
+      "turkish": "Anahtarınız oluşturuluyor {0}",
+      "russian": "Создание вашего ключа на {0}"
     },
     "continue-with": {
       "dutch": "Doorgaan met",
@@ -1579,7 +1710,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar com",
       "spanish": "Continua con",
-      "turkish": " Şununla devam et:"
+      "turkish": " Şununla devam et:",
+      "russian": "Продолжить с"
     },
     "edit-phone-number-text": {
       "dutch": "Telefoonnummer bewerken",
@@ -1591,7 +1723,8 @@
       "mandarin": "编辑电话号码",
       "portuguese": "Edite o número de telefone",
       "spanish": "Editar número de teléfono",
-      "turkish": "Telefon numarasını düzenle"
+      "turkish": "Telefon numarasını düzenle",
+      "russian": "Изменить номер телефона"
     },
     "external-wallet": {
       "dutch": "Externe portemonnee",
@@ -1603,7 +1736,8 @@
       "mandarin": "外部钱包",
       "portuguese": "Carteira externa",
       "spanish": "Monedero externo",
-      "turkish": "Harici cüzdan"
+      "turkish": "Harici cüzdan",
+      "russian": "Внешний кошелек"
     },
     "footer-message-login": {
       "dutch": "Zelf-custodial login door Web3Auth",
@@ -1615,7 +1749,8 @@
       "mandarin": "Web3Auth 的自我托管登录",
       "portuguese": "Início de sessão com autocustódia por Web3Auth",
       "spanish": "Inicio de sesión con autocustodia por Web3Auth",
-      "turkish": "Web3Auth tarafından öz-yönetimli giriş"
+      "turkish": "Web3Auth tarafından öz-yönetimli giriş",
+      "russian": "Некастодиальный вход через Web3Auth"
     },
     "incorrectBackupPhrase": {
       "dutch": "Onjuiste back-upzin",
@@ -1627,7 +1762,8 @@
       "mandarin": "备份短语不正确",
       "portuguese": "Frase de backup incorreta",
       "spanish": "Frase de respaldo incorrecta",
-      "turkish": "Hatalı yedekleme ifadesi"
+      "turkish": "Hatalı yedekleme ifadesi",
+      "russian": "Неверная фраза для восстановления"
     },
     "invalid-number-email": {
       "dutch": "Ongeldig e-mailadres of telefoonnummer",
@@ -1639,7 +1775,8 @@
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email inválido ou número de telefone",
       "spanish": "Correo electrónico o número de teléfono no válido",
-      "turkish": "Geçersiz E-posta veya Telefon Numarası"
+      "turkish": "Geçersiz E-posta veya Telefon Numarası",
+      "russian": "Недействительный адрес электронной почты или номер телефона"
     },
     "invalid-number-error-message": {
       "dutch": "Ongeldig telefoonnummer",
@@ -1651,7 +1788,8 @@
       "mandarin": "无效的电话号码",
       "portuguese": "Número de telefone inválido",
       "spanish": "Numero de telefono invalido",
-      "turkish": "Geçersiz Telefon Numarası"
+      "turkish": "Geçersiz Telefon Numarası",
+      "russian": "Недействительный номер телефона"
     },
     "login-page-desc": {
       "dutch": "Beheer de toegangs- en beveiligingsinstellingen voor alle door Web3Auth ondersteunde toepassingen.",
@@ -1663,7 +1801,8 @@
       "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
       "portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth.",
       "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth.",
-      "turkish": "Web3Auth tarafından desteklenen tüm uygulamalardaki erişim ve güvenlik ayarlarını yönetin."
+      "turkish": "Web3Auth tarafından desteklenen tüm uygulamalardaki erişim ve güvenlik ayarlarını yönetin.",
+      "russian": "Управляйте настройками доступа и безопасности во всех приложениях, поддерживаемых Web3Auth."
     },
     "login-page-title": {
       "dutch": "Twee-factor portemonnee accountbeheer",
@@ -1675,7 +1814,8 @@
       "mandarin": "两因素钱包账户管理",
       "portuguese": "Gerenciamento de conta de carteira de dois fatores",
       "spanish": "Gestión de cuenta de billetera de dos factores",
-      "turkish": "İki Faktörlü Cüzdan Hesap Yönetimi"
+      "turkish": "İki Faktörlü Cüzdan Hesap Yönetimi",
+      "russian": "Управление кошельком с двухфакторной аутентификацией"
     },
     "migrate-continue": {
       "dutch": "Doorgaan",
@@ -1687,7 +1827,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam et"
+      "turkish": "Devam et",
+      "russian": "Продолжить"
     },
     "migrate-desc1": {
       "dutch": "De nieuwste versie van Torus Wallet wordt aangedreven door OpenLogin.",
@@ -1699,7 +1840,8 @@
       "mandarin": "最新版本的Torus Wallet由OpenLogin提供支持。",
       "portuguese": "A versão mais recente do Torus Wallet é fornecida pelo OpenLogin.",
       "spanish": "La última versión de Torus Wallet funciona con OpenLogin.",
-      "turkish": "Torus Wallet'ın en son sürümü OpenLogin tarafından desteklenmektedir."
+      "turkish": "Torus Wallet'ın en son sürümü OpenLogin tarafından desteklenmektedir.",
+      "russian": "Последняя версия кошелька Torus работает на OpenLogin."
     },
     "migrate-desc21": {
       "dutch": "Om te genieten van de nieuwste functies van de Torus Wallet",
@@ -1711,7 +1853,8 @@
       "mandarin": "享受Torus钱包的最新功能",
       "portuguese": "Para aproveitar os recursos mais recentes da Torus Wallet",
       "spanish": "Para disfrutar de las últimas funciones de Torus Wallet",
-      "turkish": "Torus Cüzdan'ın en son özelliklerinden yararlanmak için"
+      "turkish": "Torus Cüzdan'ın en son özelliklerinden yararlanmak için",
+      "russian": "Наслаждаться последними функциями кошелька Torus"
     },
     "migrate-desc22": {
       "dutch": "Verifieer vriendelijk uw identiteit op deze nieuwe versie",
@@ -1723,7 +1866,8 @@
       "mandarin": "请在此新版本上验证您的身份",
       "portuguese": "gentilmente verifique sua identidade nesta nova versão",
       "spanish": "por favor verifique su identidad en esta nueva versión",
-      "turkish": "lütfen bu yeni sürümde kimliğinizi doğrulayın"
+      "turkish": "lütfen bu yeni sürümde kimliğinizi doğrulayın",
+      "russian": "Пожалуйста, подтвердите свою личность в этой новой версии."
     },
     "migrate-list1": {
       "dutch": "Ondersteunt Face ID / Touch ID",
@@ -1735,7 +1879,8 @@
       "mandarin": "支持面部识别/触摸识别",
       "portuguese": "Suporta Face ID / Touch ID",
       "spanish": "Soporta Face ID / Touch ID",
-      "turkish": "Face ID / Touch ID'yi destekler"
+      "turkish": "Face ID / Touch ID'yi destekler",
+      "russian": "Поддерживает Face ID / Touch ID"
     },
     "migrate-list2": {
       "dutch": "Beveiligd door SSO en apparaat",
@@ -1747,7 +1892,8 @@
       "mandarin": "由SSO和设备保护",
       "portuguese": "Protegido por SSO e dispositivo",
       "spanish": "Asegurado por SSO y dispositivo",
-      "turkish": "SSO ve cihaz tarafından güvence altına alınmıştır"
+      "turkish": "SSO ve cihaz tarafından güvence altına alınmıştır",
+      "russian": "Защищено с помощью SSO и устройства"
     },
     "migrate-list3": {
       "dutch": "Beschermde gebruikersgegevens en privacy",
@@ -1759,7 +1905,8 @@
       "mandarin": "受保护的用户数据和隐私",
       "portuguese": "Dados e privacidade protegidos do usuário",
       "spanish": "Privacidad y datos de usuario protegidos",
-      "turkish": "Korunan Kullanıcı Verileri ve Gizlilik"
+      "turkish": "Korunan Kullanıcı Verileri ve Gizlilik",
+      "russian": "Защита данных пользователя и конфиденциальности"
     },
     "migrate-subtitle": {
       "dutch": "Uw tKey migreren",
@@ -1771,7 +1918,8 @@
       "mandarin": "迁移您的tKey",
       "portuguese": "Migrando sua tKey",
       "spanish": "Migrar su tKey",
-      "turkish": "tKey'inizi taşıma"
+      "turkish": "tKey'inizi taşıma",
+      "russian": "Перенос вашего tKey"
     },
     "migrate-title": {
       "dutch": "eenvoudig en veilig gemaakt met",
@@ -1783,7 +1931,8 @@
       "mandarin": "变得简单而安全",
       "portuguese": "simples e seguro com",
       "spanish": "hecho simple y seguro con",
-      "turkish": "Şununla basit ve güvenli hale getirildi: "
+      "turkish": "Şununla basit ve güvenli hale getirildi: ",
+      "russian": "сделано простым и безопасным с помощью"
     },
     "mpc-2fa-setup-step3-download": {
       "dutch": "Download mijn herstelfactor",
@@ -1795,7 +1944,8 @@
       "mandarin": "下载我的恢复因子",
       "portuguese": "Baixar meu fator de recuperação",
       "spanish": "Descargar mi factor de recuperación",
-      "turkish": "Kurtarma faktörümü indir"
+      "turkish": "Kurtarma faktörümü indir",
+      "russian": "Скачайте мой фактор восстановления"
     },
     "mpc-2fa-setup-step3-sub1": {
       "dutch": "Geef een e-mailadres op om het herstelfactor te ontvangen",
@@ -1807,7 +1957,8 @@
       "mandarin": "提供电子邮件以接收恢复短语",
       "portuguese": "Forneça um e-mail para receber o fator de recuperação",
       "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación",
-      "turkish": "Kurtarma faktörünü almak için bir e-posta sağlayın"
+      "turkish": "Kurtarma faktörünü almak için bir e-posta sağlayın",
+      "russian": "Предоставьте электронную почту для получения средства восстановления"
     },
     "mpc-2fa-setup-step3-sub2": {
       "dutch": "Als u geen toegang meer heeft tot uw opgeslagen browser, kunt u zich authenticeren met uw herstelfactor.",
@@ -1819,7 +1970,8 @@
       "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
       "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com seu fator de recuperação.",
       "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación.",
-      "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, kurtarma faktörünüzle kimlik doğrulaması yapabilirsiniz."
+      "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, kurtarma faktörünüzle kimlik doğrulaması yapabilirsiniz.",
+      "russian": "В случае, если вы потеряете доступ к сохраненному браузеру, вы можете аутентифицироваться с помощью вашего восстановительного фактора."
     },
     "mpc-2fa-setup-step4-recovery": {
       "dutch": "Herstelfactor",
@@ -1831,7 +1983,8 @@
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación",
-      "turkish": "Kurtarma faktörü"
+      "turkish": "Kurtarma faktörü",
+      "russian": "Коэффициент восстановления"
     },
     "mpc-2fa-setup-step4-sub1": {
       "dutch": "Verifieer uw herstelfactor",
@@ -1843,7 +1996,8 @@
       "mandarin": "验证您的恢复系数",
       "portuguese": "Verifique seu fator de recuperação",
       "spanish": "Verifique su factor de recuperación",
-      "turkish": "Kurtarma faktörünüzü doğrulayın"
+      "turkish": "Kurtarma faktörünüzü doğrulayın",
+      "russian": "Проверьте ваш фактор восстановления"
     },
     "mpc-2fa-setup-step4-sub21": {
       "dutch": "Plak het herstelfactor",
@@ -1855,7 +2009,8 @@
       "mandarin": "粘贴恢复因子",
       "portuguese": "Cole o fator de recuperação",
       "spanish": "Pegar el factor de recuperación",
-      "turkish": "Kurtarma faktörünü yapıştır"
+      "turkish": "Kurtarma faktörünü yapıştır",
+      "russian": "Вставьте фактор восстановления"
     },
     "mpc-2fa-setup-step4-sub22": {
       "dutch": "Plak de herstelfactor die naar uw e-mail {0} is gestuurd",
@@ -1867,7 +2022,8 @@
       "mandarin": "粘贴发送到您的电子邮件 {0} 的恢复因素",
       "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}",
       "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}",
-      "turkish": "{0} e-postanıza gönderilen kurtarma faktörünü yapıştırın"
+      "turkish": "{0} e-postanıza gönderilen kurtarma faktörünü yapıştırın",
+      "russian": "Вставьте восстановительный фактор, отправленный на вашу электронную почту {0}"
     },
     "mpc-2fa-setup-title3": {
       "dutch": "Herstelfactor opslaan",
@@ -1879,7 +2035,8 @@
       "mandarin": "保存恢复短语",
       "portuguese": "Salvar fator de recuperação",
       "spanish": "Guardar frase de recuperación",
-      "turkish": "Kurtarma faktörünü kaydet"
+      "turkish": "Kurtarma faktörünü kaydet",
+      "russian": "Сохранить фактор восстановления"
     },
     "mpc-2fa-verify-step1-panel2": {
       "dutch": "Herstelfactor",
@@ -1891,7 +2048,8 @@
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación",
-      "turkish": "Kurtarma faktörü"
+      "turkish": "Kurtarma faktörü",
+      "russian": "Фактор восстановления"
     },
     "mpc-2fa-verify-step1-rec-label": {
       "dutch": "Voer herstelfactor in",
@@ -1903,7 +2061,8 @@
       "mandarin": "输入恢复系数",
       "portuguese": "Insira o fator de recuperação",
       "spanish": "Ingrese el factor de recuperación",
-      "turkish": "Kurtarma faktörünü girin"
+      "turkish": "Kurtarma faktörünü girin",
+      "russian": "Введите фактор восстановления"
     },
     "mpc-2fa-verify-step1-rec-placeholder": {
       "dutch": "Herstelfactor",
@@ -1915,7 +2074,8 @@
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación",
-      "turkish": "Kurtarma faktörü"
+      "turkish": "Kurtarma faktörü",
+      "russian": "Фактор восстановления"
     },
     "otp-verification-response-expired": {
       "dutch": "OTP verlopen",
@@ -1927,7 +2087,8 @@
       "mandarin": "OTP过期",
       "portuguese": "OTP expirou",
       "spanish": "OTP expiró",
-      "turkish": "OTP Süresi Doldu"
+      "turkish": "OTP Süresi Doldu",
+      "russian": "Одноразовый пароль истек"
     },
     "otp-verification-response-invalid": {
       "dutch": "Ongeldige OTP",
@@ -1939,7 +2100,8 @@
       "mandarin": "无效的OTP",
       "portuguese": "OTP inválido",
       "spanish": "OTP no válido",
-      "turkish": "Geçersiz OTP"
+      "turkish": "Geçersiz OTP",
+      "russian": "Недействительный OTP"
     },
     "otp-verification-response-success": {
       "dutch": "OTP geverifieerd",
@@ -1951,7 +2113,8 @@
       "mandarin": "已验证OTP",
       "portuguese": "OTP Verificado",
       "spanish": "OTP verificado",
-      "turkish": "OTP doğrulandı"
+      "turkish": "OTP doğrulandı",
+      "russian": "OTP подтвержден"
     },
     "pageReloadWarning": {
       "dutch": "Gelieve de pagina niet opnieuw te laden.",
@@ -1963,7 +2126,8 @@
       "mandarin": "请不要重新加载页面",
       "portuguese": "Por favor, não recarregue a página.",
       "spanish": "Por favor, no vuelva a cargar la página.",
-      "turkish": "Lütfen sayfayı yenilemeyin."
+      "turkish": "Lütfen sayfayı yenilemeyin.",
+      "russian": "Пожалуйста, не перезагружайте страницу."
     },
     "password-verification": {
       "dutch": "Wachtwoordverificatie",
@@ -1975,7 +2139,8 @@
       "mandarin": "密码验证",
       "portuguese": "verificação de senha",
       "spanish": "Verificación de contraseña",
-      "turkish": "Şifre doğrulama"
+      "turkish": "Şifre doğrulama",
+      "russian": "Проверка пароля"
     },
     "password-verification-desc": {
       "dutch": "Voer uw herstelwachtwoord in om te verifiëren",
@@ -1987,7 +2152,8 @@
       "mandarin": "输入您的恢复密码进行验证",
       "portuguese": "Digite sua senha de recuperação para verificar",
       "spanish": "Ingrese su contraseña de recuperación para verificar",
-      "turkish": "Doğrulamak için kurtarma şifrenizi girin"
+      "turkish": "Doğrulamak için kurtarma şifrenizi girin",
+      "russian": "Введите ваш пароль восстановления для проверки"
     },
     "pasteRecoveryFactor": {
       "dutch": "Plak alsjeblieft je herstelfactor",
@@ -1999,7 +2165,8 @@
       "mandarin": "请粘贴您的恢复因素",
       "portuguese": "Cole o seu fator de recuperação",
       "spanish": "Pegue su factor de recuperación",
-      "turkish": "Lütfen kurtarma faktörünüzü yapıştırın"
+      "turkish": "Lütfen kurtarma faktörünüzü yapıştırın",
+      "russian": "Пожалуйста, вставьте ваш фактор восстановления."
     },
     "phone-email-label": {
       "dutch": "Telefoon of e-mail",
@@ -2011,7 +2178,8 @@
       "mandarin": "电话还是邮件",
       "portuguese": "Telefone ou email",
       "spanish": "Teléfono o correo electrónico",
-      "turkish": "Telefon veya E-posta"
+      "turkish": "Telefon veya E-posta",
+      "russian": "Телефон или Электронная почта"
     },
     "popup-already": {
       "dutch": "Heb je al een account?",
@@ -2023,7 +2191,8 @@
       "mandarin": "已经有账户？",
       "portuguese": "Já possui uma conta?",
       "spanish": "¿Ya tienes una cuenta?",
-      "turkish": "Zaten bir hesabınız var mı?"
+      "turkish": "Zaten bir hesabınız var mı?",
+      "russian": "Уже есть аккаунт?"
     },
     "popup-continue": {
       "dutch": "Doorgaan",
@@ -2035,7 +2204,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam et"
+      "turkish": "Devam et",
+      "russian": "Продолжить"
     },
     "popup-continue-existing": {
       "dutch": "Doorgaan met bestaande {0}",
@@ -2047,7 +2217,8 @@
       "mandarin": "继续使用现有的{0}",
       "portuguese": "Continuar com {0} existente",
       "spanish": "Continuar con {0} existente",
-      "turkish": "Mevcut {0} ile devam edin"
+      "turkish": "Mevcut {0} ile devam edin",
+      "russian": "Продолжить с существующим {0}"
     },
     "popup-here": {
       "dutch": "hier",
@@ -2059,7 +2230,8 @@
       "mandarin": "这里",
       "portuguese": "aqui",
       "spanish": "aquí",
-      "turkish": "Burada"
+      "turkish": "Burada",
+      "russian": "здесь"
     },
     "popup-manage": {
       "dutch": "Account beheren",
@@ -2071,7 +2243,8 @@
       "mandarin": "管理帐户",
       "portuguese": "Gerenciar conta",
       "spanish": "Administrar cuenta",
-      "turkish": "Hesabı yönet"
+      "turkish": "Hesabı yönet",
+      "russian": "Управление аккаунтом"
     },
     "popup-privacy": {
       "dutch": "Privacybeleid",
@@ -2083,7 +2256,8 @@
       "mandarin": "隐私政策",
       "portuguese": "Política de Privacidade",
       "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası"
+      "turkish": "Gizlilik Politikası",
+      "russian": "Политика конфиденциальности"
     },
     "popup-subtitle": {
       "dutch": "Selecteer hoe u verder wilt gaan",
@@ -2095,7 +2269,8 @@
       "mandarin": "选择您想继续的方式",
       "portuguese": "Selecione como você gostaria de continuar",
       "spanish": "Seleccione cómo le gustaría continuar",
-      "turkish": "Nasıl devam etmek istediğinizi seçin"
+      "turkish": "Nasıl devam etmek istediğinizi seçin",
+      "russian": "Выберите, как вы хотели бы продолжить"
     },
     "popup-terms": {
       "dutch": "Gebruiksvoorwaarden",
@@ -2107,7 +2282,8 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
       "spanish": "Condiciones de uso",
-      "turkish": "Kullanım Şartları"
+      "turkish": "Kullanım Şartları",
+      "russian": "Условия использования"
     },
     "popup-title": {
       "dutch": "Welkom aan boord",
@@ -2119,7 +2295,8 @@
       "mandarin": "欢迎登机",
       "portuguese": "Bem-vindo a bordo",
       "spanish": "La bienvenida a bordo",
-      "turkish": "Hoş geldiniz"
+      "turkish": "Hoş geldiniz",
+      "russian": "Добро пожаловать на борт"
     },
     "popup-view-less": {
       "dutch": "Minder opties bekijken",
@@ -2131,7 +2308,8 @@
       "mandarin": "查看较少的选项",
       "portuguese": "Ver menos opções",
       "spanish": "Ver menos opciones",
-      "turkish": "Daha az seçenek görüntüle"
+      "turkish": "Daha az seçenek görüntüle",
+      "russian": "Посмотреть меньше опций"
     },
     "popup-view-more": {
       "dutch": "Meer opties bekijken",
@@ -2143,7 +2321,8 @@
       "mandarin": "查看更多选项",
       "portuguese": "Ver mais opções",
       "spanish": "Ver más opciones",
-      "turkish": "Daha fazla seçenek görüntüle"
+      "turkish": "Daha fazla seçenek görüntüle",
+      "russian": "Посмотреть больше опций"
     },
     "reconstruct-always-skip": {
       "dutch": "Altijd overslaan",
@@ -2155,7 +2334,8 @@
       "mandarin": "总是跳过",
       "portuguese": "Sempre pular",
       "spanish": "Saltar siempre",
-      "turkish": "Her zaman atlayın"
+      "turkish": "Her zaman atlayın",
+      "russian": "Всегда пропускай"
     },
     "reconstruct-always-skip-note": {
       "dutch": "Door 'Altijd overslaan' te selecteren, wordt u niet gevraagd om opnieuw in te loggen op uw OpenLogin-account. Als u van gedachten verandert, kunt u deze voorkeur op elk moment wijzigen in 'Instellingen'.",
@@ -2167,7 +2347,8 @@
       "mandarin": "通过选择“始终跳过”，您将不会收到再次登录 OpenLogin 帐户的提示。 如果您改变主意，您可以随时在“设置”中更改此首选项。",
       "portuguese": "Ao selecionar 'Sempre pular', você não será solicitado a fazer login na sua conta OpenLogin novamente. Se mudar de ideia, você pode alterar essa preferência a qualquer momento em 'Configurações'.",
       "spanish": "Si selecciona 'Omitir siempre', no se le pedirá que vuelva a iniciar sesión en su cuenta de OpenLogin. Si cambia de opinión, puede cambiar esta preferencia en cualquier momento en 'Configuración'.",
-      "turkish": "'Her zaman atla' seçeneğini seçtiğinizde, OpenLogin hesabınıza tekrar giriş yapmanız istenmeyecektir. Fikrinizi değiştirirseniz, bu tercihi istediğiniz zaman 'Ayarlar'dan değiştirebilirsiniz."
+      "turkish": "'Her zaman atla' seçeneğini seçtiğinizde, OpenLogin hesabınıza tekrar giriş yapmanız istenmeyecektir. Fikrinizi değiştirirseniz, bu tercihi istediğiniz zaman 'Ayarlar'dan değiştirebilirsiniz.",
+      "russian": "Выбрав \"Всегда пропускать\", вы больше не будете получать запрос на вход в свой аккаунт OpenLogin. Если вы передумаете, вы можете изменить это предпочтение в любое время в разделе \"Настройки\"."
     },
     "reconstruct-backup-phrase-desc": {
       "dutch": "Voer de back-upzin in die eerder naar uw herstel-e-mail is verzonden.",
@@ -2179,7 +2360,8 @@
       "mandarin": "输入先前发送到您的辅助邮箱的备份短语。",
       "portuguese": "Digite a frase de backup enviada para seu e-mail de recuperação anteriormente.",
       "spanish": "Ingrese la frase de respaldo enviada a su correo electrónico de recuperación anteriormente.",
-      "turkish": "Daha önce kurtarma e-postanıza gönderilen yedekleme ifadesini girin."
+      "turkish": "Daha önce kurtarma e-postanıza gönderilen yedekleme ifadesini girin.",
+      "russian": "Введите фразу восстановления, которую ранее отправили на вашу почту для восстановления."
     },
     "reconstruct-backup-phrase-desc-2": {
       "dutch": "Verifieer met uw back-upzin die is ingesteld op",
@@ -2191,7 +2373,8 @@
       "mandarin": "确认已设置的备份集",
       "portuguese": "Verifique com sua frase de recuperação que foi configurada em",
       "spanish": "Compruebe el conjunto de copia de seguridad establecido",
-      "turkish": "Şunun üzerinde ayarlanmış olan yedekleme ifadenizle doğrulayın"
+      "turkish": "Şunun üzerinde ayarlanmış olan yedekleme ifadenizle doğrulayın",
+      "russian": "Проверьте с помощью вашей фразы врсстановления, которая была настроена на"
     },
     "reconstruct-backup-phrase-desc-3": {
       "dutch": "en verzonden naar e-mail:",
@@ -2203,7 +2386,8 @@
       "mandarin": "并发送到电子邮件：",
       "portuguese": "e enviado para o e-mail:",
       "spanish": "y enviado al correo electrónico:",
-      "turkish": "ve e-postaya gönderildi:"
+      "turkish": "ve e-postaya gönderildi:",
+      "russian": "и отправлено на электронную почту:"
     },
     "reconstruct-backup-phrase-placeholder": {
       "dutch": "Voer de back-upzin in",
@@ -2215,7 +2399,8 @@
       "mandarin": "输入备用词组",
       "portuguese": "Digite a frase de backup",
       "spanish": "Ingrese la frase de respaldo",
-      "turkish": "Yedekleme ifadesini girin"
+      "turkish": "Yedekleme ifadesini girin",
+      "russian": "Введите фразу восстановления"
     },
     "reconstruct-backup-phrase-title": {
       "dutch": "Back-up zin",
@@ -2227,7 +2412,8 @@
       "mandarin": "备用词组",
       "portuguese": "Frase de backup",
       "spanish": "Frase de respaldo",
-      "turkish": "Yedekleme ifadesi"
+      "turkish": "Yedekleme ifadesi",
+      "russian": "Фраза восстановления"
     },
     "reconstruct-biometrics-desc": {
       "dutch": "* Alleen voor Touch ID / Face ID die eerder zijn ingesteld op de volgende apparaat(s):",
@@ -2239,7 +2425,8 @@
       "mandarin": "*仅适用于先前在以下设备上设置的Touch ID / Face ID：",
       "portuguese": "* Apenas para Touch ID / Face ID previamente configurado no(s) seguinte(s) dispositivo(s):",
       "spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:",
-      "turkish": "* Yalnızca aşağıdaki cihaz(lar)da önceden ayarlanmış Touch ID / Face ID için:"
+      "turkish": "* Yalnızca aşağıdaki cihaz(lar)da önceden ayarlanmış Touch ID / Face ID için:",
+      "russian": "* Только для Touch ID / Face ID, ранее настроенных на следующем(их) устройстве(ах):"
     },
     "reconstruct-biometrics-title": {
       "dutch": "Apparaat(en) met Face ID / Touch ID-ondersteuning*",
@@ -2251,7 +2438,8 @@
       "mandarin": "支持面部识别/触摸识别的设备*",
       "portuguese": "Dispositivo(s) habilitado(s) para Face ID / Touch ID*",
       "spanish": "Dispositivos habilitados con Face ID / Touch ID *",
-      "turkish": "Face ID / Touch ID özellikli cihaz(lar) *"
+      "turkish": "Face ID / Touch ID özellikli cihaz(lar) *",
+      "russian": "Устройство(а) с включенной функцией Face ID / Touch ID *"
     },
     "reconstruct-biometrics-verify": {
       "dutch": "Verifiëren met Touch ID / Face ID",
@@ -2263,7 +2451,8 @@
       "mandarin": "使用Touch ID / Face ID进行验证",
       "portuguese": "Verificar com Touch ID / Face ID",
       "spanish": "Verificar con Touch ID / Face ID",
-      "turkish": "Touch ID / Face ID ile doğrulama"
+      "turkish": "Touch ID / Face ID ile doğrulama",
+      "russian": "Подтвердите с помощью Touch ID / Face ID"
     },
     "reconstruct-device-desc": {
       "dutch": "Log in op {0} vanuit de opgeslagen browser hieronder om uw identiteit te verifiëren.",
@@ -2275,7 +2464,8 @@
       "mandarin": "从下面存储的浏览器登录到{0}以验证您的身份。",
       "portuguese": "Faça login em {0} no navegador armazenado abaixo para verificar sua identidade.",
       "spanish": "Inicie sesión en {0} desde el navegador almacenado a continuación para verificar su identidad.",
-      "turkish": "Kimliğinizi doğrulamak için aşağıdaki kayıtlı tarayıcıdan {0}'a giriş yapın."
+      "turkish": "Kimliğinizi doğrulamak için aşağıdaki kayıtlı tarayıcıdan {0}'a giriş yapın.",
+      "russian": "Войдите в {0} из сохраненного ниже браузера, чтобы подтвердить свою личность."
     },
     "reconstruct-device-desc1": {
       "dutch": "Inloggen op",
@@ -2287,7 +2477,8 @@
       "mandarin": "登录到",
       "portuguese": "Logar em",
       "spanish": "Iniciar sesión en",
-      "turkish": "Giriş yapmak için"
+      "turkish": "Giriş yapmak için",
+      "russian": "Войдите в"
     },
     "reconstruct-device-desc2": {
       "dutch": "van een van de volgende apparaten om de beveiligingsverificatie te voltooien.",
@@ -2299,7 +2490,8 @@
       "mandarin": "从以下任何设备中完成安全性验证。",
       "portuguese": "de qualquer um dos seguintes dispositivos para concluir a verificação de segurança.",
       "spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad.",
-      "turkish": "Güvenlik doğrulamasını tamamlamak için aşağıdaki cihazlardan herhangi birinden"
+      "turkish": "Güvenlik doğrulamasını tamamlamak için aşağıdaki cihazlardan herhangi birinden",
+      "russian": "с любого из следующих устройств для завершения проверки безопасности."
     },
     "reconstruct-device-prev1": {
       "dutch": "Log in op uw",
@@ -2311,7 +2503,8 @@
       "mandarin": "登录到您的",
       "portuguese": "Entre no seu",
       "spanish": "Inicie sesión en su",
-      "turkish": "Giriş yapın"
+      "turkish": "Giriş yapın",
+      "russian": "Войдите в ваш"
     },
     "reconstruct-device-prev2": {
       "dutch": "vorige versie van de Torus Wallet",
@@ -2323,7 +2516,8 @@
       "mandarin": "Torus钱包的先前版本",
       "portuguese": "versão anterior da Torus Wallet",
       "spanish": "versión anterior de Torus Wallet",
-      "turkish": "Torus Cüzdan'ın önceki sürümü"
+      "turkish": "Torus Cüzdan'ın önceki sürümü",
+      "russian": "предыдущая версия кошелька Torus"
     },
     "reconstruct-device-prev3": {
       "dutch": "van de opgeslagen browser hieronder om uw identiteit te verifiëren.",
@@ -2335,7 +2529,8 @@
       "mandarin": "从下面存储的浏览器中验证您的身份。",
       "portuguese": "do navegador armazenado abaixo para verificar sua identidade.",
       "spanish": "desde el navegador almacenado a continuación para verificar su identidad.",
-      "turkish": "kimliğinizi doğrulamak için aşağıdaki kayıtlı tarayıcıdan"
+      "turkish": "kimliğinizi doğrulamak için aşağıdaki kayıtlı tarayıcıdan",
+      "russian": "Из сохраненного браузера ниже для проверки вашей личности."
     },
     "reconstruct-device-title": {
       "dutch": "Appara(a)t(en)",
@@ -2347,7 +2542,8 @@
       "mandarin": "设备",
       "portuguese": "Dispositivo(s)",
       "spanish": "Dispositivos",
-      "turkish": "Cihaz(lar)"
+      "turkish": "Cihaz(lar)",
+      "russian": "Устройство(а)"
     },
     "reconstruct-fail": {
       "dutch": "Kan account niet herstellen?",
@@ -2359,7 +2555,8 @@
       "mandarin": "无法找回帐户？",
       "portuguese": "Não é possível recuperar a conta?",
       "spanish": "¿No puede recuperar la cuenta?",
-      "turkish": "Hesap kurtarılamıyor mu?"
+      "turkish": "Hesap kurtarılamıyor mu?",
+      "russian": "Не удается восстановить аккаунт?"
     },
     "reconstruct-multiple-transports-desc": {
       "dutch": "Alleen voor webauthenticatiemethoden die eerder zijn ingesteld op de volgende apparaat(s)",
@@ -2367,11 +2564,12 @@
       "french": "Uniquement pour les méthodes d'authentification Web qui ont été précédemment configurées sur le(s) appareil(s) suivant(s)",
       "german": "Nur für Webauthentifizierungsmethoden, die zuvor auf den folgenden Geräten eingerichtet wurden (en)",
       "japanese": "以前に次のデバイスに設定されたWeb認証方法のみ",
-      "korean":  "다음 기기에서 이전에 설정된 웹 인증 수단에만 해당됩니다",
+      "korean": "다음 기기에서 이전에 설정된 웹 인증 수단에만 해당됩니다",
       "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
       "portuguese": "Apenas para métodos de autenticação da web que foram configurados anteriormente no(s) seguinte(s) dispositivo(s)",
       "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos",
-      "turkish": "Yalnızca aşağıdaki cihaz(lar)da daha önce ayarlanmış olan web kimlik doğrulama yöntemleri için"
+      "turkish": "Yalnızca aşağıdaki cihaz(lar)da daha önce ayarlanmış olan web kimlik doğrulama yöntemleri için",
+      "russian": "Только для методов веб-аутентификации, которые были ранее настроены на следующем(их) устройстве(ах)"
     },
     "reconstruct-multiple-transports-title": {
       "dutch": "Apparaten met webauthenticatie ingeschakeld",
@@ -2379,11 +2577,12 @@
       "french": "Appareil(s) habilité(s) pour l'authentification Web",
       "german": "Webauthentifizierung aktiviertes Geräte (en)",
       "japanese": "Web認証有効化デバイス",
-      "korean":  "웹 인증이 활성화된 기기",
+      "korean": "웹 인증이 활성화된 기기",
       "mandarin": "Web身份验证启用设备",
       "portuguese": "Dispositivo(s) habilitado(s) para utenticação da Web",
       "spanish": "Dispositivo (s) de autenticación web",
-      "turkish": "Web Kimlik Doğrulaması Etkin Cihaz(lar)"
+      "turkish": "Web Kimlik Doğrulaması Etkin Cihaz(lar)",
+      "russian": "Устройство(а) с включенной веб-аутентификацией"
     },
     "reconstruct-multiple-transports-verify": {
       "dutch": "Nu verifiëren",
@@ -2395,7 +2594,8 @@
       "mandarin": "立即验证",
       "portuguese": "Verifique agora",
       "spanish": "Verifica ahora",
-      "turkish": "Şimdi doğrula"
+      "turkish": "Şimdi doğrula",
+      "russian": "Подтвердите сейчас"
     },
     "reconstruct-password-desc": {
       "dutch": "Voer hier uw account herstel wachtwoord in",
@@ -2407,7 +2607,8 @@
       "mandarin": "在此处输入您的帐户恢复密码",
       "portuguese": "Digite sua senha de recuperação de conta aqui",
       "spanish": "Ingrese la contraseña de recuperación de su cuenta aquí",
-      "turkish": "Hesap kurtarma şifrenizi buraya girin"
+      "turkish": "Hesap kurtarma şifrenizi buraya girin",
+      "russian": "Введите пароль для восстановления вашего аккаунта"
     },
     "reconstruct-password-placeholder": {
       "dutch": "Account wachtwoord",
@@ -2419,7 +2620,8 @@
       "mandarin": "户口密码",
       "portuguese": "Senha da conta",
       "spanish": "Contraseña de la cuenta",
-      "turkish": "Hesap şifresi"
+      "turkish": "Hesap şifresi",
+      "russian": "Пароль учетной записи"
     },
     "reconstruct-password-title": {
       "dutch": "Herstel wachtwoord",
@@ -2431,7 +2633,8 @@
       "mandarin": "找回密码",
       "portuguese": "Senha de recuperação",
       "spanish": "Contraseña de recuperación",
-      "turkish": "Kurtarma şifresi"
+      "turkish": "Kurtarma şifresi",
+      "russian": "Восстановление пароля"
     },
     "reconstruct-subtitle": {
       "dutch": "Verifieer met een van de volgende om toegang te krijgen tot uw account",
@@ -2443,7 +2646,8 @@
       "mandarin": "验证以下内容之一以访问您的帐户",
       "portuguese": "Verifique com um dos seguintes para acessar sua conta",
       "spanish": "Verifique con uno de los siguientes para acceder a su cuenta",
-      "turkish": "Hesabınıza erişmek için aşağıdakilerden biriyle doğrulama yapın"
+      "turkish": "Hesabınıza erişmek için aşağıdakilerden biriyle doğrulama yapın",
+      "russian": "Подтвердите с помощью одного из следующих методов для доступа к вашему аккаунту"
     },
     "reconstruct-support": {
       "dutch": "Neem contact op met de ondersteuning",
@@ -2455,7 +2659,8 @@
       "mandarin": "联系支持",
       "portuguese": "Entre em contato com o suporte",
       "spanish": "Soporte de contacto",
-      "turkish": "Destekle iletişime geçin"
+      "turkish": "Destekle iletişime geçin",
+      "russian": "Свяжитесь со службой поддержки"
     },
     "reconstruct-title": {
       "dutch": "Verifieer uw login",
@@ -2467,7 +2672,8 @@
       "mandarin": "验证您的登录名",
       "portuguese": "Verifique seu login",
       "spanish": "Verifique su inicio de sesión",
-      "turkish": "Giriş bilgilerinizi doğrulayın"
+      "turkish": "Giriş bilgilerinizi doğrulayın",
+      "russian": "Проверьте ваш вход в систему"
     },
     "recovery-factor-sent-to": {
       "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op {link}",
@@ -2479,7 +2685,8 @@
       "mandarin": "在{date}上输入发送到{email}的恢复短语，或者如果不在电子邮件中，则可以在{link}上检索它。",
       "portuguese": "Insira a frase de recuperação enviada para {email} em {date}, ou se não estiver em seu e -mail, você pode recuperá -lo em {link}",
       "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en {link}",
-      "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin veya e-postanızda yoksa {link} adresinden alabilirsiniz"
+      "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin veya e-postanızda yoksa {link} adresinden alabilirsiniz",
+      "russian": "Введите код восстановления, отправленный на {email} {date}, или, если его нет в вашей почте, вы можете получить его по ссылке {link}"
     },
     "recovery-factor-sent-to-custom-verifier": {
       "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}",
@@ -2491,7 +2698,8 @@
       "mandarin": "在{date}上输入发送到{email}的恢复短语",
       "portuguese": "Insira a frase de recuperação enviada para {email} em {date}",
       "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}",
-      "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin"
+      "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin",
+      "russian": "Введите фразу восстановления, отправленную на {email} {date}"
     },
     "register-backup-phrase-additional-security-desc1": {
       "dutch": "Er wordt een e-mail naar u verzonden met de back-upzin.",
@@ -2503,7 +2711,8 @@
       "mandarin": "将向您发送一封包含备份短语的电子邮件。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
-      "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir."
+      "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir.",
+      "russian": "На вашу почту будет отправлено письмо, содержащее резервную фразу."
     },
     "register-backup-phrase-additional-security-desc2": {
       "dutch": "Het helpt u bij het herstellen van uw account als u uw apparaat met Touch ID / Face ID verliest.",
@@ -2515,7 +2724,8 @@
       "mandarin": "如果您丢失带有 Touch ID / Face ID 的设备，它可以帮助您恢复帐户。",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo com Touch ID / Face ID。",
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID.",
-      "turkish": "Touch ID / Face ID ile cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur."
+      "turkish": "Touch ID / Face ID ile cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur.",
+      "russian": "Оно помогает вам восстановить доступ к аккаунту в случае потери устройства с Touch ID / Face ID."
     },
     "register-backup-phrase-confirm-desc1": {
       "dutch": "Ik bevestig dat ik de herstel-e-mail heb ontvangen.",
@@ -2523,11 +2733,12 @@
       "french": "Je confirme avoir reçu l'e-mail de récupération.",
       "german": "Ich bestätige, dass ich die Wiederherstellungs-E-Mail erhalten habe.",
       "japanese": "復旧メールを受信したことを確認しました。",
-      "korean":  "복구 메일을 전송 받았음을 확인했습니다.",
+      "korean": "복구 메일을 전송 받았음을 확인했습니다.",
       "mandarin": "我确认我已收到恢复电子邮件。",
       "portuguese": "Confirmo que recebi o e-mail de recuperação.",
       "spanish": "Confirmo que he recibido el correo de recuperación.",
-      "turkish": "Kurtarma e-postasını aldığımı onaylıyorum."
+      "turkish": "Kurtarma e-postasını aldığımı onaylıyorum.",
+      "russian": "Я подтверждаю, что получил письмо для восстановления."
     },
     "register-backup-phrase-confirm-desc2": {
       "dutch": "Indien niet,",
@@ -2539,7 +2750,8 @@
       "mandarin": "如果不，",
       "portuguese": "Se não,",
       "spanish": "Que no,",
-      "turkish": "Eğer değilse,"
+      "turkish": "Eğer değilse,",
+      "russian": "'Если нет,'"
     },
     "register-backup-phrase-confirm-desc3": {
       "dutch": "herstel e-mail opnieuw invoeren",
@@ -2551,7 +2763,8 @@
       "mandarin": "重新输入辅助邮箱",
       "portuguese": "digite novamente o e-mail de recuperação",
       "spanish": "vuelve a ingresar el correo de recuperación",
-      "turkish": "kurtarma emailini yeniden girin"
+      "turkish": "kurtarma emailini yeniden girin",
+      "russian": "введите заново адрес электронной почты для восстановления"
     },
     "register-backup-phrase-desc": {
       "dutch": "Een e-mail wordt naar u verzonden met de back-upzin. Het helpt u bij het herstellen van uw account als u uw apparaat verliest.",
@@ -2563,7 +2776,8 @@
       "mandarin": "包含备用短语的电子邮件将发送给您。如果您丢失了设备，它将帮助您进行帐户恢复。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup. Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
-      "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir. Cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur."
+      "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir. Cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur.",
+      "russian": "Вам будет отправлено письмо, содержащее резервную фразу. Она поможет вам восстановить аккаунт в случае потери устройства."
     },
     "register-backup-phrase-desc1": {
       "dutch": "Er wordt een e-mail naar u verzonden met de back-upzin.",
@@ -2575,7 +2789,8 @@
       "mandarin": "将向您发送一封包含备份短语的电子邮件。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
-      "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir."
+      "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir.",
+      "russian": "Вам будет отправлено письмо, содержащее резервную фразу."
     },
     "register-backup-phrase-desc2": {
       "dutch": "Het helpt u bij het herstellen van uw account in geval van verlies van uw apparaat.",
@@ -2587,7 +2802,8 @@
       "mandarin": "它可以帮助您在丢失设备时恢复帐户。",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
-      "turkish": "Cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur."
+      "turkish": "Cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur.",
+      "russian": "Оно помогает вам восстановить доступ к аккаунту в случае потери вашего устройства."
     },
     "register-backup-phrase-placeholder": {
       "dutch": "Voer het herstel-e-mailadres in",
@@ -2599,7 +2815,8 @@
       "mandarin": "输入辅助邮箱",
       "portuguese": "Digite o e-mail de recuperação",
       "spanish": "Ingresa el correo de recuperación",
-      "turkish": "Kurtarma e-postasını girin"
+      "turkish": "Kurtarma e-postasını girin",
+      "russian": "Введите адрес восстановления электронной почты"
     },
     "register-backup-phrase-send": {
       "dutch": "Herstel e-mail verzenden",
@@ -2611,7 +2828,8 @@
       "mandarin": "发送恢复电子邮件",
       "portuguese": "Enviar e-mail de recuperação",
       "spanish": "Enviar correo de recuperación",
-      "turkish": "Kurtarma e-postası gönder"
+      "turkish": "Kurtarma e-postası gönder",
+      "russian": "Отправить письмо для восстановления"
     },
     "register-backup-phrase-title": {
       "dutch": "Doorgaan met een herstel-e-mail",
@@ -2623,7 +2841,8 @@
       "mandarin": "继续发送辅助邮箱",
       "portuguese": "Continuar com um e-mail de recuperação",
       "spanish": "Continuar con un correo de recuperación",
-      "turkish": "Kurtarma e-postasıyla devam et"
+      "turkish": "Kurtarma e-postasıyla devam et",
+      "russian": "Продолжить с помощью восстановительного электронного письма"
     },
     "register-biometrics-desc": {
       "dutch": "Registreer uw apparaat met Face ID of Touch ID. Biometrie verlaat uw apparaat nooit.",
@@ -2635,7 +2854,8 @@
       "mandarin": "使用面容 ID 或触控 ID 注册您的设备。 生物识别技术永远不会离开您的设备。",
       "portuguese": "Registre seu dispositivo com Face ID ou Touch ID. A biometria nunca sai do seu dispositivo.",
       "spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo.",
-      "turkish": "Cihazınızı Face ID veya Touch ID ile kaydedin. Biyometri cihazınızdan asla çıkmaz."
+      "turkish": "Cihazınızı Face ID veya Touch ID ile kaydedin. Biyometri cihazınızdan asla çıkmaz.",
+      "russian": "Зарегистрируйте ваше устройство с помощью Face ID или Touch ID. Биометрические данные никогда не покидают ваше устройство."
     },
     "register-biometrics-enable": {
       "dutch": "Activeer Touch ID / Face ID",
@@ -2647,7 +2867,8 @@
       "mandarin": "启用触摸ID /面部ID",
       "portuguese": "Ativar Touch ID / Face ID",
       "spanish": "Habilitar Touch ID / Face ID",
-      "turkish": "Touch ID / Face ID'yi etkinleştirin"
+      "turkish": "Touch ID / Face ID'yi etkinleştirin",
+      "russian": "Включить Touch ID / Face ID"
     },
     "register-biometrics-title": {
       "dutch": "Doorgaan met Face ID of Touch ID",
@@ -2659,7 +2880,8 @@
       "mandarin": "继续使用Face ID或Touch ID",
       "portuguese": "Continue com Face ID ou Touch ID",
       "spanish": "Continuar con Face ID o Touch ID",
-      "turkish": "Face ID veya Touch ID ile devam edin"
+      "turkish": "Face ID veya Touch ID ile devam edin",
+      "russian": "Продолжить с использованием Face ID или Touch ID"
     },
     "register-continue": {
       "dutch": "Doorgaan",
@@ -2671,7 +2893,8 @@
       "mandarin": "继续",
       "portuguese": "Continuar",
       "spanish": "Continuar",
-      "turkish": "Devam et"
+      "turkish": "Devam et",
+      "russian": "Продолжить"
     },
     "register-external-transports-desc": {
       "dutch": "Registreer uw apparaat voor alle webauthenticatiemethoden.",
@@ -2683,7 +2906,8 @@
       "mandarin": "注册您的设备任何Web身份验证方法。",
       "portuguese": "Registre seu dispositivo em qualquer método de autenticação da web.",
       "spanish": "Registre su dispositivo cualquier método de autenticación web.",
-      "turkish": "Cihazınızı herhangi bir web kimlik doğrulama yöntemiyle kaydedin."
+      "turkish": "Cihazınızı herhangi bir web kimlik doğrulama yöntemiyle kaydedin.",
+      "russian": "Зарегистрируйте ваше устройство любыми методами веб-аутентификации."
     },
     "register-external-transports-webauthn-title": {
       "dutch": "Ga door met elke Web Authenticatie Methode",
@@ -2695,7 +2919,8 @@
       "mandarin": "继续使用任何Web身份验证方法",
       "portuguese": "Continue com qualquer método de autenticação da web",
       "spanish": "Continuar con cualquier método de autenticación web",
-      "turkish": "Herhangi bir Web Kimlik Doğrulama Yöntemi ile devam edin"
+      "turkish": "Herhangi bir Web Kimlik Doğrulama Yöntemi ile devam edin",
+      "russian": "Продолжить с любыми методами веб-аутентификации"
     },
     "register-multiple-transports-cta": {
       "dutch": "Instellen",
@@ -2707,7 +2932,8 @@
       "mandarin": "设置它",
       "portuguese": "Configurá-lo",
       "spanish": "Prepararlo",
-      "turkish": "Kurun"
+      "turkish": "Kurun",
+      "russian": "Установи это"
     },
     "register-multiple-transports-desc": {
       "dutch": "Registreer uw apparaat met biometrie of een webauthenticatiemethode.",
@@ -2719,7 +2945,8 @@
       "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
       "portuguese": "Registre seu dispositivo com biometria ou qualquer método de autenticação da web.",
       "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web.",
-      "turkish": "Cihazınızı biyometri veya herhangi bir web kimlik doğrulama yöntemiyle kaydedin."
+      "turkish": "Cihazınızı biyometri veya herhangi bir web kimlik doğrulama yöntemiyle kaydedin.",
+      "russian": "Зарегистрируйте свое устройство с помощью биометрии или любых методов веб-аутентификации."
     },
     "register-multiple-transports-webauthn-title": {
       "dutch": "Ga verder met biometrie of een van de webauthenticatiemethoden",
@@ -2731,7 +2958,8 @@
       "mandarin": "继续使用生物识别技术或任何Web身份验证方法",
       "portuguese": "Continue com a biometria ou qualquer método de autenticação da Web",
       "spanish": "Continuar con biometría o cualquier método de autenticación web",
-      "turkish": "Biyometri veya herhangi bir Web Kimlik Doğrulama Yöntemi ile devam edin"
+      "turkish": "Biyometri veya herhangi bir Web Kimlik Doğrulama Yöntemi ile devam edin",
+      "russian": "Продолжить с биометрией или любыми методами веб-аутентификации"
     },
     "register-password-confirm": {
       "dutch": "Wachtwoord instellen",
@@ -2743,7 +2971,8 @@
       "mandarin": "设定密码",
       "portuguese": "Configurar senha",
       "spanish": "Configurar contraseña",
-      "turkish": "Şifre ayarla"
+      "turkish": "Şifre ayarla",
+      "russian": "Установить пароль"
     },
     "register-password-password": {
       "dutch": "Voer uw wachtwoord in",
@@ -2755,7 +2984,8 @@
       "mandarin": "输入密码",
       "portuguese": "Coloque sua senha",
       "spanish": "Ingresa tu contraseña",
-      "turkish": "Şifrenizi girin"
+      "turkish": "Şifrenizi girin",
+      "russian": "Введите ваш пароль"
     },
     "register-password-password-confirm": {
       "dutch": "Voer uw wachtwoord opnieuw in",
@@ -2767,7 +2997,8 @@
       "mandarin": "重新输入密码",
       "portuguese": "Redigite sua senha",
       "spanish": "reingresa tu contraseña",
-      "turkish": "Şifrenizi tekrar girin"
+      "turkish": "Şifrenizi tekrar girin",
+      "russian": "Введите ваш пароль еще раз"
     },
     "register-password-title": {
       "dutch": "Stel wachtwoord voor account in",
@@ -2779,7 +3010,8 @@
       "mandarin": "设置帐号密码",
       "portuguese": "Configurar senha da conta",
       "spanish": "Configurar la contraseña de la cuenta",
-      "turkish": "Hesap şifresini ayarla"
+      "turkish": "Hesap şifresini ayarla",
+      "russian": "Установите пароль для аккаунта"
     },
     "register-skip": {
       "dutch": "Nu overslaan",
@@ -2791,7 +3023,8 @@
       "mandarin": "立即跳过",
       "portuguese": "Pular por agora",
       "spanish": "Saltar por ahora",
-      "turkish": "Şimdilik Atla"
+      "turkish": "Şimdilik Atla",
+      "russian": "Пропустить пока"
     },
     "register-subtitle": {
       "dutch": "Selecteer een van de volgende",
@@ -2803,7 +3036,8 @@
       "mandarin": "选择以下之一",
       "portuguese": "Selecione um dos seguintes",
       "spanish": "Selecciona uno de los siguientes",
-      "turkish": "Aşağıdakilerden birini seçin"
+      "turkish": "Aşağıdakilerden birini seçin",
+      "russian": "Выберите одно из следующих"
     },
     "register-subtitle-additional-security": {
       "dutch": "Uw accountbeveiliging is belangrijk. Laten we het backuppen.",
@@ -2815,7 +3049,8 @@
       "mandarin": "您的帐户安全很重要。 让我们支持它。",
       "portuguese": "A segurança da sua conta é importante. Vamos fazer backup.",
       "spanish": "La seguridad de su cuenta es importante. Hagamos una copia de seguridad.",
-      "turkish": "Hesap güvenliğiniz önemlidir. Yedekleyelim."
+      "turkish": "Hesap güvenliğiniz önemlidir. Yedekleyelim.",
+      "russian": "Безопасность вашего аккаунта важна. Давайте создадим резервную копию."
     },
     "register-subtitle-try-webauth": {
       "dutch": "Wilt u Touch ID / Face ID op dit apparaat inschakelen?",
@@ -2827,7 +3062,8 @@
       "mandarin": "您要在此设备上启用Touch ID / Face ID吗？",
       "portuguese": "Gostaria de ativar o Touch ID / Face ID neste dispositivo?",
       "spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?",
-      "turkish": "Bu cihazda Touch ID / Face ID'yi etkinleştirmek ister misiniz?"
+      "turkish": "Bu cihazda Touch ID / Face ID'yi etkinleştirmek ister misiniz?",
+      "russian": "Вы хотите включить Touch ID / Face ID на этом устройстве?"
     },
     "register-title": {
       "dutch": "Beveilig uw {0} account",
@@ -2839,7 +3075,8 @@
       "mandarin": "保护您的{0}帐户",
       "portuguese": "Protegendo sua conta {0}",
       "spanish": "Asegurar su cuenta de {0}",
-      "turkish": "{0} hesabınızın güvenliğini sağlama"
+      "turkish": "{0} hesabınızın güvenliğini sağlama",
+      "russian": "Обеспечение безопасности вашего аккаунта {0}"
     },
     "register-title-additional-security": {
       "dutch": "Een laatste stap voordat je gaat",
@@ -2851,7 +3088,8 @@
       "mandarin": "出发前的最后一步",
       "portuguese": "Um último passo antes de ir",
       "spanish": "Un último paso antes de irte",
-      "turkish": "Başlamadan önce son bir adım"
+      "turkish": "Başlamadan önce son bir adım",
+      "russian": "Еще один шаг перед тем пойти дальше"
     },
     "register-title-try-webauth": {
       "dutch": "Beveilig uw account",
@@ -2863,7 +3101,8 @@
       "mandarin": "保护您的帐户",
       "portuguese": "Protegendo sua conta",
       "spanish": "Asegurar su cuenta",
-      "turkish": "Hesabınızın güvenliğini sağlama"
+      "turkish": "Hesabınızın güvenliğini sağlama",
+      "russian": "Защита вашего аккаунта"
     },
     "resend-code-cta": {
       "dutch": "Code opnieuw verzenden",
@@ -2875,7 +3114,8 @@
       "mandarin": "重新发送验证码",
       "portuguese": "Reenviar código",
       "spanish": "Reenviar codigo",
-      "turkish": "Kodu tekrar gönder"
+      "turkish": "Kodu tekrar gönder",
+      "russian": "Отправить код повторно"
     },
     "resend-otp-code": {
       "dutch": "Code opnieuw verzenden in {time}",
@@ -2887,7 +3127,8 @@
       "mandarin": "重新发送代码 {time}",
       "portuguese": "Reduzir o código em {time}",
       "spanish": "Reenviar código en {time}",
-      "turkish": "Kodu {time} saniye içinde tekrar gönder"
+      "turkish": "Kodu {time} saniye içinde tekrar gönder",
+      "russian": "Отправить код повторно через {время}"
     },
     "returning-confirm-btn": {
       "dutch": "Ja, doorgaan met biometrie",
@@ -2899,7 +3140,8 @@
       "mandarin": "是的，继续生物识别",
       "portuguese": "Sim, continuar com a biometria",
       "spanish": "Sí, continuar con la biometría",
-      "turkish": "Evet, biyometri ile devam et"
+      "turkish": "Evet, biyometri ile devam et",
+      "russian": "Да, продолжайте с биометрией."
     },
     "returning-confirm-desc": {
       "dutch": "Doorgaan met inloggen via biometrie?",
@@ -2911,7 +3153,8 @@
       "mandarin": "继续通过生物识别登录？",
       "portuguese": "Continuar seu login via biometria?",
       "spanish": "¿Continuar con el inicio de sesión mediante datos biométricos?",
-      "turkish": "Biyometri ile oturum açmaya devam mı ediyorsunuz?"
+      "turkish": "Biyometri ile oturum açmaya devam mı ediyorsunuz?",
+      "russian": "Продолжить вход через биометрию?"
     },
     "returning-confirm-title": {
       "dutch": "We willen gewoon zeker zijn.",
@@ -2923,7 +3166,8 @@
       "mandarin": "我们只是想确定一下。",
       "portuguese": "Só queremos ter certeza.",
       "spanish": "Solo queremos estar seguros.",
-      "turkish": "Sadece emin olmak istiyoruz."
+      "turkish": "Sadece emin olmak istiyoruz.",
+      "russian": "Мы просто хотим быть уверенными."
     },
     "returning-continue": {
       "dutch": "Doorgaan met {0}",
@@ -2935,7 +3179,8 @@
       "mandarin": "继续{0}",
       "portuguese": "Continuar com {0}",
       "spanish": "Continuar con {0}",
-      "turkish": "Şununla devam et: {0}"
+      "turkish": "Şununla devam et: {0}",
+      "russian": "Продолжить с {0}"
     },
     "returning-exist-title": {
       "dutch": "Welkom terug, {0}",
@@ -2947,7 +3192,8 @@
       "mandarin": "欢迎回来，{0}",
       "portuguese": "Bem-vindo de volta, {0}",
       "spanish": "Bienvenido de nuevo, {0}",
-      "turkish": "Tekrar hoş geldiniz, {0}"
+      "turkish": "Tekrar hoş geldiniz, {0}",
+      "russian": "Добро пожаловать обратно, {0}"
     },
     "returning-exist-use-another": {
       "dutch": "Gebruik een ander account",
@@ -2959,7 +3205,8 @@
       "mandarin": "使用其他帐户",
       "portuguese": "Usar outra conta",
       "spanish": "Usa otra cuenta",
-      "turkish": "Başka bir hesap kullan"
+      "turkish": "Başka bir hesap kullan",
+      "russian": "Использовать другой аккаунт"
     },
     "returning-header-desc": {
       "dutch": "Uw digitale portemonnee via",
@@ -2971,7 +3218,8 @@
       "mandarin": "您的数字钱包通过",
       "portuguese": "Sua carteira digital via",
       "spanish": "Tu billetera digital a través de",
-      "turkish": "Dijital cüzdanınız"
+      "turkish": "Dijital cüzdanınız",
+      "russian": "Ваш цифровой кошелек через"
     },
     "returning-header-title": {
       "dutch": "Inloggen",
@@ -2983,7 +3231,8 @@
       "mandarin": "登入",
       "portuguese": "Entrar",
       "spanish": "Registrarse",
-      "turkish": "Oturum aç"
+      "turkish": "Oturum aç",
+      "russian": "Войти"
     },
     "returning-sign-in-desc": {
       "dutch": "Ga verder met een van de volgende stappen om door te gaan",
@@ -2995,7 +3244,8 @@
       "mandarin": "继续执行以下操作之一以继续",
       "portuguese": "Continue com um dos seguintes",
       "spanish": "Continúe con uno de los siguientes para continuar",
-      "turkish": "Devam etmek için aşağıdakilerden biriyle devam edin"
+      "turkish": "Devam etmek için aşağıdakilerden biriyle devam edin",
+      "russian": "Продолжите с одним из следующих действий для продолжения"
     },
     "returning-sign-in-header1": {
       "dutch": "Gebruik een ander account",
@@ -3007,7 +3257,8 @@
       "mandarin": "使用其他帐户",
       "portuguese": "Usar outra conta",
       "spanish": "Usa otra cuenta",
-      "turkish": "Başka bir hesap kullan"
+      "turkish": "Başka bir hesap kullan",
+      "russian": "Использовать другой аккаунт"
     },
     "returning-sign-in-header2": {
       "dutch": "Het lijkt erop dat je nog niet bent aangemeld bij een account",
@@ -3019,7 +3270,8 @@
       "mandarin": "您似乎尚未登录帐户",
       "portuguese": "Parece que você ainda não está conectado a uma conta",
       "spanish": "Parece que aún no ha iniciado sesión en una cuenta",
-      "turkish": "Henüz bir hesapta oturum açmamışsınız gibi görünüyor"
+      "turkish": "Henüz bir hesapta oturum açmamışsınız gibi görünüyor",
+      "russian": "Кажется, вы еще не вошли в свой аккаунт."
     },
     "social-2fa-continue-text": {
       "dutch": "Kies hoe u verder wilt gaan",
@@ -3031,7 +3283,8 @@
       "mandarin": "选择您喜欢如何继续",
       "portuguese": "Selecione como você gostaria de continuar",
       "spanish": "Seleccione cómo le gusta continuar",
-      "turkish": "Nasıl devam etmek istediğinizi seçin"
+      "turkish": "Nasıl devam etmek istediğinizi seçin",
+      "russian": "Выберите, как вы хотите продолжить"
     },
     "social-2fa-heading": {
       "dutch": "Stel sociaal herstelfactor in",
@@ -3043,7 +3296,8 @@
       "mandarin": "设定社会恢复因素",
       "portuguese": "Definir fator de recuperação social",
       "spanish": "Establecer factor de recuperación social",
-      "turkish": "Sosyal Medya kurtarma faktörünü ayarlayın"
+      "turkish": "Sosyal Medya kurtarma faktörünü ayarlayın",
+      "russian": "Настроить соцсеть для восстановления доступа"
     },
     "social-2fa-subtitle-1": {
       "dutch": "Log in met een van de sociale accounts om het als herstelfactor in te stellen",
@@ -3055,7 +3309,8 @@
       "mandarin": "用任何社会帐户登录将其设置为恢复因素",
       "portuguese": "Faça login com qualquer conta social para defini-la como fator de recuperação",
       "spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación",
-      "turkish": "Kurtarma faktörü olarak ayarlamak için herhangi bir sosyal medya hesabıyla giriş yapın"
+      "turkish": "Kurtarma faktörü olarak ayarlamak için herhangi bir sosyal medya hesabıyla giriş yapın",
+      "russian": "Войдите с помощью любого аккаунта соцсети, чтобы установить его как средство восстановления"
     },
     "social-2fa-subtitle-2": {
       "dutch": "Als u geen toegang meer heeft tot uw opgeslagen browser, kunt u zich authenticeren met uw sociale account.",
@@ -3067,7 +3322,8 @@
       "mandarin": "如果您无法访问保存的浏览器，则可以通过社交帐户进行身份验证。",
       "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode se autenticar com sua conta Social.",
       "spanish": "En caso de que pierda acceso a su navegador guardado, puede autenticarse con su cuenta social.",
-      "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, Sosyal medya hesabınızla kimlik doğrulaması yapabilirsiniz."
+      "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, Sosyal medya hesabınızla kimlik doğrulaması yapabilirsiniz.",
+      "russian": "В случае, если вы потеряете доступ к сохраненному браузеру, вы можете аутентифицироваться с помощью своего аккаунта в социальной сети."
     },
     "social-2fa-used-passwordless": {
       "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
@@ -3079,7 +3335,8 @@
       "mandarin": "{0} 登录不可用，因为它已被用于您的登录，请选择其他选项进行恢复。",
       "portuguese": "{0} login não está disponível porque foi usado para seu login, selecione outra opção para recuperação.",
       "spanish": "El inicio de sesión de {0} no está disponible ya que se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
-      "turkish": "{0} girişi, girişiniz için kullanıldığından kullanılamaz, lütfen kurtarma için başka bir seçenek seçin."
+      "turkish": "{0} girişi, girişiniz için kullanıldığından kullanılamaz, lütfen kurtarma için başka bir seçenek seçin.",
+      "russian": "'Вход {0} недоступен, поскольку он был использован для вашего входа в систему, выберите другой вариант для восстановления.'"
     },
     "social-2fa-used-social": {
       "dutch": "{0} is gebruikt voor uw aanmelding, selecteer een andere optie voor herstel.",
@@ -3091,7 +3348,8 @@
       "mandarin": "{0} 已用于您的登录，请选择其他选项进行恢复。",
       "portuguese": "{0} foi usado para seu login, selecione outra opção para recuperação.",
       "spanish": "{0} se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
-      "turkish": "Girişiniz için {0} kullanıldı, lütfen kurtarma için başka bir seçenek seçin."
+      "turkish": "Girişiniz için {0} kullanıldı, lütfen kurtarma için başka bir seçenek seçin.",
+      "russian": "'{0} уже использовался для вашего входа в систему, пожалуйста, выберите другой вариант для восстановления.'"
     },
     "social-2fa-verify-account": {
       "dutch": "Verifieer met uw sociale account",
@@ -3103,7 +3361,8 @@
       "mandarin": "验证您的社交帐户",
       "portuguese": "Verifique com sua conta social",
       "spanish": "Verifique con su cuenta social",
-      "turkish": "Sosyal medya hesabınızla doğrulayın"
+      "turkish": "Sosyal medya hesabınızla doğrulayın",
+      "russian": "Подтвердите с помощью вашего социального аккаунта"
     },
     "social-2fa-verify-email": {
       "dutch": "Verifieer met uw e-mail",
@@ -3115,7 +3374,8 @@
       "mandarin": "通过电子邮件验证",
       "portuguese": "Verifique com seu e-mail",
       "spanish": "Verifique con su correo electrónico",
-      "turkish": "E-postanızla doğrulayın"
+      "turkish": "E-postanızla doğrulayın",
+      "russian": "Подтвердите с помощью вашей электронной почты"
     },
     "social-2fa-verify-heading": {
       "dutch": "Sociale herstelfactor",
@@ -3127,7 +3387,8 @@
       "mandarin": "社会恢复因素",
       "portuguese": "Fator de Recuperação Social",
       "spanish": "Factor de recuperación social",
-      "turkish": "Sosyal Medya Kurtarma Faktörü"
+      "turkish": "Sosyal Medya Kurtarma Faktörü",
+      "russian": "Фактор восстановления через соцсети"
     },
     "social-2fa-view-less": {
       "dutch": "Minder bekijken",
@@ -3139,7 +3400,8 @@
       "mandarin": "少查看",
       "portuguese": "Ver menos",
       "spanish": "Ver menos",
-      "turkish": "Daha az görüntüle"
+      "turkish": "Daha az görüntüle",
+      "russian": "Показать меньше"
     },
     "social-2fa-view-more": {
       "dutch": "Bekijk meer",
@@ -3151,7 +3413,8 @@
       "mandarin": "查看更多",
       "portuguese": "Veja mais",
       "spanish": "Ver más",
-      "turkish": "Daha fazla görüntüle"
+      "turkish": "Daha fazla görüntüle",
+      "russian": "Посмотреть ещё"
     },
     "social-2fa-warn-text-1": {
       "dutch": "Deze sociale factor dient alleen als back-up om uw account gekoppeld aan \"abcd{'@'}xyz.com\" te herstellen.",
@@ -3163,7 +3426,8 @@
       "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd{'@'}xyz.com”。",
       "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd{'@'}xyz.com”.",
       "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd{'@'}xyz.com\".",
-      "turkish": "Bu Sosyal medya faktör yalnızca “abcd{'@'}xyz.com“ ile bağlantılı hesabınızı kurtarmak için bir yedek parça görevi görür."
+      "turkish": "Bu Sosyal medya faktör yalnızca “abcd{'@'}xyz.com“ ile bağlantılı hesabınızı kurtarmak için bir yedek parça görevi görür.",
+      "russian": "Этот фактор соцсети действует только как резервная доля для восстановления вашего аккаунта, связанного с \"abcd{'@'}xyz.com\"."
     },
     "social-2fa-warn-text-2": {
       "dutch": "Inloggen met deze sociale factor op de inlogpagina geeft u een nieuw account.",
@@ -3175,7 +3439,8 @@
       "mandarin": "在登录页面上使用此社交因素签名将为您提供一个新帐户。",
       "portuguese": "Entrar com este fator social na página de login lhe dará uma nova conta.",
       "spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta.",
-      "turkish": "Giriş sayfasında bu Sosyal medya faktörü ile oturum açmak size yeni bir hesap verecektir."
+      "turkish": "Giriş sayfasında bu Sosyal medya faktörü ile oturum açmak size yeni bir hesap verecektir.",
+      "russian": "Вход через фактор этой соцсети на странице входа даст вам новый аккаунт."
     },
     "social-2fa-warning-cta-1": {
       "dutch": "Ja, ik accepteer het risico",
@@ -3187,7 +3452,8 @@
       "mandarin": "是的，我接受风险",
       "portuguese": "Sim, eu aceito o risco",
       "spanish": "Sí, acepto el riesgo",
-      "turkish": "Evet, riski kabul ediyorum"
+      "turkish": "Evet, riski kabul ediyorum",
+      "russian": "Да, я принимаю риск."
     },
     "social-2fa-warning-cta-2": {
       "dutch": "Nee, gebruik een ander e-mailadres",
@@ -3199,7 +3465,8 @@
       "mandarin": "不，使用另一封电子邮件",
       "portuguese": "Não, use outro e-mail",
       "spanish": "No, usa otro correo electrónico",
-      "turkish": "Hayır, başka e-posta kullan"
+      "turkish": "Hayır, başka e-posta kullan",
+      "russian": "Нет, используй другой email."
     },
     "social-2fa-warning-text": {
       "dutch": "U gebruikt hetzelfde e-mailadres voor het inloggen op uw account en het sociale aspect. Dit is onveilig. Wilt u toch doorgaan?",
@@ -3211,7 +3478,8 @@
       "mandarin": "您正在使用同一电子邮件进行帐户登录和社会因素。这是不安全的。您还想继续吗？",
       "portuguese": "Você está usando o mesmo e-mail para login da conta e fator social. Isso é inseguro. Você ainda gostaria de prosseguir?",
       "spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?",
-      "turkish": "Hesap girişi ve sosyal medya faktörü için aynı e-postayı kullanıyorsunuz. Bu güvenli değil. Hala devam etmek istiyor musunuz?"
+      "turkish": "Hesap girişi ve sosyal medya faktörü için aynı e-postayı kullanıyorsunuz. Bu güvenli değil. Hala devam etmek istiyor musunuz?",
+      "russian": "Вы используете один и тот же адрес электронной почты для входа в аккаунт и фактора соцсети. Это небезопасно. Вы все еще хотите продолжить?"
     },
     "social-factor-verification": {
       "dutch": "Verificatie van sociale factoren",
@@ -3223,7 +3491,8 @@
       "mandarin": "社会因素验证",
       "portuguese": "Verificação do fator social",
       "spanish": "Verificación del factor social",
-      "turkish": "Sosyal medya faktörü doğrulaması"
+      "turkish": "Sosyal medya faktörü doğrulaması",
+      "russian": "Подтверждение через социальную сеть"
     },
     "social-factor-verification-desc": {
       "dutch": "Ga verder met degene die u als sociaal herstelfactor heeft ingesteld",
@@ -3235,7 +3504,8 @@
       "mandarin": "继续您设置为社会恢复因素的因素",
       "portuguese": "Continue com aquele que você definiu como um fator de recuperação social",
       "spanish": "Continúe con uno que establezca como factor de recuperación social",
-      "turkish": "Sosyal medya kurtarma faktörü olarak belirlediğiniz faktörle devam edin"
+      "turkish": "Sosyal medya kurtarma faktörü olarak belirlediğiniz faktörle devam edin",
+      "russian": "Продолжите через социальную сеть, которую вы указали для восстановления доступа"
     },
     "social-policy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
@@ -3247,7 +3517,8 @@
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
+      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz.",
+      "russian": "Мы не сохраняем данные о ваших входах через соцсети"
     },
     "start": {
       "dutch": "Aan de slag",
@@ -3259,7 +3530,8 @@
       "mandarin": "开始使用",
       "portuguese": "Começar",
       "spanish": "Empezar",
-      "turkish": "Başlayın"
+      "turkish": "Başlayın",
+      "russian": "Начать"
     },
     "subtitle": {
       "dutch": "Klik op Aan de slag om door te gaan",
@@ -3271,7 +3543,8 @@
       "mandarin": "点击开始以继续",
       "portuguese": "Clique em Começar para continuar",
       "spanish": "Haga clic en comenzar para continuar",
-      "turkish": "Devam etmek için Başlayın'a tıklayın"
+      "turkish": "Devam etmek için Başlayın'a tıklayın",
+      "russian": "Нажмите \"Начать\" для продолжения"
     },
     "title": {
       "dutch": "Beheer al uw webinteracties op één plek",
@@ -3283,7 +3556,8 @@
       "mandarin": "一站式管理所有网络互动",
       "portuguese": "Gerencie todas as suas interações na web em um só lugar",
       "spanish": "Administre todas sus interacciones web en un solo lugar",
-      "turkish": "Tüm web etkileşimlerinizi tek bir yerden yönetin"
+      "turkish": "Tüm web etkileşimlerinizi tek bir yerden yönetin",
+      "russian": "Управляйте всеми своими взаимодействиями в вебе в одном месте."
     },
     "tooltip-phone-details": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u de juiste landcode handmatig invoeren.",
@@ -3295,7 +3569,8 @@
       "mandarin": "您的国家代码将自动检测到，但是如果您使用来自其他国家 /地区的电话号码，则需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se você estiver usando um número de telefone de um país diferente, precisará inserir o código correto do país manualmente.",
       "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente.",
-      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekecektir."
+      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekecektir.",
+      "russian": "Код вашей страны будет определен автоматически, но если вы используете номер телефона из другой страны, вам потребуется ввести правильный код страны вручную."
     },
     "tooltip-phone-header": {
       "dutch": "Telefoonnummer en landcode",
@@ -3307,7 +3582,8 @@
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código de país",
       "spanish": "Número de teléfono y código de país",
-      "turkish": "Telefon numarası ve ülke kodu"
+      "turkish": "Telefon numarası ve ülke kodu",
+      "russian": "Номер телефона и код страны"
     },
     "verifier-email-desc": {
       "dutch": "Doorgaan met e-mail",
@@ -3319,7 +3595,8 @@
       "mandarin": "继续发送电子邮件",
       "portuguese": "Continuar com e-mail",
       "spanish": "Continuar con el correo electrónico",
-      "turkish": "E-posta ile devam et"
+      "turkish": "E-posta ile devam et",
+      "russian": "Продолжить с электронной почтой"
     },
     "verifier-email-placeholder": {
       "dutch": "E-mailadres",
@@ -3331,7 +3608,8 @@
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
       "spanish": "Correo electrónico",
-      "turkish": "E-posta"
+      "turkish": "E-posta",
+      "russian": "Электронная почта"
     },
     "verifier-google-desc": {
       "dutch": "Doorgaan met Google",
@@ -3343,7 +3621,8 @@
       "mandarin": "继续使用Google",
       "portuguese": "Continuar com o Google",
       "spanish": "Continuar con Google",
-      "turkish": "Google ile devam et"
+      "turkish": "Google ile devam et",
+      "russian": "Продолжить с Google"
     },
     "verifier-sms-desc": {
       "dutch": "Doorgaan met telefoon",
@@ -3355,7 +3634,8 @@
       "mandarin": "继续电话",
       "portuguese": "Continue com o telefone",
       "spanish": "Continuar con el teléfono",
-      "turkish": "Telefon ile devam et"
+      "turkish": "Telefon ile devam et",
+      "russian": "Продолжить с телефоном"
     },
     "verifier-sms-desc-2": {
       "dutch": "Doorgaan met mobiel",
@@ -3367,7 +3647,8 @@
       "mandarin": "继续移动",
       "portuguese": "Continue com o celular",
       "spanish": "Continuar con Mobile",
-      "turkish": "Mobil ile devam et"
+      "turkish": "Mobil ile devam et",
+      "russian": "Продолжить с мобильного"
     },
     "verifier-sms-placeholder": {
       "dutch": "Bijvoorbeeld:",
@@ -3379,7 +3660,8 @@
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
       "spanish": "P.ej:",
-      "turkish": "Örn:"
+      "turkish": "Örn:",
+      "russian": "Например:"
     },
     "verifier-webauth-desc": {
       "dutch": "Doorgaan met WebAuthn",
@@ -3391,7 +3673,8 @@
       "mandarin": "继续使用WebAuthn",
       "portuguese": "Continuar com WebAuthn",
       "spanish": "Continuar con WebAuthn",
-      "turkish": "WebAuthn ile devam et"
+      "turkish": "WebAuthn ile devam et",
+      "russian": "Продолжить с WebAuthn"
     },
     "verify-factorList-desc": {
       "dutch": "Controleer met een van de volgende om door te gaan",
@@ -3403,7 +3686,8 @@
       "mandarin": "验证以下一个继续",
       "portuguese": "Verifique com um dos seguintes para continuar",
       "spanish": "Verifique con uno de los siguientes para continuar",
-      "turkish": "Devam etmek için aşağıdakilerden biriyle doğrulayın"
+      "turkish": "Devam etmek için aşağıdakilerden biriyle doğrulayın",
+      "russian": "Подтвердите с помощью одного из следующих методов, чтобы продолжить"
     },
     "verify-otp-description": {
       "dutch": "Voer de OTP-code in die naar {number} is verzonden",
@@ -3415,7 +3699,8 @@
       "mandarin": "输入发送到发送到的OTP代码 {number}",
       "portuguese": "Digite o código OTP enviado para {number}",
       "spanish": "Ingrese el código OTP enviado a {number}",
-      "turkish": "{number} numarasına gönderilen OTP kodunu girin"
+      "turkish": "{number} numarasına gönderilen OTP kodunu girin",
+      "russian": "Введите OTP-код, отправленный на {номер}"
     },
     "verify-otp-heading-1": {
       "dutch": "Er is een OTP verzonden naar {number}",
@@ -3426,7 +3711,8 @@
       "korean": "{number}로 OTP가 전송되었습니다",
       "mandarin": "OTP已发送到 {number}",
       "portuguese": "Um OTP foi enviado para {number}",
-      "spanish": "Se ha enviado un OTP a {number}"
+      "spanish": "Se ha enviado un OTP a {number}",
+      "russian": "OTP был отправлен на {number}"
     },
     "verify-otp-heading-2": {
       "dutch": "Voer OTP in om door te gaan",
@@ -3438,7 +3724,8 @@
       "mandarin": "输入OTP继续",
       "portuguese": "Digite o OTP para continuar",
       "spanish": "Ingrese OTP para continuar",
-      "turkish": "Devam etmek için OTP kodunu girin"
+      "turkish": "Devam etmek için OTP kodunu girin",
+      "russian": "Введите OTP для продолжения"
     },
     "verify-otp-title-popup": {
       "dutch": "OTP-verificatie",
@@ -3450,7 +3737,8 @@
       "mandarin": "OTP验证",
       "portuguese": "Verificação de OTP",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulaması"
+      "turkish": "OTP Doğrulaması",
+      "russian": "Проверка OTP"
     },
     "verify-otp-title-redirect": {
       "dutch": "Voer uw OTP in",
@@ -3462,7 +3750,8 @@
       "mandarin": "输入您的OTP",
       "portuguese": "Digite seu OTP",
       "spanish": "Ingrese su OTP",
-      "turkish": "OTP kodunu girin"
+      "turkish": "OTP kodunu girin",
+      "russian": "Введите ваш OTP"
     },
     "verify-with-password-factor-desc": {
       "dutch": "Controleer met nog een factor om door te gaan",
@@ -3474,7 +3763,8 @@
       "mandarin": "验证另一个因素继续",
       "portuguese": "Verifique com mais um fator para continuar",
       "spanish": "Verifique con un factor más para continuar",
-      "turkish": "Devam etmek için bir faktör daha doğrulayın"
+      "turkish": "Devam etmek için bir faktör daha doğrulayın",
+      "russian": "Подтвердите с помощью еще одного фактора для продолжения"
     },
     "verify-with-recovery-factor-desc": {
       "dutch": "Controleer met uw herstelzin die is verzonden om door te gaan",
@@ -3486,7 +3776,8 @@
       "mandarin": "用发送的恢复短语验证以继续",
       "portuguese": "Verifique com sua frase de recuperação enviada para continuar",
       "spanish": "Verifique con su frase de recuperación enviada para continuar",
-      "turkish": "Devam etmek için gönderilen kurtarma ifadenizle doğrulayın"
+      "turkish": "Devam etmek için gönderilen kurtarma ifadenizle doğrulayın",
+      "russian": "Проверьте с помощью фразы восстановления, отправленной для продолжения."
     },
     "verify-with-social-factor-desc": {
       "dutch": "Controleer met de sociale herstelfactor die u eerder had opgezet.",
@@ -3498,7 +3789,8 @@
       "mandarin": "使用您先前设置的社会恢复因素进行验证。",
       "portuguese": "Verifique com o fator de recuperação social que você configurou anteriormente.",
       "spanish": "Verifique con el factor de recuperación social que había establecido anteriormente.",
-      "turkish": "Daha önce kurmuş olduğunuz sosyal medya kurtarma faktörü ile doğrulayın."
+      "turkish": "Daha önce kurmuş olduğunuz sosyal medya kurtarma faktörü ile doğrulayın.",
+      "russian": "Подтвердите вход через настроенную ранее социальную сеть"
     }
   }
 }

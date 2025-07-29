@@ -323,7 +323,7 @@
       "portuguese": "Taxa de rede",
       "spanish": "Tarifa de red",
       "turkish": "Ağ Ücreti",
-      "russian": "Сетевой сбор"
+      "russian": "Комиссия сети"
     },
     "previewSwap": {
       "dutch": "Voorbeeld wisselen",
@@ -440,7 +440,7 @@
       "portuguese": "Envie fundos para outro endereço de carteira",
       "spanish": "Enviar fondos a otra dirección de billetera",
       "turkish": "Parayı başka bir cüzdan adresine gönderin",
-      "russian": "Отправить средства на другой адрес кошелька"
+      "russian": "Отправить средства на другой кошелек"
     },
     "slippageTolerance": {
       "dutch": "Sliptolerantie",
