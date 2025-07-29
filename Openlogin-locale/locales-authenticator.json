@@ -114,7 +114,7 @@
       "portuguese": "Digitalizar código QR",
       "spanish": "Escanear código QR",
       "turkish": "QR kodunu tarayın",
-      "russian": "Сканировать QR-код"
+      "russian": "Сканируй QR-код"
     },
     "setup-complete-desc": {
       "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
@@ -179,7 +179,7 @@
       "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
       "spanish": "Introduzca el código de verificación de 6 dígitos de su aplicación de autenticación",
       "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin",
-      "russian": "Введите 6-значный код подтверждения из приложения-аутентификатор"
+      "russian": "Введите 6-значный код подтверждения из приложения-аутентификатора"
     },
     "verify-title": {
       "dutch": "Verifieer uw Authenticator App",

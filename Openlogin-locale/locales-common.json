@@ -115,7 +115,7 @@
       "portuguese": "Gerenciar conta",
       "spanish": "Administrar cuenta",
       "turkish": "Hesabı yönet",
-      "russian": "Управлять аккаунтом"
+      "russian": "Управление аккаунтом"
     },
     "copier-privacy-policy": {
       "dutch": "Privacybeleid",
@@ -180,7 +180,7 @@
       "portuguese": "Copiar frase de recuperação",
       "spanish": "Copiar frase de respaldo",
       "turkish": "Kurtarma ifadesini kopyala",
-      "russian": "Копировать восстановительную фразу"
+      "russian": "Копировать фразу восстановления"
     },
     "device": {
       "dutch": "Apparaat",
@@ -323,7 +323,7 @@
       "portuguese": "O email não pode ser o mesmo que o ID de login social",
       "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social",
       "turkish": "E-posta sosyal medya giriş kimliğiyle aynı olamaz",
-      "russian": "Email не может совпадать с идентификатором социальной авторизации"
+      "russian": "Email не может совпадать с адресом авторизации в соцсети"
     },
     "factor1-social-login": {
       "dutch": "Factor 1: Sociale login",
@@ -336,7 +336,7 @@
       "portuguese": "Fator 1: Login social",
       "spanish": "Factor 1: inicio de sesión social",
       "turkish": "1. Faktör: Sosyal Medya Girişi",
-      "russian": "Фактор 1: Социальный вход"
+      "russian": "Фактор 1: Вход через соцсети"
     },
     "factor2-devices": {
       "dutch": "Factor 2: Apparaat (en)",
@@ -362,7 +362,7 @@
       "portuguese": "Fator 3: Recuperação Social",
       "spanish": "Factor 3: Recuperación Social",
       "turkish": "3. Faktör: Sosyal Medya ile Kurtar",
-      "russian": "Фактор 3: Социальное восстановление"
+      "russian": "Фактор 3: Восстановление через соцсети"
     },
     "hide-options": {
       "dutch": "Opties verbergen",
@@ -388,7 +388,7 @@
       "portuguese": "Último acesso em:",
       "spanish": "Último acceso el:",
       "turkish": "Son Giriş:",
-      "russian": "Последний доступ:"
+      "russian": "Последний вход:"
     },
     "learn-more": {
       "dutch": "Meer informatie",
@@ -465,7 +465,7 @@
       "portuguese": "Outros fatores: senha",
       "spanish": "Otros factores: contraseña",
       "turkish": "Diğer Faktörler : Şifre",
-      "russian": "Другие факторы: пароль"
+      "russian": "Другие факторы: Пароль"
     },
     "password": {
       "dutch": "Wachtwoord",
@@ -517,7 +517,7 @@
       "portuguese": "Provido por",
       "spanish": "por",
       "turkish": "Powered by",
-      "russian": "Предоставлено"
+      "russian": "Сделано с помощью"
     },
     "recovery-phrase-copied": {
       "dutch": "Herstelzin gekopieerd",
@@ -608,7 +608,7 @@
       "portuguese": "Social",
       "spanish": "Social",
       "turkish": "Sosyal",
-      "russian": "Социальный"
+      "russian": "Соцсети"
     },
     "socialFactor": {
       "dutch": "Sociale factor",
@@ -621,7 +621,7 @@
       "portuguese": "Fator Social",
       "spanish": "Factor social",
       "turkish": "Sosyal Medya Faktörü",
-      "russian": "Социальный фактор"
+      "russian": "Фактор соцсети"
     },
     "socialLogin": {
       "dutch": "Sociale login",
@@ -634,7 +634,7 @@
       "portuguese": "Login social",
       "spanish": "Inicio de sesión social",
       "turkish": "Sosyal medya girişi",
-      "russian": "Социальный вход"
+      "russian": "Вход через соцсети"
     },
     "toast-backup-phase-email-send-success": {
       "dutch": "Back-upzin verzonden naar uw e-mail",
@@ -699,7 +699,7 @@
       "portuguese": "Falha na verificação do compartilhamento de backup",
       "spanish": "Error en la verificación del fragmento de la copia de seguridad",
       "turkish": "Yedekleme parçası doğrulanamadı",
-      "russian": "Не удалось проверить долю резервного копирования"
+      "russian": "Ошибка проверки резервной копии"
     },
     "toast-device-share-delete-fail": {
       "dutch": "Verwijderen van gedeelde apparaat is mislukt",
@@ -712,7 +712,7 @@
       "portuguese": "Falha na exclusão do compartilhamento do dispositivo",
       "spanish": "No se pudo eliminar el fragmento del dispositivo",
       "turkish": "Cihaz şifresi silinemedi",
-      "russian": "Удаление доли устройства не удалось"
+      "russian": "Не удалось удалить доступ к устройству"
     },
     "toast-device-share-delete-success": {
       "dutch": "Apparaat delen succesvol verwijderd",
@@ -725,7 +725,7 @@
       "portuguese": "Compartilhamento de dispositivo excluído com sucesso",
       "spanish": "Fragmento del dispositivo eliminado correctamente",
       "turkish": "Cihaz şifresi başarıyla silindi",
-      "russian": "Доля устройства успешно удалена"
+      "russian": "Доступ к устройству успешно удален"
     },
     "toast-password-change-fail": {
       "dutch": "Wachtwoordwijziging mislukt",
@@ -764,7 +764,7 @@
       "portuguese": "A verificação da senha falhou",
       "spanish": "Falló la verificación de la contraseña",
       "turkish": "Şifre doğrulaması başarısız",
-      "russian": "Проверка пароля не удалась"
+      "russian": "Ошибка проверки пароля"
     },
     "toast-recovery-share-delete-fail": {
       "dutch": "Het verwijderen van de herstelshare is mislukt",
@@ -777,7 +777,7 @@
       "portuguese": "A exclusão do compartilhamento de recuperação falhou",
       "spanish": "Error al eliminar el fragmento de respaldo",
       "turkish": "Kurtarma ifadesi silinemedi",
-      "russian": "Не удалось удалить долю восстановления"
+      "russian": "Не удалось удалить фрагмент восстановления"
     },
     "toast-recovery-share-delete-success": {
       "dutch": "Herstelshare succesvol verwijderd",
@@ -790,7 +790,7 @@
       "portuguese": "Compartilhamento de recuperação excluído com sucesso",
       "spanish": "Fragmento de respaldo eliminado con éxito",
       "turkish": "Kurtarma ifadesi başarıyla silindi",
-      "russian": "Доля восстановления успешно удалена"
+      "russian": "Фрагмент восстановления успешно удалён"
     },
     "toast-registration-failed": {
       "dutch": "Registratie mislukt",
@@ -829,7 +829,7 @@
       "portuguese": "Falha na transferência de compartilhamento",
       "spanish": "Error al transferir el fragmento",
       "turkish": "Şifre parçası transfer edilemedi",
-      "russian": "Передача доли не удалась"
+      "russian": "Передача фрагмента не удалась"
     },
     "toast-something-went-wrong": {
       "dutch": "Er is iets misgegaan",
@@ -868,7 +868,7 @@
       "portuguese": "Verificar",
       "spanish": "Verificar",
       "turkish": "Doğrula",
-      "russian": "Проверить"
+      "russian": "Подтвердить"
     },
     "verify-with-other-factors": {
       "dutch": "Verifiëren met andere factoren",
@@ -881,7 +881,7 @@
       "portuguese": "Verifique com outros fatores",
       "spanish": "Verificar con otros factores",
       "turkish": "Diğer faktörler ile doğrula",
-      "russian": "Проверить другими способами"
+      "russian": "Подтвердить с помощью других факторов"
     },
     "webAuthentication": {
       "dutch": "Webauthenticatie",
