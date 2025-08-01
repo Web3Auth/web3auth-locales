@@ -1272,6 +1272,18 @@
       "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
       "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
     },
+    "error-invalid-test-account": {
+      "dutch": "Ongeldig testaccount",
+      "english": "Invalid test account",
+      "french": "Compte de test non valide",
+      "german": "Ungültiges Testkonto",
+      "japanese": "無効なテストアカウント",
+      "korean": "잘못된 테스트 계정입니다",
+      "mandarin": "测试账户无效",
+      "portuguese": "Conta de teste inválida",
+      "spanish": "Cuenta de prueba no válida",
+      "turkish": "Geçersiz test hesabı"
+    },
     "something-wrong-error": {
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
