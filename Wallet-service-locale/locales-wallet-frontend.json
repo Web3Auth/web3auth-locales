@@ -204,18 +204,6 @@
       "spanish": "{0} le gustaría leer este mensaje para completar su acción",
       "turkish": "{0} bu mesajı okumak için tamamlanacak eylemi tamamlamak için bu mesajı okumak istiyor"
     },
-    "decryptKeyText": {
-      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien",
-      "english": "Allow {0} to read this message to complete your action",
-      "french": "Permettez à {0} de lire ce message pour terminer votre action",
-      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen",
-      "japanese": "{0}がこのメッセージを読み取ってアクションを完了させます。",
-      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오",
-      "mandarin": "允许{0}阅读此消息以完成您的操作。",
-      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação",
-      "spanish": "Permitir {0} leer este mensaje para completar su acción",
-      "turkish": "{0} bu iletiyi okumak için izin ver"
-    },
     "decryptionRequest": {
       "dutch": "Decoderingverzoek",
       "english": "Decryption Request",
@@ -227,6 +215,18 @@
       "portuguese": "Solicitação de descriptografia",
       "spanish": "Solicitud de descifrado",
       "turkish": "Şifre çözme isteği"
+    },
+    "decryptKeyText": {
+      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien",
+      "english": "Allow {0} to read this message to complete your action",
+      "french": "Permettez à {0} de lire ce message pour terminer votre action",
+      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen",
+      "japanese": "{0}がこのメッセージを読み取ってアクションを完了させます。",
+      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오",
+      "mandarin": "允许{0}阅读此消息以完成您的操作。",
+      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação",
+      "spanish": "Permitir {0} leer este mensaje para completar su acción",
+      "turkish": "{0} bu iletiyi okumak için izin ver"
     },
     "details": {
       "dutch": "Details",
@@ -276,18 +276,6 @@
       "spanish": "Correo electrónico",
       "turkish": "E-posta"
     },
-    "encryptKeyText": {
-      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen",
-      "english": "Allow {0} to compose encrypted messages for you",
-      "french": "Permettez à {0} de composer des messages chiffrés pour vous",
-      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren",
-      "japanese": "{0}が暗号化されたメッセージを作成できるようにします。",
-      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오",
-      "mandarin": "允许{0}为您撰写加密消息。",
-      "portuguese": "Permita que {0} componha mensagens criptografadas para você",
-      "spanish": "Permitir {0} componer mensajes cifrados para usted",
-      "turkish": "{0} şifreli iletilerinizi oluşturmak için izin ver"
-    },
     "encryptionDescription": {
       "dutch": "{0} zou uw publieke coderingssleutel willen. Door toestemming te geven, kan deze site gecodeerde berichten aan u samenstellen.",
       "english": "{0} would like your public encryption key. By consenting, this site will be able to compose encrypted messages to you.",
@@ -299,6 +287,18 @@
       "portuguese": "{0} gostaria da sua chave de criptografia pública. Por consentimento, este site poderá compor mensagens criptografadas para você.",
       "spanish": "{0} le gustaría su clave de cifrado público. Al consentir, este sitio podrá componerle mensajes cifrados.",
       "turkish": "{0} sizin şifreleme anahtarınızı istiyor. Kabul ederek, bu site sizinle şifrelenmiş mesajlar oluşturabilir."
+    },
+    "encryptKeyText": {
+      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen",
+      "english": "Allow {0} to compose encrypted messages for you",
+      "french": "Permettez à {0} de composer des messages chiffrés pour vous",
+      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren",
+      "japanese": "{0}が暗号化されたメッセージを作成できるようにします。",
+      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오",
+      "mandarin": "允许{0}为您撰写加密消息。",
+      "portuguese": "Permita que {0} componha mensagens criptografadas para você",
+      "spanish": "Permitir {0} componer mensajes cifrados para usted",
+      "turkish": "{0} şifreli iletilerinizi oluşturmak için izin ver"
     },
     "errorEstimatingBalanceChanges": {
       "dutch": "Er is een fout opgetreden bij het schatten van de balansveranderingen",
@@ -312,18 +312,6 @@
       "spanish": "Se produjo un error al estimar los cambios de saldo",
       "turkish": "Bakiye değişikliklerini tahminirken bir hata oluştu"
     },
-    "estimatedGasFee": {
-      "dutch": "Geschatte gaskosten",
-      "english": "Estimated gas fee",
-      "french": "Frais de gaz estimés",
-      "german": "Geschätzte Gasgebühr",
-      "japanese": "推定ガス料金",
-      "korean": "예상 가스 수수료",
-      "mandarin": "估计的汽油费",
-      "portuguese": "Taxa estimada de gás",
-      "spanish": "Tarifa de gas estimada",
-      "turkish": "Tahmini Gas Ücreti"
-    },
     "estimatedBalanceChanges": {
       "dutch": "Geschatte balansveranderingen",
       "english": "Estimated Balance Changes",
@@ -335,6 +323,18 @@
       "portuguese": "Alterações estimadas de saldo",
       "spanish": "Cambios estimados de saldo",
       "turkish": "Tahmini Bakiye Değişiklikleri"
+    },
+    "estimatedGasFee": {
+      "dutch": "Geschatte gaskosten",
+      "english": "Estimated gas fee",
+      "french": "Frais de gaz estimés",
+      "german": "Geschätzte Gasgebühr",
+      "japanese": "推定ガス料金",
+      "korean": "예상 가스 수수료",
+      "mandarin": "估计的汽油费",
+      "portuguese": "Taxa estimada de gás",
+      "spanish": "Tarifa de gas estimada",
+      "turkish": "Tahmini Gas Ücreti"
     },
     "estimatedNetworkFee": {
       "dutch": "Geschatte netwerkkosten",
@@ -515,6 +515,111 @@
       "portuguese": "Faça login com email",
       "spanish": "Iniciar sesión con el correo electrónico",
       "turkish": "E-posta ile giriş yap"
+    },
+    "loginSlide1Subtitle1": {
+      "dutch": "Transactie op blockchain is nooit zo eenvoudig geweest.",
+      "english": "Transacting on blockchain has never been easier.",
+      "french": "Transactant sur blockchain n'a jamais été aussi facile.",
+      "german": "Die Transaktion auf Blockchain war noch nie einfacher.",
+      "japanese": "ブロックチェーンでの取引はかつてないほど容易になりました。",
+      "korean": "블록 체인에서의 거래는 결코 쉬운 일이 아닙니다.",
+      "mandarin": "在区块链上进行交易从未如此简单。",
+      "portuguese": "Transactar em blockchain nunca foi tão fácil.",
+      "spanish": "Transactar en blockchain nunca ha sido más fácil.",
+      "turkish": "Blockchain üzerinde işlem yapmak hiç bu kadar kolay olmamıştı."
+    },
+    "loginSlide1Subtitle2": {
+      "dutch": "Een e -mail is alles wat u nodig hebt om te beginnen.",
+      "english": "An email is all you need to get started.",
+      "french": "Un e -mail est tout ce dont vous avez besoin pour commencer.",
+      "german": "Eine E -Mail ist alles, was Sie brauchen, um loszulegen.",
+      "japanese": "あなたが始めるために必要なすべてのメールだけです。",
+      "korean": "이메일만으로 시작하기 만하면됩니다.",
+      "mandarin": "您需要开始的电子邮件。",
+      "portuguese": "Um e -mail é tudo o que você precisa para começar.",
+      "spanish": "Un correo electrónico es todo lo que necesita para comenzar.",
+      "turkish": "Başlamak için bir e -posta yeterlidir."
+    },
+    "loginSlide1Title": {
+      "dutch": "Verstuur en ontvang digitale valuta via e -mail",
+      "english": "Send and receive digital currencies via email",
+      "french": "Envoyer et recevoir des devises numériques via e -mail",
+      "german": "Senden und empfangen Sie digitale Währungen per E -Mail",
+      "japanese": "電子メールでデジタル通貨を送信および受信します",
+      "korean": "이메일을 통해 디지털 통화를 보내고받습니다",
+      "mandarin": "通过电子邮件发送和接收数字货币",
+      "portuguese": "Envie e receba moedas digitais por e -mail",
+      "spanish": "Enviar y recibir monedas digitales por correo electrónico",
+      "turkish": "E -posta ile sayısal para gönderin ve alın"
+    },
+    "loginSlide2Subtitle1": {
+      "dutch": "Kies uit een reeks aan providers",
+      "english": "Choose from a range of providers",
+      "french": "Choisissez parmi une gamme de fournisseurs",
+      "german": "Wählen Sie aus einer Reihe von Anbietern",
+      "japanese": "さまざまなプロバイダーから選択",
+      "korean": "다양한 공급자에서 선택",
+      "mandarin": "从多种提供商中选择",
+      "portuguese": "Escolha entre uma variedade de fornecedores",
+      "spanish": "Elija entre una variedad de proveedores",
+      "turkish": "Farklı sağlayıcılardan seçim yapın"
+    },
+    "loginSlide2Subtitle2": {
+      "dutch": "Koop digitale valuta wereldwijd met creditcard",
+      "english": "Get currencies at one of the most competitive rates",
+      "french": "Obtenez des devises à l'un des taux les plus compétitifs",
+      "german": "Erhalten Sie Währungen zu einem der wettbewerbsfähigsten Preise",
+      "japanese": "最も競争力のあるレートで通貨を取得",
+      "korean": "가장 경쟁력 있는 레이트로 통화 얻기",
+      "mandarin": "以最具竞争力的利率获取货币",
+      "portuguese": "Obtenha moedas a uma das taxas mais competitivas",
+      "spanish": "Obtenga monedas a una de las tasas más competitivas",
+      "turkish": "En fazla rekabetli oranda para satın alın"
+    },
+    "loginSlide2Title": {
+      "dutch": "Koop digitale valuta wereldwijd met creditcard",
+      "english": "Purchase digital currencies globally with credit card",
+      "french": "Achetez des devises numériques dans le monde entier avec une carte de crédit",
+      "german": "Kaufen Sie digitale Währungen weltweit mit einer Kreditkarte",
+      "japanese": "クレジットカードで世界中のデジタル通貨を購入",
+      "korean": "신용카드로 세계 전역에서 디지털 통화 구매",
+      "mandarin": "使用信用卡在全球购买数字货币",
+      "portuguese": "Compre moedas digitais em todo o mundo com cartão de crédito",
+      "spanish": "Compre monedas digitales en todo el mundo con tarjeta de crédito",
+      "turkish": "Kredi kartıyla dünya genelinde sayısal para satın alın"
+    },
+    "loginSlide3Subtitle1": {
+      "dutch": "Van Financieel, Games, Exchanges en meer",
+      "english": "From Finance, Games, Exchanges and more",
+      "french": "De la finance, des jeux, des échanges et plus encore",
+      "german": "Von Finanzen, Spielen, Börsen und mehr",
+      "japanese": "ファイナンス、ゲーム、エクスチェンジなど",
+      "korean": "금융, 게임, 거래소 등",
+      "mandarin": "来自金融，游戏，交易所等",
+      "portuguese": "De Finanças, Jogos, Exchanges e mais",
+      "spanish": "De Finanzas, Juegos, Exchanges y más"
+    },
+    "loginSlide3Subtitle2": {
+      "dutch": "Greifen Sie mit Torus auf die dezentrale Welt zu",
+      "english": "Access the decentralised world with Torus",
+      "french": "Accès au monde décentralisé avec Torus",
+      "german": "Greifen Sie mit Torus auf die dezentrale Welt zu",
+      "japanese": "Torusを使用して分散化された世界にアクセス",
+      "korean": "Torus를 사용하여 분산화된 세계에 접근",
+      "mandarin": "使用Torus进入去中心化世界",
+      "portuguese": "Acesso ao mundo descentralizado com Torus",
+      "spanish": "Acceso al mundo descentralizado con Torus"
+    },
+    "loginSlide3Title": {
+      "dutch": "Interact met duizenden apps op de blockchain",
+      "english": "Interact with thousands of apps on the blockchain",
+      "french": "Interagissez avec des milliers d'applications sur la blockchain",
+      "german": "Interagieren Sie mit Tausenden von Apps auf der Blockchain",
+      "japanese": "ブロックチェーン上の数千のアプリと対話",
+      "korean": "블록체인 위의 수천 개의 앱과 상호작용",
+      "mandarin": "与区块链上的数千个应用程序互动",
+      "portuguese": "Interaja com milhares de aplicativos na blockchain",
+      "spanish": "Interactúa con miles de aplicaciones en la blockchain"
     },
     "logout": {
       "dutch": "Uitloggen",
@@ -708,18 +813,6 @@
       "spanish": "Rechazar",
       "turkish": "Reddet"
     },
-    "requestEncryptionKey": {
-      "dutch": "Verzoek coderingssleutel",
-      "english": "Request Encryption key",
-      "french": "Demander la clé de chiffrement",
-      "german": "Anfrage der Verschlüsselungsschlüssel",
-      "japanese": "暗号化キーを要求します",
-      "korean": "암호화 키를 요청하십시오",
-      "mandarin": "请求加密密钥",
-      "portuguese": "Chave de criptografia de solicitação",
-      "spanish": "Solicitar la clave de cifrado",
-      "turkish": "Şifreleme anahtarını iste"
-    },
     "requestedFrom": {
       "dutch": "Gevraagd van",
       "english": "Requested from",
@@ -731,6 +824,18 @@
       "portuguese": "Solicitado de",
       "spanish": "Solicitado de",
       "turkish": "İstek"
+    },
+    "requestEncryptionKey": {
+      "dutch": "Verzoek coderingssleutel",
+      "english": "Request Encryption key",
+      "french": "Demander la clé de chiffrement",
+      "german": "Anfrage der Verschlüsselungsschlüssel",
+      "japanese": "暗号化キーを要求します",
+      "korean": "암호화 키를 요청하십시오",
+      "mandarin": "请求加密密钥",
+      "portuguese": "Chave de criptografia de solicitação",
+      "spanish": "Solicitar la clave de cifrado",
+      "turkish": "Şifreleme anahtarını iste"
     },
     "retry": {
       "dutch": "Opnieuw proberen",
@@ -840,6 +945,30 @@
       "spanish": "Firmar",
       "turkish": "İmzala"
     },
+    "signatureDescription": {
+      "dutch": "Onderteken dit bericht alleen als u de inhoud volledig begrijpt en de aanvraagsite vertrouwt.",
+      "english": "Only sign this message if you fully understand the content and trust the requesting site.",
+      "french": "Signez ce message uniquement que si vous comprenez pleinement le contenu et faites confiance au site de demande.",
+      "german": "Unterzeichnen Sie diese Nachricht nur, wenn Sie den Inhalt vollständig verstehen und der Anforderungswebsite vertrauen.",
+      "japanese": "コンテンツを完全に理解し、要求サイトを信頼している場合にのみ、このメッセージに署名してください。",
+      "korean": "내용을 완전히 이해하고 요청 사이트를 신뢰하는 경우 에만이 메시지에 서명하십시오.",
+      "mandarin": "仅当您完全了解内容并信任请求网站时才签署此消息。",
+      "portuguese": "Assine apenas esta mensagem se você entender completamente o conteúdo e confiar no site solicitante.",
+      "spanish": "Solo firme este mensaje si comprende completamente el contenido y confía en el sitio solicitante.",
+      "turkish": "Bu mesajı tam olarak anlamak ve istekte bulunan sitenin güvenilir olduğunu kabul ederken bu mesajı imzalamak için sadece bu mesajı imzalamak istiyorsanız imzalayın."
+    },
+    "signatureRequest": {
+      "dutch": "Handtekeningverzoek",
+      "english": "Signature request",
+      "french": "Demande de signature",
+      "german": "Signaturanforderung",
+      "japanese": "署名リクエスト",
+      "korean": "서명 요청",
+      "mandarin": "签名请求",
+      "portuguese": "Solicitação de assinatura",
+      "spanish": "Solicitud de firma",
+      "turkish": "İmzalama isteği"
+    },
     "signIn": {
       "dutch": "Aanmelden",
       "english": "Sign in",
@@ -875,30 +1004,6 @@
       "portuguese": "Assinar mensagem",
       "spanish": "Mensaje de firma",
       "turkish": "İmza iletisi"
-    },
-    "signatureDescription": {
-      "dutch": "Onderteken dit bericht alleen als u de inhoud volledig begrijpt en de aanvraagsite vertrouwt.",
-      "english": "Only sign this message if you fully understand the content and trust the requesting site.",
-      "french": "Signez ce message uniquement que si vous comprenez pleinement le contenu et faites confiance au site de demande.",
-      "german": "Unterzeichnen Sie diese Nachricht nur, wenn Sie den Inhalt vollständig verstehen und der Anforderungswebsite vertrauen.",
-      "japanese": "コンテンツを完全に理解し、要求サイトを信頼している場合にのみ、このメッセージに署名してください。",
-      "korean": "내용을 완전히 이해하고 요청 사이트를 신뢰하는 경우 에만이 메시지에 서명하십시오.",
-      "mandarin": "仅当您完全了解内容并信任请求网站时才签署此消息。",
-      "portuguese": "Assine apenas esta mensagem se você entender completamente o conteúdo e confiar no site solicitante.",
-      "spanish": "Solo firme este mensaje si comprende completamente el contenido y confía en el sitio solicitante.",
-      "turkish": "Bu mesajı tam olarak anlamak ve istekte bulunan sitenin güvenilir olduğunu kabul ederken bu mesajı imzalamak için sadece bu mesajı imzalamak istiyorsanız imzalayın."
-    },
-    "signatureRequest": {
-      "dutch": "Handtekeningverzoek",
-      "english": "Signature request",
-      "french": "Demande de signature",
-      "german": "Signaturanforderung",
-      "japanese": "署名リクエスト",
-      "korean": "서명 요청",
-      "mandarin": "签名请求",
-      "portuguese": "Solicitação de assinatura",
-      "spanish": "Solicitud de firma",
-      "turkish": "İmzalama isteği"
     },
     "socialPolicy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
