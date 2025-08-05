@@ -10,7 +10,8 @@
       "mandarin": "浏览器不支持",
       "portuguese": "Navegador não suportado",
       "spanish": "Navegador no compatible",
-      "turkish": "Tarayıcı desteklenmiyor"
+      "turkish": "Tarayıcı desteklenmiyor",
+      "russian": "Браузер не поддерживается"
     },
     "browser-not-supported-info": {
       "dutch": "Uw Browser wordt niet Ondersteund. Gebruik een ondersteunde browser om door te gaan.",
@@ -22,7 +23,8 @@
       "mandarin": "不支持您的浏览器。请使用支持的浏览器继续。",
       "portuguese": "Seu navegador não é suportado. Use um navegador suportado para continuar.",
       "spanish": "Su navegador no es compatible. Utilice uno compatible para continuar.",
-      "turkish": "Tarayıcınız desteklenmiyor. Devam etmek için lütfen desteklenen bir tarayıcı kullanın."
+      "turkish": "Tarayıcınız desteklenmiyor. Devam etmek için lütfen desteklenen bir tarayıcı kullanın.",
+      "russian": "Ваш браузер не поддерживается. Пожалуйста, используйте поддерживаемый браузер для продолжения."
     },
     "cancel": {
       "dutch": "Annuleren",
@@ -34,7 +36,8 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
-      "turkish": "İptal etmek"
+      "turkish": "İptal etmek",
+      "russian": "Отменить"
     },
     "error-verifying-passkey": {
       "dutch": "Fout bij het verifiëren van Passkey",
@@ -46,7 +49,8 @@
       "mandarin": "错误验证Passkey",
       "portuguese": "Erro verificando o Passkey",
       "spanish": "Error a verificar PassKey",
-      "turkish": "Passkey'i doğrulama hatası"
+      "turkish": "Passkey'i doğrulama hatası",
+      "russian": "Ошибка проверки passkey"
     },
     "setup-failed": {
       "dutch": "Passkey -opstelling is mislukt",
@@ -58,7 +62,8 @@
       "mandarin": "Passkey设置失败",
       "portuguese": "A instalação da Passkey falhou",
       "spanish": "Falló la configuración de PassKey",
-      "turkish": "Passkey kurulumu başarısız oldu"
+      "turkish": "Passkey kurulumu başarısız oldu",
+      "russian": "Не удалось настроить passkey"
     },
     "verification-desc-login": {
       "dutch": "Bijna daar! Bevestig je Passkey nog een keer om ervoor te zorgen dat het is opgeslagen voor dit apparaat.",
@@ -70,7 +75,8 @@
       "mandarin": "差不多了！只需再次确认您的Passkey即可确保为此设备保存它即可。",
       "portuguese": "Quase lá! Basta confirmar sua pasta mais uma vez para garantir que ela seja salva para este dispositivo.",
       "spanish": "¡Casi terminamos! Simplemente confirme su PassKey una vez más para asegurarse de que se guarde para este dispositivo.",
-      "turkish": ""
+      "turkish": "",
+      "russian": "Почти готово! Просто подтвердите ваш passkey ещё раз, чтобы убедиться, что он сохранен для этого устройства."
     },
     "verification-desc-register": {
       "dutch": "Registreer uw Passkey om te zorgen voor een naadloze login.",
@@ -82,7 +88,8 @@
       "mandarin": "注册您的Passkey以确保无缝登录。",
       "portuguese": "Registre sua chave passada para garantir o login sem costura.",
       "spanish": "Registre su PassKey para garantizar un inicio de sesión fluido.",
-      "turkish": "Kesintisiz giriş sağlamak için passey'inizi kaydedin."
+      "turkish": "Kesintisiz giriş sağlamak için passey'inizi kaydedin.",
+      "russian": "Зарегистрируйте passkey для беспрепятственного входа."
     },
     "verification-title-login": {
       "dutch": "Passkey verificatie",
@@ -94,7 +101,8 @@
       "mandarin": "Passkey验证",
       "portuguese": "Verificação da Passkey",
       "spanish": "Verificación de Passkey",
-      "turkish": "Passkey doğrulama"
+      "turkish": "Passkey doğrulama",
+      "russian": "Проверка passkey"
     },
     "verification-title-register": {
       "dutch": "Register Passkey",
@@ -106,7 +114,8 @@
       "mandarin": "注册Passkey",
       "portuguese": "Registre a Passkey",
       "spanish": "Registre su PassKey",
-      "turkish": "Passkey'i kaydet"
+      "turkish": "Passkey'i kaydet",
+      "russian": "Регистрация passkey"
     },
     "verify-cta-login": {
       "dutch": "Controleer Passkey",
@@ -118,7 +127,8 @@
       "mandarin": "验证Passkey",
       "portuguese": "Verifique se a pasta",
       "spanish": "Verifique PassKey",
-      "turkish": "Passkey'i doğrulayın"
+      "turkish": "Passkey'i doğrulayın",
+      "russian": "Проверить passkey"
     },
     "verify-cta-register": {
       "dutch": "Register Passkey",
@@ -130,7 +140,8 @@
       "mandarin": "注册Passkey",
       "portuguese": "Registre a Passkey",
       "spanish": "Registre PassKey",
-      "turkish": "Passkey'i kaydet"
+      "turkish": "Passkey'i kaydet",
+      "russian": "Зарегистрировать passkey"
     }
   }
 }

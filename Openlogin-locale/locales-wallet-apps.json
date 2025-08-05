@@ -10,7 +10,8 @@
       "mandarin": "当前设备",
       "portuguese": "Dispositivo atual",
       "spanish": "Dispositivo actual",
-      "turkish": "Mevcut cihaz"
+      "turkish": "Mevcut cihaz",
+      "russian": "Текущее устройство"
     },
     "apps-empty": {
       "dutch": "Je bent nog niet verbonden met enige applicaties.",
@@ -22,7 +23,8 @@
       "mandarin": "您尚未连接到任何应用程序。",
       "portuguese": "Você ainda não está conectado a nenhum aplicativo.",
       "spanish": "Aún no estás conectado a ninguna aplicación.",
-      "turkish": "Henüz herhangi bir uygulamaya bağlı değilsiniz."
+      "turkish": "Henüz herhangi bir uygulamaya bağlı değilsiniz.",
+      "russian": "Вы еще не подключены ни к одному приложению."
     },
     "apps-subtitle": {
       "dutch": "Lijst met apps",
@@ -34,7 +36,8 @@
       "mandarin": "应用清单",
       "portuguese": "Lista de aplicativos",
       "spanish": "Lista de aplicaciones",
-      "turkish": "Uygulama Listesi"
+      "turkish": "Uygulama Listesi",
+      "russian": "Список приложений"
     },
     "apps-title": {
       "dutch": "Geautoriseerde applicaties",
@@ -46,7 +49,8 @@
       "mandarin": "授权申请",
       "portuguese": "Aplicativos autorizados",
       "spanish": "Aplicaciones autorizadas",
-      "turkish": "Yetkili uygulamalar"
+      "turkish": "Yetkili uygulamalar",
+      "russian": "Авторизованные приложения"
     },
     "desc": {
       "dutch": "Beheer hier uw geautoriseerde applicaties",
@@ -58,7 +62,8 @@
       "mandarin": "在这里管理您的授权应用程序",
       "portuguese": "Gerencie seus aplicativos autorizados aqui",
       "spanish": "Gestione sus aplicaciones autorizadas aquí",
-      "turkish": "Yetkili uygulamaları buradan yönetin"
+      "turkish": "Yetkili uygulamaları buradan yönetin",
+      "russian": "Управляйте авторизованными приложениями здесь"
     },
     "devices": {
       "dutch": "Apparaat/Apparaten",
@@ -70,7 +75,8 @@
       "mandarin": "设备",
       "portuguese": "Dispositivos",
       "spanish": "Dispositivos",
-      "turkish": "Cihaz(lar)"
+      "turkish": "Cihaz(lar)",
+      "russian": "Устройство(а)"
     },
     "download-key": {
       "dutch": "Download sleutel",
@@ -82,7 +88,8 @@
       "mandarin": "下载密钥",
       "portuguese": "Chave de download",
       "spanish": "Descargar llave",
-      "turkish": "Anahtarı indir"
+      "turkish": "Anahtarı indir",
+      "russian": "Скачать ключ"
     },
     "export-private-key": {
       "dutch": "Privésleutel",
@@ -94,7 +101,8 @@
       "mandarin": "私钥",
       "portuguese": "Chave privada",
       "spanish": "Llave privada",
-      "turkish": "Gizli şifre"
+      "turkish": "Gizli şifre",
+      "russian": "Приватный ключ"
     },
     "last-access": {
       "dutch": "Laatst bezocht op",
@@ -106,7 +114,8 @@
       "mandarin": "最后访问",
       "portuguese": "Último acesso em",
       "spanish": "Último acceso en",
-      "turkish": "Son erişim tarihi"
+      "turkish": "Son erişim tarihi",
+      "russian": "Последний доступ"
     },
     "revoke": {
       "dutch": "Intrekken",
@@ -118,7 +127,8 @@
       "mandarin": "撤销",
       "portuguese": "Revogar",
       "spanish": "Revocar",
-      "turkish": "Geçersiz hale getir"
+      "turkish": "Geçersiz hale getir",
+      "russian": "Отозвать"
     },
     "see-all": {
       "dutch": "Bekijk alles",
@@ -130,7 +140,8 @@
       "mandarin": "查看全部",
       "portuguese": "Veja tudo",
       "spanish": "Ver todo",
-      "turkish": "Tamamını görüntüle"
+      "turkish": "Tamamını görüntüle",
+      "russian": "Показать все"
     },
     "see-less": {
       "dutch": "Minder bekijken",
@@ -142,7 +153,8 @@
       "mandarin": "少看",
       "portuguese": "ver menos",
       "spanish": "Ver menos",
-      "turkish": "Daha az görüntüle"
+      "turkish": "Daha az görüntüle",
+      "russian": "Показать меньше"
     },
     "title": {
       "dutch": "Geautoriseerde apps",
@@ -154,7 +166,8 @@
       "mandarin": "授权应用",
       "portuguese": "Apps autorizados",
       "spanish": "Aplicaciones autorizadas",
-      "turkish": "Yetkili uygulamalar"
+      "turkish": "Yetkili uygulamalar",
+      "russian": "Авторизованные приложения"
     }
   }
 }

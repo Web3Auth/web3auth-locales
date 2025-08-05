@@ -10,7 +10,8 @@
       "mandarin": "活动",
       "portuguese": "Atividade",
       "spanish": "Actividad",
-      "turkish": "Etkinlik"
+      "turkish": "Etkinlik",
+      "russian": "Активность"
     },
     "addChainText": {
       "dutch": "Sta {0} toe om nieuw netwerk toe te voegen {1}",
@@ -22,7 +23,8 @@
       "mandarin": "允许{0}添加新网络{1}。",
       "portuguese": "Permita {0} adicionar nova rede {1}",
       "spanish": "Permitir {0} agregar nueva red {1}",
-      "turkish": "{0} yeni ağ {1} ekleme izni ver"
+      "turkish": "{0} yeni ağ {1} ekleme izni ver",
+      "russian": "Позволить {0} добавить новую сеть {1}"
     },
     "advanced": {
       "dutch": "Geavanceerd",
@@ -34,7 +36,8 @@
       "mandarin": "先进的",
       "portuguese": "Avançado",
       "spanish": "Avanzado",
-      "turkish": "Gelişmiş"
+      "turkish": "Gelişmiş",
+      "russian": "Дополнительно"
     },
     "allow": {
       "dutch": "Toestaan",
@@ -46,7 +49,8 @@
       "mandarin": "允许",
       "portuguese": "Permitir",
       "spanish": "Permitir",
-      "turkish": "İzin ver"
+      "turkish": "İzin ver",
+      "russian": "Разрешить"
     },
     "allowOnBehalf": {
       "dutch": "Sta $ {0} toe om namens u $ {1} uit te geven",
@@ -58,7 +62,8 @@
       "mandarin": "允许$​​ {0}代表您花费$ {1}",
       "portuguese": "Deixe $ {0} gastar $ {1} em seu nome",
       "spanish": "Permitir $ {0} para gastar $ {1} en su nombre",
-      "turkish": "$ {0} adına $ {1} harcamak için izin ver"
+      "turkish": "$ {0} adına $ {1} harcamak için izin ver",
+      "russian": "Позволить ${0} потратить ${1} от вашего имени"
     },
     "amountGasFee": {
       "dutch": "Bedrag + gaskosten",
@@ -70,7 +75,8 @@
       "mandarin": "金额 +汽油费",
       "portuguese": "Valor + taxa de gás",
       "spanish": "Cantidad + tarifa de gas",
-      "turkish": "Tutar + gas ücreti"
+      "turkish": "Tutar + gas ücreti",
+      "russian": "Сумма + комиссия за газ"
     },
     "amountPlusNetworkFee": {
       "dutch": "Bedrag + netwerkkosten",
@@ -82,7 +88,8 @@
       "mandarin": "金额 + 网络费用",
       "portuguese": "Valor + taxa de rede",
       "spanish": "Cantidad + tarifa de red",
-      "turkish": "Tutar + ağ ücreti"
+      "turkish": "Tutar + ağ ücreti",
+      "russian": "Сумма + плата сети"
     },
     "approve": {
       "dutch": "Goedkeuren",
@@ -94,7 +101,8 @@
       "mandarin": "批准",
       "portuguese": "Aprovar",
       "spanish": "Aprobar",
-      "turkish": "Onayla"
+      "turkish": "Onayla",
+      "russian": "Одобрить"
     },
     "balance": {
       "dutch": "Evenwicht",
@@ -106,7 +114,8 @@
       "mandarin": "平衡",
       "portuguese": "Equilíbrio",
       "spanish": "Balance",
-      "turkish": "Denge"
+      "turkish": "Denge",
+      "russian": "Баланс"
     },
     "buySell": {
       "dutch": "Kopen verkopen",
@@ -118,7 +127,8 @@
       "mandarin": "买卖",
       "portuguese": "Compra venda",
       "spanish": "Compra venta",
-      "turkish": "Alış veriş"
+      "turkish": "Alış veriş",
+      "russian": "Купить/Продать"
     },
     "buySellToken": {
       "dutch": "Koop/verkooptoken",
@@ -130,7 +140,8 @@
       "mandarin": "买/出售令牌",
       "portuguese": "Comprar/vender token",
       "spanish": "Comprar/vender token",
-      "turkish": "Token satın al/sat"
+      "turkish": "Token satın al/sat",
+      "russian": "Купить/Продать токен"
     },
     "chainId": {
       "dutch": "Keten -ID",
@@ -142,7 +153,8 @@
       "mandarin": "连锁ID",
       "portuguese": "ID da cadeia",
       "spanish": "ID de cadena",
-      "turkish": "Kırılım ID"
+      "turkish": "Kırılım ID",
+      "russian": "ID сети"
     },
     "contractDeployment": {
       "dutch": "Contractimplementatie",
@@ -154,7 +166,8 @@
       "mandarin": "合同部署",
       "portuguese": "Implantação do contrato",
       "spanish": "Despliegue de contrato",
-      "turkish": "Sözleşme Dağıtımı"
+      "turkish": "Sözleşme Dağıtımı",
+      "russian": "Развертывание контракта"
     },
     "contractInteraction": {
       "dutch": "Contractinteractie",
@@ -166,7 +179,8 @@
       "mandarin": "合同互动",
       "portuguese": "Interação do contrato",
       "spanish": "Interacción por contrato",
-      "turkish": "Sözleşme Etkileşimi"
+      "turkish": "Sözleşme Etkileşimi",
+      "russian": "Взаимодействие с контрактом"
     },
     "currencySymbol": {
       "dutch": "Symbool van munteenheid",
@@ -178,7 +192,8 @@
       "mandarin": "货币符号",
       "portuguese": "Símbolo da moeda",
       "spanish": "Símbolo de moneda",
-      "turkish": "Para Birimi Sembolü"
+      "turkish": "Para Birimi Sembolü",
+      "russian": "Символ валюты"
     },
     "currentNetwork": {
       "dutch": "Huidig ​​netwerk",
@@ -190,7 +205,8 @@
       "mandarin": "当前网络",
       "portuguese": "Rede atual",
       "spanish": "Red actual",
-      "turkish": "Mevcut ağ"
+      "turkish": "Mevcut ağ",
+      "russian": "Текущая сеть"
     },
     "decryptDescription": {
       "dutch": "{0} wil dit bericht lezen om uw actie te voltooien",
@@ -202,7 +218,8 @@
       "mandarin": "{0}想阅读此消息以完成您的动作",
       "portuguese": "{0} gostaria de ler esta mensagem para concluir sua ação",
       "spanish": "{0} le gustaría leer este mensaje para completar su acción",
-      "turkish": "{0} bu mesajı okumak için tamamlanacak eylemi tamamlamak için bu mesajı okumak istiyor"
+      "turkish": "{0} bu mesajı okumak için tamamlanacak eylemi tamamlamak için bu mesajı okumak istiyor",
+      "russian": "{0} хочет прочитать это сообщение, чтобы завершить ваше действие"
     },
     "decryptKeyText": {
       "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien",
@@ -214,7 +231,8 @@
       "mandarin": "允许{0}阅读此消息以完成您的操作。",
       "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação",
       "spanish": "Permitir {0} leer este mensaje para completar su acción",
-      "turkish": "{0} bu iletiyi okumak için izin ver"
+      "turkish": "{0} bu iletiyi okumak için izin ver",
+      "russian": "Разрешить {0} прочитать это сообщение для завершения вашего действия"
     },
     "decryptionRequest": {
       "dutch": "Decoderingverzoek",
@@ -226,7 +244,8 @@
       "mandarin": "解密请求",
       "portuguese": "Solicitação de descriptografia",
       "spanish": "Solicitud de descifrado",
-      "turkish": "Şifre çözme isteği"
+      "turkish": "Şifre çözme isteği",
+      "russian": "Запрос на расшифровку"
     },
     "details": {
       "dutch": "Details",
@@ -238,7 +257,8 @@
       "mandarin": "细节",
       "portuguese": "Detalhes",
       "spanish": "Detalles",
-      "turkish": "Detaylar"
+      "turkish": "Detaylar",
+      "russian": "Детали"
     },
     "editGasFee": {
       "dutch": "Gaskosten bewerken",
@@ -250,7 +270,8 @@
       "mandarin": "编辑汽油费",
       "portuguese": "Editar taxa de gás",
       "spanish": "Editar tarifa de gasolina",
-      "turkish": "Gas ücretini düzenle"
+      "turkish": "Gas ücretini düzenle",
+      "russian": "Изменить комиссию за газ"
     },
     "editPriority": {
       "dutch": "Prioriteit bewerken",
@@ -262,7 +283,8 @@
       "mandarin": "编辑优先级",
       "portuguese": "Editar prioridade",
       "spanish": "Editar prioridad",
-      "turkish": "Önceliği Düzenle"
+      "turkish": "Önceliği Düzenle",
+      "russian": "Изменить приоритет"
     },
     "email": {
       "dutch": "E-mail",
@@ -274,7 +296,8 @@
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
       "spanish": "Correo electrónico",
-      "turkish": "E-posta"
+      "turkish": "E-posta",
+      "russian": "Электронная почта"
     },
     "encryptKeyText": {
       "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen",
@@ -286,7 +309,8 @@
       "mandarin": "允许{0}为您撰写加密消息。",
       "portuguese": "Permita que {0} componha mensagens criptografadas para você",
       "spanish": "Permitir {0} componer mensajes cifrados para usted",
-      "turkish": "{0} şifreli iletilerinizi oluşturmak için izin ver"
+      "turkish": "{0} şifreli iletilerinizi oluşturmak için izin ver",
+      "russian": "Разрешить {0} составлять зашифрованные сообщения для вас"
     },
     "encryptionDescription": {
       "dutch": "{0} zou uw publieke coderingssleutel willen. Door toestemming te geven, kan deze site gecodeerde berichten aan u samenstellen.",
@@ -298,7 +322,8 @@
       "mandarin": "{0}想要您的公共加密密钥。通过同意，此站点将能够向您撰写加密消息。",
       "portuguese": "{0} gostaria da sua chave de criptografia pública. Por consentimento, este site poderá compor mensagens criptografadas para você.",
       "spanish": "{0} le gustaría su clave de cifrado público. Al consentir, este sitio podrá componerle mensajes cifrados.",
-      "turkish": "{0} sizin şifreleme anahtarınızı istiyor. Kabul ederek, bu site sizinle şifrelenmiş mesajlar oluşturabilir."
+      "turkish": "{0} sizin şifreleme anahtarınızı istiyor. Kabul ederek, bu site sizinle şifrelenmiş mesajlar oluşturabilir.",
+      "russian": "{0} хочет получить ваш публичный ключ шифрования. С вашего согласия сайт сможет составлять для вас зашифрованные сообщения."
     },
     "errorEstimatingBalanceChanges": {
       "dutch": "Er is een fout opgetreden bij het schatten van de balansveranderingen",
@@ -310,7 +335,8 @@
       "mandarin": "估计余额变化时发生错误",
       "portuguese": "Ocorreu um erro ao estimar as alterações de saldo",
       "spanish": "Se produjo un error al estimar los cambios de saldo",
-      "turkish": "Bakiye değişikliklerini tahminirken bir hata oluştu"
+      "turkish": "Bakiye değişikliklerini tahminırken bir hata oluştu",
+      "russian": "При оценке изменений баланса произошла ошибка"
     },
     "estimatedGasFee": {
       "dutch": "Geschatte gaskosten",
@@ -322,7 +348,8 @@
       "mandarin": "估计的汽油费",
       "portuguese": "Taxa estimada de gás",
       "spanish": "Tarifa de gas estimada",
-      "turkish": "Tahmini Gas Ücreti"
+      "turkish": "Tahmini Gas Ücreti",
+      "russian": "Примерная комиссия за газ"
     },
     "estimatedBalanceChanges": {
       "dutch": "Geschatte balansveranderingen",
@@ -334,7 +361,8 @@
       "mandarin": "估计余额变化",
       "portuguese": "Alterações estimadas de saldo",
       "spanish": "Cambios estimados de saldo",
-      "turkish": "Tahmini Bakiye Değişiklikleri"
+      "turkish": "Tahmini Bakiye Değişiklikleri",
+      "russian": "Примерное изменение баланса"
     },
     "estimatedNetworkFee": {
       "dutch": "Geschatte netwerkkosten",
@@ -346,7 +374,8 @@
       "mandarin": "估计网络费用",
       "portuguese": "Taxa estimada de rede",
       "spanish": "Tarifa de red estimada",
-      "turkish": "Tahmini Ağ Ücreti"
+      "turkish": "Tahmini Ağ Ücreti",
+      "russian": "Примерная комиссия сети"
     },
     "from": {
       "dutch": "Van:",
@@ -358,7 +387,8 @@
       "mandarin": "从：",
       "portuguese": "De:",
       "spanish": "De:",
-      "turkish": "Şuna:"
+      "turkish": "Şuna:",
+      "russian": "От:"
     },
     "hexData": {
       "dutch": "HEX -gegevens",
@@ -370,7 +400,8 @@
       "mandarin": "十六进制数据",
       "portuguese": "Dados hexadecimais",
       "spanish": "Datos hexadecimales",
-      "turkish": "Onaltılık Veri"
+      "turkish": "Onaltılık Veri",
+      "russian": "Hex данные"
     },
     "hideDetails": {
       "dutch": "Verberg details",
@@ -382,7 +413,8 @@
       "mandarin": "隐藏细节",
       "portuguese": "Detalhes ocultos",
       "spanish": "Ocultar detalles",
-      "turkish": "Ayrıntıları gizle"
+      "turkish": "Ayrıntıları gizle",
+      "russian": "Скрыть детали"
     },
     "home": {
       "dutch": "Thuis",
@@ -394,7 +426,8 @@
       "mandarin": "家",
       "portuguese": "Lar",
       "spanish": "Hogar",
-      "turkish": "Ev"
+      "turkish": "Ev",
+      "russian": "Главная"
     },
     "insufficientBalance": {
       "dutch": "Onvoldoende balans",
@@ -406,7 +439,8 @@
       "mandarin": "平衡不足",
       "portuguese": "Saldo insuficiente",
       "spanish": "Saldo insuficiente",
-      "turkish": "Yetersiz Bakiye"
+      "turkish": "Yetersiz Bakiye",
+      "russian": "Недостаточно средств"
     },
     "invalidGasLimitErr": {
       "dutch": "Ongeldige gaslimiet",
@@ -418,7 +452,8 @@
       "mandarin": "无效的气体限制",
       "portuguese": "Limite de gás inválido",
       "spanish": "Límite de gas no válido",
-      "turkish": "Gas limiti geçersiz"
+      "turkish": "Gas limiti geçersiz",
+      "russian": "Недопустимый лимит газа"
     },
     "invalidGasPriceErr": {
       "dutch": "Ongeldige gasprijs",
@@ -430,7 +465,8 @@
       "mandarin": "无效的气价",
       "portuguese": "Preço inválido de gás",
       "spanish": "Precio de gas no válido",
-      "turkish": "Gas fiyatı geçersiz"
+      "turkish": "Gas fiyatı geçersiz",
+      "russian": "Недопустимая цена за газ"
     },
     "invalidMaxFeeErr": {
       "dutch": "Ongeldige maximale prioriteitskosten",
@@ -442,7 +478,8 @@
       "mandarin": "最高优先费用无效",
       "portuguese": "Taxa prioritária máxima inválida",
       "spanish": "Tarifa de prioridad máxima no válida",
-      "turkish": "Maksimum öncelik ücreti geçersiz"
+      "turkish": "Maksimum öncelik ücreti geçersiz",
+      "russian": "Недопустимая максимальная приоритетная цена"
     },
     "invalidMaxTxnFeeErr": {
       "dutch": "Ongeldige max transactiekosten",
@@ -454,7 +491,8 @@
       "mandarin": "无效的最大交易费",
       "portuguese": "Taxa de transação máxima inválida",
       "spanish": "Tarifa de transacción máxima no válida",
-      "turkish": "Maksimum işlem ücreti geçersiz"
+      "turkish": "Maksimum işlem ücreti geçersiz",
+      "russian": "Недопустимая максимальная комиссия транзакции"
     },
     "invalidNonceErr": {
       "dutch": "Ongeldige nonce",
@@ -466,7 +504,8 @@
       "mandarin": "无效的nonce",
       "portuguese": "Nonce inválido",
       "spanish": "Nonce inválido",
-      "turkish": "Nonce geçersiz"
+      "turkish": "Nonce geçersiz",
+      "russian": "Недопустимый nonce"
     },
     "isSmartAccount": {
       "dutch": "Dit is een Smart Contract Account",
@@ -478,7 +517,8 @@
       "mandarin": "这是一个智能合约账户",
       "portuguese": "Este é um contrato inteligente",
       "spanish": "Este es un contrato inteligente",
-      "turkish": "Bu, bir akıllı sözleşme hesabıdır"
+      "turkish": "Bu, bir akıllı sözleşme hesabıdır",
+      "russian": "Это аккаунт на базе смарт-контракта"
     },
     "login": {
       "dutch": "Log in",
@@ -490,7 +530,8 @@
       "mandarin": "登录",
       "portuguese": "Conecte-se",
       "spanish": "Acceso",
-      "turkish": "Giriş yap"
+      "turkish": "Giriş yap",
+      "russian": "Войти"
     },
     "loginContinue": {
       "dutch": "Doorgaan met {0}",
@@ -502,7 +543,8 @@
       "mandarin": "继续{0}",
       "portuguese": "Continuar com {0}",
       "spanish": "Continuar con {0}",
-      "turkish": "{0} ile devam et"
+      "turkish": "{0} ile devam et",
+      "russian": "Продолжить с {0}"
     },
     "loginEmail": {
       "dutch": "Log in met e -mail",
@@ -514,7 +556,8 @@
       "mandarin": "使用电子邮件登录",
       "portuguese": "Faça login com email",
       "spanish": "Iniciar sesión con el correo electrónico",
-      "turkish": "E-posta ile giriş yap"
+      "turkey": "E-posta ile giriş yap",
+      "russian": "Войти с электронной почтой"
     },
     "logout": {
       "dutch": "Uitloggen",
@@ -526,7 +569,8 @@
       "mandarin": "登出",
       "portuguese": "Sair",
       "spanish": "Cerrar sesión",
-      "turkish": "Çıkış yap"
+      "turkish": "Çıkış yap",
+      "russian": "Выйти"
     },
     "message": {
       "dutch": "Bericht",
@@ -538,7 +582,8 @@
       "mandarin": "信息",
       "portuguese": "Mensagem",
       "spanish": "Mensaje",
-      "turkish": "İleti"
+      "turkish": "İleti",
+      "russian": "Сообщение"
     },
     "moreDetails": {
       "dutch": "Meer details",
@@ -550,7 +595,8 @@
       "mandarin": "更多细节",
       "portuguese": "Mais detalhes",
       "spanish": "Más detalles",
-      "turkish": "Daha fazla ayrıntı"
+      "turkish": "Daha fazla ayrıntı",
+      "russian": "Подробнее"
     },
     "network": {
       "dutch": "Netwerk",
@@ -562,7 +608,8 @@
       "mandarin": "网络",
       "portuguese": "Rede",
       "spanish": "Red",
-      "turkish": "Ağ"
+      "turkish": "Ağ",
+      "russian": "Сеть"
     },
     "networkName": {
       "dutch": "Netwerknaam",
@@ -574,7 +621,8 @@
       "mandarin": "网络名字",
       "portuguese": "Nome da rede",
       "spanish": "Nombre de red",
-      "turkish": "Ağ adı"
+      "turkish": "Ağ adı",
+      "russian": "Имя сети"
     },
     "networkUrl": {
       "dutch": "Netwerk -URL",
@@ -586,7 +634,8 @@
       "mandarin": "网络URL",
       "portuguese": "URL da rede",
       "spanish": "URL de red",
-      "turkish": "Ağ URL"
+      "turkish": "Ağ URL",
+      "russian": "URL сети"
     },
     "newChain": {
       "dutch": "Nieuwe keten",
@@ -598,7 +647,8 @@
       "mandarin": "新链",
       "portuguese": "Nova cadeia",
       "spanish": "Nueva cadena",
-      "turkish": "Yeni Ket"
+      "turkish": "Yeni Ket",
+      "russian": "Новая цепочка"
     },
     "newChainId": {
       "dutch": "Nieuwe ketting -ID",
@@ -610,7 +660,8 @@
       "mandarin": "新连锁ID",
       "portuguese": "Novo ID da cadeia",
       "spanish": "Nueva identificación de cadena",
-      "turkish": "Yeni Ket ID"
+      "turkish": "Yeni Ket ID",
+      "russian": "Новый ID цепочки"
     },
     "nftDetails": {
       "dutch": "NFT -details",
@@ -622,7 +673,8 @@
       "mandarin": "NFT详细信息",
       "portuguese": "Detalhes da NFT",
       "spanish": "Detalles NFT",
-      "turkish": "NFT Detayları"
+      "turkish": "NFT Detayları",
+      "russian": "Детали NFT"
     },
     "paymentTxn": {
       "dutch": "Betalingstransactie",
@@ -634,7 +686,8 @@
       "mandarin": "付款交易",
       "portuguese": "Operação de pagamento",
       "spanish": "Transaccion de pago",
-      "turkish": "Ödeme İşlemi"
+      "turkish": "Ödeme İşlemi",
+      "russian": "Платёжная транзакция"
     },
     "permission": {
       "dutch": "Toestemming",
@@ -646,7 +699,8 @@
       "mandarin": "允许",
       "portuguese": "Permissão",
       "spanish": "Permiso",
-      "turkish": "İzin"
+      "turkish": "İzin",
+      "russian": "Разрешение"
     },
     "popupAlertMsg": {
       "dutch": "De browser wordt niet ondersteund; Probeer het opnieuw in een andere browser.",
@@ -658,7 +712,8 @@
       "mandarin": "不支持浏览器；请在另一个浏览器中重试。",
       "portuguese": "O navegador não é suportado; Por favor, tente novamente em outro navegador.",
       "spanish": "El navegador no es compatible; Vuelva a intentar en otro navegador.",
-      "turkish": "Tarayıcınız desteklenmiyor; Lütfen başka bir tarayıcıda yeniden deneyin."
+      "turkish": "Tarayıcınız desteklenmiyor; Lütfen başka bir tarayıcıda yeniden deneyin.",
+      "russian": "Браузер не поддерживается; попробуйте в другом браузере."
     },
     "popupBlock": {
       "dutch": "Pop-up geblokkeerd",
@@ -670,7 +725,8 @@
       "mandarin": "弹出被阻止",
       "portuguese": "Pop-up bloqueado",
       "spanish": "Ventana emergente bloqueada",
-      "turkish": "Açılan pencere engellendi"
+      "turkish": "Açılan pencere engellendi",
+      "russian": "Всплывающее окно заблокировано"
     },
     "popupBlockConfirm": {
       "dutch": "Start pagina voor nu",
@@ -682,7 +738,8 @@
       "mandarin": "现在启动页面",
       "portuguese": "Página de lançamento para agora",
       "spanish": "Página de lanzamiento por ahora",
-      "turkish": "Şimdi sayfa başlat"
+      "turkish": "Şimdi sayfa başlat",
+      "russian": "Запустить страницу сейчас"
     },
     "popupBlockDesc": {
       "dutch": "De pagina kan mogelijk niet openen vanwege een pop -up blocker. Als u een pop -up blocker gebruikt, overweeg dan om deze in de toekomst voor deze site uit te schakelen om toegang te krijgen tot het venster.",
@@ -694,7 +751,8 @@
       "mandarin": "由于弹出阻滞剂，该页面可能无法打开。如果您使用的是弹出式阻滞剂，请考虑将来将其禁用此站点以访问窗口。",
       "portuguese": "A página pode não conseguir abrir devido a um bloqueador pop -up. Se você estiver usando um bloqueador pop -up, considere desativá -lo para este site no futuro para acessar a janela.",
       "spanish": "La página puede no poder abrir debido a un bloqueador emergente. Si está utilizando un bloqueador emergente, considere deshabilitarlo para este sitio en el futuro para acceder a la ventana.",
-      "turkish": "Sayfa, açılan pencere engelleyicisinin nedeniyle açılamayabilir. Blokeiciyi kullanmıyorsanız, bu siteyi gelecekte devre dışı bırakarak pencereye erişim sağlayabilirsiniz."
+      "turkish": "Sayfa, açılan pencere engelleyicisinin nedeniyle açılamayabilir. Blokeiciyi kullanmıyorsanız, bu siteyi gelecekte devre dışı bırakarak pencereye erişim sağlayabilirsiniz.",
+      "russian": "Страница может не открыться из-за блокировщика всплывающих окон. Если вы используете его, отключите для этого сайта, чтобы получить доступ к окну."
     },
     "reject": {
       "dutch": "Afwijzen",
@@ -706,7 +764,8 @@
       "mandarin": "拒绝",
       "portuguese": "Rejeitar",
       "spanish": "Rechazar",
-      "turkish": "Reddet"
+      "turkish": "Reddet",
+      "russian": "Отклонить"
     },
     "requestEncryptionKey": {
       "dutch": "Verzoek coderingssleutel",
@@ -718,7 +777,8 @@
       "mandarin": "请求加密密钥",
       "portuguese": "Chave de criptografia de solicitação",
       "spanish": "Solicitar la clave de cifrado",
-      "turkish": "Şifreleme anahtarını iste"
+      "turkish": "Şifreleme anahtarını iste",
+      "russian": "Запросить ключ шифрования"
     },
     "requestedFrom": {
       "dutch": "Gevraagd van",
@@ -730,7 +790,8 @@
       "mandarin": "请求",
       "portuguese": "Solicitado de",
       "spanish": "Solicitado de",
-      "turkish": "İstek"
+      "turkish": "İstek",
+      "russian": "Запрошено от"
     },
     "retry": {
       "dutch": "Opnieuw proberen",
@@ -742,7 +803,8 @@
       "mandarin": "重试",
       "portuguese": "Tente novamente",
       "spanish": "Rever",
-      "turkish": "Tekrar Dene"
+      "turkish": "Tekrar Dene",
+      "russian": "Повторить"
     },
     "safeTransferFrom": {
       "dutch": "Veilige overdracht van",
@@ -754,7 +816,8 @@
       "mandarin": "安全转移",
       "portuguese": "Transferência segura de",
       "spanish": "Transferencia segura de",
-      "turkish": "Güvenli Transfer From"
+      "turkish": "Güvenli Transfer From",
+      "russian": "Безопасный перевод от"
     },
     "save": {
       "dutch": "Redden",
@@ -766,7 +829,8 @@
       "mandarin": "节省",
       "portuguese": "Salvar",
       "spanish": "Ahorrar",
-      "turkish": "Kaydet"
+      "turkish": "Kaydet",
+      "russian": "Сохранить"
     },
     "send": {
       "dutch": "Versturen",
@@ -778,7 +842,8 @@
       "mandarin": "发送",
       "portuguese": "Enviar",
       "spanish": "Enviar",
-      "turkish": "Gönder"
+      "turkish": "Gönder",
+      "russian": "Отправить"
     },
     "sending": {
       "dutch": "Bezig met verzenden",
@@ -790,7 +855,8 @@
       "mandarin": "发送",
       "portuguese": "Envio",
       "spanish": "Enviando",
-      "turkish": "Gönderiliyor"
+      "turkish": "Gönderiliyor",
+      "russian": "Отправка"
     },
     "sentEther": {
       "dutch": "Verzonden ether",
@@ -802,7 +868,8 @@
       "mandarin": "发送以太",
       "portuguese": "Éter enviado",
       "spanish": "Enviado éter",
-      "turkish": "Eter gönderildi"
+      "turkish": "Eter gönderildi",
+      "russian": "Отправлено Ether"
     },
     "setApprovalForAll": {
       "dutch": "Stel goedkeuring in voor iedereen",
@@ -814,7 +881,8 @@
       "mandarin": "设定所有人的批准",
       "portuguese": "Defina aprovação para todos",
       "spanish": "Establecer aprobación para todos",
-      "turkish": "Tüm Onayını Ayarla"
+      "turkish": "Tüm Onayını Ayarla",
+      "russian": "Установить разрешение для всех"
     },
     "settings": {
       "dutch": "Instellingen",
@@ -826,7 +894,8 @@
       "mandarin": "设置",
       "portuguese": "Configurações",
       "spanish": "Ajustes",
-      "turkish": "Ayarlar"
+      "turkish": "Ayarlar",
+      "russian": "Настройки"
     },
     "sign": {
       "dutch": "Teken",
@@ -838,7 +907,8 @@
       "mandarin": "符号",
       "portuguese": "Sinal",
       "spanish": "Firmar",
-      "turkish": "İmzala"
+      "turkish": "İmzala",
+      "russian": "Подписать"
     },
     "signIn": {
       "dutch": "Aanmelden",
@@ -850,7 +920,8 @@
       "mandarin": "登入",
       "portuguese": "Entrar",
       "spanish": "Iniciar sesión",
-      "turkish": "Oturum aç"
+      "turkish": "Oturum aç",
+      "russian": "Войти"
     },
     "signInDescription": {
       "dutch": "Uw blockchain -portemonnee op één klik",
@@ -862,7 +933,8 @@
       "mandarin": "您的区块链钱包一键",
       "portuguese": "Sua carteira blockchain em um clique",
       "spanish": "Su billetera blockchain en un solo clic",
-      "turkish": "Takımınızın blok zinciri cüzdanına bir tıkla"
+      "turkish": "Takımınızın blok zinciri cüzdanına bir tıkla",
+      "russian": "Ваш кошелёк блокчейна в один клик"
     },
     "signMessage": {
       "dutch": "Aanmeldbericht",
@@ -874,7 +946,8 @@
       "mandarin": "标志消息",
       "portuguese": "Assinar mensagem",
       "spanish": "Mensaje de firma",
-      "turkish": "İmza iletisi"
+      "turkish": "İmza iletisi",
+      "russian": "Подписать сообщение"
     },
     "signatureDescription": {
       "dutch": "Onderteken dit bericht alleen als u de inhoud volledig begrijpt en de aanvraagsite vertrouwt.",
@@ -886,7 +959,8 @@
       "mandarin": "仅当您完全了解内容并信任请求网站时才签署此消息。",
       "portuguese": "Assine apenas esta mensagem se você entender completamente o conteúdo e confiar no site solicitante.",
       "spanish": "Solo firme este mensaje si comprende completamente el contenido y confía en el sitio solicitante.",
-      "turkish": "Bu mesajı tam olarak anlamak ve istekte bulunan sitenin güvenilir olduğunu kabul ederken bu mesajı imzalamak için sadece bu mesajı imzalamak istiyorsanız imzalayın."
+      "turkish": "Bu mesajı tam olarak anlamak ve istekte bulunan sitenin güvenilir olduğunu kabul ederken bu mesajı imzalamak için sadece bu mesajı imzalamak istiyorsanız imzalayın.",
+      "russian": "Подписывайте это сообщение только если вы полностью понимаете содержимое и доверяете запрашивающему сайту."
     },
     "signatureRequest": {
       "dutch": "Handtekeningverzoek",
@@ -898,7 +972,8 @@
       "mandarin": "签名请求",
       "portuguese": "Solicitação de assinatura",
       "spanish": "Solicitud de firma",
-      "turkish": "İmzalama isteği"
+      "turkish": "İmzalama isteği",
+      "russian": "Запрос подписи"
     },
     "socialPolicy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
@@ -910,7 +985,8 @@
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-      "turkish": "Biz hepsini sosyal oturum açma ile ilgili herhangi bir veriyi saklamıyoruz."
+      "turkish": "Biz hepsini sosyal oturum açma ile ilgili herhangi bir veriyi saklamıyoruz.",
+      "russian": "Мы не храним никаких данных, связанных с вашими соцсетями."
     },
     "socialViewLess": {
       "dutch": "Minder bekijken",
@@ -922,7 +998,8 @@
       "mandarin": "少查看",
       "portuguese": "Ver menos",
       "spanish": "Ver menos",
-      "turkish": "Daha az göster"
+      "turkish": "Daha az göster",
+      "russian": "Показать меньше"
     },
     "socialViewMore": {
       "dutch": "Bekijk meer",
@@ -934,7 +1011,8 @@
       "mandarin": "查看更多",
       "portuguese": "Veja mais",
       "spanish": "Ver más",
-      "turkish": "Daha fazla göster"
+      "turkish": "Daha fazla göster",
+      "russian": "Показать больше"
     },
     "swap": {
       "dutch": "Ruil",
@@ -946,7 +1024,8 @@
       "mandarin": "交换",
       "portuguese": "Trocar",
       "spanish": "Intercambio",
-      "turkish": "Takas"
+      "turkish": "Takas",
+      "russian": "Обменять"
     },
     "switchChainText": {
       "dutch": "Sta {0} toe om uw netwerk te wijzigen in {1}",
@@ -958,7 +1037,8 @@
       "mandarin": "允许{0}将您的网络更改为{1}。",
       "portuguese": "Permita que {0} altere sua rede para {1}",
       "spanish": "Permitir {0} cambiar su red a {1}",
-      "turkish": "{0} {1} ağınıza erişim izni ver"
+      "turkish": "{0} {1} ağınıza erişim izni ver",
+      "russian": "Разрешить {0} изменить вашу сеть на {1}"
     },
     "to": {
       "dutch": "Naar:",
@@ -970,7 +1050,8 @@
       "mandarin": "到：",
       "portuguese": "Para:",
       "spanish": "A:",
-      "turkish": "İçin:"
+      "turkish": "İçin:",
+      "russian": "Кому:"
     },
     "tokenDetails": {
       "dutch": "Token -details",
@@ -982,7 +1063,8 @@
       "mandarin": "令牌细节",
       "portuguese": "Detalhes do token",
       "spanish": "Detalles del token",
-      "turkish": "Token Detayları"
+      "turkish": "Token Detayları",
+      "russian": "Детали токена"
     },
     "topUpGasCredit": {
       "dutch": "Vul gaskrediet aan",
@@ -994,7 +1076,8 @@
       "mandarin": "充气汽油信用",
       "portuguese": "Top up Gas Credit",
       "spanish": "Recargar crédito de gas",
-      "turkish": "Gaz kredisi yükle"
+      "turkish": "Gaz kredisi yükle",
+      "russian": "Пополнить газовый кредит"
     },
     "topupWallet": {
       "dutch": "Topup -portemonnee",
@@ -1006,7 +1089,8 @@
       "mandarin": "托图钱包",
       "portuguese": "Carteira de recarga",
       "spanish": "Billetera",
-      "turkish": "Portföy"
+      "turkish": "Portföy",
+      "russian": "Пополнить кошелёк"
     },
     "total": {
       "dutch": "Totaal",
@@ -1018,7 +1102,8 @@
       "mandarin": "全部的",
       "portuguese": "Total",
       "spanish": "Total",
-      "turkish": "Toplam"
+      "turkish": "Toplam",
+      "russian": "Итого"
     },
     "transaction": {
       "dutch": "Transactie",
@@ -1030,7 +1115,8 @@
       "mandarin": "交易",
       "portuguese": "Transação",
       "spanish": "Transacción",
-      "turkish": "İşlem"
+      "turkish": "İşlem",
+      "russian": "Транзакция"
     },
     "transfer": {
       "dutch": "Overdracht",
@@ -1042,7 +1128,8 @@
       "mandarin": "转移",
       "portuguese": "Transferir",
       "spanish": "Transferir",
-      "turkish": "Transfer"
+      "turkish": "Transfer",
+      "russian": "Перевести"
     },
     "transferFrom": {
       "dutch": "Overbrengen van",
@@ -1054,7 +1141,8 @@
       "mandarin": "从转移",
       "portuguese": "Transferir de",
       "spanish": "Transferido de",
-      "turkish": "Transfer From"
+      "turkish": "Transfer From",
+      "russian": "Перевести из"
     },
     "transferToken": {
       "dutch": "Overdracht token",
@@ -1066,7 +1154,8 @@
       "mandarin": "转移令牌",
       "portuguese": "Transferir token",
       "spanish": "Token de transferencia",
-      "turkish": "Token transferi"
+      "turkish": "Token transferi",
+      "russian": "Перевести токен"
     },
     "txnRequest": {
       "dutch": "Transactieverzoek",
@@ -1078,7 +1167,8 @@
       "mandarin": "交易请求",
       "portuguese": "Solicitação de transação",
       "spanish": "Solicitud de transacción",
-      "turkish": "İşlem İsteği"
+      "turkish": "İşlem İsteği",
+      "russian": "Запрос транзакции"
     },
     "type": {
       "dutch": "Type",
@@ -1090,7 +1180,8 @@
       "mandarin": "类型",
       "portuguese": "Tipo",
       "spanish": "Tipo",
-      "turkish": "Tür"
+      "turkish": "Tür",
+      "russian": "Тип"
     },
     "validMaxFeeErr": {
       "dutch": "Max -vergoeding moet groter zijn dan basiskosten + prioriteitskosten",
@@ -1102,7 +1193,8 @@
       "mandarin": "最高费用必须大于基本费用 +优先费",
       "portuguese": "A taxa máxima deve ser maior que a taxa básica + taxa de prioridade",
       "spanish": "La tarifa máxima debe ser mayor que la tarifa base + tarifa prioritaria",
-      "turkish": "Maksimum ücret en fazla temel ücret + öncelik ücret olmalıdır"
+      "turkish": "Maksimum ücret en fazla temel ücret + öncelik ücret olmalıdır",
+      "russian": "Максимальная комиссия должна быть больше базовой комиссии + приоритетной комиссии"
     },
     "walletAddress": {
       "dutch": "Portemonnee",
@@ -1114,7 +1206,8 @@
       "mandarin": "钱包地址",
       "portuguese": "Endereço da carteira",
       "spanish": "Dirección de la billetera",
-      "turkish": "Cüzdan adresi"
+      "turkish": "Cüzdan adresi",
+      "russian": "Адрес кошелька"
     },
     "walletConnect": {
       "dutch": "Portemonnee verbindt",
@@ -1126,7 +1219,8 @@
       "mandarin": "钱包连接",
       "portuguese": "Carteira Connect",
       "spanish": "Billetera conectar",
-      "turkish": "Cüzdanı bağla"
+      "turkish": "Cüzdanı bağla",
+      "russian": "Подключение кошелька"
     },
     "wasmBasedDeploy": {
       "dutch": "Wasme gebaseerde implementatie",
@@ -1138,7 +1232,8 @@
       "mandarin": "基于WASM的部署",
       "portuguese": "Implantação baseada em WASM",
       "spanish": "Despliegue basado en WASM",
-      "turkish": "WASM Tabanlı Dağıtım"
+      "turkish": "WASM Tabanlı Dağıtım",
+      "russian": "Развертывание на основе WASM"
     },
     "youSend": {
       "dutch": "Jij stuurt",
@@ -1150,7 +1245,8 @@
       "mandarin": "您发送",
       "portuguese": "Você envia",
       "spanish": "Usted envía",
-      "turkish": "Sen sen"
+      "turkish": "Sen sen",
+      "russian": "Вы отправляете"
     }
   }
 }

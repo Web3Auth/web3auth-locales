@@ -10,7 +10,8 @@
       "mandarin": "启用生物识别",
       "portuguese": "biometria cadastrada",
       "spanish": "biometría registrada",
-      "turkish": "biyometrik veriler kaydedildi"
+      "turkish": "biyometrik veriler kaydedildi",
+      "russian": "биометрия зарегистрирована"
     },
     "auth-factors-device-current": {
       "dutch": "Huidig",
@@ -22,7 +23,8 @@
       "mandarin": "当前的",
       "portuguese": "Atual",
       "spanish": "Actual",
-      "turkish": "Mevcut"
+      "turkish": "Mevcut",
+      "russian": "Текущий"
     },
     "auth-factors-device-desc": {
       "dutch": "Deze apparaten zijn unieke factoren die gemachtigd zijn om toegang te krijgen tot uw account.",
@@ -34,7 +36,8 @@
       "mandarin": "这些设备是被授权访问您的帐户的独特因素。",
       "portuguese": "Esses dispositivos são fatores exclusivos autorizados a acessar sua conta.",
       "spanish": "Estos dispositivos son factores únicos autorizados para acceder a su cuenta.",
-      "turkish": "Hesabınıza yalnızca bu cihazlar ile erişilebilir."
+      "turkish": "Hesabınıza yalnızca bu cihazlar ile erişilebilir.",
+      "russian": "Эти устройства являются уникальными факторами, авторизованными для доступа к вашему аккаунту."
     },
     "auth-factors-device-empty": {
       "dutch": "Geen apparaat delingen gevonden",
@@ -46,7 +49,8 @@
       "mandarin": "未找到设备共享",
       "portuguese": "Nenhum compartilhamento de dispositivo encontrado",
       "spanish": "No se encontraron fragmentos de dispositivos",
-      "turkish": "Cihaz şifre parçaları bulunamadı"
+      "turkish": "Cihaz şifre parçaları bulunamadı",
+      "russian": "Не найдено ни одного устройства"
     },
     "auth-factors-device-title": {
       "dutch": "Appara(a)t(en)",
@@ -58,7 +62,8 @@
       "mandarin": "设备",
       "portuguese": "Dispositivo(s)",
       "spanish": "Dispositivos",
-      "turkish": "Cihaz(lar)"
+      "turkish": "Cihaz(lar)",
+      "russian": "Устройство(а)"
     },
     "auth-factors-downloaded-on": {
       "dutch": "Gedownload op {0}",
@@ -70,7 +75,8 @@
       "mandarin": "于 {0} 下载",
       "portuguese": "Baixado em {0}",
       "spanish": "Descargado el {0}",
-      "turkish": "Şuraya indirildi {0}"
+      "turkish": "Şuraya indirildi {0}",
+      "russian": "Загружено {0}"
     },
     "auth-factors-email": {
       "dutch": "Herstel e-mail",
@@ -82,7 +88,8 @@
       "mandarin": "辅助邮箱",
       "portuguese": "Email de recuperação",
       "spanish": "Correo electrónico de recuperación",
-      "turkish": "Kurtarma e-postası"
+      "turkish": "Kurtarma e-postası",
+      "russian": "Почта для восстановления"
     },
     "auth-factors-email-enter": {
       "dutch": "Voer het herstel-e-mailadres in",
@@ -94,7 +101,8 @@
       "mandarin": "输入辅助邮箱",
       "portuguese": "Digite o e-mail de recuperação",
       "spanish": "Ingresa el correo de recuperación",
-      "turkish": "Kurtarma e-postasını girin"
+      "turkish": "Kurtarma e-postasını girin",
+      "russian": "Введите адрес электронной почты для восстановления"
     },
     "auth-factors-email-old": {
       "dutch": "Herstel e-mail (bestaand)",
@@ -106,7 +114,8 @@
       "mandarin": "辅助邮箱（现有）",
       "portuguese": "E-mail de recuperação (existente)",
       "spanish": "Correo electrónico de recuperación (existente)",
-      "turkish": "Kurtarma e-postası (mevcut)"
+      "turkish": "Kurtarma e-postası (mevcut)",
+      "russian": "Почта для восстановления (существующая)"
     },
     "auth-factors-email-resend": {
       "dutch": "Opnieuw verzenden",
@@ -118,7 +127,8 @@
       "mandarin": "重发",
       "portuguese": "Reenviar",
       "spanish": "Reenviar",
-      "turkish": "Tekrar gönder"
+      "turkish": "Tekrar gönder",
+      "russian": "Отправить повторно"
     },
     "auth-factors-email-sent": {
       "dutch": "Verzonden",
@@ -130,7 +140,8 @@
       "mandarin": "发送",
       "portuguese": "Enviado",
       "spanish": "Enviado",
-      "turkish": "Gönderildi"
+      "turkish": "Gönderildi",
+      "russian": "Отправлено"
     },
     "auth-factors-email-sent-to": {
       "dutch": "Verzonden naar {0}",
@@ -142,7 +153,8 @@
       "mandarin": "发送到{0}",
       "portuguese": "Enviado para {0}",
       "spanish": "Enviado a {0}",
-      "turkish": "Şuna gönder {0}"
+      "turkish": "Şuna gönder {0}",
+      "russian": "Отправлено на {0}"
     },
     "auth-factors-enable-biometrics": {
       "dutch": "Biometrie inschakelen",
@@ -154,7 +166,8 @@
       "mandarin": "生物识别注册",
       "portuguese": "Ativar biometria",
       "spanish": "Habilitar la biometría",
-      "turkish": "Biyometrik özelliği aktifleştir"
+      "turkish": "Biyometrik özelliği aktifleştir",
+      "russian": "Включить биометрию"
     },
     "auth-factors-network": {
       "dutch": "Sociale logins via Torus-nodes",
@@ -166,7 +179,8 @@
       "mandarin": "通过Torus节点进行社交登录",
       "portuguese": "Logins sociais via Torus nodes",
       "spanish": "Inicios de sesión de redes sociales a través de nodos Torus",
-      "turkish": "Torus nodes ile sosyal medya oturumu aç"
+      "turkish": "Torus nodes ile sosyal medya oturumu aç",
+      "russian": "Вход через социальные сети с использованием узлов Torus"
     },
     "auth-factors-password": {
       "dutch": "Account wachtwoord",
@@ -178,7 +192,8 @@
       "mandarin": "户口密码",
       "portuguese": "Senha da conta",
       "spanish": "Contraseña de la cuenta",
-      "turkish": "Hesap şifresi"
+      "turkish": "Hesap şifresi",
+      "russian": "Пароль аккаунта"
     },
     "auth-factors-password-change": {
       "dutch": "Wachtwoord wijzigen",
@@ -190,7 +205,8 @@
       "mandarin": "更改密码",
       "portuguese": "Mudar senha",
       "spanish": "Cambia la contraseña",
-      "turkish": "Şifreyi değiştirin"
+      "turkish": "Şifreyi değiştirin",
+      "russian": "Сменить пароль"
     },
     "auth-factors-password-confirm": {
       "dutch": "Voer uw wachtwoord opnieuw in",
@@ -202,7 +218,8 @@
       "mandarin": "重新输入密码",
       "portuguese": "Redigite sua senha",
       "spanish": "Reingresa tu contraseña",
-      "turkish": "Şifreyi tekrar girin"
+      "turkish": "Şifreyi tekrar girin",
+      "russian": "Повторно введите пароль"
     },
     "auth-factors-password-set": {
       "dutch": "Stel je wachtwoord in",
@@ -214,7 +231,8 @@
       "mandarin": "设置你的密码",
       "portuguese": "Coloque sua senha",
       "spanish": "Establece tu contraseña",
-      "turkish": "Şifrenizi belirleyin"
+      "turkish": "Şifrenizi belirleyin",
+      "russian": "Установить пароль"
     },
     "auth-factors-recovery-phrase": {
       "dutch": "Herstelzin",
@@ -226,7 +244,8 @@
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
       "spanish": "Frase de recuperación",
-      "turkish": "Kurtarma aşaması"
+      "turkish": "Kurtarma aşaması",
+      "russian": "Фраза восстановления"
     },
     "auth-factors-subtitle": {
       "dutch": "Lijst van authenticatiefactoren",
@@ -238,7 +257,8 @@
       "mandarin": "认证因素清单",
       "portuguese": "Lista de fatores de autenticação",
       "spanish": "Lista de factores de autenticación",
-      "turkish": "Kimlik doğrulama faktörlerinin listesi"
+      "turkish": "Kimlik doğrulama faktörlerinin listesi",
+      "russian": "Список факторов аутентификации"
     },
     "auth-factors-threshold": {
       "dutch": "Beveiligingsfactoren",
@@ -250,7 +270,8 @@
       "mandarin": "安全因素",
       "portuguese": "Fatores de segurança",
       "spanish": "Factores de seguridad",
-      "turkish": "Güvenlik faktörleri"
+      "turkish": "Güvenlik faktörleri",
+      "russian": "Факторы безопасности"
     },
     "auth-factors-threshold-desc": {
       "dutch": "Het aantal factoren dat geauthenticeerd moet worden om toegang te krijgen tot uw account.",
@@ -262,7 +283,8 @@
       "mandarin": "要访问您的帐户进行身份验证的因素数量。",
       "portuguese": "O número de fatores a serem autenticados para acessar sua conta.",
       "spanish": "La cantidad de factores que se deben autenticar para acceder a su cuenta.",
-      "turkish": "Hesabınıza erişmek için kimlik doğrulama faktörlerinin sayısı"
+      "turkish": "Hesabınıza erişmek için kimlik doğrulama faktörlerinin sayısı",
+      "russian": "Количество факторов, необходимых для доступа к вашему аккаунту."
     },
     "auth-factors-threshold-factor": {
       "dutch": "{0} Authenticatiefactor",
@@ -274,7 +296,8 @@
       "mandarin": "{0}认证因素",
       "portuguese": "{0} Fator de autenticação",
       "spanish": "{0} Factor de autenticación",
-      "turkish": "{0} Kimlik doğrulama faktörü"
+      "turkish": "{0} Kimlik doğrulama faktörü",
+      "russian": "{0} фактор аутентификации"
     },
     "auth-factors-title": {
       "dutch": "Beveiligingsinstellingen",
@@ -286,7 +309,8 @@
       "mandarin": "安全设定",
       "portuguese": "Configurações de segurança",
       "spanish": "Configuraciones de seguridad",
-      "turkish": "Güvenlik Ayarları"
+      "turkish": "Güvenlik Ayarları",
+      "russian": "Настройки безопасности"
     },
     "copy-recovery-phrase-desc": {
       "dutch": "Sla een kopie op van uw herstelfrase",
@@ -298,7 +322,8 @@
       "mandarin": "保存恢复短语的副本",
       "portuguese": "Salve uma cópia da sua frase de recuperação",
       "spanish": "Guarde una copia de tu frase de recuperación",
-      "turkish": "Kurtarma aşamanızın bir kopyasını kaydedin"
+      "turkish": "Kurtarma aşamanızın bir kopyasını kaydedin",
+      "russian": "Сохраните копию фразы восстановления"
     },
     "delete-recovery-title": {
       "dutch": "Herstelfactor verwijderen",
@@ -310,7 +335,8 @@
       "mandarin": "删除恢复因子",
       "portuguese": "Excluir fator de recuperação",
       "spanish": "Eliminar factor de recuperación",
-      "turkish": "Kurtarma faktörünü sil"
+      "turkish": "Kurtarma faktörünü sil",
+      "russian": "Удалить фактор восстановления"
     },
     "delete-share-desc-1": {
       "dutch": "Wees heel zeker als",
@@ -322,7 +348,8 @@
       "mandarin": "非常确定",
       "portuguese": "Tenha muita certeza como",
       "spanish": "Está muy seguro de querer",
-      "turkish": "Emin olun"
+      "turkish": "Emin olun",
+      "russian": "Будьте очень уверены, так как"
     },
     "delete-share-desc-2": {
       "dutch": "deze actie is permanent en kan niet ongedaan worden gemaakt.",
@@ -334,7 +361,8 @@
       "mandarin": "此操作是永久性的，无法撤消。",
       "portuguese": "esta ação é permanente e não pode ser desfeita.",
       "spanish": "esta acción es permanente y no se puede deshacer.",
-      "turkish": "bu eylem kalıcıdır ve geri alınamaz."
+      "turkish": "bu eylem kalıcıdır ve geri alınamaz.",
+      "russian": "это действие необратимо и не может быть отменено."
     },
     "delete-share-title": {
       "dutch": "Verwijder authenticatiefactor",
@@ -346,7 +374,8 @@
       "mandarin": "删除认证因素",
       "portuguese": "Excluir fator de autenticação",
       "spanish": "Eliminar factor de autenticación",
-      "turkish": "Kimlik doğrulama faktörünü sil"
+      "turkish": "Kimlik doğrulama faktörünü sil",
+      "russian": "Удалить фактор аутентификации"
     },
     "desc": {
       "dutch": "Beheer hier uw OpenLogin-instellingen",
@@ -358,7 +387,8 @@
       "mandarin": "在此处管理您的OpenLogin设置",
       "portuguese": "Gerencie suas configurações do OpenLogin aqui",
       "spanish": "Administre su configuración de OpenLogin aquí",
-      "turkish": "OpenLogin ayarlarınızı buradan kontrol edin"
+      "turkish": "OpenLogin ayarlarınızı buradan kontrol edin",
+      "russian": "Управляйте настройками OpenLogin здесь"
     },
     "email-with-date": {
       "dutch": "Verstuurd via e-mail op {0} naar:",
@@ -370,7 +400,8 @@
       "mandarin": "于 {0} 通过电子邮件发送至：",
       "portuguese": "Enviado por e-mail em {0} para:",
       "spanish": "Enviado por correo electrónico el {0} a:",
-      "turkish": "{0}'a e-posta gönderildi"
+      "turkish": "{0}'a e-posta gönderildi",
+      "russian": "Отправлено по электронной почте {0} на:"
     },
     "export-onkey-2fa": {
       "dutch": "Twee-factor authenticatie",
@@ -382,7 +413,8 @@
       "mandarin": "双因素身份验证",
       "portuguese": "Autenticação de dois fatores",
       "spanish": "Autenticación de dos factores",
-      "turkish": "İki-aşamalı kimlik doğrulama"
+      "turkish": "İki-aşamalı kimlik doğrulama",
+      "russian": "Двухфакторная аутентификация"
     },
     "export-onkey-2fa-enable": {
       "dutch": "2FA inschakelen",
@@ -394,7 +426,8 @@
       "mandarin": "启用 2FA",
       "portuguese": "Ativar 2FA",
       "spanish": "Habilitar segundo factor de autenticación (2FA)",
-      "turkish": "2FA'yı aktive et"
+      "turkish": "2FA'yı aktive et",
+      "russian": "Включить 2FA"
     },
     "export-onkey-2fa-recommend": {
       "dutch": "We raden u ten zeerste aan om 2FA in te schakelen op uw account",
@@ -406,7 +439,8 @@
       "mandarin": "我们强烈建议您在您的帐户上启用 2FA",
       "portuguese": "Recomendamos vivamente que ative o 2FA na sua conta",
       "spanish": "Le recomendamos encarecidamente que habilite 2FA en su cuenta",
-      "turkish": "2FA'yı aktive etmenizi şiddetle öneriyoruz."
+      "turkish": "2FA'yı aktive etmenizi şiddetle öneriyoruz.",
+      "russian": "Мы настоятельно рекомендуем включить 2FA для вашего аккаунта"
     },
     "export-onkey-not-setup": {
       "dutch": "Nog niet ingesteld",
@@ -418,7 +452,8 @@
       "mandarin": "尚未设置",
       "portuguese": "Ainda não configurado",
       "spanish": "Aún no configurado",
-      "turkish": "Henüz bir ayar yok"
+      "turkish": "Henüz bir ayar yok",
+      "russian": "Еще не настроено"
     },
     "export-onkey-note": {
       "dutch": "Verhoog uw accountbeveiliging door 2FA in te schakelen",
@@ -430,7 +465,8 @@
       "mandarin": "通过启用 2FA 提高您的帐户安全性",
       "portuguese": "Aumente a segurança da sua conta ativando o 2FA",
       "spanish": "Aumente la seguridad de su cuenta habilitando 2FA",
-      "turkish": "2FA'yı aktive ederek hesap güvenliğinizi arttırın."
+      "turkish": "2FA'yı aktive ederek hesap güvenliğinizi arttırın.",
+      "russian": "Повысить безопасность аккаунта, включив 2FA"
     },
     "export-onkey-setup": {
       "dutch": "Stel het in",
@@ -442,7 +478,8 @@
       "mandarin": "设置它",
       "portuguese": "Configurá-lo",
       "spanish": "Prepararlo",
-      "turkish": "Ayarla"
+      "turkish": "Ayarla",
+      "russian": "Настроить"
     },
     "export-share-copy": {
       "dutch": "Klik om te kopiëren",
@@ -454,7 +491,8 @@
       "mandarin": "点击复制",
       "portuguese": "Clique para copiar",
       "spanish": "Haga clic para copiar",
-      "turkish": "Kopyalamak için tıklayın"
+      "turkish": "Kopyalamak için tıklayın",
+      "russian": "Нажмите, чтобы скопировать"
     },
     "export-share-desc": {
       "dutch": "Sla een kopie op van uw back-upzin",
@@ -466,7 +504,8 @@
       "mandarin": "保存备份短语的副本",
       "portuguese": "Salve uma cópia da sua frase de backup",
       "spanish": "Guarde una copia de su frase de respaldo",
-      "turkish": "Yedekleme aşamanız için bir kopya kaydedin."
+      "turkish": "Yedekleme aşamanız için bir kopya kaydedin.",
+      "russian": "Сохраните копию вашей резервной фразы"
     },
     "export-share-note": {
       "dutch": "Opmerking: deze herstelzin is 1 van de factoren die nodig zijn om uw account te authenticeren. Bewaar het op een veilige plaats als onderdeel van uw accountherstel in de toekomst.",
@@ -478,7 +517,8 @@
       "mandarin": "注意：此恢复短语是验证您的帐户所需的因素之一。 将其保存在安全的地方，作为将来恢复帐户的一部分。",
       "portuguese": "Observação: esta frase de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro.",
       "spanish": "Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro.",
-      "turkish": "Not: Bu kurtarma aşaması, hesabınızın kimlik doğrulaması sırasında gerekli faktörlerden birisi. İleride hesabınızı kurtarabilmeniz için güvenli bir yerde saklayın."
+      "turkish": "Not: Bu kurtarma aşaması, hesabınızın kimlik doğrulaması sırasında gerekli faktörlerden birisi. İleride hesabınızı kurtarabilmeniz için güvenli bir yerde saklayın.",
+      "russian": "Примечание: эта фраза восстановления является одним из факторов, необходимых для аутентификации вашего аккаунта. Храните ее в надежном месте как часть процесса восстановления аккаунта в будущем."
     },
     "export-share-title": {
       "dutch": "Back-up zin",
@@ -490,7 +530,8 @@
       "mandarin": "备用词组",
       "portuguese": "Frase de backup",
       "spanish": "Frase de respaldo",
-      "turkish": "Yedekleme aşaması"
+      "turkish": "Yedekleme aşaması",
+      "russian": "Фраза резервного копирования"
     },
     "mpc-auth-factors-recovery-phrase": {
       "dutch": "Herstelfactor",
@@ -502,7 +543,8 @@
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
       "spanish": "Factor de recuperación",
-      "turkish": "Kurtarma faktörü"
+      "turkish": "Kurtarma faktörü",
+      "russian": "Фактор восстановления"
     },
     "mpc-export-share-note": {
       "dutch": "Opmerking: Dit herstelfactor is 1 van de factoren die nodig zijn om uw account te authenticeren. Bewaar het op een veilige plaats als onderdeel van uw accountherstel in de toekomst.",
@@ -514,7 +556,8 @@
       "mandarin": "注意：此恢复因素是验证您的帐户所需的因素之一。将其保存在安全的地方，作为您未来帐户恢复的一部分。",
       "portuguese": "Observação: esse fator de recuperação é um dos fatores necessários para autenticar sua conta. Guarde-o em algum lugar seguro como parte da recuperação de sua conta no futuro.",
       "spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro.",
-      "turkish": "Not: Bu kurtarma faktörü, hesabınızın kimlik doğrulaması sırasında gerekli faktörlerden birisi. İleride hesabınızı kurtarabilmeniz için güvenli bir yerde saklayın."
+      "turkish": "Not: Bu kurtarma faktörü, hesabınızın kimlik doğrulaması sırasında gerekli faktörlerden birisi. İleride hesabınızı kurtarabilmeniz için güvenli bir yerde saklayın.",
+      "russian": "Примечание: этот фактор восстановления является одним из необходимых для аутентификации вашего аккаунта. Сохраните его в надежном месте как часть восстановления аккаунта в будущем."
     },
     "password-requirement": {
       "dutch": "Wachtwoordvereisten:",
@@ -526,7 +569,8 @@
       "mandarin": "密码要求：",
       "portuguese": "Requisitos de senha:",
       "spanish": "Requisitos de la contraseña:",
-      "turkish": "Şifre gereklilikleri"
+      "turkish": "Şifre gereklilikleri",
+      "russian": "Требования к паролю:"
     },
     "password-requirement-10-char": {
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
@@ -538,7 +582,8 @@
       "mandarin": "至少 10 个字符（最多 100 个字符）",
       "portuguese": "Pelo menos 10 caracteres (e até 100 caracteres)",
       "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)",
-      "turkish": "En az 10 karakter (ve en fazla 100 karakter)"
+      "turkish": "En az 10 karakter (ve en fazla 100 karakter)",
+      "russian": "Не менее 10 символов (и до 100 символов)"
     },
     "password-requirement-desc": {
       "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
@@ -550,7 +595,8 @@
       "mandarin": "确保满足这些要求：",
       "portuguese": "Certifique-se de que estes requisitos sejam atendidos:",
       "spanish": "Asegúrese de que se cumplan estos requisitos:",
-      "turkish": "Bu gerekliliklerin yerine getirildiğinden emin olun:"
+      "turkish": "Bu gerekliliklerin yerine getirildiğinden emin olun:",
+      "russian": "Убедитесь, что эти требования выполнены:"
     },
     "password-requirement-lowercase": {
       "dutch": "Minstens één kleine letter vereist",
@@ -562,7 +608,8 @@
       "mandarin": "至少一个小写字符",
       "portuguese": "Pelo menos um caractere minúsculo",
       "spanish": "Al menos un carácter en minúscula",
-      "turkish": "En az bir küçük karakter"
+      "turkish": "En az bir küçük karakter",
+      "russian": "Не менее одного строчного символа"
     },
     "password-requirement-specialchar": {
       "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
@@ -574,7 +621,8 @@
       "mandarin": "至少包含一个特殊字符，例如，{'! @ # ?'}",
       "portuguese": "Inclusão de pelo menos um caractere especial, por exemplo, {'! @ # ?'}",
       "spanish": "Incluya al menos un carácter especial, por ejemplo, {'! @ # ?'}",
-      "turkish": "En az bir özel karakter içermelidir, {'!@#?'}"
+      "turkish": "En az bir özel karakter içermelidir, {'!@#?'}",
+      "russian": "Включите хотя бы один специальный символ, например {'! @ # ?'}"
     },
     "password-requirement-upercase": {
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
@@ -586,7 +634,8 @@
       "mandarin": "至少一个大写字符",
       "portuguese": "Pelo menos um caractere maiúsculo",
       "spanish": "Al menos un carácter en mayúscula",
-      "turkish": "En az bir büyük harf"
+      "turkish": "En az bir büyük harf",
+      "russian": "Не менее одного заглавного символа"
     },
     "remove-share-button": {
       "dutch": "Verwijder deelknop",
@@ -598,7 +647,8 @@
       "mandarin": "删除共享",
       "portuguese": "Remover compartilhamento",
       "spanish": "Remover fragmento",
-      "turkish": "Şifre parçasını sil"
+      "turkish": "Şifre parçasını sil",
+      "russian": "Удалить долю"
     },
     "social-factor-change": {
       "dutch": "Verander sociale factor",
@@ -610,7 +660,8 @@
       "mandarin": "改变社会因素",
       "portuguese": "Alterar Fator Social",
       "spanish": "Cambiar el factor social",
-      "turkish": "Sosyal medya faktörünü değiştirin"
+      "turkish": "Sosyal medya faktörünü değiştirin",
+      "russian": "Изменить способ восстановления через соцсети"
     },
     "title": {
       "dutch": "Account",
@@ -622,7 +673,8 @@
       "mandarin": "帐户",
       "portuguese": "Conta",
       "spanish": "Cuenta",
-      "turkish": "Hesap"
+      "turkish": "Hesap",
+      "russian": "Аккаунт"
     }
   }
 }

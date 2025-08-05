@@ -10,7 +10,8 @@
       "mandarin": "取消",
       "portuguese": "Cancelar",
       "spanish": "Cancelar",
-      "turkish": "İptal etmek"
+      "turkish": "İptal etmek",
+      "russian": "Отменить"
     },
     "complete-desc": {
       "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
@@ -22,7 +23,8 @@
       "mandarin": "如果您无法访问第二个因素，请使用您的身份验证应用程序恢复您的帐户。",
       "portuguese": "Se você perder o acesso ao seu segundo fator, use seu aplicativo de autenticação para recuperar sua conta.",
       "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
-      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı kurtarmak için kimlik doğrulama uygulamanızı kullanın."
+      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı kurtarmak için kimlik doğrulama uygulamanızı kullanın.",
+      "russian": "Если вы потеряете доступ ко второму фактору, используйте приложение-аутентификатор, чтобы восстановить доступ к аккаунту."
     },
     "done": {
       "dutch": "Klaar",
@@ -34,7 +36,8 @@
       "mandarin": "完成",
       "portuguese": "Concluído",
       "spanish": "Hecho",
-      "turkish": "Bitti"
+      "turkish": "Bitti",
+      "russian": "Готово"
     },
     "error-invalid-otp": {
       "english": "Invalid OTP, please try again",
@@ -45,7 +48,8 @@
       "mandarin": "无效的 OTP，请重试",
       "portuguese": "OTP inválido, tente novamente",
       "spanish": "OTP no válido, inténtelo de nuevo",
-      "turkish": "Geçersiz OTP, lütfen tekrar deneyin"
+      "turkish": "Geçersiz OTP, lütfen tekrar deneyin",
+      "russian": "Неверный одноразовый код, попробуйте ещё раз"
     },
     "error-something-wrong-error": {
       "dutch": "Er is iets misgegaan",
@@ -57,7 +61,8 @@
       "mandarin": "出问题了",
       "portuguese": "Algo deu errado",
       "spanish": "Algo salió mal",
-      "turkish": "Bir şeyler ters gitti"
+      "turkish": "Bir şeyler ters gitti",
+      "russian": "Что-то пошло не так"
     },
     "error-too-many-attempts": {
       "dutch": "Je hebt te veel pogingen gedaan. Wacht 60 seconden voordat u het opnieuw probeert",
@@ -69,7 +74,8 @@
       "mandarin": "你已经做了太多的尝试。请等待 60 秒，然后重试",
       "portuguese": "Você fez muitas tentativas. Aguarde 60 segundos antes de tentar novamente",
       "spanish": "Has hecho demasiados intentos. Espere 60 segundos antes de volver a intentarlo.",
-      "turkish": "Çok fazla deneme yaptınız. Tekrar denemeden önce lütfen 60 saniye bekleyin"
+      "turkish": "Çok fazla deneme yaptınız. Tekrar denemeden önce lütfen 60 saniye bekleyin",
+      "russian": "Слишком много попыток. Пожалуйста, подождите 60 секунд перед повторной попыткой"
     },
     "manual-entry": {
       "dutch": "Voer de code handmatig in",
@@ -81,7 +87,8 @@
       "mandarin": "手动输入代码",
       "portuguese": "Digite o código manualmente",
       "spanish": "Introduzca el código manualmente",
-      "turkish": "Kodu manuel olarak girin"
+      "turkish": "Kodu manuel olarak girin",
+      "russian": "Введите код вручную"
     },
     "next": {
       "dutch": "Volgende",
@@ -93,7 +100,8 @@
       "mandarin": "下一个",
       "portuguese": "Próximo",
       "spanish": "Próximo",
-      "turkish": "Sonraki"
+      "turkish": "Sonraki",
+      "russian": "Далее"
     },
     "scan-qr-code": {
       "dutch": "Scan QR-code",
@@ -105,7 +113,8 @@
       "mandarin": "扫描 QR 码",
       "portuguese": "Digitalizar código QR",
       "spanish": "Escanear código QR",
-      "turkish": "QR kodunu tarayın"
+      "turkish": "QR kodunu tarayın",
+      "russian": "Сканируй QR-код"
     },
     "setup-complete-desc": {
       "dutch": "Als u geen toegang meer heeft tot uw tweede factor, gebruikt u uw authenticatie-app om uw account terug te krijgen.",
@@ -117,7 +126,8 @@
       "mandarin": "如果您无法访问第二个因素，请使用您的身份验证应用程序恢复您的帐户。",
       "portuguese": "Se você perder o acesso ao seu segundo fator, use seu aplicativo de autenticação para recuperar sua conta.",
       "spanish": "Si pierde el acceso a su segundo factor, use su aplicación de autenticación para recuperar su cuenta.",
-      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı geri almak için kimlik doğrulama uygulamanızı kullanın."
+      "turkish": "İkinci faktöre erişiminizi kaybederseniz, hesabınızı geri almak için kimlik doğrulama uygulamanızı kullanın.",
+      "russian": "Если вы потеряете доступ ко второму фактору, используйте приложение-аутентификатор, чтобы вернуть доступ к аккаунту."
     },
     "setup-complete-title": {
       "dutch": "Authenticator App als herstelfactor is succesvol toegevoegd",
@@ -129,7 +139,8 @@
       "mandarin": "已成功将 Authenticator 应用程序添加为恢复因素。",
       "portuguese": "O aplicativo Authenticator como fator de recuperação foi adicionado com sucesso",
       "spanish": "La aplicación Authenticator como factor de recuperación se añadio correctamente",
-      "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi"
+      "turkish": "Authenticator Uygulaması Kurtarma Faktörü olarak başarıyla eklendi",
+      "russian": "Приложение-аутентификатор успешно добавлено в качестве фактора восстановления"
     },
     "setup-desc": {
       "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
@@ -141,7 +152,8 @@
       "mandarin": "使用您的身份验证应用程序（例如 Google Authenticator 或 Authy）扫描此 QR 码。",
       "portuguese": "Use seu aplicativo de autenticação (por exemplo, Google Authenticator ou Authy) para escanear este código QR.",
       "spanish": "Use su aplicación de autenticación (por ejemplo, Google Authenticator o Authy) para escanear este código QR.",
-      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
+      "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın.",
+      "russian": "Используйте приложение-аутентификатор (например, Google Authenticator или Authy), чтобы сканировать этот QR-код."
     },
     "setup-title": {
       "dutch": "Authenticator App instellen",
@@ -153,7 +165,8 @@
       "mandarin": "设置 Authenticator 应用程序",
       "portuguese": "Configuração do aplicativo Authenticator",
       "spanish": "Configuración de la aplicación Authenticator",
-      "turkish": "Authenticator Uygulamasını ayarla"
+      "turkish": "Authenticator Uygulamasını ayarla",
+      "russian": "Настройка приложения-аутентификатор"
     },
     "verify-desc": {
       "dutch": "Voer de 6-cijferige verificatiecode in van uw authenticatie-app",
@@ -165,7 +178,8 @@
       "mandarin": "从您的身份验证应用程序输入 6 位数验证码",
       "portuguese": "Digite o código de verificação de 6 dígitos do seu aplicativo de autenticação",
       "spanish": "Introduzca el código de verificación de 6 dígitos de su aplicación de autenticación",
-      "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin"
+      "turkish": "Kimlik doğrulama uygulamanızdan 6 basamaklı doğrulama kodunu girin",
+      "russian": "Введите 6-значный код подтверждения из приложения-аутентификатора"
     },
     "verify-title": {
       "dutch": "Verifieer uw Authenticator App",
@@ -177,7 +191,8 @@
       "mandarin": "验证您的 Authenticator 应用程序",
       "portuguese": "Verifique seu aplicativo Authenticator",
       "spanish": "Verifique su aplicación Authenticator",
-      "turkish": "Authenticator Uygulamanızı doğrulayın"
+      "turkish": "Authenticator Uygulamanızı doğrulayın",
+      "russian": "Подтвердите приложение-аутентификатор"
     }
   }
 }
