@@ -36,6 +36,42 @@
       "spanish": "cuenta para continuar",
       "turkish": "devam edecek hesap"
     },
+    "allChains": {
+      "dutch": "Alle ketens",
+      "english": "All Chains",
+      "french": "Toutes les chaînes",
+      "german": "Alle Kettens",
+      "japanese": "すべてのチェーン",
+      "korean": "모든 체인",
+      "mandarin": "所有链",
+      "portuguese": "Todas as cadeias",
+      "spanish": "Todas las cadenas",
+      "turkish": "Tüm zincirler"
+    },
+    "connect-wallet.more-wallets": {
+      "dutch": "Meer portemonnees",
+      "english": "More Wallets",
+      "french": "Plus de portefeuilles",
+      "german": "Mehr Wallets",
+      "japanese": "ウォレットをもっと見る",
+      "korean": "더 많은 지갑",
+      "mandarin": "查看更多钱包",
+      "portuguese": "Mais carteiras",
+      "spanish": "Más carteras",
+      "turkish": "Daha fazla cüzdan"
+    },
+    "connectYourWallet": {
+      "dutch": "Uw portemonnee verbinden",
+      "english": "Connect your wallet",
+      "french": "Connectez votre portefeuille",
+      "german": "Ihre Wallet verbinden",
+      "japanese": "ウォレットを接続",
+      "korean": "지갑 연결",
+      "mandarin": "连接您的钱包",
+      "portuguese": "Conecte seu portefeuille",
+      "spanish": "Conecte su portefeuille",
+      "turkish": "Cüzdanınızı bağlayın"
+    },
     "errors-invalid-email": {
       "dutch": "Ongeldig e-mailadres",
       "english": "Invalid Email",
@@ -119,30 +155,6 @@
       "portuguese": "Continuar com uma carteira",
       "spanish": "Conectar con la billetera",
       "turkish": "Cüzdanla devam et"
-    },
-    "external.search-text": {
-      "dutch": "Ziet u uw portemonnee niet?",
-      "english": "Don't see your wallet?",
-      "french": "Vous ne voyez pas votre portefeuille ?",
-      "german": "Sie sehen Ihr Portemonnaie nicht?",
-      "japanese": "ウォレットがありませんか？",
-      "korean": "지갑이 보이지 않나요?",
-      "mandarin": "没看到你的钱包吗？",
-      "portuguese": "Não vê sua carteira?",
-      "spanish": "¿No ves tu billetera?",
-      "turkish": "Cüzdanınızı görmüyor musunuz?"
-    },
-    "external.search-subtext": {
-      "dutch": "Probeer in plaats daarvan te zoeken",
-      "english": "Try search instead",
-      "french": "Essayez plutôt de rechercher",
-      "german": "Versuchen Sie es stattdessen mit der Suche",
-      "japanese": "代わりに検索してみてください",
-      "korean": "검색해보세요",
-      "mandarin": "尝试改为搜索",
-      "portuguese": "Tente pesquisar",
-      "spanish": "Intenta buscar en su lugar",
-      "turkish": "Bunun yerine aramayı deneyin"
     },
     "external.connect-wallet": {
       "dutch": "Verbinden met portemonnee",
@@ -262,6 +274,30 @@
       "spanish": "No se encontraron billeteras",
       "turkish": "Cüzdan bulunamadı"
     },
+    "external.search-subtext": {
+      "dutch": "Probeer in plaats daarvan te zoeken",
+      "english": "Try search instead",
+      "french": "Essayez plutôt de rechercher",
+      "german": "Versuchen Sie es stattdessen mit der Suche",
+      "japanese": "代わりに検索してみてください",
+      "korean": "검색해보세요",
+      "mandarin": "尝试改为搜索",
+      "portuguese": "Tente pesquisar",
+      "spanish": "Intenta buscar en su lugar",
+      "turkish": "Bunun yerine aramayı deneyin"
+    },
+    "external.search-text": {
+      "dutch": "Ziet u uw portemonnee niet?",
+      "english": "Don't see your wallet?",
+      "french": "Vous ne voyez pas votre portefeuille ?",
+      "german": "Sie sehen Ihr Portemonnaie nicht?",
+      "japanese": "ウォレットがありませんか？",
+      "korean": "지갑이 보이지 않나요?",
+      "mandarin": "没看到你的钱包吗？",
+      "portuguese": "Não vê sua carteira?",
+      "spanish": "¿No ves tu billetera?",
+      "turkish": "Cüzdanınızı görmüyor musunuz?"
+    },
     "external.search-wallet": {
       "dutch": "Zoeken door {{count}} portemonnees...",
       "english": "Search through {{count}} wallets...",
@@ -323,16 +359,16 @@
       "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
-      "dutch": "Scan met een WalletConnect-ondersteunde portemonnee of klik op de QR-code om naar uw klembord te kopiëren.",
-      "english": "Scan with a WalletConnect-supported wallet or click the QR code to copy to your clipboard.",
-      "french": "Scannez avec un portefeuille pris en charge par WalletConnect ou cliquez sur le code QR pour le copier dans votre presse-papiers.",
-      "german": "Scannen Sie mit einem von WalletConnect unterstützten Wallet oder klicken Sie auf den QR-Code, um ihn in Ihre Zwischenablage zu kopieren.",
-      "japanese": "WalletConnect がサポートするウォレットでスキャンするか、QR コードをクリックしてクリップボードにコピーします。",
-      "korean": "WalletConnect 호환 지갑으로 스캔하거나, QR 코드를 클릭하여 클립보드에 복사하세요.",
-      "mandarin": "使用支持 WalletConnect 的钱包进行扫描或单击二维码以复制到剪贴板。",
-      "portuguese": "Digitalize com uma carteira compatível com WalletConnect ou clique no código QR para copiar para sua área de transferência.",
-      "spanish": "Escanee con una billetera compatible con WalletConnect o haga clic en el código QR para copiarlo en su portapapeles.",
-      "turkish": "WalletConnect destekli bir cüzdanla tarayın veya panonuza kopyalamak için QR kodunu tıklayın."
+      "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren.",
+      "english": "Scan the QR code with WalletConnect supported wallet or click to copy link",
+      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez pour copier le lien",
+      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse oder klicken Sie, um den Link zu kopieren",
+      "japanese": "WalletConnect がサポートするウォレットで QR コードをスキャンするか、リンクをクリックしてコピーします。",
+      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하거나 링크를 클릭하여 복사하세요.",
+      "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击复制链接",
+      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique para copiar o link",
+      "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic para copiar el enlace",
+      "turkish": "WalletConnect destekli bir cüzdanla QR kodu tarayın veya bağlantıyı kopyalayın"
     },
     "external.walletconnect-subtitle": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
@@ -345,6 +381,30 @@
       "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect",
       "spanish": "Escanear el código QR con una billetera compatible con WalletConnect",
       "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın"
+    },
+    "footer.and": {
+      "dutch": "en",
+      "english": "and",
+      "french": "et",
+      "german": "und",
+      "japanese": "および",
+      "korean": "및",
+      "mandarin": "和",
+      "portuguese": "e",
+      "spanish": "y",
+      "turkish": "ve"
+    },
+    "footer.by-signing-in": {
+      "dutch": "Door in te loggen, gaat u akkoord met onze",
+      "english": "By signing in, you agree to our",
+      "french": "En vous connectant, vous acceptez nos",
+      "german": "Durch das Anmelden stimmen Sie unseren",
+      "japanese": "サインインすると、私たちの",
+      "korean": "로그인하면 우리의",
+      "mandarin": "登录即表示您同意我们的",
+      "portuguese": "Ao se conectar, você concorda com nossos",
+      "spanish": "Al iniciar sesión, acepta nuestros",
+      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir."
     },
     "footer.message": {
       "dutch": "Zelfbeheerde login door",
@@ -382,6 +442,18 @@
       "spanish": "Política de privacidad",
       "turkish": "Gizlilik Politikası"
     },
+    "footer.privacy-policy": {
+      "dutch": "Privacy Policy",
+      "english": "Privacy Policy",
+      "french": "Politique de confidentialité",
+      "german": "Datenschutzerklärung",
+      "japanese": "プライバシーポリシー",
+      "korean": "개인정보 취급 방침",
+      "mandarin": "隐私政策",
+      "portuguese": "Política de privacidade",
+      "spanish": "Política de privacidad",
+      "turkish": "Gizlilik Politikası"
+    },
     "footer.terms": {
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Use",
@@ -392,6 +464,18 @@
       "mandarin": "使用条款",
       "portuguese": "Termos de Uso",
       "spanish": "Términos de Uso",
+      "turkish": "Kullanım Şartları"
+    },
+    "footer.terms-of-service": {
+      "dutch": "Gebruiksvoorwaarden",
+      "english": "Terms of Service",
+      "french": "Conditions d'utilisation",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "使用条款",
+      "portuguese": "Termos de uso",
+      "spanish": "Términos de uso",
       "turkish": "Kullanım Şartları"
     },
     "footer.terms-service": {
@@ -417,6 +501,18 @@
       "portuguese": "Versão",
       "spanish": "Versión",
       "turkish": "Versiyon"
+    },
+    "getWallet": {
+      "dutch": "Portemonnee ophalen",
+      "english": "Get Wallet",
+      "french": "Obtenir le portefeuille",
+      "german": "Wallet holen",
+      "japanese": "ウォレットを取得",
+      "korean": "지갑 가져오기",
+      "mandarin": "获取钱包",
+      "portuguese": "Obter carteira",
+      "spanish": "Obtener billetera",
+      "turkish": "Cüzdanı al"
     },
     "header-subtitle": {
       "dutch": "Selecteer een van de volgende opties om door te gaan",
@@ -562,6 +658,78 @@
       "spanish": "A",
       "turkish": "Nereye"
     },
+    "otp.email-subtext": {
+      "dutch": "Voer de 6-cijferige verificatiecode in",
+      "english": "Please enter the 6-digit verification code",
+      "french": "Veuillez entrer le code de vérification 6 chiffres",
+      "german": "Bitte geben Sie den 6-stelligen Überprüfungscodes ein",
+      "japanese": "6桁の検証コードを入力してください",
+      "korean": "6자리 인증 코드를 입력하세요",
+      "mandarin": "请输入6位验证码",
+      "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
+      "spanish": "Por favor, ingrese el código de verificación de 6 dígitos",
+      "turkish": "6 haneli doğrulama kodunu giriniz"
+    },
+    "otp.email-subtext-example": {
+      "dutch": "{{email}} adres is verstuurd",
+      "english": "that was sent to your email {{email}}",
+      "french": "qui a été envoyé à votre email {{email}}",
+      "german": "die an Ihre E-Mail {{email}} gesendet wurde",
+      "japanese": "{{email}}に送信されたものです",
+      "korean": "{{email}}에 전송된 것입니다",
+      "mandarin": "{{email}} 发送的",
+      "portuguese": "que foi enviado para o seu email {{email}}",
+      "spanish": "que fue enviado a su email {{email}}",
+      "turkish": "{{email}} adresine gönderildi"
+    },
+    "otp.email-title": {
+      "dutch": "Email Verificatie",
+      "english": "Email verification",
+      "french": "Vérification de l'email",
+      "german": "Email-Überprüfung",
+      "japanese": "メール 検証",
+      "korean": "이메일 검증",
+      "mandarin": "电子邮件验证",
+      "portuguese": "Verificação de email",
+      "spanish": "Verificación de email",
+      "turkish": "Email Doğrulama"
+    },
+    "otp.mobile-subtext": {
+      "dutch": "OTP Verificatie",
+      "english": "Enter the OTP sent to",
+      "french": "Entrez le OTP envoyé à",
+      "german": "Geben Sie den OTP ein, der an",
+      "japanese": "OTP 検証",
+      "korean": "OTP 검증",
+      "mandarin": "输入 OTP 验证",
+      "portuguese": "Verifique o OTP enviado para",
+      "spanish": "Verificación OTP",
+      "turkish": "OTP Doğrulama"
+    },
+    "otp.mobile-title": {
+      "dutch": "OTP Verificatie",
+      "english": "OTP verification",
+      "french": "Vérification OTP",
+      "german": "OTP-Überprüfung",
+      "japanese": "OTP 検証",
+      "korean": "OTP 검증",
+      "mandarin": "OTP 验证",
+      "portuguese": "Verificação OTP",
+      "spanish": "Verificación OTP",
+      "turkish": "OTP Doğrulama"
+    },
+    "otp.success": {
+      "dutch": "U bent verbonden met uw account!",
+      "english": "You are connected to your account!",
+      "french": "Vous êtes connecté à votre compte!",
+      "german": "Sie sind mit Ihrem Konto verbunden!",
+      "japanese": "あなたはあなたのアカウントに接続されています!",
+      "korean": "당신은 당신의 계정에 연결되어 있습니다!",
+      "mandarin": "您已连接到您的帐户！",
+      "portuguese": "Você está conectado ao seu conta!",
+      "spanish": "¡Estás conectado a tu cuenta!",
+      "turkish": "Hesabınıza bağlandınız!"
+    },
     "passkey.add": {
       "dutch": "Passkey toevoegen",
       "english": "Add Passkey",
@@ -646,6 +814,18 @@
       "spanish": "Tengo una Passkey",
       "turkish": "Bir passkey'im var"
     },
+    "passwordless.title": {
+      "dutch": "Doorgaan met {{title}}",
+      "english": "Continue with {{title}}",
+      "french": "Continuer avec {{title}}",
+      "german": "Mit {{title}} fortfahren",
+      "japanese": "{{title}} で続行",
+      "korean": "{{title}} 로 계속하기",
+      "mandarin": "继续使用 {{title}}",
+      "portuguese": "Continuar com {{title}}",
+      "spanish": "Continuar con {{title}}",
+      "turkish": "{{title}} ile devam et"
+    },
     "popup.phone-body": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u handmatig de juiste landcode invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
@@ -693,6 +873,30 @@
       "portuguese": "Algo deu errado!",
       "spanish": "¡Algo salió mal!",
       "turkish": "Bir şeyler ters gitti!"
+    },
+    "resendCode": {
+      "dutch": "Code opnieuw verzenden",
+      "english": "Resend Code",
+      "french": "Renvoyer le code",
+      "german": "Code erneut senden",
+      "japanese": "コードを再送信",
+      "korean": "코드 다시 보내기",
+      "mandarin": "重新发送代码",
+      "portuguese": "Reenviar código",
+      "spanish": "Reenviar código",
+      "turkish": "Kodu tekrar gönder"
+    },
+    "resendTimer": {
+      "dutch": " Opnieuw verzenden in {{timer}} seconden",
+      "english": " Resend in {{timer}} seconds",
+      "french": " Renvoyer dans {{timer}} secondes",
+      "german": " {{timer}} Sekunden später erneut senden",
+      "japanese": " {{timer}} 秒後に再送信",
+      "korean": " {{timer}} 초 후 다시 보내기",
+      "mandarin": " {{timer}} 秒后重新发送",
+      "portuguese": " Reenviar em {{timer}} segundos",
+      "spanish": " Reenviar en {{timer}} segundos",
+      "turkish": " {{timer}} saniye sonra tekrar gönder"
     },
     "social.continue": {
       "dutch": "Doorgaan met",
@@ -779,16 +983,16 @@
       "turkish": "Giriş yapmak"
     },
     "social.passwordless-title": {
-      "dutch": "E-mail of telefoon",
-      "english": "Email or Phone",
-      "french": "Email ou téléphone",
-      "german": "E-Mail oder Telefon",
-      "japanese": "メールまたは電話",
-      "korean": "이메일 또는 전화번호",
-      "mandarin": "邮件或电话",
-      "portuguese": "Email ou telefone",
-      "spanish": "Email o teléfono",
-      "turkish": "E-posta veya Telefon"
+      "dutch": "E-mail/Telefoon",
+      "english": "Email/Phone",
+      "french": "Email/Téléphone",
+      "german": "E-Mail/Telefon",
+      "japanese": "メール/電話",
+      "korean": "이메일/전화번호",
+      "mandarin": "电子邮件/电话",
+      "portuguese": "Email/Telefone",
+      "spanish": "Email/Teléfono",
+      "turkish": "E-posta/Telefon"
     },
     "social.phone": {
       "dutch": "Telefoon",
@@ -813,6 +1017,18 @@
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
       "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
+    },
+    "social.sign-in": {
+      "dutch": "Inloggen",
+      "english": "Sign in",
+      "french": "Connexion",
+      "german": "Anmelden",
+      "japanese": "ログイン",
+      "korean": "로그인",
+      "mandarin": "登录",
+      "portuguese": "Entrar",
+      "spanish": "Iniciar sesión",
+      "turkish": "Giriş yap"
     },
     "social.sms": {
       "dutch": "Mobiel",
@@ -909,201 +1125,9 @@
       "portuguese": "Ver mais socials",
       "spanish": "Ver más socials",
       "turkish": "Daha fazlasını görüntüle socials"
-    },
-    "social.sign-in": {
-      "english": "Sign in",
-      "french": "Connexion",
-      "german": "Anmelden",
-      "japanese": "ログイン",
-      "korean": "로그인",
-      "mandarin": "登录",
-      "portuguese": "Entrar",
-      "spanish": "Iniciar sesión",
-      "turkish": "Giriş yap",
-      "dutch": "Inloggen"
-    },
-    "footer.by-signing-in": {
-      "english": "By signing in, you agree to our",
-      "french": "En vous connectant, vous acceptez nos",
-      "german": "Durch das Anmelden stimmen Sie unseren",
-      "japanese": "サインインすると、私たちの",
-      "korean": "로그인하면 우리의",
-      "mandarin": "登录即表示您同意我们的",
-      "portuguese": "Ao se conectar, você concorda com nossos",
-      "spanish": "Al iniciar sesión, acepta nuestros",
-      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir.",
-      "dutch": "Door in te loggen, gaat u akkoord met onze"
-    },
-    "footer.terms-of-service": {
-      "english": "Terms of Service",
-      "french": "Conditions d'utilisation",
-      "german": "Nutzungsbedingungen",
-      "japanese": "利用規約",
-      "korean": "이용 약관",
-      "mandarin": "使用条款",
-      "portuguese": "Termos de uso",
-      "spanish": "Términos de uso",
-      "turkish": "Kullanım Şartları",
-      "dutch": "Gebruiksvoorwaarden"
-    },
-    "footer.and": {
-      "english": "and",
-      "french": "et",
-      "german": "und",
-      "japanese": "および",
-      "korean": "및",
-      "mandarin": "和",
-      "portuguese": "e",
-      "spanish": "y",
-      "turkish": "ve",
-      "dutch": "en"
-    },
-    "footer.privacy-policy": {
-      "english": "Privacy Policy",
-      "french": "Politique de confidentialité",
-      "german": "Datenschutzerklärung",
-      "japanese": "プライバシーポリシー",
-      "korean": "개인정보 취급 방침",
-      "mandarin": "隐私政策",
-      "portuguese": "Política de privacidade",
-      "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası",
-      "dutch": "Privacy Policy"
-    },
-    "connect-wallet.more-wallets": {
-      "english": "More Wallets",
-      "french": "Plus de portefeuilles",
-      "german": "Mehr Wallets",
-      "japanese": "ウォレットをもっと見る",
-      "korean": "더 많은 지갑",
-      "mandarin": "查看更多钱包",
-      "portuguese": "Mais carteiras",
-      "spanish": "Más carteras",
-      "turkish": "Daha fazla cüzdan",
-      "dutch": "Meer portemonnees"
-    },
-    "otp.success": {
-      "english": "You are connected to your account!",
-      "french": "Vous êtes connecté à votre compte!",
-      "german": "Sie sind mit Ihrem Konto verbunden!",
-      "japanese": "あなたはあなたのアカウントに接続されています!",
-      "korean": "당신은 당신의 계정에 연결되어 있습니다!",
-      "mandarin": "您已连接到您的帐户！",
-      "portuguese": "Você está conectado ao seu conta!",
-      "spanish": "¡Estás conectado a tu cuenta!",
-      "turkish": "Hesabınıza bağlandınız!",
-      "dutch": "U bent verbonden met uw account!"
-    },
-    "otp.mobile-title": {
-      "english": "OTP verification",
-      "french": "Vérification OTP",
-      "german": "OTP-Überprüfung",
-      "japanese": "OTP 検証",
-      "korean": "OTP 검증",
-      "mandarin": "OTP 验证",
-      "portuguese": "Verificação OTP",
-      "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama",
-      "dutch": "OTP Verificatie"
-    },
-    "otp.mobile-subtext": {
-      "english": "Enter the OTP sent to",
-      "french": "Entrez le OTP envoyé à",
-      "german": "Geben Sie den OTP ein, der an",
-      "japanese": "OTP 検証",
-      "korean": "OTP 검증",
-      "mandarin": "输入 OTP 验证",
-      "portuguese": "Verifique o OTP enviado para",
-      "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama",
-      "dutch": "OTP Verificatie"
-    },
-    "otp.email-title": {
-      "english": "Email verification",
-      "french": "Vérification de l'email",
-      "german": "Email-Überprüfung",
-      "japanese": "メール 検証",
-      "korean": "이메일 검증",
-      "mandarin": "电子邮件验证",
-      "portuguese": "Verificação de email",
-      "spanish": "Verificación de email",
-      "turkish": "Email Doğrulama",
-      "dutch": "Email Verificatie"
-    },
-    "otp.email-subtext": {
-      "english": "Please enter the 6-digit verification code",
-      "french": "Veuillez entrer le code de vérification 6 chiffres",
-      "german": "Bitte geben Sie den 6-stelligen Überprüfungscodes ein",
-      "japanese": "6桁の検証コードを入力してください",
-      "korean": "6자리 인증 코드를 입력하세요",
-      "mandarin": "请输入6位验证码",
-      "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
-      "spanish": "Por favor, ingrese el código de verificación de 6 dígitos",
-      "turkish": "6 haneli doğrulama kodunu giriniz",
-      "dutch": "Voer de 6-cijferige verificatiecode in"
-    },
-    "otp.email-subtext-example": {
-      "english": "that was sent to your email {{email}}",
-      "french": "qui a été envoyé à votre email {{email}}",
-      "german": "die an Ihre E-Mail {{email}} gesendet wurde",
-      "japanese": "{{email}}に送信されたものです",
-      "korean": "{{email}}에 전송된 것입니다",
-      "mandarin": "{{email}} 发送的",
-      "portuguese": "que foi enviado para o seu email {{email}}",
-      "spanish": "que fue enviado a su email {{email}}",
-      "turkish": "{{email}} adresine gönderildi",
-      "dutch": "{{email}} adres is verstuurd"
-    },
-    "passwordless.title": {
-      "english": "Continue with {{title}}",
-      "french": "Continuer avec {{title}}",
-      "german": "Mit {{title}} fortfahren",
-      "japanese": "{{title}} で続行",
-      "korean": "{{title}} 로 계속하기",
-      "mandarin": "继续使用 {{title}}",
-      "portuguese": "Continuar com {{title}}",
-      "spanish": "Continuar con {{title}}",
-      "turkish": "{{title}} ile devam et",
-      "dutch": "Doorgaan met {{title}}"
     }
   },
   "passwordless": {
-    "error-invalid-params": {
-      "dutch": "Ontbrekende of ongeldige parameters",
-      "english": "Missing or Invalid Parameters.",
-      "french": "Paramètres manquants ou invalides.",
-      "german": "Fehlende oder ungültige Parameter",
-      "japanese": "パラメーターの欠落または無効なパラメーター",
-      "korean": "누락되었거나 유효하지 않은 정보입니다.",
-      "mandarin": "缺失或无效参数",
-      "portuguese": "Parâmetros ausentes ou inválidos",
-      "spanish": "Parámetros faltantes o no válidos",
-      "turkish": "Eksik ya da hatalı parametreler var."
-    },
-    "error-sending-sms-failed": {
-      "dutch": "Er is een fout opgetreden bij het verzenden van een sms. Probeer het opnieuw.",
-      "english": "There was an error sending an sms. Please try again.",
-      "french": "Une erreur s'est produite lors de l'envoi d'un SMS. Veuillez réessayer.",
-      "german": "Es gab einen Fehler beim Senden einer SMS. Bitte versuche es erneut.",
-      "japanese": "SMSの送信エラーがありました。もう一度やり直してください。",
-      "korean": "SMS 전송 중 오류가 발생했습니다. 다시 시도해 주세요.",
-      "mandarin": "发送短信的错误。请再试一遍。",
-      "portuguese": "Houve um erro de envio de um SMS. Por favor, tente novamente.",
-      "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
-      "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
-    },
-    "error-no-mail-generated": {
-      "dutch": "Geen e-mail gegenereerd. Start eerst de wachtwoordloze flow.",
-      "english": "No mail generated. Please initiate the passwordless flow first.",
-      "french": "Aucun courrier généré. Veuillez d'abord lancer le flux sans mot de passe.",
-      "german": "Keine Mail generiert. Bitte initiieren Sie zuerst den passwortlosen Fluss.",
-      "japanese": "メールが生成されていません。最初にパスワードレスフローを開始してください。",
-      "korean": "메일이 생성되지 않았습니다. 비밀번호가 없는 절차부터 시작해 주세요.",
-      "mandarin": "没有生成邮件。请先启动无密码流。",
-      "portuguese": "Nenhum correio gerado. Inicie o fluxo sem senha primeiro.",
-      "spanish": "No se generó el correo. Inicie primero el proceso sin contraseña.",
-      "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
-    },
     "error-invalid-link": {
       "dutch": "Ongeldige verificatielink of link verlopen",
       "english": "Invalid verification link or link expired",
@@ -1116,17 +1140,17 @@
       "spanish": "El enlace o el enlace de verificación ha expirado",
       "turkish": "Hatalı ya da süresi geçmiş doğrulama linki"
     },
-    "error-new-link-generated-heading": {
-      "dutch": "Nieuwe verificatielink gegenereerd",
-      "english": "New verification link generated",
-      "french": "Nouveau lien de vérification généré",
-      "german": "Neuer Verifizierungslink",
-      "japanese": "新しい検証リンクが生成されました",
-      "korean": "새 인증 링크가 생성되었습니다.",
-      "mandarin": "生成的新验证链接",
-      "portuguese": "Novo link de verificação gerado",
-      "spanish": "Nuevo enlace de verificación generado",
-      "turkish": "Yeni doğrulama linki oluşturuldu."
+    "error-invalid-origin": {
+      "dutch": "Er is iets misgegaan, foutcode: E002",
+      "english": "Something went wrong, error code: E002",
+      "french": "Quelque chose s'est mal passé, code d'erreur: E002",
+      "german": "Etwas ist schief gelaufen, Fehlercode: E002",
+      "japanese": "何かがうまくいかなかった, エラーコード: E002",
+      "korean": "문제가 발생했습니다, 오류 코드: E002",
+      "mandarin": "出问题了, 错误代码: E002",
+      "portuguese": "Algo deu errado, código de erro: E002",
+      "spanish": "Algo salió mal, código de error: E002",
+      "turkish": "Bir şeyler ters gitti, hata kodu: E002"
     },
     "error-invalid-otp": {
       "dutch": "Ongeldige OTP, probeer het opnieuw",
@@ -1140,29 +1164,17 @@
       "spanish": "OTP no válido, intente nuevamente",
       "turkish": "Hatalı OTP, lütfen tekrar deneyin."
     },
-    "error-otp-expired": {
-      "dutch": "OTP verlopen",
-      "english": "OTP Expired",
-      "french": "OTP expiré",
-      "german": "OTP abgelaufen",
-      "japanese": "OTPの有効期限が切れました",
-      "korean": "OTP가 만료되었습니다",
-      "mandarin": "OTP过期",
-      "portuguese": "OTP expirou",
-      "spanish": "OTP expiró",
-      "turkish": "OTP'nin süresi geçti."
-    },
-    "error-no-sms-generated": {
-      "dutch": "Geen OTP gegenereerd. Start eerst de wachtwoordloze flow.",
-      "english": "No OTP generated. Please initiate the passwordless flow first.",
-      "french": "Aucun OTP généré. Veuillez d'abord lancer le flux sans mot de passe.",
-      "german": "Kein OTP erzeugt. Bitte initiieren Sie zuerst den passwortlosen Fluss.",
-      "japanese": "OTP生成はありません。最初にパスワードレスフローを開始してください。",
-      "korean": "OTP가 생성되지 않았습니다. 비밀번호가 없는 절차부터 시작해 주세요.",
-      "mandarin": "没有生成OTP。请先启动无密码流。",
-      "portuguese": "Nenhum OTP gerado. Inicie o fluxo sem senha primeiro.",
-      "spanish": "No se generó OTP. Inicie primero el proceso sin contraseña.",
-      "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
+    "error-invalid-params": {
+      "dutch": "Ontbrekende of ongeldige parameters",
+      "english": "Missing or Invalid Parameters.",
+      "french": "Paramètres manquants ou invalides.",
+      "german": "Fehlende oder ungültige Parameter",
+      "japanese": "パラメーターの欠落または無効なパラメーター",
+      "korean": "누락되었거나 유효하지 않은 정보입니다.",
+      "mandarin": "缺失或无效参数",
+      "portuguese": "Parâmetros ausentes ou inválidos",
+      "spanish": "Parámetros faltantes o no válidos",
+      "turkish": "Eksik ya da hatalı parametreler var."
     },
     "error-max-retry-limit-reached": {
       "dutch": "U heeft de limiet voor verkeerde pogingen bereikt. Start de stroom opnieuw om de verificatie te voltooien.",
@@ -1176,19 +1188,56 @@
       "spanish": "Has alcanzado el límite para intentos incorrectos. Reinicie el proceso para completar la verificación.",
       "turkish": "Hatalı deneme limitine ulaştınız. Doğrulamayı tamamlamak için lütfen akışı baştan başlatın."
     },
-    "error-recaptcha-verification-failed": {
-      "english": "Captcha verification failed. Please try again.",
-      "french": "La vérification Captcha a échoué. Veuillez réessayer.",
-      "german": "Die Captcha-Überprüfung ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
-      "japanese": "Captcha 検証に失敗しました。もう一度試してください。",
-      "korean": "Captcha 인증에 실패했습니다. 다시 시도해 주세요.",
-      "mandarin": "Captcha 验证失败。请再试一次。",
-      "portuguese": "A verificação Captcha falhou. Por favor, tente novamente.",
-      "spanish": "La verificación de Captcha ha fallado. Por favor, inténtelo de nuevo.",
-      "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin.",
-      "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden."
+    "error-new-link-generated-heading": {
+      "dutch": "Nieuwe verificatielink gegenereerd",
+      "english": "New verification link generated",
+      "french": "Nouveau lien de vérification généré",
+      "german": "Neuer Verifizierungslink",
+      "japanese": "新しい検証リンクが生成されました",
+      "korean": "새 인증 링크가 생성되었습니다.",
+      "mandarin": "生成的新验证链接",
+      "portuguese": "Novo link de verificação gerado",
+      "spanish": "Nuevo enlace de verificación generado",
+      "turkish": "Yeni doğrulama linki oluşturuldu."
+    },
+    "error-no-mail-generated": {
+      "dutch": "Geen e-mail gegenereerd. Start eerst de wachtwoordloze flow.",
+      "english": "No mail generated. Please initiate the passwordless flow first.",
+      "french": "Aucun courrier généré. Veuillez d'abord lancer le flux sans mot de passe.",
+      "german": "Keine Mail generiert. Bitte initiieren Sie zuerst den passwortlosen Fluss.",
+      "japanese": "メールが生成されていません。最初にパスワードレスフローを開始してください。",
+      "korean": "메일이 생성되지 않았습니다. 비밀번호가 없는 절차부터 시작해 주세요.",
+      "mandarin": "没有生成邮件。请先启动无密码流。",
+      "portuguese": "Nenhum correio gerado. Inicie o fluxo sem senha primeiro.",
+      "spanish": "No se generó el correo. Inicie primero el proceso sin contraseña.",
+      "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
+    },
+    "error-no-sms-generated": {
+      "dutch": "Geen OTP gegenereerd. Start eerst de wachtwoordloze flow.",
+      "english": "No OTP generated. Please initiate the passwordless flow first.",
+      "french": "Aucun OTP généré. Veuillez d'abord lancer le flux sans mot de passe.",
+      "german": "Kein OTP erzeugt. Bitte initiieren Sie zuerst den passwortlosen Fluss.",
+      "japanese": "OTP生成はありません。最初にパスワードレスフローを開始してください。",
+      "korean": "OTP가 생성되지 않았습니다. 비밀번호가 없는 절차부터 시작해 주세요.",
+      "mandarin": "没有生成OTP。请先启动无密码流。",
+      "portuguese": "Nenhum OTP gerado. Inicie o fluxo sem senha primeiro.",
+      "spanish": "No se generó OTP. Inicie primero el proceso sin contraseña.",
+      "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
+    },
+    "error-otp-expired": {
+      "dutch": "OTP verlopen",
+      "english": "OTP Expired",
+      "french": "OTP expiré",
+      "german": "OTP abgelaufen",
+      "japanese": "OTPの有効期限が切れました",
+      "korean": "OTP가 만료되었습니다",
+      "mandarin": "OTP过期",
+      "portuguese": "OTP expirou",
+      "spanish": "OTP expiró",
+      "turkish": "OTP'nin süresi geçti."
     },
     "error-plan-limit-reached": {
+      "dutch": "E411. Limiet bereikt",
       "english": "E411. Limit Reached",
       "french": "E411. Limite atteinte",
       "german": "E411. Grenze erreicht",
@@ -1197,8 +1246,43 @@
       "mandarin": "E411. 限制已达到",
       "portuguese": "E411. Limite atingido",
       "spanish": "E411. Límite alcanzado",
-      "turkish": "E411. Sınır aşıldı",
-      "dutch": "E411. Limiet bereikt"
+      "turkish": "E411. Sınır aşıldı"
+    },
+    "error-recaptcha-verification-failed": {
+      "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
+      "english": "Captcha verification failed. Please try again.",
+      "french": "La vérification Captcha a échoué. Veuillez réessayer.",
+      "german": "Die Captcha-Überprüfung ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
+      "japanese": "Captcha 検証に失敗しました。もう一度試してください。",
+      "korean": "Captcha 인증에 실패했습니다. 다시 시도해 주세요.",
+      "mandarin": "Captcha 验证失败。请再试一次。",
+      "portuguese": "A verificação Captcha falhou. Por favor, tente novamente.",
+      "spanish": "La verificación de Captcha ha fallado. Por favor, inténtelo de nuevo.",
+      "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin."
+    },
+    "error-sending-sms-failed": {
+      "dutch": "Er is een fout opgetreden bij het verzenden van een sms. Probeer het opnieuw.",
+      "english": "There was an error sending an sms. Please try again.",
+      "french": "Une erreur s'est produite lors de l'envoi d'un SMS. Veuillez réessayer.",
+      "german": "Es gab einen Fehler beim Senden einer SMS. Bitte versuche es erneut.",
+      "japanese": "SMSの送信エラーがありました。もう一度やり直してください。",
+      "korean": "SMS 전송 중 오류가 발생했습니다. 다시 시도해 주세요.",
+      "mandarin": "发送短信的错误。请再试一遍。",
+      "portuguese": "Houve um erro de envio de um SMS. Por favor, tente novamente.",
+      "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
+      "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
+    },
+    "error-invalid-test-account": {
+      "dutch": "Ongeldig testaccount",
+      "english": "Invalid test account",
+      "french": "Compte de test non valide",
+      "german": "Ungültiges Testkonto",
+      "japanese": "無効なテストアカウント",
+      "korean": "잘못된 테스트 계정입니다",
+      "mandarin": "测试账户无效",
+      "portuguese": "Conta de teste inválida",
+      "spanish": "Cuenta de prueba no válida",
+      "turkish": "Geçersiz test hesabı"
     },
     "something-wrong-error": {
       "dutch": "Er is iets misgegaan",

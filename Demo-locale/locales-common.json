@@ -216,6 +216,18 @@
       "spanish": "Documentación",
       "turkish": "Dokümantasyon"
     },
+    "dashboard": {
+      "english": "Dashboard",
+      "dutch": "Dashboard",
+      "french": "Tableau de bord",
+      "german": "Dashboard",
+      "japanese": "ダッシュボード",
+      "korean": "대시보드",
+      "mandarin": "仪表板",
+      "portuguese": "Painel",
+      "spanish": "Panel",
+      "turkish": "Kontrol Paneli"
+    },
     "logout": {
       "dutch": "Uitloggen",
       "english": "Logout",
@@ -327,16 +339,16 @@
       "turkish": "Etkinleştirilmiş"
     },
     "mfa-subtext": {
-      "dutch": "Voeg een extra beveiligingslaag toe aan uw portemonnee. Indien ingeschakeld, moet u bij het inloggen een andere factor verifiëren.",
-      "english": "Add an additional security layer to your wallets. While enabled, you will need to verify another factor when logging in.",
-      "french": "Ajoutez une couche de sécurité supplémentaire à vos portefeuilles. Une fois activé, vous devrez vérifier un autre facteur lors de la connexion.",
-      "german": "Fügen Sie Ihren Geldbörsen eine zusätzliche Sicherheitsebene hinzu. Während die Funktion aktiviert ist, müssen Sie beim Anmelden einen weiteren Faktor überprüfen.",
-      "japanese": "ウォレットに追加のセキュリティ層を追加します。有効にすると、ログイン時に別の要素を確認する必要があります。",
-      "korean": "지갑에 보안 계층을 추가하세요. 활성화된 동안에는 로그인할 때 다른 요소를 확인해야 합니다.",
-      "mandarin": "为您的钱包添加额外的安全层。启用后，您在登录时需要验证另一个因素。",
-      "portuguese": "Adicione uma camada de segurança adicional às suas carteiras. Enquanto estiver ativado, você precisará verificar outro fator ao fazer login.",
-      "spanish": "Agregue una capa de seguridad adicional a sus billeteras. Mientras esté habilitado, deberá verificar otro factor al iniciar sesión.",
-      "turkish": "Cüzdanlarınıza ek bir güvenlik katmanı ekleyin. Etkinleştirildiğinde, oturum açarken başka bir faktörü doğrulamanız gerekecektir."
+      "dutch": "Schakel MFA in om de beveiliging van uw account te verbeteren en herstel mogelijkheden te verbeteren. Zodra ingesteld, moeten gebruikers met twee of meer methoden verifiëren om toegang te krijgen tot hun accounts.",
+      "english": "Enable MFA to improve account security and recovery. Once setup, users must verify with two or more methods to access their accounts.",
+      "french": "Activez MFA pour améliorer la sécurité de votre compte et les possibilités de récupération. Une fois configuré, les utilisateurs doivent vérifier avec deux ou plusieurs méthodes pour accéder à leurs comptes.",
+      "german": "Aktivieren Sie MFA, um die Sicherheit Ihres Kontos zu verbessern und die Wiederherstellungsmöglichkeiten zu verbessern. Nach der Einrichtung müssen Benutzer mit zwei oder mehr Methoden verifizieren, um auf ihre Konten zuzugreifen.",
+      "japanese": "アカウントのセキュリティを向上させ、復旧機能を改善します。設定後、ユーザーは2つ以上の方法で確認する必要があります。",
+      "korean": "MFA를 활성화하여 계정 보안을 개선하고 복구 기능을 향상시킵니다. 설정 후에는 사용자가 두 개 이상의 방법으로 확인해야 합니다.",
+      "mandarin": "启用 MFA 以提高账户安全性和恢复能力。设置后，用户必须通过两种或更多方法进行验证才能访问其账户。",
+      "portuguese": "Ative o MFA para melhorar a segurança da sua conta e as possibilidades de recuperação. Depois de configurado, os usuários devem verificar com dois ou mais métodos para acessar suas contas.",
+      "spanish": "Habilite MFA para mejorar la seguridad de su cuenta y las posibilidades de recuperación. Una vez configurado, los usuarios deben verificar con dos o más métodos para acceder a sus cuentas.",
+      "turkish": "MFA'yı etkinleştirerek hesap güvenliğini ve kurtarma seçeneklerini iyileştirin. Kurulumdan sonra, kullanıcılar hesaplarına erişmek için iki veya daha fazla yöntemle doğrulamalıdır."
     },
     "add-mfa": {
       "dutch": "MFA toevoegen",
@@ -483,16 +495,16 @@
       "turkish": "NFT Hizmetleri"
     },
     "nft-services-subtext": {
-      "dutch": "Laat uw gebruikers binnen enkele seconden NFT claimen of kopen",
-      "english": "Let your users to claim or buy NFT in seconds",
-      "french": "Permettez à vos utilisateurs de réclamer ou d'acheter des NFT en quelques secondes",
-      "german": "Ermöglichen Sie Ihren Benutzern, NFT in Sekundenschnelle zu beanspruchen oder zu kaufen",
-      "japanese": "ユーザーが数秒で NFT を請求または購入できるようにします",
-      "korean": "사용자가 몇 초 만에 NFT를 청구하거나 구매할 수 있도록 하세요",
-      "mandarin": "让您的用户在几秒钟内认领或购买 NFT",
-      "portuguese": "Permita que seus usuários reivindiquem ou comprem NFT em segundos",
-      "spanish": "Permita que sus usuarios reclamen o compren NFT en segundos",
-      "turkish": "Kullanıcılarınızın saniyeler içinde NFT talebinde bulunmasına veya NFT satın almasına izin verin"
+      "english": "Let your users claim NFT in seconds",
+      "dutch": "Laat uw gebruikers binnen enkele seconden NFT claimen",
+      "french": "Permettez à vos utilisateurs de réclamer des NFT en quelques secondes",
+      "german": "Ermöglichen Sie Ihren Benutzern, NFT in Sekundenschnelle zu beanspruchen",
+      "japanese": "ユーザーが数秒で NFT を請求できるようにします",
+      "korean": "사용자가 몇 초 만에 NFT를 청구할 수 있도록 하세요",
+      "mandarin": "让您的用户在几秒钟内认领 NFT",
+      "portuguese": "Permita que seus usuários reivindiquem NFT em segundos",
+      "spanish": "Permita que sus usuarios reclamen NFT en segundos", 
+      "turkish": "Kullanıcılarınızın saniyeler içinde NFT talebinde bulunmasına izin verin"
     },
     "mint-nft-airdrop": {
       "dutch": "Mintvrije NFT-airdrop",
@@ -554,6 +566,42 @@
       "spanish": "Explore nuestro conjunto completo de funciones para su dApp con nuestros documentos. Ejemplos de códigos de acceso para estas funciones visitando nuestro",
       "turkish": "Dokümanlarımızla dApp'iniz için tüm özelliklere göz atın. Bu özellikler için erişim kodu örneklerine web sitemizi ziyaret ederek ulaşabilirsiniz."
     },
+    "web3auth-subtext-1": {
+      "english": "Browse our full suite of features for your dApp with our ",
+      "dutch": "Blader door ons volledige aanbod aan functies voor uw dApp met onze ",
+      "french": "Parcourez notre gamme complète de fonctionnalités pour votre dApp avec notre ",
+      "german": "Durchsuchen Sie unsere vollständige Suite an Funktionen für Ihre dApp mit unserem ",
+      "japanese": "dAppのあらゆる機能をご覧ください ",
+      "korean": "dApp에 대한 전체 기능 세트를 탐색하세요. ",
+      "mandarin": "浏览我们为您的 dApp 提供的全套功能",
+      "portuguese": "Navegue por nosso conjunto completo de recursos para seu dApp com nosso ",
+      "spanish": "Explore nuestro conjunto completo de funciones para su dApp con nuestro ",
+      "turkish": "dApp'niz için tüm özelliklerin yer aldığı paketimize göz atın "
+    },
+    "web3auth-subtext-2": {
+      "dutch": "Toegangscodevoorbeelden voor deze functies door naar onze te gaan",
+      "english": "Access codes examples for these features by visiting our",
+      "french": "Accédez à des exemples de codes pour ces fonctionnalités en visitant notre",
+      "german": "Beispiele für Zugriffscodes für diese Funktionen finden Sie auf unserer Seite",
+      "japanese": "これらの機能のアクセス コードの例については、当社の Web サイトにアクセスしてください。",
+      "korean": "당사를 방문하여 이러한 기능에 대한 액세스 코드 예시를 확인하세요.",
+      "mandarin": "通过访问我们的网站来访问这些功能的代码示例",
+      "portuguese": "Exemplos de códigos de acesso para esses recursos visitando nosso",
+      "spanish": "Ejemplos de códigos de acceso para estas funciones visitando nuestro",
+      "turkish": "Bu özellikler için erişim kodu örneklerine web sitemizi ziyaret ederek ulaşabilirsiniz."
+    },
+    "docs": {
+      "dutch": "documenten",
+      "english": "docs",
+      "french": "documents",
+      "german": "Dokumente",
+      "japanese": "ドキュメント",
+      "korean": "문서",
+      "mandarin": "文档",
+      "portuguese": "documentos",
+      "spanish": "documentos",
+      "turkish": "dokümanlar"
+    },
     "playground": {
       "dutch": "speeltuin",
       "english": "playground",
@@ -577,6 +625,18 @@
       "portuguese": "Leia nossos documentos",
       "spanish": "Lea nuestros documentos",
       "turkish": "Dokümanlarımızı okuyun"
+    },
+    "get-started-now": {
+      "english": "Get started now",
+      "dutch": "Begin nu",
+      "french": "Commencez maintenant",
+      "german": "Jetzt beginnen",
+      "japanese": "今すぐ始める",
+      "korean": "지금 시작하기",
+      "mandarin": "立即开始",
+      "portuguese": "Comece agora",
+      "spanish": "Comience ahora",
+      "turkish": "Şimdi başlayın"
     },
     "view-integrations": {
       "dutch": "Bekijk live-integraties",

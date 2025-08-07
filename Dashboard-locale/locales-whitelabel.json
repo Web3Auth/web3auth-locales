@@ -156,6 +156,18 @@
       "spanish": "Declaracion de privacidad",
       "turkish": "Gizlilik Bildirimi"
     },
+    "privacy-policy": {
+      "dutch":	"Privacybeleid",
+      "english":	"Privacy Policy",
+      "french":	"politique de confidentialité",
+      "german":	"Datenschutzrichtlinie",
+      "japanese":	"プライバシーポリシー",
+      "korean":	"개인정보 보호정책",
+      "mandarin":	"隐私政策",
+      "portuguese":	"política de Privacidade",
+      "spanish":	"política de privacidad",
+      "turkish":	"Gizlilik Politikası"
+    },
     "receive": {
       "dutch": "Ontvangen",
       "english": "Receive",
@@ -348,6 +360,18 @@
       "spanish": "Términos de servicio",
       "turkish": "Kullanım Şartları"
     },
+    "terms-of-use": {
+      "dutch":	"Gebruiksvoorwaarden",
+      "english":	"Terms of Use",
+      "french":	"Conditions d'utilisation",
+      "german":	"Nutzungsbedingungen",
+      "japanese":	"利用規約",
+      "korean":	"이용 약관",
+      "mandarin":	"使用条款",
+      "portuguese":	"Termos de Uso",
+      "spanish":	"Condiciones de uso",
+      "turkish":	"Kullanım Şartları"
+    },
     "tokens": {
       "dutch": "Munten",
       "english": "Tokens",
@@ -433,16 +457,16 @@
       "turkish": "Jetonlarınız"
     },
     "social-passwordless-title": {
-      "dutch": "E-mail of telefoon",
-      "english": "Email or Phone",
-      "french": "Email ou téléphone",
-      "german": "E-Mail oder Telefon",
-      "japanese": "メールまたは電話",
-      "korean": "이메일 또는 전화번호",
-      "mandarin": "邮件或电话",
-      "portuguese": "Email ou telefone",
-      "spanish": "Email o teléfono",
-      "turkish": "E-posta veya Telefon"
+      "dutch": "E-mail/Telefoon",
+      "english": "Email/Phone",
+      "french": "Email/Téléphone",
+      "german": "E-Mail/Telefon",
+      "japanese": "メール/電話",
+      "korean": "이메일/전화번호",
+      "mandarin": "电子邮件/电话",
+      "portuguese": "Email/Telefone",
+      "spanish": "Email/Teléfono",
+      "turkish": "E-posta/Telefon"
     },
     "social-email": {
       "dutch": "E-mail",
@@ -491,6 +515,42 @@
       "portuguese": "Todas as carteiras",
       "spanish": "Todas las billeteras",
       "turkish": "Tüm cüzdanlar"
+    },
+    "swap": {
+      "dutch": "Ruil",
+      "english": "Swap",
+      "french": "Échanger",
+      "german": "Tauschen",
+      "japanese": "スワップ",
+      "korean": "교환",
+      "mandarin": "交换",
+      "portuguese": "Trocar",
+      "spanish": "Intercambio",
+      "turkish": "Takas"
+    },
+    "settings": {
+      "dutch": "Instellingen",
+      "english": "Settings",
+      "french": "Paramètres",
+      "german": "Einstellungen",
+      "japanese": "設定",
+      "korean": "설정",
+      "mandarin": "设置",
+      "portuguese": "Configurações",
+      "spanish": "Ajustes",
+      "turkish": "Ayarlar"
+    },
+    "showAllTokens": {
+      "dutch": "Alle tokens weergeven",
+      "english": "Show All Tokens",
+      "french": "Afficher tous les jetons",
+      "german": "Alle Token anzeigen",
+      "japanese": "すべてのトークンを表示",
+      "korean": "모든 토큰 표시",
+      "mandarin": "显示所有代币",
+      "portuguese": "Mostrar todos os tokens",
+      "spanish": "Mostrar todos los tokens",
+      "turkish": "Tüm jetonları görüntüle"
     }
   }
 }

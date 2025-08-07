@@ -546,6 +546,18 @@
       "spanish": "Copiado",
       "turkish": "Kopyalandı"
     },
+    "coveredByDapp": {
+      "dutch": "Bedekt door {0}",
+      "english": "Covered by {0}",
+      "french": "Couvert par {0}",
+      "german": "Abgedeckt von {0}",
+      "japanese": "{0}でカバーされています",
+      "korean": "{0}에 의해 커버되어 있습니다",
+      "mandarin": "由{0}覆盖",
+      "portuguese": "Coberto por {0}",
+      "spanish": "Cubierto por {0}",
+      "turkish": "{0} tarafından kapatılır"
+    },
     "creditUsage": {
       "dutch": "Kredietgebruik",
       "english": "Credit Usage",
@@ -629,6 +641,18 @@
       "portuguese": "Sua primeira transação incorre em uma taxa mais alta, pois envolve o deploy do seu conta inteligente. As transações subsequentes terão taxas menores.",
       "spanish": "Su primera transacción incurre en una tarifa más alta, ya que implica el despliegue de su cuenta inteligente. Las transacciones posteriores tendrán tarifas más bajas.",
       "turkish": "İlk işlem, akıllı hesap dağıtımını içerdiğinden, daha yüksek bir ücretlendirmeye neden olur. Sonraki işlemler, daha düşük ücretlerle hesaplanır."
+    },
+    "free": {
+      "dutch": "Gratis",
+      "english": "Free",
+      "french": "Gratuit",
+      "german": "Kostenlos",
+      "japanese": "無料",
+      "korean": "무료",
+      "mandarin": "免费",
+      "portuguese": "Gratuito",
+      "spanish": "Gratuito",
+      "turkish": "Bedava"
     },
     "gasLimit": {
       "dutch": "Gasgrens",
