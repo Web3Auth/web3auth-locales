@@ -492,6 +492,18 @@
       "spanish": "Acceso",
       "turkish": "Giriş yap"
     },
+    "loginBannerMetamask": {
+      "dutch": "Torus Wallet is nu",
+      "english": "Torus Wallet is now",
+      "french": "Torus Wallet est maintenant",
+      "german": "Torus Wallet ist jetzt",
+      "japanese": "Torus Walletは現在",
+      "korean": "Torus Wallet는 이제",
+      "mandarin": "Torus Wallet现在是",
+      "portuguese": "Torus Wallet agora é",
+      "spanish": "Torus Wallet ahora es",
+      "turkish": "Torus Cüzdan artık"
+    },
     "loginContinue": {
       "dutch": "Doorgaan met {0}",
       "english": "Continue with {0}",
