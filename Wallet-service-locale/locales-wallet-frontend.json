@@ -516,6 +516,17 @@
       "spanish": "Iniciar sesión con el correo electrónico",
       "turkish": "E-posta ile giriş yap"
     },
+    "loginPasswordlessCta": {
+      "dutch": "Doorgaan met e -mail/telefoon",
+      "english": "Continue with Email/Phone",
+      "french": "Continuer avec e -mail/téléphone",
+      "german": "Weiter mit E -Mail/Telefon",
+      "japanese": "電子メール/電話で続行",
+      "korean": "이메일/전화로 계속",
+      "mandarin": "继续使用电子邮件/电话",
+      "portuguese": "Continuar com e -mail/telefone",
+      "spanish": "Continuar con e -mail/teléfono"
+    },
     "loginSlide1Subtitle1": {
       "dutch": "Transactie op blockchain is nooit zo eenvoudig geweest.",
       "english": "Transacting on blockchain has never been easier.",
