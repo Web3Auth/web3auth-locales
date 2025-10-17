@@ -275,16 +275,16 @@
       "turkish": "Cüzdan bulunamadı"
     },
     "external.qr-code-copied-to-clipboard": {
-      "dutch": "QR-code naar klembord gekopieerd",
-      "english": "QR code copied to clipboard",
-      "french": "Code QR copié dans le presse-papiers",
-      "german": "QR-Code in die Zwischenablage kopiert",
-      "japanese": "QR コードがクリップボードにコピーされました",
-      "korean": "QR 코드가 클립 보드에 복사되었습니다.",
-      "mandarin": "QR 代码已复制到剪贴板",
-      "portuguese": "Código QR copiado para a área de transferência",
-      "spanish": "Código QR copiado al portapapeles",
-      "turkish": "QR kodu panoya kopyalandı"
+      "dutch": "URI naar klembord gekopieerd",
+      "english": "URI copied to clipboard",
+      "french": "URI copié dans le presse-papiers",
+      "german": "URI in die Zwischenablage kopiert",
+      "japanese": "URIがクリップボードにコピーされました",
+      "korean": "URI가 클립 보드에 복사되었습니다.",
+      "mandarin": "URI已复制到剪贴板",
+      "portuguese": "URI copiado para a área de transferência",
+      "spanish": "URI copiado al portapapeles",
+      "turkish": "URI panoya kopyalandı"
     },
     "external.search-subtext": {
       "dutch": "Probeer in plaats daarvan te zoeken",
