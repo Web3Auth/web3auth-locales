@@ -274,6 +274,18 @@
       "spanish": "No se encontraron billeteras",
       "turkish": "Cüzdan bulunamadı"
     },
+    "external.qr-code-copied-to-clipboard": {
+      "dutch": "URI naar klembord gekopieerd",
+      "english": "URI copied to clipboard",
+      "french": "URI copié dans le presse-papiers",
+      "german": "URI in die Zwischenablage kopiert",
+      "japanese": "URIがクリップボードにコピーされました",
+      "korean": "URI가 클립 보드에 복사되었습니다.",
+      "mandarin": "URI已复制到剪贴板",
+      "portuguese": "URI copiado para a área de transferência",
+      "spanish": "URI copiado al portapapeles",
+      "turkish": "URI panoya kopyalandı"
+    },
     "external.search-subtext": {
       "dutch": "Probeer in plaats daarvan te zoeken",
       "english": "Try search instead",
@@ -359,16 +371,16 @@
       "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
-      "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren.",
-      "english": "Scan the QR code with WalletConnect supported wallet or click to copy link",
-      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez pour copier le lien",
-      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse oder klicken Sie, um den Link zu kopieren",
-      "japanese": "WalletConnect がサポートするウォレットで QR コードをスキャンするか、リンクをクリックしてコピーします。",
-      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하거나 링크를 클릭하여 복사하세요.",
-      "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击复制链接",
-      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique para copiar o link",
-      "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic para copiar el enlace",
-      "turkish": "WalletConnect destekli bir cüzdanla QR kodu tarayın veya bağlantıyı kopyalayın"
+      "dutch": "Verbinden met WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren",
+      "english": "Scan the QR code with WalletConnect supported wallet or click the QR code to copy link",
+      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez sur le code QR pour copier le lien",
+      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse oder klicken Sie auf den QR-Code, um den Link zu kopieren",
+      "japanese": "WalletConnect 対応ウォレットで QR コードをスキャンするか、QR コードをクリックしてリンクをコピーします。",
+      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하거나 QR 코드를 클릭하여 링크를 복사하세요.",
+      "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击 QR 码复制链接",
+      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique no código QR para copiar o link",
+      "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic en el código QR para copiar el enlace",
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın veya QR koduna tıklayarak bağlantıyı kopyalayın"
     },
     "external.walletconnect-subtitle": {
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
@@ -1176,6 +1188,18 @@
       "spanish": "Parámetros faltantes o no válidos",
       "turkish": "Eksik ya da hatalı parametreler var."
     },
+    "error-invalid-test-account": {
+      "dutch": "Ongeldig testaccount",
+      "english": "Invalid test account",
+      "french": "Compte de test non valide",
+      "german": "Ungültiges Testkonto",
+      "japanese": "無効なテストアカウント",
+      "korean": "잘못된 테스트 계정입니다",
+      "mandarin": "测试账户无效",
+      "portuguese": "Conta de teste inválida",
+      "spanish": "Cuenta de prueba no válida",
+      "turkish": "Geçersiz test hesabı"
+    },
     "error-max-retry-limit-reached": {
       "dutch": "U heeft de limiet voor verkeerde pogingen bereikt. Start de stroom opnieuw om de verificatie te voltooien.",
       "english": "You have reached the limit for wrong attempts. Please restart the flow again to complete verification.",
@@ -1271,18 +1295,6 @@
       "portuguese": "Houve um erro de envio de um SMS. Por favor, tente novamente.",
       "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
       "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
-    },
-    "error-invalid-test-account": {
-      "dutch": "Ongeldig testaccount",
-      "english": "Invalid test account",
-      "french": "Compte de test non valide",
-      "german": "Ungültiges Testkonto",
-      "japanese": "無効なテストアカウント",
-      "korean": "잘못된 테스트 계정입니다",
-      "mandarin": "测试账户无效",
-      "portuguese": "Conta de teste inválida",
-      "spanish": "Cuenta de prueba no válida",
-      "turkish": "Geçersiz test hesabı"
     },
     "something-wrong-error": {
       "dutch": "Er is iets misgegaan",
