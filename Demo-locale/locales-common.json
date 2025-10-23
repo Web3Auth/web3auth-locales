@@ -228,6 +228,18 @@
       "spanish": "Permita que sus usuarios reclamen NFT en segundos",
       "turkish": "Kullanıcılarınızın saniyeler içinde NFT talebinde bulunmasına izin verin"
     },
+    "use-funding": {
+      "dutch": "Gebruik Funding",
+      "english": "Use Funding",
+      "french": "Utiliser le funding",
+      "german": "Funding verwenden",
+      "japanese": "資金を使用する",
+      "korean": "Funding 사용",
+      "mandarin": "使用资金",
+      "portuguese": "Usar Funding",
+      "spanish": "Usar Funding",
+      "turkish": "Funding kullan"
+    },
     "onramp": {
       "dutch": "Gebruik Fiat Onramp",
       "english": "Use Fiat Onramp",
