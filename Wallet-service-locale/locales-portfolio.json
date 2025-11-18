@@ -1517,7 +1517,18 @@
       "portuguese": "Valor USD",
       "spanish": "Valor USD",
       "turkish": "USD Değeri"
-    }
+    },
+    "noDefiPositionsYet": {
+      "dutch": "Nog geen DeFi posities",
+      "english": "No DeFi positions yet",
+      "french": "Aucune position DeFi",
+      "german": "Noch keine DeFi-Positionen",
+      "japanese": "まだDeFiポジションはありません",
+      "korean": "아직 DeFi 포지션이 없습니다",
+      "mandarin": "还没有DeFi位置",
+      "portuguese": "Ainda não há posições DeFi",
+      "spanish": "Aún no hay posiciones DeFi",
+      "turkish": "Henüz DeFi pozisyonu yok"
   },
   "qrCode": {
     "myQrCode": {
