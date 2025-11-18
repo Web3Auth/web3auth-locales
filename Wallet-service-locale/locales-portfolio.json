@@ -1469,6 +1469,54 @@
       "portuguese": "Baixar código QR",
       "spanish": "Descargar código QR",
       "turkish": "QR kodunu indir"
+    },
+    "defiPositions": {
+      "dutch": "DeFi Posities",
+      "english": "DeFi Positions",
+      "french": "Positions DeFi",
+      "german": "DeFi-Positionen",
+      "japanese": "DeFi ポジション",
+      "korean": "DeFi 포지션",
+      "mandarin": "DeFi 位置",
+      "portuguese": "Posições DeFi",
+      "spanish": "Posiciones DeFi",
+      "turkish": "DeFi Pozisyonları"
+    },
+    "defiPositionColumnName": {
+      "dutch": "Naam",
+      "english": "Name",
+      "french": "Nom",
+      "german": "Name",
+      "japanese": "名前",
+      "korean": "이름",
+      "mandarin": "名称",
+      "portuguese": "Nome",
+      "spanish": "Nombre",
+      "turkish": "Ad"
+    },
+    "defiPositionColumnBalance": {
+      "dutch": "Balans",
+      "english": "Balance",
+      "french": "Solde",
+      "german": "Guthaben",
+      "japanese": "残高",
+      "korean": "잔액",
+      "mandarin": "余额",
+      "portuguese": "Saldo",
+      "spanish": "Saldo",
+      "turkish": "Bakiye"
+    },
+    "defiPositionColumnUSDValue": {
+      "dutch": "USD Waarde",
+      "english": "USD Value",
+      "french": "Valeur USD",
+      "german": "USD-Wert",
+      "japanese": "USD 価値",
+      "korean": "USD 가치",
+      "mandarin": "USD 价值",
+      "portuguese": "Valor USD",
+      "spanish": "Valor USD",
+      "turkish": "USD Değeri"
     }
   },
   "qrCode": {
