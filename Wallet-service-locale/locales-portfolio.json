@@ -1482,6 +1482,18 @@
       "spanish": "Posiciones DeFi",
       "turkish": "DeFi Pozisyonları"
     },
+    "yourDefiPositions": {
+      "dutch": "Uw DeFi Posities",
+      "english": "Your DeFi Positions",
+      "french": "Vos positions DeFi",
+      "german": "Ihre DeFi-Positionen",
+      "japanese": "あなたのDeFiポジション",
+      "korean": "당신의 DeFi 포지션",
+      "mandarin": "您的DeFi位置",
+      "portuguese": "Suas posições DeFi",
+      "spanish": "Sus posiciones DeFi",
+      "turkish": "Senin DeFi pozisyonlarınız"
+    },
     "defiPositionColumnName": {
       "dutch": "Naam",
       "english": "Name",
