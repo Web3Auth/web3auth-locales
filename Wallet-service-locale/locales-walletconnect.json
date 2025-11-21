@@ -1,6 +1,7 @@
 {
   "carousel": {
     "heading1": {
+      "amharic": "ወደ መተግበሪያ ይገናኙ",
       "dutch": "Maak verbinding met de applicatie",
       "english": "Connect to Application",
       "french": "Se connecter à l'application",
@@ -13,6 +14,7 @@
       "turkish": "Bağlan uygulamaya"
     },
     "heading2": {
+      "amharic": "የመተግበሪያ ጣቢያ ይጎብኙ",
       "dutch": "Bezoek de toepassingssite",
       "english": "Visit Application Site",
       "french": "Visitez le site de la demande",
@@ -25,6 +27,7 @@
       "turkish": "Bağlantı sitesine git"
     },
     "heading3": {
+      "amharic": "WalletConnect ይምረጡ",
       "dutch": "Selecteer WalletConnect",
       "english": "Select WalletConnect",
       "french": "Sélectionnez WalletConnect",
@@ -37,6 +40,7 @@
       "turkish": "WalletConnect'i seçin"
     },
     "heading4": {
+      "amharic": "‘Copy to clipboard’ ይጫኑ",
       "dutch": "Klik op 'Kopiëren naar klembord'",
       "english": "Click 'Copy to clipboard'",
       "french": "Cliquez sur 'Copier dans le presse-papiers'",
@@ -49,6 +53,7 @@
       "turkish": "'Panoya' düğmesine tıklayın"
     },
     "heading5": {
+      "amharic": "QR አገናኝ ከታች ይለጥፉ",
       "dutch": "Plak de QR -link hieronder",
       "english": "Paste QR Link below",
       "french": "Coller le lien QR ci-dessous",
@@ -61,6 +66,7 @@
       "turkish": "QR bağlantısını aşağıya yapıştırın"
     },
     "heading6": {
+      "amharic": "ውሎችን ይቀበሉ",
       "dutch": "Accepteer de algemene voorwaarden",
       "english": "Accept Terms and Conditions",
       "french": "Accepter les termes et conditions",
@@ -73,6 +79,7 @@
       "turkish": "Kullanım Şartlarını kabul edin"
     },
     "heading7": {
+      "amharic": "መተግበሪያውን ያስፈቅዱ",
       "dutch": "Autoriseer een aanvraag",
       "english": "Authorize Application",
       "french": "Autoriser la demande",
@@ -85,6 +92,7 @@
       "turkish": "Başvuru onaylayın"
     },
     "heading8": {
+      "amharic": "ሁሉም ዝግጁ ነው!",
       "dutch": "Jullie zijn er klaar voor!",
       "english": "You are all set!",
       "french": "Vous êtes prêt!",
@@ -97,6 +105,7 @@
       "turkish": "Hazır ol!"
     },
     "subHeading1": {
+      "amharic": "በጥቂት እርምጃዎች ወደ Web3 ገበያ ይግቡ",
       "dutch": "Toegang tot de Web3 -markt in enkele stappen",
       "english": "Access the Web3 marketplace in a few steps",
       "french": "Accéder au marché Web3 en quelques étapes",
@@ -109,6 +118,7 @@
       "turkish": "Web3 mağazasını birkaç adımda erişin"
     },
     "subHeading2": {
+      "amharic": "WalletConnect ያለው ወደ መተግበሪያ ይሂዱ",
       "dutch": "Ga naar de toepassing die WalletConnect heeft",
       "english": "Go to Application that has WalletConnect",
       "french": "Accédez à une application qui a WalletConnect",
@@ -121,6 +131,7 @@
       "turkish": "Uygulamadaki WalletConnect ile bağlantılı bir uygulamaya git"
     },
     "subHeading3": {
+      "amharic": "በመተግበሪያው ላይ ካሉት የዋሌት ዝርዝሮች",
       "dutch": "Uit de lijst met portefeuilles op toepassing",
       "english": "From the list of Wallets on application",
       "french": "À partir de la liste des portefeuilles sur l'application",
@@ -133,6 +144,7 @@
       "turkish": "Uygulamadaki portföyler listesinden"
     },
     "subHeading4": {
+      "amharic": "በQR ኮድ በታች ይገኛል",
       "dutch": "Gelegen onder de QR -code",
       "english": "Located below the QR Code",
       "french": "Situé sous le code QR",
@@ -145,6 +157,7 @@
       "turkish": "QR kodu altında"
     },
     "subHeading5": {
+      "amharic": "ወይም QR ኮዱን ቀጥታ ይስክኑ",
       "dutch": "Of scan de QR -code rechtstreeks",
       "english": "Or scan the QR code directly",
       "french": "Ou numériser directement le code QR",
@@ -157,6 +170,7 @@
       "turkish": "Veya QR kodunu doğrudan tarayın"
     },
     "subHeading6": {
+      "amharic": "ለመቀበል እና ለመፈረም ወደ መተግበሪያ ተመለሱ",
       "dutch": "Keer terug naar de aanvraag om te accepteren en te ondertekenen",
       "english": "Return to Application to Accept and Sign",
       "french": "Revenir à la demande pour accepter et signer",
@@ -169,6 +183,7 @@
       "turkish": "Uygulamaya dönerek onaylayın ve imzalayın"
     },
     "subHeading7": {
+      "amharic": "የመተግበሪያውን መልዕክት እንዲቀጥሉ ይፍቀዱ",
       "dutch": "Goedkeuren het bericht van de aanvraag om door te gaan",
       "english": "Approve application's message to continue",
       "french": "Approuver le message de l'application pour continuer",
@@ -181,6 +196,7 @@
       "turkish": "Uygulamanın iletisini onaylayarak devam edin"
     },
     "subHeading8": {
+      "amharic": "መተግበሪያ ይመልሱ ለመስራት ጀምሩ!",
       "dutch": "Keer terug naar de aanvraag om te beginnen met verkennen!",
       "english": "Return to Application to start exploring!",
       "french": "Revenez à l'application pour commencer à explorer!",
@@ -195,6 +211,7 @@
   },
   "error": {
     "cameraInUse": {
+      "amharic": "ካሜራው አስቀድሞ ተጠቅመዋል?",
       "dutch": "Is de camera al in gebruik?",
       "english": "Is the camera already in use?",
       "french": "La caméra est-elle déjà utilisée?",
@@ -207,6 +224,7 @@
       "turkish": "Kamera zaten kullanılıyor mu?"
     },
     "grantCameraPermission": {
+      "amharic": "የካሜራ ፍቃድ መስጠት ያስፈልጋል",
       "dutch": "U moet toestemming van de camera toegang geven",
       "english": "You need to grant camera access permission",
       "french": "Vous devez accorder une autorisation d'accès à la caméra",
@@ -219,6 +237,7 @@
       "turkish": "Kamera erişim izni verilmesi gerekiyor"
     },
     "installedCameraErr": {
+      "amharic": "የተጭኑት ካሜራዎች ተስማሚ አይደሉም",
       "dutch": "Geïnstalleerde camera's zijn niet geschikt",
       "english": "Installed cameras are not suitable",
       "french": "Les caméras installées ne conviennent pas",
@@ -231,6 +250,7 @@
       "turkish": "Yüklü kamera uygun değil"
     },
     "invalidUrl": {
+      "amharic": "የWalletConnect URL ልክ አይደለም",
       "dutch": "Ongeldige portemonnee verbind url",
       "english": "Invalid wallet connect url",
       "french": "URL de connexion du portefeuille non valide",
@@ -243,6 +263,7 @@
       "turkish": "Hatalı bir cüzdan bağlantısı URL"
     },
     "noCamera": {
+      "amharic": "በዚህ መሣሪያ ላይ ካሜራ የለም",
       "dutch": "Geen camera op dit apparaat",
       "english": "No camera on this device",
       "french": "Pas de caméra sur cet appareil",
@@ -255,6 +276,7 @@
       "turkish": "Bu cihazda kamera yok"
     },
     "qrReaderErr": {
+      "amharic": "የQR አንባቢ ስህተት",
       "dutch": "QR Reader Fout",
       "english": "QR reader error",
       "french": "Erreur du lecteur QR",
@@ -267,6 +289,7 @@
       "turkish": "QR Okuyucu Hatası"
     },
     "secureContext": {
+      "amharic": "የደህንነት ኮንቴክስት (HTTPS, localhost) ይፈልጋል",
       "dutch": "Veilige context vereist (https, localhost)",
       "english": "Secure context required (HTTPS, localhost)",
       "french": "Contexte sécurisé requis (HTTPS, localhost)",
@@ -279,6 +302,7 @@
       "turkish": "Güvenli bağlam gerekli (HTTPS, localhost)"
     },
     "streamErr": {
+      "amharic": "Stream API አይደገፍም",
       "dutch": "Stream API niet ondersteund",
       "english": "Stream Api not supported",
       "french": "API Stream non pris en charge",
@@ -291,6 +315,7 @@
       "turkish": "Stream API desteklenmiyor"
     },
     "v1Deprecated": {
+      "amharic": "v1 ተወግዷል",
       "dutch": "V1 is verouderd",
       "english": "v1 is deprecated",
       "french": "V1 est obsolète",
@@ -303,6 +328,7 @@
       "turkish": "V1 kullanımdan kaldırıldı"
     },
     "wcInit": {
+      "amharic": "በመጀመሪያ ጊዜ በማስጀመር ላይ ችግኝ ተፈጥሯል",
       "dutch": "Er ging iets mis tijdens de initialisatie.",
       "english": "Something went wrong during initialization.",
       "french": "Quelque chose s'est mal passé lors de l'initialisation.",
@@ -317,6 +343,7 @@
   },
   "walletConnect": {
     "connect": {
+      "amharic": "ተገናኝ",
       "dutch": "Aansluiten",
       "english": "Connect",
       "french": "Connecter",
@@ -329,6 +356,7 @@
       "turkish": "Bağlan"
     },
     "connected": {
+      "amharic": "ተገናኝቷል",
       "dutch": "Verbonden",
       "english": "Connected",
       "french": "Connecté",
@@ -341,6 +369,7 @@
       "turkish": "Bağlı"
     },
     "connectedApplications": {
+      "amharic": "የተገናኙ መተግበሪያዎች",
       "dutch": "Verbonden toepassingen",
       "english": "Connected Applications",
       "french": "Applications connectées",
@@ -353,6 +382,7 @@
       "turkish": "Bağlı uygulamalar"
     },
     "connectedSuccess": {
+      "amharic": "በተሳካ ሁኔታ ተገናኝቷል",
       "dutch": "Succesvol verbonden",
       "english": "Connected Successfully",
       "french": "Connecté avec succès",
@@ -365,6 +395,7 @@
       "turkish": "Bağlantı başarıyla yapıldı"
     },
     "connectedWithWalletConnect": {
+      "amharic": "በWalletConnect ተገናኝቷል",
       "dutch": "Verbonden met WalletConnect",
       "english": "Connected with WalletConnect",
       "french": "Lié à WalletConnect",
@@ -377,6 +408,7 @@
       "turkish": "WalletConnect ile bağlı"
     },
     "disConnect": {
+      "amharic": "ግንኙነት ቁረጥ",
       "dutch": "Loskoppelen",
       "english": "Disconnect",
       "french": "Débrancher",
@@ -389,6 +421,7 @@
       "turkish": "Bağlantıyı kes"
     },
     "hideGuide": {
+      "amharic": "መመሪያውን ደብቅ",
       "dutch": "Gids verbergen",
       "english": "Hide Guide",
       "french": "Guide",
@@ -401,6 +434,7 @@
       "turkish": "Rehberi gizle"
     },
     "maxAppConnected": {
+      "amharic": "ከፍተኛ የተገናኙ መተግበሪያዎች",
       "dutch": "Maximale toepassingen verbonden",
       "english": "Maximum applications connected",
       "french": "Applications maximales connectées",
@@ -413,6 +447,7 @@
       "turkish": "Bağlı uygulama maksimum"
     },
     "pasteQrLinkHere": {
+      "amharic": "QR አገናኝ እዚህ ይለጥፉ",
       "dutch": "Plak hier de QR -link",
       "english": "Paste QR link here",
       "french": "Coller le lien QR ici",
@@ -425,6 +460,7 @@
       "turkish": "QR bağlantısını buraya yapıştırın"
     },
     "pasteWalletConnect": {
+      "amharic": "የWalletConnect QR አገናኝ ከታች ይለጥፉ",
       "dutch": "Plak WalletConnect QR -link hieronder",
       "english": "Paste WalletConnect QR Link below",
       "french": "Coller le lien QR WalletConnect ci-dessous",
@@ -437,6 +473,7 @@
       "turkish": "WalletConnect QR bağlantısını aşağıda yapıştırın"
     },
     "showGuide": {
+      "amharic": "መመሪያ አሳይ",
       "dutch": "Toon gids",
       "english": "Show Guide",
       "french": "Guide",
@@ -449,6 +486,7 @@
       "turkish": "Rehberi göster"
     },
     "takeMeTo": {
+      "amharic": "እኔን ወደ… ውሰድ",
       "dutch": "Breng me naar",
       "english": "Take me to",
       "french": "M'emmène",
