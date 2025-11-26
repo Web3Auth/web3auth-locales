@@ -98,6 +98,30 @@
       "spanish": "Crédito de gas",
       "turkish": "Gaz kredisi"
     },
+    "noTokenNftMsg": {
+      "dutch": "Je hebt nog geen {0}",
+      "english": "You don’t have any {0} yet",
+      "french": "Vous n'avez pas encore de {0}",
+      "german": "Sie haben noch keine {0}",
+      "japanese": "{0}はまだありません",
+      "korean": "아직 {0}이 없습니다",
+      "mandarin": "您还没有任何{0}",
+      "portuguese": "Você ainda não tem {0}",
+      "spanish": "No tienes {0} todavía",
+      "turkish": "Henüz {0} yok"
+    },
+    "noTokenNftSubMsg": {
+      "dutch": "Nadat u een {0} hebt gekocht, ontvangt of toevoegt, verschijnen ze hier.",
+      "english": "Once you buy, receive or add any {0}, they will appear here.",
+      "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici.",
+      "german": "Sobald Sie {0} gekauft, empfangen oder hinzufügen, werden sie hier angezeigt.",
+      "japanese": "{0}を購入、受信、追加すると、ここに表示されます。",
+      "korean": "{0}을 구매, 받거나 추가하면 여기에 나타납니다.",
+      "mandarin": "购买，接收或添加任何{0}后，它们将出现在此处。",
+      "portuguese": "Depois de comprar, receber ou adicionar qualquer {0}, eles aparecerão aqui.",
+      "spanish": "Una vez que compre, reciba o agregue cualquier {0}, aparecerán aquí.",
+      "turkish": "Bir {0} satın aldıktan sonra, alınan veya eklendiğinde bunlar burada gösterilecektir."
+    },
     "ownerEoa": {
       "dutch": "Eigenaar EOA",
       "english": "Owner EOA",
@@ -1517,18 +1541,6 @@
       "portuguese": "Você ainda não tem {0}",
       "spanish": "No tienes {0} todavía",
       "turkish": "Henüz {0} yok"
-    },
-    "noTokenNftSubMsg": {
-      "dutch": "Nadat u een {0} hebt gekocht, ontvangt of toevoegt, verschijnen ze hier.",
-      "english": "Once you buy, receive or add any {0}, they will appear here.",
-      "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici.",
-      "german": "Sobald Sie {0} gekauft, empfangen oder hinzufügen, werden sie hier angezeigt.",
-      "japanese": "{0}を購入、受信、追加すると、ここに表示されます。",
-      "korean": "{0}을 구매, 받거나 추가하면 여기에 나타납니다.",
-      "mandarin": "购买，接收或添加任何{0}后，它们将出现在此处。",
-      "portuguese": "Depois de comprar, receber ou adicionar qualquer {0}, eles aparecerão aqui.",
-      "spanish": "Una vez que compre, reciba o agregue cualquier {0}, aparecerán aquí.",
-      "turkish": "Bir {0} satın aldıktan sonra, alınan veya eklendiğinde bunlar burada gösterilecektir."
     },
     "noDefiPositionsSubMsg": {
       "dutch": "Begin met gebruiken DeFi protocollen om uw posities hier te zien.",
