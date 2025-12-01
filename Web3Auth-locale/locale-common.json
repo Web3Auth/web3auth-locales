@@ -598,6 +598,39 @@
       "spanish": "Billetera",
       "turkish": "Cüzdan"
     },
+    "loader.authorizing-header": {
+      "english": "Verify on {{connector}}",
+      "french": "Vérifier sur {{connector}}",
+      "german": "Überprüfen auf {{connector}}",
+      "japanese": "{{connector}}で確認",
+      "korean": "{{connector}}로 확인",
+      "mandarin": "{{connector}}验证",
+      "portuguese": "Verificar em {{connector}}",
+      "spanish": "Verificar en {{connector}}",
+      "turkish": "{{connector}} ile doğrula"
+    },
+    "loader.authorizing-message": {
+      "english": "We’ve sent a request to your wallet. Verify on your wallet to confirm that you own this wallet.",
+      "french": "Nous avons envoyé une demande à votre portefeuille. Vérifiez votre portefeuille pour confirmer que vous possédez ce portefeuille.",
+      "german": "Wir haben eine Anfrage an Ihr Wallet gesendet. Überprüfen Sie Ihr Wallet, um zu bestätigen, dass Sie dieses Wallet besitzen.",
+      "japanese": "ウォレットにリクエストを送信しました。ウォレットで確認して、このウォレットを所有していることを確認してください。",
+      "korean": "월렛에 요청을 보냈습니다. 월렛에서 확인하여 이 월렛을 소유하고 있는지 확인해주세요.",
+      "mandarin": "我们已经向您的钱包发送了请求。请在您的钱包上确认，以确认您拥有此钱包。",
+      "portuguese": "Enviamos uma solicitação para seu portfólio. Verifique no seu portfólio para confirmar que você possui este portfólio.",
+      "spanish": "Hemos enviado una solicitud a su cartera. Verifique en su cartera para confirmar que posee esta cartera.",
+      "turkish": "Biz size bir istek gönderdik. Bu cüzdanınız olduğunu doğrulamak için cüzdanınızda doğrulayın."
+    },
+    "loader.authorizing-verify-btn": {
+      "english": " Click here to verify",
+      "french": "Cliquez ici pour vérifier",
+      "german": "Klicken Sie hier, um zu verifizieren",
+      "japanese": "確認するにはここをクリックしてください",
+      "korean": "확인하려면 여기를 클릭하세요",
+      "mandarin": "点击此处进行验证",
+      "portuguese": "Clique aqui para verificar",
+      "spanish": "Haga clic aquí para verificar",
+      "turkish": "Doğrulamak için buraya tıklayın"
+    },
     "network.add-request": {
       "dutch": "Deze site vraagt om een netwerk toe te voegen",
       "english": "This site is requesting to add a network",
