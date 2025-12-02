@@ -1565,6 +1565,18 @@
       "portuguese": "Carregando posições DeFi",
       "spanish": "Cargando posiciones DeFi",
       "turkish": "DeFi Pozisyonları yükleniyor"
+    },
+    "errorFetchingDefiPositions": {
+      "dutch": "Failed to fetch DeFi positions",
+      "english": "Failed to fetch DeFi positions",
+      "french": "Erreur lors de la récupération des positions DeFi",
+      "german": "Fehler beim Abrufen der DeFi-Positionen",
+      "japanese": "DeFi ポジションの取得に失敗しました",
+      "korean": "DeFi 포지션 가져오기 실패",
+      "mandarin": "获取DeFi位置失败",
+      "portuguese": "Erro ao obter posições DeFi",
+      "spanish": "Error al obtener posiciones DeFi",
+      "turkish": "DeFi Pozisyonları alınamadı"
     }
   },
   "qrCode": {
