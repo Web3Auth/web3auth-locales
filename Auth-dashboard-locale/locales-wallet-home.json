@@ -1,6 +1,7 @@
 {
   "home": {
     "learn-more-desc": {
+      "amharic": "በOpenLogin የዲጂታል መኖርዎን ቁጥጥር ይውሰዱ",
       "dutch": "Neem de controle over uw digitale aanwezigheid met OpenLogin.",
       "english": "Take charge of your digital presence with OpenLogin.",
       "french": "Prenez le contrôle de votre présence numérique avec OpenLogin.",
@@ -12,6 +13,7 @@
       "spanish": "Hágase cargo de su presencia digital con OpenLogin."
     },
     "learn-more-title": {
+      "amharic": "መጀመሪያ ይጀምሩ",
       "dutch": "Aan de slag gaan",
       "english": "Getting started",
       "french": "Pour commencer",
@@ -23,6 +25,7 @@
       "spanish": "Empezando"
     },
     "link-account-name": {
+      "amharic": "አካውንት አስተዳድር",
       "dutch": "Account beheren",
       "english": "Manage account",
       "french": "Gérer le compte",
@@ -34,6 +37,7 @@
       "spanish": "Administrar cuenta"
     },
     "link-account-type": {
+      "amharic": "አካውንት",
       "dutch": "account",
       "english": "account",
       "french": "compte",
@@ -45,6 +49,7 @@
       "spanish": "cuenta"
     },
     "link-apps-name": {
+      "amharic": "የተፈቀዱ መተግበሪያዎችን ይመልከቱ",
       "dutch": "Bekijk geautoriseerde apps",
       "english": "View Authorized Apps",
       "french": "Afficher les applications autorisées",
@@ -56,6 +61,7 @@
       "spanish": "Ver aplicaciones autorizadas"
     },
     "link-apps-type": {
+      "amharic": "መተግበሪያዎች",
       "dutch": "apps",
       "english": "apps",
       "french": "applications",
@@ -67,6 +73,7 @@
       "spanish": "aplicaciones"
     },
     "share-approval-desc1": {
+      "amharic": "አዲስ መግቢያ አካውንትዎን ለመድረስ ትሞክራለች",
       "dutch": "Een nieuwe login probeert toegang te krijgen tot uw account.",
       "english": "A new login is trying to access your account.",
       "french": "Une nouvelle connexion essaie d'accéder à votre compte.",
@@ -78,6 +85,7 @@
       "spanish": "Un nuevo inicio de sesión está intentando acceder a su cuenta."
     },
     "share-approval-desc2": {
+      "amharic": "የማመልከቻ IDን አዛመዱ እና ይህ እርስዎ መሆኑን ያረጋግጡ",
       "dutch": "Match de referentie-ID en bevestig dat dit u bent:",
       "english": "Match the Reference ID and confirm this is you:",
       "french": "Faites correspondre l'ID de référence et confirmez que c'est vous:",
@@ -89,6 +97,7 @@
       "spanish": "Haga coincidir la ID de referencia y confirme que es usted:"
     },
     "share-approval-not-me": {
+      "amharic": "ይህ እኔ አይደለሁም",
       "dutch": "Dit ben ik niet,",
       "english": "This is not me,",
       "french": "Ce n'est pas moi,",
@@ -100,6 +109,7 @@
       "spanish": "Este no soy yo,"
     },
     "share-approval-report": {
+      "amharic": "ያሳውቁት",
       "dutch": "Rapporteer het",
       "english": "report it",
       "french": "rapportez-le",
@@ -111,6 +121,7 @@
       "spanish": "Informe"
     },
     "share-approval-secure": {
+      "amharic": "ደህንነቱ የተጠበቀ Torus መግቢያ",
       "dutch": "Veilige Torus-aanmelding",
       "english": "Secure Torus sign in",
       "french": "Connexion sécurisée à Torus",
@@ -122,6 +133,7 @@
       "spanish": "Iniciar sesión Secure Torus"
     },
     "share-approval-support": {
+      "amharic": "ድጋፍ ያግኙ",
       "dutch": "Neem contact op met de ondersteuning",
       "english": "Contact Support",
       "french": "Contacter le support",
@@ -133,6 +145,7 @@
       "spanish": "Soporte de contacto"
     },
     "share-approval-title": {
+      "amharic": "አዲስ መግቢያ ተገኝቷል",
       "dutch": "Nieuwe login gedetecteerd",
       "english": "New login detected",
       "french": "Nouvelle connexion détectée",
@@ -144,6 +157,7 @@
       "spanish": "Nuevo inicio de sesión detectado"
     },
     "title": {
+      "amharic": "እንኳን በደህና መጡ፣ {0}",
       "dutch": "Welkom, {0}",
       "english": "Welcome, {0}",
       "french": "Bienvenue, {0}",

@@ -1,6 +1,7 @@
 {
   "activity": {
     "movingAssetMsg": {
+      "amharic": "ንብረቶችዎን ማንቀሳቀስ ከጀመሩ በኋላ ግብዣዎችዎ እዚህ ይታያሉ",
       "dutch": "Zodra u begint met het verplaatsen van uw vermogen, verschijnen uw transacties hier.",
       "english": "Once you start moving your assets, your transactions will appear here.",
       "french": "Une fois que vous commencerez à déplacer vos actifs, vos transactions apparaîtront ici.",
@@ -13,6 +14,7 @@
       "turkish": "Bir varlığınızı taşıdığınızda, bu işlemler burada görünür."
     },
     "noTxnMsg": {
+      "amharic": "ገና ምንም ግብዣ የለዎትም",
       "dutch": "U hebt nog geen transacties",
       "english": "You don’t have any Transactions yet",
       "french": "Vous n'avez pas encore de transactions",
@@ -25,6 +27,7 @@
       "turkish": "Henüz herhangi bir işlem yok"
     },
     "selectTxnDetails": {
+      "amharic": "ዝርዝር ለማየት ግብዣ ይምረጡ",
       "dutch": "Selecteer transactie om details te bekijken",
       "english": "Select Transaction to view details",
       "french": "Sélectionnez la transaction pour afficher les détails",
@@ -37,6 +40,7 @@
       "turkish": "Detayları görmek için bir işlem seçin"
     },
     "selectTxnSubDetails": {
+      "amharic": "ማንኛውንም ግብዣ በመምረጥ ዝርዝሩን ይመልከቱ",
       "dutch": "Selecteer elke transactie om details te bekijken",
       "english": "Select any transaction to view details",
       "french": "Sélectionnez toute transaction pour afficher les détails",
@@ -51,6 +55,7 @@
   },
   "home": {
     "NftContractAddress": {
+      "amharic": "የNFT ኮንትራት አድራሻ",
       "dutch": "NFT -contractadres",
       "english": "NFT Contract Address",
       "french": "Adresse du contrat NFT",
@@ -63,6 +68,7 @@
       "turkish": "NFT Sözleşme Adresi"
     },
     "copyAddress": {
+      "amharic": "አድራሻ ይቅዱ",
       "dutch": "Kopieeradres",
       "english": "Copy Address",
       "french": "Copier l'adresse",
@@ -75,6 +81,7 @@
       "turkish": "Adres kopyala"
     },
     "decimalsOfPrecision": {
+      "amharic": "የትክክለኛነት ዲሲማል",
       "dutch": "Precimals van precisie",
       "english": "Decimals of Precision",
       "french": "Décimales de précision",
@@ -87,6 +94,7 @@
       "turkish": "Ondalık önem"
     },
     "gasCredit": {
+      "amharic": "የጋዝ ክሬዲት",
       "dutch": "Gaskrediet",
       "english": "Gas Credit",
       "french": "Crédit de gaz",
@@ -99,6 +107,7 @@
       "turkish": "Gaz kredisi"
     },
     "noTokenNftMsg": {
+      "amharic": "ገና ምንም {0} የለዎትም",
       "dutch": "Je hebt nog geen {0}",
       "english": "You don’t have any {0} yet",
       "french": "Vous n'avez pas encore de {0}",
@@ -111,6 +120,7 @@
       "turkish": "Henüz {0} yok"
     },
     "noTokenNftSubMsg": {
+      "amharic": "{0} ከገዙ፣ ከተቀበሉ ወይም ከጨመሩ በኋላ እዚህ ይታያሉ",
       "dutch": "Nadat u een {0} hebt gekocht, ontvangt of toevoegt, verschijnen ze hier.",
       "english": "Once you buy, receive or add any {0}, they will appear here.",
       "french": "Une fois que vous achetez, recevez ou ajoutez un {0}, ils apparaîtront ici.",
@@ -123,6 +133,7 @@
       "turkish": "Bir {0} satın aldıktan sonra, alınan veya eklendiğinde bunlar burada gösterilecektir."
     },
     "ownerEoa": {
+      "amharic": "የባለቤት EOA",
       "dutch": "Eigenaar EOA",
       "english": "Owner EOA",
       "french": "Propriétaire EOA",
@@ -135,6 +146,7 @@
       "turkish": "Sahib EOA"
     },
     "qrScanner": {
+      "amharic": "QR ኮድ ስካነር",
       "dutch": "QR -codescanner",
       "english": "QR Code Scanner",
       "french": "Scanner de code QR",
@@ -147,6 +159,7 @@
       "turkish": "QR kodu tarayıcısı"
     },
     "receivedEth": {
+      "amharic": "ኢተርየም ተቀብሏል",
       "dutch": "Ethereum ontvangen",
       "english": "Received Ethereum",
       "french": "Reçu Ethereum",
@@ -159,6 +172,7 @@
       "turkish": "Alınan Ethereum"
     },
     "smartContractAcc": {
+      "amharic": "የስማርት ኮንትራክት አካውንት",
       "dutch": "Slimme contractaccount",
       "english": "Smart Contract Account",
       "french": "Compte de contrat intelligent",
@@ -171,6 +185,7 @@
       "turkish": "Akıllı sözleşme hesabı"
     },
     "tokenContractAddress": {
+      "amharic": "የቶክን ኮንትራት አድራሻ",
       "dutch": "Token contractadres",
       "english": "Token Contract Address",
       "french": "Adresse du contrat de jeton",
@@ -183,6 +198,7 @@
       "turkish": "Token Sözleşme Adresi"
     },
     "tokenId": {
+      "amharic": "የቶክን መለያ (Token ID)",
       "dutch": "Token -ID",
       "english": "Token Id",
       "french": "Identifiant de jeton",
@@ -195,6 +211,7 @@
       "turkish": "Token ID"
     },
     "tokenName": {
+      "amharic": "የቶክን ስም",
       "dutch": "Tokennaam",
       "english": "Token Name",
       "french": "Nom de jeton",
@@ -207,6 +224,7 @@
       "turkish": "Token adı"
     },
     "tokenSymbol": {
+      "amharic": "የቶክን ስም",
       "dutch": "Tokensymbool",
       "english": "Token Symbol",
       "french": "Symbole de jeton",
@@ -219,6 +237,7 @@
       "turkish": "Token sembolü"
     },
     "totalWalletBalance": {
+      "amharic": "ጠቅላላ የዋሌት ሚዛን",
       "dutch": "Totale portemonnee balans",
       "english": "Total Wallet Balance",
       "french": "Équilibre total du portefeuille",
@@ -231,6 +250,7 @@
       "turkish": "Toplam cüzdan bakiyesi"
     },
     "transferredToken": {
+      "amharic": "የተተላለፈ ቶክን",
       "dutch": "Overgedragen token",
       "english": "Transferred token",
       "french": "Jeté transféré",
@@ -243,6 +263,7 @@
       "turkish": "Transfer edilen token"
     },
     "walletConnect": {
+      "amharic": "ዋሌት ኮኔክት",
       "dutch": "Portemonnee verbindt",
       "english": "Wallet Connect",
       "french": "Portefeuille",
@@ -257,6 +278,7 @@
   },
   "moca": {
     "pendingMocaXp": {
+      "amharic": "ጠቅላላ Moca XP",
       "dutch": "Totaal MOCA XP",
       "english": "Total Moca XP",
       "french": "Total MOCA XP",
@@ -269,6 +291,7 @@
       "turkish": "Toplam MOCA XP"
     },
     "totalMocaXp": {
+      "amharic": "ጠቅላላ Moca XP",
       "dutch": "Totaal MOCA XP",
       "english": "Total Moca XP",
       "french": "Total MOCA XP",
@@ -283,6 +306,7 @@
   },
   "portfolio": {
     "addNft": {
+      "amharic": "NFT ያክሉ",
       "dutch": "Voeg NFT toe",
       "english": "Add NFT",
       "french": "Ajouter NFT",
@@ -295,6 +319,7 @@
       "turkish": "NFT ekle"
     },
     "addToken": {
+      "amharic": "ቶክን ያክሉ",
       "dutch": "Token toevoegen",
       "english": "Add Token",
       "french": "Ajouter un jeton",
@@ -307,6 +332,7 @@
       "turkish": "Token ekle"
     },
     "advanced": {
+      "amharic": "የላቀ",
       "dutch": "Geavanceerd",
       "english": "Advanced",
       "french": "Avancé",
@@ -319,6 +345,7 @@
       "turkish": "Gelişmiş"
     },
     "advancedOptions": {
+      "amharic": "የላቀ አማራጮች",
       "dutch": "Geavanceerde mogelijkheden",
       "english": "Advanced options",
       "french": "Options avancées",
@@ -331,6 +358,7 @@
       "turkish": "Gelişmiş seçenekler"
     },
     "all": {
+      "amharic": "ሁሉም",
       "dutch": "Alle",
       "english": "All",
       "french": "Tous",
@@ -343,6 +371,7 @@
       "turkish": "Hepsi"
     },
     "allDates": {
+      "amharic": "ሁሉም ቀኖች",
       "dutch": "Alle datums",
       "english": "All Dates",
       "french": "Toutes les dates",
@@ -355,6 +384,7 @@
       "turkish": "Tüm Tarihler"
     },
     "amount": {
+      "amharic": "መጠን",
       "dutch": "Hoeveelheid",
       "english": "Amount",
       "french": "Montant",
@@ -367,6 +397,7 @@
       "turkish": "Miktar"
     },
     "approvedItem": {
+      "amharic": "{0} ጸድቋል",
       "dutch": "Goedgekeurde {0}",
       "english": "Approved {0}",
       "french": "{0} approuvé",
@@ -379,6 +410,7 @@
       "turkish": "{0} onaylanan"
     },
     "asset": {
+      "amharic": "ንብረት",
       "dutch": "Bezit",
       "english": "Asset",
       "french": "Actif",
@@ -391,6 +423,7 @@
       "turkish": "Varlık"
     },
     "availableBalance": {
+      "amharic": "የሚገኝ ሚዛን",
       "dutch": "beschikbaar saldo",
       "english": "Available Balance",
       "french": "Solde disponible",
@@ -403,6 +436,7 @@
       "turkish": "Mevcut Bakiye"
     },
     "average": {
+      "amharic": "አማካይ",
       "dutch": "Gemiddeld",
       "english": "Average",
       "french": "Moyenne",
@@ -415,6 +449,7 @@
       "turkish": "Ortalama"
     },
     "blockExplorer": {
+      "amharic": "ብሎክ ኤክስፕሎረር",
       "dutch": "Block-explorer",
       "english": "Block-explorer",
       "french": "Banc de blocs",
@@ -427,6 +462,7 @@
       "turkish": "Blok Explorer"
     },
     "buy": {
+      "amharic": "ግዢ",
       "dutch": "Kopen",
       "english": "Buy",
       "french": "Acheter",
@@ -439,6 +475,7 @@
       "turkish": "Al"
     },
     "buyDisableTestnet": {
+      "amharic": "በቴስትኔት ይህ ባህሪ አይገኝም",
       "dutch": "Feature niet beschikbaar op testnet",
       "english": "Feature unavailable on testnet",
       "french": "Fonctionnalité indisponible sur testnet",
@@ -451,6 +488,7 @@
       "turkish": "Özellik testnet'te kullanılamıyor"
     },
     "buySell": {
+      "amharic": "ግዢ/ሽያጭ",
       "dutch": "Kopen verkopen",
       "english": "Buy/Sell",
       "french": "Acheter vendre",
@@ -463,6 +501,7 @@
       "turkish": "Alış veriş"
     },
     "cancel": {
+      "amharic": "ይቅር",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -475,6 +514,7 @@
       "turkish": "İptal etmek"
     },
     "claim": {
+      "amharic": "ይዘዙ",
       "dutch": "Claim",
       "english": "Claim",
       "french": "Réclamer",
@@ -487,6 +527,7 @@
       "turkish": "Talep Et"
     },
     "confirm": {
+      "amharic": "አረጋግጥ",
       "dutch": "Bevestigen",
       "english": "Confirm",
       "french": "Confirmer",
@@ -499,6 +540,7 @@
       "turkish": "Onayla"
     },
     "confirmTxn": {
+      "amharic": "ግብዣ ያረጋግጡ",
       "dutch": "Bevestig transactie",
       "english": "Confirm Transaction",
       "french": "Confirmer la transaction",
@@ -511,6 +553,7 @@
       "turkish": "İşlemi Onayla"
     },
     "contractDeployment": {
+      "amharic": "የኮንትራት መተግበሪያ",
       "dutch": "Contractimplementatie",
       "english": "Contract Deployment",
       "french": "Déploiement du contrat",
@@ -523,6 +566,7 @@
       "turkish": "Sözleşme Dağıtımı"
     },
     "contractInteraction": {
+      "amharic": "የኮንትራት መስተጋብር",
       "dutch": "Contractinteractie",
       "english": "Contract Interaction",
       "french": "Interaction contractuelle",
@@ -535,6 +579,7 @@
       "turkish": "Sözleşme Etkileşimi"
     },
     "copied": {
+      "amharic": "ተቀድቷል",
       "dutch": "Gekopieerd",
       "english": "Copied",
       "french": "Copié",
@@ -547,6 +592,7 @@
       "turkish": "Kopyalandı"
     },
     "coveredByDapp": {
+      "amharic": "በ{0} ይተከላል",
       "dutch": "Bedekt door {0}",
       "english": "Covered by {0}",
       "french": "Couvert par {0}",
@@ -559,6 +605,7 @@
       "turkish": "{0} tarafından kapatılır"
     },
     "creditUsage": {
+      "amharic": "የብድር አጠቃቀም",
       "dutch": "Kredietgebruik",
       "english": "Credit Usage",
       "french": "Utilisation du crédit",
@@ -571,6 +618,7 @@
       "turkish": "Kredi Kullanımı"
     },
     "customizeGasFee": {
+      "amharic": "የጋዝ ክፍያዎን ያስተካክሉ",
       "dutch": "Pas uw gaskosten aan",
       "english": "Customize your gas fee",
       "french": "Personnalisez vos frais de gaz",
@@ -583,6 +631,7 @@
       "turkish": "Gaz Ücretinizi Özelleştirin"
     },
     "description": {
+      "amharic": "መግለጫ",
       "dutch": "Beschrijving",
       "english": "Description",
       "french": "Description",
@@ -595,6 +644,7 @@
       "turkish": "Açıklama"
     },
     "enterRecipientAdd": {
+      "amharic": "የተቀባይ አድራሻ ያስገቡ",
       "dutch": "Voer het adres van de ontvanger in",
       "english": "Enter recipient address",
       "french": "Entrez l'adresse du destinataire",
@@ -607,6 +657,7 @@
       "turkish": "Alıcı Adresi Giriniz"
     },
     "fast": {
+      "amharic": "ፈጣን",
       "dutch": "Snel",
       "english": "Fast",
       "french": "Rapide",
@@ -619,6 +670,7 @@
       "turkish": "Hızlı"
     },
     "featureUnavailableOnNetwork": {
+      "amharic": "በአሁኑ ኔትወርክ ይህ ባህሪ አይገኝም",
       "dutch": "Functie niet beschikbaar op huidig netwerk",
       "english": "Feature unavailable on current network",
       "french": "Fonctionnalité indisponible sur le réseau actuel",
@@ -631,6 +683,7 @@
       "turkish": "Mevcut ağda kullanılamayan özellik"
     },
     "firstTransaction": {
+      "amharic": "የመጀመሪያው ግብዣዎ ብዙ ክፍያ ይጠየቃል ምክንያቱም የስማርት አካውንትዎን ማተከል ይጠይቃል። ቀጣዩ ግብዣዎች ዝቅተኛ ክፍያ ይኖራቸዋል።",
       "dutch": "Uw eerste transactie kost meer omdat het het implementeren van uw smart account betekent. Volgende transacties zullen lagere kosten hebben.",
       "english": "Your first transaction incurs a higher fee as it involves deploying your smart account. Subsequent transactions will have lower fees.",
       "french": "Votre première transaction entraîne un coût supérieur car elle implique le déploiement de votre compte intelligent. Les transactions suivantes auront des coûts inférieurs.",
@@ -643,6 +696,7 @@
       "turkish": "İlk işlem, akıllı hesap dağıtımını içerdiğinden, daha yüksek bir ücretlendirmeye neden olur. Sonraki işlemler, daha düşük ücretlerle hesaplanır."
     },
     "free": {
+      "amharic": "ነፃ",
       "dutch": "Gratis",
       "english": "Free",
       "french": "Gratuit",
@@ -655,6 +709,7 @@
       "turkish": "Bedava"
     },
     "gasLimit": {
+      "amharic": "የጋዝ ገደብ",
       "dutch": "Gasgrens",
       "english": "Gas Limit",
       "french": "Limite de gaz",
@@ -667,6 +722,7 @@
       "turkish": "Jener Gaz Sınırı"
     },
     "gasPrice": {
+      "amharic": "የጋዝ ዋጋ",
       "dutch": "Gaskosten",
       "english": "Gas Price",
       "french": "Prix du gaz",
@@ -679,6 +735,7 @@
       "turkish": "Gaz Ücreti"
     },
     "id": {
+      "amharic": "መታወቂያ (ID)",
       "dutch": "ID kaart",
       "english": "ID",
       "french": "IDENTIFIANT",
@@ -691,6 +748,7 @@
       "turkish": "ID"
     },
     "insufficientAmtMsg": {
+      "amharic": "የጋዝ ክሬዲት ያልተበቃ፣ የዋሌት ሚዛንዎ ለክፍያው ይጠቀማል",
       "dutch": "Onvoldoende gaskrediet, portemonnee saldo wordt gebruikt om kosten te dekken",
       "english": "Insufficient gas credit, wallet balance will be used to cover fee",
       "french": "Crédit de gaz insuffisant, le solde du portefeuille sera utilisé pour couvrir les frais",
@@ -703,6 +761,7 @@
       "turkish": "Gaz Kredisi Yetersiz, Portföy Bakiyesi Kullanılacak"
     },
     "last1Month": {
+      "amharic": "ያለፈው 1 ወር",
       "dutch": "Laatste 1 maand",
       "english": "Last 1 month",
       "french": "1 mois dernier",
@@ -715,6 +774,7 @@
       "turkish": "Son 1 ay"
     },
     "last1Week": {
+      "amharic": "ያለፈው 1 ሳምንት",
       "dutch": "Laatste 1 week",
       "english": "Last 1 week",
       "french": "1 semaine dernière",
@@ -727,6 +787,7 @@
       "turkish": "Son 1 hafta"
     },
     "last6Months": {
+      "amharic": "ያለፈው 6 ወራት",
       "dutch": "Laatste 6 maanden",
       "english": "Last 6 months",
       "french": "6 derniers mois",
@@ -739,6 +800,7 @@
       "turkish": "Son 6 aylar"
     },
     "maxFeePerGas": {
+      "amharic": "ከፍተኛ የጋዝ ክፍያ",
       "dutch": "Maximale kosten per gas",
       "english": "Max Fee Per Gas",
       "french": "Frais maximum par gaz",
@@ -751,6 +813,7 @@
       "turkish": "Maksimum Gaz Ücreti"
     },
     "maxPriorityFee": {
+      "amharic": "ከፍተኛ Priority ክፍያ",
       "dutch": "Maximale prioriteitskosten",
       "english": "Max Priority Fee",
       "french": "Frais de priorité maximale",
@@ -763,6 +826,7 @@
       "turkish": "Maksimum Öncelik Ücreti"
     },
     "maxTxnFee": {
+      "amharic": "ከፍተኛ የግብዣ ክፍያ",
       "dutch": "Max transactiekosten",
       "english": "Max Transaction Fee",
       "french": "Frais de transaction maximale",
@@ -775,6 +839,7 @@
       "turkish": "Maksimum İşlem Ücreti"
     },
     "medium": {
+      "amharic": "መካከለኛ",
       "dutch": "Medium",
       "english": "Medium",
       "french": "Moyen",
@@ -787,6 +852,7 @@
       "turkish": "Orta"
     },
     "next": {
+      "amharic": "ቀጥል",
       "dutch": "Volgende",
       "english": "Next",
       "french": "Suivant",
@@ -799,6 +865,7 @@
       "turkish": "Sonraki"
     },
     "nonce": {
+      "amharic": "Nonce",
       "dutch": "Nonce",
       "english": "Nonce",
       "french": "Nonce",
@@ -811,6 +878,7 @@
       "turkish": "Nonce"
     },
     "ownerEoaAcc": {
+      "amharic": "የባለቤት EOA አካውንት",
       "dutch": "Eigenaar EOA -account",
       "english": "Owner EOA Account",
       "french": "Compte EOA propriétaire",
@@ -823,6 +891,7 @@
       "turkish": "Sahib EOA Hesabı"
     },
     "ownerEoaBalance": {
+      "amharic": "የባለቤት EOA ሚዛን",
       "dutch": "Eigenaar EOA Balans",
       "english": "Owner EOA Balance",
       "french": "Propriétaire EOA Balance",
@@ -835,6 +904,7 @@
       "turkish": "Sahib EOA Bakiye"
     },
     "porcessIn": {
+      "amharic": "በ < {0} ሰከንድ ይሂዱ",
       "dutch": "Proces in <{0} seconden",
       "english": "Process in < {0} seconds",
       "french": "Processus en <{0} secondes",
@@ -847,6 +917,7 @@
       "turkish": "<{0} saniyede işlem"
     },
     "processInLabel": {
+      "amharic": "ተከናውኗል በ",
       "dutch": "Verwerken",
       "english": "Process In",
       "french": "Tracer",
@@ -859,6 +930,7 @@
       "turkish": "İşlem"
     },
     "processTime": {
+      "amharic": "< {0} ሰከንድ",
       "dutch": "<{0} seconden",
       "english": "< {0} seconds",
       "french": "<{0} secondes",
@@ -871,6 +943,7 @@
       "turkish": "<{0} saniye"
     },
     "quantity": {
+      "amharic": "ብዛት",
       "dutch": "Hoeveelheid",
       "english": "Quantity",
       "french": "Quantité",
@@ -883,6 +956,7 @@
       "turkish": "Miktar"
     },
     "rate": {
+      "amharic": "ዋጋ",
       "dutch": "Tarief",
       "english": "Rate",
       "french": "Taux",
@@ -895,6 +969,7 @@
       "turkish": "Oran"
     },
     "receive": {
+      "amharic": "ተቀበል",
       "dutch": "Ontvangen",
       "english": "Receive",
       "french": "Recevoir",
@@ -907,6 +982,7 @@
       "turkish": "Al"
     },
     "received": {
+      "amharic": "ተቀብሏል",
       "dutch": "Ontvangen",
       "english": "Received",
       "french": "Reçu",
@@ -919,6 +995,7 @@
       "turkish": "Alındı"
     },
     "receivedItem": {
+      "amharic": "{0} ተቀብሏል",
       "dutch": "{0} ontvangen",
       "english": "Received {0}",
       "french": "{0} reçu",
@@ -931,6 +1008,7 @@
       "turkish": "{0} alındı"
     },
     "reset": {
+      "amharic": "ዳግም አስጀምር",
       "dutch": "Reset",
       "english": "Reset",
       "french": "Réinitialiser",
@@ -943,6 +1021,7 @@
       "turkish": "Sıfırla"
     },
     "selectAnAsset": {
+      "amharic": "ንብረት ይምረጡ",
       "dutch": "Selecteer een actief",
       "english": "Select an asset",
       "french": "Sélectionnez un actif",
@@ -955,6 +1034,7 @@
       "turkish": "Bir varlık seçin"
     },
     "selectSpeed": {
+      "amharic": "ፍጥነት ይምረጡ",
       "dutch": "Selecteer snelheid",
       "english": "Select Speed",
       "french": "Sélectionner la vitesse",
@@ -967,6 +1047,7 @@
       "turkish": "Hız Seç"
     },
     "selectToken": {
+      "amharic": "ቶክን ይምረጡ",
       "dutch": "Selecteer token",
       "english": "Select Token",
       "french": "Sélectionner le jeton",
@@ -979,6 +1060,7 @@
       "turkish": "Token seçin"
     },
     "send": {
+      "amharic": "ላክ",
       "dutch": "Versturen",
       "english": "Send",
       "french": "Envoyer",
@@ -991,6 +1073,7 @@
       "turkish": "Gönder"
     },
     "sendAll": {
+      "amharic": "ሁሉንም ላክ",
       "dutch": "Verstuur alles",
       "english": "Send All",
       "french": "Envoyer tout",
@@ -1003,6 +1086,7 @@
       "turkish": "Tümü gönder"
     },
     "sendTo": {
+      "amharic": "ወደ ይላኩ",
       "dutch": "Verzenden naar",
       "english": "Send to",
       "french": "Envoyer à",
@@ -1015,6 +1099,7 @@
       "turkish": "Gönder"
     },
     "sendingFrom": {
+      "amharic": "ከ… በመላክ",
       "dutch": "Verzenden van",
       "english": "Sending from",
       "french": "Envoi de",
@@ -1027,6 +1112,7 @@
       "turkish": "Gönderen"
     },
     "sent": {
+      "amharic": "ተልኳል",
       "dutch": "Verstuurd",
       "english": "Sent",
       "french": "Envoyé",
@@ -1039,6 +1125,7 @@
       "turkish": "Gönderildi"
     },
     "sentItem": {
+      "amharic": "{0} ተልኳል",
       "dutch": "{0} verzonden",
       "english": "Sent {0}",
       "french": "{0} envoyé",
@@ -1051,6 +1138,7 @@
       "turkish": "{0} gönderildi"
     },
     "showAllTokens": {
+      "amharic": "ሁሉንም ቶክኖች አሳይ",
       "dutch": "Alle tokens weergeven",
       "english": "Show All Tokens",
       "french": "Afficher tous les jetons",
@@ -1063,6 +1151,7 @@
       "turkish": "Tüm jetonları görüntüle"
     },
     "slow": {
+      "amharic": "ዝም ያለ (ዝቅተኛ ፍጥነት)",
       "dutch": "Langzaam",
       "english": "Slow",
       "french": "Lent",
@@ -1075,6 +1164,7 @@
       "turkish": "Yavaş"
     },
     "submit": {
+      "amharic": "አስገባ",
       "dutch": "Indienen",
       "english": "Submit",
       "french": "Soumettre",
@@ -1087,6 +1177,7 @@
       "turkish": "Göndermek"
     },
     "swap": {
+      "amharic": "መቀየር (Swap)",
       "dutch": "Ruil",
       "english": "Swap",
       "french": "Échanger",
@@ -1099,6 +1190,7 @@
       "turkish": "Değiştir"
     },
     "tokens": {
+      "amharic": "ቶክኖች",
       "dutch": "Munten",
       "english": "Tokens",
       "french": "Jetons",
@@ -1111,6 +1203,7 @@
       "turkish": "Token"
     },
     "top-up": {
+      "amharic": "ተመልሶ ማስገባት (Top-up)",
       "dutch": "Bijvoegen",
       "english": "Top-up",
       "french": "Reprise",
@@ -1123,6 +1216,7 @@
       "turkish": "Toplu"
     },
     "topUp": {
+      "amharic": "ገንዘብ ያትሙ (Top Up)",
       "dutch": "Aanvullen",
       "english": "Top Up",
       "french": "Se débarrasser de",
@@ -1135,6 +1229,7 @@
       "turkish": "Dolu Et"
     },
     "toppedUpAmt": {
+      "amharic": "የተጨመረው መጠን",
       "dutch": "Bedacht bedrag",
       "english": "Topped up amount",
       "french": "Montant complété",
@@ -1147,6 +1242,7 @@
       "turkish": "Toplam Tutarı"
     },
     "totalCost": {
+      "amharic": "ጠቅላላ ወጪ",
       "dutch": "Totale prijs",
       "english": "Total Cost",
       "french": "Coût total",
@@ -1159,6 +1255,7 @@
       "turkish": "Toplam Maliyet"
     },
     "totalEth": {
+      "amharic": "ጠቅላላ Eth",
       "dutch": "Totale ETH",
       "english": "Total Eth",
       "french": "ETH total",
@@ -1171,6 +1268,7 @@
       "turkish": "Toplam ETH"
     },
     "transactionCost": {
+      "amharic": "የግብዣ ወጪ",
       "dutch": "Transactiekosten",
       "english": "Transaction cost",
       "french": "Coût de transaction",
@@ -1183,6 +1281,7 @@
       "turkish": "İşlem Ücreti"
     },
     "transferredAsset": {
+      "amharic": "የተተላለፈ ንብረት",
       "dutch": "Overgedragen activa",
       "english": "Transferred Asset",
       "french": "Actif transféré",
@@ -1195,6 +1294,7 @@
       "turkish": "Varlık aktarıldı"
     },
     "transferredOn": {
+      "amharic": "ተላልፏል በ",
       "dutch": "Overgedragen op",
       "english": "Transferred on",
       "french": "Transféré sur",
@@ -1207,6 +1307,7 @@
       "turkish": "Aktarıldı"
     },
     "transferredToken": {
+      "amharic": "የተተላለፈ ቶክን",
       "dutch": "Overgedragen token",
       "english": "Transferred Token",
       "french": "Jeté transféré",
@@ -1219,6 +1320,7 @@
       "turkish": "Token aktarıldı"
     },
     "txnCost": {
+      "amharic": "የግብዣ ወጪ",
       "dutch": "Transactiekosten",
       "english": "Transaction cost",
       "french": "Coût de transaction",
@@ -1231,6 +1333,7 @@
       "turkish": "İşlem Ücreti"
     },
     "txnFee": {
+      "amharic": "የግብዣ ክፍያ",
       "dutch": "Transactiekosten",
       "english": "Transaction Fee",
       "french": "Frais de transaction",
@@ -1243,6 +1346,7 @@
       "turkish": "İşlem Ücreti"
     },
     "txnHistory": {
+      "amharic": "የግብዣ ታሪክ",
       "dutch": "Transactie Geschiedenis",
       "english": "Transaction History",
       "french": "Historique des transactions",
@@ -1255,6 +1359,7 @@
       "turkish": "İşlem Geçmişi"
     },
     "txnState": {
+      "amharic": "የግብዣ ሁኔታ",
       "dutch": "Transactiestaat",
       "english": "Transaction state",
       "french": "État de transaction",
@@ -1267,6 +1372,7 @@
       "turkish": "İşlem Durumu"
     },
     "type": {
+      "amharic": "አይነት",
       "dutch": "Type",
       "english": "Type",
       "french": "Taper",
@@ -1279,6 +1385,7 @@
       "turkish": "Tip"
     },
     "upTo": {
+      "amharic": "እስከ",
       "dutch": "Tot",
       "english": "Up to",
       "french": "Jusqu'à",
@@ -1291,6 +1398,7 @@
       "turkish": "Kadar"
     },
     "value": {
+      "amharic": "ዋጋ",
       "dutch": "Waarde",
       "english": "Value",
       "french": "Valeur",
@@ -1303,6 +1411,7 @@
       "turkish": "Miktar"
     },
     "viewTransaction": {
+      "amharic": "ግብዣ ይመልከቱ",
       "dutch": "Bekijk transactie",
       "english": "View Transaction",
       "french": "Afficher la transaction",
@@ -1315,6 +1424,7 @@
       "turkish": "İşlemi Görüntüle"
     },
     "yourNfts": {
+      "amharic": "የእርስዎ NFTs",
       "dutch": "Uw NFT's",
       "english": "Your NFTs",
       "french": "Vos NFT",
@@ -1327,6 +1437,7 @@
       "turkish": "Sizin NFT"
     },
     "yourTokens": {
+      "amharic": "የእርስዎ ቶክኖች",
       "dutch": "Uw tokens",
       "english": "Your Tokens",
       "french": "Vos jetons",
@@ -1339,6 +1450,7 @@
       "turkish": "Sizin Token"
     },
     "tempApiDisabled": {
+      "amharic": "የቶክን እና NFT መረጃ ጊዜያዊ ተቋርጧል። ለመመለስ እየሰራን ነው።",
       "english": "Token and NFT information is temporarily unavailable. We are working to restore this functionality.",
       "dutch": "Token en NFT-informatie is tijdelijk niet beschikbaar. We werken aan het herstellen van deze functionaliteit.",
       "french": "Les jetons et NFT sont temporairement indisponibles. Nous travaillons à rétablir cette fonctionnalité.",
@@ -1351,6 +1463,7 @@
       "turkish": "Token ve NFT bilgileri geçici olarak kullanılamıyor. Bu işlevselliği geri yüklemek için çalışıyoruz."
     },
     "addFunds": {
+      "amharic": "ገንዘብ ያክሉ",
       "dutch": "Voeg fondsen toe",
       "english": "Add Funds",
       "french": "Ajouter des fonds",
@@ -1363,6 +1476,7 @@
       "turkish": "Fond ekle"
     },
     "addFundsTitle": {
+      "amharic": "ገንዘብ ያትሙ",
       "dutch": "Voeg fondsen toe",
       "english": "Add funds",
       "french": "Ajouter des fonds",
@@ -1375,6 +1489,7 @@
       "turkish": "Fond ekle"
     },
     "addFundsDesc": {
+      "amharic": "ገንዘብ ለመጨመር ዘዴ ይምረጡ",
       "dutch": "Selecteer een methode om fondsen toe te voegen",
       "english": "Select a method to add funds",
       "french": "Sélectionnez une méthode pour ajouter des fonds",
@@ -1387,6 +1502,7 @@
       "turkish": "Fond ekleme yöntemi seçin"
     },
     "payWithCard": {
+      "amharic": "በካርድ ይክፈሉ",
       "dutch": "Betaal met kaart",
       "english": "Pay with card",
       "french": "Payer avec carte",
@@ -1399,6 +1515,7 @@
       "turkish": "Kart ile ödeme"
     },
     "receiveFundsViaQR": {
+      "amharic": "በQR ገንዘብ ይቀበሉ",
       "dutch": "Ontvang fondsen via QR",
       "english": "Receive funds via QR",
       "french": "Recevoir des fonds via QR",
@@ -1411,6 +1528,7 @@
       "turkish": "QR ile fon ekle"
     },
     "receiveFundsTitle": {
+      "amharic": "የኔ QR ኮድ",
       "dutch": "Mijn QR Code",
       "english": "My QR Code",
       "french": "Mon code QR",
@@ -1423,6 +1541,7 @@
       "turkish": "Benim QR kodum"
     },
     "receiveFundsDesc": {
+      "amharic": "ይህንን አካውንት ገንዘብ ለመላክ QR ኮዱን ይስክኑ ወይም አድራሻውን ይቅዱ",
       "dutch": "Scan QR code of kopieer adres om fondsen naar deze account te overdragen.",
       "english": "Scan QR code or copy address to transfer funds to this account.",
       "french": "Scannez le code QR ou copiez l'adresse pour transférer des fonds vers ce compte.",
@@ -1435,6 +1554,7 @@
       "turkish": "QR kodu tarayın veya adresi kopyalayın, para bu hesaba transfer edilsin."
     },
     "receiveFundsDescSmartAcc": {
+      "amharic": "ይህ የስማርት አካውንት ዋሌት ነው",
       "dutch": "Dit is een smart account wallet.",
       "english": "This is a smart account wallet.",
       "french": "C'est un compte smart wallet.",
@@ -1447,6 +1567,7 @@
       "turkish": "Bu, bir akıllı hesap cüzdanıdır."
     },
     "copyWalletAddress": {
+      "amharic": "የዋሌት አድራሻ ቅዳ",
       "dutch": "Kopieer walletadres",
       "english": "Copy wallet address",
       "french": "Copier l'adresse de portefeuille",
@@ -1459,6 +1580,7 @@
       "turkish": "Cüzdan adresini kopyala"
     },
     "downloadQRCode": {
+      "amharic": "QR ኮድ አውርድ",
       "dutch": "Download QR code",
       "english": "Download QR code",
       "french": "Télécharger le code QR",
@@ -1581,6 +1703,7 @@
   },
   "qrCode": {
     "myQrCode": {
+      "amharic": "የኔ QR ኮድ",
       "dutch": "Mijn QR -code",
       "english": "My QR Code",
       "french": "Mon code QR",
@@ -1595,6 +1718,7 @@
   },
   "settings": {
     "account": {
+      "amharic": "አካውንት",
       "dutch": "Rekening",
       "english": "Account",
       "french": "Compte",
@@ -1607,6 +1731,7 @@
       "turkish": "Hesap"
     },
     "addAccount": {
+      "amharic": "አካውንት ያክሉ",
       "dutch": "Account toevoegen",
       "english": "Add Account",
       "french": "Ajouter un compte",
@@ -1619,6 +1744,7 @@
       "turkish": "Hesap ekle"
     },
     "addContact": {
+      "amharic": "ኮንታክት ያክሉ",
       "dutch": "Voeg contact toe",
       "english": "Add Contact",
       "french": "Ajouter le contact",
@@ -1631,6 +1757,7 @@
       "turkish": "Kişi ekle"
     },
     "addCustomNetwork": {
+      "amharic": "ብጁ ኔትወርክ ያክሉ",
       "dutch": "Voeg een aangepast netwerk toe",
       "english": "Add Custom Network",
       "french": "Ajouter un réseau personnalisé",
@@ -1643,6 +1770,7 @@
       "turkish": "Özel ağ ekle"
     },
     "addNewContact": {
+      "amharic": "አዲስ ኮንታክት ያክሉ",
       "dutch": "Voeg nieuw contact toe",
       "english": "Add New Contact",
       "french": "Ajouter un nouveau contact",
@@ -1655,6 +1783,7 @@
       "turkish": "Yeni kişi ekle"
     },
     "address": {
+      "amharic": "አድራሻ",
       "dutch": "Adres",
       "english": "Address",
       "french": "Adresse",
@@ -1667,6 +1796,7 @@
       "turkish": "Adres"
     },
     "appearance": {
+      "amharic": "አቀማመጥ",
       "dutch": "Verschijning",
       "english": "Appearance",
       "french": "Apparence",
@@ -1679,6 +1809,7 @@
       "turkish": "Görünüm"
     },
     "appearanceDesc": {
+      "amharic": "የጨለማ ሁነታ መብራት/መጥፋት",
       "dutch": "Schakel de donkere modus in of uit",
       "english": "Enable or disable Dark mode",
       "french": "Activer ou désactiver le mode sombre",
@@ -1691,6 +1822,7 @@
       "turkish": "Koyu modu etkinleştirmek veya devre dışı bırakmak"
     },
     "browserNotification": {
+      "amharic": "የብራውዘር ማሳወቂያዎች",
       "dutch": "Browsermeldingen",
       "english": "Browser notifications",
       "french": "Notifications de navigateur",
@@ -1703,6 +1835,7 @@
       "turkish": "Tarayıcı bildirimleri"
     },
     "contactDesc": {
+      "amharic": "የአድራሻ ደብተር፣ ኮንታክቶች ያክሉ",
       "dutch": "Adresboek, contacten toevoegen",
       "english": "Address book, Add contacts",
       "french": "Carnet d'adresses, ajouter des contacts",
@@ -1715,6 +1848,7 @@
       "turkish": "Adres defteri, kişileri ekle"
     },
     "contacts": {
+      "amharic": "ኮንታክቶች",
       "dutch": "Contacten",
       "english": "Contacts",
       "french": "Contacts",
@@ -1727,6 +1861,7 @@
       "turkish": "Kişiler"
     },
     "copied": {
+      "amharic": "ተቀድቷል",
       "dutch": "Gekopieerd",
       "english": "Copied",
       "french": "Copié",
@@ -1739,6 +1874,7 @@
       "turkish": "Kopyalandı"
     },
     "copy": {
+      "amharic": "ቅጂ",
       "dutch": "Kopiëren",
       "english": "Copy",
       "french": "Copie",
@@ -1751,6 +1887,7 @@
       "turkish": "Kopyala"
     },
     "copyAddress": {
+      "amharic": "አድራሻ ቅዳ",
       "dutch": "Kopieeradres",
       "english": "Copy Address",
       "french": "Copier l'adresse",
@@ -1763,6 +1900,7 @@
       "turkish": "Adresi kopyala"
     },
     "copyPrivateKey": {
+      "amharic": "የግል ቁልፍ ቅዳ",
       "dutch": "Kopieer privésleutel",
       "english": "Copy Private Key",
       "french": "Copier la clé privée",
@@ -1775,6 +1913,7 @@
       "turkish": "Özel Anahtarı Kopyala"
     },
     "currency": {
+      "amharic": "ገንዘብ",
       "dutch": "Munteenheid",
       "english": "Currency",
       "french": "Devise",
@@ -1787,6 +1926,7 @@
       "turkish": "Para birimi"
     },
     "custom": {
+      "amharic": "ብጁ",
       "dutch": "Aangepast",
       "english": "Custom",
       "french": "Coutume",
@@ -1799,6 +1939,7 @@
       "turkish": "Gelenek"
     },
     "dark": {
+      "amharic": "ጨለማ",
       "dutch": "Donker",
       "english": "Dark",
       "french": "Sombre",
@@ -1811,6 +1952,7 @@
       "turkish": "Koyu"
     },
     "defaultAccount": {
+      "amharic": "ነባር አካውንት",
       "dutch": "Standaardaccount",
       "english": "Default account",
       "french": "Compte par défaut",
@@ -1823,6 +1965,7 @@
       "turkish": "Varsayılan hesap"
     },
     "delete": {
+      "amharic": "አስወግድ",
       "dutch": "Verwijderen",
       "english": "Delete",
       "french": "Supprimer",
@@ -1835,6 +1978,7 @@
       "turkish": "Sil"
     },
     "devMsg": {
+      "amharic": "ይህ ለልማት ቅንብር ሲሆን ለሙከራ እና የላቀ ጥቅም ብቻ ነው። የትኛው እንደሚያደርጉት ካልተረዳችሁ እነዚህን ቅንብሮች መቀየር ይቆጠብ።",
       "dutch": "Dit is een ontwikkelaarsinstelling en bedoeld voor testen en geavanceerd gebruik. Verander deze instellingen niet als u niet bekend bent met hun doel.",
       "english": "This is a developer setting and meant for testing and advanced usage. Avoid changing these settings if you're not familiar with their purpose.",
       "french": "Il s'agit d'un paramètre de développeur et destiné aux tests et à l'utilisation avancée. Évitez de changer ces paramètres si vous n'êtes pas familier avec leur objectif.",
@@ -1847,6 +1991,7 @@
       "turkish": "Bu geliştirici ayarı ve test ve gelişmiş kullanım için tasarlanmıştır. Bu ayarları değiştirmeyi bilmiyorsanız, bunları değiştirmeyin."
     },
     "downloadSoftCopy": {
+      "amharic": "ሶፍት ቅጂ (JSON) አውርድ",
       "dutch": "Download Soft Copy (JSON)",
       "english": "Download Soft copy (JSON)",
       "french": "Télécharger Soft Copy (JSON)",
@@ -1859,6 +2004,7 @@
       "turkish": "Ince ince (JSON) indir"
     },
     "edit": {
+      "amharic": "አርትዕ",
       "dutch": "Bewerking",
       "english": "Edit",
       "french": "Modifier",
@@ -1871,6 +2017,7 @@
       "turkish": "Düzenle"
     },
     "editCustomNetwork": {
+      "amharic": "ብጁ ኔትወርክ አርትዕ",
       "dutch": "Bewerk aangepast netwerk",
       "english": "Edit Custom Network",
       "french": "Modifier le réseau personnalisé",
@@ -1883,6 +2030,7 @@
       "turkish": "Özel ağ düzenle"
     },
     "emailNotification": {
+      "amharic": "የኢሜይል ማሳወቂያዎች",
       "dutch": "E-mail notificaties",
       "english": "Email notifications",
       "french": "Notifications par email",
@@ -1895,6 +2043,7 @@
       "turkish": "E-posta bildirimleri"
     },
     "enableEmailNotificationMsg": {
+      "amharic": "በTorus ዋሌት ግብዣዎች ላይ የሚመጡ ሁሉንም የኢሜይል ማሳወቂያዎች ለመቀበል ይነቃቁ",
       "dutch": "Schakel dit in om alle e -mailmeldingen met betrekking tot transacties in uw Torus -portemonnee te krijgen.",
       "english": "Enable this to get all email notification related to transactions in your Torus Wallet.",
       "french": "Activez ceci pour obtenir toute la notification par e-mail liée aux transactions dans votre portefeuille Torus.",
@@ -1907,6 +2056,7 @@
       "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tüm e-posta bildirimlerini almak için bu seçeneği etkinleştirin."
     },
     "enableInAppNotificationMsg": {
+      "amharic": "በTorus ዋሌት ውስጥ በመተግበሪያ የሚመጡ ሁሉንም ማሳወቂያዎች ለመቀበል ይነቃቁ",
       "dutch": "Schakel dit in om alle in-app-meldingen met betrekking tot transacties in uw Torus-portemonnee te krijgen.",
       "english": "Enable this to get all in-app notifications related to transactions in your Torus wallet.",
       "french": "Activez ceci pour obtenir toutes les notifications intégrées à l'application liées aux transactions dans votre portefeuille Torus.",
@@ -1919,6 +2069,7 @@
       "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tüm uygulama içi bildirimlerini almak için bu seçeneği etkinleştirin."
     },
     "enableNetworksMsg": {
+      "amharic": "ቴስት ኔትወርኮችን ለማየት ይነቃቁ",
       "dutch": "Schakel testnetwerken in",
       "english": "Enable to see test networks",
       "french": "Permettre de voir les réseaux de test",
@@ -1931,6 +2082,7 @@
       "turkish": "Test ağlarını görmek için etkinleştirin"
     },
     "enableNotificationMsg": {
+      "amharic": "በTorus ዋሌት ግብዣዎች ላይ የብራውዘር ማሳወቂያዎችን ለመቀበል ይነቃቁ",
       "dutch": "Schakel dit in om browsermeldingen te krijgen met betrekking tot transacties in uw Torus -portemonnee.",
       "english": "Enable this to get browser notifications related to transactions in your Torus wallet.",
       "french": "Activez ceci pour obtenir des notifications de navigateur liées aux transactions dans votre portefeuille Torus.",
@@ -1943,6 +2095,7 @@
       "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tarayıcı bildirimlerini almak için bu seçeneği etkinleştirin."
     },
     "enterBlockExplorer": {
+      "amharic": "የብሎክ ኤክስፕሎረር URL ያስገቡ (አማራጭ)",
       "dutch": "Voer Block Explorer URL in (optioneel)",
       "english": "Enter Block Explorer URL (optional)",
       "french": "Entrez l'URL de l'explorateur de blocs (facultatif)",
@@ -1955,6 +2108,7 @@
       "turkish": "Blok Explorer URL giriniz (opsiyonel)"
     },
     "enterChainId": {
+      "amharic": "የቻይን ID ያስገቡ",
       "dutch": "Voer ketting -ID in",
       "english": "Enter Chain ID",
       "french": "Entrez la chaîne ID",
@@ -1967,6 +2121,7 @@
       "turkish": "Ket ID giriniz"
     },
     "enterContactsName": {
+      "amharic": "የኮንታክት ስም ያስገቡ",
       "dutch": "Voer de naam van Contact in",
       "english": "Enter contact's name",
       "french": "Entrez le nom du contact",
@@ -1979,6 +2134,7 @@
       "turkish": "Kişi ismi girin"
     },
     "enterEthAddress": {
+      "amharic": "የETH አድራሻ ያስገቡ",
       "dutch": "Voer het adres van ETH in",
       "english": "Enter ETH's address",
       "french": "Entrez l'adresse de Eth",
@@ -1991,6 +2147,7 @@
       "turkish": "ETH adresini girin"
     },
     "enterNetworkName": {
+      "amharic": "የኔትወርክ ስም ያስገቡ",
       "dutch": "Voer de netwerknaam in",
       "english": "Enter Network Name",
       "french": "Entrez le nom du réseau",
@@ -2003,6 +2160,7 @@
       "turkish": "Ağ adı giriniz"
     },
     "enterRpc": {
+      "amharic": "RPC URL ያስገቡ",
       "dutch": "Voer RPC URL in",
       "english": "Enter RPC URL",
       "french": "Entrez l'URL du RPC",
@@ -2015,6 +2173,7 @@
       "turkish": "RPC URL giriniz"
     },
     "enterSymbol": {
+      "amharic": "ምልክት ያስገቡ (አማራጭ)",
       "dutch": "Voer symbool in (optioneel)",
       "english": "Enter Symbol (optional)",
       "french": "Entrez le symbole (facultatif)",
@@ -2027,6 +2186,7 @@
       "turkish": "Sembol giriniz (opsiyonel)"
     },
     "errors-invalid-password": {
+      "amharic": "ቢያንስ 10 ቁምፊ መያዝ አለበት፣ ቢያንስ አንድ ትልቅ ፊደል፣ አንድ ትንሽ ፊደል፣ አንድ ቁጥር መካተት አለበት",
       "dutch": "Moet ten minste 10 tekens bevatten. Ten minste één hoofdletter, één kleine letter, één cijfer",
       "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
       "french": "Doit contenir au moins 10 caractères. Au moins une lettre majuscule, une lettre minuscule, un nombre",
@@ -2039,6 +2199,7 @@
       "turkish": "En az 10 karakter içermelidir. En az bir büyük harf, bir küçük harf ve bir sayı"
     },
     "exportAaNoteDesc": {
+      "amharic": "የተጨማሪ ደህንነት ለማቅረብ፣ ይህ EOA ቁልፍ ከስማርት ኮንትራክት አካውንትዎ ጋር ተያይዞ ነው",
       "dutch": "Voor extra beveiliging is deze EOA sleutel gekoppeld aan uw smart contract account voor beveiligingsdoeleinden.",
       "english": "For added security, this EOA key is linked to your smart contract account for security purposes.",
       "french": "Pour une sécurité supplémentaire, cette clé EOA est liée à votre smart contract account pour des raisons de sécurité.",
@@ -2051,6 +2212,7 @@
       "turkish": "Güvenliği artırmak için, bu EOA anahtarı güvenlik amacıyla smart contract account'nızla bağlanmıştır."
     },
     "exportAaNoteTitle": {
+      "amharic": "ይህ የስማርት ኮንትራክት አካውንት ነው",
       "dutch": "Dit is een Smart Contract Account.",
       "english": "This is a Smart Contract Account.",
       "french": "C'est un Smart Contract Account.",
@@ -2063,6 +2225,7 @@
       "turkish": "Bu, Smart Contract Account'dir."
     },
     "general": {
+      "amharic": "አጠቃላይ",
       "dutch": "Algemeen",
       "english": "General",
       "french": "Général",
@@ -2075,6 +2238,7 @@
       "turkish": "Genel"
     },
     "generalDesc": {
+      "amharic": "ኔትወርክ፣ ቋንቋ፣ ገንዘብ ወዘተ",
       "dutch": "Netwerk, taal, valuta enz.,",
       "english": "Network, Language, Currency etc.,",
       "french": "Réseau, langue, devise, etc.,",
@@ -2087,6 +2251,7 @@
       "turkish": "Ağ, dil, para birimi vs."
     },
     "hidePrivateKey": {
+      "amharic": "የግል ቁልፍ ደብቅ",
       "dutch": "Verberg de privésleutel",
       "english": "Hide Private Key",
       "french": "Masquer la clé privée",
@@ -2099,6 +2264,7 @@
       "turkish": "Gizli anahtarı gizle"
     },
     "import": {
+      "amharic": "አስመጣ",
       "dutch": "Importeren",
       "english": "Import",
       "french": "Importer",
@@ -2111,6 +2277,7 @@
       "turkish": "İçeri aktar"
     },
     "importAcc": {
+      "amharic": "አካውንት አስመጣ",
       "dutch": "Importrekening",
       "english": "Import Account",
       "french": "Compte d'importation",
@@ -2123,6 +2290,7 @@
       "turkish": "Hesap içeri aktarma"
     },
     "importError": {
+      "amharic": "ነገር ተሳስቷል፣ እባክዎ የኮንሶል መዝገቦችን ይመልከቱ",
       "dutch": "Er is iets misgegaan, controleer de consologogels",
       "english": "Something went wrong, please check console logs",
       "french": "Quelque chose s'est mal passé, veuillez vérifier les journaux de la console",
@@ -2135,6 +2303,7 @@
       "turkish": "Bir şeyler yanlış gitti, lütfen konsola günlüklerini kontrol edin"
     },
     "inAppNotification": {
+      "amharic": "በመተግበሪያ ውስጥ ማሳወቂያዎች",
       "dutch": "In-app-meldingen",
       "english": "In-app notifications",
       "french": "Notifications intégrées",
@@ -2147,6 +2316,7 @@
       "turkish": "Uygulama içi bildirimler"
     },
     "inputPassword": {
+      "amharic": "እባክዎ የይለፍ ቃል ያስገቡ",
       "dutch": "Voer het wachtwoord in",
       "english": "Please input password",
       "french": "Veuillez saisir le mot de passe",
@@ -2159,6 +2329,7 @@
       "turkish": "Lütfen şifreyi girin"
     },
     "inputPrivKey": {
+      "amharic": "የግል ቁልፍ ያስገቡ",
       "dutch": "Invoer privésleutel",
       "english": "Input Private Key",
       "french": "Entrez la clé privée",
@@ -2171,6 +2342,7 @@
       "turkish": "Gizli anahtarı gir"
     },
     "invalidHex": {
+      "amharic": "የተሳሳተ የhexadecimal ቁጥር",
       "dutch": "Ongeldige hexadecimale nummer.",
       "english": "Invalid hexadecimal number.",
       "french": "Nombre hexadécimal non valide.",
@@ -2183,6 +2355,7 @@
       "turkish": "Geçersiz onaltılık sayı."
     },
     "language": {
+      "amharic": "ቋንቋ",
       "dutch": "Taal",
       "english": "Language",
       "french": "Langue",
@@ -2195,6 +2368,7 @@
       "turkish": "Dil"
     },
     "light": {
+      "amharic": "ብርሃን",
       "dutch": "Licht",
       "english": "Light",
       "french": "Lumière",
@@ -2207,6 +2381,7 @@
       "turkish": "Aydınlık"
     },
     "listOfContacts": {
+      "amharic": "የኮንታክቶች ዝርዝር",
       "dutch": "Lijst met contacten",
       "english": "List of contacts",
       "french": "Liste de contacts",
@@ -2219,6 +2394,7 @@
       "turkish": "Kişiler listesi"
     },
     "network": {
+      "amharic": "ኔትወርክ",
       "dutch": "Netwerk",
       "english": "Network",
       "french": "Réseau",
@@ -2231,6 +2407,7 @@
       "turkish": "Ağ"
     },
     "networkAddFail": {
+      "amharic": "ብጁ ኔትወርክ መጨመር አልተቻለም",
       "dutch": "Kan geen aangepast netwerk toevoegen",
       "english": "Unable to add custom network",
       "french": "Impossible d'ajouter un réseau personnalisé",
@@ -2243,6 +2420,7 @@
       "turkish": "Özel ağ eklenemedi"
     },
     "networkAddSuccess": {
+      "amharic": "ብጁ ኔትወርክ ተጨምሯል",
       "dutch": "Succesvol aangepast netwerk toegevoegd",
       "english": "Successfully added custom network",
       "french": "Ajout de réseau personnalisé avec succès",
@@ -2255,6 +2433,7 @@
       "turkish": "Özel ağ başarıyla eklendi"
     },
     "networkDeleteFail": {
+      "amharic": "ብጁ ኔትወርክ መሰረዝ አልተቻለም",
       "dutch": "Kan het aangepaste netwerk niet verwijderen",
       "english": "Unable to delete custom network",
       "french": "Impossible de supprimer le réseau personnalisé",
@@ -2267,6 +2446,7 @@
       "turkish": "Özel ağ silinemedi"
     },
     "networkDeleteSuccess": {
+      "amharic": "ብጁ ኔትወርክ ተሰርዟል",
       "dutch": "Met succes verwijderd aangepast netwerk",
       "english": "Successfully deleted custom network",
       "french": "Réseau personnalisé supprimé avec succès",
@@ -2279,6 +2459,7 @@
       "turkish": "Özel ağ başarıyla silindi"
     },
     "networkNameExists": {
+      "amharic": "የኔትወርክ ስም 벌ጥ ተጠቃሚ ነው (already exists)",
       "dutch": "Netwerknaam bestaat al",
       "english": "Network name already exists",
       "french": "Le nom du réseau existe déjà",
@@ -2291,6 +2472,7 @@
       "turkish": "Ağ adı zaten mevcut"
     },
     "networkUpdateFail": {
+      "amharic": "ብጁ ኔትወርክ መጨመር አልተቻለም",
       "dutch": "Kan geen aangepast netwerk toevoegen",
       "english": "Unable to add custom network",
       "french": "Impossible d'ajouter un réseau personnalisé",
@@ -2303,6 +2485,7 @@
       "turkish": "Özel ağ eklenemedi"
     },
     "networkUpdateSuccess": {
+      "amharic": "ብጁ ኔትወርክ ተዘምኗል",
       "dutch": "Succesvol bijgewerkt aangepast netwerk",
       "english": "Successfully updated custom network",
       "french": "Réseau personnalisé mis à jour avec succès",
@@ -2315,6 +2498,7 @@
       "turkish": "Özel ağ başarıyla güncellendi"
     },
     "notification": {
+      "amharic": "ማሳወቂያዎች",
       "dutch": "Meldingen",
       "english": "Notifications",
       "french": "Notifications",
@@ -2327,6 +2511,7 @@
       "turkish": "Bildirimler"
     },
     "notificationDesc": {
+      "amharic": "ማሳወቂያዎችን መነሻ/መጥፋት",
       "dutch": "Meldingen inschakelen en uitschakelen",
       "english": "Enable and disable notifications",
       "french": "Activer et désactiver les notifications",
@@ -2339,6 +2524,7 @@
       "turkish": "Bildirimleri etkinleştirmek ve devre dışı bırakmak"
     },
     "privKeyDesc": {
+      "amharic": "የግል ቁልፍ (አውርድ ወይም ቅዳ)",
       "dutch": "Privésleutel (downloaden of kopiëren)",
       "english": "Private key (Download or copy)",
       "french": "Clé privée (télécharger ou copier)",
@@ -2351,6 +2537,7 @@
       "turkish": "Gizli anahtar (indir veya kopyala)"
     },
     "privacyAndSecurity": {
+      "amharic": "ግላዊነት እና ደህንነት",
       "dutch": "Privacy en beveiliging",
       "english": "Privacy and security",
       "french": "Confidentialité et sécurité",
@@ -2363,6 +2550,7 @@
       "turkish": "Gizlilik ve güvenlik"
     },
     "privateKey": {
+      "amharic": "የግል ቁልፍ",
       "dutch": "Privésleutel",
       "english": "Private Key",
       "french": "Clé privée",
@@ -2375,6 +2563,7 @@
       "turkish": "Gizli anahtar"
     },
     "profile": {
+      "amharic": "ዋሌቶችን ያቀናብሩ",
       "dutch": "Beheer portefeuilles",
       "english": "Manage Wallets",
       "french": "Gérer les portefeuilles",
@@ -2387,6 +2576,7 @@
       "turkish": "Cüzdanları yönet"
     },
     "profileDesc": {
+      "amharic": "ነባር ዋሌት፣ ዋሌት አስመጣ ወዘተ",
       "dutch": "Standaard portemonnee, portemonnee enz. Importeren,",
       "english": "Default wallet, Import wallet etc.,",
       "french": "Portefeuille par défaut, portefeuille d'importation, etc.,",
@@ -2399,6 +2589,7 @@
       "turkish": "Varsayılan cüzdan, içe aktarma cüzdanı vs."
     },
     "recoveryKit": {
+      "amharic": "የመልሶ ማግኛ መሣሪያ",
       "dutch": "Herstelkit",
       "english": "Recovery Kit",
       "french": "Kit de récupération",
@@ -2411,6 +2602,7 @@
       "turkish": "Kurtarma Kiti"
     },
     "save": {
+      "amharic": "አስቀምጥ",
       "dutch": "Redden",
       "english": "Save",
       "french": "Sauvegarder",
@@ -2423,6 +2615,7 @@
       "turkish": "Kaydet"
     },
     "selectDefaultCurrency": {
+      "amharic": "ነባር ገንዘብ ይምረጡ",
       "dutch": "Selecteer standaardvaluta",
       "english": "Select Default Currency",
       "french": "Sélectionnez la devise par défaut",
@@ -2435,6 +2628,7 @@
       "turkish": "Varsayılan para birimi seç"
     },
     "selectDefaultLang": {
+      "amharic": "ነባር ቋንቋ ይምረጡ",
       "dutch": "Selecteer Standaardtaal",
       "english": "select Default Language",
       "french": "Sélectionnez la langue par défaut",
@@ -2447,6 +2641,7 @@
       "turkish": "Varsayılan dil seç"
     },
     "selectDefaultNetwork": {
+      "amharic": "ነባር ኔትወርክ ይምረጡ",
       "dutch": "Selecteer Standaardnetwerk",
       "english": "Select Default Network",
       "french": "Sélectionnez le réseau par défaut",
@@ -2459,6 +2654,7 @@
       "turkish": "Varsayılan ağı seçin"
     },
     "selectImportType": {
+      "amharic": "የአስመጣ ዓይነት ይምረጡ",
       "dutch": "Selecteer het type import",
       "english": "Select Import Type",
       "french": "Sélectionnez le type d'importation",
@@ -2471,6 +2667,7 @@
       "turkish": "İçeri aktarma türü seç"
     },
     "showPrivateKey": {
+      "amharic": "የግል ቁልፍ አሳይ",
       "dutch": "Toon privésleutel",
       "english": "Show Private Key",
       "french": "Afficher la clé privée",
@@ -2483,6 +2680,7 @@
       "turkish": "Gizli anahtarı göster"
     },
     "showQr": {
+      "amharic": "QR አሳይ",
       "dutch": "Toon QR",
       "english": "Show QR",
       "french": "Montrer QR",
@@ -2495,6 +2693,7 @@
       "turkish": "QR'yi göster"
     },
     "switchAccount": {
+      "amharic": "አካውንት ቀይር",
       "dutch": "Verwissel van profiel",
       "english": "Switch Account",
       "french": "Changer de compte",
@@ -2507,6 +2706,7 @@
       "turkish": "Hesap değiştir"
     },
     "switchNetwork": {
+      "amharic": "ኔትወርክ ቀይር",
       "dutch": "Wisselnetwerk",
       "english": "Switch Network",
       "french": "Réseau de commutation",
@@ -2519,6 +2719,7 @@
       "turkish": "Ağ değiştir"
     },
     "system": {
+      "amharic": "ሲስተም",
       "dutch": "Systeem",
       "english": "System",
       "french": "Système",
@@ -2531,6 +2732,7 @@
       "turkish": "Sistem"
     },
     "testNetworks": {
+      "amharic": "ተመን ኔትወርክ (Test Networks)",
       "dutch": "Testnetwerken",
       "english": "Test networks",
       "french": "Réseaux de test",
@@ -2543,6 +2745,7 @@
       "turkish": "Test ağları"
     },
     "yourAcc": {
+      "amharic": "ሌሎች አካውንቶች",
       "dutch": "Andere accounts",
       "english": "Other accounts",
       "french": "Autres comptes",
@@ -2557,6 +2760,7 @@
   },
   "widget": {
     "openWallet": {
+      "amharic": "ዋሌት ክፈት",
       "dutch": "Open portemonnee",
       "english": "Open Wallet",
       "french": "Portefeuille ouvert",
@@ -2569,6 +2773,7 @@
       "turkish": "Açık cüzdan"
     },
     "walletBalance": {
+      "amharic": "የዋሌት ሚዛን",
       "dutch": "Portemonnee",
       "english": "Wallet balance",
       "french": "Équilibre du portefeuille",

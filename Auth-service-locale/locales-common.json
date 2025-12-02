@@ -1,6 +1,7 @@
 {
   "account": {
     "auth-factors-password-confirm": {
+      "amharic": "የይለፍ ቃልዎን እንደገና ያስገቡ",
       "dutch": "Voer uw wachtwoord opnieuw in",
       "english": "Re-enter your password",
       "french": "Re-entrez votre mot de passe",
@@ -13,6 +14,7 @@
       "turkish": "Şifrenizi yeniden girin"
     },
     "auth-factors-password-set": {
+      "amharic": "የይለፍ ቃልዎን ያቀናብሩ",
       "dutch": "Stel je wachtwoord in",
       "english": "Set your password",
       "french": "Définissez votre mot de passe",
@@ -25,6 +27,7 @@
       "turkish": "Şifrenizi belirleyin"
     },
     "mpc-auth-factors-recovery-phrase": {
+      "amharic": "መልሶ ማግኛ ፋክተር",
       "dutch": "Herstelfactor",
       "english": "Recovery factor",
       "french": "Facteur de récupération",
@@ -37,6 +40,7 @@
       "turkish": "Kurtarma faktörü"
     },
     "password-requirement": {
+      "amharic": "የይለፍ ቃል መስፈርቶች፦",
       "dutch": "Wachtwoordvereisten:",
       "english": "Password requirements:",
       "french": "Exigences relatives au mot de passe :",
@@ -49,6 +53,7 @@
       "turkish": "Şifre gereksinimleri:"
     },
     "password-requirement-10-char": {
+      "amharic": "ቢያንስ 10 ቁምፊ (እስከ 100 ቁምፊ)",
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
       "english": "At least 10 characters (and up to 100 characters)",
       "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
@@ -61,6 +66,7 @@
       "turkish": "En az 10 karakter (ve en fazla 100 karakter)"
     },
     "password-requirement-10-char2": {
+      "amharic": "ቢያንስ 10 ቁምፊ ርዝመት",
       "dutch": "Minimaal 10 tekens lang",
       "english": "Minimum 10 characters long",
       "french": "Minimum 10 caractères",
@@ -73,6 +79,7 @@
       "turkish": "Minimum 10 karakter uzunluğunda"
     },
     "password-requirement-desc": {
+      "amharic": "እነዚህ መስፈርቶች እንዲፈጸሙ ያረጋግጡ፦",
       "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
       "english": "Ensure that these requirements are met:",
       "french": "Assurez-vous que ces exigences sont respectées :",
@@ -85,6 +92,7 @@
       "turkish": "Bu gerekliliklerin karşılandığından emin olun:"
     },
     "password-requirement-lowercase": {
+      "amharic": "እነዚህ መስፈርቶች እንዲፈጸሙ ያረጋግጡ፦",
       "dutch": "Minstens één kleine letter vereist",
       "english": "At least one lowercase character",
       "french": "Au moins un caractère en minuscule",
@@ -97,6 +105,7 @@
       "turkish": "En az bir küçük harf"
     },
     "password-requirement-specialchar": {
+      "amharic": "ቢያንስ አንድ ልዩ ባህሪ ይዟል ( ! @ # ? )",
       "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
       "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
       "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
@@ -109,6 +118,7 @@
       "turkish": "En az bir özel karakterin dahil edilmesi, örneğin, {'! @ # ?'}"
     },
     "password-requirement-specialchar2": {
+      "amharic": "ከእነዚህ ልዩ ባህሪዎች ቢያንስ አንድ ይዟል (!@#?)",
       "dutch": "Ten minste één van deze speciale tekens bevatten{'(!@#?)'}",
       "english": "Contain at least one of these special characters{'(!@#?)'}",
       "french": "Contenir au moins un de ces caractères spéciaux {'(!@#?)'}",
@@ -121,6 +131,7 @@
       "turkish": "Bu özel karakterlerden en az birini içerir{'(!@#?)'}"
     },
     "password-requirement-upercase": {
+      "amharic": "ቢያንስ አንድ ትልቅ ፊደል",
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
       "english": "At least one uppercase character",
       "french": "Au moins un caractère en majuscule",
@@ -133,6 +144,7 @@
       "turkish": "En az bir büyük harf"
     },
     "password-requirement-upperlowercase": {
+      "amharic": "ትልቅና ትንሽ ፊደሎች ተዋሃዶ ይኖሩ",
       "dutch": "Gebruik zowel hoofdletters als kleine letters",
       "english": "Include both uppercase and lowercase letters",
       "french": "Inclure les lettres majuscules et minuscules",
@@ -145,6 +157,7 @@
       "turkish": "Hem büyük hem de küçük harfleri dahil edin"
     },
     "password-requirement2": {
+      "amharic": "የይለፍ ቃል ዝቅተኛ መስፈርቶች፦",
       "dutch": "Minimale wachtwoordvereisten:",
       "english": "Password minimum requirements:",
       "french": "Exigences minimales du mot de passe :",
@@ -159,6 +172,7 @@
   },
   "common": {
     "advanced-options": {
+      "amharic": "የተሻለ አማራጮች",
       "dutch": "Geavanceerde opties",
       "english": "Advanced Options",
       "french": "Options avancées",
@@ -171,6 +185,7 @@
       "turkish": "Gelişmiş Ayarlar"
     },
     "authenticatorFactor": {
+      "amharic": "ኦተንቲኬተር መተግበሪያ",
       "dutch": "Authenticator-app",
       "english": "Authenticator App",
       "french": "Application d'authentification",
@@ -183,6 +198,7 @@
       "turkish": "Kimlik Doğrulayıcı Uygulaması"
     },
     "authenticatorFactorDesc": {
+      "amharic": "ኮዶችን ከAuthy፣ 1Password፣ Microsoft ወይም Google Authenticator ያግኙ",
       "dutch": "Ontvang codes van Authy, 1Password, Microsoft, Authenticator of Google authenticator",
       "english": "Get codes from Authy, 1Password, Microsoft, Authenticator or Google authenticator",
       "french": "Obtenez des codes d'Authy, 1Password, Microsoft, Authenticator ou Google Authenticator",
@@ -195,6 +211,7 @@
       "turkish": "Authy, 1Password, Microsoft, Authenticator veya Google Authenticator'dan kod alın"
     },
     "back": {
+      "amharic": "ተመለስ",
       "dutch": "Terug",
       "english": "Back",
       "french": "Retour",
@@ -207,6 +224,7 @@
       "turkish": "Geri"
     },
     "back-to-download": {
+      "amharic": "የመልሶ ማግኛ ፋክተር ለመውረድ ተመለስ",
       "dutch": "Terug naar download herstel Factor",
       "english": "Back to download Recovery Factor",
       "french": "Retour au facteur de récupération de téléchargement",
@@ -219,6 +237,7 @@
       "turkish": "Kurtarma Faktörünü indirmek için geri dönün"
     },
     "confirm": {
+      "amharic": "አረጋግጥ",
       "dutch": "Bevestigen",
       "english": "Confirm",
       "french": "Confirmer",
@@ -231,6 +250,7 @@
       "turkish": "Onayla"
     },
     "continue": {
+      "amharic": "ቀጥሉ",
       "dutch": "Doorgaan",
       "english": "Continue",
       "french": "Continuer",
@@ -243,6 +263,7 @@
       "turkish": "Devam etmek"
     },
     "copier-copied": {
+      "amharic": "ተቀድቷል",
       "dutch": "Gekopieerd!",
       "english": "Copied!",
       "french": "Copié!",
@@ -255,6 +276,7 @@
       "turkish": "Kopyalandı!"
     },
     "copier-copy": {
+      "amharic": "ወደ ቅንጥብ ሰሌዳ ቅዳ",
       "dutch": "Kopiëren naar klembord",
       "english": "Copy to clipboard",
       "french": "Copier dans le presse-papiers",
@@ -267,6 +289,7 @@
       "turkish": "Panoya kopyala"
     },
     "copier-privacy-policy": {
+      "amharic": "የግላዊነት ፖሊሲ",
       "dutch": "Privacybeleid",
       "english": "Privacy policy",
       "french": "Politique de confidentialité",
@@ -279,6 +302,7 @@
       "turkish": "Gizlilik Politikası"
     },
     "copier-terms-of-use": {
+      "amharic": "የአጠቃቀም ደንቦች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of use",
       "french": "Conditions d'utilisation,",
@@ -291,6 +315,7 @@
       "turkish": "Kullanım Şartları"
     },
     "copy-paste": {
+      "amharic": "ቅጂ አድርግና ለጥፍ",
       "dutch": "Kopiëren en plakken",
       "english": "Copy and paste",
       "french": "Copier et coller",
@@ -303,6 +328,7 @@
       "turkish": "Kopyala ve yapıştır"
     },
     "device": {
+      "amharic": "መሣሪያ",
       "dutch": "Apparaat",
       "english": "Device",
       "french": "Dispositif",
@@ -315,6 +341,7 @@
       "turkish": "Cihaz"
     },
     "devices": {
+      "amharic": "መሣሪያዎች",
       "dutch": "Apparaten",
       "english": "Device (s)",
       "french": "Dispositif (s)",
@@ -327,6 +354,7 @@
       "turkish": "Cihaz(lar)"
     },
     "done": {
+      "amharic": "ተከናውኗል",
       "dutch": "Klaar",
       "english": "Done",
       "french": "Terminé",
@@ -339,6 +367,7 @@
       "turkish": "Bitti"
     },
     "donNotSave": {
+      "amharic": "አትቀምጥ",
       "dutch": "Bewaar niet",
       "english": "Do not save",
       "french": "Ne pas enregistrer",
@@ -351,6 +380,7 @@
       "turkish": "Kaydetme"
     },
     "edit-email": {
+      "amharic": "ኢሜይል አርትዕ",
       "dutch": "Wijzig email",
       "english": "Edit email",
       "french": "Modifier l'e-mail",
@@ -363,6 +393,7 @@
       "turkish": "E-postayı düzenle"
     },
     "enabled": {
+      "amharic": "ነቃ",
       "dutch": "Ingeschakeld",
       "english": "Enabled",
       "french": "Activé",
@@ -375,6 +406,7 @@
       "turkish": "Etkinleştirilmiş"
     },
     "error-something-wrong-error": {
+      "amharic": "ነገር ተሳስቷል",
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
       "french": "Quelque chose s'est mal passé",
@@ -387,6 +419,7 @@
       "turkish": "Bir şeyler ters gitti"
     },
     "error-too-many-attempts": {
+      "amharic": "ብዙ ጥያቄዎች ተሰርተዋል፣ ከጥቂት ጊዜ በኋላ ይሞክሩ",
       "dutch": "Te veel verzoeken, probeer het later opnieuw",
       "english": "Too many requests, try again after some time",
       "french": "Trop de demandes, réessayez plus tard",
@@ -399,6 +432,7 @@
       "turkish": "Çok fazla istek, bir süre sonra tekrar deneyin"
     },
     "errors-incorrect-password": {
+      "amharic": "የተሳሳተ የይለፍ ቃል",
       "dutch": "Onjuist wachtwoord",
       "english": "Incorrect password",
       "french": "Mot de passe incorrect",
@@ -411,6 +445,7 @@
       "turkish": "Hatalı şifre"
     },
     "errors-invalid-email": {
+      "amharic": "የተሳሳተ ኢሜይል",
       "dutch": "Ongeldig e-mailadres",
       "english": "Invalid email",
       "french": "Email invalide",
@@ -423,6 +458,7 @@
       "turkish": "Geçersiz e-posta"
     },
     "errors-mismatch-password": {
+      "amharic": "የይለፍ ቃል መዛመድ አለበት",
       "dutch": "Wachtwoord moet overeenkomen",
       "english": "Password must match",
       "french": "Le mot de passe doit correspondre",
@@ -435,6 +471,7 @@
       "turkish": "Şifre eşleşmelidir"
     },
     "errors-same-email-verifier": {
+      "amharic": "ኢሜይል ከማህበራዊ መግቢያ መለያ ጋር መመሳሰል አይችልም",
       "dutch": "E-mail kan niet hetzelfde zijn als de sociale login-ID",
       "english": "Email cannot be the same as the social login id",
       "french": "L'e-mail ne peut pas être identique à l'ID de connexion sociale",
@@ -447,6 +484,7 @@
       "turkish": "E-posta, sosyal medya giriş kimliği ile aynı olamaz"
     },
     "factorListDesc": {
+      "amharic": "ያልተፈቀደ መዳረሻ ቢገምት በዚህ ማረጋገጫ ዘዴ ማረጋገጥ ያስፈልጋል",
       "dutch": "Als ongeautoriseerde accounttoegang wordt vermoed, moet u verifiëren met deze authenticatiemethode.",
       "english": "If unauthorized account access is suspected, you'll need to verify using this authentication method.",
       "french": "Si un accès non autorisé au compte est suspecté, vous devrez vérifier à l'aide de cette méthode d'authentification.",
@@ -459,6 +497,7 @@
       "turkish": "Hesaba yetkisiz erişimden şüpheleniliyorsa, bu kimlik doğrulama yöntemini kullanarak doğrulama yapmanız gerekir."
     },
     "factorListSetup": {
+      "amharic": "ተጨማሪ ዘዴዎች ያቀናብሩ",
       "dutch": "Aanvullende methoden instellen",
       "english": "Setup additional methods",
       "french": "Configurer des méthodes supplémentaires",
@@ -471,6 +510,7 @@
       "turkish": "Ek yöntemler ayarlayın"
     },
     "factorListTitle": {
+      "amharic": "የማረጋገጫ ዘዴ ያክሉ",
       "dutch": "Voeg een authenticatiemethode toe",
       "english": "Add an authentication method",
       "french": "Ajouter une méthode d'authentification",
@@ -483,6 +523,7 @@
       "turkish": "Kimlik doğrulama yöntemi ekleyin"
     },
     "finishSetup": {
+      "amharic": "ቅንብር ይጠናቀቅ",
       "dutch": "Voltooi het instellen",
       "english": "Finish set up",
       "french": "Terminer la configuration",
@@ -495,6 +536,7 @@
       "turkish": "Kurulumu bitir"
     },
     "hide-options": {
+      "amharic": "አማራጮች ደብቅ",
       "dutch": "Opties verbergen",
       "english": "Hide Options",
       "french": "Masquer les options",
@@ -507,6 +549,7 @@
       "turkish": "Seçenekleri gizle"
     },
     "learn-more": {
+      "amharic": "ተጨማሪ ይወቁ",
       "dutch": "Meer informatie",
       "english": "Learn more",
       "french": "En savoir plus",
@@ -519,6 +562,7 @@
       "turkish": "Daha fazla bilgi edinin"
     },
     "loader-not-done-note": {
+      "amharic": "በጥቂት ሰከንድ ውስጥ እንመጣለን",
       "dutch": "We zijn er over een paar seconden",
       "english": "We will be there in a few seconds",
       "french": "Nous serons là dans quelques secondes",
@@ -531,6 +575,7 @@
       "turkish": "Birkaç saniye içinde orada olacağız."
     },
     "new-device-detected": {
+      "amharic": "አዲስ መሣሪያ ተገኝቷል",
       "dutch": "Nieuw apparaat gedetecteerd",
       "english": "New device detected",
       "french": "Nouveau périphérique détecté",
@@ -543,6 +588,7 @@
       "turkish": "Yeni cihaz algılandı"
     },
     "next": {
+      "amharic": "ቀጥል",
       "dutch": "Volgende",
       "english": "Next",
       "french": "Suivant",
@@ -555,6 +601,7 @@
       "turkish": "Sonraki"
     },
     "or": {
+      "amharic": "ወይም",
       "dutch": "of",
       "english": "or",
       "french": "ou",
@@ -567,6 +614,7 @@
       "turkish": "veya"
     },
     "password": {
+      "amharic": "የይለፍ ቃል",
       "dutch": "Wachtwoord",
       "english": "Password",
       "french": "Mot de passe",
@@ -579,6 +627,7 @@
       "turkish": "Şifre"
     },
     "password-label": {
+      "amharic": "የይለፍ ቃል ያስገቡ",
       "dutch": "Voer wachtwoord in",
       "english": "Enter password",
       "french": "Entrez le mot de passe",
@@ -591,6 +640,7 @@
       "turkish": "Şifrenizi girin"
     },
     "passwordFactor": {
+      "amharic": "የይለፍ ቃል",
       "dutch": "Wachtwoord",
       "english": "Password",
       "french": "Mot de passe",
@@ -603,6 +653,7 @@
       "turkish": "Şifre"
     },
     "passwordFactorDesc": {
+      "amharic": "አካውንትዎን ለመጠበቅ የተለየ የይለፍ ቃል ያቀናብሩ",
       "dutch": "Stel een uniek wachtwoord in om uw account te beschermen",
       "english": "Set a unique password to protect your account",
       "french": "Définissez un mot de passe unique pour protéger votre compte",
@@ -615,6 +666,7 @@
       "turkish": "Hesabınızı korumak için benzersiz bir şifre belirleyin"
     },
     "phone": {
+      "amharic": "ስልክ",
       "dutch": "Telefoon",
       "english": "Phone",
       "french": "Téléphone",
@@ -627,6 +679,7 @@
       "turkish": "Telefon"
     },
     "phone-number": {
+      "amharic": "የስልክ ቁጥር",
       "dutch": "Telefoonnummer",
       "english": "Phone Number",
       "french": "Numéro de téléphone",
@@ -639,6 +692,7 @@
       "turkish": "Telefon Numarası"
     },
     "recoveryPhrase": {
+      "amharic": "የመልሶ ማግኛ ሐረግ",
       "dutch": "Herstelzin",
       "english": "Recovery Phrase",
       "french": "Phrase de récupération",
@@ -651,6 +705,7 @@
       "turkish": "Kurtarma İfadesi"
     },
     "recoveryPhraseDesc": {
+      "amharic": "12 ቃል የመልሶ ሐረግ በኢሜይል ይቀበሉ",
       "dutch": "Ontvang een herstelzin van 12 woorden via e-mail",
       "english": "Get a 12 word recovery phrase via email",
       "french": "Recevez une phrase de récupération de 12 mots par e-mail",
@@ -663,6 +718,7 @@
       "turkish": "E-posta yoluyla 12 kelimelik bir kurtarma ifadesi alın"
     },
     "recoveryPhraseDescCopied": {
+      "amharic": "በእጅ ቅዳ",
       "dutch": "Handmatig gekopieerd",
       "english": "Manually Copied",
       "french": "Copié manuellement",
@@ -675,6 +731,7 @@
       "turkish": "Manuel Olarak Kopyalandı"
     },
     "recoveryPhraseDescDownloaded": {
+      "amharic": "በእጅ አውርድ",
       "dutch": "Handmatig gedownload",
       "english": "Manually Downloaded",
       "french": "Téléchargé manuellement",
@@ -687,6 +744,7 @@
       "turkish": "Manuel Olarak İndirildi"
     },
     "recoveryPhraseDescEmailed": {
+      "amharic": "ወደ {0} ተልኳል",
       "dutch": "Gemaild naar {0}",
       "english": "Emailed to {0}",
       "french": "Envoyé par e-mail à {0}",
@@ -699,6 +757,7 @@
       "turkish": "{0} adresine e-postayla gönderildi"
     },
     "referenceId": {
+      "amharic": "የማመልከቻ መለያ፦",
       "dutch": "Referentie-ID:",
       "english": "Reference ID:",
       "french": "ID de référence:",
@@ -711,6 +770,7 @@
       "turkish": "Referans kimliği:"
     },
     "required": {
+      "amharic": "አስፈላጊ",
       "dutch": "Vereist",
       "english": "Required",
       "french": "Requis",
@@ -723,6 +783,7 @@
       "turkish": "Gerekli"
     },
     "resend-recovery": {
+      "amharic": "የመልሶ ፋክተር እንደገና ላክ",
       "dutch": "Herstelfactor opnieuw verzenden",
       "english": "Resend Recovery Factor",
       "french": "Renvoyer le facteur de récupération",
@@ -735,6 +796,7 @@
       "turkish": "Kurtarma Faktörünü yeniden gönder"
     },
     "saveDeviceDesc": {
+      "amharic": "ይህን መሣሪያ ብትቆዩ ቀጣይ ጊዜ አይጠየቁ",
       "dutch": "Als u dit apparaat opslaat, wordt u de volgende keer dat u zich aanmeldt niet om verificatie gevraagd",
       "english": "You will not be asked to verify the next time you sign in if you save this device",
       "french": "Il ne vous sera pas demandé de vérifier la prochaine fois que vous vous connecterez si vous enregistrez cet appareil",
@@ -747,6 +809,7 @@
       "turkish": "Bu cihazı kaydederseniz bir sonraki oturum açışınızda doğrulamanız istenmeyecektir."
     },
     "saveThisDevice": {
+      "amharic": "ይህን መሣሪያ ያቆዩ",
       "dutch": "Dit apparaat opslaan",
       "english": "Save this device",
       "french": "Enregistrer cet appareil ",
@@ -759,6 +822,7 @@
       "turkish": "Bu cihaz kaydedilsin mi"
     },
     "self-custody-via": {
+      "amharic": "በራስ-መንበር በ",
       "dutch": "Zelfkusten via",
       "english": "Self-custody via",
       "french": "Auto-cuir via",
@@ -771,6 +835,7 @@
       "turkish": "Kendi kendine velayet"
     },
     "selfCustodial": {
+      "amharic": "በራስ-ቁጥጥር መግቢያ በ",
       "dutch": "Zelfbewarend inloggen door",
       "english": "Self-custodial login by",
       "french": "Connexion en libre-service par",
@@ -783,6 +848,7 @@
       "turkish": "Öz-yönetimli giriş yapan"
     },
     "setupLater": {
+      "amharic": "በኋላ ያድርጉ",
       "dutch": "Later instellen",
       "english": "Set up later",
       "french": "Configurer plus tard",
@@ -795,6 +861,7 @@
       "turkish": "Daha sonra kur"
     },
     "social": {
+      "amharic": "ማህበራዊ",
       "dutch": "Sociaal",
       "english": "Social",
       "french": "Social",
@@ -807,6 +874,7 @@
       "turkish": "Sosyal Medya"
     },
     "socialFactor": {
+      "amharic": "የማህበራዊ ፋክተር",
       "dutch": "Sociale factor",
       "english": "Social Factor",
       "french": "Facteur social",
@@ -819,6 +887,7 @@
       "turkish": "Sosyal Medya Faktörü"
     },
     "socialLogin": {
+      "amharic": "ማህበራዊ መግቢያ",
       "dutch": "Sociale login",
       "english": "Social login",
       "french": "Connexion sociale",
@@ -831,6 +900,7 @@
       "turkish": "Sosyal Medya Girişi"
     },
     "socialPasswordlessFactor": {
+      "amharic": "SMS OTP/ማህበራዊ",
       "dutch": "SMS OTP/Sociaal",
       "english": "SMS OTP/Social",
       "french": "SMS OTP/Réseaux sociaux",
@@ -843,6 +913,7 @@
       "turkish": "SMS OTP/Sosyal"
     },
     "socialPasswordlessFactorDesc": {
+      "amharic": "በSMS የተለየ ኮድ ይቀበሉ ወይም ሌላ ማህበራዊ መለያ ተጠቅመው በመግባት ይጠቅማል",
       "dutch": "Ontvang een unieke code via SMS of gebruik een andere sociale inloggegevens om in te loggen als back-up",
       "english": "Receive a unique code via SMS or use another social credential to login as a backup",
       "french": "Recevez un code unique via SMS ou utilisez un autre identifiant social pour vous connecter en tant que sauvegarde",
@@ -855,6 +926,7 @@
       "turkish": "SMS aracılığıyla benzersiz bir kod alın veya yedek olarak oturum açmak için başka bir sosyal kimlik bilgisi kullanın"
     },
     "toast-backup-share-verification-fail": {
+      "amharic": "የተባረረ ክፍል ማረጋገጫ አልተሳካም",
       "dutch": "Verificatie van gedeelde back-up is mislukt",
       "english": "Backup Share verification failed",
       "french": "Échec de la vérification du partage de sauvegarde",
@@ -867,6 +939,7 @@
       "turkish": "Yedekleme Şifresi parça doğrulaması başarısız oldu"
     },
     "toast-password-verification-fail": {
+      "amharic": "የይለፍ ቃል ማረጋገጫ አልተሳካም",
       "dutch": "Wachtwoordverificatie mislukt",
       "english": "Password verification failed",
       "french": "Échec de la vérification du mot de passe",
@@ -879,6 +952,7 @@
       "turkish": "Şifre doğrulama başarısız oldu"
     },
     "toast-registration-failed": {
+      "amharic": "መመዝገብ አልተሳካም",
       "dutch": "Registratie mislukt",
       "english": "Registration failed",
       "french": "L'enregistrement a échoué",
@@ -891,6 +965,7 @@
       "turkish": "Kayıt başarısız oldu"
     },
     "toast-require-verification": {
+      "amharic": "ተጨማሪ ማረጋገጫ ያስፈልጋል",
       "dutch": "Vereis een andere verificatie-invoer",
       "english": "Require another verification input",
       "french": "Exiger une autre entrée de vérification",
@@ -903,6 +978,7 @@
       "turkish": "Başka bir doğrulama girişi gerektir"
     },
     "toast-share-transfer-fail": {
+      "amharic": "ክፍል ማስተላለፍ አልተሳካም",
       "dutch": "Delen mislukt",
       "english": "Share transfer failed",
       "french": "Échec du transfert de partage",
@@ -915,6 +991,7 @@
       "turkish": "Şifre parçası transferi başarısız oldu"
     },
     "upload-recovery-factor": {
+      "amharic": "የመልሶ ፋክተር ያስገቡ",
       "dutch": "Herstelfactor uploaden",
       "english": "Upload Recovery Factor",
       "french": "Télécharger le facteur de récupération",
@@ -927,6 +1004,7 @@
       "turkish": "Kurtarma Faktörü Yükle"
     },
     "verify": {
+      "amharic": "አረጋግጥ",
       "dutch": "Verifiëren",
       "english": "Verify",
       "french": "Vérifier",
@@ -939,6 +1017,7 @@
       "turkish": "Doğrula"
     },
     "verify-with-other-factors": {
+      "amharic": "በሌሎች ፋክተሮች ያረጋግጡ",
       "dutch": "Verifiëren met andere factoren",
       "english": "Verify with other factors",
       "french": "Vérifier avec d'autres facteurs",
@@ -953,6 +1032,7 @@
   },
   "error-block": {
     "required-fields-title": {
+      "amharic": "ከዚህ አስፈላጊ መስፈርቶች አንዱ ወይም ብዙ ጎድለዋል/የተሳሳተ ነው",
       "dutch": "Een of meer van de volgende vereiste parameters ontbreekt of is ongeldig",
       "english": "One or more of the following required parameters is missing/invalid",
       "french": "Un ou plusieurs des paramètres obligatoires suivants sont manquants ou invalides",

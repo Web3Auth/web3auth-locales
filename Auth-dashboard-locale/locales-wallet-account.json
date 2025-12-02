@@ -1,6 +1,7 @@
 {
   "account": {
     "adding-authenticator": {
+      "amharic": "ኦተንቲኬተር መተግበሪያ በመጨመር ላይ",
       "dutch": "Authenticator-app toevoegen",
       "english": "Adding Authenticator App",
       "french": "Ajout d'une application d'authentification",
@@ -13,6 +14,7 @@
       "turkish": "Authenticator Uygulaması Ekleme"
     },
     "adding-passkey": {
+      "amharic": "ፓስኪ በመጨመር ላይ",
       "dutch": "Passkey toevoegen",
       "english": "Adding passkey",
       "french": "Ajout de passkey",
@@ -25,6 +27,7 @@
       "turkish": "Passkey ekleniyor"
     },
     "auth-factors-device-biometrics": {
+      "amharic": "ባዮሜትሪክስ ተመዝግቧል",
       "dutch": "Biometrische gegevens geregistreerd",
       "english": "biometrics registered",
       "french": "biométrie enregistrée",
@@ -36,6 +39,7 @@
       "spanish": "biometría registrada"
     },
     "auth-factors-device-current": {
+      "amharic": "አሁን",
       "dutch": "Huidig",
       "english": "Current",
       "french": "Actuel",
@@ -47,6 +51,7 @@
       "spanish": "Actual"
     },
     "auth-factors-device-desc": {
+      "amharic": "እነዚህ መሣሪያዎች የተለያዩ የመዳረሻ ፋክተሮች ሲሆኑ አካውንትዎን ለመድረስ ተፈቅደዋል",
       "dutch": "Deze apparaten zijn unieke factoren die gemachtigd zijn om toegang te krijgen tot uw account.",
       "english": "These devices are unique factors authorized to access your account.",
       "french": "Ces appareils sont des facteurs uniques autorisés à accéder à votre compte.",
@@ -58,6 +63,7 @@
       "spanish": "Estos dispositivos son factores únicos autorizados para acceder a su cuenta."
     },
     "auth-factors-device-empty": {
+      "amharic": "ምንም የመሣሪያ share አልተገኘም",
       "dutch": "Geen apparaat delingen gevonden",
       "english": "No device shares found",
       "french": "Aucun partage de périphérique trouvé",
@@ -69,6 +75,7 @@
       "spanish": "No se encontraron recursos compartidos de dispositivos"
     },
     "auth-factors-device-title": {
+      "amharic": "መሣሪያ(ዎች)",
       "dutch": "Appara(a)t(en)",
       "english": "Device(s)",
       "french": "Appareil(s)",
@@ -80,6 +87,7 @@
       "spanish": "Dispositivos"
     },
     "auth-factors-downloaded-on": {
+      "amharic": "በ{0} የተወረደ",
       "dutch": "Gedownload op {0}",
       "english": "Downloaded on {0}",
       "french": "Téléchargé le {0}",
@@ -91,6 +99,7 @@
       "spanish": "Descargado el {0}"
     },
     "auth-factors-email": {
+      "amharic": "የመልሶ ኢሜይል",
       "dutch": "Herstel e-mail",
       "english": "Recovery email",
       "french": "Courriel de récupération",
@@ -102,6 +111,7 @@
       "spanish": "Correo electrónico de recuperación"
     },
     "auth-factors-email-enter": {
+      "amharic": "የመልሶ ኢሜይል ያስገቡ",
       "dutch": "Voer het herstel-e-mailadres in",
       "english": "Enter recovery email",
       "french": "Entrez le courriel de récupération",
@@ -113,6 +123,7 @@
       "spanish": "Ingresa el correo de recuperación"
     },
     "auth-factors-email-old": {
+      "amharic": "የመልሶ ኢሜይል (ቀድሞው)",
       "dutch": "Herstel e-mail (bestaand)",
       "english": "Recovery email (existing)",
       "french": "Courriel de récupération (existant)",
@@ -124,6 +135,7 @@
       "spanish": "Correo electrónico de recuperación (existente)"
     },
     "auth-factors-email-resend": {
+      "amharic": "እንደገና ላክ",
       "dutch": "Opnieuw verzenden",
       "english": "Resend",
       "french": "Renvoyer",
@@ -135,6 +147,7 @@
       "spanish": "Reenviar"
     },
     "auth-factors-email-sent": {
+      "amharic": "ተልኳል",
       "dutch": "Verzonden",
       "english": "Sent",
       "french": "Envoyé",
@@ -146,6 +159,7 @@
       "spanish": "Enviado"
     },
     "auth-factors-email-sent-to": {
+      "amharic": "ወደ {0} ተልኳል",
       "dutch": "Verzonden naar {0}",
       "english": "Sent to {0}",
       "french": "Envoyé à {0}",
@@ -157,6 +171,7 @@
       "spanish": "Enviado a {0}"
     },
     "auth-factors-enable-biometrics": {
+      "amharic": "ባዮሜትሪክስ አብራ",
       "dutch": "Biometrie inschakelen",
       "english": "Enable biometrics",
       "french": "Activer la biométrie",
@@ -168,6 +183,7 @@
       "spanish": "Habilitar la biometría"
     },
     "auth-factors-network": {
+      "amharic": "በTorus ኖዶች የማህበራዊ መግቢያዎች",
       "dutch": "Sociale logins via Torus-nodes",
       "english": "Social logins via Torus nodes",
       "french": "Connexions sociales via les nœuds Torus",
@@ -179,6 +195,7 @@
       "spanish": "Inicios de sesión sociales a través de nodos Torus"
     },
     "auth-factors-password": {
+      "amharic": "የአካውንት የይለፍ ቃል",
       "dutch": "Account wachtwoord",
       "english": "Account password",
       "french": "Mot de passe du compte",
@@ -190,6 +207,7 @@
       "spanish": "Contraseña de la cuenta"
     },
     "auth-factors-password-change": {
+      "amharic": "የይለፍ ቃል ቀይር",
       "dutch": "Wachtwoord wijzigen",
       "english": "Change Password",
       "french": "Changer le mot de passe",
@@ -201,6 +219,7 @@
       "spanish": "Cambia la contraseña"
     },
     "auth-factors-password-confirm": {
+      "amharic": "የይለፍ ቃልዎን እንደገና ያስገቡ",
       "dutch": "Voer uw wachtwoord opnieuw in",
       "english": "Re-enter your password",
       "french": "Re-entrez votre mot de passe",
@@ -212,6 +231,7 @@
       "spanish": "reingresa tu contraseña"
     },
     "auth-factors-password-set": {
+      "amharic": "የይለፍ ቃልዎን ያቀናብሩ",
       "dutch": "Stel je wachtwoord in",
       "english": "Set your password",
       "french": "Définissez votre mot de passe",
@@ -223,6 +243,7 @@
       "spanish": "Establece tu contraseña"
     },
     "auth-factors-recovery-phrase": {
+      "amharic": "መልሶ ሐረግ",
       "dutch": "Herstelzin",
       "english": "Recovery phrase",
       "french": "Phrase de récupération",
@@ -234,6 +255,7 @@
       "spanish": "Frase de recuperación"
     },
     "auth-factors-subtitle": {
+      "amharic": "የማረጋገጫ ፋክተሮች ዝርዝር",
       "dutch": "Lijst van authenticatiefactoren",
       "english": "List of Authentication factors",
       "french": "Liste des facteurs d'authentification",
@@ -245,6 +267,7 @@
       "spanish": "Lista de factores de autenticación"
     },
     "auth-factors-threshold": {
+      "amharic": "የደህንነት ፋክተሮች",
       "dutch": "Beveiligingsfactoren",
       "english": "Security Factors",
       "french": "Facteurs de sécurité",
@@ -256,6 +279,7 @@
       "spanish": "Factores de seguridad"
     },
     "auth-factors-threshold-desc": {
+      "amharic": "አካውንትዎን ለመድረስ የሚፈለጉት የማረጋገጫ ፋክተሮች ብዛት",
       "dutch": "Het aantal factoren dat geauthenticeerd moet worden om toegang te krijgen tot uw account.",
       "english": "The number of factors to authenticate in order to access your account.",
       "french": "Le nombre de facteurs à authentifier pour accéder à votre compte.",
@@ -267,6 +291,7 @@
       "spanish": "La cantidad de factores que se deben autenticar para acceder a su cuenta."
     },
     "auth-factors-threshold-factor": {
+      "amharic": "{0} የማረጋገጫ ፋክተር",
       "dutch": "{0} Authenticatiefactor",
       "english": "{0} Authentication factor",
       "french": "{0} Facteur d'authentification",
@@ -278,6 +303,7 @@
       "spanish": "{0} Factor de autenticación"
     },
     "auth-factors-title": {
+      "amharic": "የደህንነት ቅንብሮች",
       "dutch": "Beveiligingsinstellingen",
       "english": "Security Settings",
       "french": "Paramètres de sécurité",
@@ -289,6 +315,7 @@
       "spanish": "Configuraciones de seguridad"
     },
     "authenticator-app": {
+      "amharic": "ኦተንቲኬተር መተግበሪያ",
       "dutch": "Authenticator-app",
       "english": "Authenticator App",
       "french": "Application d'authentification",
@@ -301,6 +328,7 @@
       "turkish": "Kimlik Doğrulayıcı Uygulaması"
     },
     "authenticator-app-add": {
+      "amharic": "እንደ መልሶ ፋክተር ኦተንቲኬተር መተግበሪያ ያክሉ",
       "dutch": "Voeg een authenticator-app toe als herstelfactor.",
       "english": "Add an authenticator app as a recovery factor.",
       "french": "Ajoutez une application d'authentification comme facteur de récupération.",
@@ -313,6 +341,7 @@
       "turkish": "Kurtarma faktörü olarak bir kimlik doğrulayıcı uygulaması ekleyin."
     },
     "authenticator-app-setup": {
+      "amharic": "ኦተንቲኬተር መተግበሪያ ያቀናብሩ",
       "dutch": "Authenticator-app instellen",
       "english": "Setup Authenticator App",
       "french": "Configurer l'application d'authentification",
@@ -325,6 +354,7 @@
       "turkish": "Authenticator Uygulamasını Kur"
     },
     "authenticator-delete-note-desc": {
+      "amharic": "“አረጋግጥ” በማለት ይህንን መተግበሪያ ከአካውንትዎ ታግዳለች። እባክዎ በሰፊው በሻጭ ያለውን መያዣም በእጅ ያስወግዱት",
       "dutch": "Door op 'Bevestigen' te klikken, koppelt u deze authenticator-app los van uw account. Het wordt geadviseerd om het ook handmatig uit de opslag van uw leverancier te verwijderen.",
       "english": "By clicking \"Confirm,\" you will disconnect this authenticator app from your account. It’s advised to manually remove it from your vendor’s storage as well.",
       "french": "En cliquant sur \"Confirmer\", vous déconnecterez cette application d'authentification de votre compte. Il est également conseillé de le supprimer manuellement du stockage de votre fournisseur.",
@@ -337,6 +367,7 @@
       "turkish": "\"Onayla\"yı tıkladığınızda bu kimlik doğrulama uygulamasının hesabınızla olan bağlantısını keseceksiniz. Satıcınızın deposundan da manuel olarak kaldırmanız önerilir."
     },
     "authenticator-delete-title": {
+      "amharic": "የኦተንቲኬተር መተግበሪያ መቋረጥ",
       "dutch": "Authenticator-app ontkoppelen",
       "english": "Unlinking Authenticator App",
       "french": "Dissocier l'application d'authentification",
@@ -349,6 +380,7 @@
       "turkish": "Authenticator Uygulamasının Bağlantısını Kaldırma"
     },
     "connected-account": {
+      "amharic": "የተገናኘ አካውንት",
       "dutch": "Verbonden account",
       "english": "Connected Account",
       "french": "Compte connecté",
@@ -360,6 +392,7 @@
       "spanish": "Cuenta conectada"
     },
     "connected-account-desc": {
+      "amharic": "አካውንትዎ ከ{0} አካውንት ጋር ተገናኝቷል",
       "dutch": "Uw account is verbonden met een {0} account.",
       "english": "Your account is connected to a {0} account.",
       "french": "Votre compte est connecté à un compte {0}.",
@@ -371,6 +404,7 @@
       "spanish": "Su cuenta está conectada a una cuenta de {0}."
     },
     "copy-recovery-phrase-desc": {
+      "amharic": "የመልሶ ሐረግ ቅጂ ያቆዩ",
       "dutch": "Sla een kopie op van uw herstelfrase",
       "english": "Save a copy of your recovery phrase",
       "french": "Sauvegarder une copie de votre phrase de récupération",
@@ -382,6 +416,7 @@
       "spanish": "Guarda una copia de tu frase de recuperación"
     },
     "created": {
+      "amharic": "ተፈጥሯል",
       "dutch": "Gemaakt",
       "english": "Created",
       "french": "Créé",
@@ -394,6 +429,7 @@
       "turkish": "Oluşturuldu"
     },
     "dark-mode": {
+      "amharic": "የጨለማ ሁነታ",
       "dutch": "Donkere modus",
       "english": "Dark mode",
       "french": "Mode sombre",
@@ -406,6 +442,7 @@
       "turkish": "Karanlık mod"
     },
     "delete-recovery-title": {
+      "amharic": "የመልሶ ፋክተር ያስወግዱ",
       "dutch": "Herstelfactor verwijderen",
       "english": "Delete Recovery Factor",
       "french": "Supprimer le facteur de récupération",
@@ -417,6 +454,7 @@
       "spanish": "Eliminar factor de recuperación"
     },
     "delete-share-desc-1": {
+      "amharic": "እንደገና ይተክል የማይችል ቋሚ ተግባር ነው፣ በጥሩ እርግጠኝነት ይከናወኑት",
       "dutch": "Wees heel zeker als",
       "english": "Be very sure as",
       "french": "Soyez très sûr comme",
@@ -428,6 +466,7 @@
       "spanish": "estar muy seguro como"
     },
     "delete-share-desc-2": {
+      "amharic": "የማረጋገጫ ፋክተር ያስወግዱ",
       "dutch": "deze actie is permanent en kan niet ongedaan worden gemaakt.",
       "english": "this action is permanent and cannot be undone.",
       "french": "cette action est permanente et ne peut pas être annulée.",
@@ -439,6 +478,7 @@
       "spanish": "esta acción es permanente y no se puede deshacer."
     },
     "delete-share-title": {
+      "amharic": "የOpenLogin ቅንብሮችዎን እዚህ ያቀናብሩ",
       "dutch": "Verwijder authenticatiefactor",
       "english": "Delete authentication factor",
       "french": "Supprimer le facteur d'authentification",
@@ -450,6 +490,7 @@
       "spanish": "Eliminar factor de autenticación"
     },
     "desc": {
+      "amharic": "መሣሪያ share መሰረዝ ይህንን መሣሪያ ለመመለስ ማረጋገጥን ያጣል",
       "dutch": "Beheer hier uw OpenLogin-instellingen",
       "english": "Manage your OpenLogin settings here",
       "french": "Gérez vos paramètres OpenLogin ici",
@@ -461,6 +502,7 @@
       "spanish": "Administre su configuración de OpenLogin aquí"
     },
     "device-delete-note-desc": {
+      "amharic": "የመሣሪያ መሰረዝ",
       "dutch": "Als u de apparaatshare verwijdert, kunt u dat apparaat niet meer gebruiken om uw account te verifiëren en toegang te krijgen.",
       "english": "Deleting the device share will prevent you from using that device to authenticate and access your account.",
       "french": "La suppression du partage d'appareil vous empêchera d'utiliser cet appareil pour vous authentifier et accéder à votre compte.",
@@ -473,6 +515,7 @@
       "turkish": "Cihaz paylaşımının silinmesi, kimlik doğrulaması yapmak ve hesabınıza erişmek için söz konusu cihazı kullanmanızı engelleyecektir."
     },
     "device-delete-note-title": {
+      "amharic": "የመሣሪያ share መሰረዝ ያረጋግጡ",
       "dutch": "Apparaatshare verwijderen",
       "english": "Deleting Device share",
       "french": "Suppression du partage d'appareil",
@@ -485,6 +528,7 @@
       "turkish": "Cihaz paylaşımı siliniyor"
     },
     "device-delete-title": {
+      "amharic": "የመሣሪያ share መሰረዝ ያረጋግጡ",
       "dutch": "Bevestig het verwijderen van het delen van het apparaat",
       "english": "Confirm deleting device share",
       "french": "Confirmer la suppression du partage d'appareil",
@@ -497,6 +541,7 @@
       "turkish": "Cihaz paylaşımının silinmesini onaylayın"
     },
     "device-desc": {
+      "amharic": "በቅርብ የተጠቀሙ መሣሪያዎች በራሳቸው እንደ ታመነ መሣሪያዎች ይጨምራሉ እና እንደ መልሶ ፋክተሮች ይሰራሉ። ግን ክብደት የሌላቸው ስለሆነ ብቻቸውን የተቆራረጡ መልሶ ፋክተሮች ሊሆኑ አይችሉም እና የአካውንት ደህንነትን አያሳድጉም።",
       "dutch": "Recent gebruikte apparaten worden automatisch toegevoegd als vertrouwde apparaten en kunnen dienen als herstelfactoren. Ze kunnen echter geen op zichzelf staande herstelfactoren zijn, omdat ze niet gewogen zijn en de accountbeveiliging niet verbeteren.",
       "english": "Recently used devices are automatically added as trusted devices and can serve as recovery factors. However, they can't be standalone recovery factors since they are non-weighted and do not enhance account security.",
       "french": "Les appareils récemment utilisés sont automatiquement ajoutés en tant qu'appareils de confiance et peuvent servir de facteurs de récupération. Cependant, ils ne peuvent pas constituer des facteurs de recouvrement autonomes puisqu'ils ne sont pas pondérés et n'améliorent pas la sécurité du compte.",
@@ -509,6 +554,7 @@
       "turkish": "Son kullanılan cihazlar otomatik olarak güvenilir cihazlar olarak eklenir ve kurtarma faktörleri olarak kullanılabilir. Ancak ağırlıklandırılmadıkları ve hesap güvenliğini artırmadıkları için tek başına kurtarma faktörleri olamazlar."
     },
     "email-with-date": {
+      "amharic": "በ{0} ተልኳል ወደ፦",
       "dutch": "Verstuurd via e-mail op {0} naar:",
       "english": "Emailed on {0} to :",
       "french": "Envoyé par e-mail le {0} à :",
@@ -520,6 +566,7 @@
       "spanish": "Enviado por correo electrónico el {0} a:"
     },
     "enable-mfa": {
+      "amharic": "MFA አብራ",
       "dutch": "Schakel MFA in",
       "english": "Enable MFA",
       "french": "Activer MFA",
@@ -532,6 +579,7 @@
       "turkish": "MFA'yı etkinleştirin"
     },
     "export-onkey-2fa": {
+      "amharic": "የሁለት-ፋክተር ማረጋገጫ",
       "dutch": "Twee-factor authenticatie",
       "english": "Two-factor authentication",
       "french": "Authentification à deux facteurs",
@@ -543,6 +591,7 @@
       "spanish": "Autenticación de dos factores"
     },
     "export-onkey-2fa-enable": {
+      "amharic": "2FA አብራ",
       "dutch": "2FA inschakelen",
       "english": "Enable 2FA",
       "french": "Activer 2FA",
@@ -554,6 +603,7 @@
       "spanish": "Habilitar 2FA"
     },
     "export-onkey-2fa-recommend": {
+      "amharic": "2FA በአካውንትዎ እንዲኖር በጥብቅ እንመክራለን",
       "dutch": "We raden u ten zeerste aan om 2FA in te schakelen op uw account",
       "english": "We strongly recommend you to enable 2FA on your account",
       "french": "Nous vous recommandons vivement d'activer le 2FA sur votre compte",
@@ -565,6 +615,7 @@
       "spanish": "Le recomendamos encarecidamente que habilite 2FA en su cuenta"
     },
     "export-onkey-not-setup": {
+      "amharic": "እስካሁን አልተቋቋመም",
       "dutch": "Nog niet ingesteld",
       "english": "Not setup yet",
       "french": "Pas encore configuré",
@@ -576,6 +627,7 @@
       "spanish": "Aún no configurado"
     },
     "export-onkey-note": {
+      "amharic": "2FA በመክፈት የአካውንትዎን ደህንነት ያድጉ",
       "dutch": "Verhoog uw accountbeveiliging door 2FA in te schakelen",
       "english": "Increase your account security by enabling 2FA",
       "french": "Augmentez la sécurité de votre compte en activant le 2FA",
@@ -587,6 +639,7 @@
       "spanish": "Aumente la seguridad de su cuenta habilitando 2FA"
     },
     "export-onkey-setup": {
+      "amharic": "ያቀናብሩት",
       "dutch": "Stel het in",
       "english": "Set it up",
       "french": "Mettez-le en place",
@@ -598,6 +651,7 @@
       "spanish": "Prepararlo"
     },
     "export-share-copy": {
+      "amharic": "ለመቅዳት ተጫኑ",
       "dutch": "Klik om te kopiëren",
       "english": "Click to copy",
       "french": "Cliquez pour copier",
@@ -609,6 +663,7 @@
       "spanish": "Haga clic para copiar"
     },
     "export-share-desc": {
+      "amharic": "የመልሶ ሐረግ ቅጂ ያቆዩ",
       "dutch": "Sla een kopie op van uw back-upzin",
       "english": "Save a copy of your backup phrase",
       "french": "Sauvegarder une copie de votre phrase de sauvegarde",
@@ -620,6 +675,7 @@
       "spanish": "Guarde una copia de su frase de respaldo"
     },
     "export-share-note": {
+      "amharic": "ማስታወሻ፦ ይህ መልሶ ሐረግ አካውንትዎን ለማረጋገጥ የሚፈለጉ ፋክተሮች አንዱ ነው። በወደፊት የአካውንት መልሶ ሂደትዎ ክፍል ሆኖ አስተማማኝ ቦታ ውስጥ ያኑሩት።",
       "dutch": "Opmerking: deze herstelzin is 1 van de factoren die nodig zijn om uw account te authenticeren. Bewaar het op een veilige plaats als onderdeel van uw accountherstel in de toekomst.",
       "english": "Note: This recovery phrase is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
       "french": "Remarque : Cette phrase de récupération est l'un des facteurs nécessaires à l'authentification de votre compte. Conservez-la en lieu sûr pour la récupération de votre compte à l'avenir.",
@@ -631,6 +687,7 @@
       "spanish": "Nota: Esta frase de recuperación es uno de los factores necesarios para autenticar su cuenta. Guárdelo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
     },
     "export-share-title": {
+      "amharic": "መልሶ ሐረግ",
       "dutch": "Back-up zin",
       "english": "Backup phrase",
       "french": "Phrase de sauvegarde",
@@ -642,6 +699,7 @@
       "spanish": "Frase de respaldo"
     },
     "fetching-devices": {
+      "amharic": "መሣሪያዎችን በመጫን ላይ",
       "dutch": "Apparaten ophalen",
       "english": "Fetching devices",
       "french": "Récupérer des appareils",
@@ -654,6 +712,7 @@
       "turkish": "Cihazlar getiriliyor"
     },
     "generated-on": {
+      "amharic": "ተፈጥሯል በ…",
       "dutch": "Gegenereerd op",
       "english": "Generated on",
       "french": "Généré le",
@@ -666,6 +725,7 @@
       "turkish": "Oluşturulma tarihi"
     },
     "info-security-high-desc": {
+      "amharic": "አካውንትዎ ቢያንስ ሶስት መልሶ ፋክተሮች ተደምሮባቸው ተደህንነት ተጠብቆታል። ተጨማሪ መልሶ ፋክተር ማከል ተበላሽ ጥበቃ ይጨምራል።",
       "dutch": "Uw account is beveiligd met minimaal drie herstelfactoren. U kunt nog steeds meer toevoegen voor extra bescherming.",
       "english": "Your account is secured with at least three recovery factors. You can still add more for added protection.",
       "french": "Votre compte est sécurisé avec au moins trois facteurs de récupération. Vous pouvez toujours en ajouter davantage pour une protection supplémentaire.",
@@ -678,6 +738,7 @@
       "turkish": "Hesabınız en az üç kurtarma faktörüyle güvence altına alınmıştır. Daha fazla koruma için yine de daha fazlasını ekleyebilirsiniz."
     },
     "info-security-high-title": {
+      "amharic": "የተጠናከረ ደህንነት",
       "dutch": "Sterke beveiliging",
       "english": "Strong Security",
       "french": "Forte sécurité",
@@ -690,6 +751,7 @@
       "turkish": "Güçlü Güvenlik"
     },
     "info-security-medium-desc": {
+      "amharic": "ከታች ካሉት አማራጮች ተጨማሪ መልሶ ፋክተር በመጨመር የአካውንትዎን መከላከያ ያበረታቱ",
       "dutch": "Verbeter uw accountbescherming door nog een herstelfactor toe te voegen uit de onderstaande opties.",
       "english": "Boost your account protection by adding one more recovery factor from the options listed below.",
       "french": "Renforcez la protection de votre compte en ajoutant un facteur de récupération supplémentaire parmi les options répertoriées ci-dessous.",
@@ -702,6 +764,7 @@
       "turkish": "Aşağıda listelenen seçeneklerden bir kurtarma faktörü daha ekleyerek hesap korumanızı artırın."
     },
     "info-security-medium-title": {
+      "amharic": "መካከለኛ ደህንነት",
       "dutch": "Matige beveiliging",
       "english": "Moderate Security",
       "french": "Sécurité modérée",
@@ -714,6 +777,7 @@
       "turkish": "Orta Düzeyde Güvenlik"
     },
     "info-security-weak-desc": {
+      "amharic": "አካውንትዎ አሁን ምንም መልሶ ፋክተር የለውም። አካውንትዎን ለመጠበቅ MFA ያብሩ እና የመልሶ አማራጮችን ያክሉ",
       "dutch": "Uw account heeft momenteel geen herstelfactor ingesteld. Schakel MFA in om uw account te beveiligen en extra herstelfactoren toe te voegen.",
       "english": "Your account currently has no recovery factor set up. Enable MFA to secure your account and add recovery options.",
       "french": "Votre compte n'a actuellement aucun facteur de récupération configuré. Activez MFA pour sécuriser votre compte et ajouter des options de récupération.",
@@ -726,6 +790,7 @@
       "turkish": "Hesabınızda şu anda herhangi bir kurtarma faktörü yok. MFA'yı etkinleştirerek hesabınızı koruyun ve kurtarma seçeneklerini ekleyin."
     },
     "info-security-weak-title": {
+      "amharic": "ደካማ ደህንነት",
       "dutch": "Zwakke beveiliging",
       "english": "Weak Security",
       "french": "Faible sécurité",
@@ -738,6 +803,7 @@
       "turkish": "Zayıf Güvenlik"
     },
     "mpc-auth-factors-recovery-phrase": {
+      "amharic": "መልሶ ፋክተር",
       "dutch": "Herstelfactor",
       "english": "Recovery factor",
       "french": "Facteur de récupération",
@@ -749,6 +815,7 @@
       "spanish": "Factor de recuperación"
     },
     "mpc-export-share-note": {
+      "amharic": "ማስታወሻ፦ ይህ መልሶ ፋክተር አካውንትዎን ለማረጋገጥ የሚፈለጉ ፋክተሮች አንዱ ነው። በወደፊት የአካውንት መልሶ ሂደትዎ ክፍል ሆኖ ይዞ በደህና ይያዙት።",
       "dutch": "Opmerking: Dit herstelfactor is 1 van de factoren die nodig zijn om uw account te authenticeren. Bewaar het op een veilige plaats als onderdeel van uw accountherstel in de toekomst.",
       "english": "Note: This recovery factor is 1 of the factors needed to authenticate your account. Keep it somewhere safe as a part of your account recovery in the future.",
       "french": "Remarque : Ce facteur de récupération est l'un des facteurs nécessaires à l'authentification de votre compte. Conservez-le en lieu sûr pour la récupération de votre compte à l'avenir.",
@@ -760,6 +827,7 @@
       "spanish": "Nota: este factor de recuperación es uno de los factores necesarios para autenticar su cuenta. Manténgalo en un lugar seguro como parte de la recuperación de su cuenta en el futuro."
     },
     "no-mfa-sub1desc": {
+      "amharic": "በሁለተኛ የማረጋገጫ ንብረት በመጨመር እርስዎ ብቻ ያለማንም እገዳ ንብረቶትን ማስተዳደር ትችላለህ — ክሪፕቶዎ ደህንነቱ በሙሉ በእርስዎ ቁጥጥር ውስጥ ይቆያል።",
       "dutch": "Door een tweede laag verificatie toe te voegen, kunnen alleen jij toegang krijgen en je activa beheren—zodat je crypto veilig en volledig onder je controle blijft.",
       "english": "By adding a second layer of verification, only you can access and manage your assets—keeping your crypto secure and fully under your control.",
       "french": "En ajoutant une deuxième couche de vérification, seul vous pouvez accéder et gérer vos actifs—en gardant vos crypto-monnaies sécurisées et entièrement sous votre contrôle.",
@@ -771,6 +839,7 @@
       "spanish": "Al agregar una segunda capa de verificación, solo usted puede acceder y gestionar sus activos—manteniendo su criptomonedas seguras y totalmente bajo su control."
     },
     "no-mfa-sub1title": {
+      "amharic": "ቁልፎችዎ የእርስዎ ናቸው፣ ክሪፕቶዎም የእርስዎ ነው፣ ቁጥጥሩም የእርስዎ ነው",
       "dutch": "Uw sleutels, uw crypto, uw controle",
       "english": "Your keys, your crypto, your control",
       "french": "Vos clés, vos crypto, votre contrôle",
@@ -782,6 +851,7 @@
       "spanish": "Sus claves, sus criptomonedas, su control"
     },
     "no-mfa-sub2desc": {
+      "amharic": "የሚስማማ የደህንነት ፋክተሮችን በመዋሃድ ብሎክቺን ዋሌትዎን ይከላከሉ፣ ፓስኪዎች፣ የይለፍ ቃሎች፣ መልሶ ሐረጎች፣ ማህበራዊ መልሶ ወይም ኦተንቲኬተር መተግበሪያ",
       "dutch": "Door een tweede laag verificatie toe te voegen, kunnen alleen jij toegang krijgen en je activa beheren—zodat je crypto veilig en volledig onder je controle blijft.",
       "english": "Protect your assets with a mix of security factors that best suit your wallet, including passkeys, passwords, recovery phrases, social recovery, or an authenticator app.",
       "french": "Protégez vos actifs avec une combinaison de facteurs de sécurité qui conviennent le mieux à votre portefeuille, y compris les passkeys, les mots de passe, les phrases de récupération, la récupération sociale ou une application d'authenticateur.",
@@ -793,6 +863,7 @@
       "spanish": "Protege tus activos con una combinación de factores de seguridad que mejor se adapte a tu billetera, incluyendo passkeys, contraseñas, frases de recuperación, recuperación social o una aplicación de autenticador."
     },
     "no-mfa-sub2title": {
+      "amharic": "ወደ እርስዎ የተስተካከለ ደህንነት",
       "dutch": "Sécurité personnalisée pour vous",
       "english": "Security Tailored to You",
       "french": "Sécurité personnalisée pour vous",
@@ -804,6 +875,7 @@
       "spanish": "Seguridad personalizada para ti"
     },
     "no-mfa-title": {
+      "amharic": "አካውንትዎን በዚህ ያግዱ",
       "dutch": "Schützen Sie Ihr Konto mit",
       "english": "Shield Your Account with",
       "french": "Protégez votre compte avec",
@@ -815,6 +887,7 @@
       "spanish": "Protege su cuenta con"
     },
     "passkey-add": {
+      "amharic": "ፓስኪ ያክሉ",
       "dutch": "Passkey toevoegen",
       "english": "Add Passkey",
       "french": "Ajouter Passkey",
@@ -827,6 +900,7 @@
       "turkish": "Passkey ekleyin"
     },
     "passkey-add-desc": {
+      "amharic": "ፓስኪዎች በቅንፍ ጣት፣ ፊት ማወቂያ ወይም የስክሪን ማስቆሚያ በመጠቀም መግባት ያስችሉዎታል፣ ግን ክብደት የላቸውም ስለዚህ ብቻቸውን የመልሶ ፋክተር ማሳደግ አይችሉም።",
       "dutch": "Met Passkeys kunt u ter verificatie inloggen met een vingerafdruk, gezichtsherkenning of schermvergrendeling, maar ze wegen niet mee en verhogen uw accountbeveiliging niet als op zichzelf staande herstelfactoren.",
       "english": "Passkeys let you log in using fingerprint, face recognition, or screen lock for verification, but they are non-weighted and don’t boost your account security as standalone recovery factors.",
       "french": "Les Passkeys vous permettent de vous connecter à l'aide de vos empreintes digitales, de la reconnaissance faciale ou du verrouillage de l'écran à des fins de vérification, mais elles ne sont pas pondérées et n'améliorent pas la sécurité de votre compte en tant que facteurs de récupération autonomes.",
@@ -839,6 +913,7 @@
       "turkish": "Passkeys, doğrulama için parmak izi, yüz tanıma veya ekran kilidini kullanarak giriş yapmanıza olanak tanır, ancak bunlar ağırlıklandırılmaz ve bağımsız kurtarma faktörleri olarak hesap güvenliğinizi artırmaz."
     },
     "passkey-delete-note-desc": {
+      "amharic": "“አረጋግጥ” በመጫን ይህን ፓስኪ ከአካውንትዎ ያቋርጣሉ። ከዚህ በተጨማሪ ከሻጭዎ ማከማቻ በእጅ መሰረዝ ይመከራል።",
       "dutch": "Door op 'Bevestigen' te drukken, ontkoppelt u deze passkey van uw account. Het wordt aanbevolen dat u het ook handmatig uit de opslag van uw leverancier verwijdert.",
       "english": "By pressing “Confirm,” you will unlink this passkey from your account. It is recommended that you also delete it manually from your vendor’s storage.",
       "french": "En appuyant sur \"Confirmer\", vous dissocierez ce passkey de votre compte. Il est recommandé de le supprimer également manuellement du stockage de votre fournisseur.",
@@ -851,6 +926,7 @@
       "turkish": "\"Onayla\"ya bastığınızda bu passkey ile hesabınız arasındaki bağlantıyı kaldıracaksınız. Satıcınızın deposundan manuel olarak da silmeniz önerilir."
     },
     "passkey-delete-title": {
+      "amharic": "ፓስኪ ማቋረጥ",
       "dutch": "Ontkoppelen van passkey",
       "english": "Unlinking passkey",
       "french": "Dissocier passkey",
@@ -863,6 +939,7 @@
       "turkish": "Passkey bağlantısı kaldırılıyor"
     },
     "passkey-guide1-desc": {
+      "amharic": "ፓስኪ በመጠቀም በጣት አሻራ፣ ፊት ማወቂያ ወይም የስክሪን መቆለፊያ ማረጋገጫ በመጠቀም መግባት ይችላሉ",
       "dutch": "Met passkey kunt u inloggen met uw vingerafdruk, gezichtsvergrendeling of schermvergrendeling om te verifiëren dat u het echt bent",
       "english": "With passkey, you can log in using fingerprint, face or screen lock to verify that it’s really you",
       "french": "Avec passkey, vous pouvez vous connecter en utilisant votre empreinte digitale, votre visage ou le verrouillage de l'écran pour vérifier qu'il s'agit bien de vous.",
@@ -875,6 +952,7 @@
       "turkish": "Passkey ile, bu kişinin gerçekten siz olduğunuzu doğrulamak için parmak izi, yüz veya ekran kilidini kullanarak giriş yapabilirsiniz"
     },
     "passkey-guide1-title": {
+      "amharic": "የይለፍ ቃል ማስታወስ አያስፈልግም",
       "dutch": "U hoeft geen wachtwoorden te onthouden",
       "english": "No need to remember passwords",
       "french": "Pas besoin de mémoriser les mots de passe",
@@ -887,6 +965,7 @@
       "turkish": "Şifreleri hatırlamanıza gerek yok"
     },
     "passkey-guide2-desc": {
+      "amharic": "ፓስኪዎች በራሳቸው በተዛመዱ መሣሪያዎች ላይ ይገኛሉ። የሚያገለግሉትን መሣሪያ ብቻ ፓስኪ ያቀናብሩ",
       "dutch": "Passkeys zijn automatisch beschikbaar op gesynchroniseerde apparaten. Stel alleen passkeys in op apparaten waarvan u de eigenaar bent.",
       "english": "Passkeys will automatically be available on synced devices. Only set up passkeys on devices you own.",
       "french": "Les Passkeys seront automatiquement disponibles sur les appareils synchronisés. Configurez des passkeys uniquement sur les appareils que vous possédez.",
@@ -899,6 +978,7 @@
       "turkish": "Passkeys senkronize edilen cihazlarda otomatik olarak kullanılabilecektir. Yalnızca sahip olduğunuz cihazlarda passkeys ayarlayın."
     },
     "passkey-guide2-title": {
+      "amharic": "በሁሉም ተዛመዱ መሣሪያዎችዎ ላይ ይሰራል",
       "dutch": "Werkt op al uw compatibele apparaten",
       "english": "Works on all your compatible devices",
       "french": "Fonctionne sur tous vos appareils compatibles",
@@ -911,6 +991,7 @@
       "turkish": "Tüm uyumlu cihazlarınızda çalışır"
     },
     "passkey-guide3-desc": {
+      "amharic": "ፓስኪ የዘመናዊ የphishing መከላከያ ይሰጣል። የፊት፣ የጣት አሻራ ወይም የPIN ውሂብ አናስቀምጥም",
       "dutch": "Passkey biedt geavanceerde phishing-bescherming. Wij slaan uw gezichts-, vingerafdruk- of pincodegegevens niet op.",
       "english": "Passkey provides state-of-the-art phishing protection. We do not store your face, fingerprint or PIN data.",
       "french": "Passkey offre une protection contre le phishing de pointe. Nous ne stockons pas votre visage, vos empreintes digitales ou vos données PIN.",
@@ -923,6 +1004,7 @@
       "turkish": "Passkey, son teknoloji ürünü kimlik avı koruması sağlar. Yüzünüzü, parmak izinizi veya PIN verilerinizi saklamayız."
     },
     "passkey-guide3-title": {
+      "amharic": "የአካውንትዎን ደህንነት ያረጋግጣል",
       "dutch": "Garandeert de veiligheid van uw account",
       "english": "Ensures your account’s security",
       "french": "Assure la sécurité de votre compte",
@@ -935,6 +1017,7 @@
       "turkish": "Hesabınızın güvenliğini sağlar"
     },
     "password-delete-desc": {
+      "amharic": "የመልሶ ፋክተር ሆኖ የሚሰራ የይለፍ ቃል ያስወግዱ",
       "dutch": "Verwijder het wachtwoord als herstelfactor.",
       "english": "Remove password as a recovery factor.",
       "french": "Supprimez le mot de passe comme facteur de récupération.",
@@ -947,6 +1030,7 @@
       "turkish": "Kurtarma faktörü olarak şifreyi kaldırın."
     },
     "password-delete-note-desc": {
+      "amharic": "“አረጋግጥ” በመምረጥ ይህን የይለፍ ቃል እንደ መልሶ ፋክተር ቋሚ በመሰረዝ ታጥፋለች። занለማድረስ እንደገና ካልተመዘገበ ማግኘት አትችሉም",
       "dutch": "Door 'Bevestigen' te selecteren, verwijdert u het wachtwoord definitief als herstelfactor. U kunt het niet langer als herstelmethode gebruiken, tenzij u het opnieuw instelt.",
       "english": "By selecting \"Confirm,\" you will permanently remove the password as a recovery factor. You will no longer be able to use it as a recovery method unless you set it up again.",
       "french": "En sélectionnant \"Confirmer\", vous supprimerez définitivement le mot de passe comme facteur de récupération. Vous ne pourrez plus l'utiliser comme méthode de récupération à moins que vous ne le configuriez à nouveau.",
@@ -959,6 +1043,7 @@
       "turkish": "\"Onayla\"yı seçtiğinizde, kurtarma faktörü olarak şifreyi kalıcı olarak kaldıracaksınız. Tekrar kurmadığınız sürece artık bunu bir kurtarma yöntemi olarak kullanamayacaksınız."
     },
     "password-delete-note-title": {
+      "amharic": "የመልሶ ፋክተር የይለፍ ቃል ማስወገድ",
       "dutch": "Wachtwoord verwijderen als herstelfactor",
       "english": "Removing password as a recovery factor",
       "french": "Suppression du mot de passe comme facteur de récupération",
@@ -971,6 +1056,7 @@
       "turkish": "Kurtarma faktörü olarak şifreyi kaldırmak"
     },
     "password-delete-title": {
+      "amharic": "የይለፍ ቃል ያስወግዱ",
       "dutch": "Wachtwoord verwijderen",
       "english": "Remove Password",
       "french": "Supprimer le mot de passe",
@@ -983,6 +1069,7 @@
       "turkish": "Şifreyi Kaldır"
     },
     "password-desc": {
+      "amharic": "የመልሶ ፋክተር ሆኖ የሚሰራ የይለፍ ቃል ያቀናብሩ",
       "dutch": "Stel een wachtwoord in als herstelfactor.",
       "english": "Set a password as a recovery factor.",
       "french": "Définissez un mot de passe comme facteur de récupération.",
@@ -995,6 +1082,7 @@
       "turkish": "Kurtarma faktörü olarak bir şifre belirleyin."
     },
     "password-form-desc": {
+      "amharic": "ኃይለኛ የይለፍ ቃል ያቀናብሩ እና አካውንትዎን ለመድረስ ይጠቀሙበታል",
       "dutch": "Stel een sterk wachtwoord in dat wordt gebruikt om toegang te krijgen tot uw account",
       "english": "Set a strong password that will be used to access your account",
       "french": "Définissez un mot de passe fort qui sera utilisé pour accéder à votre compte",
@@ -1007,6 +1095,7 @@
       "turkish": "Hesabınıza erişmek için kullanılacak güçlü bir şifre belirleyin"
     },
     "password-form-title": {
+      "amharic": "የይለፍ ቃል ቅንብር ያቀናብሩ",
       "dutch": "Stel een wachtwoord in",
       "english": "Set up a Password",
       "french": "Configurer un mot de passe",
@@ -1019,6 +1108,7 @@
       "turkish": "Bir Şifre Ayarlayın"
     },
     "password-requirement": {
+      "amharic": "የይለፍ ቃል መስፈርቶች፦",
       "dutch": "Wachtwoordvereisten:",
       "english": "Password requirements:",
       "french": "Exigences relatives au mot de passe :",
@@ -1030,6 +1120,7 @@
       "spanish": "Requisitos de la contraseña:"
     },
     "password-requirement-10-char": {
+      "amharic": "ቢያንስ 10 ቁምፊ (እስከ 100 ቁምፊ)",
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens)",
       "english": "At least 10 characters (and up to 100 characters)",
       "french": "Au moins 10 caractères (et jusqu'à 100 caractères)",
@@ -1041,6 +1132,7 @@
       "spanish": "Al menos 10 caracteres (y hasta 100 caracteres)"
     },
     "password-requirement-case": {
+      "amharic": "ትልቅ እና ትንሽ ፊደሎችን ያካትት",
       "dutch": "Gebruik zowel hoofdletters als kleine letters",
       "english": "Include both uppercase and lowercase letters",
       "french": "Inclure les lettres majuscules et minuscules",
@@ -1053,6 +1145,7 @@
       "turkish": "Hem büyük hem de küçük harfleri dahil edin"
     },
     "password-requirement-char": {
+      "amharic": "ከእነዚህ ምልክቶች አንዱን ይካትት ({'!@#?'})",
       "dutch": "Bevat 1 speciaal teken ({'!@#?'})",
       "english": "Include one of these characters ({'!@#?'})",
       "french": "Inclure un de ces caractères ({'!@#?'})",
@@ -1065,6 +1158,7 @@
       "turkish": "Bu karakterlerden birini içerir ({'!@#?'})"
     },
     "password-requirement-desc": {
+      "amharic": "እነዚህ መስፈርቶች እንዲፈጸሙ ያረጋግጡ",
       "dutch": "Zorg ervoor dat aan deze vereisten wordt voldaan:",
       "english": "Ensure that these requirements are met:",
       "french": "Assurez-vous que ces exigences sont respectées :",
@@ -1076,6 +1170,7 @@
       "spanish": "Asegúrese de que se cumplan estos requisitos:"
     },
     "password-requirement-length": {
+      "amharic": "ቢያንስ 10 ቁምፊ ርዝመት",
       "dutch": "Minimaal 10 tekens lang",
       "english": "Minimum 10 characters long",
       "french": "Minimum 10 caractères",
@@ -1088,6 +1183,7 @@
       "turkish": "Minimum 10 karakter uzunluğunda"
     },
     "password-requirement-lowercase": {
+      "amharic": "ቢያንስ አንድ ትንሽ ፊደል",
       "dutch": "Minstens één kleine letter vereist",
       "english": "At least one lowercase character",
       "french": "Au moins un caractère en minuscule",
@@ -1099,6 +1195,7 @@
       "spanish": "Al menos un carácter en minúscula"
     },
     "password-requirement-specialchar": {
+      "amharic": "መሳሰሉ የተለያዩ ልዩ ባህሪ ምልክቶችን ይካተት፣ ለምሳሌ {'! @ # ?'}",
       "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
       "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
       "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
@@ -1110,6 +1207,7 @@
       "spanish": "Inclusión de al menos un carácter especial, por ejemplo, {'! @ # ?'}"
     },
     "password-requirement-title": {
+      "amharic": "የአነስተኛ የይለፍ ቃል መስፈርቶች",
       "dutch": "Minimale vereisten voor wachtwoorden",
       "english": "Password minimum requirements",
       "french": "Exigences minimales de mot de passe",
@@ -1122,6 +1220,7 @@
       "turkish": "Minimum şifre gereksinimleri"
     },
     "password-requirement-upercase": {
+      "amharic": "ቢያንስ አንድ ትልቅ ፊደል",
       "dutch": "Minimaal 10 tekens (en maximaal 100 tekens) met ten minste één hoofdletter",
       "english": "At least one uppercase character",
       "french": "Au moins un caractère en majuscule",
@@ -1133,6 +1232,7 @@
       "spanish": "Al menos un carácter en mayúscula"
     },
     "password-setup": {
+      "amharic": "የይለፍ ቃል አቀናበር",
       "dutch": "Wachtwoord instellen",
       "english": "Setup Password",
       "french": "Mot de passe de configuration",
@@ -1145,6 +1245,7 @@
       "turkish": "Kurulum Şifresi"
     },
     "recovery-change": {
+      "amharic": "መልሶ ሐረግ ቀይር",
       "dutch": "Herstelzin wijzigen",
       "english": "Change recovery phrase",
       "french": "Modifier la phrase de récupération",
@@ -1157,6 +1258,7 @@
       "turkish": "Kurtarma ifadesini değiştir"
     },
     "recovery-delete-desc": {
+      "amharic": "የመልሶ ሐረግዎን ማስወገድ ያረጋግጡ",
       "dutch": "Bevestig het verwijderen van uw herstelzin.",
       "english": "Confirm deleting your recovery phrase.",
       "french": "Confirmez la suppression de votre phrase de récupération.",
@@ -1169,6 +1271,7 @@
       "turkish": "Kurtarma ifadenizi silmeyi onaylayın."
     },
     "recovery-delete-note-desc": {
+      "amharic": "“አረጋግጥ” በመምረጥ መልሶ ሐረግዎ ቋሚ ይሰርዛል። እንደገና ካልተቋቋመ እንጂ የመልሶ ዘዴ አይሆንም",
       "dutch": "Door 'Bevestigen' te selecteren, verwijdert u de herstelzin permanent. U kunt het niet langer als herstelmethode gebruiken, tenzij u het opnieuw instelt.",
       "english": "By selecting \"Confirm,\" you will permanently remove the recovery phrase. You will no longer be able to use it as a recovery method unless you set it up again.",
       "french": "En sélectionnant \"Confirmer\", vous supprimerez définitivement la phrase de récupération. Vous ne pourrez plus l'utiliser comme méthode de récupération à moins que vous ne le configuriez à nouveau.",
@@ -1181,6 +1284,7 @@
       "turkish": "\"Onayla\"yı seçtiğinizde kurtarma ifadesini kalıcı olarak kaldıracaksınız. Tekrar kurmadığınız sürece artık bunu bir kurtarma yöntemi olarak kullanamayacaksınız."
     },
     "recovery-delete-note-title": {
+      "amharic": "የመልሶ ሐረግ ማስወገድ",
       "dutch": "Herstelzin verwijderen",
       "english": "Deleting Recovery Phrase",
       "french": "Suppression de la phrase de récupération",
@@ -1193,6 +1297,7 @@
       "turkish": "Kurtarma İfadesini Silme"
     },
     "recovery-delete-title": {
+      "amharic": "መልሶ ሐረግ ያስወግዱ",
       "dutch": "Herstelzin verwijderen",
       "english": "Delete Recovery Phrase",
       "french": "Supprimer la phrase de récupération",
@@ -1205,6 +1310,7 @@
       "turkish": "Kurtarma İfadesini Sil"
     },
     "recovery-email-sent": {
+      "amharic": "መልሶ ሐረግ ወደ ኢሜይል ተልኳል",
       "dutch": "Herstelzin verzonden naar e-mail",
       "english": "Recovery phrase sent to Email",
       "french": "Phrase de récupération envoyée par e-mail",
@@ -1217,6 +1323,7 @@
       "turkish": "E-postaya gönderilen kurtarma ifadesi"
     },
     "recovery-new-desc": {
+      "amharic": "እንደ መልሶ ፋክተር ለመጠቀም መልሶ ሐረግ ይፍጠሩ",
       "dutch": "Genereer een herstelzin om deze als herstelfactor te gebruiken.",
       "english": "Generate recovery phrase to use it as a recovery factor.",
       "french": "Générez une phrase de récupération pour l'utiliser comme facteur de récupération.",
@@ -1229,6 +1336,7 @@
       "turkish": "Kurtarma faktörü olarak kullanmak için kurtarma ifadesi oluşturun."
     },
     "recovery-new-title": {
+      "amharic": "መልሶ ሐረግ ይፍጠሩ",
       "dutch": "Herstelzin genereren",
       "english": "Generate recovery phrase",
       "french": "Générer une phrase de récupération",
@@ -1241,6 +1349,7 @@
       "turkish": "Kurtarma ifadesi oluştur"
     },
     "recovery-phrase-adv-options-hide": {
+      "amharic": "የላቀ አማራጮች ደብቅ",
       "dutch": "Geavanceerde opties verbergen",
       "english": "Hide advanced options",
       "french": "Masquer les options avancées",
@@ -1253,6 +1362,7 @@
       "turkish": "Gelişmiş seçenekleri gizle"
     },
     "recovery-phrase-adv-options-show": {
+      "amharic": "የላቀ አማራጮች አሳይ",
       "dutch": "Geavanceerde opties weergeven",
       "english": "Show advanced options",
       "french": "Afficher les options avancées",
@@ -1265,6 +1375,7 @@
       "turkish": "Gelişmiş seçenekleri göster"
     },
     "recovery-phrase-back": {
+      "amharic": "ተመለስ",
       "dutch": "Terug",
       "english": "Back",
       "french": "Retour",
@@ -1277,6 +1388,7 @@
       "turkish": "Geri"
     },
     "recovery-phrase-desc": {
+      "amharic": "የዋሌት መልሶ ሐረግ ለመቀበል ኢሜይልዎን ያስገቡ። ዋሌትዎን ለመመለስ ይህ ያስፈልጋል።",
       "dutch": "Voer uw e-mailadres in om een ​​portemonnee-herstelzin te ontvangen. Je hebt het nodig om je portemonnee te herstellen.",
       "english": "Input your email to receive a wallet recovery phrase. You need it to recover your wallet.",
       "french": "Saisissez votre e-mail pour recevoir une phrase de récupération de portefeuille. Vous en avez besoin pour récupérer votre portefeuille.",
@@ -1289,6 +1401,7 @@
       "turkish": "Cüzdan kurtarma ifadesini almak için e-postanızı girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var."
     },
     "recovery-phrase-download": {
+      "amharic": "መልሶ ሐረግ አውርድ",
       "dutch": "Herstelzin downloaden",
       "english": "Download recovery phrase",
       "french": "Télécharger la phrase de récupération",
@@ -1301,6 +1414,7 @@
       "turkish": "Kurtarma ifadesini indir"
     },
     "recovery-phrase-edit-email": {
+      "amharic": "ኢሜይል አርትዕ",
       "dutch": "E-mail bewerken",
       "english": "Edit email",
       "french": "Modifier l'e-mail",
@@ -1313,6 +1427,7 @@
       "turkish": "E-postayı düzenle"
     },
     "recovery-phrase-incorrect": {
+      "amharic": "የተሳሳተ መልሶ ፋክተር",
       "dutch": "Onjuiste herstelfactor",
       "english": "Incorrect recovery factor",
       "french": "Facteur de récupération incorrect",
@@ -1325,6 +1440,7 @@
       "turkish": "Yanlış kurtarma faktörü"
     },
     "recovery-phrase-send": {
+      "amharic": "የመልሶ ሐረግ ይላኩልኝ",
       "dutch": "Stuur mij mijn herstelzin",
       "english": "Send me my recovery phrase",
       "french": "Envoyez-moi ma phrase de récupération",
@@ -1337,6 +1453,7 @@
       "turkish": "Bana kurtarma ifademi gönder"
     },
     "recovery-phrase-title-change": {
+      "amharic": "አዲስ መልሶ ሐረግ ይፍጠሩ",
       "dutch": "Genereer een nieuwe herstelzin",
       "english": "Generate a new Recovery Phrase",
       "french": "Générer une nouvelle phrase de récupération",
@@ -1349,6 +1466,7 @@
       "turkish": "Yeni bir Kurtarma İfadesi oluşturun"
     },
     "recovery-phrase-title-desc": {
+      "amharic": "የመልሶ ሐረግ ይቀበሉ",
       "dutch": "Ontvang mijn herstelzin",
       "english": "Get my Recovery Phrase",
       "french": "Obtenir ma phrase de récupération",
@@ -1361,6 +1479,7 @@
       "turkish": "Kurtarma İfademi Alın"
     },
     "recovery-phrase-title-new": {
+      "amharic": "የመልሶ ሐረግ ይቀበሉ",
       "dutch": "Ontvang mijn herstelzin",
       "english": "Get my Recovery Phrase",
       "french": "Obtenir ma phrase de récupération",
@@ -1373,6 +1492,7 @@
       "turkish": "Kurtarma İfademi Alın"
     },
     "recovery-phrase-verify-desc-copy": {
+      "amharic": "የተቀደመውን መልሶ ፋክተር ያስገቡ",
       "dutch": "Voer de gekopieerde herstelfactor in",
       "english": "Enter the copied recovery factor",
       "french": "Entrez le facteur de récupération copié",
@@ -1385,6 +1505,7 @@
       "turkish": "Kopyalanan kurtarma faktörünü girin"
     },
     "recovery-phrase-verify-desc-download": {
+      "amharic": "የተወረደውን መልሶ ፋክተር ያስገቡ",
       "dutch": "Voer de gedownloade herstelfactor in",
       "english": "Enter the downloaded recovery factor",
       "french": "Entrez le facteur de récupération téléchargé",
@@ -1397,6 +1518,7 @@
       "turkish": "İndirilen kurtarma faktörünü girin"
     },
     "recovery-phrase-verify-desc-email": {
+      "amharic": "ወደ {0} የተልከውን መልሶ ሐረግ ያስገቡ",
       "dutch": "Voer de herstelzin in die is verzonden naar {0}",
       "english": "Enter Recovery phrase sent to {0}",
       "french": "Entrez la phrase de récupération envoyée à {0}",
@@ -1409,6 +1531,7 @@
       "turkish": "{0} adresine gönderilen Kurtarma ifadesini girin"
     },
     "recovery-phrase-verify-notice": {
+      "amharic": "መልሶ ሐረግ በመቀየር ላይ",
       "dutch": "Herstelzin wijzigen",
       "english": "Changing recovery phrase",
       "french": "Modification de la phrase de récupération",
@@ -1421,6 +1544,7 @@
       "turkish": "Kurtarma ifadesini değiştirme"
     },
     "recovery-phrase-verify-notice-desc": {
+      "amharic": "አዲሱን መልሶ ሐረግ ማረጋገጥ ያለውን ቋሚ ይተካዋል",
       "dutch": "Als u de nieuwe herstelzin verifieert, wordt de bestaande permanent vervangen.",
       "english": "Verifying the new recovery phrase will permanently replace the existing one.",
       "french": "La vérification de la nouvelle phrase de récupération remplacera définitivement celle existante.",
@@ -1433,6 +1557,7 @@
       "turkish": "Yeni kurtarma ifadesinin doğrulanması, mevcut ifadenin kalıcı olarak yerini alacaktır."
     },
     "recovery-phrase-verify-paste": {
+      "amharic": "መልሶ ሐረግዎን ይለጥፉ",
       "dutch": "Plak uw herstelzin",
       "english": "Paste your recovery phrase",
       "french": "Collez votre phrase de récupération",
@@ -1445,6 +1570,7 @@
       "turkish": "Kurtarma ifadenizi yapıştırın"
     },
     "recovery-phrase-verify-resend": {
+      "amharic": "መልሶ ሐረግ እንደገና ላክ",
       "dutch": "Herstelzin opnieuw verzenden",
       "english": "Resend recovery phrase",
       "french": "Renvoyer la phrase de récupération",
@@ -1457,6 +1583,7 @@
       "turkish": "Kurtarma ifadesini yeniden gönder"
     },
     "recovery-phrase-verify-title": {
+      "amharic": "የመልሶ ፋክተር ማረጋገጫ",
       "dutch": "Verificatie van de herstelfactor",
       "english": "Recovery Factor verification",
       "french": "Vérification du facteur de récupération",
@@ -1469,6 +1596,7 @@
       "turkish": "Kurtarma Faktörü doğrulaması"
     },
     "recovery-title": {
+      "amharic": "መልሶ ሐረግ",
       "dutch": "Herstelzin",
       "english": "Recovery phrase",
       "french": "Phrase de récupération",
@@ -1481,6 +1609,7 @@
       "turkish": "Kurtarma ifadesi"
     },
     "remove-share-button": {
+      "amharic": "share ያስወግዱ",
       "dutch": "Verwijder deelknop",
       "english": "Remove share",
       "french": "Supprimer le partage",
@@ -1492,6 +1621,7 @@
       "spanish": "Quitar recurso"
     },
     "setup-on": {
+      "amharic": "ተዘጋጅቷል በ",
       "dutch": "Opzetten op",
       "english": "Set up on",
       "french": "Configurer sur",
@@ -1504,6 +1634,7 @@
       "turkish": "Kurulum tarihi"
     },
     "social-account": {
+      "amharic": "{0} አካውንት",
       "dutch": "{0}-account",
       "english": "{0} account",
       "french": "Compte {0}",
@@ -1516,6 +1647,7 @@
       "turkish": "{0} hesabı"
     },
     "social-delete-note-desc": {
+      "amharic": "“አረጋግጥ” በመምረጥ ይህንን የማህበራዊ መልሶ ፋክተር ቋሚ ታስወግዱታላችሁ። እንደገና ካልተመዘገበ እንጂ ይህን ማህበራዊ መለያ የመልሶ ዘዴ ሆኖ መጠቀም አትችሉም።",
       "dutch": "Door 'Bevestigen' te selecteren, verwijdert u de sociale herstelfactor definitief. U kunt dit sociale account niet langer als herstelmethode gebruiken, tenzij u het opnieuw instelt.",
       "english": "By selecting \"Confirm,\" you will permanently delete the social recovery factor. You will no longer be able to use this social account as a recovery method unless you set it up again.",
       "french": "En sélectionnant \"Confirmer\", vous supprimerez définitivement le facteur de récupération sociale. Vous ne pourrez plus utiliser ce compte social comme méthode de récupération à moins de le reconfigurer.",
@@ -1528,6 +1660,7 @@
       "turkish": "\"Onayla\"yı seçtiğinizde sosyal kurtarma faktörünü kalıcı olarak sileceksiniz. Tekrar kurmadığınız sürece bu sosyal hesabı artık bir kurtarma yöntemi olarak kullanamayacaksınız."
     },
     "social-delete-title": {
+      "amharic": "የማህበራዊ መልሶ ፋክተር ማስወገድ",
       "dutch": "Sociale herstelfactor verwijderen",
       "english": "Deleting Social Recovery Factor",
       "french": "Suppression du facteur de récupération sociale",
@@ -1540,6 +1673,7 @@
       "turkish": "Sosyal Kurtarma Faktörünün Silinmesi"
     },
     "social-desc": {
+      "amharic": "የማህበራዊ መለያዎን እንደ መልሶ ፋክተር ያቀናብሩ",
       "dutch": "Stel uw sociale account in als herstelfactor.",
       "english": "Set up your social account as a recovery factor.",
       "french": "Configurez votre compte social comme facteur de récupération.",
@@ -1552,6 +1686,7 @@
       "turkish": "Sosyal hesabınızı bir kurtarma faktörü olarak ayarlayın."
     },
     "social-factor-change": {
+      "amharic": "ማህበራዊ ፋክተር ቀይር",
       "dutch": "Verander sociale factor",
       "english": "Change Social Factor",
       "french": "Modifier le facteur social",
@@ -1563,6 +1698,7 @@
       "spanish": "Cambiar el factor social"
     },
     "social-factor-change-description": {
+      "amharic": "“አረጋግጥ” በመምረጥ ያለዎትን የማህበራዊ መለያ በዚህ አዲሱ መቀየር ቋሚ ይሆናል። እንደገና ካልተቋቋመ እንጂ አሮጌውን መለያ የመልሶ ዘዴ ሆኖ መጠቀም አትችሉም።",
       "dutch": "Door 'Bevestigen' te selecteren, vervangt u uw bestaande sociale account permanent door dit account als sociale herstelfactor. U kunt het oude sociale account niet langer als herstelmethode gebruiken, tenzij u het opnieuw instelt.",
       "english": "By selecting \"Confirm,\" you will permanently replace your existing social account with this one as a social recovery factor. You will no longer be able to use the old social account as a recovery method unless you set it up again.",
       "french": "En sélectionnant \"Confirmer\", vous remplacerez définitivement votre compte social existant par celui-ci comme facteur de récupération sociale. Vous ne pourrez plus utiliser l'ancien compte social comme méthode de récupération à moins que vous ne le reconfiguriez.",
@@ -1575,6 +1711,7 @@
       "turkish": "\"Onayla\"yı seçtiğinizde, sosyal iyileşme faktörü olarak mevcut sosyal hesabınızı kalıcı olarak bu hesapla değiştireceksiniz. Yeniden kurmadığınız sürece eski sosyal hesabı artık kurtarma yöntemi olarak kullanamayacaksınız."
     },
     "social-factor-change-title": {
+      "amharic": "የማህበራዊ መልሶ ፋክተር በመቀየር ላይ",
       "dutch": "Veranderende sociale herstelfactor",
       "english": "Changing Social Recovery Factor",
       "french": "Changer le facteur de récupération sociale",
@@ -1587,6 +1724,7 @@
       "turkish": "Sosyal İyileşme Faktörünün Değiştirilmesi"
     },
     "social-factor-desc": {
+      "amharic": "ተወላጅ የማህበራዊ መለያ እንደ ተተኪ ይጠቀሙ ወይም በስልክዎ የSMS OTP ይቀበሉ",
       "dutch": "Gebruik een ander sociaal account als back-up of ontvang een sms-OTP op uw telefoon.",
       "english": "Use a different social account as backup or receive an SMS OTP on your phone.",
       "french": "Utilisez un autre compte social comme sauvegarde ou recevez un SMS OTP sur votre téléphone.",
@@ -1599,6 +1737,7 @@
       "turkish": "Yedek olarak farklı bir sosyal hesap kullanın veya telefonunuza bir SMS OTP alın."
     },
     "social-factor-label": {
+      "amharic": "ተተኪ የማህበራዊ መለያ",
       "dutch": "Maak een back-up van een sociaal account",
       "english": "Backup Social Account",
       "french": "Compte social de sauvegarde",
@@ -1611,6 +1750,7 @@
       "turkish": "Sosyal Hesabı Yedekle"
     },
     "social-factor-new": {
+      "amharic": "አዲስ",
       "dutch": "Nieuw",
       "english": "New",
       "french": "Nouveau",
@@ -1623,6 +1763,7 @@
       "turkish": "Yeni"
     },
     "social-factor-title-change": {
+      "amharic": "የማህበራዊ መልሶ ፋክተር በመቀየር ላይ",
       "dutch": "Veranderende sociale herstelfactor",
       "english": "Changing Social Recovery Factor",
       "french": "Changer le facteur de récupération sociale",
@@ -1635,6 +1776,7 @@
       "turkish": "Sosyal İyileşme Faktörünün Değiştirilmesi"
     },
     "social-factor-title-new": {
+      "amharic": "የማህበራዊ መልሶ ፋክተር ያቀናብሩ",
       "dutch": "Stel een sociale herstelfactor in",
       "english": "Set up a Social Recovery Factor",
       "french": "Mettre en place un facteur de récupération sociale",
@@ -1647,6 +1789,7 @@
       "turkish": "Bir Sosyal Kurtarma Faktörü Oluşturun"
     },
     "social-setup": {
+      "amharic": "የማህበራዊ መልሶ ቅንብር",
       "dutch": "Sociaal herstel instellen",
       "english": "Setup Social Recovery",
       "french": "Configurer la récupération sociale",
@@ -1659,6 +1802,7 @@
       "turkish": "Sosyal Kurtarmayı Kur"
     },
     "title": {
+      "amharic": "አካውንት",
       "dutch": "Account",
       "english": "Account",
       "french": "Compte",

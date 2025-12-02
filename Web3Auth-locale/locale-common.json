@@ -1,6 +1,7 @@
 {
   "modal": {
     "adapter-loader.message": {
+      "amharic": "ለመቀጠል የ{{adapter}} አካውንትዎን ያረጋግጡ",
       "dutch": "Verifieer uw {{adapter}}-account om door te gaan",
       "english": "Verify your {{adapter}} account to continue",
       "french": "Vérifiez votre compte {{adapter}} pour continuer",
@@ -13,6 +14,7 @@
       "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula"
     },
     "adapter-loader.message1": {
+      "amharic": "የ{{adapter}} እባክዎ ያረጋግጡ",
       "dutch": "Verifieer uw {{adapter}}",
       "english": "Verify your {{adapter}}",
       "french": "Vérifiez votre {{adapter}}",
@@ -25,6 +27,7 @@
       "turkish": "{{adapter}} doğrula"
     },
     "adapter-loader.message2": {
+      "amharic": "አካውንት ለመቀጠል",
       "dutch": "account om door te gaan",
       "english": "account to continue",
       "french": "compte pour continuer",
@@ -37,6 +40,7 @@
       "turkish": "devam edecek hesap"
     },
     "allChains": {
+      "amharic": "ሁሉም ቼኖች",
       "dutch": "Alle ketens",
       "english": "All Chains",
       "french": "Toutes les chaînes",
@@ -49,6 +53,7 @@
       "turkish": "Tüm zincirler"
     },
     "connect-wallet.more-wallets": {
+      "amharic": "ተጨማሪ ዋሌቶች",
       "dutch": "Meer portemonnees",
       "english": "More Wallets",
       "french": "Plus de portefeuilles",
@@ -61,6 +66,7 @@
       "turkish": "Daha fazla cüzdan"
     },
     "connectYourWallet": {
+      "amharic": "ዋሌትዎን ያገናኙ",
       "dutch": "Uw portemonnee verbinden",
       "english": "Connect your wallet",
       "french": "Connectez votre portefeuille",
@@ -73,6 +79,7 @@
       "turkish": "Cüzdanınızı bağlayın"
     },
     "errors-invalid-email": {
+      "amharic": "የተሳሳተ ኢሜይል",
       "dutch": "Ongeldig e-mailadres",
       "english": "Invalid Email",
       "french": "E-mail invalide",
@@ -85,6 +92,7 @@
       "turkish": "Geçersiz E-posta"
     },
     "errors-invalid-number": {
+      "amharic": "የተሳሳተ የስልክ ቁጥር",
       "dutch": "Ongeldig telefoonnummer",
       "english": "Invalid Phone Number",
       "french": "Numéro de téléphone invalide",
@@ -97,6 +105,7 @@
       "turkish": "Geçersiz Telefon Numarası"
     },
     "errors-invalid-number-email": {
+      "amharic": "የተሳሳተ ኢሜይል ወይም የስልክ ቁጥር",
       "dutch": "Ongeldig e-mailadres of telefoonnummer",
       "english": "Invalid Email or Phone Number",
       "french": "Adresse e-mail ou numéro de téléphone invalide",
@@ -109,6 +118,7 @@
       "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-required": {
+      "amharic": "አስፈላጊ",
       "dutch": "Vereist",
       "english": "Required",
       "french": "Champ obligatoire",
@@ -121,6 +131,7 @@
       "turkish": "Zorunlu"
     },
     "external.all-wallets": {
+      "amharic": "ሁሉም ዋሌቶች",
       "dutch": "Alle portemonnees",
       "english": "All Wallets",
       "french": "Toutes les billeteras",
@@ -133,6 +144,7 @@
       "turkish": "Tüm cüzdanlar"
     },
     "external.back": {
+      "amharic": "ወደ ኋላ",
       "dutch": "Terug",
       "english": "Back",
       "french": "Retour",
@@ -145,6 +157,7 @@
       "turkish": "Geri"
     },
     "external.connect": {
+      "amharic": "በዋሌት ቀጥሉ",
       "dutch": "Ga verder met een portemonnee",
       "english": "Continue with a wallet",
       "french": "Continuer avec un portefeuille",
@@ -157,6 +170,7 @@
       "turkish": "Cüzdanla devam et"
     },
     "external.connect-wallet": {
+      "amharic": "ዋሌት ያገናኙ",
       "dutch": "Verbinden met portemonnee",
       "english": "Connect Wallet",
       "french": "Connecter le portefeuille",
@@ -169,6 +183,7 @@
       "turkish": "Cüzdanı Bağla"
     },
     "external.continue": {
+      "amharic": "ውጭ ዋሌት ቀጥሉ",
       "dutch": "Ga verder met externe portemonnee",
       "english": "Continue with external wallet",
       "french": "Continuer avec le portefeuille externe",
@@ -181,6 +196,7 @@
       "turkish": "Harici cüzdanla devam et"
     },
     "external.continue-custom": {
+      "amharic": "በ{{wallet}} ቀጥሉ",
       "dutch": "Doorgaan met {{wallet}}",
       "english": "Continue with {{wallet}}",
       "french": "Continuer avec {{wallet}}",
@@ -193,6 +209,7 @@
       "turkish": "{{wallet}} ile devam et"
     },
     "external.dont-have": {
+      "amharic": "የለዎትም",
       "dutch": "Heb niet",
       "english": "Don't have",
       "french": "N'avez pas",
@@ -205,6 +222,7 @@
       "turkish": "Yok"
     },
     "external.get": {
+      "amharic": "ያግኙ",
       "dutch": "Krijgen",
       "english": "Get",
       "french": "Obtenir",
@@ -217,6 +235,7 @@
       "turkish": "Al"
     },
     "external.get-wallet": {
+      "amharic": "ዋሌት ያግኙ",
       "dutch": "Portemonnee krijgen",
       "english": "Get Wallet",
       "french": "Obtenir un portefeuille",
@@ -229,6 +248,7 @@
       "turkish": "Cüzdan Al"
     },
     "external.install-browser-extension": {
+      "amharic": "የ{{browser}} ኤክስቴንሽኑን ይጫኑ",
       "dutch": "{{browser}}-extensie installeren",
       "english": "Install {{browser}} extension",
       "german": "Installieren Sie die {{browser}}-Erweiterung",
@@ -240,6 +260,7 @@
       "turkish": "{{browser}} uzantısını yükle"
     },
     "external.install-mobile-app": {
+      "amharic": "የ{{os}} መተግበሪያውን ይጫኑ",
       "dutch": "Installeer {{os}}-app",
       "english": "Install {{os}} app",
       "german": "Installieren Sie die {{os}}-App",
@@ -251,6 +272,7 @@
       "turkish": "{{os}} uygulamasını yükle"
     },
     "external.installed": {
+      "amharic": "ተጭኗል",
       "dutch": "Geïnstalleerd",
       "english": "Installed",
       "french": "Installé",
@@ -263,6 +285,7 @@
       "turkish": "Yüklendi"
     },
     "external.no-wallets-found": {
+      "amharic": "ምንም ዋሌቶች አልተገኙም",
       "dutch": "Geen portefeuilles gevonden",
       "english": "No wallets found",
       "french": "Aucun portefeuille trouvé",
@@ -275,6 +298,7 @@
       "turkish": "Cüzdan bulunamadı"
     },
     "external.qr-code-copied-to-clipboard": {
+      "amharic": "URI ወደ ቅንጥብ ሰሌዳ ተቀድቷል",
       "dutch": "URI naar klembord gekopieerd",
       "english": "URI copied to clipboard",
       "french": "URI copié dans le presse-papiers",
@@ -287,6 +311,7 @@
       "turkish": "URI panoya kopyalandı"
     },
     "external.search-subtext": {
+      "amharic": "በማፈልጋት ይሞክሩ",
       "dutch": "Probeer in plaats daarvan te zoeken",
       "english": "Try search instead",
       "french": "Essayez plutôt de rechercher",
@@ -299,6 +324,7 @@
       "turkish": "Bunun yerine aramayı deneyin"
     },
     "external.search-text": {
+      "amharic": "ዋሌትዎን አታዩም?",
       "dutch": "Ziet u uw portemonnee niet?",
       "english": "Don't see your wallet?",
       "french": "Vous ne voyez pas votre portefeuille ?",
@@ -311,6 +337,7 @@
       "turkish": "Cüzdanınızı görmüyor musunuz?"
     },
     "external.search-wallet": {
+      "amharic": "በ{{count}} ዋሌቶች ውስጥ ፈልጉ..",
       "dutch": "Zoeken door {{count}} portemonnees...",
       "english": "Search through {{count}} wallets...",
       "french": "Rechercher parmi {{count}} portefeuilles...",
@@ -323,6 +350,7 @@
       "turkish": "{{count}} cüzdan ara..."
     },
     "external.select-chain": {
+      "amharic": "ቼን ይምረጡ",
       "dutch": "Ketting selecteren",
       "english": "Select Chain",
       "french": "Sélectionner la chaîne",
@@ -335,6 +363,7 @@
       "turkish": "Zincir seç"
     },
     "external.select-chain-description": {
+      "amharic": "ይህ {{wallet}} ዋሌት ብዙ ቼኖችን ይደግፋል። ለመገናኘት የሚፈልጉትን ቼን ይምረጡ።",
       "dutch": "Deze {{wallet}} portemonnee ondersteunt meerdere ketens. Selecteer welke ketting u wilt verbinden",
       "english": "This {{wallet}} wallet supports multiple chains. Select which chain you'd like to connect to",
       "french": "Cette {{wallet}} portefeuille prend en charge plusieurs chaînes. Sélectionnez la chaîne que vous souhaitez connecter",
@@ -347,6 +376,7 @@
       "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin"
     },
     "external.title": {
+      "amharic": "ውጭ ዋሌት",
       "dutch": "Externe portemonnee",
       "english": "External Wallet",
       "french": "Portefeuille externe",
@@ -359,6 +389,7 @@
       "turkish": "Harici Cüzdan"
     },
     "external.walletconnect-connect": {
+      "amharic": "ያገናኙ",
       "dutch": "Verbinden",
       "english": "Connect",
       "french": "Se connecter",
@@ -371,6 +402,7 @@
       "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
+      "amharic": "የWalletConnect የሚደግፍ ዋሌት በመጠቀም የQR ኮዱን ይስክኑ ወይም ሊንኩን ለመቅዳት በQR ኮዱ ላይ ይንኩ።",
       "dutch": "Verbinden met WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren",
       "english": "Scan the QR code with WalletConnect supported wallet or click the QR code to copy link",
       "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez sur le code QR pour copier le lien",
@@ -383,6 +415,7 @@
       "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın veya QR koduna tıklayarak bağlantıyı kopyalayın"
     },
     "external.walletconnect-subtitle": {
+      "amharic": "ለWalletConnect ተስማሚ ዋሌት በመጠቀም የQR ኮዱን ይስክኑ።",
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
       "english": "Scan the QR code with a WalletConnect-compatible wallet",
       "french": "Scannez le code QR avec un portefeuille compatible WalletConnect",
@@ -395,6 +428,7 @@
       "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın"
     },
     "footer.and": {
+      "amharic": "እና",
       "dutch": "en",
       "english": "and",
       "french": "et",
@@ -407,6 +441,7 @@
       "turkish": "ve"
     },
     "footer.by-signing-in": {
+      "amharic": "በመግባትዎ ለኛ ተስማምተዋል ይሆናል።",
       "dutch": "Door in te loggen, gaat u akkoord met onze",
       "english": "By signing in, you agree to our",
       "french": "En vous connectant, vous acceptez nos",
@@ -419,6 +454,7 @@
       "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir."
     },
     "footer.message": {
+      "amharic": "በራስ-መንበር መግቢያ በ",
       "dutch": "Zelfbeheerde login door",
       "english": "Self-custodial login by",
       "french": "Connexion en autonomie par",
@@ -431,6 +467,7 @@
       "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
+      "amharic": "በራስ-መንበር በ",
       "dutch": "Zelfkusten via",
       "english": "Self-custody via",
       "french": "Auto-cuir via",
@@ -443,6 +480,7 @@
       "turkish": "Kendi kendine velayet"
     },
     "footer.policy": {
+      "amharic": "የግላዊነት ፖሊሲ",
       "dutch": "Privacybeleid",
       "english": "Privacy Policy",
       "french": "Politique de confidentialité",
@@ -455,6 +493,7 @@
       "turkish": "Gizlilik Politikası"
     },
     "footer.privacy-policy": {
+      "amharic": "የግላዊነት ፖሊሲ",
       "dutch": "Privacy Policy",
       "english": "Privacy Policy",
       "french": "Politique de confidentialité",
@@ -467,6 +506,7 @@
       "turkish": "Gizlilik Politikası"
     },
     "footer.terms": {
+      "amharic": "የተጠቃሚ መመሪያዎች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Use",
       "french": "Conditions d'utilisation",
@@ -479,6 +519,7 @@
       "turkish": "Kullanım Şartları"
     },
     "footer.terms-of-service": {
+      "amharic": "የአገልግሎት ደንቦች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Service",
       "french": "Conditions d'utilisation",
@@ -491,6 +532,7 @@
       "turkish": "Kullanım Şartları"
     },
     "footer.terms-service": {
+      "amharic": "የአገልግሎት ደንቦች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Service",
       "french": "Conditions d'utilisation",
@@ -503,6 +545,7 @@
       "turkish": "Hizmet Şartları"
     },
     "footer.version": {
+      "amharic": "ተለቂ",
       "dutch": "Versie",
       "english": "Version",
       "french": "Version",
@@ -515,6 +558,7 @@
       "turkish": "Versiyon"
     },
     "getWallet": {
+      "amharic": "ዋሌት ያግኙ",
       "dutch": "Portemonnee ophalen",
       "english": "Get Wallet",
       "french": "Obtenir le portefeuille",
@@ -527,6 +571,7 @@
       "turkish": "Cüzdanı al"
     },
     "header-subtitle": {
+      "amharic": "ለመቀጠል ከሚከተሉት አማራጮች አንዱን ይምረጡ።",
       "dutch": "Selecteer een van de volgende opties om door te gaan",
       "english": "Select one of the following options to continue",
       "french": "Sélectionnez l'une des options suivantes pour continuer",
@@ -539,6 +584,7 @@
       "turkish": "Devam etmek için seçeneklerden birini işaretle"
     },
     "header-subtitle-name": {
+      "amharic": "የ{{appName}} ዋሌትዎ በአንድ ጠቅታ",
       "dutch": "Uw {{appName}}-portemonnee met één klik",
       "english": "Your {{appName}} wallet with one click",
       "french": "Votre portefeuille {{appName}} en un clic",
@@ -551,6 +597,7 @@
       "turkish": "Tek tıklama ile {{appName}} cüzdanınız"
     },
     "header-subtitle-new": {
+      "amharic": "የእርስዎ ብሎክቼን ዋሌት በአንድ ጠቅታ",
       "dutch": "Uw blockchain-portemonnee met één klik",
       "english": "Your blockchain wallet with one click",
       "french": "Votre portefeuille blockchain en un clic",
@@ -563,6 +610,7 @@
       "turkish": "Tek tıklama ile blockchain cüzdanınız"
     },
     "header-title": {
+      "amharic": "ይግቡ",
       "dutch": "Aanmelden",
       "english": "Sign in",
       "french": "Se connecter",
@@ -575,6 +623,7 @@
       "turkish": "Giriş yap"
     },
     "header-tooltip-desc": {
+      "amharic": "ዋሌቱ በብሎክቼን ላይ የዲጂታል ንብረቶችዎን ለመያዝና ለማቀናበር አካውንት እንደሚያገለግል ይሰራል።",
       "dutch": "De portemonnee dient als een account om uw digitale activa op de blockchain op te slaan en te beheren.",
       "english": "The wallet serves as an account to store and manage your digital assets on the blockchain.",
       "french": "Le portefeuille sert de compte pour stocker et gérer vos actifs numériques sur la blockchain.",
@@ -587,6 +636,7 @@
       "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür."
     },
     "header-tooltip-title": {
+      "amharic": "ዋሌት",
       "dutch": "Portemonnee",
       "english": "Wallet",
       "french": "Portefeuille",
@@ -632,6 +682,7 @@
       "turkish": "Doğrulamak için buraya tıklayın"
     },
     "network.add-request": {
+      "amharic": "ይህ ድር ጣቢያ ኔትወርክ ለመጨመር ትእዛዝ እየጠየቀ ነው።",
       "dutch": "Deze site vraagt om een netwerk toe te voegen",
       "english": "This site is requesting to add a network",
       "french": "Ce site demande d'ajouter un réseau",
@@ -644,6 +695,7 @@
       "turkish": "Bu site bir ağ eklemek istiyor"
     },
     "network.cancel": {
+      "amharic": "ይቅር\"",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -656,6 +708,7 @@
       "turkish": "İptal"
     },
     "network.from": {
+      "amharic": "ከ",
       "dutch": "Van",
       "english": "From",
       "french": "De",
@@ -668,6 +721,7 @@
       "turkish": "Nereden"
     },
     "network.proceed": {
+      "amharic": "ቀጥሉ",
       "dutch": "Doorgaan",
       "english": "Proceed",
       "french": "Continuer",
@@ -680,6 +734,7 @@
       "turkish": "Devam"
     },
     "network.switch-request": {
+      "amharic": "ይህ ድር ጣቢያ ኔትወርክ ለመቀየር እየጠየቀ ነው።",
       "dutch": "Deze site vraagt om over te schakelen naar een ander netwerk",
       "english": "This site is requesting to switch networks",
       "french": "Ce site demande de changer de réseau",
@@ -692,6 +747,7 @@
       "turkish": "Bu site ağ değiştirmeyi talep ediyor"
     },
     "network.to": {
+      "amharic": "ወደ",
       "dutch": "Naar",
       "english": "To",
       "french": "À",
@@ -704,6 +760,7 @@
       "turkish": "Nereye"
     },
     "otp.email-subtext": {
+      "amharic": "እባክዎ 6 ፊጣሪ የማረጋገጫ ኮዱን ያስገቡ።",
       "dutch": "Voer de 6-cijferige verificatiecode in",
       "english": "Please enter the 6-digit verification code",
       "french": "Veuillez entrer le code de vérification 6 chiffres",
@@ -716,6 +773,7 @@
       "turkish": "6 haneli doğrulama kodunu giriniz"
     },
     "otp.email-subtext-example": {
+      "amharic": "ወደ ኢሜይልዎ {{email}} የተላከው",
       "dutch": "{{email}} adres is verstuurd",
       "english": "that was sent to your email {{email}}",
       "french": "qui a été envoyé à votre email {{email}}",
@@ -728,6 +786,7 @@
       "turkish": "{{email}} adresine gönderildi"
     },
     "otp.email-title": {
+      "amharic": "የኢሜይል ማረጋገጫ",
       "dutch": "Email Verificatie",
       "english": "Email verification",
       "french": "Vérification de l'email",
@@ -740,6 +799,7 @@
       "turkish": "Email Doğrulama"
     },
     "otp.mobile-subtext": {
+      "amharic": "ወደ ተላከው የOTP ኮድ ያስገቡ",
       "dutch": "OTP Verificatie",
       "english": "Enter the OTP sent to",
       "french": "Entrez le OTP envoyé à",
@@ -752,6 +812,7 @@
       "turkish": "OTP Doğrulama"
     },
     "otp.mobile-title": {
+      "amharic": "የOTP ማረጋገጫ",
       "dutch": "OTP Verificatie",
       "english": "OTP verification",
       "french": "Vérification OTP",
@@ -764,6 +825,7 @@
       "turkish": "OTP Doğrulama"
     },
     "otp.success": {
+      "amharic": "ከአካውንትዎ ጋር ተገናኝተዋል!",
       "dutch": "U bent verbonden met uw account!",
       "english": "You are connected to your account!",
       "french": "Vous êtes connecté à votre compte!",
@@ -776,6 +838,7 @@
       "turkish": "Hesabınıza bağlandınız!"
     },
     "passkey.add": {
+      "amharic": "ፓስኪ ያክሉ",
       "dutch": "Passkey toevoegen",
       "english": "Add Passkey",
       "french": "Ajouter Passkey",
@@ -788,6 +851,7 @@
       "turkish": "Passkey ekle"
     },
     "passkey.haveExisting": {
+      "amharic": "ቀድሞ ያለዎት ፓስኪ አለ?",
       "dutch": "Heeft u een bestaande passkey?",
       "english": "Have an existing passkey?",
       "french": "Vous disposez déjà d'un passkey ?",
@@ -800,6 +864,7 @@
       "turkish": "Mevcut bir passkey'ınız mı var?"
     },
     "passkey.learn-more": {
+      "amharic": "ተጨማሪ ይወቁ",
       "dutch": "Kom meer te weten",
       "english": "Learn more",
       "french": "Apprendre encore plus",
@@ -812,6 +877,7 @@
       "turkish": "Daha fazla bilgi edin"
     },
     "passkey.or": {
+      "amharic": "ወይም",
       "dutch": "of",
       "english": "or",
       "french": "ou",
@@ -824,6 +890,7 @@
       "turkish": "veya"
     },
     "passkey.register-desc": {
+      "amharic": "ፓስኪዎችን በመጠቀም ከፊትዎ፣ ከእጅ አሻራዎ ወይም ከደህንነት ቁልፎች በኩል መታወቂያዎን ማረጋገጥ ትችላለህ/ትችላለህ።",
       "dutch": "Met passkeys kunt u uw identiteit verifiëren via uw gezicht, vingerafdruk of beveiligingssleutels.",
       "english": "With passkeys, you can verify your identity through your face, fingerprint, or security keys.",
       "french": "Avec passkeys, vous pouvez vérifier votre identité grâce à votre visage, vos empreintes digitales ou vos clés de sécurité.",
@@ -836,6 +903,7 @@
       "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
     },
     "passkey.register-title": {
+      "amharic": "ፓስኪ ይመዝገቡ",
       "dutch": "Registreer Passkey",
       "english": "Register Passkey",
       "french": "Inscrivez-vous Passkey",
@@ -848,6 +916,7 @@
       "turkish": "Passkey'ı kaydedin"
     },
     "passkey.use": {
+      "amharic": "ፓስኪ አለኝ",
       "dutch": "Ik heb een passkey",
       "english": "I have a passkey",
       "french": "J'ai un passkey",
@@ -860,6 +929,7 @@
       "turkish": "Bir passkey'im var"
     },
     "passwordless.title": {
+      "amharic": "በ{{title}} ቀጥሉ",
       "dutch": "Doorgaan met {{title}}",
       "english": "Continue with {{title}}",
       "french": "Continuer avec {{title}}",
@@ -872,6 +942,7 @@
       "turkish": "{{title}} ile devam et"
     },
     "popup.phone-body": {
+      "amharic": "የአገር ኮድዎ በራሱ ይታወቃል፣ ነገር ግን ከተለየ አገር የስልክ ቁጥር ብትጠቀሙ ትክክለኛውን የአገር ኮድ በእጅ ማስገባት ያስፈልጋል።",
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u handmatig de juiste landcode invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
       "french": "Votre code pays sera détecté automatiquement, mais si vous utilisez un numéro de téléphone d'un autre pays, vous devrez saisir manuellement le bon code pays.",
@@ -884,6 +955,7 @@
       "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir."
     },
     "popup.phone-header": {
+      "amharic": "የስልክ ቁጥር እና የአገር ኮድ",
       "dutch": "Telefoonnummer en landcode",
       "english": "Phone number and country code",
       "french": "Numéro de téléphone et code pays",
@@ -896,6 +968,7 @@
       "turkish": "Telefon numarası ve ülke kodu"
     },
     "post-loading.connected": {
+      "amharic": "አካውንትዎ ተገናኝቷል።",
       "dutch": "U bent verbonden met uw account",
       "english": "You are connected with your account",
       "french": "Vous êtes connecté avec votre compte",
@@ -908,6 +981,7 @@
       "turkish": "Hesabınızla bağlandınız"
     },
     "post-loading.something-wrong": {
+      "amharic": "ሆነ ችግኝ ተፈጥሯል!",
       "dutch": "Er is iets fout gegaan!",
       "english": "Something went wrong!",
       "french": "Quelque chose s'est mal passé!",
@@ -920,6 +994,7 @@
       "turkish": "Bir şeyler ters gitti!"
     },
     "resendCode": {
+      "amharic": "ኮድ እንደገና ይላኩ",
       "dutch": "Code opnieuw verzenden",
       "english": "Resend Code",
       "french": "Renvoyer le code",
@@ -932,6 +1007,7 @@
       "turkish": "Kodu tekrar gönder"
     },
     "resendTimer": {
+      "amharic": "{{timer}} ሰከንድ በኋላ እንደገና ይላኩ",
       "dutch": " Opnieuw verzenden in {{timer}} seconden",
       "english": " Resend in {{timer}} seconds",
       "french": " Renvoyer dans {{timer}} secondes",
@@ -944,6 +1020,7 @@
       "turkish": " {{timer}} saniye sonra tekrar gönder"
     },
     "social.continue": {
+      "amharic": "በ… ቀጥሉ",
       "dutch": "Doorgaan met",
       "english": "Continue with",
       "french": "Continuer avec",
@@ -956,6 +1033,7 @@
       "turkish": "Devam et: "
     },
     "social.continueCustom": {
+      "amharic": "በ{{adapter}} ቀጥሉ",
       "dutch": "Doorgaan met {{adapter}}",
       "english": "Continue with {{adapter}}",
       "french": "Continuer avec {{adapter}}",
@@ -968,6 +1046,7 @@
       "turkish": "{{adapter}} ile devam et"
     },
     "social.email": {
+      "amharic": "ኢሜይል",
       "dutch": "E-mail",
       "english": "Email",
       "french": "Email",
@@ -980,6 +1059,7 @@
       "turkish": "E-posta"
     },
     "social.email-continue": {
+      "amharic": "በኢሜይል ቀጥሉ",
       "dutch": "Doorgaan met e-mail",
       "english": "Continue with Email",
       "french": "Continuer avec l'email",
@@ -992,6 +1072,7 @@
       "turkish": "E-posta ile devam et"
     },
     "social.email-new": {
+      "amharic": "ስም@example.com",
       "dutch": "naam@voorbeeld.com",
       "english": "name@example.com",
       "french": "nom@exemple.com",
@@ -1004,6 +1085,7 @@
       "turkish": "isim@ornek.com"
     },
     "social.passwordless-cta": {
+      "amharic": "ቀጥሉ",
       "dutch": "Doorgaan",
       "english": "Continue",
       "french": "Continuer",
@@ -1016,6 +1098,7 @@
       "turkish": "Devam et"
     },
     "social.passwordless-login": {
+      "amharic": "ግባ",
       "dutch": "Log in",
       "english": "Login",
       "french": "Se connecter",
@@ -1028,6 +1111,7 @@
       "turkish": "Giriş yapmak"
     },
     "social.passwordless-title": {
+      "amharic": "ኢሜይል/ስልክ",
       "dutch": "E-mail/Telefoon",
       "english": "Email/Phone",
       "french": "Email/Téléphone",
@@ -1040,6 +1124,7 @@
       "turkish": "E-posta/Telefon"
     },
     "social.phone": {
+      "amharic": "ስልክ",
       "dutch": "Telefoon",
       "english": "Phone",
       "french": "Téléphone",
@@ -1052,6 +1137,7 @@
       "turkish": "Telefon"
     },
     "social.policy": {
+      "amharic": "ከማህበራዊ መግቢያዎችዎ ጋር ተያያዥ ማንኛውንም ውሂብ አንቀምጥም።",
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
       "english": "We do not store any data related to your social logins.",
       "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
@@ -1064,6 +1150,7 @@
       "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
     "social.sign-in": {
+      "amharic": "ይግቡ",
       "dutch": "Inloggen",
       "english": "Sign in",
       "french": "Connexion",
@@ -1076,6 +1163,7 @@
       "turkish": "Giriş yap"
     },
     "social.sms": {
+      "amharic": "ተለዋዋጭ\"",
       "dutch": "Mobiel",
       "english": "Mobile",
       "french": "Mobile",
@@ -1088,6 +1176,7 @@
       "turkish": "Mobil Telefon"
     },
     "social.sms-continue": {
+      "amharic": "በሞባይል ቀጥሉ",
       "dutch": "Doorgaan met mobiel",
       "english": "Continue with Mobile",
       "french": "Continuer avec le mobile",
@@ -1100,6 +1189,7 @@
       "turkish": "Telefon ile devam et"
     },
     "social.sms-invalid-number": {
+      "amharic": "የተሳሳተ የስልክ ቁጥር",
       "dutch": "Ongeldig telefoonnummer",
       "english": "Invalid phone number",
       "french": "Numéro de téléphone invalide",
@@ -1112,6 +1202,7 @@
       "turkish": "Geçersiz telefon numarası"
     },
     "social.sms-placeholder-text": {
+      "amharic": "ለምሳሌ፦",
       "dutch": "Bijv.:",
       "english": "E.g.:",
       "french": "Par exemple :",
@@ -1124,6 +1215,7 @@
       "turkish": "Örneğin:"
     },
     "social.view-less": {
+      "amharic": "ብርቱ አሳይ",
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
@@ -1136,6 +1228,7 @@
       "turkish": "Daha az görüntüle"
     },
     "social.view-less-socials": {
+      "amharic": "ያነሰ የማህበራዊ አማራጮች አሳይ",
       "dutch": "Bekijk minder socials",
       "english": "View less socials",
       "french": "Voir moins socials",
@@ -1148,6 +1241,7 @@
       "turkish": "Daha az socials görüntüle"
     },
     "social.view-more": {
+      "amharic": "ተጨማሪ አሳይ",
       "dutch": "Meer bekijken",
       "english": "View more",
       "french": "Voir plus",
@@ -1160,6 +1254,7 @@
       "turkish": "Daha fazla görüntüle"
     },
     "social.view-more-socials": {
+      "amharic": "ተጨማሪ የማህበራዊ አማራጮች አሳይ",
       "dutch": "Bekijk meer socials",
       "english": "View more socials",
       "french": "Voir plus socials",
@@ -1174,6 +1269,7 @@
   },
   "passwordless": {
     "error-invalid-link": {
+      "amharic": "የማረጋገጫው ሊንክ የተሳሳተ ነው ወይም ጊዜው አልፏል",
       "dutch": "Ongeldige verificatielink of link verlopen",
       "english": "Invalid verification link or link expired",
       "french": "Lien de vérification invalide ou lien expiré",
@@ -1186,6 +1282,7 @@
       "turkish": "Hatalı ya da süresi geçmiş doğrulama linki"
     },
     "error-invalid-origin": {
+      "amharic": "ነገር ተደፍቷል፣ የስህተት ኮድ፦ E002",
       "dutch": "Er is iets misgegaan, foutcode: E002",
       "english": "Something went wrong, error code: E002",
       "french": "Quelque chose s'est mal passé, code d'erreur: E002",
@@ -1198,6 +1295,7 @@
       "turkish": "Bir şeyler ters gitti, hata kodu: E002"
     },
     "error-invalid-otp": {
+      "amharic": "OTP ትክክል አይደለም፣ እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Ongeldige OTP, probeer het opnieuw",
       "english": "Invalid OTP, please try again",
       "french": "OTP non valide, veuillez réessayer",
@@ -1210,6 +1308,7 @@
       "turkish": "Hatalı OTP, lütfen tekrar deneyin."
     },
     "error-invalid-params": {
+      "amharic": "የጎደለ ወይም የተሳሳተ መለኪያ (Parameter)",
       "dutch": "Ontbrekende of ongeldige parameters",
       "english": "Missing or Invalid Parameters.",
       "french": "Paramètres manquants ou invalides.",
@@ -1222,6 +1321,7 @@
       "turkish": "Eksik ya da hatalı parametreler var."
     },
     "error-invalid-test-account": {
+      "amharic": "ትክክል ያልሆነ የሙከራ አካውንት",
       "dutch": "Ongeldig testaccount",
       "english": "Invalid test account",
       "french": "Compte de test non valide",
@@ -1234,6 +1334,7 @@
       "turkish": "Geçersiz test hesabı"
     },
     "error-max-retry-limit-reached": {
+      "amharic": "የተሳሳቱ ሙከራዎች መጠንን አልፈዋል። ማረጋገጡን ለማጠናቀቅ ሂደቱን እንደገና ይጀምሩ።",
       "dutch": "U heeft de limiet voor verkeerde pogingen bereikt. Start de stroom opnieuw om de verificatie te voltooien.",
       "english": "You have reached the limit for wrong attempts. Please restart the flow again to complete verification.",
       "french": "Vous avez atteint la limite pour les tentatives erronées. Veuillez redémarrer le flux pour terminer la vérification.",
@@ -1246,6 +1347,7 @@
       "turkish": "Hatalı deneme limitine ulaştınız. Doğrulamayı tamamlamak için lütfen akışı baştan başlatın."
     },
     "error-new-link-generated-heading": {
+      "amharic": "አዲስ የማረጋገጫ ሊንክ ተፈጥሯል",
       "dutch": "Nieuwe verificatielink gegenereerd",
       "english": "New verification link generated",
       "french": "Nouveau lien de vérification généré",
@@ -1258,6 +1360,7 @@
       "turkish": "Yeni doğrulama linki oluşturuldu."
     },
     "error-no-mail-generated": {
+      "amharic": "ምንም ኢሜይል አልተፈጠረም። እባክዎ መጀመሪያ ያለፓስወርድ ሂደቱን ይጀምሩ።",
       "dutch": "Geen e-mail gegenereerd. Start eerst de wachtwoordloze flow.",
       "english": "No mail generated. Please initiate the passwordless flow first.",
       "french": "Aucun courrier généré. Veuillez d'abord lancer le flux sans mot de passe.",
@@ -1270,6 +1373,7 @@
       "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
     },
     "error-no-sms-generated": {
+      "amharic": "ምንም OTP አልተፈጠረም። እባክዎ መጀመሪያ ያለፓስወርድ ሂደቱን ይጀምሩ።",
       "dutch": "Geen OTP gegenereerd. Start eerst de wachtwoordloze flow.",
       "english": "No OTP generated. Please initiate the passwordless flow first.",
       "french": "Aucun OTP généré. Veuillez d'abord lancer le flux sans mot de passe.",
@@ -1282,6 +1386,7 @@
       "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
     },
     "error-otp-expired": {
+      "amharic": "OTP ጊዜው አልፏል",
       "dutch": "OTP verlopen",
       "english": "OTP Expired",
       "french": "OTP expiré",
@@ -1294,6 +1399,7 @@
       "turkish": "OTP'nin süresi geçti."
     },
     "error-plan-limit-reached": {
+      "amharic": "E411. መጠን ተደርሷል",
       "dutch": "E411. Limiet bereikt",
       "english": "E411. Limit Reached",
       "french": "E411. Limite atteinte",
@@ -1306,6 +1412,7 @@
       "turkish": "E411. Sınır aşıldı"
     },
     "error-recaptcha-verification-failed": {
+      "amharic": "የCaptcha ማረጋገጫ ተሳክቶልም። እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
       "english": "Captcha verification failed. Please try again.",
       "french": "La vérification Captcha a échoué. Veuillez réessayer.",
@@ -1318,6 +1425,7 @@
       "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin."
     },
     "error-sending-sms-failed": {
+      "amharic": "SMS ለመላክ ስህተት ተፈጥሯል። እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Er is een fout opgetreden bij het verzenden van een sms. Probeer het opnieuw.",
       "english": "There was an error sending an sms. Please try again.",
       "french": "Une erreur s'est produite lors de l'envoi d'un SMS. Veuillez réessayer.",
@@ -1330,6 +1438,7 @@
       "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
     },
     "something-wrong-error": {
+      "amharic": "አንዳች ተሳስቷል",
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
       "french": "Quelque chose s'est mal passé",

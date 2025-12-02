@@ -1,6 +1,7 @@
 {
   "login": {
     "2fa-setup-step4-check-time": {
+      "amharic": "አልተቀበሉትም? እንደገና ተልኳል፣ በ{0} ውስጥ ደግመህ ይፈትሹ",
       "dutch": "Niet ontvangen? Opnieuw versturen. Controleer opnieuw in {0}",
       "english": "Did not receive it? Resent. Check again in {0}",
       "french": "Vous ne l'avez pas reçu ? Renvoyez. Vérifiez à nouveau dans {0}",
@@ -13,6 +14,7 @@
       "turkish": "Almadınız mı? Tekrar gönder. {0} süre sonra bir daha kontrol edin"
     },
     "connect-email": {
+      "amharic": "በኢሜይል ይገናኙ",
       "dutch": "Verbinden met e-mail",
       "english": "Connect with Email",
       "french": "Connectez-vous avec votre e-mail",
@@ -24,6 +26,7 @@
       "spanish": "Conectar con correo electrónico"
     },
     "connect-phone": {
+      "amharic": "በስልክ ይገናኙ",
       "dutch": "Verbinden met telefoon",
       "english": "Connect with Phone",
       "french": "Connectez-vous avec votre téléphone",
@@ -35,6 +38,7 @@
       "spanish": "Conectar con el teléfono"
     },
     "connect-phone-email": {
+      "amharic": "በስልክ ወይም ኢሜይል ይገናኙ",
       "dutch": "Verbinden met telefoon of e-mail",
       "english": "Connect with Phone or Email",
       "french": "Connectez-vous avec votre téléphone ou votre e-mail",
@@ -46,6 +50,7 @@
       "spanish": "Conectar con teléfono o correo electrónico"
     },
     "footer-message-login": {
+      "amharic": "በWeb3Auth ራስ-እንከባከብ መግቢያ",
       "dutch": "Zelf-custodial login door Web3Auth",
       "english": "Self-custodial login by Web3Auth",
       "french": "Connexion auto-dépositaire par Web3Auth",
@@ -57,6 +62,7 @@
       "spanish": "Inicio de sesión con autocustodia por Web3Auth"
     },
     "login-page-desc": {
+      "amharic": "በWeb3Auth የሚደገፉ መተግበሪያዎች ሁሉ ላይ የመዳረሻ እና የደህንነት ቅንብሮችን ያቀናብሩ",
       "dutch": "Beheer de toegangs- en beveiligingsinstellingen voor alle door Web3Auth ondersteunde toepassingen.",
       "english": "Manage the access and security settings across all applications supported by Web3Auth.",
       "french": "Gérez les paramètres d'accès et de sécurité sur toutes les applications prises en charge par Web3Auth.",
@@ -68,6 +74,7 @@
       "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth."
     },
     "login-page-title": {
+      "amharic": "የሁለት ፋክተር ዋሌት አካውንት አስተዳደር",
       "dutch": "Twee-factor portemonnee accountbeheer",
       "english": "Two Factor Wallet Account Management",
       "french": "Gestion du compte de portefeuille à deux facteurs",
@@ -79,6 +86,7 @@
       "spanish": "Gestión de cuenta de billetera de dos factores"
     },
     "phone-email-label": {
+      "amharic": "ስልክ ወይም ኢሜይል",
       "dutch": "Telefoon of e-mail",
       "english": "Phone or Email",
       "french": "Téléphone ou e-mail",
@@ -90,6 +98,7 @@
       "spanish": "Teléfono o correo electrónico"
     },
     "popup-subtitle": {
+      "amharic": "ለመቀጠል የሚፈልጉትን ዘዴ ይምረጡ",
       "dutch": "Selecteer hoe u verder wilt gaan",
       "english": "Select how you would like to continue",
       "french": "Sélectionnez comment vous souhaitez continuer",
@@ -101,6 +110,7 @@
       "spanish": "Seleccione cómo le gustaría continuar"
     },
     "popup-terms": {
+      "amharic": "የአጠቃቀም ውሎች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of use",
       "french": "Conditions d'utilisation",
@@ -112,6 +122,7 @@
       "spanish": "Condiciones de uso"
     },
     "popup-title": {
+      "amharic": "እንኳን በደህና መጡ",
       "dutch": "Welkom aan boord",
       "english": "Welcome onboard",
       "french": "Bienvenue à bord",
@@ -123,6 +134,7 @@
       "spanish": "Bienvenido a bordo"
     },
     "social-2fa-used-passwordless": {
+      "amharic": "{0} መግቢያ አስቀድሞ ተጠቅመዋል፣ እባክዎ ሌላ የመልሶ ዘዴ ይምረጡ",
       "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
       "english": "{0} login is not available since it has been used for your login, please select another option for recovery.",
       "french": "La connexion {0} n'est pas disponible car elle a été utilisée pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
@@ -135,6 +147,7 @@
       "turkish": "{0} şuan giriş yapılamıyor çünkü giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
     },
     "social-2fa-used-social": {
+      "amharic": "{0} አስቀድሞ ተጠቅመዋል፣ እባክዎ ሌላ የመልሶ ዘዴ ይምረጡ",
       "dutch": "{0} is gebruikt voor uw aanmelding, selecteer een andere optie voor herstel.",
       "english": "{0} has been used for your login, please select another option for recovery.",
       "french": "{0} a été utilisé pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
@@ -147,6 +160,7 @@
       "turkish": "{0} giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
     },
     "social-2fa-view-less": {
+      "amharic": "ያነሰ",
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
@@ -158,6 +172,7 @@
       "spanish": "Ver menos"
     },
     "social-2fa-view-more": {
+      "amharic": "ተጨማሪ",
       "dutch": "Bekijk meer",
       "english": "View more",
       "french": "Voir plus",
@@ -169,6 +184,7 @@
       "spanish": "Ver más"
     },
     "social-policy": {
+      "amharic": "ከማህበራዊ መግቢያዎችዎ ጋር የተያያዘ ምንም መረጃ አናስቀምጥም",
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
       "english": "We do not store any data related to your social logins.",
       "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
@@ -180,6 +196,7 @@
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
     },
     "tooltip-phone-details": {
+      "amharic": "የአገር ኮድ በራሱ ይታወቃል፣ ከሌላ አገር የስልክ ቁጥር ከሚጠቀሙ ከሆነ ትክክለኛውን የአገር ኮድ በእጅ ያስገቡ",
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u de juiste landcode handmatig invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
       "french": "Votre code de pays sera détecté automatiquement, mais si vous utilisez un numéro de téléphone d'un pays différent, vous devrez entrer manuellement le code de pays correct.",
@@ -191,6 +208,7 @@
       "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente."
     },
     "tooltip-phone-header": {
+      "amharic": "የስልክ ቁጥር እና የአገር ኮድ",
       "dutch": "Telefoonnummer en landcode",
       "english": "Phone number and country code",
       "french": "Numéro de téléphone et code de pays",
@@ -202,6 +220,7 @@
       "spanish": "Número de teléfono y código de país"
     },
     "verifier-google-desc": {
+      "amharic": "በGoogle ቀጥሉ",
       "dutch": "Doorgaan met Google",
       "english": "Continue with Google",
       "french": "Continuer avec Google",
