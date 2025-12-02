@@ -1553,6 +1553,18 @@
       "portuguese": "Comece a usar protocolos DeFi para ver suas posições aqui.",
       "spanish": "Comience a usar protocolos DeFi para ver sus posiciones aquí.",
       "turkish": "DeFi protokollarını kullanarak konumlarınızı burada görün."
+    },
+    "loadingDefiPositions": {
+      "dutch": "Laden DeFi Posities",
+      "english": "Loading DeFi Positions",
+      "french": "Chargement des positions DeFi",
+      "german": "DeFi-Positionen werden geladen",
+      "japanese": "DeFi ポジションを読み込んでいます",
+      "korean": "DeFi 포지션 로딩 중",
+      "mandarin": "加载DeFi位置",
+      "portuguese": "Carregando posições DeFi",
+      "spanish": "Cargando posiciones DeFi",
+      "turkish": "DeFi Pozisyonları yükleniyor"
     }
   },
   "qrCode": {
