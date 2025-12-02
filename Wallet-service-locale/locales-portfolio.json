@@ -1570,7 +1570,7 @@
       "dutch": "Failed to fetch DeFi positions",
       "english": "Failed to fetch DeFi positions",
       "french": "Erreur lors de la récupération des positions DeFi",
-      "german": "Fehler beim Abrufen der DeFi-Positionen",
+      "german": "DeFi-Positionen konnten nicht abgerufen werden",
       "japanese": "DeFi ポジションの取得に失敗しました",
       "korean": "DeFi 포지션 가져오기 실패",
       "mandarin": "获取DeFi位置失败",
