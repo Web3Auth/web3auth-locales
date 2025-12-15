@@ -157,16 +157,16 @@
       "turkish": "Gizlilik Bildirimi"
     },
     "privacy-policy": {
-      "dutch":	"Privacybeleid",
-      "english":	"Privacy Policy",
-      "french":	"politique de confidentialité",
-      "german":	"Datenschutzrichtlinie",
-      "japanese":	"プライバシーポリシー",
-      "korean":	"개인정보 보호정책",
-      "mandarin":	"隐私政策",
-      "portuguese":	"política de Privacidade",
-      "spanish":	"política de privacidad",
-      "turkish":	"Gizlilik Politikası"
+      "dutch": "Privacybeleid",
+      "english": "Privacy Policy",
+      "french": "politique de confidentialité",
+      "german": "Datenschutzrichtlinie",
+      "japanese": "プライバシーポリシー",
+      "korean": "개인정보 보호정책",
+      "mandarin": "隐私政策",
+      "portuguese": "política de Privacidade",
+      "spanish": "política de privacidad",
+      "turkish": "Gizlilik Politikası"
     },
     "receive": {
       "dutch": "Ontvangen",
@@ -361,16 +361,16 @@
       "turkish": "Kullanım Şartları"
     },
     "terms-of-use": {
-      "dutch":	"Gebruiksvoorwaarden",
-      "english":	"Terms of Use",
-      "french":	"Conditions d'utilisation",
-      "german":	"Nutzungsbedingungen",
-      "japanese":	"利用規約",
-      "korean":	"이용 약관",
-      "mandarin":	"使用条款",
-      "portuguese":	"Termos de Uso",
-      "spanish":	"Condiciones de uso",
-      "turkish":	"Kullanım Şartları"
+      "dutch": "Gebruiksvoorwaarden",
+      "english": "Terms of Use",
+      "french": "Conditions d'utilisation",
+      "german": "Nutzungsbedingungen",
+      "japanese": "利用規約",
+      "korean": "이용 약관",
+      "mandarin": "使用条款",
+      "portuguese": "Termos de Uso",
+      "spanish": "Condiciones de uso",
+      "turkish": "Kullanım Şartları"
     },
     "tokens": {
       "dutch": "Munten",
@@ -551,6 +551,18 @@
       "portuguese": "Mostrar todos os tokens",
       "spanish": "Mostrar todos los tokens",
       "turkish": "Tüm jetonları görüntüle"
+    },
+    "installed": {
+      "dutch": "Geïnstalleerd",
+      "english": "Installed",
+      "french": "Installé",
+      "german": "Installiert",
+      "japanese": "インストール済み",
+      "korean": "설치 완료",
+      "mandarin": "已安装",
+      "portuguese": "Instalado",
+      "spanish": "Instalado",
+      "turkish": "Yüklendi"
     }
   }
 }
