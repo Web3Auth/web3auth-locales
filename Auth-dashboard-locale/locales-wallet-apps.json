@@ -1,6 +1,7 @@
 {
   "apps": {
     "apps-current-device": {
+      "amharic": "የአሁኑ መሣሪያ",
       "dutch": "Huidig apparaat",
       "english": "Current device",
       "french": "Appareil actuel",
@@ -12,6 +13,7 @@
       "spanish": "Dispositivo actual"
     },
     "apps-empty": {
+      "amharic": "እርስዎ ገና ከማንኛውም መተግበሪያ አልተገናኙም",
       "dutch": "Je bent nog niet verbonden met enige applicaties.",
       "english": "You are not connected to any applications yet.",
       "french": "Vous n'êtes pas encore connecté à des applications.",
@@ -23,6 +25,7 @@
       "spanish": "Aún no estás conectado a ninguna aplicación."
     },
     "apps-subtitle": {
+      "amharic": "የመተግበሪያዎች ዝርዝር",
       "dutch": "Lijst met apps",
       "english": "List of Apps",
       "french": "Liste des applications",
@@ -34,6 +37,7 @@
       "spanish": "Lista de aplicaciones"
     },
     "apps-title": {
+      "amharic": "የተፈቀዱ መተግበሪያዎች",
       "dutch": "Geautoriseerde applicaties",
       "english": "Authorized applications",
       "french": "Applications autorisées",
@@ -45,6 +49,7 @@
       "spanish": "Aplicaciones autorizadas"
     },
     "desc": {
+      "amharic": "የተፈቀዱ መተግበሪያዎችን እዚህ ያቀናብሩ",
       "dutch": "Beheer hier uw geautoriseerde applicaties",
       "english": "Manage your authorized applications here",
       "french": "Gérez vos applications autorisées ici",
@@ -56,6 +61,7 @@
       "spanish": "Gestione sus aplicaciones autorizadas aquí"
     },
     "devices": {
+      "amharic": "መሣሪያ(ዎች)",
       "dutch": "Apparaat/Apparaten",
       "english": "Device(s)",
       "french": "Appareil(s)",
@@ -67,6 +73,7 @@
       "spanish": "Dispositivos"
     },
     "download-key": {
+      "amharic": "ቁልፍ አውርድ",
       "dutch": "Download sleutel",
       "english": "Download key",
       "french": "Télécharger la clé",
@@ -78,6 +85,7 @@
       "spanish": "Tecla de descarga"
     },
     "export-private-key": {
+      "amharic": "የግል ቁልፍ",
       "dutch": "Privésleutel",
       "english": "Private Key",
       "french": "Clé privée",
@@ -89,6 +97,7 @@
       "spanish": "Llave privada"
     },
     "last-access": {
+      "amharic": "መጨረሻ የተደረሰበት ጊዜ",
       "dutch": "Laatst bezocht op",
       "english": "Last accessed on",
       "french": "Dernier accès le",
@@ -100,6 +109,7 @@
       "spanish": "Último acceso en"
     },
     "revoke": {
+      "amharic": "ይቀርጹ",
       "dutch": "Intrekken",
       "english": "Revoke",
       "french": "Révoquer",
@@ -111,6 +121,7 @@
       "spanish": "Revocar"
     },
     "see-all": {
+      "amharic": "ሁሉንም ይመልከቱ",
       "dutch": "Bekijk alles",
       "english": "See All",
       "french": "Voir tout",
@@ -122,6 +133,7 @@
       "spanish": "Ver todo"
     },
     "see-less": {
+      "amharic": "ያነሰ ይመልከቱ",
       "dutch": "Minder bekijken",
       "english": "See Less",
       "french": "Voir moins",
@@ -133,6 +145,7 @@
       "spanish": "Ver menos"
     },
     "title": {
+      "amharic": "የተፈቀዱ መተግበሪያዎች",
       "dutch": "Geautoriseerde apps",
       "english": "Authorized Apps",
       "french": "Applications autorisées",

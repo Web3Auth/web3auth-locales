@@ -1,6 +1,7 @@
 {
   "checkout": {
     "allPaymentMethods": {
+      "amharic": "የክፍያ ዘዴዎች ሁሉ",
       "dutch": "Alle betaalmethoden",
       "english": "All payment methods",
       "french": "Tous les moyens de paiement",
@@ -13,6 +14,7 @@
       "turkish": "Tüm ödeme yöntemleri"
     },
     "cancel": {
+      "amharic": "ይቅር",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -25,6 +27,7 @@
       "turkish": "İptal etmek"
     },
     "close": {
+      "amharic": "ዝጋ",
       "dutch": "Dichtbij",
       "english": "Close",
       "french": "Fermer",
@@ -37,6 +40,7 @@
       "turkish": "Kapalı"
     },
     "continue": {
+      "amharic": "ቀጥል",
       "dutch": "Doorgaan",
       "english": "Continue",
       "french": "Continuer",
@@ -49,6 +53,7 @@
       "turkish": "Devam etmek"
     },
     "for": {
+      "amharic": "ለ",
       "dutch": "voor",
       "english": "for",
       "french": "pour",
@@ -61,6 +66,7 @@
       "turkish": "için"
     },
     "limit": {
+      "amharic": "ገደብ፦",
       "dutch": "Begrenzing:",
       "english": "Limit:",
       "french": "Limite:",
@@ -73,6 +79,7 @@
       "turkish": "Sınır:"
     },
     "noProviderSelected": {
+      "amharic": "እስካሁን አንድም አቅራቢ አልተመረጠም",
       "dutch": "Nog geen providers geselecteerd",
       "english": "No Providers Selected Yet",
       "french": "Aucun fournisseur sélectionné pour l'instant",
@@ -85,6 +92,7 @@
       "turkish": "Henüz Sağlayıcı Seçilmedi"
     },
     "payWith": {
+      "amharic": "በ… ይክፈሉ",
       "dutch": "Betaal met",
       "english": "Pay with",
       "french": "Payer avec",
@@ -97,6 +105,7 @@
       "turkish": "İle ödemek"
     },
     "poweredBy": {
+      "amharic": "በ{0} የተነሳ",
       "dutch": "Mogelijk gemaakt door {0}",
       "english": "Powered by {0}",
       "french": "Propulsé par {0}",
@@ -109,6 +118,7 @@
       "turkish": "{0} tarafından desteklenmektedir"
     },
     "provider": {
+      "amharic": "አቅራቢ",
       "dutch": "Aanbieder",
       "english": "Provider",
       "french": "Fournisseur",
@@ -121,6 +131,7 @@
       "turkish": "Sağlayıcı"
     },
     "providerSelectionMsg": {
+      "amharic": "ለመግዛት የሚፈልጉትን እቃ እና የክፍያ ዘዴ ይምረጡ ከሚገኙ አቅራቢዎች ግምት ለማግኘት",
       "dutch": "Selecteer wat u wilt kopen en betaalmethode om offertes van beschikbare aanbieders te krijgen",
       "english": "Select what you want to buy and and payment method to get quotations from available providers",
       "french": "Sélectionnez ce que vous souhaitez acheter et le mode de paiement pour obtenir des devis des fournisseurs disponibles",
@@ -133,6 +144,7 @@
       "turkish": "Mevcut sağlayıcılardan teklif almak için ne satın almak istediğinizi ve ödeme yöntemini seçin"
     },
     "rates": {
+      "amharic": "ዋጋዎች",
       "dutch": "Tarieven",
       "english": "Rates",
       "french": "Les taux",
@@ -145,6 +157,7 @@
       "turkish": "Oranlar"
     },
     "redirectMsg": {
+      "amharic": "ወደ ሶስተኛ ወገን ገጽ ትዘለሉ",
       "dutch": "U wordt doorgestuurd naar de pagina van de derde partij",
       "english": "You will be redirected to the third party page",
       "french": "Vous serez redirigé vers la page tierce",
@@ -157,6 +170,7 @@
       "turkish": "Üçüncü taraf sayfasına yönlendirileceksiniz"
     },
     "selectProvider": {
+      "amharic": "አቅራቢ ይምረጡ",
       "dutch": "Selecteer Aanbieder",
       "english": "Select Provider",
       "french": "Sélectionnez le fournisseur",
@@ -169,6 +183,7 @@
       "turkish": "Sağlayıcı Seçin"
     },
     "serviceFee": {
+      "amharic": "የአገልግሎት ክፍያ",
       "dutch": "servicekosten",
       "english": "service fee",
       "french": "frais de service",
@@ -181,6 +196,7 @@
       "turkish": "servis ücreti"
     },
     "topupSuccess": {
+      "amharic": "ተሙሉ ተሳክቷል",
       "dutch": "Opwaarderen succesvol",
       "english": "Topup Successful",
       "french": "Recharge réussie",
@@ -193,6 +209,7 @@
       "turkish": "Yükleme Başarılı"
     },
     "transactionFee": {
+      "amharic": "የግብዣ ክፍያ",
       "dutch": "Transactiekosten",
       "english": "Transaction Fee",
       "french": "Frais de transaction",
@@ -205,6 +222,7 @@
       "turkish": "İşlem ücreti"
     },
     "validationMsg": {
+      "amharic": "እባክዎ ግዢውን ለመጨረስ የመታወቂያ ካርድ/ፓስፖርት ያዘጋጁ",
       "dutch": "Houd uw identiteitskaart/paspoort gereed om de aankoop te voltooien.",
       "english": "Please prepare your Identity Card/Passport to complete the purchase.",
       "french": "Veuillez préparer votre carte d'identité/passeport pour finaliser l'achat.",
@@ -217,6 +235,7 @@
       "turkish": "Satın alma işlemini tamamlamak için lütfen Kimlik Kartınızı/Pasaportunuzu hazırlayın."
     },
     "value": {
+      "amharic": "ዋጋ፦",
       "dutch": "Waarde:",
       "english": "Value:",
       "french": "Valeur:",
@@ -229,6 +248,7 @@
       "turkish": "Değer:"
     },
     "youBuy": {
+      "amharic": "እርስዎ የሚገዙት",
       "dutch": "Je koopt",
       "english": "You buy",
       "french": "Tu achètes",
@@ -241,6 +261,7 @@
       "turkish": "Sen satın al"
     },
     "youPay": {
+      "amharic": "እርስዎ የሚክፈሉት",
       "dutch": "Je betaalt",
       "english": "You pay",
       "french": "Tu payes",
@@ -253,6 +274,7 @@
       "turkish": "Öde"
     },
     "youReceive": {
+      "amharic": "እርስዎ የሚቀበሉት",
       "dutch": "Jij ontvangt",
       "english": "You receive",
       "french": "Vous recevez",
@@ -265,6 +287,7 @@
       "turkish": "Aldığın"
     },
     "youReceived": {
+      "amharic": "እርስዎ ተቀብለዋል",
       "dutch": "Je hebt ontvangen",
       "english": "You have received",
       "french": "Vous avez reçu",

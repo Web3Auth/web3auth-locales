@@ -1,6 +1,7 @@
 {
   "swap": {
     "advancedOptions": {
+      "amharic": "የላቀ አማራጮች",
       "dutch": "Geavanceerde mogelijkheden",
       "english": "Advanced options",
       "french": "Options avancées",
@@ -13,6 +14,7 @@
       "turkish": "Gelişmiş Seçenekler"
     },
     "apply": {
+      "amharic": "ተፈጽም",
       "dutch": "Toepassen",
       "english": "Apply",
       "french": "Appliquer",
@@ -25,6 +27,7 @@
       "turkish": "Uygula"
     },
     "approve-swap": {
+      "amharic": "አጽድቅ እና ቀይር (Swap)",
       "dutch": "Goedkeuren en ruilen",
       "english": "Approve and Swap",
       "french": "Approuver et échanger",
@@ -37,6 +40,7 @@
       "turkish": "Onayla ve Değiştir"
     },
     "approving-token": {
+      "amharic": "የቶክን ማስተናገድ በመፈቀድ ላይ",
       "dutch": "Overdracht van token goedkeuren",
       "english": "Approving token transfer",
       "french": "Approbation du transfert de token",
@@ -49,6 +53,7 @@
       "turkish": "Token aktarımı onaylanıyor"
     },
     "balance": {
+      "amharic": "ሚዛን",
       "dutch": "Evenwicht",
       "english": "Balance",
       "french": "Équilibre",
@@ -61,6 +66,7 @@
       "turkish": "Denge"
     },
     "cancel": {
+      "amharic": "ይቅር",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -73,6 +79,7 @@
       "turkish": "İptal Et"
     },
     "confirm": {
+      "amharic": "አረጋግጥ",
       "dutch": "Bevestigen",
       "english": "Confirm",
       "french": "Confirmer",
@@ -85,6 +92,7 @@
       "turkish": "Onayla"
     },
     "confirmSwapTxn": {
+      "amharic": "የSwap ግብዣን ያረጋግጡ",
       "dutch": "Bevestig swap -transactie",
       "english": "Confirm Swap Transaction",
       "french": "Confirmer la transaction d'échange",
@@ -97,6 +105,7 @@
       "turkish": "Değişimi Onayla"
     },
     "errorInvalidAddress": {
+      "amharic": "ልክ ያልሆነ አድራሻ",
       "dutch": "Ongeldig adres",
       "english": "Invalid address",
       "french": "Adresse invalide",
@@ -109,6 +118,7 @@
       "turkish": "Geçersiz adres"
     },
     "errorSelectToken": {
+      "amharic": "እባክዎ ቶክን ይምረጡ",
       "dutch": "Selecteer een token",
       "english": "Please select a token",
       "french": "Veuillez sélectionner un jeton",
@@ -121,6 +131,7 @@
       "turkish": "Lütfen bir belirteç seçin"
     },
     "errorTokenAmount": {
+      "amharic": "መጠን ያስገቡ",
       "dutch": "Voer een bedrag in",
       "english": "Enter an amount",
       "french": "Entrez un montant",
@@ -133,6 +144,7 @@
       "turkish": "Bir tutar girin"
     },
     "failedFetchingQuote": {
+      "amharic": "ግምት ማግኘት አልተቻለም",
       "dutch": "Fout bij het ophalen van de prijs",
       "english": "Failed to fetch quote",
       "french": "Erreur lors de la récupération du prix",
@@ -145,6 +157,7 @@
       "turkish": "Fiyat alınamadı"
     },
     "failedSwapDesc": {
+      "amharic": "Swap በመስራት ላይ ስህተት ተፈጥሯል",
       "dutch": "Er is een fout opgetreden tijdens het verwerken van de swap",
       "english": "An error occurred while processing the swap",
       "french": "Une erreur s'est produite lors du traitement du swap",
@@ -157,6 +170,7 @@
       "turkish": "Takas işlenirken bir hata oluştu"
     },
     "failedSwapTitle": {
+      "amharic": "የswap ጥያቄዎ ማስኬድ አልተቻለም",
       "dutch": "Uw ruilverzoek kan niet worden verwerkt",
       "english": "Your swap request cannot be processed",
       "french": "Votre demande d'échange ne peut pas être traitée",
@@ -169,6 +183,7 @@
       "turkish": "Takas talebiniz işleme alınamıyor"
     },
     "fetchingPrice": {
+      "amharic": "ተሻለ ዋጋ በመፈለግ ላይ",
       "dutch": "Beste prijs ophalen",
       "english": "Fetching best price",
       "french": "Obtenir le meilleur prix",
@@ -181,6 +196,7 @@
       "turkish": "En iyi fiyat getiriliyor"
     },
     "for": {
+      "amharic": "ለ",
       "dutch": "Voor",
       "english": "For",
       "french": "Pour",
@@ -193,6 +209,7 @@
       "turkish": "İçin"
     },
     "from": {
+      "amharic": "ከ:",
       "dutch": "Van:",
       "english": "From:",
       "french": "Depuis:",
@@ -205,6 +222,7 @@
       "turkish": "Şuna:"
     },
     "fromAddress": {
+      "amharic": "ከዋሌት አድራሻ:",
       "dutch": "Van portemonnee-adres:",
       "english": "From wallet address:",
       "french": "À partir de l'adresse du portefeuille :",
@@ -217,6 +235,7 @@
       "turkish": "Cüzdan adresinden:"
     },
     "gasLimit": {
+      "amharic": "የጋዝ ገደብ",
       "dutch": "Gasgrens",
       "english": "Gas Limit",
       "french": "Limite de gaz",
@@ -229,6 +248,7 @@
       "turkish": "Jener Limiti"
     },
     "max": {
+      "amharic": "ከፍተኛ",
       "dutch": "Max",
       "english": "Max",
       "french": "Max.",
@@ -241,6 +261,7 @@
       "turkish": "Maksimum"
     },
     "maxPriorityFee": {
+      "amharic": "Max Priority ክፍያ",
       "dutch": "Maximale prioriteitskosten",
       "english": "Max Priority Fee",
       "french": "Frais de priorité maximale",
@@ -253,6 +274,7 @@
       "turkish": "Maksimum Öncelik Ücreti"
     },
     "maxSlippage": {
+      "amharic": "ከፍተኛ ስሊፒጅ (Slippage)",
       "dutch": "Maximale slip",
       "english": "Max Slippage",
       "french": "Glissement maximum",
@@ -265,6 +287,7 @@
       "turkish": "Maksimum Kayma"
     },
     "maxTxnFee": {
+      "amharic": "ከፍተኛ የግብዣ ክፍያ",
       "dutch": "Max transactiekosten",
       "english": "Max Transaction Fee",
       "french": "Frais de transaction maximale",
@@ -277,6 +300,7 @@
       "turkish": "Maksimum İşlem Ücreti"
     },
     "minutes": {
+      "amharic": "ደቂቃ",
       "dutch": "notulen",
       "english": "minutes",
       "french": "minutes",
@@ -289,6 +313,7 @@
       "turkish": "dakika"
     },
     "networkFee": {
+      "amharic": "የኔትወርክ ክፍያ",
       "dutch": "Netwerkkosten",
       "english": "Network Fee",
       "french": "Frais de réseau",
@@ -301,6 +326,7 @@
       "turkish": "Ağ Ücreti"
     },
     "previewSwap": {
+      "amharic": "Swap ቅድመ እይታ",
       "dutch": "Voorbeeld wisselen",
       "english": "Preview Swap",
       "french": "Échange d'aperçu",
@@ -313,6 +339,7 @@
       "turkish": "Önizleme Değiştirme"
     },
     "price": {
+      "amharic": "ዋጋ",
       "dutch": "Prijs",
       "english": "Price",
       "french": "Prix",
@@ -325,6 +352,7 @@
       "turkish": "Fiyat"
     },
     "priceImpact": {
+      "amharic": "የዋጋ ተፅእኖ",
       "dutch": "Prijsimpact",
       "english": "Price Impact",
       "french": "Impact sur les prix",
@@ -337,6 +365,7 @@
       "turkish": "Fiyat Etkisi"
     },
     "processIn": {
+      "amharic": "በ… ሂድ",
       "dutch": "Verwerken",
       "english": "Process in",
       "french": "Tracer",
@@ -349,6 +378,7 @@
       "turkish": "İşlem"
     },
     "reviewOrder": {
+      "amharic": "የSwap ትዕዛዝ ግምገማ",
       "dutch": "Bekijk de ruilorder",
       "english": "Review Swap Order",
       "french": "Vérifier la commande d'échange",
@@ -361,6 +391,7 @@
       "turkish": "Takas Siparişini İnceleyin"
     },
     "searchToken": {
+      "amharic": "በ{0} ቶክኖች ውስጥ ይፈልጉ",
       "dutch": "Zoek door {0} tokens",
       "english": "Search through {0} tokens",
       "french": "Rechercher parmi {0} jetons",
@@ -373,6 +404,7 @@
       "turkish": "{0} token arasında arama yapın"
     },
     "selectAToken": {
+      "amharic": "ቶክን ይምረጡ",
       "dutch": "Selecteer een token",
       "english": "Select a token",
       "french": "Sélectionnez un jeton",
@@ -385,6 +417,7 @@
       "turkish": "Bir belirteç seçin"
     },
     "selectToken": {
+      "amharic": "ቶክን ይምረጡ",
       "dutch": "Selecteer token",
       "english": "Select Token",
       "french": "Sélectionner le jeton",
@@ -397,6 +430,7 @@
       "turkish": "Token seçin"
     },
     "sendToAddress": {
+      "amharic": "ገንዘብ ወደ ሌላ ዋሌት አድራሻ ይላኩ",
       "dutch": "Stuur geld naar een ander portemonnee-adres",
       "english": "Send funds to another wallet address",
       "french": "Envoyer des fonds à une autre adresse de portefeuille",
@@ -409,6 +443,7 @@
       "turkish": "Parayı başka bir cüzdan adresine gönderin"
     },
     "slippageTolerance": {
+      "amharic": "የSlippage ተቀባይነት",
       "dutch": "Sliptolerantie",
       "english": "Slippage Tolerance",
       "french": "Tolérance au glissement",
@@ -421,6 +456,7 @@
       "turkish": "Kayma Toleransı"
     },
     "swap": {
+      "amharic": "Swap",
       "dutch": "Ruil",
       "english": "Swap",
       "french": "Échanger",
@@ -433,6 +469,7 @@
       "turkish": "Takas"
     },
     "swapSuccess": {
+      "amharic": "Swap ተሳክቷል!",
       "dutch": "Wissel succes!",
       "english": "Swap success!",
       "french": "Échangez le succès !",
@@ -445,6 +482,7 @@
       "turkish": "Başarıyı değiştir!"
     },
     "swapSuccessDetails": {
+      "amharic": "የSwap ጥያቄዎ ተሳክቶ ተከናውኗል",
       "dutch": "Uw ruilverzoek is succesvol verwerkt en afgerond.",
       "english": "Your swap request was processed and completed successfully.",
       "french": "Votre demande d'échange a été traitée et complétée avec succès.",
@@ -457,6 +495,7 @@
       "turkish": "Takas talebiniz işleme alındı ​​ve başarıyla tamamlandı."
     },
     "swapping-token": {
+      "amharic": "ቶክን በመቀየር ላይ",
       "dutch": "Token ruilen",
       "english": "Swapping token",
       "french": "Échange de token",
@@ -469,6 +508,7 @@
       "turkish": "Değiştirme token"
     },
     "to": {
+      "amharic": "ወደ:",
       "dutch": "Naar:",
       "english": "To:",
       "french": "À:",
@@ -481,6 +521,7 @@
       "turkish": "İçin:"
     },
     "toAddress": {
+      "amharic": "ወደ ዋሌት አድራሻ:",
       "dutch": "Naar portemonnee-adres:",
       "english": "To wallet address:",
       "french": "Vers l'adresse du portefeuille :",
@@ -493,6 +534,7 @@
       "turkish": "Cüzdan adresine:"
     },
     "tokens": {
+      "amharic": "ቶክኖች",
       "dutch": "Munten",
       "english": "Tokens",
       "french": "Jetons",
@@ -505,6 +547,7 @@
       "turkish": "Token"
     },
     "transactionDeadline": {
+      "amharic": "የግብዣ ጊዜ ገደብ",
       "dutch": "Transactiedeadline",
       "english": "Transaction Deadline",
       "french": "Date limite des transactions",
@@ -517,6 +560,7 @@
       "turkish": "İşlem Son Tarihi"
     },
     "txnCost": {
+      "amharic": "የግብዣ ወጪ",
       "dutch": "Transactiekosten",
       "english": "Transaction cost",
       "french": "Coût de transaction",
@@ -529,6 +573,7 @@
       "turkish": "İşlem Ücreti"
     },
     "txnFee": {
+      "amharic": "የግብዣ ክፍያ",
       "dutch": "Transactiekosten",
       "english": "Transaction Fee",
       "french": "Frais de transaction",
@@ -541,6 +586,7 @@
       "turkish": "İşlem Ücreti"
     },
     "useMax": {
+      "amharic": "ከፍተኛውን ይጠቀሙ",
       "dutch": "Gebruik Max",
       "english": "Use Max",
       "french": "Utiliser Max",
@@ -553,6 +599,7 @@
       "turkish": "Maksimum kullanmak"
     },
     "value": {
+      "amharic": "ዋጋ",
       "dutch": "Waarde",
       "english": "Value",
       "french": "Valeur",
@@ -565,6 +612,7 @@
       "turkish": "Miktar"
     },
     "viewTransaction": {
+      "amharic": "ግብዣ ይመልከቱ",
       "dutch": "Transactie bekijken",
       "english": "View Transaction",
       "french": "Afficher la transaction",
@@ -577,6 +625,7 @@
       "turkish": "İşlemi Görüntüle"
     },
     "youPay": {
+      "amharic": "የሚክፈሉት",
       "dutch": "Jij betaalt",
       "english": "You pay",
       "french": "Vous payez",
@@ -589,6 +638,7 @@
       "turkish": "Sen öde"
     },
     "youReceive": {
+      "amharic": "የሚቀበሉት",
       "dutch": "Jij ontvangt",
       "english": "You receive",
       "french": "Vous recevez",
@@ -601,6 +651,7 @@
       "turkish": "Alırsın"
     },
     "yourExchange": {
+      "amharic": "የእርስዎ ተቀያይር (Exchange)",
       "dutch": "Uw uitwisseling",
       "english": "Your Exchange",
       "french": "Votre échange",
@@ -613,6 +664,7 @@
       "turkish": "Senin Değişim"
     },
     "slippageToleranceTooltip": {
+      "amharic": "ዋጋው ከዚህ ፐርሰንት በላይ ከተንቀሳቀሰ ግብዣው አይፈጸምም",
       "dutch": "Uw transactie wordt niet voltooid als de prijs boven dit percentage komt.",
       "english": "Your transaction will not complete if the price moves beyond this percentage.",
       "french": "Votre transaction ne sera pas finalisée si le prix dépasse ce pourcentage.",
@@ -625,6 +677,7 @@
       "turkish": "Fiyatın bu yüzdeyi aşması durumunda işleminiz tamamlanmayacaktır."
     },
     "txnDeadlineTooltip": {
+      "amharic": "ግብዣው ከዚህ ጊዜ በላይ ቢዘገይ ይቅረጣል",
       "dutch": "De transactie wordt geannuleerd als deze langer dan deze tijdslimiet in behandeling blijft.",
       "english": "The transaction will be canceled if it remains pending longer than this time limit.",
       "french": "La transaction sera annulée si elle reste en attente au-delà de ce délai.",
