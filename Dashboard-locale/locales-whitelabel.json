@@ -552,7 +552,8 @@
       "spanish": "Mostrar todos los tokens",
       "turkish": "Tüm jetonları görüntüle"
     },
-    "installed": {
+    "external-installed": {
+      "amharic": "ተጭኗል",
       "dutch": "Geïnstalleerd",
       "english": "Installed",
       "french": "Installé",
@@ -565,6 +566,7 @@
       "turkish": "Yüklendi"
     },
     "external-more-wallets": {
+      "amharic": "ተጨማሪ ዋሌቶች",
       "dutch": "Meer portemonnees",
       "english": "More Wallets",
       "french": "Plus de portefeuilles",
