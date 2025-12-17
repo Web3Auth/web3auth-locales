@@ -579,17 +579,17 @@
       "turkish": "Daha fazla cüzdan"
     },
     "external-search-wallet": {
-      "amharic": "በ{{count}} ዋሌቶች ውስጥ ፈልጉ..",
-      "dutch": "Zoeken door {{count}} portemonnees...",
-      "english": "Search through {{count}} wallets...",
-      "french": "Rechercher parmi {{count}} portefeuilles...",
-      "german": "Suche durch {{count}} Geldbörsen...",
-      "japanese": "{{count}} ウォレットを検索...",
-      "korean": "{{count}}개의 지갑을 검색 중입니다...",
-      "mandarin": "搜索{{count}}个钱包...",
-      "portuguese": "Pesquisar através de {{count}} carteiras...",
-      "spanish": "Buscar a través de {{count}} billeteras...",
-      "turkish": "{{count}} cüzdan ara..."
+      "amharic": "በ{count} ዋሌቶች ውስጥ ፈልጉ..",
+      "dutch": "Zoeken door {count} portemonnees...",
+      "english": "Search through {count} wallets...",
+      "french": "Rechercher parmi {count} portefeuilles...",
+      "german": "Suche durch {count} Geldbörsen...",
+      "japanese": "{count} ウォレットを検索...",
+      "korean": "{count}개의 지갑을 검색 중입니다...",
+      "mandarin": "搜索{count}个钱包...",
+      "portuguese": "Pesquisar através de {count} carteiras...",
+      "spanish": "Buscar a través de {count} billeteras...",
+      "turkish": "{count} cüzdan ara..."
     }
   }
 }
