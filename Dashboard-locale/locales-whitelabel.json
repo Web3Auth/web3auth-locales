@@ -563,6 +563,18 @@
       "portuguese": "Instalado",
       "spanish": "Instalado",
       "turkish": "Yüklendi"
+    },
+    "more-wallets": {
+      "dutch": "Meer portemonnees",
+      "english": "More Wallets",
+      "french": "Plus de portefeuilles",
+      "german": "Mehr Wallets",
+      "japanese": "ウォレットをもっと見る",
+      "korean": "더 많은 지갑",
+      "mandarin": "查看更多钱包",
+      "portuguese": "Mais carteiras",
+      "spanish": "Más carteras",
+      "turkish": "Daha fazla cüzdan"
     }
   }
 }
