@@ -1,6 +1,7 @@
 {
   "whitelabel": {
     "2fa-setup-step1-next": {
+      "amharic": "2FA ያዘጋጁ",
       "dutch": "2FA instellen",
       "english": "Set up 2FA",
       "french": "Configurer 2FA",
@@ -13,6 +14,7 @@
       "turkish": "2 Faktörlü doğrulamayı kurun"
     },
     "2fa-setup-step1-sub1": {
+      "amharic": "2 ፋክተር ማረጋገጫ (2FA) ይክፈቱ",
       "dutch": "Activeer 2-factor authenticatie (2FA)",
       "english": "Enable 2 Factor Authentication (2FA)",
       "french": "Activer l'authentification à 2 facteurs (2FA)",
@@ -25,6 +27,7 @@
       "turkish": "2 Faktörlü Kimlik Doğrulamayı Etkinleştir (2FA)"
     },
     "2fa-setup-step1-sub1-desc": {
+      "amharic": "ለመለያዎ ተጨማሪ ደህንነት ንጣፍ ያክሉ። እያንዳንዱ መግቢያ 2 ፋክተሮችን ለማረጋገጥ ይፈልጋል",
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account. Elke login vereist 2 factoren voor authenticatie",
       "english": "Add an extra layer of security to your account. Each login requires 2 factors for authentication",
       "french": "Ajoutez une couche de sécurité supplémentaire à votre compte, chaque connexion nécessite 2 facteurs pour l'authentification",
@@ -37,6 +40,7 @@
       "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin. Her oturum açma, kimlik doğrulama için 2 faktör gerektirir"
     },
     "2fa-setup-title1": {
+      "amharic": "መለያዎን ያስጠብቁ",
       "dutch": "Beveilig uw account",
       "english": "Secure your account",
       "french": "Sécurisez votre compte",
@@ -49,6 +53,7 @@
       "turkish": "Hesabınızı güvence altına alın"
     },
     "activity": {
+      "amharic": "እንቅስቃሴ",
       "dutch": "Activiteit",
       "english": "Activity",
       "french": "Activité",
@@ -61,6 +66,7 @@
       "turkish": "Aktivite"
     },
     "buy": {
+      "amharic": "ግዛ",
       "dutch": "Kopen",
       "english": "Buy",
       "french": "Acheter",
@@ -73,6 +79,7 @@
       "turkish": "Satın almak"
     },
     "footer-message-new": {
+      "amharic": "ራስን በራስ መጠበቅ በ",
       "dutch": "Zelfkusten via",
       "english": "Self-custody via",
       "french": "Auto-cuir via",
@@ -85,6 +92,7 @@
       "turkish": "Kendi kendine velayet"
     },
     "header-subtitle-new": {
+      "amharic": "አንድ ጠቅ በ{0} ዋሌትዎ",
       "dutch": "Uw {0}-portemonnee met één klik",
       "english": "Your {0} wallet with one click",
       "french": "Votre portefeuille {0} en un clic",
@@ -97,6 +105,7 @@
       "turkish": "Tek tıklama ile {0} cüzdanınız"
     },
     "header-title": {
+      "amharic": "ግባ",
       "dutch": "Aanmelden",
       "english": "Sign in",
       "french": "Se connecter",
@@ -109,6 +118,7 @@
       "turkish": "Giriş yap"
     },
     "home": {
+      "amharic": "ቤት",
       "dutch": "Thuis",
       "english": "Home",
       "french": "Maison",
@@ -121,6 +131,7 @@
       "turkish": "Ev"
     },
     "loader-device-detecting": {
+      "amharic": "መሳሪያዎ እየተገነዘበ ነው",
       "dutch": "Uw apparaat word gedetecteerd",
       "english": "Detecting your device",
       "french": "Détection de votre appareil",
@@ -133,6 +144,7 @@
       "turkish": "Cihazınız algılanıyor"
     },
     "manage-keys": {
+      "amharic": "ለዚህ መለያ ቁልፎችዎን ለመቆጣጠር እባክዎ ወደ {openlogin} ይግቡ። የዚህ አገልግሎት እና ድር ጣቢያ አጠቃቀም በ Web3Auth የ {toc} እና {privacyStatement} ይገዛል።",
       "dutch": "Om uw sleutels voor dit account te beheren, logt u in op {openlogin}. Het gebruik van deze dienst en website is onderworpen aan Web3Auth's {toc} en {privacyStatement}",
       "english": "To manage your keys for this account, kindly login to {openlogin}. The use of this service and website is subject to Web3Auth’s {toc} and {privacyStatement}",
       "french": "Pour gérer vos clés pour ce compte, veuillez vous connecter à {openlogin}. L'utilisation de ce service et de ce site Web est soumise aux {toc} et {privacyStatement} de Web3Auth.",
@@ -145,6 +157,7 @@
       "turkish": "Bu hesaba ilişkin anahtarlarınızı yönetmek için lütfen {openlogin} adresinde oturum açın. Bu hizmetin ve web sitesinin kullanımı Web3Auth'un {toc} ve {privacyStatement} hükümlerine tabidir."
     },
     "privacy-statement": {
+      "amharic": "የግላዊነት መግለጫ",
       "dutch": "Privacyverklaring",
       "english": "Privacy Statement",
       "french": "Déclaration de confidentialité",
@@ -157,6 +170,7 @@
       "turkish": "Gizlilik Bildirimi"
     },
     "privacy-policy": {
+      "amharic": "የግላዊነት ፖሊሲ",
       "dutch": "Privacybeleid",
       "english": "Privacy Policy",
       "french": "politique de confidentialité",
@@ -169,6 +183,7 @@
       "turkish": "Gizlilik Politikası"
     },
     "receive": {
+      "amharic": "ተቀበል",
       "dutch": "Ontvangen",
       "english": "Receive",
       "french": "Recevoir",
@@ -181,6 +196,7 @@
       "turkish": "Almak"
     },
     "register-skip": {
+      "amharic": "ለአሁን ዝለል",
       "dutch": "Nu overslaan",
       "english": "Skip for Now",
       "french": "Passer pour le moment",
@@ -193,6 +209,7 @@
       "turkish": "Şimdilik Atla"
     },
     "report-it": {
+      "amharic": "ይገልጹ",
       "dutch": "rapporteer het",
       "english": "report it",
       "french": "signalez-le",
@@ -205,6 +222,7 @@
       "turkish": "onu rapor et"
     },
     "request-generated-on": {
+      "amharic": "ይህ ጥያቄ በ {generatedTime} በ {browser} ከ IP አድራሻ {ipAddress} የተፈጠረ ነው። ይህ በእርስዎ ካልተደረገ እባክዎ {reportIt}",
       "dutch": "Dit verzoek wordt gegenereerd op {generatedTime} vanuit {browser} met het IP-adres {ipAddress}. Als u dit niet zelf doet, {reportIt}",
       "english": "This request is generated on {generatedTime} from {browser} with the IP address {ipAddress}. If this is not done by you, please {reportIt}",
       "french": "Cette requête est générée le {generatedTime} à partir de {browser} avec l'adresse IP {ipAddress}. Si vous ne l'avez pas fait, veuillez {reportIt}",
@@ -217,6 +235,7 @@
       "turkish": "Bu istek, {ipAddress} IP adresiyle {browser} tarafından {generatedTime} tarihinde oluşturuldu. Bu sizin tarafınızdan yapılmadıysa lütfen {reportIt}"
     },
     "resend-code-cta": {
+      "amharic": "ኮዱን እንደገና ይላኩ",
       "dutch": "Code opnieuw verzenden",
       "english": "Resend Code",
       "french": "Renvoyer le code",
@@ -229,6 +248,7 @@
       "turkish": "Kodu tekrar gönder"
     },
     "send": {
+      "amharic": "ላክ",
       "dutch": "Versturen",
       "english": "Send",
       "french": "Envoyer",
@@ -241,6 +261,7 @@
       "turkish": "Göndermek"
     },
     "social-continueCustom": {
+      "amharic": "በ {adapter} ይቀጥሉ",
       "dutch": "Doorgaan met {adapter}",
       "english": "Continue with {adapter}",
       "french": "Continuer avec {adapter}",
@@ -253,6 +274,7 @@
       "turkish": "{adapter} ile devam et"
     },
     "social-email-continue": {
+      "amharic": "በኢሜይል ይቀጥሉ",
       "dutch": "Doorgaan met e-mail",
       "english": "Continue with Email",
       "french": "Continuer avec l'email",
@@ -265,6 +287,7 @@
       "turkish": "E-posta ile devam et"
     },
     "social-policy": {
+      "amharic": "ከማህበራዊ መግቢያዎችዎ ጋር የተያያዙ ውሂቦችን አንዘጋም።",
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
       "english": "We do not store any data related to your social logins.",
       "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
@@ -277,6 +300,7 @@
       "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
     "social-view-less": {
+      "amharic": "ያነሱ ይመልከቱ",
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
@@ -289,6 +313,7 @@
       "turkish": "Daha az görüntüle"
     },
     "social-view-more": {
+      "amharic": "ተጨማሪ ይመልከቱ",
       "dutch": "Meer bekijken",
       "english": "View more",
       "french": "Voir plus",
@@ -301,6 +326,7 @@
       "turkish": "Daha fazla görüntüle"
     },
     "start-resend-btn": {
+      "amharic": "ኢሜይልን እንደገና ይላኩ",
       "dutch": "E-mail opnieuw verzenden",
       "english": "Resend email",
       "french": "Renvoyer le courrier électronique",
@@ -313,6 +339,7 @@
       "turkish": "E-postayı tekrar gönder"
     },
     "start-verification-subtitle2": {
+      "amharic": "ኢሜይል ተልኳል",
       "dutch": "Er is een e-mail verzonden naar",
       "english": "An email has been sent to",
       "french": "Un email a été envoyé à",
@@ -325,6 +352,7 @@
       "turkish": "Bir e-posta gönderildi"
     },
     "start-verification-subtitle3": {
+      "amharic": "ለመቀጠል እባክዎ ኢሜይልዎን ያረጋግጡ",
       "dutch": "Verifieer uw e-mail om door te gaan.",
       "english": "Please verify your email to continue.",
       "french": "Veuillez vérifier votre adresse e-mail pour continuer.",
@@ -337,6 +365,7 @@
       "turkish": "Devam etmek için lütfen e-postanızı doğrulayın"
     },
     "start-verification-subtitle4": {
+      "amharic": "ኢሜይል አልደረሰዎትም?",
       "dutch": "Geen e-mail ontvangen?",
       "english": "Did not get the email?",
       "french": "Vous n'avez pas reçu l'e-mail?",
@@ -349,6 +378,7 @@
       "turkish": "E-posta almadınız mı?"
     },
     "terms-of-service": {
+      "amharic": "የአገልግሎት ውሎች",
       "dutch": "Servicevoorwaarden",
       "english": "Terms of Service",
       "french": "Conditions d'utilisation",
@@ -361,6 +391,7 @@
       "turkish": "Kullanım Şartları"
     },
     "terms-of-use": {
+      "amharic": "የአጠቃቀም ውሎች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Use",
       "french": "Conditions d'utilisation",
@@ -373,6 +404,7 @@
       "turkish": "Kullanım Şartları"
     },
     "tokens": {
+      "amharic": "ቶከኖች",
       "dutch": "Munten",
       "english": "Tokens",
       "french": "Jetons",
@@ -385,6 +417,7 @@
       "turkish": "Jeton"
     },
     "verification-expire-in": {
+      "amharic": "የማረጋገጫ ኮዱ በ5 ደቂቃዎች ውስጥ ይወድቃል",
       "dutch": "De verificatiecode vervalt na 5 minuten",
       "english": "The verification code will expire in 5 minutes",
       "french": "Le code de vérification expirera dans 5 minutes",
@@ -397,6 +430,7 @@
       "turkish": "Doğrulama kodunun süresi 5 dakika içinde dolacak"
     },
     "verify-email-address": {
+      "amharic": "የኢሜይል አድራሻዎን ያረጋግጡ",
       "dutch": "Verifieer je e-mailadres",
       "english": "Verify your email address",
       "french": "Vérifiez votre adresse e-mail",
@@ -409,6 +443,7 @@
       "turkish": "Email adresinizi doğrulayın"
     },
     "verify-email-code-subheading": {
+      "amharic": "እባክዎ ወደ ኢሜይልዎ የተላከውን 6 አሃዝ የማረጋገጫ ኮድ ያስገቡ",
       "dutch": "Voer de 6-cijferige verificatiecode in die is verzonden naar uw e-mail",
       "english": "Please enter the 6-digit verification code that was sent to your email",
       "french": "Veuillez saisir le code de vérification à 6 chiffres qui a été envoyé à votre e-mail",
@@ -421,6 +456,7 @@
       "turkish": "Lütfen e-postanıza gelen 6 haneli doğrulama kodunu girin"
     },
     "verify-email-code-title": {
+      "amharic": "የኢሜይል ማረጋገጫ",
       "dutch": "email verificatie",
       "english": "Email Verification",
       "french": "vérification de l'E-mail",
@@ -433,6 +469,7 @@
       "turkish": "E-posta doğrulaması"
     },
     "verify-email-using-code": {
+      "amharic": "ለመግባት እባክዎ ከዚህ በታች ያለውን ኮድ በመጠቀም የኢሜይል አድራሻዎን ያረጋግጡ።",
       "dutch": "Verifieer uw e-mailadres met behulp van de onderstaande code om in te loggen.",
       "english": "Please verify your email address using the code below to login.",
       "french": "Veuillez vérifier votre adresse e-mail en utilisant le code ci-dessous pour vous connecter.",
@@ -445,6 +482,7 @@
       "turkish": "Giriş yapmak için lütfen aşağıdaki kodu kullanarak e-posta adresinizi doğrulayın."
     },
     "yourTokens": {
+      "amharic": "የእርስዎ ቶከኖች",
       "dutch": "Uw tokens",
       "english": "Your Tokens",
       "french": "Vos jetons",
@@ -457,6 +495,7 @@
       "turkish": "Jetonlarınız"
     },
     "social-passwordless-title": {
+      "amharic": "ኢሜይል/ስልክ",
       "dutch": "E-mail/Telefoon",
       "english": "Email/Phone",
       "french": "Email/Téléphone",
@@ -469,6 +508,7 @@
       "turkish": "E-posta/Telefon"
     },
     "social-email": {
+      "amharic": "ኢሜይል",
       "dutch": "E-mail",
       "english": "Email",
       "french": "Email",
@@ -481,6 +521,7 @@
       "turkish": "E-posta"
     },
     "social-phone": {
+      "amharic": "ስልክ",
       "dutch": "Telefoon",
       "english": "Phone",
       "french": "Téléphone",
@@ -493,6 +534,7 @@
       "turkish": "Telefon"
     },
     "passwordless-title": {
+      "amharic": "በ {title} ይቀጥሉ",
       "dutch": "Doorgaan met {title}",
       "english": "Continue with {title}",
       "french": "Continuer avec {title}",
@@ -505,6 +547,7 @@
       "turkish": "{title} ile devam et"
     },
     "external-all-wallets": {
+      "amharic": "ሁሉም ዋሌቶች",
       "dutch": "Alle portemonnees",
       "english": "All wallets",
       "french": "Toutes les billeteras",
@@ -517,6 +560,7 @@
       "turkish": "Tüm cüzdanlar"
     },
     "swap": {
+      "amharic": "ለውጥ",
       "dutch": "Ruil",
       "english": "Swap",
       "french": "Échanger",
@@ -529,6 +573,7 @@
       "turkish": "Takas"
     },
     "settings": {
+      "amharic": "ቅንብሮች",
       "dutch": "Instellingen",
       "english": "Settings",
       "french": "Paramètres",
@@ -541,6 +586,7 @@
       "turkish": "Ayarlar"
     },
     "showAllTokens": {
+      "amharic": "ሁሉንም ቶከኖች አሳይ",
       "dutch": "Alle tokens weergeven",
       "english": "Show All Tokens",
       "french": "Afficher tous les jetons",
