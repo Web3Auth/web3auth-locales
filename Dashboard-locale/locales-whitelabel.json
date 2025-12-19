@@ -590,6 +590,19 @@
       "portuguese": "Pesquisar através de {count} carteiras...",
       "spanish": "Buscar a través de {count} billeteras...",
       "turkish": "{count} cüzdan ara..."
+    },
+    "external-connect-your-wallet": {
+      "amharic": "ዋሌትዎን ያገናኙ",
+      "dutch": "Uw portemonnee verbinden",
+      "english": "Connect your wallet",
+      "french": "Connectez votre portefeuille",
+      "german": "Ihre Wallet verbinden",
+      "japanese": "ウォレットを接続",
+      "korean": "지갑 연결",
+      "mandarin": "连接您的钱包",
+      "portuguese": "Conecte seu portefeuille",
+      "spanish": "Conecte su portefeuille",
+      "turkish": "Cüzdanınızı bağlayın"
     }
   }
 }
