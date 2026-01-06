@@ -180,54 +180,6 @@
       "spanish": "Habilite MFA para mejorar la seguridad de su cuenta y las posibilidades de recuperación. Una vez configurado, los usuarios deben verificar con dos o más métodos para acceder a sus cuentas.",
       "turkish": "MFA'yı etkinleştirerek hesap güvenliğini ve kurtarma seçeneklerini iyileştirin. Kurulumdan sonra, kullanıcılar hesaplarına erişmek için iki veya daha fazla yöntemle doğrulamalıdır."
     },
-    "mint-nft-airdrop": {
-      "dutch": "Mintvrije NFT-airdrop",
-      "english": "Mint free NFT airdrop",
-      "french": "Airdrop NFT sans menthe",
-      "german": "Minzefreier NFT-Airdrop",
-      "japanese": "ミントフリーのNFTエアドロップ",
-      "korean": "민트 프리 NFT 에어드랍",
-      "mandarin": "薄荷免费 NFT 空投",
-      "portuguese": "Lançamento aéreo NFT sem hortelã",
-      "spanish": "Lanzamiento aéreo de NFT sin menta",
-      "turkish": "Nane içermeyen NFT airdrop'u"
-    },
-    "nft-checkout": {
-      "dutch": "NFT-afrekenen",
-      "english": "NFT Checkout",
-      "french": "Paiement NFT",
-      "german": "NFT-Kaufabwicklung",
-      "japanese": "NFTチェックアウト",
-      "korean": "NFT 결제",
-      "mandarin": "NFT 结账",
-      "portuguese": "Check-out NFT",
-      "spanish": "Pago NFT",
-      "turkish": "NFT Ödemesi"
-    },
-    "nft-services": {
-      "dutch": "NFT-diensten",
-      "english": "NFT Services",
-      "french": "Services NFT",
-      "german": "NFT-Dienste",
-      "japanese": "NFTサービス",
-      "korean": "NFT 서비스",
-      "mandarin": "非同质化服务",
-      "portuguese": "Serviços NFT",
-      "spanish": "Servicios NFT",
-      "turkish": "NFT Hizmetleri"
-    },
-    "nft-services-subtext": {
-      "dutch": "Laat uw gebruikers binnen enkele seconden NFT claimen",
-      "english": "Let your users claim NFT in seconds",
-      "french": "Permettez à vos utilisateurs de réclamer des NFT en quelques secondes",
-      "german": "Ermöglichen Sie Ihren Benutzern, NFT in Sekundenschnelle zu beanspruchen",
-      "japanese": "ユーザーが数秒で NFT を請求できるようにします",
-      "korean": "사용자가 몇 초 만에 NFT를 청구할 수 있도록 하세요",
-      "mandarin": "让您的用户在几秒钟内认领 NFT",
-      "portuguese": "Permita que seus usuários reivindiquem NFT em segundos",
-      "spanish": "Permita que sus usuarios reclamen NFT en segundos",
-      "turkish": "Kullanıcılarınızın saniyeler içinde NFT talebinde bulunmasına izin verin"
-    },
     "use-funding": {
       "dutch": "Gebruik Funding",
       "english": "Use Funding",
@@ -383,18 +335,6 @@
       "portuguese": "Trocar",
       "spanish": "Intercambio",
       "turkish": "Takas"
-    },
-    "test-credit-card": {
-      "dutch": "Probeer het met onze testcreditcards",
-      "english": "Try with our test credit cards",
-      "french": "Essayez avec nos cartes de crédit de test",
-      "german": "Probieren Sie es mit unseren Testkreditkarten aus",
-      "japanese": "テスト用クレジット カードでお試しください",
-      "korean": "테스트 신용카드로 사용해 보세요",
-      "mandarin": "尝试使用我们的测试信用卡",
-      "portuguese": "Experimente com nossos cartões de crédito de teste",
-      "spanish": "Pruebe con nuestras tarjetas de crédito de prueba",
-      "turkish": "Test kredi kartlarımızla deneyin"
     },
     "userInfo": {
       "dutch": "Bekijk gebruikersinformatie",
