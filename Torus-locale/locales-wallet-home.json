@@ -330,21 +330,21 @@
 			"mandarin": "下一个",
 			"spanish": "Siguiente"
 		},
-		"symbol": {
-			"english": "Token Symbol",
-			"german": "Tokensymbol",
-			"japanese": "トークン記号",
-			"korean": "토큰 심볼",
-			"mandarin": "代币符号",
-			"spanish": "Símbolo de token"
+		"returnToMaskverse": {
+			"korean": "마스크 가수 경험으로 돌아갑니다",
+			"spanish": "Regresar a la experiencia de Singer enmascarado",
+			"mandarin": "返回蒙面歌手体验",
+			"german": "Kehren Sie zur maskierten Sängererfahrung zurück",
+			"japanese": "マスクされた歌手体験に戻ります",
+			"english": "Return to Masked Singer Experience"
 		},
-		"token": {
-			"english": "Token",
-			"german": "Zeichen",
-			"japanese": "トークン",
-			"korean": "토큰",
-			"mandarin": "代币",
-			"spanish": "Simbólico"
+		"returnToMoonsault": {
+			"korean": "WWE Moonsault로 돌아갑니다",
+			"spanish": "Regreso a la WWE Moonsault",
+			"mandarin": "返回WWE Moonsault",
+			"german": "Kehren Sie zu WWE Moonsault zurück",
+			"japanese": "WWEに戻るMoonsault",
+			"english": "Return to WWE Moonsault"
 		}
 	},
 	"walletConnect": {
