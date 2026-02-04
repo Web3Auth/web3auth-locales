@@ -105,7 +105,7 @@
       "turkish": "En az bir küçük harf"
     },
     "password-requirement-specialchar": {
-      "amharic": "ቢያንስ አንድ ልዩ ባህሪ ይዟል ( ! @ # ? )",
+      "amharic": "ቢያንስ አንድ ልዩ ባህሪ ይዟል፣ ለምሳሌ {'! @ # ?'}",
       "dutch": "Inclusief ten minste één speciaal teken, bijv. {'! @ # ?'}",
       "english": "Inclusion of at least one special character, e.g., {'! @ # ?'}",
       "french": "Inclusion d'au moins un caractère spécial, par exemple, {'! @ # ?'}",
@@ -118,7 +118,7 @@
       "turkish": "En az bir özel karakterin dahil edilmesi, örneğin, {'! @ # ?'}"
     },
     "password-requirement-specialchar2": {
-      "amharic": "ከእነዚህ ልዩ ባህሪዎች ቢያንስ አንድ ይዟል (!@#?)",
+      "amharic": "ከእነዚህ ልዩ ባህሪዎች ቢያንስ አንድ ይዟል {'(!@#?)'}",
       "dutch": "Ten minste één van deze speciale tekens bevatten{'(!@#?)'}",
       "english": "Contain at least one of these special characters{'(!@#?)'}",
       "french": "Contenir au moins un de ces caractères spéciaux {'(!@#?)'}",
