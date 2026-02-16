@@ -286,6 +286,32 @@
       "spanish": "Editar prioridad",
       "turkish": "Önceliği Düzenle"
     },
+    "eip7702UpgradeAccountType": {
+      "amharic": "የአካውንት አይነት",
+      "dutch": "Accounttype",
+      "english": "Account type",
+      "french": "Type de compte",
+      "german": "Kontotyp",
+      "japanese": "アカウントタイプ",
+      "korean": "계정 유형",
+      "mandarin": "账户类型",
+      "portuguese": "Tipo de conta",
+      "spanish": "Tipo de cuenta",
+      "turkish": "Hesap türü"
+    },
+    "eip7702UpgradeAccountTypeDescription": {
+      "amharic": "አካውንትዎን ወደ ስማርት አካውንት እያሻሻሉ ነው። ተመሳሳዩን አድራሻ ይዘው ፈጣን ግብዣዎች እና ዝቅተኛ የኔትወርክ ክፍያዎች ይከፍታሉ።",
+      "dutch": "U upgradet uw account naar een slim account. U behoudt hetzelfde accountadres terwijl u snellere transacties en lagere netwerkkosten ontgrendelt.",
+      "english": "You're updating your account to a smart account. You'll keep the same account address while unlocking faster transactions and lower network fees.",
+      "french": "Vous mettez à jour votre compte vers un compte intelligent. Vous conserverez la même adresse de compte tout en débloquant des transactions plus rapides et des frais de réseau réduits.",
+      "german": "Sie aktualisieren Ihr Konto auf ein Smart-Konto. Sie behalten dieselbe Kontoadresse bei und schalten schnellere Transaktionen und niedrigere Netzwerkgebühren frei.",
+      "japanese": "アカウントをスマートアカウントにアップグレードしています。同じアカウントアドレスを維持しながら、より速いトランザクションとより低いネットワーク手数料を利用できます。",
+      "korean": "계정을 스마트 계정으로 업그레이드하고 있습니다. 동일한 계정 주소를 유지하면서 더 빠른 거래와 더 낮은 네트워크 수수료를 이용할 수 있습니다.",
+      "mandarin": "您正在将账户升级为智能账户。您将保留相同的账户地址，同时解锁更快的交易和更低的网络费用。",
+      "portuguese": "Você está atualizando sua conta para uma conta inteligente. Você manterá o mesmo endereço de conta enquanto desbloqueia transações mais rápidas e taxas de rede mais baixas.",
+      "spanish": "Está actualizando su cuenta a una cuenta inteligente. Mantendrá la misma dirección de cuenta mientras desbloquea transacciones más rápidas y tarifas de red más bajas.",
+      "turkish": "Hesabınızı akıllı hesaba yükseltiyorsunuz. Aynı hesap adresini korurken daha hızlı işlemler ve daha düşük ağ ücretlerinin kilidini açacaksınız."
+    },
     "eip7702UpgradeDescription": {
       "amharic": "የስማርት አካውንት መተግበሪያ መላክ ይችላል።",
       "dutch": "U wisselt over naar een slim account.",
