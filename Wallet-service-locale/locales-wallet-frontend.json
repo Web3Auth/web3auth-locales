@@ -130,6 +130,19 @@
       "spanish": "Balance",
       "turkish": "Denge"
     },
+    "batch": {
+      "amharic": "ግብዣ",
+      "dutch": "Batch",
+      "english": "Batch",
+      "french": "Lot",
+      "german": "Batch",
+      "japanese": "バッチ",
+      "korean": "배치",
+      "mandarin": "批量",
+      "portuguese": "Lote",
+      "spanish": "Lote",
+      "turkish": "Lot"
+    },
     "buySell": {
       "amharic": "ግዢ/ሽያጭ",
       "dutch": "Kopen verkopen",
@@ -298,6 +311,19 @@
       "portuguese": "Editar prioridade",
       "spanish": "Editar prioridad",
       "turkish": "Önceliği Düzenle"
+    },
+    "eip5792BatchDescription": {
+      "amharic": "{0} ግብዣዎችን ያካትታል",
+      "dutch": "Bevat {0} transacties",
+      "english": "Includes {0} transactions",
+      "french": "Comprend {0} transactions",
+      "german": "Enthält {0} Transaktionen",
+      "japanese": "{0}件のトランザクションを含みます",
+      "korean": "{0}개의 거래를 포함합니다",
+      "mandarin": "包含{0}笔交易",
+      "portuguese": "Inclui {0} transações",
+      "spanish": "Incluye {0} transacciones",
+      "turkish": "{0} işlem içerir"
     },
     "eip7702DowngradeDescription": {
       "amharic": "ወደ መደበኛ አካውንት (EOA) እየተመለሱ ነው።",
