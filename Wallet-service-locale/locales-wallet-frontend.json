@@ -1,5 +1,18 @@
 {
   "walletFrontend": {
+    "accountUpdateRequest": {
+      "amharic": "መተግበሪያ መዝገብ",
+      "dutch": "Account bijwerken",
+      "english": "Account update",
+      "french": "Mise à jour du compte",
+      "german": "Konto-Update",
+      "japanese": "アカウント更新",
+      "korean": "계정 업데이트",
+      "mandarin": "账户更新",
+      "portuguese": "Atualização de conta",
+      "spanish": "Actualización de cuenta",
+      "turkish": "Hesap güncellemesi"
+    },
     "activity": {
       "amharic": "እንቅስቃሴ",
       "dutch": "Activiteit",
@@ -363,19 +376,6 @@
       "portuguese": "Conta padrão",
       "spanish": "Cuenta estándar",
       "turkish": "Standart hesap"
-    },
-    "accountUpdateRequest": {
-      "amharic": "መተግበሪያ መዝገብ",
-      "dutch": "Account upgrade",
-      "english": "Account upgrade",
-      "french": "Mise à niveau du compte",
-      "german": "Konto-Upgrade",
-      "japanese": "アカウントアップグレード",
-      "korean": "계정 업그레ード",
-      "mandarin": "账户升级",
-      "portuguese": "Atualização de conta",
-      "spanish": "Actualización de cuenta",
-      "turkish": "Hesap güncelleme"
     },
     "eip7702UpgradeTo": {
       "amharic": "መተግበሪያ መላክ ይችላል።",
