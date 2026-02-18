@@ -325,6 +325,19 @@
       "spanish": "Está actualizando su cuenta a una cuenta inteligente. Mantendrá la misma dirección de cuenta mientras desbloquea transacciones más rápidas y tarifas de red más bajas.",
       "turkish": "Hesabınızı akıllı hesaba yükseltiyorsunuz. Aynı hesap adresini korurken daha hızlı işlemler ve daha düşük ağ ücretlerinin kilidini açacaksınız."
     },
+    "eip7702DowngradeDescription": {
+      "amharic": "ወደ መደበኛ አካውንት (EOA) እየተመለሱ ነው።",
+      "dutch": "U schakelt terug naar een standaard account (EOA).",
+      "english": "You're switching back to a standard account (EOA).",
+      "french": "Vous revenez à un compte standard (EOA).",
+      "german": "Sie wechseln zurück zu einem Standardkonto (EOA).",
+      "japanese": "標準アカウント（EOA）に戻しています。",
+      "korean": "표준 계정(EOA)으로 다시 전환하고 있습니다.",
+      "mandarin": "您正在切换回标准账户（EOA）。",
+      "portuguese": "Você está voltando para uma conta padrão (EOA).",
+      "spanish": "Está volviendo a una cuenta estándar (EOA).",
+      "turkish": "Standart hesaba (EOA) geri geçiyorsunuz."
+    },
     "eip7702UpgradeDescription": {
       "amharic": "የስማርት አካውንት መተግበሪያ መላክ ይችላል።",
       "dutch": "U wisselt over naar een slim account.",
@@ -1009,6 +1022,19 @@
       "portuguese": "Rejeitar",
       "spanish": "Rechazar",
       "turkish": "Reddet"
+    },
+    "revokeDelegation": {
+      "amharic": "ውክልና ሰርዝ",
+      "dutch": "Delegatie intrekken",
+      "english": "Revoke Delegation",
+      "french": "Révoquer la délégation",
+      "german": "Delegation widerrufen",
+      "japanese": "委任を取り消す",
+      "korean": "위임 취소",
+      "mandarin": "撤销委托",
+      "portuguese": "Revogar delegação",
+      "spanish": "Revocar delegación",
+      "turkish": "Yetkilendirmeyi iptal et"
     },
     "requestedFrom": {
       "amharic": "የተጠየቀው ከ",
