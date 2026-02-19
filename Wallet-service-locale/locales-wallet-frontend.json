@@ -365,7 +365,7 @@
       "turkish": "Akıllı hesap"
     },
     "eip7702StandardAccount": {
-      "amharic": "ስማርት አካውንት",
+      "amharic": "መደበኛ አካውንት",
       "dutch": "Standaard account",
       "english": "Standard Account",
       "french": "Compte standard",
@@ -378,17 +378,17 @@
       "turkish": "Standart hesap"
     },
     "eip7702To": {
-      "amharic": "መተግበሪያ መላክ ይችላል።",
+      "amharic": "በመቀየር ላይ ወደ",
       "dutch": "Schakelen naar",
       "english": "Switching to",
-      "french": "Changement de",
+      "french": "Changer pour",
       "german": "Wechseln zu",
-      "japanese": "切り替えています",
-      "korean": "전환하고 있습니다",
+      "japanese": "切り替える",
+      "korean": "다음으로 전환 중",
       "mandarin": "切换到",
       "portuguese": "Mudando para",
       "spanish": "Cambiando a",
-      "turkish": "Geçiş yapıyorsunuz"
+      "turkish": "Geçiş yapılıyor"
     },
     "eip7702UpgradeAccountType": {
       "amharic": "የአካውንት አይነት",
