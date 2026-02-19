@@ -1,7 +1,7 @@
 {
   "walletFrontend": {
     "accountUpdateRequest": {
-      "amharic": "መተግበሪያ መዝገብ",
+      "amharic": "የመለያ ዝማኔ",
       "dutch": "Account bijwerken",
       "english": "Account update",
       "french": "Mise à jour du compte",
@@ -131,7 +131,7 @@
       "turkish": "Denge"
     },
     "batch": {
-      "amharic": "ግብዣ",
+      "amharic": "ባች",
       "dutch": "Batch",
       "english": "Batch",
       "french": "Lot",
@@ -313,7 +313,7 @@
       "turkish": "Önceliği Düzenle"
     },
     "eip5792BatchDescription": {
-      "amharic": "{0} ግብዣዎችን ያካትታል",
+      "amharic": "{0} ግብይቶችን ያካትታል",
       "dutch": "Bevat {0} transacties",
       "english": "Includes {0} transactions",
       "french": "Comprend {0} transactions",
@@ -339,7 +339,7 @@
       "turkish": "Standart hesaba (EOA) geri geçiyorsunuz."
     },
     "eip7702From": {
-      "amharic": "ከመጀመሪያ",
+      "amharic": "አሁን",
       "dutch": "Nu",
       "english": "Now",
       "french": "Maintenant",
@@ -404,7 +404,7 @@
       "turkish": "Hesap türü"
     },
     "eip7702UpgradeAccountTypeDescription": {
-      "amharic": "አካውንትዎን ወደ ስማርት አካውንት እያሻሻሉ ነው። ተመሳሳዩን አድራሻ ይዘው ፈጣን ግብዣዎች እና ዝቅተኛ የኔትወርክ ክፍያዎች ይከፍታሉ።",
+      "amharic": "መለያህን ወደ ዘመናዊ መለያ እያዘመንክ ነው። ፈጣን ግብይቶችን እና ዝቅተኛ የአውታረ መረብ ክፍያዎችን በሚከፍቱበት ጊዜ ተመሳሳዩን የመለያ አድራሻ ያስቀምጣሉ።",
       "dutch": "U upgradet uw account naar een slim account. U behoudt hetzelfde accountadres terwijl u snellere transacties en lagere netwerkkosten ontgrendelt.",
       "english": "You're updating your account to a smart account. You'll keep the same account address while unlocking faster transactions and lower network fees.",
       "french": "Vous mettez à jour votre compte vers un compte intelligent. Vous conserverez la même adresse de compte tout en débloquant des transactions plus rapides et des frais de réseau réduits.",
@@ -417,7 +417,7 @@
       "turkish": "Hesabınızı akıllı hesaba yükseltiyorsunuz. Aynı hesap adresini korurken daha hızlı işlemler ve daha düşük ağ ücretlerinin kilidini açacaksınız."
     },
     "eip7702UpgradeDescription": {
-      "amharic": "የስማርት አካውንት መተግበሪያ መላክ ይችላል።",
+      "amharic": "ወደ ዘመናዊ መለያ እየቀየሩ ነው።",
       "dutch": "U wisselt over naar een slim account.",
       "english": "You are switching to a smart account.",
       "french": "Vous êtes en train de basculer vers un compte intelligent.",
