@@ -1,5 +1,18 @@
 {
   "activity": {
+    "blockExplorerFallback": {
+      "amharic": "ብሎክ ኤክስፕሎረር",
+      "dutch": "Block-explorer",
+      "english": "Block explorer",
+      "french": "Banc de blocs",
+      "german": "Block-Explorer",
+      "japanese": "ブロックエクスプローラー",
+      "korean": "블록 탐색기",
+      "mandarin": "区块浏览器",  
+      "portuguese": "Block-Explorer",
+      "spanish": "Explorador de bloques",
+      "turkish": "Blok Explorer"
+    },
     "movingAssetMsg": {
       "amharic": "ንብረቶችዎን ማንቀሳቀስ ከጀመሩ በኋላ ግብዣዎችዎ እዚህ ይታያሉ",
       "dutch": "Zodra u begint met het verplaatsen van uw vermogen, verschijnen uw transacties hier.",
@@ -51,6 +64,32 @@
       "portuguese": "Selecione qualquer transação para visualizar detalhes",
       "spanish": "Seleccione cualquier transacción para ver los detalles",
       "turkish": "Detayları görmek için herhangi bir işlem seçin"
+    },
+    "viewHistorySuffix": {
+      "amharic": "ለማየት የተመረጡትን ግብዣ መመሪያ",
+      "dutch": "om de volledige geschiedenis van uw transacties te bekijken",
+      "english": "to view the full history of your transactions",
+      "french": "pour voir l'historique complet de vos transactions",
+      "german": "um die vollständige Transaktionshistorie anzuzeigen",
+      "japanese": "取引履歴を全て表示するには",
+      "korean": "거래 내역을 전체적으로 보려면",
+      "mandarin": "查看交易历史",
+      "portuguese": "para ver o histórico completo de suas transações",
+      "spanish": "para ver la historia completa de sus transacciones",
+      "turkish": "işlemlerinizin tam geçmişini görmek için"
+    },
+    "visitExplorerPrefix": {
+      "amharic": "ጎብኝ",
+      "dutch": "bezoek",
+      "english": "Visit",
+      "french": "Visitez",
+      "german": "Besuchen Sie",
+      "japanese": "訪問",
+      "korean": "방문",
+      "mandarin": "访问",
+      "portuguese": "Visitar",
+      "spanish": "Visitar",
+      "turkish": "Ziyaret et"
     }
   },
   "home": {
