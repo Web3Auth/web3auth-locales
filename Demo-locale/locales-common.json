@@ -121,16 +121,16 @@
       "turkish": "Etkinleştirilmiş"
     },
     "experience-web3auth": {
-      "dutch": "Ervaar MetaMask Embedded Wallet",
-      "english": "Experience MetaMask Embedded Wallet",
-      "french": "Découvrez MetaMask Embedded Wallet",
-      "german": "Erleben Sie MetaMask Embedded Wallet",
-      "japanese": "MetaMask Embedded Walletを体験してください",
-      "korean": "MetaMask Embedded Wallet을 경험해보세요",
-      "mandarin": "体验 MetaMask Embedded Wallet",
-      "portuguese": "Experimente o MetaMask Embedded Wallet",
-      "spanish": "Experimente MetaMask Embedded Wallet",
-      "turkish": "MetaMask Embedded Wallet'ı deneyimleyin"
+      "dutch": "Ervaar MetaMask Embedded Wallets",
+      "english": "Experience MetaMask Embedded Wallets",
+      "french": "Découvrez MetaMask Embedded Wallets",
+      "german": "Erleben Sie MetaMask Embedded Wallets",
+      "japanese": "MetaMask Embedded Walletsを体験してください",
+      "korean": "MetaMask Embedded Wallets을 경험해보세요",
+      "mandarin": "体验 MetaMask Embedded Wallets",
+      "portuguese": "Experimente o MetaMask Embedded Wallets",
+      "spanish": "Experimente MetaMask Embedded Wallets",
+      "turkish": "MetaMask Embedded Wallets'ı deneyimleyin"
     },
     "get-started-now": {
       "dutch": "Begin nu",
