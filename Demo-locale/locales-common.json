@@ -121,16 +121,16 @@
       "turkish": "Etkinleştirilmiş"
     },
     "experience-web3auth": {
-      "dutch": "Ervaar Web3Auth uit de eerste hand",
-      "english": "Experience Web3Auth, first hand",
-      "french": "Découvrez Web3Auth, par vous-même",
-      "german": "Erleben Sie Web3Auth aus erster Hand",
-      "japanese": "Web3Auth を直接体験してください",
-      "korean": "Web3Auth를 직접 경험해보세요",
-      "mandarin": "亲身体验 Web3Auth",
-      "portuguese": "Experimente o Web3Auth em primeira mão",
-      "spanish": "Experimente Web3Auth de primera mano",
-      "turkish": "Web3Auth'u ilk elden deneyimleyin"
+      "dutch": "Ervaar MetaMask Embedded Wallets",
+      "english": "Experience MetaMask Embedded Wallets",
+      "french": "Découvrez MetaMask Embedded Wallets",
+      "german": "Erleben Sie MetaMask Embedded Wallets",
+      "japanese": "MetaMask Embedded Walletsを体験してください",
+      "korean": "MetaMask Embedded Wallets을 경험해보세요",
+      "mandarin": "体验 MetaMask Embedded Wallets",
+      "portuguese": "Experimente o MetaMask Embedded Wallets",
+      "spanish": "Experimente MetaMask Embedded Wallets",
+      "turkish": "MetaMask Embedded Wallets'ı deneyimleyin"
     },
     "get-started-now": {
       "dutch": "Begin nu",
@@ -361,16 +361,16 @@
       "turkish": "Kullanıcı Bilgi Konsolu"
     },
     "view-integrations": {
-      "dutch": "Bekijk live-integraties",
-      "english": "View Live Integrations",
-      "french": "Afficher les intégrations en direct",
-      "german": "Live-Integrationen anzeigen",
-      "japanese": "ライブ統合を表示する",
-      "korean": "실시간 통합 보기",
-      "mandarin": "查看实时集成",
-      "portuguese": "Ver integrações ao vivo",
-      "spanish": "Ver integraciones en vivo",
-      "turkish": "Canlı Entegrasyonları Görüntüle"
+      "dutch": "Integreer via AI",
+      "english": "Integrate via AI",
+      "french": "Intégrer via l'IA",
+      "german": "Integrieren über KI",
+      "japanese": "AIを使って統合する",
+      "korean": "AI를 통해 통합하기",
+      "mandarin": "通过AI集成",
+      "portuguese": "Integrar via IA",
+      "spanish": "Integrar a través de IA",
+      "turkish": "Yapay Zeka ile Entegre Edin"
     },
     "wallet-services": {
       "dutch": "Wallet-diensten",
@@ -397,40 +397,16 @@
       "turkish": "Üretime hazır cüzdan kullanıcı arayüzü"
     },
     "web3auth-subtext": {
-      "dutch": "Blader door ons volledige pakket functies voor uw dApp met onze documenten. Toegangscodevoorbeelden voor deze functies door naar onze te gaan",
-      "english": "Browse our full suite of features for your dApp with our docs. Access codes examples for these features by visiting our",
-      "french": "Parcourez notre suite complète de fonctionnalités pour votre dApp avec nos documents. Accédez à des exemples de codes pour ces fonctionnalités en visitant notre",
-      "german": "Durchsuchen Sie mit unseren Dokumenten unser gesamtes Funktionspaket für Ihre dApp. Beispiele für Zugriffscodes für diese Funktionen finden Sie auf unserer Seite",
-      "japanese": "ドキュメントで、dApp 向けの完全な機能スイートを参照してください。これらの機能のアクセス コードの例については、当社の Web サイトにアクセスしてください。",
-      "korean": "당사의 문서를 통해 귀하의 dApp을 위한 전체 기능 제품군을 찾아보세요. 당사를 방문하여 이러한 기능에 대한 액세스 코드 예시를 확인하세요.",
-      "mandarin": "通过我们的文档浏览我们为您的 dApp 提供的全套功能。通过访问我们的网站来访问这些功能的代码示例",
-      "portuguese": "Navegue por nosso conjunto completo de recursos para seu dApp com nossos documentos. Exemplos de códigos de acesso para esses recursos visitando nosso",
-      "spanish": "Explore nuestro conjunto completo de funciones para su dApp con nuestros documentos. Ejemplos de códigos de acceso para estas funciones visitando nuestro",
-      "turkish": "Dokümanlarımızla dApp'iniz için tüm özelliklere göz atın. Bu özellikler için erişim kodu örneklerine web sitemizi ziyaret ederek ulaşabilirsiniz."
-    },
-    "web3auth-subtext-1": {
-      "dutch": "Blader door ons volledige aanbod aan functies voor uw dApp met onze ",
-      "english": "Browse our full suite of features for your dApp with our ",
-      "french": "Parcourez notre gamme complète de fonctionnalités pour votre dApp avec notre ",
-      "german": "Durchsuchen Sie unsere vollständige Suite an Funktionen für Ihre dApp mit unserem ",
-      "japanese": "dAppのあらゆる機能をご覧ください ",
-      "korean": "dApp에 대한 전체 기능 세트를 탐색하세요. ",
-      "mandarin": "浏览我们为您的 dApp 提供的全套功能",
-      "portuguese": "Navegue por nosso conjunto completo de recursos para seu dApp com nosso ",
-      "spanish": "Explore nuestro conjunto completo de funciones para su dApp con nuestro ",
-      "turkish": "dApp'niz için tüm özelliklerin yer aldığı paketimize göz atın "
-    },
-    "web3auth-subtext-2": {
-      "dutch": "Toegangscodevoorbeelden voor deze functies door naar onze te gaan",
-      "english": "Access codes examples for these features by visiting our",
-      "french": "Accédez à des exemples de codes pour ces fonctionnalités en visitant notre",
-      "german": "Beispiele für Zugriffscodes für diese Funktionen finden Sie auf unserer Seite",
-      "japanese": "これらの機能のアクセス コードの例については、当社の Web サイトにアクセスしてください。",
-      "korean": "당사를 방문하여 이러한 기능에 대한 액세스 코드 예시를 확인하세요.",
-      "mandarin": "通过访问我们的网站来访问这些功能的代码示例",
-      "portuguese": "Exemplos de códigos de acesso para esses recursos visitando nosso",
-      "spanish": "Ejemplos de códigos de acceso para estas funciones visitando nuestro",
-      "turkish": "Bu özellikler için erişim kodu örneklerine web sitemizi ziyaret ederek ulaşabilirsiniz."
+      "dutch": "Voeg MetaMask Embedded Wallets toe aan uw eigen applicatie en ervaar de naadloze web3-authenticatie met slechts een paar klikken.",
+      "english": "Add MetaMask Embedded Wallets into your own application and experience the seamless web3 authentication within a few clicks.",
+      "french": "Ajoutez MetaMask Embedded Wallets à votre propre application et découvrez l'authentification web3 transparente en quelques clics.",
+      "german": "Fügen Sie MetaMask Embedded Wallets zu Ihrer eigenen Anwendung hinzu und erleben Sie die nahtlose Web3-Authentifizierung mit wenigen Klicks.",
+      "japanese": "MetaMask Embedded Walletsをあなた自身のアプリケーションに追加し、数回のクリックでシームレスなweb3認証を体験してください。",
+      "korean": "MetaMask Embedded Wallets를 자신의 애플리케이션에 추가하고 몇 번의 클릭만으로 원활한 web3 인증을 경험해보세요.",
+      "mandarin": "将MetaMask Embedded Wallets添加到您自己的应用程序中，只需几次点击即可体验无缝的web3身份验证。",
+      "portuguese": "Adicione MetaMask Embedded Wallets à sua própria aplicação e experiencie a autenticação web3 sem atritos com apenas alguns cliques.",
+      "spanish": "Agregue MetaMask Embedded Wallets a su propia aplicación y experimente la autenticación web3 sin problemas con solo unos pocos clics.",
+      "turkish": "MetaMask Embedded Wallets'ı kendi uygulamanıza ekleyin ve birkaç tıklamayla sorunsuz web3 kimlik doğrulamasını deneyimleyin."
     }
   },
   "login": {
