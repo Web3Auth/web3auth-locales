@@ -1411,6 +1411,19 @@
       "spanish": "E411. Límite alcanzado",
       "turkish": "E411. Sınır aşıldı"
     },
+    "captcha-default-error": {
+      "amharic": "በማረጋገጫ ሂደት ወቅት ያልተጠበቀ ስህተት ተከስቷል። እባክዎ ገጹን እንደገና ለመጫን ይሞክሩ።",
+      "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
+      "english": "An unexpected error occurred during verification. Please try reloading the page.",
+      "french": "Une erreur inattendue est survenue lors de la vérification. Veuillez essayer de recharger la page.",
+      "german": "Ein unerwarteter Fehler ist während der Überprüfung aufgetreten. Bitte versuchen Sie, die Seite neu zu laden.",
+      "japanese": "検証中に予期しないエラーが発生しました。ページを再読み込みしてください。",
+      "korean": "인증 중 예기치 않은 오류가 발생했습니다. 페이지를 새로 고치세요.",
+      "mandarin": "验证过程中发生意外错误。请重新加载页面。",
+      "portuguese": "Ocorreu um erro inesperado durante a verificação. Por favor, tente recarregar a página.",
+      "spanish": "Se ha producido un error inesperado durante la verificación. Por favor, inténtelo de nuevo recargando la página.",
+      "turkish": "Doğrulama sırasında beklenmedik bir hata oluştu. Lütfen sayfayı yeniden yükleyin."
+    },
     "error-recaptcha-verification-failed": {
       "amharic": "የCaptcha ማረጋገጫ ተሳክቶልም። እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
