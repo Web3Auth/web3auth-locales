@@ -1,5 +1,18 @@
 {
   "walletFrontend": {
+    "accountUpdateRequest": {
+      "amharic": "የመለያ ዝማኔ",
+      "dutch": "Account bijwerken",
+      "english": "Account update",
+      "french": "Mise à jour du compte",
+      "german": "Konto-Update",
+      "japanese": "アカウント更新",
+      "korean": "계정 업데이트",
+      "mandarin": "账户更新",
+      "portuguese": "Atualização de conta",
+      "spanish": "Actualización de cuenta",
+      "turkish": "Hesap güncellemesi"
+    },
     "activity": {
       "amharic": "እንቅስቃሴ",
       "dutch": "Activiteit",
@@ -116,6 +129,19 @@
       "portuguese": "Equilíbrio",
       "spanish": "Balance",
       "turkish": "Denge"
+    },
+    "batch": {
+      "amharic": "ባች",
+      "dutch": "Batch",
+      "english": "Batch",
+      "french": "Lot",
+      "german": "Batch",
+      "japanese": "バッチ",
+      "korean": "배치",
+      "mandarin": "批量",
+      "portuguese": "Lote",
+      "spanish": "Lote",
+      "turkish": "Lot"
     },
     "buySell": {
       "amharic": "ግዢ/ሽያጭ",
@@ -285,6 +311,123 @@
       "portuguese": "Editar prioridade",
       "spanish": "Editar prioridad",
       "turkish": "Önceliği Düzenle"
+    },
+    "eip5792BatchDescription": {
+      "amharic": "{0} ግብይቶችን ያካትታል",
+      "dutch": "Bevat {0} transacties",
+      "english": "Includes {0} transactions",
+      "french": "Comprend {0} transactions",
+      "german": "Enthält {0} Transaktionen",
+      "japanese": "{0}件のトランザクションを含みます",
+      "korean": "{0}개의 거래를 포함합니다",
+      "mandarin": "包含{0}笔交易",
+      "portuguese": "Inclui {0} transações",
+      "spanish": "Incluye {0} transacciones",
+      "turkish": "{0} işlem içerir"
+    },
+    "eip7702DowngradeDescription": {
+      "amharic": "ወደ መደበኛ አካውንት (EOA) እየተመለሱ ነው።",
+      "dutch": "U schakelt terug naar een standaard account (EOA).",
+      "english": "You're switching back to a standard account (EOA).",
+      "french": "Vous revenez à un compte standard (EOA).",
+      "german": "Sie wechseln zurück zu einem Standardkonto (EOA).",
+      "japanese": "標準アカウント（EOA）に戻しています。",
+      "korean": "표준 계정(EOA)으로 다시 전환하고 있습니다.",
+      "mandarin": "您正在切换回标准账户（EOA）。",
+      "portuguese": "Você está voltando para uma conta padrão (EOA).",
+      "spanish": "Está volviendo a una cuenta estándar (EOA).",
+      "turkish": "Standart hesaba (EOA) geri geçiyorsunuz."
+    },
+    "eip7702From": {
+      "amharic": "አሁን",
+      "dutch": "Nu",
+      "english": "Now",
+      "french": "Maintenant",
+      "german": "Jetzt",
+      "japanese": "今",
+      "korean": "지금",
+      "mandarin": "现在",
+      "portuguese": "Agora",
+      "spanish": "Ahora",
+      "turkish": "Şimdi"
+    },
+    "eip7702SmartAccount": {
+      "amharic": "ስማርት አካውንት",
+      "dutch": "Slim account",
+      "english": "Smart Account",
+      "french": "Compte intelligent",
+      "german": "Intelligentes Konto",
+      "japanese": "スマートアカウント",
+      "korean": "스마트 계정",
+      "mandarin": "智能账户",
+      "portuguese": "Conta inteligente",
+      "spanish": "Cuenta inteligente",
+      "turkish": "Akıllı hesap"
+    },
+    "eip7702StandardAccount": {
+      "amharic": "መደበኛ አካውንት",
+      "dutch": "Standaard account",
+      "english": "Standard Account",
+      "french": "Compte standard",
+      "german": "Standardkonto",
+      "japanese": "標準アカウント",
+      "korean": "표준 계정",
+      "mandarin": "标准账户",
+      "portuguese": "Conta padrão",
+      "spanish": "Cuenta estándar",
+      "turkish": "Standart hesap"
+    },
+    "eip7702To": {
+      "amharic": "በመቀየር ላይ ወደ",
+      "dutch": "Schakelen naar",
+      "english": "Switching to",
+      "french": "Changer pour",
+      "german": "Wechseln zu",
+      "japanese": "切り替える",
+      "korean": "다음으로 전환 중",
+      "mandarin": "切换到",
+      "portuguese": "Mudando para",
+      "spanish": "Cambiando a",
+      "turkish": "Geçiş yapılıyor"
+    },
+    "eip7702UpgradeAccountType": {
+      "amharic": "የአካውንት አይነት",
+      "dutch": "Accounttype",
+      "english": "Account type",
+      "french": "Type de compte",
+      "german": "Kontotyp",
+      "japanese": "アカウントタイプ",
+      "korean": "계정 유형",
+      "mandarin": "账户类型",
+      "portuguese": "Tipo de conta",
+      "spanish": "Tipo de cuenta",
+      "turkish": "Hesap türü"
+    },
+    "eip7702UpgradeAccountTypeDescription": {
+      "amharic": "መለያህን ወደ ዘመናዊ መለያ እያዘመንክ ነው። ፈጣን ግብይቶችን እና ዝቅተኛ የአውታረ መረብ ክፍያዎችን በሚከፍቱበት ጊዜ ተመሳሳዩን የመለያ አድራሻ ያስቀምጣሉ።",
+      "dutch": "U upgradet uw account naar een slim account. U behoudt hetzelfde accountadres terwijl u snellere transacties en lagere netwerkkosten ontgrendelt.",
+      "english": "You're updating your account to a smart account. You'll keep the same account address while unlocking faster transactions and lower network fees.",
+      "french": "Vous mettez à jour votre compte vers un compte intelligent. Vous conserverez la même adresse de compte tout en débloquant des transactions plus rapides et des frais de réseau réduits.",
+      "german": "Sie aktualisieren Ihr Konto auf ein Smart-Konto. Sie behalten dieselbe Kontoadresse bei und schalten schnellere Transaktionen und niedrigere Netzwerkgebühren frei.",
+      "japanese": "アカウントをスマートアカウントにアップグレードしています。同じアカウントアドレスを維持しながら、より速いトランザクションとより低いネットワーク手数料を利用できます。",
+      "korean": "계정을 스마트 계정으로 업그레이드하고 있습니다. 동일한 계정 주소를 유지하면서 더 빠른 거래와 더 낮은 네트워크 수수료를 이용할 수 있습니다.",
+      "mandarin": "您正在将账户升级为智能账户。您将保留相同的账户地址，同时解锁更快的交易和更低的网络费用。",
+      "portuguese": "Você está atualizando sua conta para uma conta inteligente. Você manterá o mesmo endereço de conta enquanto desbloqueia transações mais rápidas e taxas de rede mais baixas.",
+      "spanish": "Está actualizando su cuenta a una cuenta inteligente. Mantendrá la misma dirección de cuenta mientras desbloquea transacciones más rápidas y tarifas de red más bajas.",
+      "turkish": "Hesabınızı akıllı hesaba yükseltiyorsunuz. Aynı hesap adresini korurken daha hızlı işlemler ve daha düşük ağ ücretlerinin kilidini açacaksınız."
+    },
+    "eip7702UpgradeDescription": {
+      "amharic": "ወደ ዘመናዊ መለያ እየቀየሩ ነው።",
+      "dutch": "U wisselt over naar een slim account.",
+      "english": "You are switching to a smart account.",
+      "french": "Vous êtes en train de basculer vers un compte intelligent.",
+      "german": "Sie wechseln zu einem intelligenten Konto.",
+      "japanese": "スマートアカウントに切り替えています。",
+      "korean": "스마트 계정으로 전환하고 있습니다.",
+      "mandarin": "您正在切换到智能账户。",
+      "portuguese": "Você está alternando para uma conta inteligente.",
+      "spanish": "Está cambiando a una cuenta inteligente.",
+      "turkish": "Akıllı hesaba geçiliyorsunuz."
     },
     "email": {
       "amharic": "ኢሜይል",
@@ -944,6 +1087,19 @@
       "portuguese": "Tente novamente",
       "spanish": "Rever",
       "turkish": "Tekrar Dene"
+    },
+    "revokeDelegation": {
+      "amharic": "ውክልና ሰርዝ",
+      "dutch": "Delegatie intrekken",
+      "english": "Revoke Delegation",
+      "french": "Révoquer la délégation",
+      "german": "Delegation widerrufen",
+      "japanese": "委任を取り消す",
+      "korean": "위임 취소",
+      "mandarin": "撤销委托",
+      "portuguese": "Revogar delegação",
+      "spanish": "Revocar delegación",
+      "turkish": "Yetkilendirmeyi iptal et"
     },
     "safeTransferFrom": {
       "amharic": "የደህንነት ተላላኪ (Safe Transfer From)",
