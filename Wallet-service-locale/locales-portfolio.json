@@ -1738,6 +1738,45 @@
       "portuguese": "Erro ao obter posições DeFi",
       "spanish": "Error al obtener posiciones DeFi",
       "turkish": "DeFi Pozisyonları alınamadı"
+    },
+    "externalTransfer": {
+      "amharic": "ውጫዊ ማስተላለፍ",
+      "dutch": "Externe overdracht",
+      "english": "External Transfer",
+      "french": "Transfert externe",
+      "german": "Externe Übertragung",
+      "japanese": "外部転送",
+      "korean": "외부 전송",
+      "mandarin": "外部转账",
+      "portuguese": "Transferência externa",
+      "spanish": "Transferencia externa",
+      "turkish": "Harici Transfer"
+    },
+    "processing": {
+      "amharic": "በሂደት ላይ...",
+      "dutch": "Verwerken...",
+      "english": "Processing...",
+      "french": "Traitement...",
+      "german": "Verarbeitung...",
+      "japanese": "処理中...",
+      "korean": "처리 중...",
+      "mandarin": "处理中...",
+      "portuguese": "Processando...",
+      "spanish": "Procesando...",
+      "turkish": "İşleniyor..."
+    },
+    "transactionSent": {
+      "amharic": "ግብይት ተልኳል!",
+      "dutch": "Transactie verzonden!",
+      "english": "Transaction sent!",
+      "french": "Transaction envoyée !",
+      "german": "Transaktion gesendet!",
+      "japanese": "トランザクションが送信されました！",
+      "korean": "거래가 전송되었습니다!",
+      "mandarin": "交易已发送！",
+      "portuguese": "Transação enviada!",
+      "spanish": "¡Transacción enviada!",
+      "turkish": "İşlem gönderildi!"
     }
   },
   "qrCode": {
