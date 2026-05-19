@@ -1,5 +1,161 @@
 {
   "modal": {
+    "account-linking.failed-connect-wallet": {
+      "amharic": "{{wallet}} ጋር ለመገናኘት አልተሳካም።",
+      "dutch": "Verbinding met {{wallet}} mislukt.",
+      "english": "Failed to connect with {{wallet}}.",
+      "french": "Échec de la connexion avec {{wallet}}.",
+      "german": "Verbindung mit {{wallet}} fehlgeschlagen.",
+      "japanese": "{{wallet}}への接続に失敗しました。",
+      "korean": "{{wallet}}와 연결에 실패했습니다.",
+      "mandarin": "连接{{wallet}}失败。",
+      "portuguese": "Falha ao conectar com {{wallet}}.",
+      "spanish": "Error al conectar con {{wallet}}.",
+      "turkish": "{{wallet}} ile bağlantı kurulamadı."
+    },
+    "account-linking.failed-switch-wallet": {
+      "amharic": "{{wallet}} ጋር ዋሌት ለመቀየር አልተሳካም።",
+      "dutch": "Portemonnee wisselen met {{wallet}} mislukt.",
+      "english": "Failed to switch wallet with {{wallet}}.",
+      "french": "Échec du changement de portefeuille avec {{wallet}}.",
+      "german": "Wallet-Wechsel mit {{wallet}} fehlgeschlagen.",
+      "japanese": "{{wallet}}でウォレットの切り替えに失敗しました。",
+      "korean": "{{wallet}}로 지갑 전환에 실패했습니다.",
+      "mandarin": "使用{{wallet}}切换钱包失败。",
+      "portuguese": "Falha ao trocar carteira com {{wallet}}.",
+      "spanish": "Error al cambiar la billetera con {{wallet}}.",
+      "turkish": "{{wallet}} ile cüzdan değiştirme başarısız oldu."
+    },
+    "account-linking.initializing-wallet": {
+      "amharic": "{{wallet}}ን በማስጀመር ላይ...",
+      "dutch": "{{wallet}} initialiseren...",
+      "english": "Initializing {{wallet}}...",
+      "french": "Initialisation de {{wallet}}...",
+      "german": "{{wallet}} wird initialisiert...",
+      "japanese": "{{wallet}}を初期化中...",
+      "korean": "{{wallet}} 초기화 중...",
+      "mandarin": "正在初始化{{wallet}}...",
+      "portuguese": "Inicializando {{wallet}}...",
+      "spanish": "Inicializando {{wallet}}...",
+      "turkish": "{{wallet}} başlatılıyor..."
+    },
+    "account-linking.linking-wallet": {
+      "amharic": "ዋሌት በማያያዝ ላይ...",
+      "dutch": "Portemonnee koppelen...",
+      "english": "Linking wallet...",
+      "french": "Liaison du portefeuille...",
+      "german": "Wallet wird verknüpft...",
+      "japanese": "ウォレットをリンク中...",
+      "korean": "지갑 연결 중...",
+      "mandarin": "正在关联钱包...",
+      "portuguese": "Vinculando carteira...",
+      "spanish": "Vinculando billetera...",
+      "turkish": "Cüzdan bağlanıyor..."
+    },
+    "account-linking.preparing-wallet-qr": {
+      "amharic": "{{wallet}} QR ኮድ በማዘጋጀት ላይ...",
+      "dutch": "{{wallet}} QR-code voorbereiden...",
+      "english": "Preparing {{wallet}} QR code...",
+      "french": "Préparation du code QR {{wallet}}...",
+      "german": "{{wallet}} QR-Code wird vorbereitet...",
+      "japanese": "{{wallet}} QRコードを準備中...",
+      "korean": "{{wallet}} QR 코드 준비 중...",
+      "mandarin": "正在准备{{wallet}} QR码...",
+      "portuguese": "Preparando código QR do {{wallet}}...",
+      "spanish": "Preparando el código QR de {{wallet}}...",
+      "turkish": "{{wallet}} QR kodu hazırlanıyor..."
+    },
+    "account-linking.scan-wallet": {
+      "amharic": "{{wallet}} በመጠቀም የQR ኮዱን ይስክኑ።",
+      "dutch": "Scan de QR-code met {{wallet}}.",
+      "english": "Scan the QR code with {{wallet}}.",
+      "french": "Scannez le code QR avec {{wallet}}.",
+      "german": "Scannen Sie den QR-Code mit {{wallet}}.",
+      "japanese": "{{wallet}}でQRコードをスキャンしてください。",
+      "korean": "{{wallet}}로 QR 코드를 스캔하세요.",
+      "mandarin": "使用{{wallet}}扫描QR码。",
+      "portuguese": "Digitalize o código QR com {{wallet}}.",
+      "spanish": "Escanea el código QR con {{wallet}}.",
+      "turkish": "QR kodunu {{wallet}} ile tarayın."
+    },
+    "account-linking.scan-walletconnect": {
+      "amharic": "ለWalletConnect ተስማሚ ዋሌት በመጠቀም የQR ኮዱን ይስክኑ።",
+      "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee.",
+      "english": "Scan the QR code with a WalletConnect-compatible wallet.",
+      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect.",
+      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse.",
+      "japanese": "WalletConnect対応ウォレットでQRコードをスキャンしてください。",
+      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하세요.",
+      "mandarin": "使用兼容WalletConnect的钱包扫描QR码。",
+      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect.",
+      "spanish": "Escanea el código QR con una billetera compatible con WalletConnect.",
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın."
+    },
+    "account-linking.switching-wallet": {
+      "amharic": "ዋሌት በመቀየር ላይ...",
+      "dutch": "Portemonnee wisselen...",
+      "english": "Switching wallet...",
+      "french": "Changement de portefeuille...",
+      "german": "Wallet wird gewechselt...",
+      "japanese": "ウォレットを切り替え中...",
+      "korean": "지갑 전환 중...",
+      "mandarin": "正在切换钱包...",
+      "portuguese": "Trocando carteira...",
+      "spanish": "Cambiando billetera...",
+      "turkish": "Cüzdan değiştiriliyor..."
+    },
+    "account-linking.wallet-connected-preparing-linking": {
+      "amharic": "ዋሌት ተገናኝቷል። የአካውንት ማያያዣ በማዘጋጀት ላይ...",
+      "dutch": "Portemonnee verbonden. Accountkoppeling voorbereiden...",
+      "english": "Wallet connected. Preparing account linking...",
+      "french": "Portefeuille connecté. Préparation de la liaison de compte...",
+      "german": "Wallet verbunden. Kontoverknüpfung wird vorbereitet...",
+      "japanese": "ウォレットが接続されました。アカウントのリンクを準備中...",
+      "korean": "지갑이 연결되었습니다. 계정 연결 준비 중...",
+      "mandarin": "钱包已连接。正在准备账户关联...",
+      "portuguese": "Carteira conectada. Preparando vinculação de conta...",
+      "spanish": "Billetera conectada. Preparando vinculación de cuenta...",
+      "turkish": "Cüzdan bağlandı. Hesap bağlantısı hazırlanıyor..."
+    },
+    "account-linking.wallet-connected-preparing-switch": {
+      "amharic": "ዋሌት ተገናኝቷል። የአካውንት ቀየሪ በማዘጋጀት ላይ...",
+      "dutch": "Portemonnee verbonden. Accountwisseling voorbereiden...",
+      "english": "Wallet connected. Preparing account switch...",
+      "french": "Portefeuille connecté. Préparation du changement de compte...",
+      "german": "Wallet verbunden. Kontowechsel wird vorbereitet...",
+      "japanese": "ウォレットが接続されました。アカウント切り替えを準備中...",
+      "korean": "지갑이 연결되었습니다. 계정 전환 준비 중...",
+      "mandarin": "钱包已连接。正在准备账户切换...",
+      "portuguese": "Carteira conectada. Preparando troca de conta...",
+      "spanish": "Billetera conectada. Preparando cambio de cuenta...",
+      "turkish": "Cüzdan bağlandı. Hesap değişimi hazırlanıyor..."
+    },
+    "account-linking.wallet-linked": {
+      "amharic": "ዋሌት ተያይዟል።",
+      "dutch": "Portemonnee gekoppeld.",
+      "english": "Wallet linked.",
+      "french": "Portefeuille lié.",
+      "german": "Wallet verknüpft.",
+      "japanese": "ウォレットがリンクされました。",
+      "korean": "지갑이 연결되었습니다.",
+      "mandarin": "钱包已关联。",
+      "portuguese": "Carteira vinculada.",
+      "spanish": "Billetera vinculada.",
+      "turkish": "Cüzdan bağlandı."
+    },
+    "account-linking.wallet-switched": {
+      "amharic": "ዋሌት ተቀይሯል።",
+      "dutch": "Portemonnee gewisseld.",
+      "english": "Wallet switched.",
+      "french": "Portefeuille changé.",
+      "german": "Wallet gewechselt.",
+      "japanese": "ウォレットが切り替わりました。",
+      "korean": "지갑이 전환되었습니다.",
+      "mandarin": "钱包已切换。",
+      "portuguese": "Carteira trocada.",
+      "spanish": "Billetera cambiada.",
+      "turkish": "Cüzdan değiştirildi."
+    },
     "adapter-loader.message": {
       "amharic": "ለመቀጠል የ{{adapter}} አካውንትዎን ያረጋግጡ",
       "dutch": "Verifieer uw {{adapter}}-account om door te gaan",
@@ -648,6 +804,19 @@
       "spanish": "Billetera",
       "turkish": "Cüzdan"
     },
+    "linkYourWallet": {
+      "amharic": "ዋሌትዎን ያያይዙ",
+      "dutch": "Uw portemonnee koppelen",
+      "english": "Link your wallet",
+      "french": "Lier votre portefeuille",
+      "german": "Ihre Wallet verknüpfen",
+      "japanese": "ウォレットをリンク",
+      "korean": "지갑 연결하기",
+      "mandarin": "关联您的钱包",
+      "portuguese": "Vincule sua carteira",
+      "spanish": "Vincula tu billetera",
+      "turkish": "Cüzdanınızı bağlayın"
+    },
     "loader.authorizing-header": {
       "english": "Verify on {{connector}}",
       "french": "Vérifier sur {{connector}}",
@@ -1268,6 +1437,19 @@
     }
   },
   "passwordless": {
+    "captcha-default-error": {
+      "amharic": "በማረጋገጫ ሂደት ወቅት ያልተጠበቀ ስህተት ተከስቷል። እባክዎ ገጹን እንደገና ለመጫን ይሞክሩ።",
+      "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
+      "english": "An unexpected error occurred during verification. Please try reloading the page.",
+      "french": "Une erreur inattendue est survenue lors de la vérification. Veuillez essayer de recharger la page.",
+      "german": "Ein unerwarteter Fehler ist während der Überprüfung aufgetreten. Bitte versuchen Sie, die Seite neu zu laden.",
+      "japanese": "検証中に予期しないエラーが発生しました。ページを再読み込みしてください。",
+      "korean": "인증 중 예기치 않은 오류가 발생했습니다. 페이지를 새로 고치세요.",
+      "mandarin": "验证过程中发生意外错误。请重新加载页面。",
+      "portuguese": "Ocorreu um erro inesperado durante a verificação. Por favor, tente recarregar a página.",
+      "spanish": "Se ha producido un error inesperado durante la verificación. Por favor, inténtelo de nuevo recargando la página.",
+      "turkish": "Doğrulama sırasında beklenmedik bir hata oluştu. Lütfen sayfayı yeniden yükleyin."
+    },
     "error-invalid-link": {
       "amharic": "የማረጋገጫው ሊንክ የተሳሳተ ነው ወይም ጊዜው አልፏል",
       "dutch": "Ongeldige verificatielink of link verlopen",
@@ -1410,19 +1592,6 @@
       "portuguese": "E411. Limite atingido",
       "spanish": "E411. Límite alcanzado",
       "turkish": "E411. Sınır aşıldı"
-    },
-    "captcha-default-error": {
-      "amharic": "በማረጋገጫ ሂደት ወቅት ያልተጠበቀ ስህተት ተከስቷል። እባክዎ ገጹን እንደገና ለመጫን ይሞክሩ።",
-      "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
-      "english": "An unexpected error occurred during verification. Please try reloading the page.",
-      "french": "Une erreur inattendue est survenue lors de la vérification. Veuillez essayer de recharger la page.",
-      "german": "Ein unerwarteter Fehler ist während der Überprüfung aufgetreten. Bitte versuchen Sie, die Seite neu zu laden.",
-      "japanese": "検証中に予期しないエラーが発生しました。ページを再読み込みしてください。",
-      "korean": "인증 중 예기치 않은 오류가 발생했습니다. 페이지를 새로 고치세요.",
-      "mandarin": "验证过程中发生意外错误。请重新加载页面。",
-      "portuguese": "Ocorreu um erro inesperado durante a verificação. Por favor, tente recarregar a página.",
-      "spanish": "Se ha producido un error inesperado durante la verificación. Por favor, inténtelo de nuevo recargando la página.",
-      "turkish": "Doğrulama sırasında beklenmedik bir hata oluştu. Lütfen sayfayı yeniden yükleyin."
     },
     "error-recaptcha-verification-failed": {
       "amharic": "የCaptcha ማረጋገጫ ተሳክቶልም። እባክዎ ደግመው ይሞክሩ።",
