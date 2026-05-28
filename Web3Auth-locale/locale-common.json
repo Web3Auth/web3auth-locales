@@ -951,7 +951,7 @@
       "korean": "{{email}}에 전송된 것입니다",
       "mandarin": "{{email}} 发送的",
       "portuguese": "que foi enviado para o seu email {{email}}",
-      "spanish": "que fue enviado a su email {{email}}",
+      "spanish": "que fue enviado a su correo electrónico {{email}}",
       "turkish": "{{email}} adresine gönderildi"
     },
     "otp.email-title": {
@@ -964,7 +964,7 @@
       "korean": "이메일 검증",
       "mandarin": "电子邮件验证",
       "portuguese": "Verificação de email",
-      "spanish": "Verificación de email",
+      "spanish": "Verificación de correo electrónico",
       "turkish": "Email Doğrulama"
     },
     "otp.mobile-subtext": {
@@ -1289,7 +1289,7 @@
       "korean": "이메일/전화번호",
       "mandarin": "电子邮件/电话",
       "portuguese": "Email/Telefone",
-      "spanish": "Email/Teléfono",
+      "spanish": "Correo electrónico/Teléfono",
       "turkish": "E-posta/Telefon"
     },
     "social.phone": {
