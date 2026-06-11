@@ -208,6 +208,45 @@
       "spanish": "Todas las cadenas",
       "turkish": "Tüm zincirler"
     },
+    "blocked.change-wallet": {
+      "amharic": "ዋሌት ይቀይሩ",
+      "dutch": "Portemonnee wijzigen",
+      "english": "Change wallet",
+      "french": "Changer de portefeuille",
+      "german": "Wallet wechseln",
+      "japanese": "ウォレットを変更",
+      "korean": "지갑 변경",
+      "mandarin": "更换钱包",
+      "portuguese": "Trocar carteira",
+      "spanish": "Cambiar billetera",
+      "turkish": "Cüzdanı değiştir"
+    },
+    "blocked.primary-message": {
+      "amharic": "ድረ-ገጹን መድረስ አይችሉም።",
+      "dutch": "U heeft geen toegang tot de site.",
+      "english": "You cannot access the site.",
+      "french": "Vous ne pouvez pas accéder au site.",
+      "german": "Sie können nicht auf die Website zugreifen.",
+      "japanese": "サイトにアクセスできません。",
+      "korean": "사이트에 접근할 수 없습니다.",
+      "mandarin": "您无法访问该网站。",
+      "portuguese": "Você não pode acessar o site.",
+      "spanish": "No puedes acceder al sitio.",
+      "turkish": "Siteye erişemezsiniz."
+    },
+    "blocked.secondary-message": {
+      "amharic": "ወደ ድረ-ገጹ መድረስ ተገድቧል",
+      "dutch": "Toegang tot de site is beperkt",
+      "english": "Access to the site is restricted",
+      "french": "L'accès au site est restreint",
+      "german": "Der Zugriff auf die Website ist eingeschränkt",
+      "japanese": "サイトへのアクセスは制限されています",
+      "korean": "사이트 접근이 제한되어 있습니다",
+      "mandarin": "网站访问受限",
+      "portuguese": "O acesso ao site é restrito",
+      "spanish": "El acceso al sitio está restringido",
+      "turkish": "Siteye erişim kısıtlanmıştır"
+    },
     "connect-wallet.more-wallets": {
       "amharic": "ተጨማሪ ዋሌቶች",
       "dutch": "Meer portemonnees",
