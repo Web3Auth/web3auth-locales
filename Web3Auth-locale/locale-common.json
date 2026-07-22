@@ -326,17 +326,17 @@
       "turkish": "Zorunlu"
     },
     "external.all-wallets": {
-      "amharic": "ሁሉም ዋሌቶች",
-      "dutch": "Alle portemonnees",
-      "english": "All Wallets",
-      "french": "Toutes les billeteras",
-      "german": "Alle Geldbörsen",
-      "japanese": "すべてのウォレット",
-      "korean": "모든 지갑",
-      "mandarin": "所有钱包",
-      "portuguese": "Todas as carteiras",
-      "spanish": "Todas las billeteras",
-      "turkish": "Tüm cüzdanlar"
+      "amharic": "የሌላዎች ዋሌቶች",
+      "dutch": "Andere portemonnees",
+      "english": "Other wallets",
+      "french": "Autres portefeuilles",
+      "german": "Andere Wallets",
+      "japanese": "他のウォレット",
+      "korean": "다른 지갑",
+      "mandarin": "其他钱包",
+      "portuguese": "Outras carteiras",
+      "spanish": "Otras billeteras",
+      "turkish": "Diğer cüzdanlar"
     },
     "external.back": {
       "amharic": "ወደ ኋላ",
