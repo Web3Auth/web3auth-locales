@@ -2069,17 +2069,17 @@
       "turkish": "Bu geliştirici ayarı ve test ve gelişmiş kullanım için tasarlanmıştır. Bu ayarları değiştirmeyi bilmiyorsanız, bunları değiştirmeyin."
     },
     "downloadSoftCopy": {
-      "amharic": "ሶፍት ቅጂ (JSON) አውርድ",
-      "dutch": "Download Soft Copy (JSON)",
-      "english": "Download Soft copy (JSON)",
-      "french": "Télécharger Soft Copy (JSON)",
-      "german": "Laden Sie Soft Copy (JSON) herunter",
-      "japanese": "ソフトコピーをダウンロード（JSON）",
-      "korean": "소프트 카피 다운로드 (JSON)",
-      "mandarin": "下载软拷贝（JSON）",
-      "portuguese": "Download Soft Cópia (JSON)",
-      "spanish": "Descargar una copia suave (JSON)",
-      "turkish": "Ince ince (JSON) indir"
+      "amharic": "አውርድ (JSON)",
+      "dutch": "Downloaden (JSON)",
+      "english": "Download (JSON)",
+      "french": "Télécharger (JSON)",
+      "german": "Herunterladen (JSON)",
+      "japanese": "ダウンロード（JSON）",
+      "korean": "다운로드 (JSON)",
+      "mandarin": "下载（JSON）",
+      "portuguese": "Baixar (JSON)",
+      "spanish": "Descargar (JSON)",
+      "turkish": "İndir (JSON)"
     },
     "edit": {
       "amharic": "አርትዕ",
