@@ -2640,6 +2640,32 @@
       "spanish": "Llave privada",
       "turkish": "Gizli anahtar"
     },
+    "privateKeyWarningDesc": {
+      "amharic": "ይህ ቁልፍ ለተዛማጅ ሰንሰለት በአካውንትዎ ላይ ሙሉ ቁጥጥር ይሰጣል።",
+      "dutch": "Deze sleutel geeft volledige controle over je account voor de bijbehorende keten.",
+      "english": "This key grants full control of your account for the associated chain.",
+      "french": "Cette clé donne un contrôle total de votre compte pour la chaîne associée.",
+      "german": "Dieser Schlüssel gewährt die vollständige Kontrolle über Ihr Konto für die zugehörige Chain.",
+      "japanese": "この鍵は、関連するチェーンにおけるアカウントの完全な制御権を付与します。",
+      "korean": "이 키는 해당 체인에 대한 계정의 전체 제어 권한을 부여합니다.",
+      "mandarin": "此密钥可授予对您在相关链上账户的完全控制权。",
+      "portuguese": "Esta chave concede controle total da sua conta para a cadeia associada.",
+      "spanish": "Esta clave otorga control total de tu cuenta para la cadena asociada.",
+      "turkish": "Bu anahtar, ilgili zincir için hesabınızın tam kontrolünü verir."
+    },
+    "privateKeyWarningTitle": {
+      "amharic": "የግል ቁልፍዎን አያጋሩ",
+      "dutch": "Deel je privésleutel niet",
+      "english": "Don’t share your private key",
+      "french": "Ne partagez pas votre clé privée",
+      "german": "Teilen Sie Ihren privaten Schlüssel nicht",
+      "japanese": "秘密鍵を共有しないでください",
+      "korean": "개인 키를 공유하지 마세요",
+      "mandarin": "请勿分享您的私钥",
+      "portuguese": "Não compartilhe sua chave privada",
+      "spanish": "No compartas tu clave privada",
+      "turkish": "Gizli anahtarınızı paylaşmayın"
+    },
     "profile": {
       "amharic": "ዋሌቶችን ያቀናብሩ",
       "dutch": "Beheer portefeuilles",
