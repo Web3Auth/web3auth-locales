@@ -39,6 +39,19 @@
       "spanish": "Permitir {0} agregar nueva red {1}",
       "turkish": "{0} yeni ağ {1} ekleme izni ver"
     },
+    "addNetwork": {
+      "amharic": "ኔትወርክ ጨምር",
+      "dutch": "Netwerk toevoegen",
+      "english": "Add Network",
+      "french": "Ajouter un réseau",
+      "german": "Netzwerk hinzufügen",
+      "japanese": "ネットワークを追加",
+      "korean": "네트워크 추가",
+      "mandarin": "添加网络",
+      "portuguese": "Adicionar rede",
+      "spanish": "Agregar red",
+      "turkish": "Ağ ekle"
+    },
     "advanced": {
       "amharic": "የላቀ",
       "dutch": "Geavanceerd",
@@ -521,17 +534,17 @@
       "turkish": "Tahmini Ağ Ücreti"
     },
     "from": {
-      "amharic": "ከ:",
-      "dutch": "Van:",
-      "english": "From:",
-      "french": "Depuis:",
-      "german": "Aus:",
-      "japanese": "から：",
-      "korean": "에서:",
-      "mandarin": "从：",
-      "portuguese": "De:",
-      "spanish": "De:",
-      "turkish": "Şuna:"
+      "amharic": "ከ",
+      "dutch": "Van",
+      "english": "From",
+      "french": "Depuis",
+      "german": "Aus",
+      "japanese": "から",
+      "korean": "에서",
+      "mandarin": "从",
+      "portuguese": "De",
+      "spanish": "De",
+      "turkish": "Şuna"
     },
     "hexData": {
       "amharic": "Hex ውሂብ",
@@ -1036,6 +1049,19 @@
       "spanish": "La página puede no poder abrir debido a un bloqueador emergente. Si está utilizando un bloqueador emergente, considere deshabilitarlo para este sitio en el futuro para acceder a la ventana.",
       "turkish": "Sayfa, açılan pencere engelleyicisinin nedeniyle açılamayabilir. Blokeiciyi kullanmıyorsanız, bu siteyi gelecekte devre dışı bırakarak pencereye erişim sağlayabilirsiniz."
     },
+    "programId": {
+      "amharic": "የፕሮግራም መታወቂያ",
+      "dutch": "Programma-ID",
+      "english": "Program ID",
+      "french": "ID de programme",
+      "german": "Programm-ID",
+      "japanese": "プログラムID",
+      "korean": "프로그램 ID",
+      "mandarin": "程序 ID",
+      "portuguese": "ID do programa",
+      "spanish": "ID del programa",
+      "turkish": "Program Kimliği"
+    },
     "reject": {
       "amharic": "አትቀበል",
       "dutch": "Afwijzen",
@@ -1335,18 +1361,31 @@
       "spanish": "Permitir {0} cambiar su red a {1}",
       "turkish": "{0} {1} ağınıza erişim izni ver"
     },
+    "switchNetwork": {
+      "amharic": "ኔትወርክ ቀይር",
+      "dutch": "Netwerk wisselen",
+      "english": "Switch Network",
+      "french": "Changer de réseau",
+      "german": "Netzwerk wechseln",
+      "japanese": "ネットワークを切り替え",
+      "korean": "네트워크 전환",
+      "mandarin": "切换网络",
+      "portuguese": "Alternar rede",
+      "spanish": "Cambiar red",
+      "turkish": "Ağ değiştir"
+    },
     "to": {
-      "amharic": "ወደ:",
-      "dutch": "Naar:",
-      "english": "To:",
-      "french": "À:",
-      "german": "Zu:",
-      "japanese": "に：",
-      "korean": "에게:",
-      "mandarin": "到：",
-      "portuguese": "Para:",
-      "spanish": "A:",
-      "turkish": "İçin:"
+      "amharic": "ወደ",
+      "dutch": "Naar",
+      "english": "To",
+      "french": "À",
+      "german": "Zu",
+      "japanese": "に",
+      "korean": "에게",
+      "mandarin": "到",
+      "portuguese": "Para",
+      "spanish": "A",
+      "turkish": "İçin"
     },
     "tokenDetails": {
       "amharic": "የቶክን ዝርዝሮች",
@@ -1412,6 +1451,19 @@
       "portuguese": "Transação",
       "spanish": "Transacción",
       "turkish": "İşlem"
+    },
+    "transactionInstructions": {
+      "amharic": "ለማጽደቅ {0} የግብይት መመሪያ(ዎች)",
+      "dutch": "{0} transactie-instructie(s) om goed te keuren",
+      "english": "{0} Transaction instruction(s) to approve",
+      "french": "{0} instruction(s) de transaction à approuver",
+      "german": "{0} Transaktionsanweisung(en) zum Genehmigen",
+      "japanese": "承認する{0}件のトランザクション命令",
+      "korean": "승인할 거래 지시 {0}개",
+      "mandarin": "{0} 条待批准的交易指令",
+      "portuguese": "{0} instrução(ões) de transação para aprovar",
+      "spanish": "{0} instrucción(es) de transacción para aprobar",
+      "turkish": "Onaylanacak {0} işlem talimatı"
     },
     "transfer": {
       "amharic": "ማስተላለፍ",
