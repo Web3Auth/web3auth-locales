@@ -1414,17 +1414,17 @@
       "turkish": "Gaz kredisi yükle"
     },
     "topupWallet": {
-      "amharic": "ዋሌት ያትሙ",
-      "dutch": "Topup -portemonnee",
-      "english": "Topup Wallet",
-      "french": "Portefeuille",
-      "german": "Aufpackungsbrieftasche",
-      "japanese": "トップアップウォレット",
-      "korean": "탑 업 지갑",
-      "mandarin": "托图钱包",
-      "portuguese": "Carteira de recarga",
-      "spanish": "Billetera",
-      "turkish": "Portföy"
+      "amharic": "ገንዘብ ያክሉ",
+      "dutch": "Geld toevoegen",
+      "english": "Add funds",
+      "french": "Ajouter des fonds",
+      "german": "Guthaben aufladen",
+      "japanese": "資金を追加",
+      "korean": "자금 추가",
+      "mandarin": "添加资金",
+      "portuguese": "Adicionar fundos",
+      "spanish": "Añadir fondos",
+      "turkish": "Para ekle"
     },
     "total": {
       "amharic": "ጠቅላላ",
