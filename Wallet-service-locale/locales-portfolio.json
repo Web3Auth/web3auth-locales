@@ -1580,17 +1580,17 @@
       "turkish": "QR ile al"
     },
     "receiveViaQRDesc": {
-      "amharic": "ከማንኛውም ዋሌት ክሪፕቶ ያስተላልፉ",
-      "dutch": "Draag crypto over vanuit elke wallet",
-      "english": "Transfer crypto from any wallet",
-      "french": "Transférez de la crypto depuis n'importe quel portefeuille",
-      "german": "Krypto von einer beliebigen Wallet übertragen",
-      "japanese": "任意のウォレットから暗号資産を送金",
-      "korean": "모든 지갑에서 암호화폐 전송",
-      "mandarin": "从任意钱包转移加密货币",
-      "portuguese": "Transfira cripto de qualquer carteira",
-      "spanish": "Transfiere cripto desde cualquier billetera",
-      "turkish": "Herhangi bir cüzdandan kripto transfer edin"
+      "amharic": "ከማንኛውም ዋሌት ገንዘብ ያስተላልፉ",
+      "dutch": "Draag geld over vanuit elke wallet",
+      "english": "Transfer funds from any wallet",
+      "french": "Transférez des fonds depuis n'importe quel portefeuille",
+      "german": "Geld von einer beliebigen Wallet übertragen",
+      "japanese": "任意のウォレットから資金を送金",
+      "korean": "모든 지갑에서 자금 전송",
+      "mandarin": "从任意钱包转移资金",
+      "portuguese": "Transfira fundos de qualquer carteira",
+      "spanish": "Transfiere fondos desde cualquier billetera",
+      "turkish": "Herhangi bir cüzdandan para transfer edin"
     },
     "receiveFundsTitle": {
       "amharic": "የኔ QR ኮድ",
