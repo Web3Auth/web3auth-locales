@@ -156,6 +156,32 @@
       "spanish": "Lote",
       "turkish": "Lot"
     },
+    "batchTransactionItem": {
+      "amharic": "ግብይት {0}",
+      "dutch": "Transactie {0}",
+      "english": "Transaction {0}",
+      "french": "Transaction {0}",
+      "german": "Transaktion {0}",
+      "japanese": "トランザクション{0}",
+      "korean": "거래 {0}",
+      "mandarin": "交易 {0}",
+      "portuguese": "Transação {0}",
+      "spanish": "Transacción {0}",
+      "turkish": "İşlem {0}"
+    },
+    "batchTransactionsTitle": {
+      "amharic": "በዚህ ባች ውስጥ {0} ግብይቶች",
+      "dutch": "{0} transacties in deze batch",
+      "english": "{0} transactions in this batch",
+      "french": "{0} transactions dans ce lot",
+      "german": "{0} Transaktionen in diesem Batch",
+      "japanese": "このバッチ内の{0}件のトランザクション",
+      "korean": "이 배치의 {0}개 거래",
+      "mandarin": "此批量中的 {0} 笔交易",
+      "portuguese": "{0} transações neste lote",
+      "spanish": "{0} transacciones en este lote",
+      "turkish": "Bu partideki {0} işlem"
+    },
     "buySell": {
       "amharic": "ግዢ/ሽያጭ",
       "dutch": "Kopen verkopen",
@@ -194,6 +220,19 @@
       "portuguese": "ID da cadeia",
       "spanish": "ID de cadena",
       "turkish": "Kırılım ID"
+    },
+    "contractCall": {
+      "amharic": "የኮንትራት ጥሪ",
+      "dutch": "Contractoproep",
+      "english": "Contract Call",
+      "french": "Appel de contrat",
+      "german": "Vertragsaufruf",
+      "japanese": "コントラクト呼び出し",
+      "korean": "계약 호출",
+      "mandarin": "合约调用",
+      "portuguese": "Chamada de contrato",
+      "spanish": "Llamada al contrato",
+      "turkish": "Sözleşme Çağrısı"
     },
     "contractDeployment": {
       "amharic": "የኮንትራት መተግበሪያ",
