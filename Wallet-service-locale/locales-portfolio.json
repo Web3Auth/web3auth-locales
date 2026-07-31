@@ -1779,17 +1779,17 @@
       "turkish": "Harici Transfer"
     },
     "externalTransferDesc": {
-      "amharic": "ከተገናኘ ውጫዊ ዋሌት ይላኩ",
-      "dutch": "Verstuur vanuit een verbonden externe wallet",
-      "english": "Send from a connected external wallet",
-      "french": "Envoyer depuis un portefeuille externe connecté",
-      "german": "Von einer verbundenen externen Wallet senden",
-      "japanese": "接続された外部ウォレットから送信",
-      "korean": "연결된 외부 지갑에서 보내기",
-      "mandarin": "从已连接的外部钱包发送",
-      "portuguese": "Envie de uma carteira externa conectada",
-      "spanish": "Envía desde una billetera externa conectada",
-      "turkish": "Bağlı harici bir cüzdandan gönderin"
+      "amharic": "ከውጫዊ ዋሌት ይሙሉ",
+      "dutch": "Vul aan vanuit een externe wallet",
+      "english": "Fund from an external wallet",
+      "french": "Approvisionnez depuis un portefeuille externe",
+      "german": "Von einer externen Wallet aufladen",
+      "japanese": "外部ウォレットから入金",
+      "korean": "외부 지갑에서 입금",
+      "mandarin": "从外部钱包充值",
+      "portuguese": "Adicione a partir de uma carteira externa",
+      "spanish": "Financia desde una billetera externa",
+      "turkish": "Harici bir cüzdandan fonlayın"
     },
     "processing": {
       "amharic": "በሂደት ላይ...",
