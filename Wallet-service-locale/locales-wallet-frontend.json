@@ -1153,6 +1153,19 @@
       "spanish": "Rever",
       "turkish": "Tekrar Dene"
     },
+    "reviewDetailsDescription": {
+      "amharic": "ከማረጋገጥዎ በፊት እባክዎ ዝርዝሮቹን ይገምግሙ",
+      "dutch": "Controleer de gegevens voordat u bevestigt",
+      "english": "Please review the details before confirming",
+      "french": "Veuillez vérifier les détails avant de confirmer",
+      "german": "Bitte überprüfen Sie die Details, bevor Sie bestätigen",
+      "japanese": "確認する前に詳細をご確認ください",
+      "korean": "확인하기 전에 세부 정보를 검토해 주세요",
+      "mandarin": "确认前请查看详细信息",
+      "portuguese": "Reveja os detalhes antes de confirmar",
+      "spanish": "Revise los detalles antes de confirmar",
+      "turkish": "Onaylamadan önce lütfen ayrıntıları gözden geçirin"
+    },
     "revokeDelegation": {
       "amharic": "ውክልና ሰርዝ",
       "dutch": "Delegatie intrekken",
@@ -1286,7 +1299,7 @@
     "signatureRequest": {
       "amharic": "የፊርማ ጥያቄ",
       "dutch": "Handtekeningverzoek",
-      "english": "Signature request",
+      "english": "Signature Request",
       "french": "Demande de signature",
       "german": "Signaturanforderung",
       "japanese": "署名リクエスト",
