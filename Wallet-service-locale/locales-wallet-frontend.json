@@ -39,6 +39,19 @@
       "spanish": "Permitir {0} agregar nueva red {1}",
       "turkish": "{0} yeni ağ {1} ekleme izni ver"
     },
+    "addNetwork": {
+      "amharic": "ኔትወርክ ጨምር",
+      "dutch": "Netwerk toevoegen",
+      "english": "Add Network",
+      "french": "Ajouter un réseau",
+      "german": "Netzwerk hinzufügen",
+      "japanese": "ネットワークを追加",
+      "korean": "네트워크 추가",
+      "mandarin": "添加网络",
+      "portuguese": "Adicionar rede",
+      "spanish": "Agregar red",
+      "turkish": "Ağ ekle"
+    },
     "advanced": {
       "amharic": "የላቀ",
       "dutch": "Geavanceerd",
@@ -143,6 +156,32 @@
       "spanish": "Lote",
       "turkish": "Lot"
     },
+    "batchTransactionItem": {
+      "amharic": "ግብይት {0}",
+      "dutch": "Transactie {0}",
+      "english": "Transaction {0}",
+      "french": "Transaction {0}",
+      "german": "Transaktion {0}",
+      "japanese": "トランザクション{0}",
+      "korean": "거래 {0}",
+      "mandarin": "交易 {0}",
+      "portuguese": "Transação {0}",
+      "spanish": "Transacción {0}",
+      "turkish": "İşlem {0}"
+    },
+    "batchTransactionsTitle": {
+      "amharic": "በዚህ ባች ውስጥ {0} ግብይቶች",
+      "dutch": "{0} transacties in deze batch",
+      "english": "{0} transactions in this batch",
+      "french": "{0} transactions dans ce lot",
+      "german": "{0} Transaktionen in diesem Batch",
+      "japanese": "このバッチ内の{0}件のトランザクション",
+      "korean": "이 배치의 {0}개 거래",
+      "mandarin": "此批量中的 {0} 笔交易",
+      "portuguese": "{0} transações neste lote",
+      "spanish": "{0} transacciones en este lote",
+      "turkish": "Bu partideki {0} işlem"
+    },
     "buySell": {
       "amharic": "ግዢ/ሽያጭ",
       "dutch": "Kopen verkopen",
@@ -181,6 +220,19 @@
       "portuguese": "ID da cadeia",
       "spanish": "ID de cadena",
       "turkish": "Kırılım ID"
+    },
+    "contractCall": {
+      "amharic": "የኮንትራት ጥሪ",
+      "dutch": "Contractoproep",
+      "english": "Contract Call",
+      "french": "Appel de contrat",
+      "german": "Vertragsaufruf",
+      "japanese": "コントラクト呼び出し",
+      "korean": "계약 호출",
+      "mandarin": "合约调用",
+      "portuguese": "Chamada de contrato",
+      "spanish": "Llamada al contrato",
+      "turkish": "Sözleşme Çağrısı"
     },
     "contractDeployment": {
       "amharic": "የኮንትራት መተግበሪያ",
@@ -521,17 +573,17 @@
       "turkish": "Tahmini Ağ Ücreti"
     },
     "from": {
-      "amharic": "ከ:",
-      "dutch": "Van:",
-      "english": "From:",
-      "french": "Depuis:",
-      "german": "Aus:",
-      "japanese": "から：",
-      "korean": "에서:",
-      "mandarin": "从：",
-      "portuguese": "De:",
-      "spanish": "De:",
-      "turkish": "Şuna:"
+      "amharic": "ከ",
+      "dutch": "Van",
+      "english": "From",
+      "french": "Depuis",
+      "german": "Aus",
+      "japanese": "から",
+      "korean": "에서",
+      "mandarin": "从",
+      "portuguese": "De",
+      "spanish": "De",
+      "turkish": "Şuna"
     },
     "hexData": {
       "amharic": "Hex ውሂብ",
@@ -1036,6 +1088,19 @@
       "spanish": "La página puede no poder abrir debido a un bloqueador emergente. Si está utilizando un bloqueador emergente, considere deshabilitarlo para este sitio en el futuro para acceder a la ventana.",
       "turkish": "Sayfa, açılan pencere engelleyicisinin nedeniyle açılamayabilir. Blokeiciyi kullanmıyorsanız, bu siteyi gelecekte devre dışı bırakarak pencereye erişim sağlayabilirsiniz."
     },
+    "programId": {
+      "amharic": "የፕሮግራም መታወቂያ",
+      "dutch": "Programma-ID",
+      "english": "Program ID",
+      "french": "ID de programme",
+      "german": "Programm-ID",
+      "japanese": "プログラムID",
+      "korean": "프로그램 ID",
+      "mandarin": "程序 ID",
+      "portuguese": "ID do programa",
+      "spanish": "ID del programa",
+      "turkish": "Program Kimliği"
+    },
     "reject": {
       "amharic": "አትቀበል",
       "dutch": "Afwijzen",
@@ -1335,18 +1400,31 @@
       "spanish": "Permitir {0} cambiar su red a {1}",
       "turkish": "{0} {1} ağınıza erişim izni ver"
     },
+    "switchNetwork": {
+      "amharic": "ኔትወርክ ቀይር",
+      "dutch": "Netwerk wisselen",
+      "english": "Switch Network",
+      "french": "Changer de réseau",
+      "german": "Netzwerk wechseln",
+      "japanese": "ネットワークを切り替え",
+      "korean": "네트워크 전환",
+      "mandarin": "切换网络",
+      "portuguese": "Alternar rede",
+      "spanish": "Cambiar red",
+      "turkish": "Ağ değiştir"
+    },
     "to": {
-      "amharic": "ወደ:",
-      "dutch": "Naar:",
-      "english": "To:",
-      "french": "À:",
-      "german": "Zu:",
-      "japanese": "に：",
-      "korean": "에게:",
-      "mandarin": "到：",
-      "portuguese": "Para:",
-      "spanish": "A:",
-      "turkish": "İçin:"
+      "amharic": "ወደ",
+      "dutch": "Naar",
+      "english": "To",
+      "french": "À",
+      "german": "Zu",
+      "japanese": "に",
+      "korean": "에게",
+      "mandarin": "到",
+      "portuguese": "Para",
+      "spanish": "A",
+      "turkish": "İçin"
     },
     "tokenDetails": {
       "amharic": "የቶክን ዝርዝሮች",
@@ -1375,17 +1453,17 @@
       "turkish": "Gaz kredisi yükle"
     },
     "topupWallet": {
-      "amharic": "ዋሌት ያትሙ",
-      "dutch": "Topup -portemonnee",
-      "english": "Topup Wallet",
-      "french": "Portefeuille",
-      "german": "Aufpackungsbrieftasche",
-      "japanese": "トップアップウォレット",
-      "korean": "탑 업 지갑",
-      "mandarin": "托图钱包",
-      "portuguese": "Carteira de recarga",
-      "spanish": "Billetera",
-      "turkish": "Portföy"
+      "amharic": "ገንዘብ ያክሉ",
+      "dutch": "Geld toevoegen",
+      "english": "Add funds",
+      "french": "Ajouter des fonds",
+      "german": "Guthaben aufladen",
+      "japanese": "資金を追加",
+      "korean": "자금 추가",
+      "mandarin": "添加资金",
+      "portuguese": "Adicionar fundos",
+      "spanish": "Añadir fondos",
+      "turkish": "Para ekle"
     },
     "total": {
       "amharic": "ጠቅላላ",
@@ -1412,6 +1490,19 @@
       "portuguese": "Transação",
       "spanish": "Transacción",
       "turkish": "İşlem"
+    },
+    "transactionInstructions": {
+      "amharic": "ለማጽደቅ {0} የግብይት መመሪያ(ዎች)",
+      "dutch": "{0} transactie-instructie(s) om goed te keuren",
+      "english": "{0} Transaction instruction(s) to approve",
+      "french": "{0} instruction(s) de transaction à approuver",
+      "german": "{0} Transaktionsanweisung(en) zum Genehmigen",
+      "japanese": "承認する{0}件のトランザクション命令",
+      "korean": "승인할 거래 지시 {0}개",
+      "mandarin": "{0} 条待批准的交易指令",
+      "portuguese": "{0} instrução(ões) de transação para aprovar",
+      "spanish": "{0} instrucción(es) de transacción para aprobar",
+      "turkish": "Onaylanacak {0} işlem talimatı"
     },
     "transfer": {
       "amharic": "ማስተላለፍ",
