@@ -9,9 +9,9 @@
       "korean": "닫기",
       "mandarin": "关闭",
       "portuguese": "fechar",
+      "russian": "закрыть",
       "spanish": "Cerrar",
-      "turkish": "kapat",
-      "russian": "закрыть"
+      "turkish": "kapat"
     },
     "drawer": {
       "dutch": "Hoofdnavigatie",
@@ -22,9 +22,9 @@
       "korean": "주요 메뉴",
       "mandarin": "主要导航",
       "portuguese": "Navegação Principal",
+      "russian": "Основная навигация",
       "spanish": "Navegación Principal",
-      "turkish": "Ana Menü",
-      "russian": "Основная навигация"
+      "turkish": "Ana Menü"
     },
     "lang-select": {
       "dutch": "Taalkeuze",
@@ -35,9 +35,9 @@
       "korean": "언어 선택",
       "mandarin": "语言选择器",
       "portuguese": "Seletor de idiomas",
+      "russian": "Выбор языка",
       "spanish": "selector de idiomas",
-      "turkish": "Dil Seçimi",
-      "russian": "Выбор языка"
+      "turkish": "Dil Seçimi"
     },
     "link-account": {
       "dutch": "Account",
@@ -48,9 +48,9 @@
       "korean": "계정",
       "mandarin": "帐户",
       "portuguese": "Conta",
+      "russian": "Аккаунт",
       "spanish": "Cuenta",
-      "turkish": "Hesap",
-      "russian": "Аккаунт"
+      "turkish": "Hesap"
     },
     "link-apps": {
       "dutch": "Geautoriseerde apps",
@@ -61,9 +61,9 @@
       "korean": "승인된 앱",
       "mandarin": "授权应用",
       "portuguese": "Aplicativos autorizados",
+      "russian": "Авторизованные приложения",
       "spanish": "Aplicaciones autorizadas",
-      "turkish": "Yetkili Uygulamalar",
-      "russian": "Авторизованные приложения"
+      "turkish": "Yetkili Uygulamalar"
     },
     "link-home": {
       "dutch": "Startpagina",
@@ -74,9 +74,9 @@
       "korean": "홈",
       "mandarin": "主页",
       "portuguese": "Início",
+      "russian": "Главная",
       "spanish": "Página principal",
-      "turkish": "Ana sayfa",
-      "russian": "Главная"
+      "turkish": "Ana sayfa"
     },
     "link-logout": {
       "dutch": "Uitloggen",
@@ -87,9 +87,9 @@
       "korean": "로그아웃",
       "mandarin": "登出",
       "portuguese": "Sair",
+      "russian": "Выйти",
       "spanish": "Cerrar sesión",
-      "turkish": "Çıkış yap",
-      "russian": "Выйти"
+      "turkish": "Çıkış yap"
     },
     "link-support": {
       "dutch": "Ondersteuning",
@@ -100,9 +100,9 @@
       "korean": "지원",
       "mandarin": "支持",
       "portuguese": "Suporte",
+      "russian": "Поддержка",
       "spanish": "Ayuda",
-      "turkish": "Destek",
-      "russian": "Поддержка"
+      "turkish": "Destek"
     },
     "list-bottom": {
       "dutch": "Hoofdnavigatie onderaan",
@@ -113,9 +113,9 @@
       "korean": "주요 메뉴 하단",
       "mandarin": "主导航底部",
       "portuguese": "Parte inferior da navegação principal",
+      "russian": "Нижняя часть основной навигации",
       "spanish": "Botón principal de navegación",
-      "turkish": "Ana Menü altı",
-      "russian": "Нижняя часть основной навигации"
+      "turkish": "Ana Menü altı"
     },
     "logo": {
       "dutch": "logo",
@@ -126,9 +126,9 @@
       "korean": "로고",
       "mandarin": "标识",
       "portuguese": "logotipo",
+      "russian": "логотип",
       "spanish": "logo",
-      "turkish": "logo",
-      "russian": "логотип"
+      "turkish": "logo"
     },
     "toggle-btn": {
       "dutch": "Navigatiebalk schakelen",
@@ -139,9 +139,9 @@
       "korean": "메뉴 바 열기/닫기",
       "mandarin": "导航栏切换",
       "portuguese": "Navigação Bargle de barra",
+      "russian": "Переключить панель навигации",
       "spanish": "Barra de navegación",
-      "turkish": "Gezinti Çubuğu geçişi",
-      "russian": "Переключить панель навигации"
+      "turkish": "Gezinti Çubuğu geçişi"
     },
     "user-info": {
       "dutch": "Gebruikersinformatie",
@@ -152,9 +152,9 @@
       "korean": "사용자 정보",
       "mandarin": "用户信息",
       "portuguese": "Informação do usuário",
+      "russian": "Информация о пользователе",
       "spanish": "Información del usuario",
-      "turkish": "Kullanıcı bilgisi",
-      "russian": "Информация о пользователе"
+      "turkish": "Kullanıcı bilgisi"
     }
   }
 }

@@ -1,6 +1,20 @@
 {
   "walletFrontend": {
+    "accountUpdateRequest": {
+      "amharic": "የመለያ ዝማኔ",
+      "dutch": "Account bijwerken",
+      "english": "Account update",
+      "french": "Mise à jour du compte",
+      "german": "Konto-Update",
+      "japanese": "アカウント更新",
+      "korean": "계정 업데이트",
+      "mandarin": "账户更新",
+      "portuguese": "Atualização de conta",
+      "spanish": "Actualización de cuenta",
+      "turkish": "Hesap güncellemesi"
+    },
     "activity": {
+      "amharic": "እንቅስቃሴ",
       "dutch": "Activiteit",
       "english": "Activity",
       "french": "Activité",
@@ -9,11 +23,12 @@
       "korean": "활동",
       "mandarin": "活动",
       "portuguese": "Atividade",
+      "russian": "Активность",
       "spanish": "Actividad",
-      "turkish": "Etkinlik",
-      "russian": "Активность"
+      "turkish": "Etkinlik"
     },
     "addChainText": {
+      "amharic": "{0} አዲስ ኔትወርክ {1} እንዲጨምር ይፍቀዱ",
       "dutch": "Sta {0} toe om nieuw netwerk toe te voegen {1}",
       "english": "Allow {0} to add new network {1}",
       "french": "Permettre {0} d'ajouter un nouveau réseau {1}",
@@ -22,11 +37,25 @@
       "korean": "{0}이 새 네트워크를 추가하려면 {1}을 추가하십시오",
       "mandarin": "允许{0}添加新网络{1}。",
       "portuguese": "Permita {0} adicionar nova rede {1}",
+      "russian": "Позволить {0} добавить новую сеть {1}",
       "spanish": "Permitir {0} agregar nueva red {1}",
-      "turkish": "{0} yeni ağ {1} ekleme izni ver",
-      "russian": "Позволить {0} добавить новую сеть {1}"
+      "turkish": "{0} yeni ağ {1} ekleme izni ver"
+    },
+    "addNetwork": {
+      "amharic": "ኔትወርክ ጨምር",
+      "dutch": "Netwerk toevoegen",
+      "english": "Add Network",
+      "french": "Ajouter un réseau",
+      "german": "Netzwerk hinzufügen",
+      "japanese": "ネットワークを追加",
+      "korean": "네트워크 추가",
+      "mandarin": "添加网络",
+      "portuguese": "Adicionar rede",
+      "spanish": "Agregar red",
+      "turkish": "Ağ ekle"
     },
     "advanced": {
+      "amharic": "የላቀ",
       "dutch": "Geavanceerd",
       "english": "Advanced",
       "french": "Avancé",
@@ -35,11 +64,12 @@
       "korean": "고급의",
       "mandarin": "先进的",
       "portuguese": "Avançado",
+      "russian": "Дополнительно",
       "spanish": "Avanzado",
-      "turkish": "Gelişmiş",
-      "russian": "Дополнительно"
+      "turkish": "Gelişmiş"
     },
     "allow": {
+      "amharic": "ፍቀድ",
       "dutch": "Toestaan",
       "english": "Allow",
       "french": "Permettre",
@@ -48,11 +78,12 @@
       "korean": "허용하다",
       "mandarin": "允许",
       "portuguese": "Permitir",
+      "russian": "Разрешить",
       "spanish": "Permitir",
-      "turkish": "İzin ver",
-      "russian": "Разрешить"
+      "turkish": "İzin ver"
     },
     "allowOnBehalf": {
+      "amharic": "${0} በመላክ ${1} በእርስዎ ተተኪ እንዲውል ፍቀድ",
       "dutch": "Sta $ {0} toe om namens u $ {1} uit te geven",
       "english": "Allow ${0} to spend ${1} on your behalf",
       "french": "Permettre à $ {0} de dépenser $ {1} en votre nom",
@@ -61,11 +92,12 @@
       "korean": "$ {0}가 귀하를 대신하여 $ {1}을 지출하도록 허용하십시오.",
       "mandarin": "允许$​​ {0}代表您花费$ {1}",
       "portuguese": "Deixe $ {0} gastar $ {1} em seu nome",
+      "russian": "Позволить ${0} потратить ${1} от вашего имени",
       "spanish": "Permitir $ {0} para gastar $ {1} en su nombre",
-      "turkish": "$ {0} adına $ {1} harcamak için izin ver",
-      "russian": "Позволить ${0} потратить ${1} от вашего имени"
+      "turkish": "$ {0} adına $ {1} harcamak için izin ver"
     },
     "amountGasFee": {
+      "amharic": "መጠን + የጋዝ ክፍያ",
       "dutch": "Bedrag + gaskosten",
       "english": "Amount + gas fee",
       "french": "Montant + frais de gaz",
@@ -74,11 +106,12 @@
       "korean": "금액 + 가스 수수료",
       "mandarin": "金额 +汽油费",
       "portuguese": "Valor + taxa de gás",
+      "russian": "Сумма + комиссия за газ",
       "spanish": "Cantidad + tarifa de gas",
-      "turkish": "Tutar + gas ücreti",
-      "russian": "Сумма + комиссия за газ"
+      "turkish": "Tutar + gas ücreti"
     },
     "amountPlusNetworkFee": {
+      "amharic": "መጠን + የኔትወርክ ክፍያ",
       "dutch": "Bedrag + netwerkkosten",
       "english": "Amount + network fee",
       "french": "Montant + frais de réseau",
@@ -87,11 +120,12 @@
       "korean": "금액 + 네트워크 수수료",
       "mandarin": "金额 + 网络费用",
       "portuguese": "Valor + taxa de rede",
+      "russian": "Сумма + плата сети",
       "spanish": "Cantidad + tarifa de red",
-      "turkish": "Tutar + ağ ücreti",
-      "russian": "Сумма + плата сети"
+      "turkish": "Tutar + ağ ücreti"
     },
     "approve": {
+      "amharic": "ፍቀድ",
       "dutch": "Goedkeuren",
       "english": "Approve",
       "french": "Approuver",
@@ -100,24 +134,65 @@
       "korean": "승인하다",
       "mandarin": "批准",
       "portuguese": "Aprovar",
+      "russian": "Одобрить",
       "spanish": "Aprobar",
-      "turkish": "Onayla",
-      "russian": "Одобрить"
+      "turkish": "Onayla"
     },
     "balance": {
+      "amharic": "ሚዛን",
       "dutch": "Evenwicht",
       "english": "Balance",
       "french": "Équilibre",
       "german": "Gleichgewicht",
-      "japanese": "バランス",
+      "japanese": "残高",
       "korean": "균형",
       "mandarin": "平衡",
       "portuguese": "Equilíbrio",
+      "russian": "Баланс",
       "spanish": "Balance",
-      "turkish": "Denge",
-      "russian": "Баланс"
+      "turkish": "Denge"
+    },
+    "batch": {
+      "amharic": "ባች",
+      "dutch": "Batch",
+      "english": "Batch",
+      "french": "Lot",
+      "german": "Batch",
+      "japanese": "バッチ",
+      "korean": "배치",
+      "mandarin": "批量",
+      "portuguese": "Lote",
+      "spanish": "Lote",
+      "turkish": "Lot"
+    },
+    "batchTransactionItem": {
+      "amharic": "ግብይት {0}",
+      "dutch": "Transactie {0}",
+      "english": "Transaction {0}",
+      "french": "Transaction {0}",
+      "german": "Transaktion {0}",
+      "japanese": "トランザクション{0}",
+      "korean": "거래 {0}",
+      "mandarin": "交易 {0}",
+      "portuguese": "Transação {0}",
+      "spanish": "Transacción {0}",
+      "turkish": "İşlem {0}"
+    },
+    "batchTransactionsTitle": {
+      "amharic": "በዚህ ባች ውስጥ {0} ግብይቶች",
+      "dutch": "{0} transacties in deze batch",
+      "english": "{0} transactions in this batch",
+      "french": "{0} transactions dans ce lot",
+      "german": "{0} Transaktionen in diesem Batch",
+      "japanese": "このバッチ内の{0}件のトランザクション",
+      "korean": "이 배치의 {0}개 거래",
+      "mandarin": "此批量中的 {0} 笔交易",
+      "portuguese": "{0} transações neste lote",
+      "spanish": "{0} transacciones en este lote",
+      "turkish": "Bu partideki {0} işlem"
     },
     "buySell": {
+      "amharic": "ግዢ/ሽያጭ",
       "dutch": "Kopen verkopen",
       "english": "Buy/Sell",
       "french": "Acheter vendre",
@@ -126,11 +201,12 @@
       "korean": "구매/판매",
       "mandarin": "买卖",
       "portuguese": "Compra venda",
+      "russian": "Купить/Продать",
       "spanish": "Compra venta",
-      "turkish": "Alış veriş",
-      "russian": "Купить/Продать"
+      "turkish": "Alış veriş"
     },
     "buySellToken": {
+      "amharic": "ቶክን ግዢ/ሽያጭ",
       "dutch": "Koop/verkooptoken",
       "english": "Buy/Sell Token",
       "french": "Token acheter / vendre",
@@ -139,11 +215,12 @@
       "korean": "토큰을 구매/판매하십시오",
       "mandarin": "买/出售令牌",
       "portuguese": "Comprar/vender token",
+      "russian": "Купить/Продать токен",
       "spanish": "Comprar/vender token",
-      "turkish": "Token satın al/sat",
-      "russian": "Купить/Продать токен"
+      "turkish": "Token satın al/sat"
     },
     "chainId": {
+      "amharic": "የቻይን ID",
       "dutch": "Keten -ID",
       "english": "Chain ID",
       "french": "Chaîne ID",
@@ -152,37 +229,53 @@
       "korean": "체인 ID",
       "mandarin": "连锁ID",
       "portuguese": "ID da cadeia",
+      "russian": "ID сети",
       "spanish": "ID de cadena",
-      "turkish": "Kırılım ID",
-      "russian": "ID сети"
+      "turkish": "Kırılım ID"
+    },
+    "contractCall": {
+      "amharic": "የኮንትራት ጥሪ",
+      "dutch": "Contractoproep",
+      "english": "Contract Call",
+      "french": "Appel de contrat",
+      "german": "Vertragsaufruf",
+      "japanese": "コントラクト呼び出し",
+      "korean": "계약 호출",
+      "mandarin": "合约调用",
+      "portuguese": "Chamada de contrato",
+      "spanish": "Llamada al contrato",
+      "turkish": "Sözleşme Çağrısı"
     },
     "contractDeployment": {
+      "amharic": "የኮንትራት መተግበሪያ",
       "dutch": "Contractimplementatie",
       "english": "Contract Deployment",
       "french": "Déploiement contractuel",
       "german": "Vertragsbereitstellung",
-      "japanese": "契約展開",
+      "japanese": "コントラクトのデプロイ",
       "korean": "계약 배포",
       "mandarin": "合同部署",
       "portuguese": "Implantação do contrato",
+      "russian": "Развертывание контракта",
       "spanish": "Despliegue de contrato",
-      "turkish": "Sözleşme Dağıtımı",
-      "russian": "Развертывание контракта"
+      "turkish": "Sözleşme Dağıtımı"
     },
     "contractInteraction": {
+      "amharic": "የኮንትራት መስተጋብር",
       "dutch": "Contractinteractie",
       "english": "Contract Interaction",
       "french": "Interaction contractuelle",
       "german": "Vertragsinteraktion",
-      "japanese": "契約相互作用",
+      "japanese": "コントラクトとのやり取り",
       "korean": "계약 상호 작용",
       "mandarin": "合同互动",
       "portuguese": "Interação do contrato",
+      "russian": "Взаимодействие с контрактом",
       "spanish": "Interacción por contrato",
-      "turkish": "Sözleşme Etkileşimi",
-      "russian": "Взаимодействие с контрактом"
+      "turkish": "Sözleşme Etkileşimi"
     },
     "currencySymbol": {
+      "amharic": "የገንዘብ ምልክት (Currency Symbol)",
       "dutch": "Symbool van munteenheid",
       "english": "Currency Symbol",
       "french": "Symbole de la monnaie",
@@ -191,11 +284,12 @@
       "korean": "통화 기호",
       "mandarin": "货币符号",
       "portuguese": "Símbolo da moeda",
+      "russian": "Символ валюты",
       "spanish": "Símbolo de moneda",
-      "turkish": "Para Birimi Sembolü",
-      "russian": "Символ валюты"
+      "turkish": "Para Birimi Sembolü"
     },
     "currentNetwork": {
+      "amharic": "የአሁኑ ኔትወርክ",
       "dutch": "Huidig ​​netwerk",
       "english": "Current Network",
       "french": "Réseau actuel",
@@ -204,11 +298,12 @@
       "korean": "현재 네트워크",
       "mandarin": "当前网络",
       "portuguese": "Rede atual",
+      "russian": "Текущая сеть",
       "spanish": "Red actual",
-      "turkish": "Mevcut ağ",
-      "russian": "Текущая сеть"
+      "turkish": "Mevcut ağ"
     },
     "decryptDescription": {
+      "amharic": "{0} ይህን መልዕክት ለመንበብ ይፈልጋል እንዲህ ተግባራት ለመጨረስ",
       "dutch": "{0} wil dit bericht lezen om uw actie te voltooien",
       "english": "{0} would like to read this message to complete your action",
       "french": "{0} aimerait lire ce message pour terminer votre action",
@@ -217,24 +312,12 @@
       "korean": "{0}이 메시지를 읽고 행동을 완료하고 싶습니다.",
       "mandarin": "{0}想阅读此消息以完成您的动作",
       "portuguese": "{0} gostaria de ler esta mensagem para concluir sua ação",
+      "russian": "{0} хочет прочитать это сообщение, чтобы завершить ваше действие",
       "spanish": "{0} le gustaría leer este mensaje para completar su acción",
-      "turkish": "{0} bu mesajı okumak için tamamlanacak eylemi tamamlamak için bu mesajı okumak istiyor",
-      "russian": "{0} хочет прочитать это сообщение, чтобы завершить ваше действие"
-    },
-    "decryptKeyText": {
-      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien",
-      "english": "Allow {0} to read this message to complete your action",
-      "french": "Permettez à {0} de lire ce message pour terminer votre action",
-      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen",
-      "japanese": "{0}がこのメッセージを読み取ってアクションを完了させます。",
-      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오",
-      "mandarin": "允许{0}阅读此消息以完成您的操作。",
-      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação",
-      "spanish": "Permitir {0} leer este mensaje para completar su acción",
-      "turkish": "{0} bu iletiyi okumak için izin ver",
-      "russian": "Разрешить {0} прочитать это сообщение для завершения вашего действия"
+      "turkish": "{0} bu mesajı okumak için tamamlanacak eylemi tamamlamak için bu mesajı okumak istiyor"
     },
     "decryptionRequest": {
+      "amharic": "የመፍትሄ ጥያቄ (Decryption Request)",
       "dutch": "Decoderingverzoek",
       "english": "Decryption Request",
       "french": "Demande de décryptage",
@@ -243,11 +326,26 @@
       "korean": "암호 해독 요청",
       "mandarin": "解密请求",
       "portuguese": "Solicitação de descriptografia",
+      "russian": "Запрос на расшифровку",
       "spanish": "Solicitud de descifrado",
-      "turkish": "Şifre çözme isteği",
-      "russian": "Запрос на расшифровку"
+      "turkish": "Şifre çözme isteği"
+    },
+    "decryptKeyText": {
+      "amharic": "ተግባሩን ለመጨረስ {0} ይህን መልዕክት እንዲነበብ ፍቀድ",
+      "dutch": "Sta {0} toe om dit bericht te lezen om uw actie te voltooien",
+      "english": "Allow {0} to read this message to complete your action",
+      "french": "Permettez à {0} de lire ce message pour terminer votre action",
+      "german": "Erlauben Sie {0}, diese Nachricht zu lesen, um Ihre Aktion zu vervollständigen",
+      "japanese": "{0}がこのメッセージを読み取ってアクションを完了させます。",
+      "korean": "{0} 이이 메시지를 읽으려면 조치를 완료하십시오",
+      "mandarin": "允许{0}阅读此消息以完成您的操作。",
+      "portuguese": "Permitam que {0} leia esta mensagem para concluir sua ação",
+      "russian": "Разрешить {0} прочитать это сообщение для завершения вашего действия",
+      "spanish": "Permitir {0} leer este mensaje para completar su acción",
+      "turkish": "{0} bu iletiyi okumak için izin ver"
     },
     "details": {
+      "amharic": "ዝርዝሮች",
       "dutch": "Details",
       "english": "Details",
       "french": "Détails",
@@ -256,11 +354,12 @@
       "korean": "세부",
       "mandarin": "细节",
       "portuguese": "Detalhes",
+      "russian": "Детали",
       "spanish": "Detalles",
-      "turkish": "Detaylar",
-      "russian": "Детали"
+      "turkish": "Detaylar"
     },
     "editGasFee": {
+      "amharic": "የጋዝ ክፍያ አርትዕ",
       "dutch": "Gaskosten bewerken",
       "english": "Edit Gas Fee",
       "french": "Modifier les frais de gaz",
@@ -269,11 +368,12 @@
       "korean": "가스 수수료 편집",
       "mandarin": "编辑汽油费",
       "portuguese": "Editar taxa de gás",
+      "russian": "Изменить комиссию за газ",
       "spanish": "Editar tarifa de gasolina",
-      "turkish": "Gas ücretini düzenle",
-      "russian": "Изменить комиссию за газ"
+      "turkish": "Gas ücretini düzenle"
     },
     "editPriority": {
+      "amharic": "Priority አርትዕ",
       "dutch": "Prioriteit bewerken",
       "english": "Edit Priority",
       "french": "Modifier la priorité",
@@ -282,11 +382,129 @@
       "korean": "우선 순위를 편집하십시오",
       "mandarin": "编辑优先级",
       "portuguese": "Editar prioridade",
+      "russian": "Изменить приоритет",
       "spanish": "Editar prioridad",
-      "turkish": "Önceliği Düzenle",
-      "russian": "Изменить приоритет"
+      "turkish": "Önceliği Düzenle"
+    },
+    "eip5792BatchDescription": {
+      "amharic": "{0} ግብይቶችን ያካትታል",
+      "dutch": "Bevat {0} transacties",
+      "english": "Includes {0} transactions",
+      "french": "Comprend {0} transactions",
+      "german": "Enthält {0} Transaktionen",
+      "japanese": "{0}件のトランザクションを含みます",
+      "korean": "{0}개의 거래를 포함합니다",
+      "mandarin": "包含{0}笔交易",
+      "portuguese": "Inclui {0} transações",
+      "spanish": "Incluye {0} transacciones",
+      "turkish": "{0} işlem içerir"
+    },
+    "eip7702DowngradeDescription": {
+      "amharic": "ወደ መደበኛ አካውንት (EOA) እየተመለሱ ነው።",
+      "dutch": "U schakelt terug naar een standaard account (EOA).",
+      "english": "You're switching back to a standard account (EOA).",
+      "french": "Vous revenez à un compte standard (EOA).",
+      "german": "Sie wechseln zurück zu einem Standardkonto (EOA).",
+      "japanese": "標準アカウント（EOA）に戻しています。",
+      "korean": "표준 계정(EOA)으로 다시 전환하고 있습니다.",
+      "mandarin": "您正在切换回标准账户（EOA）。",
+      "portuguese": "Você está voltando para uma conta padrão (EOA).",
+      "spanish": "Está volviendo a una cuenta estándar (EOA).",
+      "turkish": "Standart hesaba (EOA) geri geçiyorsunuz."
+    },
+    "eip7702From": {
+      "amharic": "አሁን",
+      "dutch": "Nu",
+      "english": "Now",
+      "french": "Maintenant",
+      "german": "Jetzt",
+      "japanese": "今",
+      "korean": "지금",
+      "mandarin": "现在",
+      "portuguese": "Agora",
+      "spanish": "Ahora",
+      "turkish": "Şimdi"
+    },
+    "eip7702SmartAccount": {
+      "amharic": "ስማርት አካውንት",
+      "dutch": "Slim account",
+      "english": "Smart Account",
+      "french": "Compte intelligent",
+      "german": "Intelligentes Konto",
+      "japanese": "スマートアカウント",
+      "korean": "스마트 계정",
+      "mandarin": "智能账户",
+      "portuguese": "Conta inteligente",
+      "spanish": "Cuenta inteligente",
+      "turkish": "Akıllı hesap"
+    },
+    "eip7702StandardAccount": {
+      "amharic": "መደበኛ አካውንት",
+      "dutch": "Standaard account",
+      "english": "Standard Account",
+      "french": "Compte standard",
+      "german": "Standardkonto",
+      "japanese": "標準アカウント",
+      "korean": "표준 계정",
+      "mandarin": "标准账户",
+      "portuguese": "Conta padrão",
+      "spanish": "Cuenta estándar",
+      "turkish": "Standart hesap"
+    },
+    "eip7702To": {
+      "amharic": "በመቀየር ላይ ወደ",
+      "dutch": "Schakelen naar",
+      "english": "Switching to",
+      "french": "Changer pour",
+      "german": "Wechseln zu",
+      "japanese": "切り替える",
+      "korean": "다음으로 전환 중",
+      "mandarin": "切换到",
+      "portuguese": "Mudando para",
+      "spanish": "Cambiando a",
+      "turkish": "Geçiş yapılıyor"
+    },
+    "eip7702UpgradeAccountType": {
+      "amharic": "የአካውንት አይነት",
+      "dutch": "Accounttype",
+      "english": "Account type",
+      "french": "Type de compte",
+      "german": "Kontotyp",
+      "japanese": "アカウントタイプ",
+      "korean": "계정 유형",
+      "mandarin": "账户类型",
+      "portuguese": "Tipo de conta",
+      "spanish": "Tipo de cuenta",
+      "turkish": "Hesap türü"
+    },
+    "eip7702UpgradeAccountTypeDescription": {
+      "amharic": "መለያህን ወደ ዘመናዊ መለያ እያዘመንክ ነው። ፈጣን ግብይቶችን እና ዝቅተኛ የአውታረ መረብ ክፍያዎችን በሚከፍቱበት ጊዜ ተመሳሳዩን የመለያ አድራሻ ያስቀምጣሉ።",
+      "dutch": "U upgradet uw account naar een slim account. U behoudt hetzelfde accountadres terwijl u snellere transacties en lagere netwerkkosten ontgrendelt.",
+      "english": "You're updating your account to a smart account. You'll keep the same account address while unlocking faster transactions and lower network fees.",
+      "french": "Vous mettez à jour votre compte vers un compte intelligent. Vous conserverez la même adresse de compte tout en débloquant des transactions plus rapides et des frais de réseau réduits.",
+      "german": "Sie aktualisieren Ihr Konto auf ein Smart-Konto. Sie behalten dieselbe Kontoadresse bei und schalten schnellere Transaktionen und niedrigere Netzwerkgebühren frei.",
+      "japanese": "アカウントをスマートアカウントにアップグレードしています。同じアカウントアドレスを維持しながら、より速いトランザクションとより低いネットワーク手数料を利用できます。",
+      "korean": "계정을 스마트 계정으로 업그레이드하고 있습니다. 동일한 계정 주소를 유지하면서 더 빠른 거래와 더 낮은 네트워크 수수료를 이용할 수 있습니다.",
+      "mandarin": "您正在将账户升级为智能账户。您将保留相同的账户地址，同时解锁更快的交易和更低的网络费用。",
+      "portuguese": "Você está atualizando sua conta para uma conta inteligente. Você manterá o mesmo endereço de conta enquanto desbloqueia transações mais rápidas e taxas de rede mais baixas.",
+      "spanish": "Está actualizando su cuenta a una cuenta inteligente. Mantendrá la misma dirección de cuenta mientras desbloquea transacciones más rápidas y tarifas de red más bajas.",
+      "turkish": "Hesabınızı akıllı hesaba yükseltiyorsunuz. Aynı hesap adresini korurken daha hızlı işlemler ve daha düşük ağ ücretlerinin kilidini açacaksınız."
+    },
+    "eip7702UpgradeDescription": {
+      "amharic": "ወደ ዘመናዊ መለያ እየቀየሩ ነው።",
+      "dutch": "U wisselt over naar een slim account.",
+      "english": "You are switching to a smart account.",
+      "french": "Vous êtes en train de basculer vers un compte intelligent.",
+      "german": "Sie wechseln zu einem intelligenten Konto.",
+      "japanese": "スマートアカウントに切り替えています。",
+      "korean": "스마트 계정으로 전환하고 있습니다.",
+      "mandarin": "您正在切换到智能账户。",
+      "portuguese": "Você está alternando para uma conta inteligente.",
+      "spanish": "Está cambiando a una cuenta inteligente.",
+      "turkish": "Akıllı hesaba geçiliyorsunuz."
     },
     "email": {
+      "amharic": "ኢሜይል",
       "dutch": "E-mail",
       "english": "Email",
       "french": "Email",
@@ -295,24 +513,12 @@
       "korean": "이메일",
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
+      "russian": "Электронная почта",
       "spanish": "Correo electrónico",
-      "turkish": "E-posta",
-      "russian": "Электронная почта"
-    },
-    "encryptKeyText": {
-      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen",
-      "english": "Allow {0} to compose encrypted messages for you",
-      "french": "Permettez à {0} de composer des messages chiffrés pour vous",
-      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren",
-      "japanese": "{0}が暗号化されたメッセージを作成できるようにします。",
-      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오",
-      "mandarin": "允许{0}为您撰写加密消息。",
-      "portuguese": "Permita que {0} componha mensagens criptografadas para você",
-      "spanish": "Permitir {0} componer mensajes cifrados para usted",
-      "turkish": "{0} şifreli iletilerinizi oluşturmak için izin ver",
-      "russian": "Разрешить {0} составлять зашифрованные сообщения для вас"
+      "turkish": "E-posta"
     },
     "encryptionDescription": {
+      "amharic": "{0} የእርስዎን የህዝብ መመስጠሪያ ቁልፍ (public encryption key) ይፈልጋል። በመፍቀድ ይህ ጣቢያ የተመሰጠቁ መልዕክቶች ለእርስዎ መላክ ይችላል።",
       "dutch": "{0} zou uw publieke coderingssleutel willen. Door toestemming te geven, kan deze site gecodeerde berichten aan u samenstellen.",
       "english": "{0} would like your public encryption key. By consenting, this site will be able to compose encrypted messages to you.",
       "french": "{0} souhaite que votre clé de chiffrement public. En consentant, ce site sera en mesure de vous composer des messages chiffrés.",
@@ -321,11 +527,26 @@
       "korean": "{0}은 공개 암호화 키를 원합니다. 동의 함으로써이 사이트는 암호화 된 메시지를 귀하에게 작성할 수 있습니다.",
       "mandarin": "{0}想要您的公共加密密钥。通过同意，此站点将能够向您撰写加密消息。",
       "portuguese": "{0} gostaria da sua chave de criptografia pública. Por consentimento, este site poderá compor mensagens criptografadas para você.",
+      "russian": "{0} хочет получить ваш публичный ключ шифрования. С вашего согласия сайт сможет составлять для вас зашифрованные сообщения.",
       "spanish": "{0} le gustaría su clave de cifrado público. Al consentir, este sitio podrá componerle mensajes cifrados.",
-      "turkish": "{0} sizin şifreleme anahtarınızı istiyor. Kabul ederek, bu site sizinle şifrelenmiş mesajlar oluşturabilir.",
-      "russian": "{0} хочет получить ваш публичный ключ шифрования. С вашего согласия сайт сможет составлять для вас зашифрованные сообщения."
+      "turkish": "{0} sizin şifreleme anahtarınızı istiyor. Kabul ederek, bu site sizinle şifrelenmiş mesajlar oluşturabilir."
+    },
+    "encryptKeyText": {
+      "amharic": "{0} ለእርስዎ የተመሰጠቁ መልዕክቶች ለመዘጋጀት ይፈቅዱ",
+      "dutch": "Sta {0} toe om gecodeerde berichten voor u samen te stellen",
+      "english": "Allow {0} to compose encrypted messages for you",
+      "french": "Permettez à {0} de composer des messages chiffrés pour vous",
+      "german": "Erlauben Sie {0}, verschlüsselte Nachrichten für Sie zu komponieren",
+      "japanese": "{0}が暗号化されたメッセージを作成できるようにします。",
+      "korean": "{0}이 암호화 된 메시지를 작성하도록 허용하십시오",
+      "mandarin": "允许{0}为您撰写加密消息。",
+      "portuguese": "Permita que {0} componha mensagens criptografadas para você",
+      "russian": "Разрешить {0} составлять зашифрованные сообщения для вас",
+      "spanish": "Permitir {0} componer mensajes cifrados para usted",
+      "turkish": "{0} şifreli iletilerinizi oluşturmak için izin ver"
     },
     "errorEstimatingBalanceChanges": {
+      "amharic": "ሚዛን ለመገመት ሲሞክሩ ስህተት ተፈጥሯል",
       "dutch": "Er is een fout opgetreden bij het schatten van de balansveranderingen",
       "english": "An error occurred while estimating the balance changes",
       "french": "Une erreur est survenue lors de l'estimation des changements de solde",
@@ -334,24 +555,12 @@
       "korean": "잔액 변경 추정 중 오류가 발생했습니다",
       "mandarin": "估计余额变化时发生错误",
       "portuguese": "Ocorreu um erro ao estimar as alterações de saldo",
+      "russian": "При оценке изменений баланса произошла ошибка",
       "spanish": "Se produjo un error al estimar los cambios de saldo",
-      "turkish": "Bakiye değişikliklerini tahminırken bir hata oluştu",
-      "russian": "При оценке изменений баланса произошла ошибка"
-    },
-    "estimatedGasFee": {
-      "dutch": "Geschatte gaskosten",
-      "english": "Estimated gas fee",
-      "french": "Frais de gaz estimés",
-      "german": "Geschätzte Gasgebühr",
-      "japanese": "推定ガス料金",
-      "korean": "예상 가스 수수료",
-      "mandarin": "估计的汽油费",
-      "portuguese": "Taxa estimada de gás",
-      "spanish": "Tarifa de gas estimada",
-      "turkish": "Tahmini Gas Ücreti",
-      "russian": "Примерная комиссия за газ"
+      "turkish": "Bakiye değişikliklerini tahminirken bir hata oluştu"
     },
     "estimatedBalanceChanges": {
+      "amharic": "የሚገመቱ ሚዛን ለውጦች",
       "dutch": "Geschatte balansveranderingen",
       "english": "Estimated Balance Changes",
       "french": "Changements estimés de solde",
@@ -360,11 +569,26 @@
       "korean": "예상 잔액 변경",
       "mandarin": "估计余额变化",
       "portuguese": "Alterações estimadas de saldo",
+      "russian": "Примерное изменение баланса",
       "spanish": "Cambios estimados de saldo",
-      "turkish": "Tahmini Bakiye Değişiklikleri",
-      "russian": "Примерное изменение баланса"
+      "turkish": "Tahmini Bakiye Değişiklikleri"
+    },
+    "estimatedGasFee": {
+      "amharic": "ተገመተ የጋዝ ክፍያ",
+      "dutch": "Geschatte gaskosten",
+      "english": "Estimated gas fee",
+      "french": "Frais de gaz estimés",
+      "german": "Geschätzte Gasgebühr",
+      "japanese": "推定ガス料金",
+      "korean": "예상 가스 수수료",
+      "mandarin": "估计的汽油费",
+      "portuguese": "Taxa estimada de gás",
+      "russian": "Примерная комиссия за газ",
+      "spanish": "Tarifa de gas estimada",
+      "turkish": "Tahmini Gas Ücreti"
     },
     "estimatedNetworkFee": {
+      "amharic": "ተገመተ የኔትወርክ ክፍያ",
       "dutch": "Geschatte netwerkkosten",
       "english": "Estimated Network Fee",
       "french": "Frais de réseau estimés",
@@ -373,24 +597,26 @@
       "korean": "예상 네트워크 수수료",
       "mandarin": "估计网络费用",
       "portuguese": "Taxa estimada de rede",
+      "russian": "Примерная комиссия сети",
       "spanish": "Tarifa de red estimada",
-      "turkish": "Tahmini Ağ Ücreti",
-      "russian": "Примерная комиссия сети"
+      "turkish": "Tahmini Ağ Ücreti"
     },
     "from": {
-      "dutch": "Van:",
-      "english": "From:",
-      "french": "Depuis:",
-      "german": "Aus:",
-      "japanese": "から：",
-      "korean": "에서:",
-      "mandarin": "从：",
-      "portuguese": "De:",
-      "spanish": "De:",
-      "turkish": "Şuna:",
-      "russian": "От:"
+      "amharic": "ከ",
+      "dutch": "Van",
+      "english": "From",
+      "french": "Depuis",
+      "german": "Aus",
+      "japanese": "から",
+      "korean": "에서",
+      "mandarin": "从",
+      "portuguese": "De",
+      "russian": "От:",
+      "spanish": "De",
+      "turkish": "Şuna"
     },
     "hexData": {
+      "amharic": "Hex ውሂብ",
       "dutch": "HEX -gegevens",
       "english": "Hex Data",
       "french": "Données hexadées",
@@ -399,11 +625,12 @@
       "korean": "16 진수 데이터",
       "mandarin": "十六进制数据",
       "portuguese": "Dados hexadecimais",
+      "russian": "Hex данные",
       "spanish": "Datos hexadecimales",
-      "turkish": "Onaltılık Veri",
-      "russian": "Hex данные"
+      "turkish": "Onaltılık Veri"
     },
     "hideDetails": {
+      "amharic": "ዝርዝሮች ደብቅ",
       "dutch": "Verberg details",
       "english": "Hide Details",
       "french": "Cacher les détails",
@@ -412,24 +639,26 @@
       "korean": "세부 사항을 숨 깁니다",
       "mandarin": "隐藏细节",
       "portuguese": "Detalhes ocultos",
+      "russian": "Скрыть детали",
       "spanish": "Ocultar detalles",
-      "turkish": "Ayrıntıları gizle",
-      "russian": "Скрыть детали"
+      "turkish": "Ayrıntıları gizle"
     },
     "home": {
+      "amharic": "መነሻ",
       "dutch": "Thuis",
       "english": "Home",
       "french": "Maison",
       "german": "Heim",
-      "japanese": "家",
+      "japanese": "ホーム",
       "korean": "집",
       "mandarin": "家",
       "portuguese": "Lar",
+      "russian": "Главная",
       "spanish": "Hogar",
-      "turkish": "Ev",
-      "russian": "Главная"
+      "turkish": "Ev"
     },
     "insufficientBalance": {
+      "amharic": "ሚዛን በቂ አይደለም",
       "dutch": "Onvoldoende balans",
       "english": "Insufficient Balance",
       "french": "Solde insuffisant",
@@ -438,11 +667,12 @@
       "korean": "잔액 불충분",
       "mandarin": "平衡不足",
       "portuguese": "Saldo insuficiente",
+      "russian": "Недостаточно средств",
       "spanish": "Saldo insuficiente",
-      "turkish": "Yetersiz Bakiye",
-      "russian": "Недостаточно средств"
+      "turkish": "Yetersiz Bakiye"
     },
     "invalidGasLimitErr": {
+      "amharic": "ተሳሳተ የጋዝ ገደብ",
       "dutch": "Ongeldige gaslimiet",
       "english": "Invalid gas limit",
       "french": "Limite de gaz non valide",
@@ -451,11 +681,12 @@
       "korean": "잘못된 가스 한계",
       "mandarin": "无效的气体限制",
       "portuguese": "Limite de gás inválido",
+      "russian": "Недопустимый лимит газа",
       "spanish": "Límite de gas no válido",
-      "turkish": "Gas limiti geçersiz",
-      "russian": "Недопустимый лимит газа"
+      "turkish": "Gas limiti geçersiz"
     },
     "invalidGasPriceErr": {
+      "amharic": "ተሳሳተ የጋዝ ዋጋ",
       "dutch": "Ongeldige gasprijs",
       "english": "Invalid gas price",
       "french": "Prix ​​du gaz non valide",
@@ -464,11 +695,12 @@
       "korean": "잘못된 가스 가격",
       "mandarin": "无效的气价",
       "portuguese": "Preço inválido de gás",
+      "russian": "Недопустимая цена за газ",
       "spanish": "Precio de gas no válido",
-      "turkish": "Gas fiyatı geçersiz",
-      "russian": "Недопустимая цена за газ"
+      "turkish": "Gas fiyatı geçersiz"
     },
     "invalidMaxFeeErr": {
+      "amharic": "ተሳሳተ ከፍተኛ Priority ክፍያ",
       "dutch": "Ongeldige maximale prioriteitskosten",
       "english": "Invalid max priority fee",
       "french": "Frais de priorité maximale non valide",
@@ -477,11 +709,12 @@
       "korean": "잘못된 최대 우선 수수료",
       "mandarin": "最高优先费用无效",
       "portuguese": "Taxa prioritária máxima inválida",
+      "russian": "Недопустимая максимальная приоритетная цена",
       "spanish": "Tarifa de prioridad máxima no válida",
-      "turkish": "Maksimum öncelik ücreti geçersiz",
-      "russian": "Недопустимая максимальная приоритетная цена"
+      "turkish": "Maksimum öncelik ücreti geçersiz"
     },
     "invalidMaxTxnFeeErr": {
+      "amharic": "ተሳሳተ ከፍተኛ የግብዣ ክፍያ",
       "dutch": "Ongeldige max transactiekosten",
       "english": "Invalid max transaction fee",
       "french": "Frais de transaction maximale non valides",
@@ -490,11 +723,12 @@
       "korean": "잘못된 최대 거래 수수료",
       "mandarin": "无效的最大交易费",
       "portuguese": "Taxa de transação máxima inválida",
+      "russian": "Недопустимая максимальная комиссия транзакции",
       "spanish": "Tarifa de transacción máxima no válida",
-      "turkish": "Maksimum işlem ücreti geçersiz",
-      "russian": "Недопустимая максимальная комиссия транзакции"
+      "turkish": "Maksimum işlem ücreti geçersiz"
     },
     "invalidNonceErr": {
+      "amharic": "ተሳሳተ nonce",
       "dutch": "Ongeldige nonce",
       "english": "Invalid nonce",
       "french": "Nonce non valide",
@@ -503,11 +737,12 @@
       "korean": "무효 인 Nonce",
       "mandarin": "无效的nonce",
       "portuguese": "Nonce inválido",
+      "russian": "Недопустимый nonce",
       "spanish": "Nonce inválido",
-      "turkish": "Nonce geçersiz",
-      "russian": "Недопустимый nonce"
+      "turkish": "Nonce geçersiz"
     },
     "isSmartAccount": {
+      "amharic": "ይህ የስማርት ኮንትራክት አካውንት ነው",
       "dutch": "Dit is een Smart Contract Account",
       "english": "This is a Smart Contract Account",
       "french": "C'est un compte Smart Contract",
@@ -516,11 +751,12 @@
       "korean": "이것은 스마트 컨트랙트 계정입니다",
       "mandarin": "这是一个智能合约账户",
       "portuguese": "Este é um contrato inteligente",
+      "russian": "Это аккаунт на базе смарт-контракта",
       "spanish": "Este es un contrato inteligente",
-      "turkish": "Bu, bir akıllı sözleşme hesabıdır",
-      "russian": "Это аккаунт на базе смарт-контракта"
+      "turkish": "Bu, bir akıllı sözleşme hesabıdır"
     },
     "login": {
+      "amharic": "መግባት",
       "dutch": "Log in",
       "english": "Login",
       "french": "Se connecter",
@@ -529,11 +765,25 @@
       "korean": "로그인",
       "mandarin": "登录",
       "portuguese": "Conecte-se",
+      "russian": "Войти",
       "spanish": "Acceso",
-      "turkish": "Giriş yap",
-      "russian": "Войти"
+      "turkish": "Giriş yap"
+    },
+    "loginBannerMetamask": {
+      "amharic": "Torus ዋሌት አሁን … (now)",
+      "dutch": "Torus Wallet is nu",
+      "english": "Torus Wallet is now",
+      "french": "Torus Wallet est maintenant",
+      "german": "Torus Wallet ist jetzt",
+      "japanese": "Torus Walletは現在",
+      "korean": "Torus Wallet는 이제",
+      "mandarin": "Torus Wallet现在是",
+      "portuguese": "Torus Wallet agora é",
+      "spanish": "Torus Wallet ahora es",
+      "turkish": "Torus Cüzdan artık"
     },
     "loginContinue": {
+      "amharic": "በ{0} ቀጥሉ",
       "dutch": "Doorgaan met {0}",
       "english": "Continue with {0}",
       "french": "Continuer avec {0}",
@@ -542,11 +792,12 @@
       "korean": "{0}로 계속",
       "mandarin": "继续{0}",
       "portuguese": "Continuar com {0}",
+      "russian": "Продолжить с {0}",
       "spanish": "Continuar con {0}",
-      "turkish": "{0} ile devam et",
-      "russian": "Продолжить с {0}"
+      "turkish": "{0} ile devam et"
     },
     "loginEmail": {
+      "amharic": "በኢሜይል ይግቡ",
       "dutch": "Log in met e -mail",
       "english": "Login with Email",
       "french": "Connectez-vous avec e-mail",
@@ -555,11 +806,138 @@
       "korean": "이메일로 로그인하십시오",
       "mandarin": "使用电子邮件登录",
       "portuguese": "Faça login com email",
+      "russian": "Войти с электронной почтой",
       "spanish": "Iniciar sesión con el correo electrónico",
-      "turkey": "E-posta ile giriş yap",
-      "russian": "Войти с электронной почтой"
+      "turkish": "E-posta ile giriş yap"
+    },
+    "loginPasswordlessCta": {
+      "amharic": "በኢሜይል/ስልክ ቀጥሉ",
+      "dutch": "Doorgaan met e -mail/telefoon",
+      "english": "Continue with Email/Phone",
+      "french": "Continuer avec e -mail/téléphone",
+      "german": "Weiter mit E -Mail/Telefon",
+      "japanese": "電子メール/電話で続行",
+      "korean": "이메일/전화로 계속",
+      "mandarin": "继续使用电子邮件/电话",
+      "portuguese": "Continuar com e -mail/telefone",
+      "spanish": "Continuar con e -mail/teléfono"
+    },
+    "loginSlide1Subtitle1": {
+      "amharic": "በብሎክቺን ላይ መግባባት ከዚህ ቀላል ባልሆነ ጊዜ አልነበረም",
+      "dutch": "Transactie op blockchain is nooit zo eenvoudig geweest.",
+      "english": "Transacting on blockchain has never been easier.",
+      "french": "Transactant sur blockchain n'a jamais été aussi facile.",
+      "german": "Die Transaktion auf Blockchain war noch nie einfacher.",
+      "japanese": "ブロックチェーンでの取引はかつてないほど容易になりました。",
+      "korean": "블록 체인에서의 거래는 결코 쉬운 일이 아닙니다.",
+      "mandarin": "在区块链上进行交易从未如此简单。",
+      "portuguese": "Transactar em blockchain nunca foi tão fácil.",
+      "spanish": "Transactar en blockchain nunca ha sido más fácil.",
+      "turkish": "Blockchain üzerinde işlem yapmak hiç bu kadar kolay olmamıştı."
+    },
+    "loginSlide1Subtitle2": {
+      "amharic": "ለጀማሪዎች ኢሜይል ብቻ በቂ ነው",
+      "dutch": "Een e -mail is alles wat u nodig hebt om te beginnen.",
+      "english": "An email is all you need to get started.",
+      "french": "Un e -mail est tout ce dont vous avez besoin pour commencer.",
+      "german": "Eine E -Mail ist alles, was Sie brauchen, um loszulegen.",
+      "japanese": "あなたが始めるために必要なすべてのメールだけです。",
+      "korean": "이메일만으로 시작하기 만하면됩니다.",
+      "mandarin": "您需要开始的电子邮件。",
+      "portuguese": "Um e -mail é tudo o que você precisa para começar.",
+      "spanish": "Un correo electrónico es todo lo que necesita para comenzar.",
+      "turkish": "Başlamak için bir e -posta yeterlidir."
+    },
+    "loginSlide1Title": {
+      "amharic": "ዲጂታል ገንዘቦችን በኢሜይል ይላኩ እና ይቀበሉ",
+      "dutch": "Verstuur en ontvang digitale valuta via e -mail",
+      "english": "Send and receive digital currencies via email",
+      "french": "Envoyer et recevoir des devises numériques via e -mail",
+      "german": "Senden und empfangen Sie digitale Währungen per E -Mail",
+      "japanese": "電子メールでデジタル通貨を送信および受信します",
+      "korean": "이메일을 통해 디지털 통화를 보내고받습니다",
+      "mandarin": "通过电子邮件发送和接收数字货币",
+      "portuguese": "Envie e receba moedas digitais por e -mail",
+      "spanish": "Enviar y recibir monedas digitales por correo electrónico",
+      "turkish": "E -posta ile sayısal para gönderin ve alın"
+    },
+    "loginSlide2Subtitle1": {
+      "amharic": "ከተለያዩ አቅራቢዎች ይምረጡ",
+      "dutch": "Kies uit een reeks aan providers",
+      "english": "Choose from a range of providers",
+      "french": "Choisissez parmi une gamme de fournisseurs",
+      "german": "Wählen Sie aus einer Reihe von Anbietern",
+      "japanese": "さまざまなプロバイダーから選択",
+      "korean": "다양한 공급자에서 선택",
+      "mandarin": "从多种提供商中选择",
+      "portuguese": "Escolha entre uma variedade de fornecedores",
+      "spanish": "Elija entre una variedad de proveedores",
+      "turkish": "Farklı sağlayıcılardan seçim yapın"
+    },
+    "loginSlide2Subtitle2": {
+      "amharic": "ገንዘብ በተወዳዳሪ ዋጋ ይቀበሉ",
+      "dutch": "Koop digitale valuta wereldwijd met creditcard",
+      "english": "Get currencies at one of the most competitive rates",
+      "french": "Obtenez des devises à l'un des taux les plus compétitifs",
+      "german": "Erhalten Sie Währungen zu einem der wettbewerbsfähigsten Preise",
+      "japanese": "最も競争力のあるレートで通貨を取得",
+      "korean": "가장 경쟁력 있는 레이트로 통화 얻기",
+      "mandarin": "以最具竞争力的利率获取货币",
+      "portuguese": "Obtenha moedas a uma das taxas mais competitivas",
+      "spanish": "Obtenga monedas a una de las tasas más competitivas",
+      "turkish": "En fazla rekabetli oranda para satın alın"
+    },
+    "loginSlide2Title": {
+      "amharic": "ዲጂታል ገንዘቦችን በካርድ ዓለም አቀፍ ይግዙ",
+      "dutch": "Koop digitale valuta wereldwijd met creditcard",
+      "english": "Purchase digital currencies globally with credit card",
+      "french": "Achetez des devises numériques dans le monde entier avec une carte de crédit",
+      "german": "Kaufen Sie digitale Währungen weltweit mit einer Kreditkarte",
+      "japanese": "クレジットカードで世界中のデジタル通貨を購入",
+      "korean": "신용카드로 세계 전역에서 디지털 통화 구매",
+      "mandarin": "使用信用卡在全球购买数字货币",
+      "portuguese": "Compre moedas digitais em todo o mundo com cartão de crédito",
+      "spanish": "Compre monedas digitales en todo el mundo con tarjeta de crédito",
+      "turkish": "Kredi kartıyla dünya genelinde sayısal para satın alın"
+    },
+    "loginSlide3Subtitle1": {
+      "amharic": "ከፋይናንስ፣ ጨዋታዎች፣ ኤክሸንጅ እና ሌሎች ብዙ አገልግሎቶች ጋር",
+      "dutch": "Van Financieel, Games, Exchanges en meer",
+      "english": "From Finance, Games, Exchanges and more",
+      "french": "De la finance, des jeux, des échanges et plus encore",
+      "german": "Von Finanzen, Spielen, Börsen und mehr",
+      "japanese": "ファイナンス、ゲーム、エクスチェンジなど",
+      "korean": "금융, 게임, 거래소 등",
+      "mandarin": "来自金融，游戏，交易所等",
+      "portuguese": "De Finanças, Jogos, Exchanges e mais",
+      "spanish": "De Finanzas, Juegos, Exchanges y más"
+    },
+    "loginSlide3Subtitle2": {
+      "amharic": "በTorus ወደ ዲሰንትራላይዝድ ዓለም ይግቡ",
+      "dutch": "Greifen Sie mit Torus auf die dezentrale Welt zu",
+      "english": "Access the decentralised world with Torus",
+      "french": "Accès au monde décentralisé avec Torus",
+      "german": "Greifen Sie mit Torus auf die dezentrale Welt zu",
+      "japanese": "Torusを使用して分散化された世界にアクセス",
+      "korean": "Torus를 사용하여 분산화된 세계에 접근",
+      "mandarin": "使用Torus进入去中心化世界",
+      "portuguese": "Acesso ao mundo descentralizado com Torus",
+      "spanish": "Acceso al mundo descentralizado con Torus"
+    },
+    "loginSlide3Title": {
+      "amharic": "በብሎክቺን ላይ ከሺዎች መተግበሪያዎች ጋር ይግባባዩ",
+      "dutch": "Interact met duizenden apps op de blockchain",
+      "english": "Interact with thousands of apps on the blockchain",
+      "french": "Interagissez avec des milliers d'applications sur la blockchain",
+      "german": "Interagieren Sie mit Tausenden von Apps auf der Blockchain",
+      "japanese": "ブロックチェーン上の数千のアプリと対話",
+      "korean": "블록체인 위의 수천 개의 앱과 상호작용",
+      "mandarin": "与区块链上的数千个应用程序互动",
+      "portuguese": "Interaja com milhares de aplicativos na blockchain",
+      "spanish": "Interactúa con miles de aplicaciones en la blockchain"
     },
     "logout": {
+      "amharic": "ውጣ",
       "dutch": "Uitloggen",
       "english": "Logout",
       "french": "Se déconnecter",
@@ -568,11 +946,12 @@
       "korean": "로그 아웃",
       "mandarin": "登出",
       "portuguese": "Sair",
+      "russian": "Выйти",
       "spanish": "Cerrar sesión",
-      "turkish": "Çıkış yap",
-      "russian": "Выйти"
+      "turkish": "Çıkış yap"
     },
     "message": {
+      "amharic": "መልዕክት",
       "dutch": "Bericht",
       "english": "Message",
       "french": "Message",
@@ -581,11 +960,12 @@
       "korean": "메시지",
       "mandarin": "信息",
       "portuguese": "Mensagem",
+      "russian": "Сообщение",
       "spanish": "Mensaje",
-      "turkish": "İleti",
-      "russian": "Сообщение"
+      "turkish": "İleti"
     },
     "moreDetails": {
+      "amharic": "ተጨማሪ ዝርዝሮች",
       "dutch": "Meer details",
       "english": "More Details",
       "french": "Plus de détails",
@@ -594,24 +974,26 @@
       "korean": "자세한 내용은",
       "mandarin": "更多细节",
       "portuguese": "Mais detalhes",
+      "russian": "Подробнее",
       "spanish": "Más detalles",
-      "turkish": "Daha fazla ayrıntı",
-      "russian": "Подробнее"
+      "turkish": "Daha fazla ayrıntı"
     },
     "network": {
+      "amharic": "ኔትወርክ",
       "dutch": "Netwerk",
       "english": "Network",
       "french": "Réseau",
       "german": "Netzwerk",
-      "japanese": "通信網",
+      "japanese": "ネットワーク",
       "korean": "회로망",
       "mandarin": "网络",
       "portuguese": "Rede",
+      "russian": "Сеть",
       "spanish": "Red",
-      "turkish": "Ağ",
-      "russian": "Сеть"
+      "turkish": "Ağ"
     },
     "networkName": {
+      "amharic": "የኔትወርክ ስም",
       "dutch": "Netwerknaam",
       "english": "Network Name",
       "french": "Nom de réseau",
@@ -620,11 +1002,12 @@
       "korean": "네트워크 이름",
       "mandarin": "网络名字",
       "portuguese": "Nome da rede",
+      "russian": "Имя сети",
       "spanish": "Nombre de red",
-      "turkish": "Ağ adı",
-      "russian": "Имя сети"
+      "turkish": "Ağ adı"
     },
     "networkUrl": {
+      "amharic": "የኔትወርክ URL",
       "dutch": "Netwerk -URL",
       "english": "Network URL",
       "french": "URL du réseau",
@@ -633,11 +1016,12 @@
       "korean": "네트워크 URL",
       "mandarin": "网络URL",
       "portuguese": "URL da rede",
+      "russian": "URL сети",
       "spanish": "URL de red",
-      "turkish": "Ağ URL",
-      "russian": "URL сети"
+      "turkish": "Ağ URL"
     },
     "newChain": {
+      "amharic": "አዲስ ቻይን",
       "dutch": "Nieuwe keten",
       "english": "New Chain",
       "french": "Nouvelle chaîne",
@@ -646,11 +1030,12 @@
       "korean": "새로운 체인",
       "mandarin": "新链",
       "portuguese": "Nova cadeia",
+      "russian": "Новая цепочка",
       "spanish": "Nueva cadena",
-      "turkish": "Yeni Ket",
-      "russian": "Новая цепочка"
+      "turkish": "Yeni Ket"
     },
     "newChainId": {
+      "amharic": "አዲስ ቻይን ID",
       "dutch": "Nieuwe ketting -ID",
       "english": "New Chain ID",
       "french": "Nouvelle chaîne ID",
@@ -659,11 +1044,12 @@
       "korean": "새로운 체인 ID",
       "mandarin": "新连锁ID",
       "portuguese": "Novo ID da cadeia",
+      "russian": "Новый ID цепочки",
       "spanish": "Nueva identificación de cadena",
-      "turkish": "Yeni Ket ID",
-      "russian": "Новый ID цепочки"
+      "turkish": "Yeni Ket ID"
     },
     "nftDetails": {
+      "amharic": "የNFT ዝርዝሮች",
       "dutch": "NFT -details",
       "english": "NFT Details",
       "french": "Détails NFT",
@@ -672,11 +1058,12 @@
       "korean": "NFT 세부 사항",
       "mandarin": "NFT详细信息",
       "portuguese": "Detalhes da NFT",
+      "russian": "Детали NFT",
       "spanish": "Detalles NFT",
-      "turkish": "NFT Detayları",
-      "russian": "Детали NFT"
+      "turkish": "NFT Detayları"
     },
     "paymentTxn": {
+      "amharic": "የክፍያ ግብዣ",
       "dutch": "Betalingstransactie",
       "english": "Payment Transaction",
       "french": "Transaction de paiement",
@@ -685,11 +1072,12 @@
       "korean": "지불 거래",
       "mandarin": "付款交易",
       "portuguese": "Operação de pagamento",
+      "russian": "Платёжная транзакция",
       "spanish": "Transaccion de pago",
-      "turkish": "Ödeme İşlemi",
-      "russian": "Платёжная транзакция"
+      "turkish": "Ödeme İşlemi"
     },
     "permission": {
+      "amharic": "ፍቃድ",
       "dutch": "Toestemming",
       "english": "Permission",
       "french": "Autorisation",
@@ -698,11 +1086,12 @@
       "korean": "허가",
       "mandarin": "允许",
       "portuguese": "Permissão",
+      "russian": "Разрешение",
       "spanish": "Permiso",
-      "turkish": "İzin",
-      "russian": "Разрешение"
+      "turkish": "İzin"
     },
     "popupAlertMsg": {
+      "amharic": "ይህ ብራውዘር አይደገፍም፣ እባክዎ በሌላ ብራውዘር ይሞክሩ",
       "dutch": "De browser wordt niet ondersteund; Probeer het opnieuw in een andere browser.",
       "english": "The browser is not supported; please retry in another browser.",
       "french": "Le navigateur n'est pas pris en charge; Veuillez réessayer dans un autre navigateur.",
@@ -711,50 +1100,67 @@
       "korean": "브라우저는 지원되지 않습니다. 다른 브라우저에서 다시 시도하십시오.",
       "mandarin": "不支持浏览器；请在另一个浏览器中重试。",
       "portuguese": "O navegador não é suportado; Por favor, tente novamente em outro navegador.",
+      "russian": "Браузер не поддерживается; попробуйте в другом браузере.",
       "spanish": "El navegador no es compatible; Vuelva a intentar en otro navegador.",
-      "turkish": "Tarayıcınız desteklenmiyor; Lütfen başka bir tarayıcıda yeniden deneyin.",
-      "russian": "Браузер не поддерживается; попробуйте в другом браузере."
+      "turkish": "Tarayıcınız desteklenmiyor; Lütfen başka bir tarayıcıda yeniden deneyin."
     },
     "popupBlock": {
+      "amharic": "ፖፕ-አፕ ታግዷል",
       "dutch": "Pop-up geblokkeerd",
       "english": "Pop up blocked",
       "french": "Pop-up bloqué",
       "german": "Pop-Up blockiert",
-      "japanese": "ポップアップブロックされています",
+      "japanese": "ポップアップがブロックされています",
       "korean": "팝업 차단",
       "mandarin": "弹出被阻止",
       "portuguese": "Pop-up bloqueado",
+      "russian": "Всплывающее окно заблокировано",
       "spanish": "Ventana emergente bloqueada",
-      "turkish": "Açılan pencere engellendi",
-      "russian": "Всплывающее окно заблокировано"
+      "turkish": "Açılan pencere engellendi"
     },
     "popupBlockConfirm": {
+      "amharic": "ለጊዜው ገጹን ይክፈቱ",
       "dutch": "Start pagina voor nu",
       "english": "Launch page for now",
       "french": "Page de lancement pour l'instant",
       "german": "Starten Sie vorerst die Seite",
-      "japanese": "今のところページを起動します",
+      "japanese": "今すぐページを起動します",
       "korean": "지금은 시작 페이지입니다",
       "mandarin": "现在启动页面",
       "portuguese": "Página de lançamento para agora",
+      "russian": "Запустить страницу сейчас",
       "spanish": "Página de lanzamiento por ahora",
-      "turkish": "Şimdi sayfa başlat",
-      "russian": "Запустить страницу сейчас"
+      "turkish": "Şimdi sayfa başlat"
     },
     "popupBlockDesc": {
+      "amharic": "በፖፕ-አፕ እንቅፋት ምክንያት ገጹ ሊታይ አይችልም። ፖፕ-አፕ እንቅፋት ካስተገቡ ይህንን ጣቢያ ለወደፊት ይፍቀዱ",
       "dutch": "De pagina kan mogelijk niet openen vanwege een pop -up blocker. Als u een pop -up blocker gebruikt, overweeg dan om deze in de toekomst voor deze site uit te schakelen om toegang te krijgen tot het venster.",
       "english": "The page may be unable to open due to a popup blocker. If you are using a popup blocker, please consider disabling it for this site in future to access the window.",
       "french": "La page peut être incapable d'ouvrir en raison d'un bloqueur contextuel. Si vous utilisez un bloqueur contextuel, veuillez envisager de le désactiver pour ce site à l'avenir pour accéder à la fenêtre.",
       "german": "Die Seite kann aufgrund eines Popup -Blockers möglicherweise nicht öffnen. Wenn Sie einen Popup -Blocker verwenden, sollten Sie ihn in Zukunft für diese Website deaktivieren, um auf das Fenster zuzugreifen.",
-      "japanese": "ポップアップブロッカーのためにページが開くことができない場合があります。ポップアップブロッカーを使用している場合は、ウィンドウにアクセスするために、将来このサイトの無効化を検討してください。",
+      "japanese": "ポップアップブロッカーのためにページが開くことができない場合があります。ポップアップブロッカーを使用している場合は、ウィンドウにアクセスするために、将来的にこのサイトでの無効化を検討してください。",
       "korean": "팝업 차단기로 인해 페이지가 열리지 않을 수 있습니다. 팝업 차단기를 사용하는 경우 향후이 사이트에 대한 비활성화되어 창에 액세스 할 수 있습니다.",
       "mandarin": "由于弹出阻滞剂，该页面可能无法打开。如果您使用的是弹出式阻滞剂，请考虑将来将其禁用此站点以访问窗口。",
       "portuguese": "A página pode não conseguir abrir devido a um bloqueador pop -up. Se você estiver usando um bloqueador pop -up, considere desativá -lo para este site no futuro para acessar a janela.",
+      "russian": "Страница может не открыться из-за блокировщика всплывающих окон. Если вы используете его, отключите для этого сайта, чтобы получить доступ к окну.",
       "spanish": "La página puede no poder abrir debido a un bloqueador emergente. Si está utilizando un bloqueador emergente, considere deshabilitarlo para este sitio en el futuro para acceder a la ventana.",
-      "turkish": "Sayfa, açılan pencere engelleyicisinin nedeniyle açılamayabilir. Blokeiciyi kullanmıyorsanız, bu siteyi gelecekte devre dışı bırakarak pencereye erişim sağlayabilirsiniz.",
-      "russian": "Страница может не открыться из-за блокировщика всплывающих окон. Если вы используете его, отключите для этого сайта, чтобы получить доступ к окну."
+      "turkish": "Sayfa, açılan pencere engelleyicisinin nedeniyle açılamayabilir. Blokeiciyi kullanmıyorsanız, bu siteyi gelecekte devre dışı bırakarak pencereye erişim sağlayabilirsiniz."
+    },
+    "programId": {
+      "amharic": "የፕሮግራም መታወቂያ",
+      "dutch": "Programma-ID",
+      "english": "Program ID",
+      "french": "ID de programme",
+      "german": "Programm-ID",
+      "japanese": "プログラムID",
+      "korean": "프로그램 ID",
+      "mandarin": "程序 ID",
+      "portuguese": "ID do programa",
+      "spanish": "ID del programa",
+      "turkish": "Program Kimliği"
     },
     "reject": {
+      "amharic": "አትቀበል",
       "dutch": "Afwijzen",
       "english": "Reject",
       "french": "Rejeter",
@@ -763,24 +1169,12 @@
       "korean": "거부하다",
       "mandarin": "拒绝",
       "portuguese": "Rejeitar",
+      "russian": "Отклонить",
       "spanish": "Rechazar",
-      "turkish": "Reddet",
-      "russian": "Отклонить"
-    },
-    "requestEncryptionKey": {
-      "dutch": "Verzoek coderingssleutel",
-      "english": "Request Encryption key",
-      "french": "Demander la clé de chiffrement",
-      "german": "Anfrage der Verschlüsselungsschlüssel",
-      "japanese": "暗号化キーを要求します",
-      "korean": "암호화 키를 요청하십시오",
-      "mandarin": "请求加密密钥",
-      "portuguese": "Chave de criptografia de solicitação",
-      "spanish": "Solicitar la clave de cifrado",
-      "turkish": "Şifreleme anahtarını iste",
-      "russian": "Запросить ключ шифрования"
+      "turkish": "Reddet"
     },
     "requestedFrom": {
+      "amharic": "የተጠየቀው ከ",
       "dutch": "Gevraagd van",
       "english": "Requested from",
       "french": "Demandé à",
@@ -789,11 +1183,26 @@
       "korean": "요청",
       "mandarin": "请求",
       "portuguese": "Solicitado de",
+      "russian": "Запрошено от",
       "spanish": "Solicitado de",
-      "turkish": "İstek",
-      "russian": "Запрошено от"
+      "turkish": "İstek"
+    },
+    "requestEncryptionKey": {
+      "amharic": "የመመስጠሪያ ቁልፍ ጥያቄ",
+      "dutch": "Verzoek coderingssleutel",
+      "english": "Request Encryption key",
+      "french": "Demander la clé de chiffrement",
+      "german": "Anfrage der Verschlüsselungsschlüssel",
+      "japanese": "暗号化キーを要求します",
+      "korean": "암호화 키를 요청하십시오",
+      "mandarin": "请求加密密钥",
+      "portuguese": "Chave de criptografia de solicitação",
+      "russian": "Запросить ключ шифрования",
+      "spanish": "Solicitar la clave de cifrado",
+      "turkish": "Şifreleme anahtarını iste"
     },
     "retry": {
+      "amharic": "ደግመህ ሞክር",
       "dutch": "Opnieuw proberen",
       "english": "Retry",
       "french": "Recommencez",
@@ -802,11 +1211,38 @@
       "korean": "다시 해 보다",
       "mandarin": "重试",
       "portuguese": "Tente novamente",
+      "russian": "Повторить",
       "spanish": "Rever",
-      "turkish": "Tekrar Dene",
-      "russian": "Повторить"
+      "turkish": "Tekrar Dene"
+    },
+    "reviewDetailsDescription": {
+      "amharic": "ከማረጋገጥዎ በፊት እባክዎ ዝርዝሮቹን ይገምግሙ",
+      "dutch": "Controleer de gegevens voordat u bevestigt",
+      "english": "Please review the details before confirming",
+      "french": "Veuillez vérifier les détails avant de confirmer",
+      "german": "Bitte überprüfen Sie die Details, bevor Sie bestätigen",
+      "japanese": "確認する前に詳細をご確認ください",
+      "korean": "확인하기 전에 세부 정보를 검토해 주세요",
+      "mandarin": "确认前请查看详细信息",
+      "portuguese": "Reveja os detalhes antes de confirmar",
+      "spanish": "Revise los detalles antes de confirmar",
+      "turkish": "Onaylamadan önce lütfen ayrıntıları gözden geçirin"
+    },
+    "revokeDelegation": {
+      "amharic": "ውክልና ሰርዝ",
+      "dutch": "Delegatie intrekken",
+      "english": "Revoke Delegation",
+      "french": "Révoquer la délégation",
+      "german": "Delegation widerrufen",
+      "japanese": "委任を取り消す",
+      "korean": "위임 취소",
+      "mandarin": "撤销委托",
+      "portuguese": "Revogar delegação",
+      "spanish": "Revocar delegación",
+      "turkish": "Yetkilendirmeyi iptal et"
     },
     "safeTransferFrom": {
+      "amharic": "የደህንነት ተላላኪ (Safe Transfer From)",
       "dutch": "Veilige overdracht van",
       "english": "Safe Transfer From",
       "french": "Transfert sûr de",
@@ -815,11 +1251,12 @@
       "korean": "안전한 전송",
       "mandarin": "安全转移",
       "portuguese": "Transferência segura de",
+      "russian": "Безопасный перевод от",
       "spanish": "Transferencia segura de",
-      "turkish": "Güvenli Transfer From",
-      "russian": "Безопасный перевод от"
+      "turkish": "Güvenli Transfer From"
     },
     "save": {
+      "amharic": "አስቀምጥ",
       "dutch": "Redden",
       "english": "Save",
       "french": "Sauvegarder",
@@ -828,11 +1265,12 @@
       "korean": "구하다",
       "mandarin": "节省",
       "portuguese": "Salvar",
+      "russian": "Сохранить",
       "spanish": "Ahorrar",
-      "turkish": "Kaydet",
-      "russian": "Сохранить"
+      "turkish": "Kaydet"
     },
     "send": {
+      "amharic": "ላክ",
       "dutch": "Versturen",
       "english": "Send",
       "french": "Envoyer",
@@ -841,11 +1279,12 @@
       "korean": "보내다",
       "mandarin": "发送",
       "portuguese": "Enviar",
+      "russian": "Отправить",
       "spanish": "Enviar",
-      "turkish": "Gönder",
-      "russian": "Отправить"
+      "turkish": "Gönder"
     },
     "sending": {
+      "amharic": "በመላክ ላይ",
       "dutch": "Bezig met verzenden",
       "english": "Sending",
       "french": "Envoi en cours",
@@ -854,24 +1293,26 @@
       "korean": "배상",
       "mandarin": "发送",
       "portuguese": "Envio",
+      "russian": "Отправка",
       "spanish": "Enviando",
-      "turkish": "Gönderiliyor",
-      "russian": "Отправка"
+      "turkish": "Gönderiliyor"
     },
     "sentEther": {
+      "amharic": "ኢተር ተልኳል",
       "dutch": "Verzonden ether",
       "english": "Sent Ether",
       "french": "Envoyé de l'éther",
       "german": "Äther gesendet",
-      "japanese": "エーテルを送信しました",
+      "japanese": "イーサを送信しました",
       "korean": "에테르를 보냈습니다",
       "mandarin": "发送以太",
       "portuguese": "Éter enviado",
+      "russian": "Отправлено Ether",
       "spanish": "Enviado éter",
-      "turkish": "Eter gönderildi",
-      "russian": "Отправлено Ether"
+      "turkish": "Eter gönderildi"
     },
     "setApprovalForAll": {
+      "amharic": "ለሁሉም ፍቀድ ማዘጋጀት (Set Approval For All)",
       "dutch": "Stel goedkeuring in voor iedereen",
       "english": "Set Approval For All",
       "french": "Définir l'approbation pour tous",
@@ -880,11 +1321,12 @@
       "korean": "모두에 대한 승인을 설정하십시오",
       "mandarin": "设定所有人的批准",
       "portuguese": "Defina aprovação para todos",
+      "russian": "Установить разрешение для всех",
       "spanish": "Establecer aprobación para todos",
-      "turkish": "Tüm Onayını Ayarla",
-      "russian": "Установить разрешение для всех"
+      "turkish": "Tüm Onayını Ayarla"
     },
     "settings": {
+      "amharic": "ቅንብሮች",
       "dutch": "Instellingen",
       "english": "Settings",
       "french": "Paramètres",
@@ -893,11 +1335,12 @@
       "korean": "설정",
       "mandarin": "设置",
       "portuguese": "Configurações",
+      "russian": "Настройки",
       "spanish": "Ajustes",
-      "turkish": "Ayarlar",
-      "russian": "Настройки"
+      "turkish": "Ayarlar"
     },
     "sign": {
+      "amharic": "ፈርም",
       "dutch": "Teken",
       "english": "Sign",
       "french": "Signe",
@@ -906,50 +1349,12 @@
       "korean": "징후",
       "mandarin": "符号",
       "portuguese": "Sinal",
+      "russian": "Подписать",
       "spanish": "Firmar",
-      "turkish": "İmzala",
-      "russian": "Подписать"
-    },
-    "signIn": {
-      "dutch": "Aanmelden",
-      "english": "Sign in",
-      "french": "Se connecter",
-      "german": "anmelden",
-      "japanese": "サインイン",
-      "korean": "로그인",
-      "mandarin": "登入",
-      "portuguese": "Entrar",
-      "spanish": "Iniciar sesión",
-      "turkish": "Oturum aç",
-      "russian": "Войти"
-    },
-    "signInDescription": {
-      "dutch": "Uw blockchain -portemonnee op één klik",
-      "english": "Your blockchain wallet in one click",
-      "french": "Votre portefeuille de blockchain en un seul clic",
-      "german": "Ihre Blockchain -Brieftasche in einem Klick",
-      "japanese": "ワンクリックでブロックチェーンウォレット",
-      "korean": "한 번의 클릭으로 블록 체인 지갑",
-      "mandarin": "您的区块链钱包一键",
-      "portuguese": "Sua carteira blockchain em um clique",
-      "spanish": "Su billetera blockchain en un solo clic",
-      "turkish": "Takımınızın blok zinciri cüzdanına bir tıkla",
-      "russian": "Ваш кошелёк блокчейна в один клик"
-    },
-    "signMessage": {
-      "dutch": "Aanmeldbericht",
-      "english": "Sign Message",
-      "french": "Signer le message",
-      "german": "Meldung unterschreiben",
-      "japanese": "署名メッセージ",
-      "korean": "서명 메시지",
-      "mandarin": "标志消息",
-      "portuguese": "Assinar mensagem",
-      "spanish": "Mensaje de firma",
-      "turkish": "İmza iletisi",
-      "russian": "Подписать сообщение"
+      "turkish": "İmzala"
     },
     "signatureDescription": {
+      "amharic": "ይህን መልዕክት በሙሉ ከተረዱ እና ተጠያቂውን ጣቢያ ከታመኑ ብቻ ይፈርሙ",
       "dutch": "Onderteken dit bericht alleen als u de inhoud volledig begrijpt en de aanvraagsite vertrouwt.",
       "english": "Only sign this message if you fully understand the content and trust the requesting site.",
       "french": "Signez ce message uniquement que si vous comprenez pleinement le contenu et faites confiance au site de demande.",
@@ -958,24 +1363,68 @@
       "korean": "내용을 완전히 이해하고 요청 사이트를 신뢰하는 경우 에만이 메시지에 서명하십시오.",
       "mandarin": "仅当您完全了解内容并信任请求网站时才签署此消息。",
       "portuguese": "Assine apenas esta mensagem se você entender completamente o conteúdo e confiar no site solicitante.",
+      "russian": "Подписывайте это сообщение только если вы полностью понимаете содержимое и доверяете запрашивающему сайту.",
       "spanish": "Solo firme este mensaje si comprende completamente el contenido y confía en el sitio solicitante.",
-      "turkish": "Bu mesajı tam olarak anlamak ve istekte bulunan sitenin güvenilir olduğunu kabul ederken bu mesajı imzalamak için sadece bu mesajı imzalamak istiyorsanız imzalayın.",
-      "russian": "Подписывайте это сообщение только если вы полностью понимаете содержимое и доверяете запрашивающему сайту."
+      "turkish": "Bu mesajı tam olarak anlamak ve istekte bulunan sitenin güvenilir olduğunu kabul ederken bu mesajı imzalamak için sadece bu mesajı imzalamak istiyorsanız imzalayın."
     },
     "signatureRequest": {
+      "amharic": "የፊርማ ጥያቄ",
       "dutch": "Handtekeningverzoek",
-      "english": "Signature request",
+      "english": "Signature Request",
       "french": "Demande de signature",
       "german": "Signaturanforderung",
       "japanese": "署名リクエスト",
       "korean": "서명 요청",
       "mandarin": "签名请求",
       "portuguese": "Solicitação de assinatura",
+      "russian": "Запрос подписи",
       "spanish": "Solicitud de firma",
-      "turkish": "İmzalama isteği",
-      "russian": "Запрос подписи"
+      "turkish": "İmzalama isteği"
+    },
+    "signIn": {
+      "amharic": "ግባ",
+      "dutch": "Aanmelden",
+      "english": "Sign in",
+      "french": "Se connecter",
+      "german": "anmelden",
+      "japanese": "サインイン",
+      "korean": "로그인",
+      "mandarin": "登入",
+      "portuguese": "Entrar",
+      "russian": "Войти",
+      "spanish": "Iniciar sesión",
+      "turkish": "Oturum aç"
+    },
+    "signInDescription": {
+      "amharic": "የብሎክቺን ዋሌትዎ በአንድ ጠቅ ብቻ",
+      "dutch": "Uw blockchain -portemonnee op één klik",
+      "english": "Your blockchain wallet in one click",
+      "french": "Votre portefeuille de blockchain en un seul clic",
+      "german": "Ihre Blockchain -Brieftasche in einem Klick",
+      "japanese": "ワンクリックでブロックチェーンウォレット",
+      "korean": "한 번의 클릭으로 블록 체인 지갑",
+      "mandarin": "您的区块链钱包一键",
+      "portuguese": "Sua carteira blockchain em um clique",
+      "russian": "Ваш кошелёк блокчейна в один клик",
+      "spanish": "Su billetera blockchain en un solo clic",
+      "turkish": "Takımınızın blok zinciri cüzdanına bir tıkla"
+    },
+    "signMessage": {
+      "amharic": "መልዕክት ፈርም",
+      "dutch": "Aanmeldbericht",
+      "english": "Sign Message",
+      "french": "Signer le message",
+      "german": "Meldung unterschreiben",
+      "japanese": "署名メッセージ",
+      "korean": "서명 메시지",
+      "mandarin": "标志消息",
+      "portuguese": "Assinar mensagem",
+      "russian": "Подписать сообщение",
+      "spanish": "Mensaje de firma",
+      "turkish": "İmza iletisi"
     },
     "socialPolicy": {
+      "amharic": "ከማህበራዊ መግቢያዎችዎ ጋር የተያያዘ ምንም መረጃ አናስቀምጥም",
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
       "english": "We do not store any data related to your social logins.",
       "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
@@ -984,24 +1433,26 @@
       "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "russian": "Мы не храним никаких данных, связанных с вашими соцсетями.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-      "turkish": "Biz hepsini sosyal oturum açma ile ilgili herhangi bir veriyi saklamıyoruz.",
-      "russian": "Мы не храним никаких данных, связанных с вашими соцсетями."
+      "turkish": "Biz hepsini sosyal oturum açma ile ilgili herhangi bir veriyi saklamıyoruz."
     },
     "socialViewLess": {
+      "amharic": "ያነሰ",
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
       "german": "Weniger anzeigen",
-      "japanese": "表示が少なくなります",
+      "japanese": "表示を減らす",
       "korean": "덜보십시오",
       "mandarin": "少查看",
       "portuguese": "Ver menos",
+      "russian": "Показать меньше",
       "spanish": "Ver menos",
-      "turkish": "Daha az göster",
-      "russian": "Показать меньше"
+      "turkish": "Daha az göster"
     },
     "socialViewMore": {
+      "amharic": "ተጨማሪ",
       "dutch": "Bekijk meer",
       "english": "View more",
       "french": "Voir plus",
@@ -1010,11 +1461,12 @@
       "korean": "더보기",
       "mandarin": "查看更多",
       "portuguese": "Veja mais",
+      "russian": "Показать больше",
       "spanish": "Ver más",
-      "turkish": "Daha fazla göster",
-      "russian": "Показать больше"
+      "turkish": "Daha fazla göster"
     },
     "swap": {
+      "amharic": "መቀየር (Swap)",
       "dutch": "Ruil",
       "english": "Swap",
       "french": "Échanger",
@@ -1023,11 +1475,12 @@
       "korean": "교환",
       "mandarin": "交换",
       "portuguese": "Trocar",
+      "russian": "Обменять",
       "spanish": "Intercambio",
-      "turkish": "Takas",
-      "russian": "Обменять"
+      "turkish": "Takas"
     },
     "switchChainText": {
+      "amharic": "{0} ኔትወርክዎን ወደ {1} እንዲቀይር ፍቀዱ",
       "dutch": "Sta {0} toe om uw netwerk te wijzigen in {1}",
       "english": "Allow {0} to change your network to {1}",
       "french": "Autoriser {0} à changer votre réseau en {1}",
@@ -1036,24 +1489,39 @@
       "korean": "{0}이 네트워크를 {1}으로 변경하도록 허용하십시오",
       "mandarin": "允许{0}将您的网络更改为{1}。",
       "portuguese": "Permita que {0} altere sua rede para {1}",
+      "russian": "Разрешить {0} изменить вашу сеть на {1}",
       "spanish": "Permitir {0} cambiar su red a {1}",
-      "turkish": "{0} {1} ağınıza erişim izni ver",
-      "russian": "Разрешить {0} изменить вашу сеть на {1}"
+      "turkish": "{0} {1} ağınıza erişim izni ver"
+    },
+    "switchNetwork": {
+      "amharic": "ኔትወርክ ቀይር",
+      "dutch": "Netwerk wisselen",
+      "english": "Switch Network",
+      "french": "Changer de réseau",
+      "german": "Netzwerk wechseln",
+      "japanese": "ネットワークを切り替え",
+      "korean": "네트워크 전환",
+      "mandarin": "切换网络",
+      "portuguese": "Alternar rede",
+      "spanish": "Cambiar red",
+      "turkish": "Ağ değiştir"
     },
     "to": {
-      "dutch": "Naar:",
-      "english": "To:",
-      "french": "À:",
-      "german": "Zu:",
-      "japanese": "に：",
-      "korean": "에게:",
-      "mandarin": "到：",
-      "portuguese": "Para:",
-      "spanish": "A:",
-      "turkish": "İçin:",
-      "russian": "Кому:"
+      "amharic": "ወደ",
+      "dutch": "Naar",
+      "english": "To",
+      "french": "À",
+      "german": "Zu",
+      "japanese": "に",
+      "korean": "에게",
+      "mandarin": "到",
+      "portuguese": "Para",
+      "russian": "Кому:",
+      "spanish": "A",
+      "turkish": "İçin"
     },
     "tokenDetails": {
+      "amharic": "የቶክን ዝርዝሮች",
       "dutch": "Token -details",
       "english": "Token Details",
       "french": "Détails de jeton",
@@ -1062,11 +1530,12 @@
       "korean": "토큰 세부 사항",
       "mandarin": "令牌细节",
       "portuguese": "Detalhes do token",
+      "russian": "Детали токена",
       "spanish": "Detalles del token",
-      "turkish": "Token Detayları",
-      "russian": "Детали токена"
+      "turkish": "Token Detayları"
     },
     "topUpGasCredit": {
+      "amharic": "የጋዝ ክሬዲት ያትሙ",
       "dutch": "Vul gaskrediet aan",
       "english": "Top Up Gas Credit",
       "french": "Créder le crédit",
@@ -1075,24 +1544,26 @@
       "korean": "가스 크레딧을 상단하십시오",
       "mandarin": "充气汽油信用",
       "portuguese": "Top up Gas Credit",
+      "russian": "Пополнить газовый кредит",
       "spanish": "Recargar crédito de gas",
-      "turkish": "Gaz kredisi yükle",
-      "russian": "Пополнить газовый кредит"
+      "turkish": "Gaz kredisi yükle"
     },
     "topupWallet": {
-      "dutch": "Topup -portemonnee",
-      "english": "Topup Wallet",
-      "french": "Portefeuille",
-      "german": "Aufpackungsbrieftasche",
-      "japanese": "トップアップウォレット",
-      "korean": "탑 업 지갑",
-      "mandarin": "托图钱包",
-      "portuguese": "Carteira de recarga",
-      "spanish": "Billetera",
-      "turkish": "Portföy",
-      "russian": "Пополнить кошелёк"
+      "amharic": "ገንዘብ ያክሉ",
+      "dutch": "Geld toevoegen",
+      "english": "Add funds",
+      "french": "Ajouter des fonds",
+      "german": "Guthaben aufladen",
+      "japanese": "資金を追加",
+      "korean": "자금 추가",
+      "mandarin": "添加资金",
+      "portuguese": "Adicionar fundos",
+      "russian": "Пополнить кошелёк",
+      "spanish": "Añadir fondos",
+      "turkish": "Para ekle"
     },
     "total": {
+      "amharic": "ጠቅላላ",
       "dutch": "Totaal",
       "english": "Total",
       "french": "Total",
@@ -1101,11 +1572,12 @@
       "korean": "총",
       "mandarin": "全部的",
       "portuguese": "Total",
+      "russian": "Итого",
       "spanish": "Total",
-      "turkish": "Toplam",
-      "russian": "Итого"
+      "turkish": "Toplam"
     },
     "transaction": {
+      "amharic": "ግብዣ",
       "dutch": "Transactie",
       "english": "Transaction",
       "french": "Transaction",
@@ -1114,11 +1586,25 @@
       "korean": "거래",
       "mandarin": "交易",
       "portuguese": "Transação",
+      "russian": "Транзакция",
       "spanish": "Transacción",
-      "turkish": "İşlem",
-      "russian": "Транзакция"
+      "turkish": "İşlem"
+    },
+    "transactionInstructions": {
+      "amharic": "ለማጽደቅ {0} የግብይት መመሪያ(ዎች)",
+      "dutch": "{0} transactie-instructie(s) om goed te keuren",
+      "english": "{0} Transaction instruction(s) to approve",
+      "french": "{0} instruction(s) de transaction à approuver",
+      "german": "{0} Transaktionsanweisung(en) zum Genehmigen",
+      "japanese": "承認する{0}件のトランザクション命令",
+      "korean": "승인할 거래 지시 {0}개",
+      "mandarin": "{0} 条待批准的交易指令",
+      "portuguese": "{0} instrução(ões) de transação para aprovar",
+      "spanish": "{0} instrucción(es) de transacción para aprobar",
+      "turkish": "Onaylanacak {0} işlem talimatı"
     },
     "transfer": {
+      "amharic": "ማስተላለፍ",
       "dutch": "Overdracht",
       "english": "Transfer",
       "french": "Transfert",
@@ -1127,11 +1613,12 @@
       "korean": "옮기다",
       "mandarin": "转移",
       "portuguese": "Transferir",
+      "russian": "Перевести",
       "spanish": "Transferir",
-      "turkish": "Transfer",
-      "russian": "Перевести"
+      "turkish": "Transfer"
     },
     "transferFrom": {
+      "amharic": "ከ… ማስተላለፍ",
       "dutch": "Overbrengen van",
       "english": "Transfer From",
       "french": "Transfert à partir de",
@@ -1140,11 +1627,12 @@
       "korean": "전송",
       "mandarin": "从转移",
       "portuguese": "Transferir de",
+      "russian": "Перевести из",
       "spanish": "Transferido de",
-      "turkish": "Transfer From",
-      "russian": "Перевести из"
+      "turkish": "Transfer From"
     },
     "transferToken": {
+      "amharic": "ቶክን ማስተላለፍ",
       "dutch": "Overdracht token",
       "english": "Transfer Token",
       "french": "Jeton de transfert",
@@ -1153,11 +1641,12 @@
       "korean": "전송 토큰",
       "mandarin": "转移令牌",
       "portuguese": "Transferir token",
+      "russian": "Перевести токен",
       "spanish": "Token de transferencia",
-      "turkish": "Token transferi",
-      "russian": "Перевести токен"
+      "turkish": "Token transferi"
     },
     "txnRequest": {
+      "amharic": "የግብዣ ጥያቄ",
       "dutch": "Transactieverzoek",
       "english": "Transaction Request",
       "french": "Demande de transaction",
@@ -1166,11 +1655,12 @@
       "korean": "거래 요청",
       "mandarin": "交易请求",
       "portuguese": "Solicitação de transação",
+      "russian": "Запрос транзакции",
       "spanish": "Solicitud de transacción",
-      "turkish": "İşlem İsteği",
-      "russian": "Запрос транзакции"
+      "turkish": "İşlem İsteği"
     },
     "type": {
+      "amharic": "አይነት",
       "dutch": "Type",
       "english": "Type",
       "french": "Taper",
@@ -1179,11 +1669,12 @@
       "korean": "유형",
       "mandarin": "类型",
       "portuguese": "Tipo",
+      "russian": "Тип",
       "spanish": "Tipo",
-      "turkish": "Tür",
-      "russian": "Тип"
+      "turkish": "Tür"
     },
     "validMaxFeeErr": {
+      "amharic": "ከፍተኛ ክፍያው ከመሠረታዊ ክፍያ + priority ክፍያ በላይ መሆን አለበት",
       "dutch": "Max -vergoeding moet groter zijn dan basiskosten + prioriteitskosten",
       "english": "Max Fee must be greater than base fee + priority fee",
       "french": "Les frais maximaux doivent être supérieurs aux frais de base + frais de priorité",
@@ -1192,11 +1683,12 @@
       "korean": "최대 수수료는 기본 수수료 + 우선 순위 수수료보다 커야합니다.",
       "mandarin": "最高费用必须大于基本费用 +优先费",
       "portuguese": "A taxa máxima deve ser maior que a taxa básica + taxa de prioridade",
+      "russian": "Максимальная комиссия должна быть больше базовой комиссии + приоритетной комиссии",
       "spanish": "La tarifa máxima debe ser mayor que la tarifa base + tarifa prioritaria",
-      "turkish": "Maksimum ücret en fazla temel ücret + öncelik ücret olmalıdır",
-      "russian": "Максимальная комиссия должна быть больше базовой комиссии + приоритетной комиссии"
+      "turkish": "Maksimum ücret en fazla temel ücret + öncelik ücret olmalıdır"
     },
     "walletAddress": {
+      "amharic": "የዋሌት አድራሻ",
       "dutch": "Portemonnee",
       "english": "Wallet Address",
       "french": "Adresse du portefeuille",
@@ -1205,11 +1697,12 @@
       "korean": "지갑 주소",
       "mandarin": "钱包地址",
       "portuguese": "Endereço da carteira",
+      "russian": "Адрес кошелька",
       "spanish": "Dirección de la billetera",
-      "turkish": "Cüzdan adresi",
-      "russian": "Адрес кошелька"
+      "turkish": "Cüzdan adresi"
     },
     "walletConnect": {
+      "amharic": "ዋሌት ኮኔክት",
       "dutch": "Portemonnee verbindt",
       "english": "Wallet connect",
       "french": "Portefeuille",
@@ -1218,11 +1711,12 @@
       "korean": "지갑 연결",
       "mandarin": "钱包连接",
       "portuguese": "Carteira Connect",
+      "russian": "Подключение кошелька",
       "spanish": "Billetera conectar",
-      "turkish": "Cüzdanı bağla",
-      "russian": "Подключение кошелька"
+      "turkish": "Cüzdanı bağla"
     },
     "wasmBasedDeploy": {
+      "amharic": "በWasm መተከል",
       "dutch": "Wasme gebaseerde implementatie",
       "english": "Wasm Based Deploy",
       "french": "Déploiement basé sur WASM",
@@ -1231,11 +1725,12 @@
       "korean": "WASM 기반 배포",
       "mandarin": "基于WASM的部署",
       "portuguese": "Implantação baseada em WASM",
+      "russian": "Развертывание на основе WASM",
       "spanish": "Despliegue basado en WASM",
-      "turkish": "WASM Tabanlı Dağıtım",
-      "russian": "Развертывание на основе WASM"
+      "turkish": "WASM Tabanlı Dağıtım"
     },
     "youSend": {
+      "amharic": "የሚላኩት",
       "dutch": "Jij stuurt",
       "english": "You Send",
       "french": "Vous envoyez",
@@ -1244,9 +1739,9 @@
       "korean": "당신은 보낸다",
       "mandarin": "您发送",
       "portuguese": "Você envia",
+      "russian": "Вы отправляете",
       "spanish": "Usted envía",
-      "turkish": "Sen sen",
-      "russian": "Вы отправляете"
+      "turkish": "Sen sen"
     }
   }
 }

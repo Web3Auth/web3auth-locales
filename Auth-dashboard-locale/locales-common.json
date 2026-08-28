@@ -1,6 +1,7 @@
 {
   "common": {
     "apply-changes": {
+      "amharic": "ቀይር ተፈጽም",
       "dutch": "Wijzigingen toepassen",
       "english": "Apply changes",
       "french": "Appliquer les modifications",
@@ -13,6 +14,7 @@
       "turkish": "Değişiklikleri uygula"
     },
     "backup-phrase-copied": {
+      "amharic": "የመልሶ ሐረግ ቅድመ ቅጂ ተደርጓል",
       "dutch": "Herstelzin gekopieerd",
       "english": "Backup Phrase Copied",
       "french": "Phrase de sauvegarde copiée",
@@ -24,6 +26,7 @@
       "spanish": "Frase de respaldo copiada"
     },
     "cancel": {
+      "amharic": "ይቅር",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -35,6 +38,7 @@
       "spanish": "Cancelar"
     },
     "close": {
+      "amharic": "ዝጋ",
       "dutch": "Sluiten",
       "english": "Close",
       "french": "Fermer",
@@ -46,6 +50,7 @@
       "spanish": "Cerrar"
     },
     "confirm": {
+      "amharic": "አረጋግጥ",
       "dutch": "Bevestigen",
       "english": "Confirm",
       "french": "Confirmer",
@@ -57,6 +62,7 @@
       "spanish": "Confirmar"
     },
     "copier-copied": {
+      "amharic": "ተቀድቷል!",
       "dutch": "Gekopieerd!",
       "english": "Copied!",
       "french": "Copié!",
@@ -68,6 +74,7 @@
       "spanish": "Copiado!"
     },
     "copier-copy": {
+      "amharic": "ቅጂ ወደ ቁራጭ ቦታ",
       "dutch": "Kopiëren naar klembord",
       "english": "Copy to clipboard",
       "french": "Copier dans le presse-papiers",
@@ -79,6 +86,7 @@
       "spanish": "Copiar al portapapeles"
     },
     "copier-manage-account": {
+      "amharic": "አካውንት አስተዳድር",
       "dutch": "Account beheren",
       "english": "Manage account",
       "french": "Gérer le compte",
@@ -90,6 +98,7 @@
       "spanish": "Administrar cuenta"
     },
     "copier-privacy-policy": {
+      "amharic": "የግል መረጃ ፖሊሲ",
       "dutch": "Privacybeleid",
       "english": "Privacy policy",
       "french": "Politique de confidentialité",
@@ -101,6 +110,7 @@
       "spanish": "Política de privacidad"
     },
     "copier-terms-of-use": {
+      "amharic": "የአጠቃቀም ህጎች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of use",
       "french": "Conditions d'utilisation",
@@ -112,6 +122,7 @@
       "spanish": "Condiciones de uso"
     },
     "copy-paste": {
+      "amharic": "ቅጂ እና መለጠፍ",
       "dutch": "Kopiëren en plakken",
       "english": "Copy and Paste",
       "french": "Copier coller",
@@ -123,6 +134,7 @@
       "spanish": "Copiar y pegar"
     },
     "copy-recovery-phrase": {
+      "amharic": "መልሶ ሐረግ ቅዳ",
       "dutch": "Herstelzin kopiëren",
       "english": "Copy Recovery Phrase",
       "french": "Copier la phrase de récupération",
@@ -134,6 +146,7 @@
       "spanish": "Copiar frase de recuperación"
     },
     "errors-incorrect-mnemonic": {
+      "amharic": "የተሳሳተ share mnemonic",
       "dutch": "Onjuiste gedeelde mnemonische code",
       "english": "Incorrect share mnemonic",
       "french": "Mnémonique de partage incorrect",
@@ -145,6 +158,7 @@
       "spanish": "Mnemónico compartido incorrecto"
     },
     "errors-incorrect-password": {
+      "amharic": "የተሳሳተ የይለፍ ቃል",
       "dutch": "Onjuist wachtwoord",
       "english": "Incorrect password",
       "french": "Mot de passe incorrect",
@@ -156,6 +170,7 @@
       "spanish": "Contraseña incorrecta"
     },
     "errors-invalid-email": {
+      "amharic": "ልክ ያልሆነ ኢሜይል",
       "dutch": "Ongeldig e-mailadres",
       "english": "Invalid email",
       "french": "Email invalide",
@@ -167,6 +182,7 @@
       "spanish": "Email inválido"
     },
     "errors-invalid-mnemonic": {
+      "amharic": "የተሳሳተ መሞኒክ ሐረግ",
       "dutch": "Ongeldige mnemonische zin",
       "english": "Invalid mnemonic phrase",
       "french": "Phrase mnémonique invalide",
@@ -178,6 +194,7 @@
       "spanish": "Frase mnemotécnica no válida"
     },
     "errors-invalid-password": {
+      "amharic": "ቢያንስ 10 ቁምፊ መያዝ አለበት፤ ቢያንስ አንድ ትልቅ ፊደል፣ አንድ ትንሽ ፊደል፣ አንድ ቁጥር መካተት አለበት",
       "dutch": "Moet minimaal 10 tekens bevatten. Minimaal één hoofdletter, één kleine letter, één cijfer",
       "english": "Must contain at least 10 characters. At least one uppercase letter, one lowercase letter, one number",
       "french": "Doit contenir au moins 10 caractères. Au moins une lettre majuscule, une lettre minuscule, un chiffre",
@@ -189,6 +206,7 @@
       "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número"
     },
     "errors-mismatch-password": {
+      "amharic": "የይለፍ ቃል መዛመድ አለበት",
       "dutch": "Wachtwoord moet overeenkomen",
       "english": "Password must match",
       "french": "Le mot de passe doit correspondre",
@@ -201,6 +219,7 @@
       "turkish": "Şifre eşleşmelidir"
     },
     "errors-required": {
+      "amharic": "ያስፈልጋል",
       "dutch": "Verplicht",
       "english": "Required",
       "french": "Requis",
@@ -212,6 +231,7 @@
       "spanish": "Requerido"
     },
     "errors-same-email-verifier": {
+      "amharic": "ኢሜይል ከማህበራዊ መግቢያ መለያ ጋር መመሳሰል አይችልም",
       "dutch": "E-mail kan niet hetzelfde zijn als de sociale login-ID",
       "english": "Email cannot be the same as the social login id",
       "french": "L'e-mail ne peut pas être identique à l'ID de connexion sociale",
@@ -223,6 +243,7 @@
       "spanish": "El correo electrónico no puede ser el mismo que la identificación de inicio de sesión social"
     },
     "factor1-social-login": {
+      "amharic": "ፋክተር 1፦ ማህበራዊ መግቢያ",
       "dutch": "Factor 1: Sociale login",
       "english": "Factor 1: Social Login",
       "french": "Facteur 1: Connexion sociale",
@@ -234,6 +255,7 @@
       "spanish": "Factor 1: inicio de sesión social"
     },
     "factor2-devices": {
+      "amharic": "መሣሪያዎች",
       "dutch": "Apparaten",
       "english": "Devices",
       "french": "Appareils",
@@ -246,6 +268,7 @@
       "turkish": "Cihazlar"
     },
     "factor3-social-recovery": {
+      "amharic": "ማህበራዊ መልሶ ማግኛ",
       "dutch": "Sociaal herstel",
       "english": "Social Recovery",
       "french": "Récupération sociale",
@@ -258,6 +281,7 @@
       "turkish": "Sosyal Kurtarma"
     },
     "last-accessed-on": {
+      "amharic": "መጨረሻ ጊዜ የተጠቀሙበት፦",
       "dutch": "Laatst bezocht op:",
       "english": "Last accessed on:",
       "french": "Dernier accès le:",
@@ -269,6 +293,7 @@
       "spanish": "Último acceso el:"
     },
     "learn-more": {
+      "amharic": "ተጨማሪ ማስተላለፊያ",
       "dutch": "Meer informatie",
       "english": "Learn more",
       "french": "En savoir plus",
@@ -280,6 +305,7 @@
       "spanish": "Aprende más"
     },
     "new-device-detected": {
+      "amharic": "አዲስ መሣሪያ ተገኝቷል",
       "dutch": "Nieuw apparaat gedetecteerd",
       "english": "New device detected",
       "french": "Nouveau périphérique détecté",
@@ -291,6 +317,7 @@
       "spanish": "Nuevo dispositivo detectado"
     },
     "or": {
+      "amharic": "ወይም",
       "dutch": "of",
       "english": "or",
       "french": "ou",
@@ -302,6 +329,7 @@
       "spanish": "o"
     },
     "other-factor-pwd": {
+      "amharic": "ሌሎች ፋክተሮች፦ የይለፍ ቃል",
       "dutch": "Andere factoren: wachtwoord",
       "english": "Other Factors: Password",
       "german": "Andere Faktoren: Passwort",
@@ -312,6 +340,7 @@
       "spanish": "Otros factores: contraseña"
     },
     "password": {
+      "amharic": "የይለፍ ቃል",
       "dutch": "Wachtwoord",
       "english": "Password",
       "french": "Mot de passe",
@@ -324,6 +353,7 @@
       "turkish": "Şifre"
     },
     "password-label": {
+      "amharic": "የይለፍ ቃል ያስገቡ",
       "dutch": "Voer wachtwoord in",
       "english": "Enter password",
       "french": "Entrez le mot de passe",
@@ -335,6 +365,7 @@
       "spanish": "Ingresa tu password"
     },
     "phone": {
+      "amharic": "ስልክ",
       "dutch": "Telefoon",
       "english": "Phone",
       "french": "Téléphone",
@@ -346,6 +377,7 @@
       "spanish": "Teléfono"
     },
     "powered-by": {
+      "amharic": "በ… የተመሰረተ",
       "dutch": "Mogelijk gemaakt door",
       "english": "Powered by",
       "french": "par",
@@ -357,6 +389,7 @@
       "spanish": "por"
     },
     "recovery-phrase-copied": {
+      "amharic": "የመልሶ ሐረግ ቅድመ ቅጂ ተደርጓል",
       "dutch": "Herstelzin gekopieerd",
       "english": "Recovery Phrase Copied",
       "french": "Phrase de récupération copiée",
@@ -368,6 +401,7 @@
       "spanish": "Frase de recuperación copiada"
     },
     "recoveryFactor": {
+      "amharic": "መልሶ ፋክተር",
       "dutch": "Herstelfactor",
       "english": "Recovery Factor",
       "french": "Facteur de récupération",
@@ -379,6 +413,7 @@
       "spanish": "Factor de recuperación"
     },
     "referenceId": {
+      "amharic": "የማመልከቻ ID፦",
       "dutch": "Referentie-ID:",
       "english": "Reference ID:",
       "french": "ID de référence:",
@@ -390,6 +425,7 @@
       "spanish": "Identificación de referencia:"
     },
     "resend-recovery": {
+      "amharic": "መልሶ ፋክተር እንደገና ላክ",
       "dutch": "Herstelfactor opnieuw verzenden",
       "english": "Resend Recovery Factor",
       "french": "Renvoyer le facteur de récupération",
@@ -401,6 +437,7 @@
       "spanish": "Factor de recuperación de reenvío"
     },
     "secured-by": {
+      "amharic": "በ… ተደህንነት ተጠብቋል",
       "dutch": "Beveiligd door",
       "english": "Secured by",
       "french": "Sécurisé par",
@@ -412,6 +449,7 @@
       "spanish": "Asegurado por"
     },
     "selfCustodial": {
+      "amharic": "በራስ-እንከባከብ መግቢያ በ",
       "dutch": "Zelfbewarend inloggen door",
       "english": "Self-custodial login by",
       "french": "Connexion en libre-service par",
@@ -423,6 +461,7 @@
       "spanish": "Inicio de sesión auto-custodiado por"
     },
     "social": {
+      "amharic": "ማህበራዊ",
       "dutch": "Sociaal",
       "english": "Social",
       "french": "Social",
@@ -434,6 +473,7 @@
       "spanish": "Social"
     },
     "toast-authenticator-share-delete-fail": {
+      "amharic": "የኦተንቲኬተር መተግበሪያን ማቋረጥ አልተሳካም",
       "dutch": "Kan de Authenticator-app niet ontkoppelen",
       "english": "Failed to unlink the Authenticator App",
       "french": "Échec de la dissociation de l'application Authenticator",
@@ -446,6 +486,7 @@
       "turkish": "Authenticator Uygulamasının bağlantısı kaldırılamadı"
     },
     "toast-authenticator-share-delete-success": {
+      "amharic": "የኦተንቲኬተር መተግበሪያ በተሳካ ሁኔታ ተቋርጧል",
       "dutch": "Authenticator-app is succesvol ontkoppeld",
       "english": "Authenticator App unlinked successfully",
       "french": "Application d'authentification dissociée avec succès",
@@ -458,6 +499,7 @@
       "turkish": "Authenticator Uygulamasının bağlantısı başarıyla kaldırıldı"
     },
     "toast-backup-phase-email-send-success": {
+      "amharic": "የመልሶ ሐረግ ወደ ኢሜይልዎ ተልኳል",
       "dutch": "Back-upzin verzonden naar uw e-mail",
       "english": "Backup Phrase sent to your email",
       "french": "Phrase de sauvegarde envoyée à votre adresse e-mail",
@@ -469,6 +511,7 @@
       "spanish": "Frase de seguridad enviada a su correo electrónico"
     },
     "toast-backup-phase-email-send-timeout": {
+      "amharic": "የመልሶ ሐረግ ወደ ኢሜይል በመላክ ጊዜ ጊዜ አበታ፣ እባክዎ instead ይውሰዱ",
       "dutch": "Time-out bij het verzenden van de back-upzin naar uw e-mail. Download in plaats daarvan de back-upzin",
       "english": "Timeout when sending Backup phrase to your email. Please download Backup phrase instead",
       "french": "Délai d'attente lors de l'envoi de la phrase de sauvegarde à votre e-mail. Veuillez télécharger la phrase de sauvegarde à la place",
@@ -480,6 +523,7 @@
       "spanish": "Tiempo de espera al enviar la frase de respaldo a su correo electrónico. Descargue la frase de respaldo en su lugar"
     },
     "toast-backup-phase-send-fail": {
+      "amharic": "የመልሶ ሐረግ መላክ አልተቻለም",
       "dutch": "Kan back-upzin niet verzenden",
       "english": "Unable to send Backup Phrase",
       "french": "Impossible d'envoyer la phrase de sauvegarde",
@@ -491,6 +535,7 @@
       "spanish": "No se pudo enviar la frase de respaldo"
     },
     "toast-backup-phase-send-success": {
+      "amharic": "የመልሶ ሐረግ በተሳካ ሁኔታ ተልኳል",
       "dutch": "Back-upzin succesvol verzonden",
       "english": "Backup Phrase successfully sent",
       "french": "Phrase de sauvegarde envoyée avec succès",
@@ -502,6 +547,7 @@
       "spanish": "Frase de seguridad enviada con éxito"
     },
     "toast-backup-share-verification-fail": {
+      "amharic": "የBackup Share ማረጋገጫ አልተሳካም",
       "dutch": "Verificatie van gedeelde back-up is mislukt",
       "english": "Backup Share verification failed",
       "french": "Échec de la vérification du partage de sauvegarde",
@@ -513,6 +559,7 @@
       "spanish": "Error en la verificación del recurso compartido de copia de seguridad"
     },
     "toast-device-share-delete-fail": {
+      "amharic": "የመሣሪያ share መሰረዝ አልተሳካም",
       "dutch": "Verwijderen van gedeelde apparaat is mislukt",
       "english": "Device share deletion unsuccessful",
       "french": "Échec de la suppression du partage de l'appareil",
@@ -524,6 +571,7 @@
       "spanish": "No se pudo eliminar el dispositivo compartido"
     },
     "toast-device-share-delete-success": {
+      "amharic": "የመሣሪያ share በተሳካ ሁኔታ ተሰርዟል",
       "dutch": "Apparaat delen succesvol verwijderd",
       "english": "Device share successfully deleted",
       "french": "Partage de périphérique supprimé avec succès",
@@ -535,6 +583,7 @@
       "spanish": "Dispositivo compartido eliminado correctamente"
     },
     "toast-passkey-share-delete-fail": {
+      "amharic": "ፓስኪ ማቋረጥ አልተሳካም",
       "dutch": "Kan de toegangssleutel niet ontkoppelen",
       "english": "Failed to unlink the Passkey",
       "french": "Échec de la dissociation du mot de passe",
@@ -547,6 +596,7 @@
       "turkish": "Geçiş Anahtarının bağlantısı kaldırılamadı"
     },
     "toast-passkey-share-delete-success": {
+      "amharic": "ፓስኪ በተሳካ ሁኔታ ተቋርጧል",
       "dutch": "Wachtwoord is succesvol ontkoppeld",
       "english": "Passkey unlinked successfully",
       "french": "Clé d'accès dissociée avec succès",
@@ -559,6 +609,7 @@
       "turkish": "Şifre anahtarının bağlantısı başarıyla kaldırıldı"
     },
     "toast-password-change-fail": {
+      "amharic": "የይለፍ ቃል መቀየር አልተሳካም",
       "dutch": "Wachtwoordwijziging mislukt",
       "english": "Password change unsuccessful",
       "french": "Échec du changement de mot de passe",
@@ -570,6 +621,7 @@
       "spanish": "Cambio de contraseña fallido"
     },
     "toast-password-change-success": {
+      "amharic": "የይለፍ ቃል በተሳካ ሁኔታ ተቀይሯል",
       "dutch": "Wachtwoord succesvol gewijzigd",
       "english": "Password successfully changed",
       "french": "Mot de passe modifié avec succès",
@@ -581,6 +633,7 @@
       "spanish": "Contraseña cambiada correctamente"
     },
     "toast-password-share-delete-fail": {
+      "amharic": "የይለፍ ቃል share መሰረዝ አልተሳካም",
       "dutch": "Verwijderen van wachtwoord delen is mislukt",
       "english": "Password share deletion unsuccessful",
       "french": "Échec de la suppression du partage de mot de passe",
@@ -593,6 +646,7 @@
       "turkish": "Şifre paylaşımının silinmesi başarısız oldu"
     },
     "toast-password-share-delete-success": {
+      "amharic": "የይለፍ ቃል share በተሳካ ሁኔታ ተሰርዟል",
       "dutch": "Wachtwoord delen succesvol verwijderd",
       "english": "Password share successfully deleted",
       "french": "Le partage de mot de passe a été supprimé avec succès",
@@ -605,6 +659,7 @@
       "turkish": "Şifre paylaşımı başarıyla silindi"
     },
     "toast-password-verification-fail": {
+      "amharic": "የይለፍ ቃል ማረጋገጫ አልተሳካም",
       "dutch": "Wachtwoordverificatie mislukt",
       "english": "Password verification failed",
       "french": "Échec de la vérification du mot de passe",
@@ -616,6 +671,7 @@
       "spanish": "Falló la verificación de la contraseña"
     },
     "toast-recovery-share-delete-fail": {
+      "amharic": "የRecovery share መሰረዝ አልተሳካም",
       "dutch": "Het verwijderen van de herstelshare is mislukt",
       "english": "Recovery share deletion failed",
       "french": "Échec de la suppression du partage de récupération",
@@ -627,6 +683,7 @@
       "spanish": "Error al eliminar el recurso compartido de recuperación"
     },
     "toast-recovery-share-delete-success": {
+      "amharic": "Recovery share በተሳካ ሁኔታ ተሰርዟል",
       "dutch": "Herstelshare succesvol verwijderd",
       "english": "Recovery share deleted successfully",
       "french": "Partage de récupération supprimé avec succès",
@@ -638,6 +695,7 @@
       "spanish": "El recurso compartido de recuperación se eliminó correctamente"
     },
     "toast-registration-failed": {
+      "amharic": "ምዝገባ አልተሳካም",
       "dutch": "Registratie mislukt",
       "english": "Registration failed",
       "french": "L'enregistrement a échoué",
@@ -649,6 +707,7 @@
       "spanish": "Registro fallido"
     },
     "toast-require-verification": {
+      "amharic": "ተጨማሪ የማረጋገጫ ግብዣ ያስፈልጋል",
       "dutch": "Vereis een andere verificatie-invoer",
       "english": "Require another verification input",
       "french": "Exiger une autre entrée de vérification",
@@ -660,6 +719,7 @@
       "spanish": "Requerir otra entrada de verificación"
     },
     "toast-share-transfer-fail": {
+      "amharic": "Share ማስተላለፍ አልተሳካም",
       "dutch": "Delen mislukt",
       "english": "Share transfer failed",
       "french": "Échec du transfert de partage",
@@ -671,6 +731,7 @@
       "spanish": "Error al transferir el recurso compartido"
     },
     "toast-social-share-delete-fail": {
+      "amharic": "የማህበራዊ መልሶ ማግኛ share መሰረዝ አልተሳካም",
       "dutch": "Het verwijderen van het Social Recovery-aandeel is mislukt",
       "english": "Social Recovery share deletion unsuccessful",
       "french": "Échec de la suppression du partage de récupération sociale",
@@ -683,6 +744,7 @@
       "turkish": "Social Recovery paylaşımının silinmesi başarısız oldu"
     },
     "toast-social-share-delete-success": {
+      "amharic": "የማህበራዊ መልሶ ማግኛ share በተሳካ ሁኔታ ተሰርዟል",
       "dutch": "Social Recovery-aandeel succesvol verwijderd",
       "english": "Social Recovery share successfully deleted",
       "french": "Partage de récupération sociale supprimé avec succès",
@@ -695,6 +757,7 @@
       "turkish": "Sosyal Kurtarma paylaşımı başarıyla silindi"
     },
     "toast-something-went-wrong": {
+      "amharic": "ነገር ተሳስቷል",
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
       "french": "Quelque chose s'est mal passé",
@@ -706,6 +769,7 @@
       "spanish": "Algo salió mal"
     },
     "webAuthentication": {
+      "amharic": "የድር ማረጋገጫ (Web Authentication)",
       "dutch": "Webauthenticatie",
       "english": "Web Authentication",
       "french": "Authentification Web",

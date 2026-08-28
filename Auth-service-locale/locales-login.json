@@ -1,6 +1,7 @@
 {
   "login": {
     "2fa-cpy-desc": {
+      "amharic": "አካውንትዎን እንዴት መመለስ እንደሚችሉ ለማረጋገጥ እንፈልጋለን",
       "dutch": "We willen er alleen voor zorgen dat u weet hoe u uw account kunt herstellen.",
       "english": "We just want to make sure you know how to recover your account.",
       "french": "Nous voulons juste nous assurer que vous savez comment récupérer votre compte.",
@@ -13,6 +14,7 @@
       "turkish": "Sadece hesabınızı nasıl kurtaracağınızı bildiğinizden emin olmak istiyoruz."
     },
     "2fa-device-save-desc": {
+      "amharic": "ይህን መሣሪያ እንደ 2ኛ ፋክተር በመጠቀም ዋሌትዎን ያረጋግጡ እና ይጠብቁ",
       "dutch": "Gebruik het huidige apparaat als tweede factor om uw portemonnee te verifiëren en te beveiligen",
       "english": "Use current device as a 2nd factor to verify and secure your wallet",
       "french": "Utilisez l'appareil actuel comme deuxième facteur pour vérifier et sécuriser votre portefeuille.",
@@ -25,6 +27,7 @@
       "turkish": "Bu cihazı cüzdanınızı doğrulamak ve güvence altına almak için ikinci faktör olarak kullanın."
     },
     "2fa-device-save-input-label": {
+      "amharic": "ይህን መሣሪያ ያቆዩ እንደ",
       "dutch": "Dit apparaat opslaan als",
       "english": "Save this device as",
       "french": "Enregistrer cet appareil sous",
@@ -37,6 +40,7 @@
       "turkish": "Bu cihazı şu olarak kaydet"
     },
     "2fa-device-save-title": {
+      "amharic": "መሣሪያዎን እንደ 2ኛ ፋክተር ያቆዩ",
       "dutch": "Sla uw apparaat op als 2e factor",
       "english": "Save your device as 2nd Factor",
       "french": "Enregistrer votre appareil comme deuxième facteur",
@@ -49,6 +53,7 @@
       "turkish": "Cihazınızı ikinci faktör olarak kaydedin"
     },
     "2fa-dwnld-desc": {
+      "amharic": "የመልሶ ፋክተር እንዲሰራ ለማረጋገጥ ይስቀሉ",
       "dutch": "Upload uw herstelfactor om ervoor te zorgen dat het werkt.",
       "english": "Upload your Recovery Factor to ensure it works.",
       "french": "Téléchargez votre facteur de récupération pour vous assurer qu'il fonctionne.",
@@ -61,6 +66,7 @@
       "turkish": "Çalıştığından emin olmak için kurtarma faktörünüzü yükleyin."
     },
     "2fa-pwd-desc": {
+      "amharic": "አካውንትዎን ለመግባት እና እንደ መልሶ ፋክተር ለመጠቀም የሚረዳ የይለፍ ቃል ያቀናብሩ",
       "dutch": "Stel een wachtwoord in dat wordt gebruikt om toegang te krijgen tot uw account en dient als herstelfactor.",
       "english": "Set a password that will be used to access your account and serve as a Recovery Factor.",
       "french": "Définissez un mot de passe qui sera utilisé pour accéder à votre compte et servir de facteur de récupération.",
@@ -73,6 +79,7 @@
       "turkish": "Hesabınıza erişmenizi sağlayacak ve kurtarma faktörü olarak çalışacak bir şifre belirleyin."
     },
     "2fa-pwd-desc2": {
+      "amharic": "ለሂሳብዎ አስቸጋሪ የሆነ የይለፍ ቃል ያቀናብሩ",
       "dutch": "Stel een sterk wachtwoord in dat wordt gebruikt om toegang te krijgen tot uw account",
       "english": "Set a strong password that will be used to access your account",
       "french": "Définissez un mot de passe fort qui sera utilisé pour accéder à votre compte",
@@ -85,6 +92,7 @@
       "turkish": "Hesabınıza erişmek için kullanılacak güçlü bir şifre belirleyin"
     },
     "2fa-pwd-title": {
+      "amharic": "የይለፍ ቃል እንደ መልሶ ፋክተር ያቀናብሩ",
       "dutch": "Stel wachtwoord in als herstelfactor",
       "english": "Set password as Recovery Factor",
       "french": "Définir le mot de passe comme facteur de récupération",
@@ -97,6 +105,7 @@
       "turkish": "Kurtarma faktörü için bir şifre belirleyin."
     },
     "2fa-pwd-title2": {
+      "amharic": "የይለፍ ቃል ያቀናብሩ",
       "dutch": "Stel een wachtwoord in",
       "english": "Set up a Password",
       "french": "Configurer un mot de passe",
@@ -109,6 +118,7 @@
       "turkish": "Bir Şifre Ayarlayın"
     },
     "2fa-recovery-copied-subDesc": {
+      "amharic": "የተቀደውን ፋክተር ያስገቡ",
       "dutch": "Voer de gekopieerde herstelfactor in",
       "english": "Enter the copied recovery factor",
       "french": "Entrez le facteur de récupération copié",
@@ -121,6 +131,7 @@
       "turkish": "Kopyalanan kurtarma faktörünü girin"
     },
     "2fa-recovery-cpy-subDesc": {
+      "amharic": "ወደ {email} የተላከውን መልሶ ሐረግ ያስገቡ",
       "dutch": "Voer de herstelzin in die is verzonden naar {email}",
       "english": "Enter recovery phrase sent to {email}",
       "french": "Saisissez la phrase de récupération envoyée à {email}",
@@ -133,6 +144,7 @@
       "turkish": "{email} adresine gönderilen kurtarma ifadesini girin"
     },
     "2fa-recovery-cpy-subTitle": {
+      "amharic": "የመልሶ ፋክተር ማረጋገጫ",
       "dutch": "Herstelfactorverificatie",
       "english": "Recovery Factor Verification",
       "french": "Vérification du facteur de récupération",
@@ -145,6 +157,7 @@
       "turkish": "Kurtarma Faktörü Doğrulaması"
     },
     "2fa-recovery-cpy-textArea": {
+      "amharic": "መልሶ ሐረግ ይለጥፉ",
       "dutch": "Plak uw herstelzin",
       "english": "Paste your recovery phrase",
       "french": "Collez votre phrase de récupération",
@@ -157,6 +170,7 @@
       "turkish": "Kurtarma metninizi yapıştırın."
     },
     "2fa-recovery-downloaded-subDesc": {
+      "amharic": "የተወረደውን ፋክተር ያስገቡ",
       "dutch": "Upload de gedownloade herstelfactor",
       "english": "Upload the downloaded recovery factor",
       "french": "Téléchargez le facteur de récupération téléchargé",
@@ -169,6 +183,7 @@
       "turkish": "İndirilen kurtarma faktörünü yükleyin"
     },
     "2fa-recovery-factor-desc": {
+      "amharic": "የመልሶ ፋክተር ለመቀበል ኢሜይል ያስገቡ፣ ዋሌትዎን ለመመለስ ያስፈልጋል",
       "dutch": "Voer uw e-mailadres in om een herstelfactor voor uw portemonnee te ontvangen. U heeft het nodig om uw portemonnee te herstellen.",
       "english": "Input your email to receive a wallet Recovery Factor. You need it to recover your wallet.",
       "french": "Entrez votre e-mail pour recevoir un facteur de récupération de portefeuille. Vous en avez besoin pour récupérer votre portefeuille.",
@@ -181,6 +196,7 @@
       "turkish": "Cüzdanınıza bir kurtarma faktörü almak için e-postanızı girin. Cüzdanınızı kurtarmak için ihtiyacınız olacak."
     },
     "2fa-recovery-factor-desc2": {
+      "amharic": "የመልሶ ሐረግ ለመቀበል ኢሜይል ያስገቡ፣ ዋሌትዎን ለመመለስ ያስፈልጋል",
       "dutch": "Voer uw e-mailadres in om een ​​portemonnee-herstelzin te ontvangen. Je hebt het nodig om je portemonnee te herstellen.",
       "english": "Input your email to receive a wallet recovery phrase. You need it to recover your wallet.",
       "french": "Saisissez votre e-mail pour recevoir une phrase de récupération de portefeuille. Vous en avez besoin pour récupérer votre portefeuille.",
@@ -193,6 +209,7 @@
       "turkish": "Cüzdan kurtarma ifadesini almak için e-postanızı girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var."
     },
     "2fa-recovery-factor-send-btn": {
+      "amharic": "መልሶ ፋክተር ላክልኝ",
       "dutch": "Stuur mij mijn herstelfactor",
       "english": "Send me my recovery factor",
       "french": "Envoyez-moi mon facteur de récupération",
@@ -205,6 +222,7 @@
       "turkish": "Kurtarma faktörümü gönder."
     },
     "2fa-recovery-factor-title": {
+      "amharic": "መልሶ ፋክተር አግኝ",
       "dutch": "Mijn herstelfactor ophalen",
       "english": "Get my Recovery Factor",
       "french": "Obtenez mon facteur de récupération",
@@ -217,6 +235,7 @@
       "turkish": "Kurtarma faktörümü al"
     },
     "2fa-recovery-factor-title2": {
+      "amharic": "መልሶ ሐረግ አግኝ",
       "dutch": "Ontvang mijn herstelzin",
       "english": "Get my Recovery Phrase",
       "french": "Obtenir ma phrase de récupération",
@@ -229,6 +248,7 @@
       "turkish": "Kurtarma İfademi Alın"
     },
     "2fa-setup-done-sub1": {
+      "amharic": "አሁን ወደ {0} ቀጥል",
       "dutch": "Ga nu door naar {0}",
       "english": "Proceed to {0} now",
       "french": "Procédez à {0} maintenant",
@@ -241,6 +261,7 @@
       "turkish": "{0}'a git"
     },
     "2fa-setup-done-title1": {
+      "amharic": "መልሶ ፋክተርዎ ተዘጋጅቷል",
       "dutch": "Uw herstelfactor is ingesteld",
       "english": "Your Recovery factor is setup",
       "french": "Votre facteur de récupération est configuré",
@@ -253,6 +274,7 @@
       "turkish": "Kurtarma faktörünüz hazır"
     },
     "2fa-setup-step1-next": {
+      "amharic": "2FA ያቀናብሩ",
       "dutch": "2FA instellen",
       "english": "Set up 2FA",
       "french": "Configurer 2FA",
@@ -265,6 +287,7 @@
       "turkish": "2FA'yı kur"
     },
     "2fa-setup-step1-sub1": {
+      "amharic": "2 የማረጋገጫ ፋክተሮች ያንቀሳቅሱ",
       "dutch": "Activeer 2-factor authenticatie (2FA)",
       "english": "Enable 2 Factor Authentication (2FA)",
       "french": "Activer l'authentification à 2 facteurs (2FA)",
@@ -277,6 +300,7 @@
       "turkish": "2 Adımlı Doğrulamayı (2FA) aktive et"
     },
     "2fa-setup-step1-sub1-desc": {
+      "amharic": "አካውንትዎን ለመጠበቅ ተጨማሪ የደህንነት ንብረት ይጨምሩ",
       "dutch": "Voeg een extra beveiligingslaag toe aan uw account. Elke login vereist 2 factoren voor authenticatie",
       "english": "Add an extra layer of security to your account. Each login requires 2 factors for authentication",
       "french": "Ajoutez une couche de sécurité supplémentaire à votre compte, chaque connexion nécessite 2 facteurs pour l'authentification",
@@ -289,6 +313,7 @@
       "turkish": "Hesabınıza bir güvenlik adımı daha ekleyin. Her oturum açma sırasında kimlik doğrulama iki faktör ile tamamlanır."
     },
     "2fa-setup-step2-confirm-note": {
+      "amharic": "ብራውዘር ታሪክና ኩኪዎች መሰረዝ ይህን ፋክተር ያጠፋዋል ብዬ እረዳለሁ",
       "dutch": "Ik begrijp dat het wissen van de browsergeschiedenis en cookies deze factor op mijn browser zal verwijderen.",
       "english": "I understand that clearing browser history and cookies will delete this factor on my browser.",
       "french": "Je comprends que l'effacement de l'historique du navigateur et des cookies supprimera ce facteur de mon navigateur.",
@@ -301,6 +326,7 @@
       "turkish": "Geçmişi ve çerezleri temizlemenin tarayıcımdaki bu faktörü sileceğini anlıyorum."
     },
     "2fa-setup-step3-download": {
+      "amharic": "የመልሶ ሐረግ አውርድ",
       "dutch": "Download mijn herstelfrase",
       "english": "Download my recovery phrase",
       "french": "Télécharger ma phrase de récupération",
@@ -313,6 +339,7 @@
       "turkish": "Kurtarma metnimi indir"
     },
     "2fa-setup-step3-email": {
+      "amharic": "ኢሜይል",
       "dutch": "E-mail",
       "english": "Email",
       "french": "Email",
@@ -325,6 +352,7 @@
       "turkish": "E-posta"
     },
     "2fa-setup-step4-check-time": {
+      "amharic": "አልደረሰም? እንደገና ተልኳል፣ በ{0} ደግሞ ይፈትሹ",
       "dutch": "Niet ontvangen? Opnieuw versturen. Controleer opnieuw in {0}",
       "english": "Did not receive it? Resent. Check again in {0}",
       "french": "Vous ne l'avez pas reçu ? Renvoyez. Vérifiez à nouveau dans {0}",
@@ -337,6 +365,7 @@
       "turkish": "Almadınız mı? Tekrar gönder. {0} süre sonra bir daha kontrol edin"
     },
     "2fa-setup-step4-contact-support": {
+      "amharic": "ድጋፍ ያነጋግሩ",
       "dutch": "Neem contact op met de ondersteuning",
       "english": "Contact Support",
       "french": "Contacter le support",
@@ -349,6 +378,7 @@
       "turkish": "İletişim Desteği"
     },
     "2fa-setup-step4-not-received": {
+      "amharic": "አልደረሰም?",
       "dutch": "Niet ontvangen?",
       "english": "Did not receive it?",
       "french": "Vous ne l'avez pas reçu ?",
@@ -361,6 +391,7 @@
       "turkish": "Almadınız mı?"
     },
     "2fa-setup-step4-resend": {
+      "amharic": "እንደገና ላክ",
       "dutch": "Opnieuw verzenden",
       "english": "Resend",
       "french": "Renvoyer",
@@ -373,6 +404,7 @@
       "turkish": "Tekrar gönder"
     },
     "2fa-setup-step5-next": {
+      "amharic": "ተከናውኗል",
       "dutch": "Klaar",
       "english": "Done",
       "french": "Terminé",
@@ -385,6 +417,7 @@
       "turkish": "Tamamlandı"
     },
     "2fa-setup-title1": {
+      "amharic": "አካውንትዎን ያጠናክሩ",
       "dutch": "Beveilig uw account",
       "english": "Secure your account",
       "french": "Sécurisez votre compte",
@@ -397,6 +430,7 @@
       "turkish": "Hesabınızı güvence altına alın."
     },
     "2fa-social-backup-social": {
+      "amharic": "ተጨማሪ ማህበራዊ",
       "dutch": "Maak een back-up van sociaal",
       "english": "Backup social",
       "french": "Sauvegarde sociale",
@@ -409,6 +443,7 @@
       "turkish": "Sosyal yedekleme"
     },
     "2fa-social-desc": {
+      "amharic": "መልሶ ፋክተር ለመቅረጽ ከእነዚህ አንዱን ይመርጡ",
       "dutch": "Ga verder met een van de volgende stappen om het als uw herstelfactor in te stellen.",
       "english": "Continue with one of the following to set it as your recovery factor.",
       "french": "Continuez avec l'un des éléments suivants pour le définir comme facteur de récupération.",
@@ -421,6 +456,7 @@
       "turkish": "Seçeneklerden bir tanesini kurtarma faktörünüz olarak belirleyin."
     },
     "2fa-social-desc2": {
+      "amharic": "ሌላ ማህበራዊ መለያ በመጠቀም ወይም SMS OTP በመቀበል ይጠቀሙ",
       "dutch": "Gebruik een ander sociaal account als back-up of ontvang een sms-OTP op uw telefoon.",
       "english": "Use a different social account as backup or receive an SMS OTP on your phone.",
       "french": "Utilisez un autre compte social comme sauvegarde ou recevez un SMS OTP sur votre téléphone.",
@@ -433,6 +469,7 @@
       "turkish": "Yedek olarak farklı bir sosyal hesap kullanın veya telefonunuza bir SMS OTP alın."
     },
     "2fa-social-register-to": {
+      "amharic": "ተመዝግቦ ወደ",
       "dutch": "Geregistreerd bij",
       "english": "Registered to",
       "french": "Inscrit à",
@@ -445,6 +482,7 @@
       "turkish": "Kayıtlı"
     },
     "2fa-social-title": {
+      "amharic": "የማህበራዊ መልሶ ፋክተር ያቀናብሩ",
       "dutch": "Stel een sociaal herstelfactor in",
       "english": "Set up a Social recovery factor",
       "french": "Configurer un facteur de récupération social",
@@ -457,6 +495,7 @@
       "turkish": "Sosyal kurtarma faktörü ayarlayın"
     },
     "2fa-verify-save-save": {
+      "amharic": "ይህን መሣሪያ ያቆዩ",
       "dutch": "Dit apparaat opslaan",
       "english": "Save this device",
       "french": "Enregistrer cet appareil",
@@ -469,6 +508,7 @@
       "turkish": "Bu cihazı kaydet"
     },
     "accountMismatchAuthenticatorFactor": {
+      "amharic": "መለያ አይዛመድም፣ የኦተንቲኬተር ፋክተር የተመዘገበውን ይጠቀሙ",
       "dutch": "Account komt niet overeen, ga verder met degene die je hebt ingesteld als authenticator app factor",
       "english": "Account mismatch, please continue with one you set as an authenticator app factor",
       "french": "Incompatibilité du compte, veuillez continuer avec celui que vous avez défini comme facteur d'application d'authentification",
@@ -481,6 +521,7 @@
       "turkish": "Hesap uyuşmazlığı, lütfen kimlik doğrulama uygulaması faktörü olarak belirlediğiniz bir hesapla devam edin"
     },
     "accountMismatchSocialFactor": {
+      "amharic": "መለያ አይዛመድም፣ የማህበራዊ መልሶ ፋክተር የተመዘገበውን ይጠቀሙ",
       "dutch": "Account komt niet overeen, ga verder met degene die je hebt ingesteld als sociaal herstelfactor",
       "english": "Account mismatch, please continue with one you set as a social recovery factor",
       "french": "Incompatibilité du compte, veuillez continuer avec celui que vous avez défini comme facteur de récupération sociale",
@@ -493,6 +534,7 @@
       "turkish": "Hesap eşleşmiyor, lütfen sosyal kurtarma faktörü olarak belirlediğiniz hesap ile devam edin."
     },
     "addPasskey": {
+      "amharic": "ፓስኪ ያክሉ",
       "dutch": "Voeg Passkey toe",
       "english": "Add Passkey",
       "french": "Ajouter",
@@ -504,6 +546,7 @@
       "spanish": "Agregar PassKey"
     },
     "authenticator-setup-cta": {
+      "amharic": "ኦተንቲኬተር ያክሉ",
       "dutch": "Authenticator toevoegen",
       "english": "Add Authenticator",
       "french": "Ajouter un authentificateur",
@@ -516,6 +559,7 @@
       "turkish": "Kimlik Doğrulayıcı Ekle"
     },
     "authenticator-setup-desc": {
+      "amharic": "የኦተንቲኬተር መተግበሪያዎትን በመጠቀም ይህንን QR ኮድ ይስክኑ",
       "dutch": "Gebruik uw authenticatie-app (bijv. Google Authenticator of Authy) om deze QR-code te scannen.",
       "english": "Use your authentication app (e.g. Google Authenticator or Authy) to scan this QR code.",
       "french": "Utilisez votre application d'authentification (par exemple Google Authenticator ou Authy) pour scanner ce code QR.",
@@ -528,6 +572,7 @@
       "turkish": "Bu QR kodunu tarayarak kimlik doğrulama uygulamanızı (ör. Google Authenticator veya Authy) kullanın."
     },
     "authenticator-setup-title": {
+      "amharic": "ኦተንቲኬተር መተግበሪያ ያቀናብሩ",
       "dutch": "Authenticator App instellen",
       "english": "Set up Authenticator App",
       "french": "Configurer l'application Authenticator",
@@ -540,6 +585,7 @@
       "turkish": "Authenticator Uygulamasını ayarla"
     },
     "connect-email": {
+      "amharic": "በኢሜይል ይገናኙ",
       "dutch": "Verbinden met e-mail",
       "english": "Connect with Email",
       "french": "Connectez-vous avec votre e-mail",
@@ -552,6 +598,7 @@
       "turkish": "E-posta ile eşleştir"
     },
     "connect-phone": {
+      "amharic": "በስልክ ይገናኙ",
       "dutch": "Verbinden met telefoon",
       "english": "Connect with Phone",
       "french": "Connectez-vous avec votre téléphone",
@@ -564,6 +611,7 @@
       "turkish": "Telefon ile eşleştir"
     },
     "connect-phone-email": {
+      "amharic": "በስልክ ወይም ኢሜይል ይገናኙ",
       "dutch": "Verbinden met telefoon of e-mail",
       "english": "Connect with Phone or Email",
       "french": "Connectez-vous avec votre téléphone ou votre e-mail",
@@ -576,6 +624,7 @@
       "turkish": "Telefon ya da e-posta ile eşleştir"
     },
     "constructYourKey": {
+      "amharic": "ቁልፍዎ በመፍጠር ላይ",
       "dutch": "Uw sleutel construeren op",
       "english": "Constructing your key on",
       "french": "Construction de votre clé sur",
@@ -588,6 +637,7 @@
       "turkish": "Anahtarınızı oluşturun"
     },
     "continue-with": {
+      "amharic": "ቀጥሉ በ…",
       "dutch": "Doorgaan met",
       "english": " Continue with ",
       "french": " Continuer avec ",
@@ -600,6 +650,7 @@
       "turkish": "Şununla devam et"
     },
     "enable-mfa": {
+      "amharic": "MFA ያንቀሳቅሱ",
       "dutch": "Schakel MFA in",
       "english": "Enable MFA",
       "french": "Activer MFA",
@@ -612,6 +663,7 @@
       "turkish": "MFA'yı etkinleştir"
     },
     "enable-mfa-continue-as": {
+      "amharic": "እንደ {0} ቀጥሉ",
       "dutch": "Ga door als {0}",
       "english": "Continue as {0}",
       "french": "Continuez comme {0}",
@@ -624,6 +676,7 @@
       "turkish": "{0} olarak devam et"
     },
     "enable-mfa-continue-with": {
+      "amharic": "በ{0} ቀጥሉ",
       "dutch": "Ga door met {0}",
       "english": "Continue with {0}",
       "french": "Continuer avec {0}",
@@ -636,6 +689,7 @@
       "turkish": "{0} ile devam et"
     },
     "enable-mfa-ensure-security": {
+      "amharic": "የተጨማሪ ደህንነት ለማጠናከር እንደገና ይግቡ፣ MFA ከተጀመረ በኋላ መሰረዝ አይቻልም",
       "dutch": "Meld u opnieuw aan voor verbeterde beveiliging om uw MFA -instellingen te configureren. Merk op dat MFA permanent wordt zodra het is ingesteld.",
       "english": "For enhanced security, sign in once more to configure your MFA settings. Note that MFA becomes permanent once set up.",
       "french": "Pour une sécurité améliorée, connectez-vous à nouveau pour configurer vos paramètres MFA. Notez que le MFA devient permanent une fois mis en place.",
@@ -648,6 +702,7 @@
       "turkish": "Gelişmiş güvenlik için MFA ayarlarınızı yapılandırmak üzere bir kez daha oturum açın. MFA kurulduktan sonra kalıcı hale geleceğini unutmayın."
     },
     "incorrectBackupPhrase": {
+      "amharic": "የተሳሳተ መልሶ ሐረግ",
       "dutch": "Onjuiste back-upzin",
       "english": "Incorrect backup phrase",
       "french": "Phrase de sauvegarde incorrecte",
@@ -660,6 +715,7 @@
       "turkish": "Hatalı yedek kurtarma metni"
     },
     "invalid-number-error-message": {
+      "amharic": "የተሳሳተ የስልክ ቁጥር",
       "dutch": "Ongeldig telefoonnummer",
       "english": "Invalid phone number",
       "french": "Numéro de téléphone invalide",
@@ -672,6 +728,7 @@
       "turkish": "Hatalı telefon numarası"
     },
     "learnMore": {
+      "amharic": "ተጨማሪ ይወቁ",
       "dutch": "Kom meer te weten",
       "english": "Learn more",
       "french": "Apprendre encore plus",
@@ -683,6 +740,7 @@
       "spanish": "Mas información"
     },
     "manage-mfa": {
+      "amharic": "MFA ያቀናብሩ",
       "dutch": "Beheer MFA",
       "english": "Manage MFA",
       "french": "Gérer MFA",
@@ -695,6 +753,7 @@
       "turkish": "MFA'yı yönetin"
     },
     "manage-mfa-ensure-security": {
+      "amharic": "ተጨማሪ ዘዴዎችን ማቀናበር ይችላሉ",
       "dutch": "Meld u opnieuw aan voor verbeterde beveiliging om uw MFA -instellingen te configureren.",
       "english": "For enhanced security, sign in once more to configure your MFA settings.",
       "french": "Pour une sécurité améliorée, connectez-vous à nouveau pour configurer vos paramètres MFA.",
@@ -707,6 +766,7 @@
       "turkish": "Gelişmiş güvenlik için, MFA ayarlarınızı yapılandırmak için bir kez daha oturum açın."
     },
     "mfa-add-desc": {
+      "amharic": "ተጨማሪ ዘዴዎች ያቀናብሩ",
       "dutch": "U kunt ervoor kiezen om meer methoden in te stellen om de beveiliging en herstelbaarheid van uw account verder te verbeteren",
       "english": "You may choose to set up more methods in order to further enhance security and recoverability of your account",
       "french": "Vous pouvez choisir de configurer davantage de méthodes afin d'améliorer davantage la sécurité et la récupérabilité de votre compte.",
@@ -719,6 +779,7 @@
       "turkish": "Hesabınızın güvenliğini ve kurtarılabilirliğini daha da artırmak için daha fazla yöntem ayarlamayı seçebilirsiniz."
     },
     "mfa-add-title": {
+      "amharic": "አካውንትዎ እንዲታደግ ሁለት የማረጋገጫ ፋክተሮች ያስፈልጋሉ",
       "dutch": "Stel aanvullende methoden in",
       "english": "Set up additional methods",
       "french": "Configurer des méthodes supplémentaires",
@@ -731,6 +792,7 @@
       "turkish": "Ek yöntemler ayarlayın"
     },
     "mfa-enable-desc": {
+      "amharic": "ባለብዙ ፋክተር ማረጋገጫ (MFA) ያበረከቱ",
       "dutch": "Om ervoor te zorgen dat uw account veilig blijft, zijn voor het inloggen ten minste twee authenticatiefactoren vereist. Zodra deze functie is ingeschakeld, kan deze niet meer worden uitgeschakeld",
       "english": "To ensure your account remains secure, login will require at least two authentication factors. Once this feature is enabled, it cannot be disabled",
       "french": "Pour garantir la sécurité de votre compte, la connexion nécessitera au moins deux facteurs d'authentification. Une fois cette fonctionnalité activée, elle ne peut pas être désactivée",
@@ -743,6 +805,7 @@
       "turkish": "Hesabınızın güvende kalmasını sağlamak için giriş yaparken en az iki kimlik doğrulama faktörü gerekir. Bu özellik etkinleştirildikten sonra devre dışı bırakılamaz"
     },
     "mfa-enable-title": {
+      "amharic": "በMFA ተነሳ ዳግም መግባት ሁለት ፋክተሮች ያስፈልጋል፣ ከተጀመረ በኋላ ማጥፋት አይቻልም",
       "dutch": "Schakel Multi Factor Authenticatie (MFA) in",
       "english": "Enable Multi Factor Authentication (MFA)",
       "french": "Activer l'authentification multifacteur (MFA)",
@@ -755,6 +818,7 @@
       "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Etkinleştir"
     },
     "mfa-setup-desc": {
+      "amharic": "MFA ከተነሳ በኋላ ዳግም መግባት ሁለት የማረጋገጫ ፋክተሮች ይፈልጋል፣ እንዲሁም ከተነሳ በኋላ ማጥፋት አይቻልም",
       "dutch": "Als MFA is ingeschakeld, zijn voor opnieuw inloggen twee authenticatiefactoren vereist. Eenmaal ingeschakeld, kan het niet meer worden uitgeschakeld",
       "english": "With MFA enabled, relogin will require two authentication factors. Once enabled, it cannot be disabled",
       "french": "Avec MFA activé, la reconnexion nécessitera deux facteurs d’authentification. Une fois activé, il ne peut pas être désactivé",
@@ -767,6 +831,7 @@
       "turkish": "MFA etkinleştirildiğinde, yeniden oturum açmak için iki kimlik doğrulama faktörü gerekir. Etkinleştirildikten sonra devre dışı bırakılamaz"
     },
     "mfa-setup-title": {
+      "amharic": "ባለብዙ ፋክተር ማረጋገጫ (MFA) ያቀናብሩ",
       "dutch": "Multi-Factor Authenticatie (MFA) instellen",
       "english": "Set up Multi Factor Authentication (MFA)",
       "french": "Configurer l'authentification multifacteur (MFA)",
@@ -779,6 +844,7 @@
       "turkish": "Çok Faktörlü Kimlik Doğrulamayı (MFA) Ayarlama"
     },
     "mfa-switch-method": {
+      "amharic": "ወደ ሌላ ዘዴ ይቀይሩ",
       "dutch": "Schakel over naar een andere methode",
       "english": "Switch to another method",
       "french": "Passer à une autre méthode",
@@ -791,6 +857,7 @@
       "turkish": "Başka bir yönteme geç"
     },
     "mpc-2fa-setup-step3-download": {
+      "amharic": "የመልሶ ፋክተር አውርድ",
       "dutch": "Download mijn herstelfactor",
       "english": "Download my recovery factor",
       "french": "Télécharger mon facteur de récupération",
@@ -803,6 +870,7 @@
       "turkish": "Kurtarma faktörümü indir"
     },
     "mpc-2fa-setup-step3-sub1": {
+      "amharic": "የመልሶ ፋክተር ለመቀበል ኢሜይል ያቅርቡ",
       "dutch": "Geef een e-mailadres op om het herstelfactor te ontvangen",
       "english": "Provide an email to receive recovery factor",
       "french": "Fournir un e-mail pour recevoir le facteur de récupération",
@@ -815,6 +883,7 @@
       "turkish": "Kurtarma faktörü alabilmek için bir e-posta girin"
     },
     "mpc-2fa-setup-step3-sub2": {
+      "amharic": "ተቀማጭ ብራውዘርዎን ቢያጣችሁ፣ በመልሶ ፋክተር መረጋገጥ ትችላላችሁ",
       "dutch": "Als u geen toegang meer heeft tot uw opgeslagen browser, kunt u zich authenticeren met uw herstelfactor.",
       "english": "In case you lose access to your saved browser, you can authenticate with your recovery factor.",
       "french": "Si vous perdez l'accès à votre navigateur enregistré, vous pouvez vous authentifier avec votre facteur de récupération.",
@@ -827,6 +896,7 @@
       "turkish": "Eğer kaytılı tarayıcınıza erişiminizi kaybederseniz kurtarma faktörünüz ile kimliğinizi doğrulayabilirsiniz"
     },
     "mpc-2fa-setup-step4-recovery": {
+      "amharic": "መልሶ ፋክተር",
       "dutch": "Herstelfactor",
       "english": "Recovery factor",
       "french": "Facteur de récupération",
@@ -839,6 +909,7 @@
       "turkish": "Kurtarma faktörü"
     },
     "mpc-2fa-setup-step4-sub1": {
+      "amharic": "መልሶ ፋክተርዎን ያረጋግጡ",
       "dutch": "Verifieer uw herstelfactor",
       "english": "Verify your recovery factor",
       "french": "Vérifiez votre facteur de récupération",
@@ -851,6 +922,7 @@
       "turkish": "Kurtarma faktörünüzü doğrulayın"
     },
     "mpc-2fa-setup-step4-sub21": {
+      "amharic": "መልሶ ፋክተሩን ይለጥፉ",
       "dutch": "Plak het herstelfactor",
       "english": "Paste the recovery factor",
       "french": "Collez le facteur de récupération",
@@ -863,6 +935,7 @@
       "turkish": "Kurtarma faktörünü yapıştırın"
     },
     "mpc-2fa-setup-step4-sub22": {
+      "amharic": "ወደ ኢሜይልዎ {0} የተላከውን መልሶ ፋክተር ይለጥፉ",
       "dutch": "Plak de herstelfactor die naar uw e-mail {0} is gestuurd",
       "english": "Paste the recovery factor sent to your email {0}",
       "french": "Collez le facteur de récupération envoyé à votre e-mail {0}",
@@ -875,6 +948,7 @@
       "turkish": "{0} e-postanıza gönderilen kurtarma faktörünü yapıştırın"
     },
     "mpc-2fa-setup-step42-sub1": {
+      "amharic": "መልሶ ሐረግ ያረጋግጡ",
       "dutch": "Controleer uw herstelzin",
       "english": "Verify your recovery phrase",
       "french": "Vérifiez votre phrase de récupération",
@@ -887,6 +961,7 @@
       "turkish": "Kurtarma ifadenizi doğrulayın"
     },
     "mpc-2fa-setup-title3": {
+      "amharic": "መልሶ ፋክተር ያቆዩ",
       "dutch": "Herstelfactor opslaan",
       "english": "Save recovery factor",
       "french": "Enregistrer le facteur de récupération",
@@ -899,6 +974,7 @@
       "turkish": "Kurtarma faktörünü kaydedin"
     },
     "mpc-2fa-verify-step1-panel2": {
+      "amharic": "መልሶ ፋክተር",
       "dutch": "Herstelfactor",
       "english": "Recovery factor",
       "french": "Facteur de récupération",
@@ -911,6 +987,7 @@
       "turkish": "Kurtarma faktörü"
     },
     "mpc-2fa-verify-step1-rec-label": {
+      "amharic": "መልሶ ፋክተር ያስገቡ",
       "dutch": "Voer herstelfactor in",
       "english": "Enter recovery factor",
       "french": "Entrez le facteur de récupération",
@@ -923,6 +1000,7 @@
       "turkish": "Kurtarma faktörünü girin"
     },
     "mpc-2fa-verify-step1-rec-placeholder": {
+      "amharic": "መልሶ ፋክተር",
       "dutch": "Herstelfactor",
       "english": "Recovery factor",
       "french": "Facteur de récupération",
@@ -935,6 +1013,7 @@
       "turkish": "Kurtarma faktörü"
     },
     "pageReloadWarning": {
+      "amharic": "እባክዎ ገጹን አትቀልብሱ",
       "dutch": "Gelieve de pagina niet opnieuw te laden.",
       "english": "Please do not reload the page.",
       "french": "Veuillez ne pas recharger la page.",
@@ -947,6 +1026,7 @@
       "turkish": "Lütfen sayfayı yenilemeyin"
     },
     "passkeyAdd": {
+      "amharic": "ፓስኪ ያክሉ",
       "dutch": "Voeg een Passkey toe",
       "english": "Add a passkey",
       "french": "Ajouter un Passkey",
@@ -959,6 +1039,7 @@
       "turkish": "Bir passkey ekleyin"
     },
     "passkeyBrowserNotSupported": {
+      "amharic": "የፓስኪ ተግባር እንዲሰራ ከታች ያሉትን የተደጋጋሚ ብራውዘሮች ይጠቀሙ",
       "dutch": "Om Passkeys -functionaliteit te garanderen, zorg er dan voor dat u hieronder ondersteunde browsers gebruikt",
       "english": "To ensure Passkeys functionality, please ensure you use any supported browsers below",
       "french": "Pour assurer la fonctionnalité de PassKeys, veuillez vous assurer d'utiliser les navigateurs pris en charge ci-dessous",
@@ -971,6 +1052,7 @@
       "turkish": "Passkeys işlevselliğini sağlamak için lütfen aşağıda desteklenen tarayıcıları kullandığınızdan emin olun"
     },
     "passkeyDesc": {
+      "amharic": "በፓስኪ ፊት፣ ፊት መቅረጽ፣ እጅ አሻራ ወይም ስክሪን ሎክ በመጠቀም መረጋገጥ ይችላሉ",
       "dutch": "Met Passkeys kunt u uw identiteit verifiëren door uw gezicht, vingerafdruk of schermvergrendeling",
       "english": "With passkeys, you can verify your identity through your face, fingerprint, or screen lock",
       "french": "Avec Passkeys, vous pouvez vérifier votre identité à travers votre visage, vos empreintes digitales ou verrouillage d'écran",
@@ -982,6 +1064,7 @@
       "spanish": "Con Passkeys, puede verificar su identidad a través de su cara, huella digital o bloqueo de pantalla"
     },
     "passkeyDetail1": {
+      "amharic": "የይለፍ ቃል መታወሻ አያስፈልግም",
       "dutch": "U hoeft geen wachtwoorden te onthouden",
       "english": "No need to remember passwords",
       "french": "Pas besoin de mémoriser les mots de passe",
@@ -994,6 +1077,7 @@
       "turkish": "Şifreleri hatırlamanıza gerek yok"
     },
     "passkeyDetail1Desc": {
+      "amharic": "በፓስኪ ፊት፣ እጅ አሻራ ወይም ስክሪን ሎክ በመጠቀም ትክክለኛውን መሆንዎን ማረጋገጥ ይችላሉ",
       "dutch": "Met passkey kunt u inloggen met uw vingerafdruk, gezichtsvergrendeling of schermvergrendeling om te verifiëren dat u het echt bent",
       "english": "With passkey, you can log in using fingerprint, face or screen lock to verify that it’s really you",
       "french": "Avec passkey, vous pouvez vous connecter en utilisant votre empreinte digitale, votre visage ou le verrouillage de l'écran pour vérifier qu'il s'agit bien de vous.",
@@ -1006,6 +1090,7 @@
       "turkish": "passkey ile parmak izi, yüz veya ekran kilidini kullanarak giriş yaparak bu kişinin gerçekten siz olduğunuzu doğrulayabilirsiniz"
     },
     "passkeyDetail2": {
+      "amharic": "በሁሉም ተዛማጅ መሣሪያዎች ላይ ይሰራል",
       "dutch": "Werkt op al uw compatibele apparaten",
       "english": "Works on all your compatible devices",
       "french": "Fonctionne sur tous vos appareils compatibles",
@@ -1018,6 +1103,7 @@
       "turkish": "Tüm uyumlu cihazlarınızda çalışır"
     },
     "passkeyDetail2Desc": {
+      "amharic": "ፓስኪዎች በተዛመዱ መሣሪያዎች ላይ በራሱ ይገኛሉ፣ ለራስዎ ያሉ መሣሪያዎች ብቻ ያቀናብሩ",
       "dutch": "Passkeys zijn automatisch beschikbaar op gesynchroniseerde apparaten. Stel alleen passkeys in op apparaten waarvan u de eigenaar bent.",
       "english": "Passkeys will automatically be available on synced devices. Only set up passkeys on devices you own.",
       "french": "Les Passkeys seront automatiquement disponibles sur les appareils synchronisés. Configurez des passkeys uniquement sur les appareils que vous possédez.",
@@ -1030,6 +1116,7 @@
       "turkish": "Passkeys senkronize edilen cihazlarda otomatik olarak kullanılabilecektir. Yalnızca sahip olduğunuz cihazlarda passkeys ayarlayın."
     },
     "passkeyDetail3": {
+      "amharic": "አካውንትዎን ይጠብቃል",
       "dutch": "Garandeert de veiligheid van uw account",
       "english": "Ensures your account’s security",
       "french": "Assure la sécurité de votre compte",
@@ -1042,6 +1129,7 @@
       "turkish": "Hesabınızın güvenliğini sağlar"
     },
     "passkeyDetail3Desc": {
+      "amharic": "ፓስኪ የዘመናዊ ፊሺንግ መከላከያ ይሰጣል",
       "dutch": "Passkey biedt geavanceerde phishing-beveiliging. Wij slaan uw gezichts-, vingerafdruk- of PIN-gegevens niet op.",
       "english": "Passkey provides state-of-the-art phishing protection. We do not store your face, fingerprint or PIN data.",
       "french": "Passkey offre une protection contre le phishing de pointe. Nous ne stockons pas votre visage, vos empreintes digitales ou vos données PIN.",
@@ -1054,6 +1142,7 @@
       "turkish": "Passkey, son teknoloji ürünü kimlik avı koruması sağlar. Yüzünüzü, parmak izinizi veya PIN verilerinizi saklamayız."
     },
     "passkeySetup": {
+      "amharic": "ፊት፣ እጅ አሻራ ወይም PIN መረጃዎትን አናያዝም",
       "dutch": "Passkeys instellen",
       "english": "Set up passkeys",
       "french": "Configurer les passkeys",
@@ -1066,6 +1155,7 @@
       "turkish": "Passkeys ayarlayın"
     },
     "passkeysOsNotSupported": {
+      "amharic": "ቅርብ ነው፣ እንደገና ፓስኪዎን ያረጋግጡ",
       "dutch": "Zorg ervoor dat u onderstaande besturingssystemen gebruikt om Passkeys -functionaliteit te garanderen.",
       "english": "To ensure Passkeys functionality, please ensure you use any supported operating systems below",
       "french": "Pour assurer la fonctionnalité de PassKeys, veuillez vous assurer d'utiliser tous les systèmes d'exploitation pris en charge ci-dessous",
@@ -1078,6 +1168,7 @@
       "turkish": "Passkeys işlevselliğini sağlamak için lütfen aşağıda desteklenen herhangi bir işletim sistemini kullandığınızdan emin olun"
     },
     "passkeyVerification": {
+      "amharic": "ፓስኪዎችን ያቀናብሩ",
       "dutch": "Passkey-verificatie",
       "english": "Passkey Verification",
       "french": "Vérification de la Passkey",
@@ -1090,6 +1181,7 @@
       "turkish": "Passkey Doğrulaması"
     },
     "passkeyVerificationDesc": {
+      "amharic": "የፓስኪ ማረጋገጫ",
       "dutch": "Bijna daar! Bevestig uw passkey nogmaals om er zeker van te zijn dat deze voor dit apparaat is opgeslagen.",
       "english": "Almost there! Just confirm your passkey once more to make sure it's saved for this device.",
       "french": "J'y suis presque ! Confirmez simplement votre passkey une fois de plus pour vous assurer qu'il est enregistré pour cet appareil.",
@@ -1102,6 +1194,7 @@
       "turkish": "Neredeyse orada! Bu cihaz için kaydedildiğinden emin olmak için passkey bir kez daha onaylamanız yeterlidir."
     },
     "password-verification": {
+      "amharic": "ፓስኪ እንዲሰራ የሚያገለግሉ የስርዓት ኦፕሬቲንግ ሲስተሞችን ይጠቀሙ",
       "dutch": "Wachtwoordverificatie",
       "english": "Password verification",
       "french": "Vérification du mot de passe",
@@ -1114,6 +1207,7 @@
       "turkish": "Şifre doğrulama"
     },
     "password-verification-desc": {
+      "amharic": "የይለፍ ቃል ማረጋገጫ",
       "dutch": "Voer uw herstelwachtwoord in om te verifiëren",
       "english": "Enter your recovery password to verify",
       "french": "Entrez votre mot de passe de récupération pour vérifier",
@@ -1126,6 +1220,7 @@
       "turkish": "Kimliğinizi doğrulamak için kurtarma şifrenizi girin"
     },
     "pasteRecoveryFactor": {
+      "amharic": "መልሶ የይለፍ ቃል ያስገቡ ለማረጋገጥ",
       "dutch": "Plak alsjeblieft je herstelfactor",
       "english": "Please paste your recovery factor",
       "french": "Veuillez coller votre facteur de récupération",
@@ -1138,6 +1233,7 @@
       "turkish": "Lütfen kurtarma faktörünüzü yapıştırın"
     },
     "phone-email-label": {
+      "amharic": "እባክዎ መልሶ ፋክተሩን ይለጥፉ",
       "dutch": "Telefoon of e-mail",
       "english": "Phone or Email",
       "french": "Téléphone ou e-mail",
@@ -1150,6 +1246,7 @@
       "turkish": "Telefon ya da e-posta"
     },
     "reconstruct-authenticator-title": {
+      "amharic": "ስልክ ወይም ኢሜይል",
       "dutch": "Authenticator-app herstellen",
       "english": "Authenticator app",
       "french": "Application d'authentification",
@@ -1162,6 +1259,7 @@
       "turkish": "Kimlik doğrulama uygulaması"
     },
     "reconstruct-device-desc1": {
+      "amharic": "ኦተንቲኬተር መተግበሪያ",
       "dutch": "Inloggen op",
       "english": "Login to",
       "french": "Se connecter à",
@@ -1174,6 +1272,7 @@
       "turkish": "Giriş yap"
     },
     "reconstruct-device-desc2": {
+      "amharic": "ይግቡ ወደ",
       "dutch": "van een van de volgende apparaten om de beveiligingsverificatie te voltooien.",
       "english": "from any of the following devices to complete the security verification.",
       "french": "à partir de l'un des appareils suivants pour compléter la vérification de sécurité.",
@@ -1186,6 +1285,7 @@
       "turkish": "güvenlik doğrulamasını tamamlamak için bu cihazlardan herhangi biri"
     },
     "reconstruct-password-title": {
+      "amharic": "ከታች ያሉት መሣሪያዎች ውስጥ ከአንዱ ይጠቀሙ ለደህንነት ማረጋገጫ ማጠናቀቅ",
       "dutch": "Herstel wachtwoord",
       "english": "Recovery password",
       "french": "Mot de passe de récupération",
@@ -1198,6 +1298,7 @@
       "turkish": "Kurtarma şifresi"
     },
     "recovery-factor-sent-to": {
+      "amharic": "በ{date} ወደ {email} የተላከውን መልሶ ሐረግ ያስገቡ፣ ወይም በኢሜይልዎ ካልተገኘ በ{link} ይመለሱት",
       "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}, of als deze niet in uw e -mail staat, kunt u deze ophalen op {link}",
       "english": "Input the recovery phrase sent to {email} on {date}, or if it's not in your email, you may retrieve it at {link}",
       "french": "Entrez la phrase de récupération envoyée à {email} au {date}, ou si ce n'est pas dans votre e-mail, vous pouvez le récupérer sur {link}",
@@ -1210,6 +1311,7 @@
       "turkish": "{email}'e şu {date}'te gönderilen kurtarma metnini girin, eğer gelen kutunuzda yoksa {link} bu linkten tekrar alabilirsiniz."
     },
     "recovery-factor-sent-to-custom-verifier": {
+      "amharic": "በ{date} ወደ {email} የተላከውን መልሶ ሐረግ ያስገቡ",
       "dutch": "Voer de herstelzin in die is verzonden naar {email} op {date}",
       "english": "Input the recovery phrase sent to {email} on {date}",
       "french": "Entrez la phrase de récupération envoyée à {email} à {date}",
@@ -1222,6 +1324,7 @@
       "turkish": "{email}'e şu {date}'te gönderilen kurtarma metnini girin"
     },
     "register-skip": {
+      "amharic": "ለጊዜው ይዝለው",
       "dutch": "Nu overslaan",
       "english": "Skip for Now",
       "french": "Passer pour le moment",
@@ -1234,6 +1337,7 @@
       "turkish": "Şimdilik atla"
     },
     "register-subtitle": {
+      "amharic": "ከእነዚህ አንዱን ይምረጡ",
       "dutch": "Selecteer een van de volgende",
       "english": "Select one of the following",
       "french": "Sélectionnez l'une des options suivantes",
@@ -1246,6 +1350,7 @@
       "turkish": "Şunlardan bir tanesini seçin"
     },
     "register-subtitle-additional-security": {
+      "amharic": "የአካውንትዎ ደህንነት አስፈላጊ ነው፣ እንደገና እንያቀናብረው",
       "dutch": "Uw accountbeveiliging is belangrijk. Laten we het backuppen.",
       "english": "Your account security matters. Let’s back it up.",
       "french": "La sécurité de votre compte est importante. Sauvegardons-le.",
@@ -1258,6 +1363,7 @@
       "turkish": "Hesap güvenliğiniz önemli. Hadi yedekleyelim."
     },
     "register-title": {
+      "amharic": "የ{0} አካውንትዎን በመደረግ ላይ",
       "dutch": "Beveilig uw {0} account",
       "english": "Securing your {0} account",
       "french": "Sécurisation de votre compte {0}",
@@ -1270,6 +1376,7 @@
       "turkish": "{0} hesabınızı güvenceye alıyoruz"
     },
     "register-title-additional-security": {
+      "amharic": "ከመውጣትዎ በፊት አንድ የመጨረሻ ደረጃ",
       "dutch": "Een laatste stap voordat je gaat",
       "english": "One last step before you go",
       "french": "Une dernière étape avant de partir",
@@ -1282,6 +1389,7 @@
       "turkish": "Gitmeden son bir adım daha"
     },
     "registerPasskey": {
+      "amharic": "ፓስኪ ይመዝገቡ",
       "dutch": "Registreer een Passkey",
       "english": "Register a Passkey",
       "french": "Enregistrez un Passkey",
@@ -1294,6 +1402,7 @@
       "turkish": "Bir Passkey kaydedin"
     },
     "returning-continue": {
+      "amharic": "በ{0} ቀጥሉ",
       "dutch": "Doorgaan met {0}",
       "english": "Continue with {0}",
       "french": "Continuer avec {0}",
@@ -1306,6 +1415,7 @@
       "turkish": "{0} ile devam et"
     },
     "simplifyPasskeyRegister": {
+      "amharic": "ከፓስኪዎች ጋር 2FA ይቀላል",
       "dutch": "Vereenvoudig uw 2FA met Passkeys",
       "english": "Simplify your 2FA with Passkeys",
       "french": "Simplifiez votre 2FA avec Passkeys",
@@ -1318,6 +1428,7 @@
       "turkish": "Passkeys ile 2FA'nızı basitleştirin"
     },
     "social-2fa-used-passwordless": {
+      "amharic": "{0} መግቢያ አስቀድሞ ተጠቅመዋል፣ ሌላ የመልሶ ዘዴ ይምረጡ",
       "dutch": "{0} login is niet beschikbaar omdat het is gebruikt voor uw login, selecteer een andere optie voor herstel.",
       "english": "{0} login is not available since it has been used for your login, please select another option for recovery.",
       "french": "La connexion {0} n'est pas disponible car elle a été utilisée pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
@@ -1330,6 +1441,7 @@
       "turkish": "{0} şuan giriş yapılamıyor çünkü giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
     },
     "social-2fa-used-social": {
+      "amharic": "{0} አስቀድሞ ተጠቅመዋል፣ ሌላ የመልሶ ዘዴ ይምረጡ",
       "dutch": "{0} is gebruikt voor uw aanmelding, selecteer een andere optie voor herstel.",
       "english": "{0} has been used for your login, please select another option for recovery.",
       "french": "{0} a été utilisé pour votre connexion, veuillez sélectionner une autre option pour la récupération.",
@@ -1342,6 +1454,7 @@
       "turkish": "{0} giriş yapılırken kullanılmıştı, lütfen kurtarma için başka bir seçenek seçin"
     },
     "social-2fa-view-less": {
+      "amharic": "ያነሰ",
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
@@ -1354,6 +1467,7 @@
       "turkish": "Daha az göster"
     },
     "social-2fa-view-more": {
+      "amharic": "ተጨማሪ",
       "dutch": "Bekijk meer",
       "english": "View more",
       "french": "Voir plus",
@@ -1366,6 +1480,7 @@
       "turkish": "Daha fazla göster"
     },
     "social-factor-verification": {
+      "amharic": "የማህበራዊ ፋክተር ማረጋገጫ",
       "dutch": "Verificatie van sociale factoren",
       "english": "Social factor verification",
       "french": "Vérification du facteur social",
@@ -1378,6 +1493,7 @@
       "turkish": "Sosyal faktör doğrulaması"
     },
     "social-factor-verification-desc": {
+      "amharic": "በተመዘገበው የማህበራዊ መልሶ ፋክተር ቀጥሉ",
       "dutch": "Ga verder met degene die u als sociaal herstelfactor heeft ingesteld",
       "english": "Continue with one you set as a Social recovery factor",
       "french": "Continuez avec celui que vous avez défini comme facteur de récupération sociale",
@@ -1390,6 +1506,7 @@
       "turkish": "Sosyal kurtarma faktörü olarak belirlediğiniz ile devam edin"
     },
     "social-label": {
+      "amharic": "ተጨማሪ የማህበራዊ መለያ",
       "dutch": "Maak een back-up van een sociaal account",
       "english": "Backup Social Account",
       "french": "Compte social de sauvegarde",
@@ -1402,6 +1519,7 @@
       "turkish": "Sosyal Hesabı Yedekle"
     },
     "social-label-tooltip": {
+      "amharic": "መለስ የሚለው የማህበራዊ መለያ ከመጀመሪያ መግቢያዎ ጋር መመሳሰል የለበትም",
       "dutch": "Zorg ervoor dat uw back-up sociale account niet hetzelfde is als uw primaire login.",
       "english": "Ensure your backup social account is not the same as your primary login.",
       "french": "Assurez-vous que votre compte social de sauvegarde n'est pas le même que votre connexion principale.",
@@ -1414,6 +1532,7 @@
       "turkish": "Yedek sosyal hesabınızın birincil giriş bilginizle aynı olmadığından emin olun."
     },
     "tooltip-phone-details": {
+      "amharic": "የአገር ኮድ በራሱ ይታወቃል፣ ከሌላ አገር ስልክ ከሚጠቀሙ ከሆነ ትክክለኛ ኮድ በእጅ ያስገቡ",
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u de juiste landcode handmatig invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
       "french": "Votre code de pays sera détecté automatiquement, mais si vous utilisez un numéro de téléphone d'un pays différent, vous devrez entrer manuellement le code de pays correct.",
@@ -1426,6 +1545,7 @@
       "turkish": "Telefon ülke kodunuz otomatik olarak tespit edilir, ancak eğer başka bir ülkeye ait bir telefon numarası kullanıyorsanız kendiniz girmek zorundasınız."
     },
     "tooltip-phone-header": {
+      "amharic": "የስልክ ቁጥር እና የአገር ኮድ",
       "dutch": "Telefoonnummer en landcode",
       "english": "Phone number and country code",
       "french": "Numéro de téléphone et code de pays",
@@ -1438,6 +1558,7 @@
       "turkish": "Telefon numarası ve ülke kodu"
     },
     "usePasskey": {
+      "amharic": "ፓስኪ ይጠቀሙ",
       "dutch": "Gebruik Passkey",
       "english": "Use Passkey",
       "french": "Utiliser Passkey",
@@ -1449,6 +1570,7 @@
       "spanish": "Usa PassKey"
     },
     "usePasskeyDesc": {
+      "amharic": "ዝግጁ ሲሆኑ በታች ያለውን የፓስኪ አረጋግጫ አዝራር ይጠቀሙ",
       "dutch": "Als u klaar bent, kunt u uw passkey verifiëren via de onderstaande knop.",
       "english": "When you are ready, verify with your passkey using the button below.",
       "french": "Lorsque vous êtes prêt, vérifiez avec votre passkey en utilisant le bouton ci-dessous.",
@@ -1461,6 +1583,7 @@
       "turkish": "Hazır olduğunuzda aşağıdaki düğmeyi kullanarak passkey kodunuzla doğrulayın."
     },
     "verifier-email-desc": {
+      "amharic": "በኢሜይል ቀጥሉ",
       "dutch": "Doorgaan met e-mail",
       "english": "Continue with Email",
       "french": "Continuer avec e-mail",
@@ -1473,6 +1596,7 @@
       "turkish": "E-posta ile devam et"
     },
     "verifier-google-desc": {
+      "amharic": "በGoogle ቀጥሉ",
       "dutch": "Doorgaan met Google",
       "english": "Continue with Google",
       "french": "Continuer avec Google",
@@ -1485,6 +1609,7 @@
       "turkish": "Google ile devam et"
     },
     "verifier-sms-desc-2": {
+      "amharic": "በሞባይል ቀጥሉ",
       "dutch": "Doorgaan met mobiel",
       "english": "Continue with mobile",
       "french": "Continuer avec mobile",
@@ -1497,6 +1622,7 @@
       "turkish": "Mobil cihaz ile devam et"
     },
     "verify-factorList-desc": {
+      "amharic": "ለመቀጠል ከእነዚህ አንዱን ይምረጡ",
       "dutch": "Controleer met een van de volgende om door te gaan",
       "english": "Verify with one of the following to continue",
       "french": "Vérifiez avec l'un des éléments suivants pour continuer",
@@ -1509,6 +1635,7 @@
       "turkish": "Devam etmek için şunlardan birisi ile doğrulayın"
     },
     "verify-with-authenticator-factor-desc": {
+      "amharic": "ከቀድሞ ያቀናብሩት የኦተንቲኬተር መተግበሪያ በመጠቀም ያረጋግጡ",
       "dutch": "Controleer met de authenticator-app die u eerder had opgezet.",
       "english": "Verify with the authenticator app that you had previously set up.",
       "french": "Vérifiez avec l'application d'authentification que vous aviez précédemment configurée.",
@@ -1521,6 +1648,7 @@
       "turkish": "Daha önce kurmuş olduğunuz doğrulayıcı uygulama ile doğrulayın."
     },
     "verify-with-password-factor-desc": {
+      "amharic": "ለመቀጠል ተጨማሪ ፋክተር ይያዙ",
       "dutch": "Controleer met nog een factor om door te gaan",
       "english": "Verify with one more factor to continue",
       "french": "Vérifiez avec un autre facteur pour continuer",
@@ -1533,6 +1661,7 @@
       "turkish": "Devam etmek için bir tane daha faktör ile doğrulayın"
     },
     "verify-with-recovery-factor-desc": {
+      "amharic": "የተላከውን መልሶ ሐረግ ያረጋግጡ",
       "dutch": "Controleer met uw herstelzin die is verzonden om door te gaan",
       "english": "Verify with your recovery phrase sent to continue",
       "french": "Vérifiez avec votre phrase de récupération envoyée pour continuer",
@@ -1545,6 +1674,7 @@
       "turkish": "Devam etmek için size gönderilen kurtarma metni ile doğrulayın"
     },
     "verify-with-social-factor-desc": {
+      "amharic": "በተመዘገበው የማህበራዊ መልሶ ፋክተር ያረጋግጡ",
       "dutch": "Controleer met de sociale herstelfactor die u eerder had opgezet.",
       "english": "Verify with the social recovery factor that you had previously set up.",
       "french": "Vérifiez avec le facteur de récupération sociale que vous aviez créé auparavant.",
@@ -1557,6 +1687,7 @@
       "turkish": "Önceden belirlediğiniz sosyal kurtarma faktörü ile doğrulama yapın"
     },
     "verifyPasskey": {
+      "amharic": "ፓስኪ ያረጋግጡ",
       "dutch": "Verifieer Passkey",
       "english": "Verify Passkey",
       "french": "Vérifier Passkey",

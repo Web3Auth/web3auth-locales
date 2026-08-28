@@ -1,6 +1,7 @@
 {
   "checkout": {
     "allPaymentMethods": {
+      "amharic": "የክፍያ ዘዴዎች ሁሉ",
       "dutch": "Alle betaalmethoden",
       "english": "All payment methods",
       "french": "Tous les moyens de paiement",
@@ -9,11 +10,12 @@
       "korean": "모든 결제 수단",
       "mandarin": "所有付款方式",
       "portuguese": "Todos os métodos de pagamento",
+      "russian": "Все способы оплаты",
       "spanish": "Todos los métodos de pago",
-      "turkish": "Tüm ödeme yöntemleri",
-      "russian": "Все способы оплаты"
+      "turkish": "Tüm ödeme yöntemleri"
     },
     "cancel": {
+      "amharic": "ይቅር",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -22,11 +24,12 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
+      "russian": "Отмена",
       "spanish": "Cancelar",
-      "turkish": "İptal etmek",
-      "russian": "Отмена"
+      "turkish": "İptal etmek"
     },
     "close": {
+      "amharic": "ዝጋ",
       "dutch": "Dichtbij",
       "english": "Close",
       "french": "Fermer",
@@ -35,11 +38,12 @@
       "korean": "닫다",
       "mandarin": "关闭",
       "portuguese": "Fechar",
+      "russian": "Закрыть",
       "spanish": "Cerrar",
-      "turkish": "Kapalı",
-      "russian": "Закрыть"
+      "turkish": "Kapalı"
     },
     "continue": {
+      "amharic": "ቀጥል",
       "dutch": "Doorgaan",
       "english": "Continue",
       "french": "Continuer",
@@ -48,11 +52,12 @@
       "korean": "계속하다",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
-      "turkish": "Devam etmek",
-      "russian": "Продолжить"
+      "turkish": "Devam etmek"
     },
     "for": {
+      "amharic": "ለ",
       "dutch": "voor",
       "english": "for",
       "french": "pour",
@@ -61,11 +66,12 @@
       "korean": "~을 위한",
       "mandarin": "为了",
       "portuguese": "para",
+      "russian": "для",
       "spanish": "para",
-      "turkish": "için",
-      "russian": "для"
+      "turkish": "için"
     },
     "limit": {
+      "amharic": "ገደብ፦",
       "dutch": "Begrenzing:",
       "english": "Limit:",
       "french": "Limite:",
@@ -74,11 +80,12 @@
       "korean": "한계:",
       "mandarin": "限制：",
       "portuguese": "Limite:",
+      "russian": "Лимит:",
       "spanish": "Límite:",
-      "turkish": "Sınır:",
-      "russian": "Лимит:"
+      "turkish": "Sınır:"
     },
     "noProviderSelected": {
+      "amharic": "እስካሁን አንድም አቅራቢ አልተመረጠም",
       "dutch": "Nog geen providers geselecteerd",
       "english": "No Providers Selected Yet",
       "french": "Aucun fournisseur sélectionné pour l'instant",
@@ -87,11 +94,12 @@
       "korean": "아직 선택된 제공업체가 없습니다.",
       "mandarin": "尚未选择提供商",
       "portuguese": "Nenhum provedor selecionado ainda",
+      "russian": "Провайдеры еще не выбраны",
       "spanish": "Aún no se han seleccionado proveedores",
-      "turkish": "Henüz Sağlayıcı Seçilmedi",
-      "russian": "Провайдеры еще не выбраны"
+      "turkish": "Henüz Sağlayıcı Seçilmedi"
     },
     "payWith": {
+      "amharic": "በ… ይክፈሉ",
       "dutch": "Betaal met",
       "english": "Pay with",
       "french": "Payer avec",
@@ -100,11 +108,12 @@
       "korean": "지불",
       "mandarin": "使用。。。支付",
       "portuguese": "Pagar com",
+      "russian": "Оплатить с помощью",
       "spanish": "Pagar con",
-      "turkish": "İle ödemek",
-      "russian": "Оплатить с помощью"
+      "turkish": "İle ödemek"
     },
     "poweredBy": {
+      "amharic": "በ{0} የተነሳ",
       "dutch": "Mogelijk gemaakt door {0}",
       "english": "Powered by {0}",
       "french": "Propulsé par {0}",
@@ -113,11 +122,12 @@
       "korean": "제공: {0}",
       "mandarin": "由{0}提供支持",
       "portuguese": "Desenvolvido por {0}",
+      "russian": "Работает на {0}",
       "spanish": "Desarrollado por {0}",
-      "turkish": "{0} tarafından desteklenmektedir",
-      "russian": "Работает на {0}"
+      "turkish": "{0} tarafından desteklenmektedir"
     },
     "provider": {
+      "amharic": "አቅራቢ",
       "dutch": "Aanbieder",
       "english": "Provider",
       "french": "Fournisseur",
@@ -126,11 +136,12 @@
       "korean": "공급자",
       "mandarin": "提供者",
       "portuguese": "Fornecedor",
+      "russian": "Провайдер",
       "spanish": "Proveedor",
-      "turkish": "Sağlayıcı",
-      "russian": "Провайдер"
+      "turkish": "Sağlayıcı"
     },
     "providerSelectionMsg": {
+      "amharic": "ለመግዛት የሚፈልጉትን እቃ እና የክፍያ ዘዴ ይምረጡ ከሚገኙ አቅራቢዎች ግምት ለማግኘት",
       "dutch": "Selecteer wat u wilt kopen en betaalmethode om offertes van beschikbare aanbieders te krijgen",
       "english": "Select what you want to buy and and payment method to get quotations from available providers",
       "french": "Sélectionnez ce que vous souhaitez acheter et le mode de paiement pour obtenir des devis des fournisseurs disponibles",
@@ -139,11 +150,12 @@
       "korean": "구매하려는 상품과 결제 방법을 선택하여 이용 가능한 제공업체로부터 견적을 받으세요.",
       "mandarin": "选择要购买的商品和付款方式，以从可用供应商处获取报价",
       "portuguese": "Selecione o que deseja comprar e o método de pagamento para obter cotações dos fornecedores disponíveis",
+      "russian": "Выберите, что вы хотите купить, и способ оплаты, чтобы получить котировки от доступных провайдеров",
       "spanish": "Seleccione lo que desea comprar y el método de pago para obtener cotizaciones de los proveedores disponibles.",
-      "turkish": "Mevcut sağlayıcılardan teklif almak için ne satın almak istediğinizi ve ödeme yöntemini seçin",
-      "russian": "Выберите, что вы хотите купить, и способ оплаты, чтобы получить котировки от доступных провайдеров"
+      "turkish": "Mevcut sağlayıcılardan teklif almak için ne satın almak istediğinizi ve ödeme yöntemini seçin"
     },
     "rates": {
+      "amharic": "ዋጋዎች",
       "dutch": "Tarieven",
       "english": "Rates",
       "french": "Les taux",
@@ -152,11 +164,12 @@
       "korean": "요금",
       "mandarin": "价格",
       "portuguese": "Cotações",
+      "russian": "Курсы",
       "spanish": "Tarifas",
-      "turkish": "Oranlar",
-      "russian": "Курсы"
+      "turkish": "Oranlar"
     },
     "redirectMsg": {
+      "amharic": "ወደ ሶስተኛ ወገን ገጽ ትዘለሉ",
       "dutch": "U wordt doorgestuurd naar de pagina van de derde partij",
       "english": "You will be redirected to the third party page",
       "french": "Vous serez redirigé vers la page tierce",
@@ -165,11 +178,12 @@
       "korean": "타사 페이지로 리디렉션됩니다",
       "mandarin": "您将被重定向到第三方页面",
       "portuguese": "Você será redirecionado para a página de terceiros",
+      "russian": "Вы будете перенаправлены на стороннюю страницу",
       "spanish": "Serás redirigido a la página del tercero.",
-      "turkish": "Üçüncü taraf sayfasına yönlendirileceksiniz",
-      "russian": "Вы будете перенаправлены на стороннюю страницу"
+      "turkish": "Üçüncü taraf sayfasına yönlendirileceksiniz"
     },
     "selectProvider": {
+      "amharic": "አቅራቢ ይምረጡ",
       "dutch": "Selecteer Aanbieder",
       "english": "Select Provider",
       "french": "Sélectionnez le fournisseur",
@@ -178,11 +192,12 @@
       "korean": "제공업체 선택",
       "mandarin": "选择提供商",
       "portuguese": "Selecione o provedor",
+      "russian": "Выбрать провайдера",
       "spanish": "Seleccionar Proveedor",
-      "turkish": "Sağlayıcı Seçin",
-      "russian": "Выбрать провайдера"
+      "turkish": "Sağlayıcı Seçin"
     },
     "serviceFee": {
+      "amharic": "የአገልግሎት ክፍያ",
       "dutch": "servicekosten",
       "english": "service fee",
       "french": "frais de service",
@@ -191,11 +206,12 @@
       "korean": "서비스 요금",
       "mandarin": "服务费",
       "portuguese": "taxa de serviço",
+      "russian": "Комиссия за обслуживание",
       "spanish": "tarifa de servicio",
-      "turkish": "servis ücreti",
-      "russian": "Комиссия за обслуживание"
+      "turkish": "servis ücreti"
     },
     "topupSuccess": {
+      "amharic": "ተሙሉ ተሳክቷል",
       "dutch": "Opwaarderen succesvol",
       "english": "Topup Successful",
       "french": "Recharge réussie",
@@ -204,11 +220,12 @@
       "korean": "충전 성공",
       "mandarin": "充值成功",
       "portuguese": "Recarga bem-sucedida",
+      "russian": "Пополнение выполнено  успешно",
       "spanish": "Recarga exitosa",
-      "turkish": "Yükleme Başarılı",
-      "russian": "Пополнение выполнено  успешно"
+      "turkish": "Yükleme Başarılı"
     },
     "transactionFee": {
+      "amharic": "የግብዣ ክፍያ",
       "dutch": "Transactiekosten",
       "english": "Transaction Fee",
       "french": "Frais de transaction",
@@ -217,11 +234,12 @@
       "korean": "거래 수수료",
       "mandarin": "手续费",
       "portuguese": "Taxa de transação",
+      "russian": "Комиссия за транзакцию",
       "spanish": "Tarifa de transacción",
-      "turkish": "İşlem ücreti",
-      "russian": "Комиссия за транзакцию"
+      "turkish": "İşlem ücreti"
     },
     "validationMsg": {
+      "amharic": "እባክዎ ግዢውን ለመጨረስ የመታወቂያ ካርድ/ፓስፖርት ያዘጋጁ",
       "dutch": "Houd uw identiteitskaart/paspoort gereed om de aankoop te voltooien.",
       "english": "Please prepare your Identity Card/Passport to complete the purchase.",
       "french": "Veuillez préparer votre carte d'identité/passeport pour finaliser l'achat.",
@@ -230,11 +248,12 @@
       "korean": "구매를 완료하려면 신분증/여권을 준비하세요.",
       "mandarin": "请准备好您的身份证/护照以完成购买。",
       "portuguese": "Por favor, prepare o seu Bilhete de Identidade/Passaporte para concluir a compra.",
+      "russian": "Пожалуйста, подготовьте удостоверение личности или паспорт для завершения покупки.",
       "spanish": "Por favor prepara tu DNI/Pasaporte para completar la compra.",
-      "turkish": "Satın alma işlemini tamamlamak için lütfen Kimlik Kartınızı/Pasaportunuzu hazırlayın.",
-      "russian": "Пожалуйста, подготовьте удостоверение личности или паспорт для завершения покупки."
+      "turkish": "Satın alma işlemini tamamlamak için lütfen Kimlik Kartınızı/Pasaportunuzu hazırlayın."
     },
     "value": {
+      "amharic": "ዋጋ፦",
       "dutch": "Waarde:",
       "english": "Value:",
       "french": "Valeur:",
@@ -243,11 +262,12 @@
       "korean": "값:",
       "mandarin": "价值：",
       "portuguese": "Valor:",
+      "russian": "Значение:",
       "spanish": "Valor:",
-      "turkish": "Değer:",
-      "russian": "Значение:"
+      "turkish": "Değer:"
     },
     "youBuy": {
+      "amharic": "እርስዎ የሚገዙት",
       "dutch": "Je koopt",
       "english": "You buy",
       "french": "Tu achètes",
@@ -256,11 +276,12 @@
       "korean": "당신은 구매",
       "mandarin": "你买",
       "portuguese": "Você compra",
+      "russian": "Вы покупаете",
       "spanish": "Tu compras",
-      "turkish": "Sen satın al",
-      "russian": "Вы покупаете"
+      "turkish": "Sen satın al"
     },
     "youPay": {
+      "amharic": "እርስዎ የሚክፈሉት",
       "dutch": "Je betaalt",
       "english": "You pay",
       "french": "Tu payes",
@@ -269,11 +290,12 @@
       "korean": "당신은 지불",
       "mandarin": "你付钱",
       "portuguese": "Você paga",
+      "russian": "Вы платите",
       "spanish": "Tu pagas",
-      "turkish": "Öde",
-      "russian": "Вы платите"
+      "turkish": "Öde"
     },
     "youReceive": {
+      "amharic": "እርስዎ የሚቀበሉት",
       "dutch": "Jij ontvangt",
       "english": "You receive",
       "french": "Vous recevez",
@@ -282,11 +304,12 @@
       "korean": "당신은 받는다",
       "mandarin": "你收到",
       "portuguese": "Tu recebes",
+      "russian": "Вы получаете",
       "spanish": "Recibes",
-      "turkish": "Aldığın",
-      "russian": "Вы получаете"
+      "turkish": "Aldığın"
     },
     "youReceived": {
+      "amharic": "እርስዎ ተቀብለዋል",
       "dutch": "Je hebt ontvangen",
       "english": "You have received",
       "french": "Vous avez reçu",
@@ -295,9 +318,9 @@
       "korean": "당신은 받았습니다",
       "mandarin": "你收到了",
       "portuguese": "Você recebeu",
+      "russian": "Вы получили",
       "spanish": "Has recibido",
-      "turkish": "Almış olduğunuz",
-      "russian": "Вы получили"
+      "turkish": "Almış olduğunuz"
     }
   }
 }

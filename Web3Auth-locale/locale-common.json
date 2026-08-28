@@ -1,6 +1,163 @@
 {
   "modal": {
+    "account-linking.failed-connect-wallet": {
+      "amharic": "{{wallet}} ጋር ለመገናኘት አልተሳካም።",
+      "dutch": "Verbinding met {{wallet}} mislukt.",
+      "english": "Failed to connect with {{wallet}}.",
+      "french": "Échec de la connexion avec {{wallet}}.",
+      "german": "Verbindung mit {{wallet}} fehlgeschlagen.",
+      "japanese": "{{wallet}}への接続に失敗しました。",
+      "korean": "{{wallet}}와 연결에 실패했습니다.",
+      "mandarin": "连接{{wallet}}失败。",
+      "portuguese": "Falha ao conectar com {{wallet}}.",
+      "spanish": "Error al conectar con {{wallet}}.",
+      "turkish": "{{wallet}} ile bağlantı kurulamadı."
+    },
+    "account-linking.failed-switch-wallet": {
+      "amharic": "{{wallet}} ጋር ዋሌት ለመቀየር አልተሳካም።",
+      "dutch": "Portemonnee wisselen met {{wallet}} mislukt.",
+      "english": "Failed to switch wallet with {{wallet}}.",
+      "french": "Échec du changement de portefeuille avec {{wallet}}.",
+      "german": "Wallet-Wechsel mit {{wallet}} fehlgeschlagen.",
+      "japanese": "{{wallet}}でウォレットの切り替えに失敗しました。",
+      "korean": "{{wallet}}로 지갑 전환에 실패했습니다.",
+      "mandarin": "使用{{wallet}}切换钱包失败。",
+      "portuguese": "Falha ao trocar carteira com {{wallet}}.",
+      "spanish": "Error al cambiar la billetera con {{wallet}}.",
+      "turkish": "{{wallet}} ile cüzdan değiştirme başarısız oldu."
+    },
+    "account-linking.initializing-wallet": {
+      "amharic": "{{wallet}}ን በማስጀመር ላይ...",
+      "dutch": "{{wallet}} initialiseren...",
+      "english": "Initializing {{wallet}}...",
+      "french": "Initialisation de {{wallet}}...",
+      "german": "{{wallet}} wird initialisiert...",
+      "japanese": "{{wallet}}を初期化中...",
+      "korean": "{{wallet}} 초기화 중...",
+      "mandarin": "正在初始化{{wallet}}...",
+      "portuguese": "Inicializando {{wallet}}...",
+      "spanish": "Inicializando {{wallet}}...",
+      "turkish": "{{wallet}} başlatılıyor..."
+    },
+    "account-linking.linking-wallet": {
+      "amharic": "ዋሌት በማያያዝ ላይ...",
+      "dutch": "Portemonnee koppelen...",
+      "english": "Linking wallet...",
+      "french": "Liaison du portefeuille...",
+      "german": "Wallet wird verknüpft...",
+      "japanese": "ウォレットをリンク中...",
+      "korean": "지갑 연결 중...",
+      "mandarin": "正在关联钱包...",
+      "portuguese": "Vinculando carteira...",
+      "spanish": "Vinculando billetera...",
+      "turkish": "Cüzdan bağlanıyor..."
+    },
+    "account-linking.preparing-wallet-qr": {
+      "amharic": "{{wallet}} QR ኮድ በማዘጋጀት ላይ...",
+      "dutch": "{{wallet}} QR-code voorbereiden...",
+      "english": "Preparing {{wallet}} QR code...",
+      "french": "Préparation du code QR {{wallet}}...",
+      "german": "{{wallet}} QR-Code wird vorbereitet...",
+      "japanese": "{{wallet}} QRコードを準備中...",
+      "korean": "{{wallet}} QR 코드 준비 중...",
+      "mandarin": "正在准备{{wallet}} QR码...",
+      "portuguese": "Preparando código QR do {{wallet}}...",
+      "spanish": "Preparando el código QR de {{wallet}}...",
+      "turkish": "{{wallet}} QR kodu hazırlanıyor..."
+    },
+    "account-linking.scan-wallet": {
+      "amharic": "{{wallet}} በመጠቀም የQR ኮዱን ይስክኑ።",
+      "dutch": "Scan de QR-code met {{wallet}}.",
+      "english": "Scan the QR code with {{wallet}}.",
+      "french": "Scannez le code QR avec {{wallet}}.",
+      "german": "Scannen Sie den QR-Code mit {{wallet}}.",
+      "japanese": "{{wallet}}でQRコードをスキャンしてください。",
+      "korean": "{{wallet}}로 QR 코드를 스캔하세요.",
+      "mandarin": "使用{{wallet}}扫描QR码。",
+      "portuguese": "Digitalize o código QR com {{wallet}}.",
+      "spanish": "Escanea el código QR con {{wallet}}.",
+      "turkish": "QR kodunu {{wallet}} ile tarayın."
+    },
+    "account-linking.scan-walletconnect": {
+      "amharic": "ለWalletConnect ተስማሚ ዋሌት በመጠቀም የQR ኮዱን ይስክኑ።",
+      "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee.",
+      "english": "Scan the QR code with a WalletConnect-compatible wallet.",
+      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect.",
+      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse.",
+      "japanese": "WalletConnect対応ウォレットでQRコードをスキャンしてください。",
+      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하세요.",
+      "mandarin": "使用兼容WalletConnect的钱包扫描QR码。",
+      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect.",
+      "spanish": "Escanea el código QR con una billetera compatible con WalletConnect.",
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın."
+    },
+    "account-linking.switching-wallet": {
+      "amharic": "ዋሌት በመቀየር ላይ...",
+      "dutch": "Portemonnee wisselen...",
+      "english": "Switching wallet...",
+      "french": "Changement de portefeuille...",
+      "german": "Wallet wird gewechselt...",
+      "japanese": "ウォレットを切り替え中...",
+      "korean": "지갑 전환 중...",
+      "mandarin": "正在切换钱包...",
+      "portuguese": "Trocando carteira...",
+      "spanish": "Cambiando billetera...",
+      "turkish": "Cüzdan değiştiriliyor..."
+    },
+    "account-linking.wallet-connected-preparing-linking": {
+      "amharic": "ዋሌት ተገናኝቷል። የአካውንት ማያያዣ በማዘጋጀት ላይ...",
+      "dutch": "Portemonnee verbonden. Accountkoppeling voorbereiden...",
+      "english": "Wallet connected. Preparing account linking...",
+      "french": "Portefeuille connecté. Préparation de la liaison de compte...",
+      "german": "Wallet verbunden. Kontoverknüpfung wird vorbereitet...",
+      "japanese": "ウォレットが接続されました。アカウントのリンクを準備中...",
+      "korean": "지갑이 연결되었습니다. 계정 연결 준비 중...",
+      "mandarin": "钱包已连接。正在准备账户关联...",
+      "portuguese": "Carteira conectada. Preparando vinculação de conta...",
+      "spanish": "Billetera conectada. Preparando vinculación de cuenta...",
+      "turkish": "Cüzdan bağlandı. Hesap bağlantısı hazırlanıyor..."
+    },
+    "account-linking.wallet-connected-preparing-switch": {
+      "amharic": "ዋሌት ተገናኝቷል። የአካውንት ቀየሪ በማዘጋጀት ላይ...",
+      "dutch": "Portemonnee verbonden. Accountwisseling voorbereiden...",
+      "english": "Wallet connected. Preparing account switch...",
+      "french": "Portefeuille connecté. Préparation du changement de compte...",
+      "german": "Wallet verbunden. Kontowechsel wird vorbereitet...",
+      "japanese": "ウォレットが接続されました。アカウント切り替えを準備中...",
+      "korean": "지갑이 연결되었습니다. 계정 전환 준비 중...",
+      "mandarin": "钱包已连接。正在准备账户切换...",
+      "portuguese": "Carteira conectada. Preparando troca de conta...",
+      "spanish": "Billetera conectada. Preparando cambio de cuenta...",
+      "turkish": "Cüzdan bağlandı. Hesap değişimi hazırlanıyor..."
+    },
+    "account-linking.wallet-linked": {
+      "amharic": "ዋሌት ተያይዟል።",
+      "dutch": "Portemonnee gekoppeld.",
+      "english": "Wallet linked.",
+      "french": "Portefeuille lié.",
+      "german": "Wallet verknüpft.",
+      "japanese": "ウォレットがリンクされました。",
+      "korean": "지갑이 연결되었습니다.",
+      "mandarin": "钱包已关联。",
+      "portuguese": "Carteira vinculada.",
+      "spanish": "Billetera vinculada.",
+      "turkish": "Cüzdan bağlandı."
+    },
+    "account-linking.wallet-switched": {
+      "amharic": "ዋሌት ተቀይሯል።",
+      "dutch": "Portemonnee gewisseld.",
+      "english": "Wallet switched.",
+      "french": "Portefeuille changé.",
+      "german": "Wallet gewechselt.",
+      "japanese": "ウォレットが切り替わりました。",
+      "korean": "지갑이 전환되었습니다.",
+      "mandarin": "钱包已切换。",
+      "portuguese": "Carteira trocada.",
+      "spanish": "Billetera cambiada.",
+      "turkish": "Cüzdan değiştirildi."
+    },
     "adapter-loader.message": {
+      "amharic": "ለመቀጠል የ{{adapter}} አካውንትዎን ያረጋግጡ",
       "dutch": "Verifieer uw {{adapter}}-account om door te gaan",
       "english": "Verify your {{adapter}} account to continue",
       "french": "Vérifiez votre compte {{adapter}} pour continuer",
@@ -9,11 +166,12 @@
       "korean": "계속하려면 {{adapter}} 계정을 인증하세요",
       "mandarin": "验证您的{{adapter}}帐户以继续",
       "portuguese": "Verifique a sua conta {{adapter}} para continuar",
+      "russian": "Подтвердите ваш аккаунт {{adapter}}, чтобы продолжить",
       "spanish": "Verifica tu cuenta {{adapter}} para continuar",
-      "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula",
-      "russian": "Подтвердите ваш аккаунт {{adapter}}, чтобы продолжить"
+      "turkish": "Devam etmek için {{adapter}} hesabınızı doğrula"
     },
     "adapter-loader.message1": {
+      "amharic": "የ{{adapter}} እባክዎ ያረጋግጡ",
       "dutch": "Verifieer uw {{adapter}}",
       "english": "Verify your {{adapter}}",
       "french": "Vérifiez votre {{adapter}}",
@@ -22,11 +180,12 @@
       "korean": "{{adapter}}를 인증하세요",
       "mandarin": "在您的{{adapter}}上验证",
       "portuguese": "Verifique o(a) seu/sua {{adapter}}",
+      "russian": "Подтвердите ваш {{adapter}}",
       "spanish": "Verifique su {{adapter}}",
-      "turkish": "{{adapter}} doğrula",
-      "russian": "Подтвердите ваш {{adapter}}"
+      "turkish": "{{adapter}} doğrula"
     },
     "adapter-loader.message2": {
+      "amharic": "አካውንት ለመቀጠል",
       "dutch": "account om door te gaan",
       "english": "account to continue",
       "french": "compte pour continuer",
@@ -35,11 +194,12 @@
       "korean": "계속할 계정",
       "mandarin": "帐号继续",
       "portuguese": "conta para continuar",
+      "russian": "аккаунт, чтобы продолжить",
       "spanish": "cuenta para continuar",
-      "turkish": "devam edecek hesap",
-      "russian": "аккаунт, чтобы продолжить"
+      "turkish": "devam edecek hesap"
     },
     "allChains": {
+      "amharic": "ሁሉም ቼኖች",
       "dutch": "Alle ketens",
       "english": "All Chains",
       "french": "Toutes les chaînes",
@@ -48,11 +208,51 @@
       "korean": "모든 체인",
       "mandarin": "所有链",
       "portuguese": "Todas as cadeias",
+      "russian": "Все цепочки",
       "spanish": "Todas las cadenas",
-      "turkish": "Tüm zincirler",
-      "russian": "Все цепочки"
+      "turkish": "Tüm zincirler"
+    },
+    "blocked.change-wallet": {
+      "amharic": "ዋሌት ይቀይሩ",
+      "dutch": "Portemonnee wijzigen",
+      "english": "Change wallet",
+      "french": "Changer de portefeuille",
+      "german": "Wallet wechseln",
+      "japanese": "ウォレットを変更",
+      "korean": "지갑 변경",
+      "mandarin": "更换钱包",
+      "portuguese": "Trocar carteira",
+      "spanish": "Cambiar billetera",
+      "turkish": "Cüzdanı değiştir"
+    },
+    "blocked.primary-message": {
+      "amharic": "ድረ-ገጹን መድረስ አይችሉም።",
+      "dutch": "U heeft geen toegang tot de site.",
+      "english": "You cannot access the site.",
+      "french": "Vous ne pouvez pas accéder au site.",
+      "german": "Sie können nicht auf die Website zugreifen.",
+      "japanese": "サイトにアクセスできません。",
+      "korean": "사이트에 접근할 수 없습니다.",
+      "mandarin": "您无法访问该网站。",
+      "portuguese": "Você não pode acessar o site.",
+      "spanish": "No puedes acceder al sitio.",
+      "turkish": "Siteye erişemezsiniz."
+    },
+    "blocked.secondary-message": {
+      "amharic": "ወደ ድረ-ገጹ መድረስ ተገድቧል",
+      "dutch": "Toegang tot de site is beperkt",
+      "english": "Access to the site is restricted",
+      "french": "L'accès au site est restreint",
+      "german": "Der Zugriff auf die Website ist eingeschränkt",
+      "japanese": "サイトへのアクセスは制限されています",
+      "korean": "사이트 접근이 제한되어 있습니다",
+      "mandarin": "网站访问受限",
+      "portuguese": "O acesso ao site é restrito",
+      "spanish": "El acceso al sitio está restringido",
+      "turkish": "Siteye erişim kısıtlanmıştır"
     },
     "connect-wallet.more-wallets": {
+      "amharic": "ተጨማሪ ዋሌቶች",
       "dutch": "Meer portemonnees",
       "english": "More Wallets",
       "french": "Plus de portefeuilles",
@@ -61,11 +261,12 @@
       "korean": "더 많은 지갑",
       "mandarin": "查看更多钱包",
       "portuguese": "Mais carteiras",
+      "russian": "Другие кошельки",
       "spanish": "Más carteras",
-      "turkish": "Daha fazla cüzdan",
-      "russian": "Другие кошельки"
+      "turkish": "Daha fazla cüzdan"
     },
     "connectYourWallet": {
+      "amharic": "ዋሌትዎን ያገናኙ",
       "dutch": "Uw portemonnee verbinden",
       "english": "Connect your wallet",
       "french": "Connectez votre portefeuille",
@@ -74,11 +275,12 @@
       "korean": "지갑 연결",
       "mandarin": "连接您的钱包",
       "portuguese": "Conecte seu portefeuille",
+      "russian": "Подключите ваш кошелек",
       "spanish": "Conecte su portefeuille",
-      "turkish": "Cüzdanınızı bağlayın",
-      "russian": "Подключите ваш кошелек"
+      "turkish": "Cüzdanınızı bağlayın"
     },
     "errors-invalid-email": {
+      "amharic": "የተሳሳተ ኢሜይል",
       "dutch": "Ongeldig e-mailadres",
       "english": "Invalid Email",
       "french": "E-mail invalide",
@@ -87,11 +289,12 @@
       "korean": "유효하지 않은 이메일",
       "mandarin": "无效的电子邮件",
       "portuguese": "E-mail inválido",
+      "russian": "Неверный адрес электронной почты",
       "spanish": "Correo electrónico no válido",
-      "turkish": "Geçersiz E-posta",
-      "russian": "Неверный адрес электронной почты"
+      "turkish": "Geçersiz E-posta"
     },
     "errors-invalid-number": {
+      "amharic": "የተሳሳተ የስልክ ቁጥር",
       "dutch": "Ongeldig telefoonnummer",
       "english": "Invalid Phone Number",
       "french": "Numéro de téléphone invalide",
@@ -100,11 +303,12 @@
       "korean": "유효하지 않은 전화번호",
       "mandarin": "电话号码无效",
       "portuguese": "Número de telefone inválido",
+      "russian": "Неверный номер телефона",
       "spanish": "Número de teléfono no válido",
-      "turkish": "Geçersiz Telefon Numarası",
-      "russian": "Неверный номер телефона"
+      "turkish": "Geçersiz Telefon Numarası"
     },
     "errors-invalid-number-email": {
+      "amharic": "የተሳሳተ ኢሜይል ወይም የስልክ ቁጥር",
       "dutch": "Ongeldig e-mailadres of telefoonnummer",
       "english": "Invalid Email or Phone Number",
       "french": "Adresse e-mail ou numéro de téléphone invalide",
@@ -113,11 +317,12 @@
       "korean": "유효하지 않은 이메일 또는 전화번호",
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email ou número de telefone inválido",
+      "russian": "Неверный адрес электронной почты или номер телефона",
       "spanish": "Correo electrónico o número de teléfono no válido",
-      "turkish": "Geçersiz E-posta veya Telefon Numarası",
-      "russian": "Неверный адрес электронной почты или номер телефона"
+      "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
     "errors-required": {
+      "amharic": "አስፈላጊ",
       "dutch": "Vereist",
       "english": "Required",
       "french": "Champ obligatoire",
@@ -126,24 +331,26 @@
       "korean": "필수",
       "mandarin": "必填",
       "portuguese": "Obrigatório",
+      "russian": "Обязательно",
       "spanish": "Campo obligatorio",
-      "turkish": "Zorunlu",
-      "russian": "Обязательно"
+      "turkish": "Zorunlu"
     },
     "external.all-wallets": {
-      "dutch": "Alle portemonnees",
-      "english": "All Wallets",
-      "french": "Toutes les billeteras",
-      "german": "Alle Geldbörsen",
-      "japanese": "すべてのウォレット",
-      "korean": "모든 지갑",
-      "mandarin": "所有钱包",
-      "portuguese": "Todas as carteiras",
-      "spanish": "Todas las billeteras",
-      "turkish": "Tüm cüzdanlar",
-      "russian": "Все кошельки"
+      "amharic": "የሌላዎች ዋሌቶች",
+      "dutch": "Andere portemonnees",
+      "english": "Other wallets",
+      "french": "Autres portefeuilles",
+      "german": "Andere Wallets",
+      "japanese": "他のウォレット",
+      "korean": "다른 지갑",
+      "mandarin": "其他钱包",
+      "portuguese": "Outras carteiras",
+      "russian": "Все кошельки",
+      "spanish": "Otras billeteras",
+      "turkish": "Diğer cüzdanlar"
     },
     "external.back": {
+      "amharic": "ወደ ኋላ",
       "dutch": "Terug",
       "english": "Back",
       "french": "Retour",
@@ -152,24 +359,26 @@
       "korean": "뒤로",
       "mandarin": "返回",
       "portuguese": "Voltar",
+      "russian": "Назад",
       "spanish": "Atrás",
-      "turkish": "Geri",
-      "russian": "Назад"
+      "turkish": "Geri"
     },
     "external.connect": {
+      "amharic": "በዋሌት ቀጥሉ",
       "dutch": "Ga verder met een portemonnee",
       "english": "Continue with a wallet",
       "french": "Continuer avec un portefeuille",
       "german": "Fahren Sie mit einer Brieftasche fort",
-      "japanese": "ウォレットを続ける",
+      "japanese": "ウォレットで続行",
       "korean": "지갑으로 계속하기",
       "mandarin": "继续使用钱包",
       "portuguese": "Continuar com uma carteira",
+      "russian": "Продолжить с кошельком",
       "spanish": "Conectar con la billetera",
-      "turkish": "Cüzdanla devam et",
-      "russian": "Продолжить с кошельком"
+      "turkish": "Cüzdanla devam et"
     },
     "external.connect-wallet": {
+      "amharic": "ዋሌት ያገናኙ",
       "dutch": "Verbinden met portemonnee",
       "english": "Connect Wallet",
       "french": "Connecter le portefeuille",
@@ -178,37 +387,40 @@
       "korean": "지갑 연결",
       "mandarin": "连接钱包",
       "portuguese": "Conectar carteira",
+      "russian": "Подключить кошелек",
       "spanish": "Conectar billetera",
-      "turkish": "Cüzdanı Bağla",
-      "russian": "Подключить кошелек"
+      "turkish": "Cüzdanı Bağla"
     },
     "external.continue": {
+      "amharic": "ውጭ ዋሌት ቀጥሉ",
       "dutch": "Ga verder met externe portemonnee",
       "english": "Continue with external wallet",
       "french": "Continuer avec le portefeuille externe",
       "german": "Fahren Sie mit der externen Wallet fort",
-      "japanese": "外部ウォレットを続行する",
+      "japanese": "外部ウォレットで続行する",
       "korean": "외부 지갑으로 계속하기",
       "mandarin": "继续使用外部钱包",
       "portuguese": "Continuar com carteira externa",
+      "russian": "Продолжить с внешним кошельком",
       "spanish": "Continuar con billetera externa",
-      "turkish": "Harici cüzdanla devam et",
-      "russian": "Продолжить с внешним кошельком"
+      "turkish": "Harici cüzdanla devam et"
     },
     "external.continue-custom": {
+      "amharic": "በ{{wallet}} ቀጥሉ",
       "dutch": "Doorgaan met {{wallet}}",
       "english": "Continue with {{wallet}}",
       "french": "Continuer avec {{wallet}}",
       "german": "Fahren Sie mit {{wallet}} fort",
-      "japanese": "{{wallet}}を続けます",
+      "japanese": "{{wallet}}で続行",
       "korean": "{{wallet}}로 계속하기",
       "mandarin": "继续使用{{wallet}}",
       "portuguese": "Continue com o {{wallet}}",
+      "russian": "Продолжить с {{wallet}}",
       "spanish": "Continuar con {{wallet}}",
-      "turkish": "{{wallet}} ile devam et",
-      "russian": "Продолжить с {{wallet}}"
+      "turkish": "{{wallet}} ile devam et"
     },
     "external.dont-have": {
+      "amharic": "የለዎትም",
       "dutch": "Heb niet",
       "english": "Don't have",
       "french": "N'avez pas",
@@ -217,11 +429,12 @@
       "korean": "없음",
       "mandarin": "没有",
       "portuguese": "Não tem",
+      "russian": "Нет",
       "spanish": "No tiene",
-      "turkish": "Yok",
-      "russian": "Нет"
+      "turkish": "Yok"
     },
     "external.get": {
+      "amharic": "ያግኙ",
       "dutch": "Krijgen",
       "english": "Get",
       "french": "Obtenir",
@@ -230,11 +443,12 @@
       "korean": "받기",
       "mandarin": "获取",
       "portuguese": "Obter",
+      "russian": "Получить",
       "spanish": "Obtener",
-      "turkish": "Al",
-      "russian": "Получить"
+      "turkish": "Al"
     },
     "external.get-wallet": {
+      "amharic": "ዋሌት ያግኙ",
       "dutch": "Portemonnee krijgen",
       "english": "Get Wallet",
       "french": "Obtenir un portefeuille",
@@ -243,11 +457,12 @@
       "korean": "지갑 받기",
       "mandarin": "获取钱包",
       "portuguese": "Obter carteira",
+      "russian": "Получить кошелек",
       "spanish": "Obtener billetera",
-      "turkish": "Cüzdan Al",
-      "russian": "Получить кошелек"
+      "turkish": "Cüzdan Al"
     },
     "external.install-browser-extension": {
+      "amharic": "የ{{browser}} ኤክስቴንሽኑን ይጫኑ",
       "dutch": "{{browser}}-extensie installeren",
       "english": "Install {{browser}} extension",
       "german": "Installieren Sie die {{browser}}-Erweiterung",
@@ -255,11 +470,12 @@
       "korean": "{{browser}} 확장 프로그램 설치",
       "mandarin": "安装{{browser}}扩展",
       "portuguese": "Instalar extensão {{browser}}",
+      "russian": "Установите расширение {{browser}}",
       "spanish": "Instalar extensión {{browser}}",
-      "turkish": "{{browser}} uzantısını yükle",
-      "russian": "Установите расширение {{browser}}"
+      "turkish": "{{browser}} uzantısını yükle"
     },
     "external.install-mobile-app": {
+      "amharic": "የ{{os}} መተግበሪያውን ይጫኑ",
       "dutch": "Installeer {{os}}-app",
       "english": "Install {{os}} app",
       "german": "Installieren Sie die {{os}}-App",
@@ -267,11 +483,12 @@
       "korean": "{{os}} 앱 설치",
       "mandarin": "安装{{os}}应用",
       "portuguese": "Instalar aplicativo {{os}}",
+      "russian": "Установите приложение {{os}}",
       "spanish": "Instalar aplicación {{os}}",
-      "turkish": "{{os}} uygulamasını yükle",
-      "russian": "Установите приложение {{os}}"
+      "turkish": "{{os}} uygulamasını yükle"
     },
     "external.installed": {
+      "amharic": "ተጭኗል",
       "dutch": "Geïnstalleerd",
       "english": "Installed",
       "french": "Installé",
@@ -280,11 +497,12 @@
       "korean": "설치 완료",
       "mandarin": "已安装",
       "portuguese": "Instalado",
+      "russian": "Установлено",
       "spanish": "Instalado",
-      "turkish": "Yüklendi",
-      "russian": "Установлено"
+      "turkish": "Yüklendi"
     },
     "external.no-wallets-found": {
+      "amharic": "ምንም ዋሌቶች አልተገኙም",
       "dutch": "Geen portefeuilles gevonden",
       "english": "No wallets found",
       "french": "Aucun portefeuille trouvé",
@@ -293,11 +511,25 @@
       "korean": "지갑을 찾을 수 없습니다.",
       "mandarin": "没有找到钱包",
       "portuguese": "Nenhuma carteira encontrada",
+      "russian": "Кошельки не найдены",
       "spanish": "No se encontraron billeteras",
-      "turkish": "Cüzdan bulunamadı",
-      "russian": "Кошельки не найдены"
+      "turkish": "Cüzdan bulunamadı"
+    },
+    "external.qr-code-copied-to-clipboard": {
+      "amharic": "URI ወደ ቅንጥብ ሰሌዳ ተቀድቷል",
+      "dutch": "URI naar klembord gekopieerd",
+      "english": "URI copied to clipboard",
+      "french": "URI copié dans le presse-papiers",
+      "german": "URI in die Zwischenablage kopiert",
+      "japanese": "URIがクリップボードにコピーされました",
+      "korean": "URI가 클립 보드에 복사되었습니다.",
+      "mandarin": "URI已复制到剪贴板",
+      "portuguese": "URI copiado para a área de transferência",
+      "spanish": "URI copiado al portapapeles",
+      "turkish": "URI panoya kopyalandı"
     },
     "external.search-subtext": {
+      "amharic": "በማፈልጋት ይሞክሩ",
       "dutch": "Probeer in plaats daarvan te zoeken",
       "english": "Try search instead",
       "french": "Essayez plutôt de rechercher",
@@ -306,24 +538,26 @@
       "korean": "검색해보세요",
       "mandarin": "尝试改为搜索",
       "portuguese": "Tente pesquisar",
+      "russian": "Попробуйте поиск",
       "spanish": "Intenta buscar en su lugar",
-      "turkish": "Bunun yerine aramayı deneyin",
-      "russian": "Попробуйте поиск"
+      "turkish": "Bunun yerine aramayı deneyin"
     },
     "external.search-text": {
+      "amharic": "ዋሌትዎን አታዩም?",
       "dutch": "Ziet u uw portemonnee niet?",
       "english": "Don't see your wallet?",
       "french": "Vous ne voyez pas votre portefeuille ?",
       "german": "Sie sehen Ihr Portemonnaie nicht?",
-      "japanese": "財布が見えませんか？",
+      "japanese": "ウォレットがありませんか？",
       "korean": "지갑이 보이지 않나요?",
       "mandarin": "没看到你的钱包吗？",
       "portuguese": "Não vê sua carteira?",
+      "russian": "Не видите ваш кошелек?",
       "spanish": "¿No ves tu billetera?",
-      "turkish": "Cüzdanınızı görmüyor musunuz?",
-      "russian": "Не видите ваш кошелек?"
+      "turkish": "Cüzdanınızı görmüyor musunuz?"
     },
     "external.search-wallet": {
+      "amharic": "በ{{count}} ዋሌቶች ውስጥ ፈልጉ..",
       "dutch": "Zoeken door {{count}} portemonnees...",
       "english": "Search through {{count}} wallets...",
       "french": "Rechercher parmi {{count}} portefeuilles...",
@@ -332,11 +566,12 @@
       "korean": "{{count}}개의 지갑을 검색 중입니다...",
       "mandarin": "搜索{{count}}个钱包...",
       "portuguese": "Pesquisar através de {{count}} carteiras...",
+      "russian": "Поиск среди {{count}} кошельков...",
       "spanish": "Buscar a través de {{count}} billeteras...",
-      "turkish": "{{count}} cüzdan ara...",
-      "russian": "Поиск среди {{count}} кошельков..."
+      "turkish": "{{count}} cüzdan ara..."
     },
     "external.select-chain": {
+      "amharic": "ቼን ይምረጡ",
       "dutch": "Ketting selecteren",
       "english": "Select Chain",
       "french": "Sélectionner la chaîne",
@@ -345,11 +580,12 @@
       "korean": "체인 선택",
       "mandarin": "选择链",
       "portuguese": "Selecionar cadeia",
+      "russian": "Выберите сеть",
       "spanish": "Seleccionar cadena",
-      "turkish": "Zincir seç",
-      "russian": "Выберите сеть"
+      "turkish": "Zincir seç"
     },
     "external.select-chain-description": {
+      "amharic": "ይህ {{wallet}} ዋሌት ብዙ ቼኖችን ይደግፋል። ለመገናኘት የሚፈልጉትን ቼን ይምረጡ።",
       "dutch": "Deze {{wallet}} portemonnee ondersteunt meerdere ketens. Selecteer welke ketting u wilt verbinden",
       "english": "This {{wallet}} wallet supports multiple chains. Select which chain you'd like to connect to",
       "french": "Cette {{wallet}} portefeuille prend en charge plusieurs chaînes. Sélectionnez la chaîne que vous souhaitez connecter",
@@ -358,11 +594,12 @@
       "korean": "이 {{wallet}} 지갑은 여러 체인을 지원합니다. 연결하려는 체인을 선택하세요",
       "mandarin": "这个 {{wallet}} 钱包支持多种链。选择您想要连接的链",
       "portuguese": "Este {{wallet}} carteira suporta várias cadeias. Selecione a cadeia que você gostaria de conectar",
+      "russian": "Этот кошелек {{wallet}} поддерживает несколько сетей. Выберите сеть для подключения",
       "spanish": "Este {{wallet}} billetera soporta varias cadenas. Seleccione la cadena que desea conectar",
-      "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin",
-      "russian": "Этот кошелек {{wallet}} поддерживает несколько сетей. Выберите сеть для подключения"
+      "turkish": "Bu {{wallet}} cüzdan birden fazla zincir destekler. İstediğiniz zinciri seçin"
     },
     "external.title": {
+      "amharic": "ውጭ ዋሌት",
       "dutch": "Externe portemonnee",
       "english": "External Wallet",
       "french": "Portefeuille externe",
@@ -371,11 +608,12 @@
       "korean": "외부 지갑",
       "mandarin": "外部钱包",
       "portuguese": "Carteira Externa",
+      "russian": "Внешний кошелек",
       "spanish": "Billetera Externa",
-      "turkish": "Harici Cüzdan",
-      "russian": "Внешний кошелек"
+      "turkish": "Harici Cüzdan"
     },
     "external.walletconnect-connect": {
+      "amharic": "ያገናኙ",
       "dutch": "Verbinden",
       "english": "Connect",
       "french": "Se connecter",
@@ -384,24 +622,26 @@
       "korean": "연결",
       "mandarin": "连接",
       "portuguese": "Conectar",
+      "russian": "Подключить",
       "spanish": "Conectar",
-      "turkish": "Bağla",
-      "russian": "Подключить"
+      "turkish": "Bağla"
     },
     "external.walletconnect-copy": {
-      "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren.",
-      "english": "Scan the QR code with WalletConnect supported wallet or click to copy link",
-      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez pour copier le lien",
-      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse oder klicken Sie, um den Link zu kopieren",
-      "japanese": "WalletConnect がサポートするウォレットで QR コードをスキャンするか、リンクをクリックしてコピーします。",
-      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하거나 링크를 클릭하여 복사하세요.",
-      "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击复制链接",
-      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique para copiar o link",
-      "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic para copiar el enlace",
-      "turkish": "WalletConnect destekli bir cüzdanla QR kodu tarayın veya bağlantıyı kopyalayın",
-      "russian": "Отсканируйте QR-код кошельком, поддерживающим WalletConnect, или нажмите, чтобы скопировать ссылку"
+      "amharic": "የWalletConnect የሚደግፍ ዋሌት በመጠቀም የQR ኮዱን ይስክኑ ወይም ሊንኩን ለመቅዳት በQR ኮዱ ላይ ይንኩ።",
+      "dutch": "Verbinden met WalletConnect-compatibele portemonnee of klik op de QR-code om de link naar je klembord te kopiëren",
+      "english": "Scan the QR code with WalletConnect supported wallet or click the QR code to copy link",
+      "french": "Scannez le code QR avec un portefeuille compatible WalletConnect ou cliquez sur le code QR pour copier le lien",
+      "german": "Scannen Sie den QR-Code mit einer WalletConnect-kompatiblen Geldbörse oder klicken Sie auf den QR-Code, um den Link zu kopieren",
+      "japanese": "WalletConnect 対応ウォレットで QR コードをスキャンするか、QR コードをクリックしてリンクをコピーします。",
+      "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하거나 QR 코드를 클릭하여 링크를 복사하세요.",
+      "mandarin": "使用支持 WalletConnect 的钱包扫描 QR 码或点击 QR 码复制链接",
+      "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect ou clique no código QR para copiar o link",
+      "russian": "Отсканируйте QR-код кошельком, поддерживающим WalletConnect, или нажмите, чтобы скопировать ссылку",
+      "spanish": "Escanee el código QR con una billetera compatible con WalletConnect o haga clic en el código QR para copiar el enlace",
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın veya QR koduna tıklayarak bağlantıyı kopyalayın"
     },
     "external.walletconnect-subtitle": {
+      "amharic": "ለWalletConnect ተስማሚ ዋሌት በመጠቀም የQR ኮዱን ይስክኑ።",
       "dutch": "Scan de QR-code met een WalletConnect-compatibele portemonnee",
       "english": "Scan the QR code with a WalletConnect-compatible wallet",
       "french": "Scannez le code QR avec un portefeuille compatible WalletConnect",
@@ -410,11 +650,12 @@
       "korean": "WalletConnect 호환 지갑으로 QR 코드를 스캔하세요",
       "mandarin": "使用兼容 WalletConnect 的钱包扫描 QR 码",
       "portuguese": "Digitalize o código QR com uma carteira compatível com WalletConnect",
+      "russian": "Отсканируйте QR-код совместимым с WalletConnect кошельком",
       "spanish": "Escanear el código QR con una billetera compatible con WalletConnect",
-      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın",
-      "russian": "Отсканируйте QR-код совместимым с WalletConnect кошельком"
+      "turkish": "QR kodunu WalletConnect uyumlu bir cüzdanla tarayın"
     },
     "footer.and": {
+      "amharic": "እና",
       "dutch": "en",
       "english": "and",
       "french": "et",
@@ -423,11 +664,12 @@
       "korean": "및",
       "mandarin": "和",
       "portuguese": "e",
+      "russian": "и",
       "spanish": "y",
-      "turkish": "ve",
-      "russian": "и"
+      "turkish": "ve"
     },
     "footer.by-signing-in": {
+      "amharic": "በመግባትዎ ለኛ ተስማምተዋል ይሆናል።",
       "dutch": "Door in te loggen, gaat u akkoord met onze",
       "english": "By signing in, you agree to our",
       "french": "En vous connectant, vous acceptez nos",
@@ -436,11 +678,12 @@
       "korean": "로그인하면 우리의",
       "mandarin": "登录即表示您同意我们的",
       "portuguese": "Ao se conectar, você concorda com nossos",
+      "russian": "Войдя, вы соглашаетесь с нашими",
       "spanish": "Al iniciar sesión, acepta nuestros",
-      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir.",
-      "russian": "Войдя, вы соглашаетесь с нашими"
+      "turkish": "Giriş yapmak, bizimle ilgili şartları kabul ettiğiniz anlamına gelir."
     },
     "footer.message": {
+      "amharic": "በራስ-መንበር መግቢያ በ",
       "dutch": "Zelfbeheerde login door",
       "english": "Self-custodial login by",
       "french": "Connexion en autonomie par",
@@ -449,24 +692,26 @@
       "korean": "자가 관리형 로그인",
       "mandarin": "自托管登录由",
       "portuguese": "Login de autocustódia por",
+      "russian": "Самостоятельный вход через",
       "spanish": "Inicio de sesión con autocustodia por",
-      "turkish": "Öz-yönetimli giriş yapan:",
-      "russian": "Самостоятельный вход через"
+      "turkish": "Öz-yönetimli giriş yapan:"
     },
     "footer.message-new": {
+      "amharic": "በራስ-መንበር በ",
       "dutch": "Zelfkusten via",
       "english": "Self-custody via",
       "french": "Auto-cuir via",
       "german": "Selbstversorgung über",
-      "japanese": "経由の自立",
+      "japanese": "自己保管ログイン by",
       "korean": "셀프 커스터디",
       "mandarin": "自我castody通过",
       "portuguese": "Autoconfiança via",
+      "russian": "Самостоятельное хранение через",
       "spanish": "Autocustodia a través de",
-      "turkish": "Kendi kendine velayet",
-      "russian": "Самостоятельное хранение через"
+      "turkish": "Kendi kendine velayet"
     },
     "footer.policy": {
+      "amharic": "የግላዊነት ፖሊሲ",
       "dutch": "Privacybeleid",
       "english": "Privacy Policy",
       "french": "Politique de confidentialité",
@@ -475,11 +720,12 @@
       "korean": "개인정보 처리방침",
       "mandarin": "隐私政策",
       "portuguese": "Política de Privacidade",
+      "russian": "Политика конфиденциальности",
       "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası",
-      "russian": "Политика конфиденциальности"
+      "turkish": "Gizlilik Politikası"
     },
     "footer.privacy-policy": {
+      "amharic": "የግላዊነት ፖሊሲ",
       "dutch": "Privacy Policy",
       "english": "Privacy Policy",
       "french": "Politique de confidentialité",
@@ -488,11 +734,12 @@
       "korean": "개인정보 취급 방침",
       "mandarin": "隐私政策",
       "portuguese": "Política de privacidade",
+      "russian": "Политика конфиденциальности",
       "spanish": "Política de privacidad",
-      "turkish": "Gizlilik Politikası",
-      "russian": "Политика конфиденциальности"
+      "turkish": "Gizlilik Politikası"
     },
     "footer.terms": {
+      "amharic": "የተጠቃሚ መመሪያዎች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Use",
       "french": "Conditions d'utilisation",
@@ -501,11 +748,12 @@
       "korean": "이용 약관",
       "mandarin": "使用条款",
       "portuguese": "Termos de Uso",
+      "russian": "Условия использования",
       "spanish": "Términos de Uso",
-      "turkish": "Kullanım Şartları",
-      "russian": "Условия использования"
+      "turkish": "Kullanım Şartları"
     },
     "footer.terms-of-service": {
+      "amharic": "የአገልግሎት ደንቦች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Service",
       "french": "Conditions d'utilisation",
@@ -514,11 +762,12 @@
       "korean": "이용 약관",
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
+      "russian": "Условия обслуживания",
       "spanish": "Términos de uso",
-      "turkish": "Kullanım Şartları",
-      "russian": "Условия обслуживания"
+      "turkish": "Kullanım Şartları"
     },
     "footer.terms-service": {
+      "amharic": "የአገልግሎት ደንቦች",
       "dutch": "Gebruiksvoorwaarden",
       "english": "Terms of Service",
       "french": "Conditions d'utilisation",
@@ -527,11 +776,12 @@
       "korean": "서비스 약관",
       "mandarin": "服务条款",
       "portuguese": "Termos de Serviço",
+      "russian": "Условия обслуживания",
       "spanish": "Términos de servicio",
-      "turkish": "Hizmet Şartları",
-      "russian": "Условия обслуживания"
+      "turkish": "Hizmet Şartları"
     },
     "footer.version": {
+      "amharic": "ተለቂ",
       "dutch": "Versie",
       "english": "Version",
       "french": "Version",
@@ -540,11 +790,12 @@
       "korean": "버전",
       "mandarin": "版本",
       "portuguese": "Versão",
+      "russian": "Версия",
       "spanish": "Versión",
-      "turkish": "Versiyon",
-      "russian": "Версия"
+      "turkish": "Versiyon"
     },
     "getWallet": {
+      "amharic": "ዋሌት ያግኙ",
       "dutch": "Portemonnee ophalen",
       "english": "Get Wallet",
       "french": "Obtenir le portefeuille",
@@ -553,11 +804,12 @@
       "korean": "지갑 가져오기",
       "mandarin": "获取钱包",
       "portuguese": "Obter carteira",
+      "russian": "Получить кошелек",
       "spanish": "Obtener billetera",
-      "turkish": "Cüzdanı al",
-      "russian": "Получить кошелек"
+      "turkish": "Cüzdanı al"
     },
     "header-subtitle": {
+      "amharic": "ለመቀጠል ከሚከተሉት አማራጮች አንዱን ይምረጡ።",
       "dutch": "Selecteer een van de volgende opties om door te gaan",
       "english": "Select one of the following options to continue",
       "french": "Sélectionnez l'une des options suivantes pour continuer",
@@ -566,11 +818,12 @@
       "korean": "계속하려면 다음 중 하나를 선택하세요",
       "mandarin": "选择以下选项以继续",
       "portuguese": "Selecione uma das seguintes opções para continuar",
+      "russian": "Выберите один из следующих вариантов, чтобы продолжить",
       "spanish": "Seleccione una de las siguientes opciones para continuar",
-      "turkish": "Devam etmek için seçeneklerden birini işaretle",
-      "russian": "Выберите один из следующих вариантов, чтобы продолжить"
+      "turkish": "Devam etmek için seçeneklerden birini işaretle"
     },
     "header-subtitle-name": {
+      "amharic": "የ{{appName}} ዋሌትዎ በአንድ ጠቅታ",
       "dutch": "Uw {{appName}}-portemonnee met één klik",
       "english": "Your {{appName}} wallet with one click",
       "french": "Votre portefeuille {{appName}} en un clic",
@@ -579,11 +832,12 @@
       "korean": "한 번의 클릭으로 {{appName}} 지갑 이용하기",
       "mandarin": "一键点击您的 {{appName}} 钱包",
       "portuguese": "Sua carteira {{appName}} com um clique",
+      "russian": "Ваш кошелек {{appName}} в один клик",
       "spanish": "Su billetera {{appName}} con un solo clic",
-      "turkish": "Tek tıklama ile {{appName}} cüzdanınız",
-      "russian": "Ваш кошелек {{appName}} в один клик"
+      "turkish": "Tek tıklama ile {{appName}} cüzdanınız"
     },
     "header-subtitle-new": {
+      "amharic": "የእርስዎ ብሎክቼን ዋሌት በአንድ ጠቅታ",
       "dutch": "Uw blockchain-portemonnee met één klik",
       "english": "Your blockchain wallet with one click",
       "french": "Votre portefeuille blockchain en un clic",
@@ -592,11 +846,12 @@
       "korean": "한 번의 클릭으로 블록체인 지갑 이용하기",
       "mandarin": "一键点击您的区块链钱包",
       "portuguese": "Sua carteira de blockchain com um clique",
+      "russian": "Ваш блокчейн-кошелек в один клик",
       "spanish": "Su billetera blockchain con un solo clic",
-      "turkish": "Tek tıklama ile blockchain cüzdanınız",
-      "russian": "Ваш блокчейн-кошелек в один клик"
+      "turkish": "Tek tıklama ile blockchain cüzdanınız"
     },
     "header-title": {
+      "amharic": "ይግቡ",
       "dutch": "Aanmelden",
       "english": "Sign in",
       "french": "Se connecter",
@@ -605,11 +860,12 @@
       "korean": "로그인",
       "mandarin": "登录",
       "portuguese": "Entrar",
+      "russian": "Войти",
       "spanish": "Iniciar sesión",
-      "turkish": "Giriş yap",
-      "russian": "Войти"
+      "turkish": "Giriş yap"
     },
     "header-tooltip-desc": {
+      "amharic": "ዋሌቱ በብሎክቼን ላይ የዲጂታል ንብረቶችዎን ለመያዝና ለማቀናበር አካውንት እንደሚያገለግል ይሰራል።",
       "dutch": "De portemonnee dient als een account om uw digitale activa op de blockchain op te slaan en te beheren.",
       "english": "The wallet serves as an account to store and manage your digital assets on the blockchain.",
       "french": "Le portefeuille sert de compte pour stocker et gérer vos actifs numériques sur la blockchain.",
@@ -618,11 +874,12 @@
       "korean": "이 지갑은 블록체인 상에서 디지털 자산을 보관하고 관리하는 데 사용되는 계정입니다.",
       "mandarin": "钱包作为一个账户用于在区块链上存储和管理您的数字资产。",
       "portuguese": "A carteira serve como uma conta para armazenar e gerenciar seus ativos digitais na blockchain.",
+      "russian": "Кошелек служит аккаунтом для хранения и управления цифровыми активами в блокчейне.",
       "spanish": "La billetera sirve como una cuenta para almacenar y administrar sus activos digitales en la blockchain.",
-      "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür.",
-      "russian": "Кошелек служит аккаунтом для хранения и управления цифровыми активами в блокчейне."
+      "turkish": "Cüzdan, dijital varlıklarınızı blockchain'de saklama ve yönetme görevi görür."
     },
     "header-tooltip-title": {
+      "amharic": "ዋሌት",
       "dutch": "Portemonnee",
       "english": "Wallet",
       "french": "Portefeuille",
@@ -631,11 +888,58 @@
       "korean": "지갑",
       "mandarin": "钱包",
       "portuguese": "Carteira",
+      "russian": "Кошелек",
       "spanish": "Billetera",
-      "turkish": "Cüzdan",
-      "russian": "Кошелек"
+      "turkish": "Cüzdan"
+    },
+    "linkYourWallet": {
+      "amharic": "ዋሌትዎን ያያይዙ",
+      "dutch": "Uw portemonnee koppelen",
+      "english": "Link your wallet",
+      "french": "Lier votre portefeuille",
+      "german": "Ihre Wallet verknüpfen",
+      "japanese": "ウォレットをリンク",
+      "korean": "지갑 연결하기",
+      "mandarin": "关联您的钱包",
+      "portuguese": "Vincule sua carteira",
+      "spanish": "Vincula tu billetera",
+      "turkish": "Cüzdanınızı bağlayın"
+    },
+    "loader.authorizing-header": {
+      "english": "Verify on {{connector}}",
+      "french": "Vérifier sur {{connector}}",
+      "german": "Überprüfen auf {{connector}}",
+      "japanese": "{{connector}}で確認",
+      "korean": "{{connector}}로 확인",
+      "mandarin": "{{connector}}验证",
+      "portuguese": "Verificar em {{connector}}",
+      "spanish": "Verificar en {{connector}}",
+      "turkish": "{{connector}} ile doğrula"
+    },
+    "loader.authorizing-message": {
+      "english": "We’ve sent a request to your wallet. Verify on your wallet to confirm that you own this wallet.",
+      "french": "Nous avons envoyé une demande à votre portefeuille. Vérifiez votre portefeuille pour confirmer que vous possédez ce portefeuille.",
+      "german": "Wir haben eine Anfrage an Ihr Wallet gesendet. Überprüfen Sie Ihr Wallet, um zu bestätigen, dass Sie dieses Wallet besitzen.",
+      "japanese": "ウォレットにリクエストを送信しました。ウォレットで確認して、このウォレットを所有していることを確認してください。",
+      "korean": "월렛에 요청을 보냈습니다. 월렛에서 확인하여 이 월렛을 소유하고 있는지 확인해주세요.",
+      "mandarin": "我们已经向您的钱包发送了请求。请在您的钱包上确认，以确认您拥有此钱包。",
+      "portuguese": "Enviamos uma solicitação para seu portfólio. Verifique no seu portfólio para confirmar que você possui este portfólio.",
+      "spanish": "Hemos enviado una solicitud a su cartera. Verifique en su cartera para confirmar que posee esta cartera.",
+      "turkish": "Biz size bir istek gönderdik. Bu cüzdanınız olduğunu doğrulamak için cüzdanınızda doğrulayın."
+    },
+    "loader.authorizing-verify-btn": {
+      "english": " Click here to verify",
+      "french": "Cliquez ici pour vérifier",
+      "german": "Klicken Sie hier, um zu verifizieren",
+      "japanese": "確認するにはここをクリックしてください",
+      "korean": "확인하려면 여기를 클릭하세요",
+      "mandarin": "点击此处进行验证",
+      "portuguese": "Clique aqui para verificar",
+      "spanish": "Haga clic aquí para verificar",
+      "turkish": "Doğrulamak için buraya tıklayın"
     },
     "network.add-request": {
+      "amharic": "ይህ ድር ጣቢያ ኔትወርክ ለመጨመር ትእዛዝ እየጠየቀ ነው።",
       "dutch": "Deze site vraagt om een netwerk toe te voegen",
       "english": "This site is requesting to add a network",
       "french": "Ce site demande d'ajouter un réseau",
@@ -644,11 +948,12 @@
       "korean": "이 사이트에서 네트워크 추가를 요청하고 있습니다",
       "mandarin": "此站点正在请求添加网络",
       "portuguese": "Este site está solicitando adicionar uma rede",
+      "russian": "Этот сайт запрашивает добавление сети",
       "spanish": "Este sitio está solicitando agregar una red",
-      "turkish": "Bu site bir ağ eklemek istiyor",
-      "russian": "Этот сайт запрашивает добавление сети"
+      "turkish": "Bu site bir ağ eklemek istiyor"
     },
     "network.cancel": {
+      "amharic": "ይቅር\"",
       "dutch": "Annuleren",
       "english": "Cancel",
       "french": "Annuler",
@@ -657,11 +962,12 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
+      "russian": "Отмена",
       "spanish": "Cancelar",
-      "turkish": "İptal",
-      "russian": "Отмена"
+      "turkish": "İptal"
     },
     "network.from": {
+      "amharic": "ከ",
       "dutch": "Van",
       "english": "From",
       "french": "De",
@@ -670,11 +976,12 @@
       "korean": "보낸 사람",
       "mandarin": "从",
       "portuguese": "De",
+      "russian": "От",
       "spanish": "De",
-      "turkish": "Nereden",
-      "russian": "От"
+      "turkish": "Nereden"
     },
     "network.proceed": {
+      "amharic": "ቀጥሉ",
       "dutch": "Doorgaan",
       "english": "Proceed",
       "french": "Continuer",
@@ -683,11 +990,12 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Prosseguir",
+      "russian": "Продолжить",
       "spanish": "Continuar",
-      "turkish": "Devam",
-      "russian": "Продолжить"
+      "turkish": "Devam"
     },
     "network.switch-request": {
+      "amharic": "ይህ ድር ጣቢያ ኔትወርክ ለመቀየር እየጠየቀ ነው።",
       "dutch": "Deze site vraagt om over te schakelen naar een ander netwerk",
       "english": "This site is requesting to switch networks",
       "french": "Ce site demande de changer de réseau",
@@ -696,11 +1004,12 @@
       "korean": "이 사이트에서 네트워크 전환을 요청하고 있습니다",
       "mandarin": "此站点正在请求切换网络",
       "portuguese": "Este site está solicitando trocar de rede",
+      "russian": "Этот сайт запрашивает переключение сети",
       "spanish": "Este sitio está solicitando cambiar de red",
-      "turkish": "Bu site ağ değiştirmeyi talep ediyor",
-      "russian": "Этот сайт запрашивает переключение сети"
+      "turkish": "Bu site ağ değiştirmeyi talep ediyor"
     },
     "network.to": {
+      "amharic": "ወደ",
       "dutch": "Naar",
       "english": "To",
       "french": "À",
@@ -709,11 +1018,12 @@
       "korean": "받는 사람",
       "mandarin": "至",
       "portuguese": "Para",
+      "russian": "К",
       "spanish": "A",
-      "turkish": "Nereye",
-      "russian": "К"
+      "turkish": "Nereye"
     },
     "otp.email-subtext": {
+      "amharic": "እባክዎ 6 ፊጣሪ የማረጋገጫ ኮዱን ያስገቡ።",
       "dutch": "Voer de 6-cijferige verificatiecode in",
       "english": "Please enter the 6-digit verification code",
       "french": "Veuillez entrer le code de vérification 6 chiffres",
@@ -722,11 +1032,12 @@
       "korean": "6자리 인증 코드를 입력하세요",
       "mandarin": "请输入6位验证码",
       "portuguese": "Por favor, insira o código de verificação de 6 dígitos",
+      "russian": "Пожалуйста, введите 6-значный код подтверждения",
       "spanish": "Por favor, ingrese el código de verificación de 6 dígitos",
-      "turkish": "6 haneli doğrulama kodunu giriniz",
-      "russian": "Пожалуйста, введите 6-значный код подтверждения"
+      "turkish": "6 haneli doğrulama kodunu giriniz"
     },
     "otp.email-subtext-example": {
+      "amharic": "ወደ ኢሜይልዎ {{email}} የተላከው",
       "dutch": "{{email}} adres is verstuurd",
       "english": "that was sent to your email {{email}}",
       "french": "qui a été envoyé à votre email {{email}}",
@@ -735,11 +1046,12 @@
       "korean": "{{email}}에 전송된 것입니다",
       "mandarin": "{{email}} 发送的",
       "portuguese": "que foi enviado para o seu email {{email}}",
-      "spanish": "que fue enviado a su email {{email}}",
-      "turkish": "{{email}} adresine gönderildi",
-      "russian": "который был отправлен на вашу почту {{email}}"
+      "russian": "который был отправлен на вашу почту {{email}}",
+      "spanish": "que fue enviado a su correo electrónico {{email}}",
+      "turkish": "{{email}} adresine gönderildi"
     },
     "otp.email-title": {
+      "amharic": "የኢሜይል ማረጋገጫ",
       "dutch": "Email Verificatie",
       "english": "Email verification",
       "french": "Vérification de l'email",
@@ -748,11 +1060,12 @@
       "korean": "이메일 검증",
       "mandarin": "电子邮件验证",
       "portuguese": "Verificação de email",
-      "spanish": "Verificación de email",
-      "turkish": "Email Doğrulama",
-      "russian": "Проверка электронной почты"
+      "russian": "Проверка электронной почты",
+      "spanish": "Verificación de correo electrónico",
+      "turkish": "Email Doğrulama"
     },
     "otp.mobile-subtext": {
+      "amharic": "ወደ ተላከው የOTP ኮድ ያስገቡ",
       "dutch": "OTP Verificatie",
       "english": "Enter the OTP sent to",
       "french": "Entrez le OTP envoyé à",
@@ -761,11 +1074,12 @@
       "korean": "OTP 검증",
       "mandarin": "输入 OTP 验证",
       "portuguese": "Verifique o OTP enviado para",
+      "russian": "Введите OTP, отправленный на",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama",
-      "russian": "Введите OTP, отправленный на"
+      "turkish": "OTP Doğrulama"
     },
     "otp.mobile-title": {
+      "amharic": "የOTP ማረጋገጫ",
       "dutch": "OTP Verificatie",
       "english": "OTP verification",
       "french": "Vérification OTP",
@@ -774,11 +1088,12 @@
       "korean": "OTP 검증",
       "mandarin": "OTP 验证",
       "portuguese": "Verificação OTP",
+      "russian": "Проверка OTP",
       "spanish": "Verificación OTP",
-      "turkish": "OTP Doğrulama",
-      "russian": "Проверка OTP"
+      "turkish": "OTP Doğrulama"
     },
     "otp.success": {
+      "amharic": "ከአካውንትዎ ጋር ተገናኝተዋል!",
       "dutch": "U bent verbonden met uw account!",
       "english": "You are connected to your account!",
       "french": "Vous êtes connecté à votre compte!",
@@ -787,11 +1102,12 @@
       "korean": "당신은 당신의 계정에 연결되어 있습니다!",
       "mandarin": "您已连接到您的帐户！",
       "portuguese": "Você está conectado ao seu conta!",
+      "russian": "Вы вошли в аккаунт!",
       "spanish": "¡Estás conectado a tu cuenta!",
-      "turkish": "Hesabınıza bağlandınız!",
-      "russian": "Вы вошли в аккаунт!"
+      "turkish": "Hesabınıza bağlandınız!"
     },
     "passkey.add": {
+      "amharic": "ፓስኪ ያክሉ",
       "dutch": "Passkey toevoegen",
       "english": "Add Passkey",
       "french": "Ajouter Passkey",
@@ -800,11 +1116,12 @@
       "korean": "Passkey 추가",
       "mandarin": "添加Passkey",
       "portuguese": "Adicionar Passkey",
+      "russian": "Добавить Passkey",
       "spanish": "Añadir Passkey",
-      "turkish": "Passkey ekle",
-      "russian": "Добавить Passkey"
+      "turkish": "Passkey ekle"
     },
     "passkey.haveExisting": {
+      "amharic": "ቀድሞ ያለዎት ፓስኪ አለ?",
       "dutch": "Heeft u een bestaande passkey?",
       "english": "Have an existing passkey?",
       "french": "Vous disposez déjà d'un passkey ?",
@@ -813,11 +1130,12 @@
       "korean": "기존 passkey가 있나요?",
       "mandarin": "已有 passkey 吗？",
       "portuguese": "Você já possui um passkey?",
+      "russian": "У вас уже есть passkey?",
       "spanish": "¿Tiene un passkey existente?",
-      "turkish": "Mevcut bir passkey'ınız mı var?",
-      "russian": "У вас уже есть passkey?"
+      "turkish": "Mevcut bir passkey'ınız mı var?"
     },
     "passkey.learn-more": {
+      "amharic": "ተጨማሪ ይወቁ",
       "dutch": "Kom meer te weten",
       "english": "Learn more",
       "french": "Apprendre encore plus",
@@ -826,11 +1144,12 @@
       "korean": "더 알아보기",
       "mandarin": "了解更多",
       "portuguese": "Saber mais",
+      "russian": "Узнать больше",
       "spanish": "Aprende más",
-      "turkish": "Daha fazla bilgi edin",
-      "russian": "Узнать больше"
+      "turkish": "Daha fazla bilgi edin"
     },
     "passkey.or": {
+      "amharic": "ወይም",
       "dutch": "of",
       "english": "or",
       "french": "ou",
@@ -839,11 +1158,12 @@
       "korean": "또는",
       "mandarin": "或者",
       "portuguese": "ou",
+      "russian": "или",
       "spanish": "o",
-      "turkish": "veya",
-      "russian": "или"
+      "turkish": "veya"
     },
     "passkey.register-desc": {
+      "amharic": "ፓስኪዎችን በመጠቀም ከፊትዎ፣ ከእጅ አሻራዎ ወይም ከደህንነት ቁልፎች በኩል መታወቂያዎን ማረጋገጥ ትችላለህ/ትችላለህ።",
       "dutch": "Met passkeys kunt u uw identiteit verifiëren via uw gezicht, vingerafdruk of beveiligingssleutels.",
       "english": "With passkeys, you can verify your identity through your face, fingerprint, or security keys.",
       "french": "Avec passkeys, vous pouvez vérifier votre identité grâce à votre visage, vos empreintes digitales ou vos clés de sécurité.",
@@ -852,11 +1172,12 @@
       "korean": "passkeys 사용 시 얼굴, 지문 또는 보안 키를 통해 본인임을 인증할 수 있습니다.",
       "mandarin": "使用passkeys，您可以通过面部、指纹或安全密钥验证您的身份。",
       "portuguese": "Com passkeys, você pode verificar sua identidade por meio de seu rosto, impressão digital ou chaves de segurança.",
+      "russian": "С помощью passkeys вы можете подтвердить свою личность по лицу, отпечатку пальца или ключам безопасности.",
       "spanish": "Con passkeys, puedes verificar tu identidad a través de tu rostro, huella digital o claves de seguridad.",
-      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz.",
-      "russian": "С помощью passkeys вы можете подтвердить свою личность по лицу, отпечатку пальца или ключам безопасности."
+      "turkish": "passkeys ile kimliğinizi yüzünüz, parmak iziniz veya güvenlik anahtarlarınız aracılığıyla doğrulayabilirsiniz."
     },
     "passkey.register-title": {
+      "amharic": "ፓስኪ ይመዝገቡ",
       "dutch": "Registreer Passkey",
       "english": "Register Passkey",
       "french": "Inscrivez-vous Passkey",
@@ -865,11 +1186,12 @@
       "korean": "Passkey 등록",
       "mandarin": "注册Passkey",
       "portuguese": "Registre-se Passkey",
+      "russian": "Зарегистрировать Passkey",
       "spanish": "Registrarse Passkey",
-      "turkish": "Passkey'ı kaydedin",
-      "russian": "Зарегистрировать Passkey"
+      "turkish": "Passkey'ı kaydedin"
     },
     "passkey.use": {
+      "amharic": "ፓስኪ አለኝ",
       "dutch": "Ik heb een passkey",
       "english": "I have a passkey",
       "french": "J'ai un passkey",
@@ -878,11 +1200,12 @@
       "korean": "기존 Passkey 사용하기",
       "mandarin": "我有一个Passkey",
       "portuguese": "Eu tenho uma passkey",
+      "russian": "У меня есть passkey",
       "spanish": "Tengo una Passkey",
-      "turkish": "Bir passkey'im var",
-      "russian": "У меня есть passkey"
+      "turkish": "Bir passkey'im var"
     },
     "passwordless.title": {
+      "amharic": "በ{{title}} ቀጥሉ",
       "dutch": "Doorgaan met {{title}}",
       "english": "Continue with {{title}}",
       "french": "Continuer avec {{title}}",
@@ -891,11 +1214,12 @@
       "korean": "{{title}} 로 계속하기",
       "mandarin": "继续使用 {{title}}",
       "portuguese": "Continuar com {{title}}",
+      "russian": "Продолжить с {{title}}",
       "spanish": "Continuar con {{title}}",
-      "turkish": "{{title}} ile devam et",
-      "russian": "Продолжить с {{title}}"
+      "turkish": "{{title}} ile devam et"
     },
     "popup.phone-body": {
+      "amharic": "የአገር ኮድዎ በራሱ ይታወቃል፣ ነገር ግን ከተለየ አገር የስልክ ቁጥር ብትጠቀሙ ትክክለኛውን የአገር ኮድ በእጅ ማስገባት ያስፈልጋል።",
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u handmatig de juiste landcode invoeren.",
       "english": "Your country code will be detected automatically, but if you're using a phone number from a different country, you'll need to enter the correct country code manually.",
       "french": "Votre code pays sera détecté automatiquement, mais si vous utilisez un numéro de téléphone d'un autre pays, vous devrez saisir manuellement le bon code pays.",
@@ -904,11 +1228,12 @@
       "korean": "국가 코드는 자동으로 감지됩니다. 그러나 다른 국가의 전화번호를 사용하는 경우, 올바른 국가 코드를 수동으로 입력해야 합니다.",
       "mandarin": "您的国家代码将自动检测到，但如果您使用其他国家/地区的电话号码，您需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se estiver usando um número de telefone de um país diferente, você precisará inserir manualmente o código correto do país.",
+      "russian": "Код вашей страны будет определён автоматически, но если вы используете номер из другой страны, вам нужно вручную ввести правильный код страны.",
       "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de otro país, deberá ingresar manualmente el código de país correcto.",
-      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir.",
-      "russian": "Код вашей страны будет определён автоматически, но если вы используете номер из другой страны, вам нужно вручную ввести правильный код страны."
+      "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekir."
     },
     "popup.phone-header": {
+      "amharic": "የስልክ ቁጥር እና የአገር ኮድ",
       "dutch": "Telefoonnummer en landcode",
       "english": "Phone number and country code",
       "french": "Numéro de téléphone et code pays",
@@ -917,11 +1242,12 @@
       "korean": "전화번호 및 국가 코드",
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código do país",
+      "russian": "Номер телефона и код страны",
       "spanish": "Número de teléfono y código de país",
-      "turkish": "Telefon numarası ve ülke kodu",
-      "russian": "Номер телефона и код страны"
+      "turkish": "Telefon numarası ve ülke kodu"
     },
     "post-loading.connected": {
+      "amharic": "አካውንትዎ ተገናኝቷል።",
       "dutch": "U bent verbonden met uw account",
       "english": "You are connected with your account",
       "french": "Vous êtes connecté avec votre compte",
@@ -930,11 +1256,12 @@
       "korean": "계정에 연결되었습니다",
       "mandarin": "您与您的帐户有联系",
       "portuguese": "Você está conectado com sua conta",
+      "russian": "Вы подключены к своему аккаунту",
       "spanish": "Estás conectado con tu cuenta",
-      "turkish": "Hesabınızla bağlandınız",
-      "russian": "Вы подключены к своему аккаунту"
+      "turkish": "Hesabınızla bağlandınız"
     },
     "post-loading.something-wrong": {
+      "amharic": "ሆነ ችግኝ ተፈጥሯል!",
       "dutch": "Er is iets fout gegaan!",
       "english": "Something went wrong!",
       "french": "Quelque chose s'est mal passé!",
@@ -943,11 +1270,12 @@
       "korean": "오류가 발생했습니다!",
       "mandarin": "出了些问题！",
       "portuguese": "Algo deu errado!",
+      "russian": "Что-то пошло не так!",
       "spanish": "¡Algo salió mal!",
-      "turkish": "Bir şeyler ters gitti!",
-      "russian": "Что-то пошло не так!"
+      "turkish": "Bir şeyler ters gitti!"
     },
     "resendCode": {
+      "amharic": "ኮድ እንደገና ይላኩ",
       "dutch": "Code opnieuw verzenden",
       "english": "Resend Code",
       "french": "Renvoyer le code",
@@ -956,11 +1284,12 @@
       "korean": "코드 다시 보내기",
       "mandarin": "重新发送代码",
       "portuguese": "Reenviar código",
+      "russian": "Отправить код повторно",
       "spanish": "Reenviar código",
-      "turkish": "Kodu tekrar gönder",
-      "russian": "Отправить код повторно"
+      "turkish": "Kodu tekrar gönder"
     },
     "resendTimer": {
+      "amharic": "{{timer}} ሰከንድ በኋላ እንደገና ይላኩ",
       "dutch": " Opnieuw verzenden in {{timer}} seconden",
       "english": " Resend in {{timer}} seconds",
       "french": " Renvoyer dans {{timer}} secondes",
@@ -969,37 +1298,40 @@
       "korean": " {{timer}} 초 후 다시 보내기",
       "mandarin": " {{timer}} 秒后重新发送",
       "portuguese": " Reenviar em {{timer}} segundos",
+      "russian": " Повторно отправить через {{timer}} секунд",
       "spanish": " Reenviar en {{timer}} segundos",
-      "turkish": " {{timer}} saniye sonra tekrar gönder",
-      "russian": " Повторно отправить через {{timer}} секунд"
+      "turkish": " {{timer}} saniye sonra tekrar gönder"
     },
     "social.continue": {
+      "amharic": "በ… ቀጥሉ",
       "dutch": "Doorgaan met",
       "english": "Continue with",
       "french": "Continuer avec",
       "german": "Weitermachen mit",
-      "japanese": "続ける",
+      "japanese": "で続行",
       "korean": "계속하기",
       "mandarin": "继续",
       "portuguese": "Continuar com",
+      "russian": "Продолжить с",
       "spanish": "Continuar con",
-      "turkish": "Devam et: ",
-      "russian": "Продолжить с"
+      "turkish": "Devam et: "
     },
     "social.continueCustom": {
+      "amharic": "በ{{adapter}} ቀጥሉ",
       "dutch": "Doorgaan met {{adapter}}",
       "english": "Continue with {{adapter}}",
       "french": "Continuer avec {{adapter}}",
       "german": "Fahren Sie mit {{adapter}} fort",
-      "japanese": "{{adapter}}を続けます",
+      "japanese": "{{adapter}}で続行",
       "korean": "{{adapter}}로 계속하기",
       "mandarin": "继续使用{{adapter}}",
       "portuguese": "Continue com o {{adapter}}",
+      "russian": "Продолжить с {{adapter}}",
       "spanish": "Continuar con {{adapter}}",
-      "turkish": "{{adapter}} ile devam et",
-      "russian": "Продолжить с {{adapter}}"
+      "turkish": "{{adapter}} ile devam et"
     },
     "social.email": {
+      "amharic": "ኢሜይል",
       "dutch": "E-mail",
       "english": "Email",
       "french": "Email",
@@ -1008,11 +1340,12 @@
       "korean": "이메일",
       "mandarin": "电子邮件",
       "portuguese": "Email",
+      "russian": "Электронная почта",
       "spanish": "Correo electrónico",
-      "turkish": "E-posta",
-      "russian": "Электронная почта"
+      "turkish": "E-posta"
     },
     "social.email-continue": {
+      "amharic": "በኢሜይል ቀጥሉ",
       "dutch": "Doorgaan met e-mail",
       "english": "Continue with Email",
       "french": "Continuer avec l'email",
@@ -1021,11 +1354,12 @@
       "korean": "이메일로 계속하기",
       "mandarin": "继续使用电子邮件",
       "portuguese": "Continuar com email",
+      "russian": "Продолжить с электронной почтой",
       "spanish": "Continuar con correo electrónico",
-      "turkish": "E-posta ile devam et",
-      "russian": "Продолжить с электронной почтой"
+      "turkish": "E-posta ile devam et"
     },
     "social.email-new": {
+      "amharic": "ስም@example.com",
       "dutch": "naam@voorbeeld.com",
       "english": "name@example.com",
       "french": "nom@exemple.com",
@@ -1034,24 +1368,26 @@
       "korean": "name@example.com",
       "mandarin": "name@example.com",
       "portuguese": "nome@exemplo.com",
+      "russian": "имя@пример.com",
       "spanish": "nombre@ejemplo.com",
-      "turkish": "isim@ornek.com",
-      "russian": "имя@пример.com"
+      "turkish": "isim@ornek.com"
     },
     "social.passwordless-cta": {
+      "amharic": "ቀጥሉ",
       "dutch": "Doorgaan",
       "english": "Continue",
       "french": "Continuer",
       "german": "Weitermachen",
-      "japanese": "続ける",
+      "japanese": "続行",
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
-      "turkish": "Devam et",
-      "russian": "Продолжить"
+      "turkish": "Devam et"
     },
     "social.passwordless-login": {
+      "amharic": "ግባ",
       "dutch": "Log in",
       "english": "Login",
       "french": "Se connecter",
@@ -1060,11 +1396,12 @@
       "korean": "로그인",
       "mandarin": "登录",
       "portuguese": "Conecte-se",
+      "russian": "Вход",
       "spanish": "Acceso",
-      "turkish": "Giriş yapmak",
-      "russian": "Вход"
+      "turkish": "Giriş yapmak"
     },
     "social.passwordless-title": {
+      "amharic": "ኢሜይል/ስልክ",
       "dutch": "E-mail/Telefoon",
       "english": "Email/Phone",
       "french": "Email/Téléphone",
@@ -1073,11 +1410,12 @@
       "korean": "이메일/전화번호",
       "mandarin": "电子邮件/电话",
       "portuguese": "Email/Telefone",
-      "spanish": "Email/Teléfono",
-      "turkish": "E-posta/Telefon",
-      "russian": "Эл. почта/Телефон"
+      "russian": "Эл. почта/Телефон",
+      "spanish": "Correo electrónico/Teléfono",
+      "turkish": "E-posta/Telefon"
     },
     "social.phone": {
+      "amharic": "ስልክ",
       "dutch": "Telefoon",
       "english": "Phone",
       "french": "Téléphone",
@@ -1086,11 +1424,12 @@
       "korean": "전화번호",
       "mandarin": "电话",
       "portuguese": "Telefone",
+      "russian": "Телефон",
       "spanish": "Teléfono",
-      "turkish": "Telefon",
-      "russian": "Телефон"
+      "turkish": "Telefon"
     },
     "social.policy": {
+      "amharic": "ከማህበራዊ መግቢያዎችዎ ጋር ተያያዥ ማንኛውንም ውሂብ አንቀምጥም።",
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
       "english": "We do not store any data related to your social logins.",
       "french": "Nous ne stockons aucune donnée liée à vos connexions sociales.",
@@ -1099,11 +1438,12 @@
       "korean": "저희는 소셜 로그인과 관련된 어떠한 데이터도 저장하지 않습니다.",
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "russian": "Мы не храним данные, связанные с вашими социальными входами.",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
-      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz.",
-      "russian": "Мы не храним данные, связанные с вашими социальными входами."
+      "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
     "social.sign-in": {
+      "amharic": "ይግቡ",
       "dutch": "Inloggen",
       "english": "Sign in",
       "french": "Connexion",
@@ -1112,11 +1452,12 @@
       "korean": "로그인",
       "mandarin": "登录",
       "portuguese": "Entrar",
+      "russian": "Войти",
       "spanish": "Iniciar sesión",
-      "turkish": "Giriş yap",
-      "russian": "Войти"
+      "turkish": "Giriş yap"
     },
     "social.sms": {
+      "amharic": "ተለዋዋጭ\"",
       "dutch": "Mobiel",
       "english": "Mobile",
       "french": "Mobile",
@@ -1125,11 +1466,12 @@
       "korean": "모바일",
       "mandarin": "移动",
       "portuguese": "Móvel",
+      "russian": "Мобильный",
       "spanish": "Móvil",
-      "turkish": "Mobil Telefon",
-      "russian": "Мобильный"
+      "turkish": "Mobil Telefon"
     },
     "social.sms-continue": {
+      "amharic": "በሞባይል ቀጥሉ",
       "dutch": "Doorgaan met mobiel",
       "english": "Continue with Mobile",
       "french": "Continuer avec le mobile",
@@ -1138,11 +1480,12 @@
       "korean": "모바일로 계속하기",
       "mandarin": "继续使用移动设备",
       "portuguese": "Continuar com o celular",
+      "russian": "Продолжить с мобильного",
       "spanish": "Continuar con móvil",
-      "turkish": "Telefon ile devam et",
-      "russian": "Продолжить с мобильного"
+      "turkish": "Telefon ile devam et"
     },
     "social.sms-invalid-number": {
+      "amharic": "የተሳሳተ የስልክ ቁጥር",
       "dutch": "Ongeldig telefoonnummer",
       "english": "Invalid phone number",
       "french": "Numéro de téléphone invalide",
@@ -1151,11 +1494,12 @@
       "korean": "유효하지 않은 전화번호",
       "mandarin": "无效的电话号码",
       "portuguese": "Número de telefone inválido",
+      "russian": "Неверный номер телефона",
       "spanish": "Número de teléfono inválido",
-      "turkish": "Geçersiz telefon numarası",
-      "russian": "Неверный номер телефона"
+      "turkish": "Geçersiz telefon numarası"
     },
     "social.sms-placeholder-text": {
+      "amharic": "ለምሳሌ፦",
       "dutch": "Bijv.:",
       "english": "E.g.:",
       "french": "Par exemple :",
@@ -1164,37 +1508,40 @@
       "korean": "예시:",
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
+      "russian": "Напр.:",
       "spanish": "Por ej.:",
-      "turkish": "Örneğin:",
-      "russian": "Напр.:"
+      "turkish": "Örneğin:"
     },
     "social.view-less": {
+      "amharic": "ብርቱ አሳይ",
       "dutch": "Minder bekijken",
       "english": "View less",
       "french": "Voir moins",
       "german": "Weniger anzeigen",
-      "japanese": "表示が少なくなります",
+      "japanese": "表示を減らす",
       "korean": "간략히 보기",
       "mandarin": "少查看",
       "portuguese": "Ver menos",
+      "russian": "Показать меньше",
       "spanish": "Ver menos",
-      "turkish": "Daha az görüntüle",
-      "russian": "Показать меньше"
+      "turkish": "Daha az görüntüle"
     },
     "social.view-less-socials": {
+      "amharic": "ያነሰ የማህበራዊ አማራጮች አሳይ",
       "dutch": "Bekijk minder socials",
       "english": "View less socials",
       "french": "Voir moins socials",
       "german": "Weniger anzeigen socials",
-      "japanese": "表示を減らす socials",
+      "japanese": "Socials の表示を減らす",
       "korean": "Socials 간략히 보기",
       "mandarin": "查看更少socials",
       "portuguese": "Ver menos socials",
+      "russian": "Показать меньше соцсетей",
       "spanish": "Ver menos socials",
-      "turkish": "Daha az socials görüntüle",
-      "russian": "Показать меньше соцсетей"
+      "turkish": "Daha az socials görüntüle"
     },
     "social.view-more": {
+      "amharic": "ተጨማሪ አሳይ",
       "dutch": "Meer bekijken",
       "english": "View more",
       "french": "Voir plus",
@@ -1203,26 +1550,41 @@
       "korean": "더보기",
       "mandarin": "查看更多",
       "portuguese": "Ver mais",
+      "russian": "Показать больше",
       "spanish": "Ver más",
-      "turkish": "Daha fazla görüntüle",
-      "russian": "Показать больше"
+      "turkish": "Daha fazla görüntüle"
     },
     "social.view-more-socials": {
+      "amharic": "ተጨማሪ የማህበራዊ አማራጮች አሳይ",
       "dutch": "Bekijk meer socials",
       "english": "View more socials",
       "french": "Voir plus socials",
       "german": "Weitere socials anzeigen",
-      "japanese": "もっと見る socials",
+      "japanese": "Socials をもっと見る",
       "korean": "Socials 더보기",
       "mandarin": "查看更多socials",
       "portuguese": "Ver mais socials",
+      "russian": "Показать больше соцсетей",
       "spanish": "Ver más socials",
-      "turkish": "Daha fazlasını görüntüle socials",
-      "russian": "Показать больше соцсетей"
+      "turkish": "Daha fazlasını görüntüle socials"
     }
   },
   "passwordless": {
+    "captcha-default-error": {
+      "amharic": "በማረጋገጫ ሂደት ወቅት ያልተጠበቀ ስህተት ተከስቷል። እባክዎ ገጹን እንደገና ለመጫን ይሞክሩ።",
+      "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
+      "english": "An unexpected error occurred during verification. Please try reloading the page.",
+      "french": "Une erreur inattendue est survenue lors de la vérification. Veuillez essayer de recharger la page.",
+      "german": "Ein unerwarteter Fehler ist während der Überprüfung aufgetreten. Bitte versuchen Sie, die Seite neu zu laden.",
+      "japanese": "検証中に予期しないエラーが発生しました。ページを再読み込みしてください。",
+      "korean": "인증 중 예기치 않은 오류가 발생했습니다. 페이지를 새로 고치세요.",
+      "mandarin": "验证过程中发生意外错误。请重新加载页面。",
+      "portuguese": "Ocorreu um erro inesperado durante a verificação. Por favor, tente recarregar a página.",
+      "spanish": "Se ha producido un error inesperado durante la verificación. Por favor, inténtelo de nuevo recargando la página.",
+      "turkish": "Doğrulama sırasında beklenmedik bir hata oluştu. Lütfen sayfayı yeniden yükleyin."
+    },
     "error-invalid-link": {
+      "amharic": "የማረጋገጫው ሊንክ የተሳሳተ ነው ወይም ጊዜው አልፏል",
       "dutch": "Ongeldige verificatielink of link verlopen",
       "english": "Invalid verification link or link expired",
       "french": "Lien de vérification invalide ou lien expiré",
@@ -1231,11 +1593,12 @@
       "korean": "유효하지 않은 인증 링크이거나 링크가 만료되었습니다",
       "mandarin": "无效的验证链接或链接已过期",
       "portuguese": "Link de verificação inválido ou link expirado",
+      "russian": "Неверная ссылка для проверки или ссылка истекла",
       "spanish": "El enlace o el enlace de verificación ha expirado",
-      "turkish": "Hatalı ya da süresi geçmiş doğrulama linki",
-      "russian": "Неверная ссылка для проверки или ссылка истекла"
+      "turkish": "Hatalı ya da süresi geçmiş doğrulama linki"
     },
     "error-invalid-origin": {
+      "amharic": "ነገር ተደፍቷል፣ የስህተት ኮድ፦ E002",
       "dutch": "Er is iets misgegaan, foutcode: E002",
       "english": "Something went wrong, error code: E002",
       "french": "Quelque chose s'est mal passé, code d'erreur: E002",
@@ -1244,11 +1607,12 @@
       "korean": "문제가 발생했습니다, 오류 코드: E002",
       "mandarin": "出问题了, 错误代码: E002",
       "portuguese": "Algo deu errado, código de erro: E002",
+      "russian": "Что-то пошло не так, код ошибки: E002",
       "spanish": "Algo salió mal, código de error: E002",
-      "turkish": "Bir şeyler ters gitti, hata kodu: E002",
-      "russian": "Что-то пошло не так, код ошибки: E002"
+      "turkish": "Bir şeyler ters gitti, hata kodu: E002"
     },
     "error-invalid-otp": {
+      "amharic": "OTP ትክክል አይደለም፣ እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Ongeldige OTP, probeer het opnieuw",
       "english": "Invalid OTP, please try again",
       "french": "OTP non valide, veuillez réessayer",
@@ -1257,11 +1621,12 @@
       "korean": "유효하지 않은 OTP입니다. 다시 시도해 주세요.",
       "mandarin": "无效的OTP，请重试",
       "portuguese": "OTP inválido, por favor tente novamente",
+      "russian": "Неверный OTP, пожалуйста, попробуйте снова",
       "spanish": "OTP no válido, intente nuevamente",
-      "turkish": "Hatalı OTP, lütfen tekrar deneyin.",
-      "russian": "Неверный OTP, пожалуйста, попробуйте снова"
+      "turkish": "Hatalı OTP, lütfen tekrar deneyin."
     },
     "error-invalid-params": {
+      "amharic": "የጎደለ ወይም የተሳሳተ መለኪያ (Parameter)",
       "dutch": "Ontbrekende of ongeldige parameters",
       "english": "Missing or Invalid Parameters.",
       "french": "Paramètres manquants ou invalides.",
@@ -1270,24 +1635,39 @@
       "korean": "누락되었거나 유효하지 않은 정보입니다.",
       "mandarin": "缺失或无效参数",
       "portuguese": "Parâmetros ausentes ou inválidos",
+      "russian": "Отсутствуют или недействительны параметры.",
       "spanish": "Parámetros faltantes o no válidos",
-      "turkish": "Eksik ya da hatalı parametreler var.",
-      "russian": "Отсутствуют или недействительны параметры."
+      "turkish": "Eksik ya da hatalı parametreler var."
+    },
+    "error-invalid-test-account": {
+      "amharic": "ትክክል ያልሆነ የሙከራ አካውንት",
+      "dutch": "Ongeldig testaccount",
+      "english": "Invalid test account",
+      "french": "Compte de test non valide",
+      "german": "Ungültiges Testkonto",
+      "japanese": "無効なテストアカウント",
+      "korean": "잘못된 테스트 계정입니다",
+      "mandarin": "测试账户无效",
+      "portuguese": "Conta de teste inválida",
+      "spanish": "Cuenta de prueba no válida",
+      "turkish": "Geçersiz test hesabı"
     },
     "error-max-retry-limit-reached": {
+      "amharic": "የተሳሳቱ ሙከራዎች መጠንን አልፈዋል። ማረጋገጡን ለማጠናቀቅ ሂደቱን እንደገና ይጀምሩ።",
       "dutch": "U heeft de limiet voor verkeerde pogingen bereikt. Start de stroom opnieuw om de verificatie te voltooien.",
       "english": "You have reached the limit for wrong attempts. Please restart the flow again to complete verification.",
       "french": "Vous avez atteint la limite pour les tentatives erronées. Veuillez redémarrer le flux pour terminer la vérification.",
       "german": "Sie haben die Grenze für falsche Versuche erreicht. Bitte starten Sie den Fluss erneut neu, um die Überprüfung abzuschließen.",
-      "japanese": "間違った試みの制限に達しました。確認を完了するには、フローをもう一度再起動してください。",
+      "japanese": "エラー回数の制限に達しました。確認を完了するには、フローをもう一度再起動してください。",
       "korean": "잘못된 시도 횟수를 초과했습니다. 인증을 완료하려면 절차를 다시 시작해 주세요.",
       "mandarin": "您已经达到了错误的尝试的极限。请再次重新启动流程以完成验证。",
       "portuguese": "Você atingiu o limite para tentativas erradas. Reinicie o fluxo novamente para concluir a verificação.",
+      "russian": "Вы достигли лимита неверных попыток. Пожалуйста, перезапустите процесс, чтобы завершить проверку.",
       "spanish": "Has alcanzado el límite para intentos incorrectos. Reinicie el proceso para completar la verificación.",
-      "turkish": "Hatalı deneme limitine ulaştınız. Doğrulamayı tamamlamak için lütfen akışı baştan başlatın.",
-      "russian": "Вы достигли лимита неверных попыток. Пожалуйста, перезапустите процесс, чтобы завершить проверку."
+      "turkish": "Hatalı deneme limitine ulaştınız. Doğrulamayı tamamlamak için lütfen akışı baştan başlatın."
     },
     "error-new-link-generated-heading": {
+      "amharic": "አዲስ የማረጋገጫ ሊንክ ተፈጥሯል",
       "dutch": "Nieuwe verificatielink gegenereerd",
       "english": "New verification link generated",
       "french": "Nouveau lien de vérification généré",
@@ -1296,11 +1676,12 @@
       "korean": "새 인증 링크가 생성되었습니다.",
       "mandarin": "生成的新验证链接",
       "portuguese": "Novo link de verificação gerado",
+      "russian": "Создана новая ссылка для проверки",
       "spanish": "Nuevo enlace de verificación generado",
-      "turkish": "Yeni doğrulama linki oluşturuldu.",
-      "russian": "Создана новая ссылка для проверки"
+      "turkish": "Yeni doğrulama linki oluşturuldu."
     },
     "error-no-mail-generated": {
+      "amharic": "ምንም ኢሜይል አልተፈጠረም። እባክዎ መጀመሪያ ያለፓስወርድ ሂደቱን ይጀምሩ።",
       "dutch": "Geen e-mail gegenereerd. Start eerst de wachtwoordloze flow.",
       "english": "No mail generated. Please initiate the passwordless flow first.",
       "french": "Aucun courrier généré. Veuillez d'abord lancer le flux sans mot de passe.",
@@ -1309,11 +1690,12 @@
       "korean": "메일이 생성되지 않았습니다. 비밀번호가 없는 절차부터 시작해 주세요.",
       "mandarin": "没有生成邮件。请先启动无密码流。",
       "portuguese": "Nenhum correio gerado. Inicie o fluxo sem senha primeiro.",
+      "russian": "Письмо не было создано. Пожалуйста, сначала запустите безпарольный поток.",
       "spanish": "No se generó el correo. Inicie primero el proceso sin contraseña.",
-      "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın.",
-      "russian": "Письмо не было создано. Пожалуйста, сначала запустите безпарольный поток."
+      "turkish": "E-posta oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
     },
     "error-no-sms-generated": {
+      "amharic": "ምንም OTP አልተፈጠረም። እባክዎ መጀመሪያ ያለፓስወርድ ሂደቱን ይጀምሩ።",
       "dutch": "Geen OTP gegenereerd. Start eerst de wachtwoordloze flow.",
       "english": "No OTP generated. Please initiate the passwordless flow first.",
       "french": "Aucun OTP généré. Veuillez d'abord lancer le flux sans mot de passe.",
@@ -1322,11 +1704,12 @@
       "korean": "OTP가 생성되지 않았습니다. 비밀번호가 없는 절차부터 시작해 주세요.",
       "mandarin": "没有生成OTP。请先启动无密码流。",
       "portuguese": "Nenhum OTP gerado. Inicie o fluxo sem senha primeiro.",
+      "russian": "OTP не был создан. Пожалуйста, сначала запустите безпарольный поток.",
       "spanish": "No se generó OTP. Inicie primero el proceso sin contraseña.",
-      "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın.",
-      "russian": "OTP не был создан. Пожалуйста, сначала запустите безпарольный поток."
+      "turkish": "OTP oluşturulmadı. Lütfen önce şifresiz akışı başlatın."
     },
     "error-otp-expired": {
+      "amharic": "OTP ጊዜው አልፏል",
       "dutch": "OTP verlopen",
       "english": "OTP Expired",
       "french": "OTP expiré",
@@ -1335,11 +1718,12 @@
       "korean": "OTP가 만료되었습니다",
       "mandarin": "OTP过期",
       "portuguese": "OTP expirou",
+      "russian": "OTP истек",
       "spanish": "OTP expiró",
-      "turkish": "OTP'nin süresi geçti.",
-      "russian": "OTP истек"
+      "turkish": "OTP'nin süresi geçti."
     },
     "error-plan-limit-reached": {
+      "amharic": "E411. መጠን ተደርሷል",
       "dutch": "E411. Limiet bereikt",
       "english": "E411. Limit Reached",
       "french": "E411. Limite atteinte",
@@ -1348,11 +1732,12 @@
       "korean": "E411. 제한에 도달했습니다",
       "mandarin": "E411. 限制已达到",
       "portuguese": "E411. Limite atingido",
+      "russian": "E411. Достигнут предел",
       "spanish": "E411. Límite alcanzado",
-      "turkish": "E411. Sınır aşıldı",
-      "russian": "E411. Достигнут предел"
+      "turkish": "E411. Sınır aşıldı"
     },
     "error-recaptcha-verification-failed": {
+      "amharic": "የCaptcha ማረጋገጫ ተሳክቶልም። እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Er is iets misgegaan tijdens het verifiëren. Probeer het opnieuw door de pagina te laden.",
       "english": "Captcha verification failed. Please try again.",
       "french": "La vérification Captcha a échoué. Veuillez réessayer.",
@@ -1361,11 +1746,12 @@
       "korean": "Captcha 인증에 실패했습니다. 다시 시도해 주세요.",
       "mandarin": "Captcha 验证失败。请再试一次。",
       "portuguese": "A verificação Captcha falhou. Por favor, tente novamente.",
+      "russian": "Проверка Captcha не удалась. Пожалуйста, попробуйте снова.",
       "spanish": "La verificación de Captcha ha fallado. Por favor, inténtelo de nuevo.",
-      "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin.",
-      "russian": "Проверка Captcha не удалась. Пожалуйста, попробуйте снова."
+      "turkish": "Captcha doğrulama hatası. Lütfen tekrar deneyin."
     },
     "error-sending-sms-failed": {
+      "amharic": "SMS ለመላክ ስህተት ተፈጥሯል። እባክዎ ደግመው ይሞክሩ።",
       "dutch": "Er is een fout opgetreden bij het verzenden van een sms. Probeer het opnieuw.",
       "english": "There was an error sending an sms. Please try again.",
       "french": "Une erreur s'est produite lors de l'envoi d'un SMS. Veuillez réessayer.",
@@ -1374,11 +1760,12 @@
       "korean": "SMS 전송 중 오류가 발생했습니다. 다시 시도해 주세요.",
       "mandarin": "发送短信的错误。请再试一遍。",
       "portuguese": "Houve um erro de envio de um SMS. Por favor, tente novamente.",
+      "russian": "Ошибка при отправке SMS. Пожалуйста, попробуйте снова.",
       "spanish": "Hubo un error al enviar el SMS. Inténtalo de nuevo.",
-      "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin.",
-      "russian": "Ошибка при отправке SMS. Пожалуйста, попробуйте снова."
+      "turkish": "SMS gönderilirken bir hata oldu. Lütfen tekrar deneyin."
     },
     "something-wrong-error": {
+      "amharic": "አንዳች ተሳስቷል",
       "dutch": "Er is iets misgegaan",
       "english": "Something went wrong",
       "french": "Quelque chose s'est mal passé",
@@ -1387,9 +1774,9 @@
       "korean": "문제가 발생했습니다",
       "mandarin": "出问题了",
       "portuguese": "Algo deu errado",
+      "russian": "Что-то пошло не так",
       "spanish": "Algo salió mal",
-      "turkish": "Bir şeyler ters gitti",
-      "russian": "Что-то пошло не так"
+      "turkish": "Bir şeyler ters gitti"
     }
   }
 }

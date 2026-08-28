@@ -9,9 +9,9 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
+      "russian": "Отменить",
       "spanish": "Cancelar",
-      "turkish": "İptal",
-      "russian": "Отменить"
+      "turkish": "İptal"
     },
     "action-no": {
       "dutch": "Nee",
@@ -22,9 +22,9 @@
       "korean": "아니요",
       "mandarin": "不",
       "portuguese": "Não",
+      "russian": "Нет",
       "spanish": "No",
-      "turkish": "Hayır",
-      "russian": "Нет"
+      "turkish": "Hayır"
     },
     "action-sign-in": {
       "dutch": "Inloggen",
@@ -35,9 +35,9 @@
       "korean": "로그인",
       "mandarin": "登入",
       "portuguese": "Entrar",
+      "russian": "Войти",
       "spanish": "Registrarse",
-      "turkish": "Oturum aç",
-      "russian": "Войти"
+      "turkish": "Oturum aç"
     },
     "action-yes": {
       "dutch": "Ja",
@@ -48,9 +48,9 @@
       "korean": "예",
       "mandarin": "是的",
       "portuguese": "Sim",
+      "russian": "Да",
       "spanish": "sí",
-      "turkish": "Evet",
-      "russian": "Да"
+      "turkish": "Evet"
     },
     "browser-not-supported": {
       "dutch": "Browser niet ondersteund",
@@ -61,9 +61,9 @@
       "korean": "지원되지 않는 브라우저",
       "mandarin": "浏览器不支持",
       "portuguese": "Navegador não suportado",
+      "russian": "Браузер не поддерживается",
       "spanish": "Navegador no compatible",
-      "turkish": "Desteklenmeyen tarayıcı",
-      "russian": "Браузер не поддерживается"
+      "turkish": "Desteklenmeyen tarayıcı"
     },
     "browser-not-supported-note": {
       "dutch": "U gebruikt een browser die wij niet ondersteunen. Probeer een van deze opties om een betere ervaring te hebben op deze applicatie. Als u al een browser uit de onderstaande lijst gebruikt, update dan naar de nieuwste versie",
@@ -74,9 +74,9 @@
       "korean": "현재 사용 중인 브라우저는 지원되지 않습니다. 더 나은 경험을 위해 아래 옵션 중 하나를 사용해 보세요. 이미 아래 목록의 브라우저를 사용 중일 경우, 최신 버전으로 업데이트 해주세요.",
       "mandarin": "您正在使用我们不支持的浏览器。 尝试这些选项之一以获得在此应用程序上的更好体验。 如果您已经在使用以下列表中的浏览器，请更新到最新版本",
       "portuguese": "Você está usando um navegador que não suportamos. Experimente uma dessas opções para ter uma melhor experiência neste aplicativo. Se você já estiver usando um navegador da lista abaixo, atualize para a versão mais recente",
+      "russian": "Вы используете браузер, который мы не поддерживаем. Попробуйте один из этих вариантов для лучшей работы с этим приложением. Если вы уже используете браузер из списка ниже, пожалуйста, обновитесь до последней версии.",
       "spanish": "Está utilizando un navegador que no soportamos. Pruebe una de estas opciones para tener una mejor experiencia en esta aplicación. Si ya está utilizando un navegador de la siguiente lista, actualice a la última versión",
-      "turkish": "Desteklemediğimiz bir tarayıcı kullanıyorsunuz. Bu uygulamada daha iyi bir deneyim yaşamak için bu seçeneklerden birini deneyin. Aşağıdaki listeden bir tarayıcı kullanıyorsanız, lütfen en son sürüme güncelleyin",
-      "russian": "Вы используете браузер, который мы не поддерживаем. Попробуйте один из этих вариантов для лучшей работы с этим приложением. Если вы уже используете браузер из списка ниже, пожалуйста, обновитесь до последней версии."
+      "turkish": "Desteklemediğimiz bir tarayıcı kullanıyorsunuz. Bu uygulamada daha iyi bir deneyim yaşamak için bu seçeneklerden birini deneyin. Aşağıdaki listeden bir tarayıcı kullanıyorsanız, lütfen en son sürüme güncelleyin"
     },
     "improve-experience": {
       "dutch": "Verbeter uw ervaring",
@@ -87,9 +87,9 @@
       "korean": "webauthn을 통한 새로운 경험",
       "mandarin": "改善您的体验",
       "portuguese": "Melhore sua experiência",
+      "russian": "Улучшите свой опыт",
       "spanish": "Mejora tu experiencia",
-      "turkish": "Deneyiminizi geliştirin",
-      "russian": "Улучшите свой опыт"
+      "turkish": "Deneyiminizi geliştirin"
     },
     "invalid-url": {
       "dutch": "Ongeldige omleidings-URI",
@@ -100,9 +100,9 @@
       "korean": "유효하지 않은 리디렉션 URI",
       "mandarin": "重定向 URI 无效",
       "portuguese": "URI de redirecionamento inválido",
+      "russian": "Недействительный URI перенаправления",
       "spanish": "URI de redireccionamiento no válido",
-      "turkish": "Geçersiz yönlendirme URI'ı",
-      "russian": "Недействительный URI перенаправления"
+      "turkish": "Geçersiz yönlendirme URI'ı"
     },
     "learn-more": {
       "dutch": "Meer informatie",
@@ -113,9 +113,9 @@
       "korean": "더 알아보기",
       "mandarin": "了解更多",
       "portuguese": "Saber mais",
+      "russian": "Узнать больше",
       "spanish": "Saber más",
-      "turkish": "Daha fazla bilgi edinin",
-      "russian": "Узнать больше"
+      "turkish": "Daha fazla bilgi edinin"
     },
     "missing-params": {
       "dutch": "Ontbrekende parameters",
@@ -126,9 +126,9 @@
       "korean": "필수 정보가 누락되었습니다",
       "mandarin": "缺少参数",
       "portuguese": "Parâmetros ausentes",
+      "russian": "Отсутствуют параметры",
       "spanish": "Faltan parámetros",
-      "turkish": "Eksik parametreler",
-      "russian": "Отсутствуют параметры"
+      "turkish": "Eksik parametreler"
     },
     "operation-timeout": {
       "dutch": "De bewerking is verlopen of niet toegestaan",
@@ -139,9 +139,9 @@
       "korean": "작업 시간이 초과되었거나 허용되지 않았습니다",
       "mandarin": "操作超时或不允许",
       "portuguese": "A operação expirou ou não foi permitida",
+      "russian": "Операция либо истекла по времени, либо не разрешена",
       "spanish": "La operación agotó el tiempo de espera o no se permitió",
-      "turkish": "İşlem ya zaman aşımına uğradı ya da izin verilmedi",
-      "russian": "Операция либо истекла по времени, либо не разрешена"
+      "turkish": "İşlem ya zaman aşımına uğradı ya da izin verilmedi"
     },
     "register-device": {
       "dutch": "Wilt u dit apparaat registreren?",
@@ -152,9 +152,9 @@
       "korean": "이 기기를 등록하시겠습니까?",
       "mandarin": "您要注册此设备吗？",
       "portuguese": "Deseja registrar este dispositivo?",
+      "russian": "Хотите зарегистрировать это устройство?",
       "spanish": "¿Le gustaría registrar este dispositivo?",
-      "turkish": "Bu cihazı kaydettirmek ister misiniz?",
-      "russian": "Хотите зарегистрировать это устройство?"
+      "turkish": "Bu cihazı kaydettirmek ister misiniz?"
     },
     "registering-device": {
       "dutch": "Uw apparaat registreren",
@@ -165,9 +165,9 @@
       "korean": "기기 등록 중입니다",
       "mandarin": "注册您的设备",
       "portuguese": "Registrando seu dispositivo",
+      "russian": "Регистрация вашего устройства",
       "spanish": "Registrando su dispositivo",
-      "turkish": "Cihazınız kaydediliyor",
-      "russian": "Регистрация вашего устройства"
+      "turkish": "Cihazınız kaydediliyor"
     },
     "required-params-note": {
       "dutch": "Eén of meer van de volgende verplichte parameters ontbreken",
@@ -178,9 +178,9 @@
       "korean": "다음 필수 정보 중 하나 이상이 누락되었습니다",
       "mandarin": "缺少以下一项或多项必需参数",
       "portuguese": "Um ou mais dos seguintes parâmetros obrigatórios estão ausentes",
+      "russian": "Отсутствует один или несколько обязательных параметров",
       "spanish": "Falta uno o más de los siguientes parámetros obligatorios",
-      "turkish": "Aşağıdaki gerekli parametrelerden biri veya daha fazlası eksik",
-      "russian": "Отсутствует один или несколько обязательных параметров"
+      "turkish": "Aşağıdaki gerekli parametrelerden biri veya daha fazlası eksik"
     },
     "sign-in": {
       "dutch": "Inloggen via Touch ID / Face ID?",
@@ -191,9 +191,9 @@
       "korean": "Touch ID/Face ID로 로그인하시겠습니까?",
       "mandarin": "通过 Touch ID / Face ID 登录？",
       "portuguese": "Entrar via Touch ID / Face ID?",
+      "russian": "Войти через Touch ID / Face ID?",
       "spanish": "¿Iniciar sesión a través de Touch ID / Face ID?",
-      "turkish": "Touch ID / Face ID ile oturum açma?",
-      "russian": "Войти через Touch ID / Face ID?"
+      "turkish": "Touch ID / Face ID ile oturum açma?"
     },
     "something-wrong-note": {
       "dutch": "Er is iets misgegaan",
@@ -204,9 +204,9 @@
       "korean": "문제가 발생했습니다",
       "mandarin": "出问题了",
       "portuguese": "Algo deu errado",
+      "russian": "Что-то пошло не так",
       "spanish": "Algo salió mal",
-      "turkish": "Bir şeyler ters gitti",
-      "russian": "Что-то пошло не так"
+      "turkish": "Bir şeyler ters gitti"
     },
     "status-done": {
       "dutch": "Voltooid",
@@ -217,9 +217,9 @@
       "korean": "완료",
       "mandarin": "完毕",
       "portuguese": "Feito",
+      "russian": "Готово",
       "spanish": "Hecho",
-      "turkish": "Bitti",
-      "russian": "Готово"
+      "turkish": "Bitti"
     },
     "status-loading": {
       "dutch": "Laden",
@@ -230,9 +230,9 @@
       "korean": "로딩 중",
       "mandarin": "加载中",
       "portuguese": "Carregando",
+      "russian": "Загрузка",
       "spanish": "Cargando",
-      "turkish": "Yükleniyor",
-      "russian": "Загрузка"
+      "turkish": "Yükleniyor"
     },
     "status-registered": {
       "dutch": "Apparaat geregistreerd",
@@ -243,9 +243,9 @@
       "korean": "기기 등록 완료",
       "mandarin": "设备注册",
       "portuguese": "Dispositivo registrado",
+      "russian": "Устройство зарегистрировано",
       "spanish": "Dispositivo registrado",
-      "turkish": "Kayıtlı cihaz",
-      "russian": "Устройство зарегистрировано"
+      "turkish": "Kayıtlı cihaz"
     },
     "user-denied": {
       "dutch": "Gebruiker heeft autorisatie geweigerd",
@@ -256,9 +256,9 @@
       "korean": "사용자가 승인을 거부했습니다",
       "mandarin": "用户已拒绝授权",
       "portuguese": "O usuário negou a autorização",
+      "russian": "Пользователь отказал в авторизации",
       "spanish": "El usuario ha denegado la autorización",
-      "turkish": "Kullanıcı yetkiyi reddetti",
-      "russian": "Пользователь отказал в авторизации"
+      "turkish": "Kullanıcı yetkiyi reddetti"
     },
     "webauthn-not-supported": {
       "dutch": "Webauthn wordt niet ondersteund op dit apparaat",
@@ -269,9 +269,9 @@
       "korean": "Webauthn은 이 기기에서 지원되지 않습니다",
       "mandarin": "此设备不支持 Webauthn",
       "portuguese": "Webauthn não é compatível com este dispositivo",
+      "russian": "Webauthn не поддерживается на этом устройстве",
       "spanish": "Webauthn no es compatible con este dispositivo",
-      "turkish": "Webauthn bu cihazda desteklenmiyor",
-      "russian": "Webauthn не поддерживается на этом устройстве"
+      "turkish": "Webauthn bu cihazda desteklenmiyor"
     }
   }
 }

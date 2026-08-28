@@ -9,9 +9,9 @@
       "korean": "사용 중인 기기",
       "mandarin": "当前设备",
       "portuguese": "Dispositivo atual",
+      "russian": "Текущее устройство",
       "spanish": "Dispositivo actual",
-      "turkish": "Mevcut cihaz",
-      "russian": "Текущее устройство"
+      "turkish": "Mevcut cihaz"
     },
     "apps-empty": {
       "dutch": "Je bent nog niet verbonden met enige applicaties.",
@@ -22,9 +22,9 @@
       "korean": "연결된 앱이 없습니다",
       "mandarin": "您尚未连接到任何应用程序。",
       "portuguese": "Você ainda não está conectado a nenhum aplicativo.",
+      "russian": "Вы еще не подключены ни к одному приложению.",
       "spanish": "Aún no estás conectado a ninguna aplicación.",
-      "turkish": "Henüz herhangi bir uygulamaya bağlı değilsiniz.",
-      "russian": "Вы еще не подключены ни к одному приложению."
+      "turkish": "Henüz herhangi bir uygulamaya bağlı değilsiniz."
     },
     "apps-subtitle": {
       "dutch": "Lijst met apps",
@@ -35,9 +35,9 @@
       "korean": "앱 목록",
       "mandarin": "应用清单",
       "portuguese": "Lista de aplicativos",
+      "russian": "Список приложений",
       "spanish": "Lista de aplicaciones",
-      "turkish": "Uygulama Listesi",
-      "russian": "Список приложений"
+      "turkish": "Uygulama Listesi"
     },
     "apps-title": {
       "dutch": "Geautoriseerde applicaties",
@@ -48,9 +48,9 @@
       "korean": "승인된 앱",
       "mandarin": "授权申请",
       "portuguese": "Aplicativos autorizados",
+      "russian": "Авторизованные приложения",
       "spanish": "Aplicaciones autorizadas",
-      "turkish": "Yetkili uygulamalar",
-      "russian": "Авторизованные приложения"
+      "turkish": "Yetkili uygulamalar"
     },
     "desc": {
       "dutch": "Beheer hier uw geautoriseerde applicaties",
@@ -61,9 +61,9 @@
       "korean": "승인된 앱을 여기서 관리하세요",
       "mandarin": "在这里管理您的授权应用程序",
       "portuguese": "Gerencie seus aplicativos autorizados aqui",
+      "russian": "Управляйте авторизованными приложениями здесь",
       "spanish": "Gestione sus aplicaciones autorizadas aquí",
-      "turkish": "Yetkili uygulamaları buradan yönetin",
-      "russian": "Управляйте авторизованными приложениями здесь"
+      "turkish": "Yetkili uygulamaları buradan yönetin"
     },
     "devices": {
       "dutch": "Apparaat/Apparaten",
@@ -74,9 +74,9 @@
       "korean": "기기",
       "mandarin": "设备",
       "portuguese": "Dispositivos",
+      "russian": "Устройство(а)",
       "spanish": "Dispositivos",
-      "turkish": "Cihaz(lar)",
-      "russian": "Устройство(а)"
+      "turkish": "Cihaz(lar)"
     },
     "download-key": {
       "dutch": "Download sleutel",
@@ -87,9 +87,9 @@
       "korean": "개인 키 다운로드",
       "mandarin": "下载密钥",
       "portuguese": "Chave de download",
+      "russian": "Скачать ключ",
       "spanish": "Descargar llave",
-      "turkish": "Anahtarı indir",
-      "russian": "Скачать ключ"
+      "turkish": "Anahtarı indir"
     },
     "export-private-key": {
       "dutch": "Privésleutel",
@@ -100,9 +100,9 @@
       "korean": "개인 키",
       "mandarin": "私钥",
       "portuguese": "Chave privada",
+      "russian": "Приватный ключ",
       "spanish": "Llave privada",
-      "turkish": "Gizli şifre",
-      "russian": "Приватный ключ"
+      "turkish": "Gizli şifre"
     },
     "last-access": {
       "dutch": "Laatst bezocht op",
@@ -113,9 +113,9 @@
       "korean": "최근 접속일자",
       "mandarin": "最后访问",
       "portuguese": "Último acesso em",
+      "russian": "Последний доступ",
       "spanish": "Último acceso en",
-      "turkish": "Son erişim tarihi",
-      "russian": "Последний доступ"
+      "turkish": "Son erişim tarihi"
     },
     "revoke": {
       "dutch": "Intrekken",
@@ -126,9 +126,9 @@
       "korean": "취소",
       "mandarin": "撤销",
       "portuguese": "Revogar",
+      "russian": "Отозвать",
       "spanish": "Revocar",
-      "turkish": "Geçersiz hale getir",
-      "russian": "Отозвать"
+      "turkish": "Geçersiz hale getir"
     },
     "see-all": {
       "dutch": "Bekijk alles",
@@ -139,9 +139,9 @@
       "korean": "모두 보기",
       "mandarin": "查看全部",
       "portuguese": "Veja tudo",
+      "russian": "Показать все",
       "spanish": "Ver todo",
-      "turkish": "Tamamını görüntüle",
-      "russian": "Показать все"
+      "turkish": "Tamamını görüntüle"
     },
     "see-less": {
       "dutch": "Minder bekijken",
@@ -152,9 +152,9 @@
       "korean": "접기",
       "mandarin": "少看",
       "portuguese": "ver menos",
+      "russian": "Показать меньше",
       "spanish": "Ver menos",
-      "turkish": "Daha az görüntüle",
-      "russian": "Показать меньше"
+      "turkish": "Daha az görüntüle"
     },
     "title": {
       "dutch": "Geautoriseerde apps",
@@ -165,9 +165,9 @@
       "korean": "승인된 앱",
       "mandarin": "授权应用",
       "portuguese": "Apps autorizados",
+      "russian": "Авторизованные приложения",
       "spanish": "Aplicaciones autorizadas",
-      "turkish": "Yetkili uygulamalar",
-      "russian": "Авторизованные приложения"
+      "turkish": "Yetkili uygulamalar"
     }
   }
 }

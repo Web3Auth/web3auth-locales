@@ -1,6 +1,7 @@
 {
   "nav": {
     "close-btn": {
+      "amharic": "ዝጋ",
       "dutch": "sluiten",
       "english": "close",
       "french": "fermer",
@@ -12,6 +13,7 @@
       "spanish": "Cerrar"
     },
     "drawer": {
+      "amharic": "ዋና አስራ",
       "dutch": "Hoofdnavigatie",
       "english": "Main Navigation",
       "french": "Navigation principale",
@@ -23,6 +25,7 @@
       "spanish": "Página Principal"
     },
     "lang-select": {
+      "amharic": "የቋንቋ መምረጫ",
       "dutch": "Taalkeuze",
       "english": "language selector",
       "french": "sélecteur de langue",
@@ -34,6 +37,7 @@
       "spanish": "selector de idiomas"
     },
     "link-account": {
+      "amharic": "አካውንት",
       "dutch": "Account",
       "english": "Account",
       "french": "Compte",
@@ -45,6 +49,7 @@
       "spanish": "Cuenta"
     },
     "link-apps": {
+      "amharic": "የተፈቀዱ መተግበሪያዎች",
       "dutch": "Geautoriseerde apps",
       "english": "Authorized Apps",
       "french": "Applications autorisées",
@@ -56,6 +61,7 @@
       "spanish": "Aplicaciones autorizadas"
     },
     "link-home": {
+      "amharic": "መነሻ",
       "dutch": "Homepagina",
       "english": "Home",
       "french": "Accueil",
@@ -67,6 +73,7 @@
       "spanish": "Página principal"
     },
     "link-logout": {
+      "amharic": "ውጣ",
       "dutch": "Uitloggen",
       "english": "Logout",
       "french": "Déconnexion",
@@ -79,6 +86,7 @@
       "turkish": "Oturumu kapat"
     },
     "link-support": {
+      "amharic": "ድጋፍ",
       "dutch": "Ondersteuning",
       "english": "Support",
       "french": "Soutien",
@@ -90,6 +98,7 @@
       "spanish": "Soporte"
     },
     "list-bottom": {
+      "amharic": "ዋና አስራ የታች ክፍል",
       "dutch": "Hoofdnavigatie onderaan",
       "english": "Main Navigation bottom",
       "french": "Navigation principale en bas",
@@ -101,6 +110,7 @@
       "spanish": "Parte de la navegación principal"
     },
     "logo": {
+      "amharic": "አርማ",
       "dutch": "Logo",
       "english": "logo",
       "french": "logo",
@@ -112,6 +122,7 @@
       "spanish": "logo"
     },
     "toggle-btn": {
+      "amharic": "የአስራ አሰሳ ቁልፍ",
       "dutch": "Navigatiebalk schakelen",
       "english": "Navigation Bar toggle",
       "french": "Barre de navigation basculante",
@@ -123,6 +134,7 @@
       "spanish": "Barra de navegación"
     },
     "user-info": {
+      "amharic": "የተጠቃሚ መረጃ",
       "dutch": "Gebruikersinformatie",
       "english": "User information",
       "french": "Informations sur l'utilisateur",
