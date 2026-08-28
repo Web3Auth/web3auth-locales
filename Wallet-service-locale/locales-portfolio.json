@@ -10,6 +10,7 @@
       "korean": "블록 탐색기",
       "mandarin": "区块浏览器",  
       "portuguese": "Block-Explorer",
+      "russian": "обозреватель блоков",
       "spanish": "Explorador de bloques",
       "turkish": "Blok Explorer"
     },
@@ -79,6 +80,7 @@
       "korean": "거래 내역을 전체적으로 보려면",
       "mandarin": "查看交易历史",
       "portuguese": "para ver o histórico completo de suas transações",
+      "russian": "для просмотра полной истории ваших транзакций",
       "spanish": "para ver la historia completa de sus transacciones",
       "turkish": "işlemlerinizin tam geçmişini görmek için"
     },
@@ -92,6 +94,7 @@
       "korean": "방문",
       "mandarin": "访问",
       "portuguese": "Visitar",
+      "russian": "Посетите",
       "spanish": "Visitar",
       "turkish": "Ziyaret et"
     }
@@ -1623,6 +1626,7 @@
       "korean": "자금 추가",
       "mandarin": "添加资金",
       "portuguese": "Adicionar fundos",
+      "russian": "Пополнить кошелек",
       "spanish": "Agregar fondos",
       "turkish": "Fond ekle"
     },
@@ -1636,6 +1640,7 @@
       "korean": "자금 추가",
       "mandarin": "添加资金",
       "portuguese": "Adicionar fundos",
+      "russian": "Пополнить кошелек",
       "spanish": "Agregar fondos",
       "turkish": "Fond ekle"
     },
@@ -1649,6 +1654,7 @@
       "korean": "암호화폐를 구매하거나 다른 지갑에서 송금을 받아 계정을 충전하세요.",
       "mandarin": "通过购买加密货币或接收来自任意钱包的转账为您的账户充值。",
       "portuguese": "Adicione saldo à sua conta comprando cripto ou recebendo uma transferência de qualquer carteira.",
+      "russian": "Пополните баланс, купив криптовалюту или получив перевод с любого кошелька.",
       "spanish": "Recarga tu cuenta comprando cripto o recibiendo una transferencia desde cualquier billetera.",
       "turkish": "Kripto satın alarak veya herhangi bir cüzdandan transfer alarak hesabınıza para yükleyin."
     },
@@ -1662,6 +1668,7 @@
       "korean": "카드로 구매",
       "mandarin": "使用卡购买",
       "portuguese": "Comprar com cartão",
+      "russian": "Купить картой",
       "spanish": "Comprar con tarjeta",
       "turkish": "Kartla satın al"
     },
@@ -1675,6 +1682,7 @@
       "korean": "직불, 신용, Apple 및 Google Pay",
       "mandarin": "借记卡、信用卡、Apple 和 Google Pay",
       "portuguese": "Débito, crédito, Apple e Google Pay",
+      "russian": "Дебетовые и кредитные карты, Apple Pay и Google Pay",
       "spanish": "Débito, crédito, Apple y Google Pay",
       "turkish": "Banka kartı, kredi kartı, Apple ve Google Pay"
     },
@@ -1688,6 +1696,7 @@
       "korean": "QR로 받기",
       "mandarin": "通过QR接收",
       "portuguese": "Receber via QR",
+      "russian": "Получить по QR-коду",
       "spanish": "Recibir via QR",
       "turkish": "QR ile al"
     },
@@ -1701,6 +1710,7 @@
       "korean": "모든 지갑에서 자금 전송",
       "mandarin": "从任意钱包转移资金",
       "portuguese": "Transfira fundos de qualquer carteira",
+      "russian": "Переведите средства с любого кошелька",
       "spanish": "Transfiere fondos desde cualquier billetera",
       "turkish": "Herhangi bir cüzdandan para transfer edin"
     },
@@ -1714,6 +1724,7 @@
       "korean": "내 QR 코드",
       "mandarin": "我的QR码",
       "portuguese": "Meu código QR",
+      "russian": "Мой QR-код",
       "spanish": "Mi código QR",
       "turkish": "Benim QR kodum"
     },
@@ -1727,6 +1738,7 @@
       "korean": "QR 코드를 스캔하거나 주소를 복사하여 자금을 이 계정으로 이동합니다.",
       "mandarin": "扫描QR码或复制地址以将资金转移到此帐户。",
       "portuguese": "Digitalize o código QR ou copie o endereço para transferir fundos para esta conta.",
+      "russian": "Отсканируйте QR-код или скопируйте адрес, чтобы перевести средства на этот аккаунт.",
       "spanish": "Escanee el código QR o copie la dirección para transferir fondos a esta cuenta.",
       "turkish": "QR kodu tarayın veya adresi kopyalayın, para bu hesaba transfer edilsin."
     },
@@ -1740,6 +1752,7 @@
       "korean": "이것은 스마트 계정 지갑입니다.",
       "mandarin": "这是一个智能帐户钱包。",
       "portuguese": "Este é um smart conta carteira.",
+      "russian": "Это кошелек на базе смарт-аккаунта.",
       "spanish": "Este es un smart cuenta billetera.",
       "turkish": "Bu, bir akıllı hesap cüzdanıdır."
     },
@@ -1753,6 +1766,7 @@
       "korean": "지갑 주소 복사",
       "mandarin": "复制钱包地址",
       "portuguese": "Copiar endereço de carteira",
+      "russian": "Скопировать адрес кошелька",
       "spanish": "Copiar dirección de billetera",
       "turkish": "Cüzdan adresini kopyala"
     },
@@ -1766,6 +1780,7 @@
       "korean": "QR 코드 다운로드",
       "mandarin": "下载QR码",
       "portuguese": "Baixar código QR",
+      "russian": "Скачать QR-код",
       "spanish": "Descargar código QR",
       "turkish": "QR kodunu indir"
     },
@@ -1778,6 +1793,7 @@
       "korean": "DeFi 포지션",
       "mandarin": "DeFi 位置",
       "portuguese": "Posições DeFi",
+      "russian": "DeFi-позиции",
       "spanish": "Posiciones DeFi",
       "turkish": "DeFi Pozisyonları"
     },
@@ -1790,6 +1806,7 @@
       "korean": "당신의 DeFi 포지션",
       "mandarin": "您的DeFi位置",
       "portuguese": "Suas posições DeFi",
+      "russian": "Ваши DeFi-позиции",
       "spanish": "Sus posiciones DeFi",
       "turkish": "Senin DeFi pozisyonlarınız"
     },
@@ -1802,6 +1819,7 @@
       "korean": "이름",
       "mandarin": "名称",
       "portuguese": "Nome",
+      "russian": "Название",
       "spanish": "Nombre",
       "turkish": "Ad"
     },
@@ -1814,6 +1832,7 @@
       "korean": "잔액",
       "mandarin": "余额",
       "portuguese": "Saldo",
+      "russian": "Баланс",
       "spanish": "Saldo",
       "turkish": "Bakiye"
     },
@@ -1826,6 +1845,7 @@
       "korean": "USD 가치",
       "mandarin": "USD 价值",
       "portuguese": "Valor USD",
+      "russian": "Стоимость в USD",
       "spanish": "Valor USD",
       "turkish": "USD Değeri"
     },
@@ -1838,6 +1858,7 @@
       "korean": "아직 {0}이 없습니다",
       "mandarin": "您还没有任何{0}",
       "portuguese": "Você ainda não tem {0}",
+      "russian": "У вас еще нет {0}",
       "spanish": "No tienes {0} todavía",
       "turkish": "Henüz {0} yok"
     },
@@ -1850,6 +1871,7 @@
       "korean": "DeFi 프로토콜을 사용하여 위치를 이곳에 표시합니다.",
       "mandarin": "使用DeFi协议查看您的位置。",
       "portuguese": "Comece a usar protocolos DeFi para ver suas posições aqui.",
+      "russian": "Начните использовать DeFi-протоколы, чтобы увидеть здесь свои позиции.",
       "spanish": "Comience a usar protocolos DeFi para ver sus posiciones aquí.",
       "turkish": "DeFi protokollarını kullanarak konumlarınızı burada görün."
     },
@@ -1862,6 +1884,7 @@
       "korean": "DeFi 포지션 로딩 중",
       "mandarin": "加载DeFi位置",
       "portuguese": "Carregando posições DeFi",
+      "russian": "Загрузка DeFi-позиций",
       "spanish": "Cargando posiciones DeFi",
       "turkish": "DeFi Pozisyonları yükleniyor"
     },
@@ -1874,6 +1897,7 @@
       "korean": "DeFi 포지션 가져오기 실패",
       "mandarin": "获取DeFi位置失败",
       "portuguese": "Erro ao obter posições DeFi",
+      "russian": "Не удалось получить DeFi-позиции",
       "spanish": "Error al obtener posiciones DeFi",
       "turkish": "DeFi Pozisyonları alınamadı"
     },
@@ -1887,6 +1911,7 @@
       "korean": "외부 전송",
       "mandarin": "外部转账",
       "portuguese": "Transferência externa",
+      "russian": "Внешний перевод",
       "spanish": "Transferencia externa",
       "turkish": "Harici Transfer"
     },
@@ -1900,6 +1925,7 @@
       "korean": "외부 지갑에서 입금",
       "mandarin": "从外部钱包充值",
       "portuguese": "Adicione a partir de uma carteira externa",
+      "russian": "Пополните баланс с внешнего кошелька",
       "spanish": "Financia desde una billetera externa",
       "turkish": "Harici bir cüzdandan fonlayın"
     },
@@ -1913,6 +1939,7 @@
       "korean": "처리 중...",
       "mandarin": "处理中...",
       "portuguese": "Processando...",
+      "russian": "Обработка...",
       "spanish": "Procesando...",
       "turkish": "İşleniyor..."
     },
@@ -1926,6 +1953,7 @@
       "korean": "거래가 전송되었습니다!",
       "mandarin": "交易已发送！",
       "portuguese": "Transação enviada!",
+      "russian": "Транзакция отправлена!",
       "spanish": "¡Transacción enviada!",
       "turkish": "İşlem gönderildi!"
     }
@@ -2251,7 +2279,7 @@
       "korean": "다운로드 (JSON)",
       "mandarin": "下载（JSON）",
       "portuguese": "Baixar (JSON)",
-      "russian": "Скачать электронную копию (JSON)",
+      "russian": "Скачать (JSON)",
       "spanish": "Descargar (JSON)",
       "turkish": "İndir (JSON)"
     },
@@ -2867,6 +2895,7 @@
       "korean": "이 키는 해당 체인에 대한 계정의 전체 제어 권한을 부여합니다.",
       "mandarin": "此密钥可授予对您在相关链上账户的完全控制权。",
       "portuguese": "Esta chave concede controle total da sua conta para a cadeia associada.",
+      "russian": "Этот ключ дает полный контроль над вашим аккаунтом в соответствующей сети.",
       "spanish": "Esta clave otorga control total de tu cuenta para la cadena asociada.",
       "turkish": "Bu anahtar, ilgili zincir için hesabınızın tam kontrolünü verir."
     },
@@ -2880,6 +2909,7 @@
       "korean": "개인 키를 공유하지 마세요",
       "mandarin": "请勿分享您的私钥",
       "portuguese": "Não compartilhe sua chave privada",
+      "russian": "Никому не сообщайте свой приватный ключ",
       "spanish": "No compartas tu clave privada",
       "turkish": "Gizli anahtarınızı paylaşmayın"
     },

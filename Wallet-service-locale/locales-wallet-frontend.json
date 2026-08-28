@@ -10,6 +10,7 @@
       "korean": "계정 업데이트",
       "mandarin": "账户更新",
       "portuguese": "Atualização de conta",
+      "russian": "Обновление аккаунта",
       "spanish": "Actualización de cuenta",
       "turkish": "Hesap güncellemesi"
     },
@@ -51,6 +52,7 @@
       "korean": "네트워크 추가",
       "mandarin": "添加网络",
       "portuguese": "Adicionar rede",
+      "russian": "Добавить сеть",
       "spanish": "Agregar red",
       "turkish": "Ağ ekle"
     },
@@ -162,6 +164,7 @@
       "korean": "배치",
       "mandarin": "批量",
       "portuguese": "Lote",
+      "russian": "Пакет",
       "spanish": "Lote",
       "turkish": "Lot"
     },
@@ -175,6 +178,7 @@
       "korean": "거래 {0}",
       "mandarin": "交易 {0}",
       "portuguese": "Transação {0}",
+      "russian": "Транзакция {0}",
       "spanish": "Transacción {0}",
       "turkish": "İşlem {0}"
     },
@@ -188,6 +192,7 @@
       "korean": "이 배치의 {0}개 거래",
       "mandarin": "此批量中的 {0} 笔交易",
       "portuguese": "{0} transações neste lote",
+      "russian": "Транзакции в этом пакете: {0}",
       "spanish": "{0} transacciones en este lote",
       "turkish": "Bu partideki {0} işlem"
     },
@@ -243,6 +248,7 @@
       "korean": "계약 호출",
       "mandarin": "合约调用",
       "portuguese": "Chamada de contrato",
+      "russian": "Вызов контракта",
       "spanish": "Llamada al contrato",
       "turkish": "Sözleşme Çağrısı"
     },
@@ -396,6 +402,7 @@
       "korean": "{0}개의 거래를 포함합니다",
       "mandarin": "包含{0}笔交易",
       "portuguese": "Inclui {0} transações",
+      "russian": "Количество транзакций: {0}",
       "spanish": "Incluye {0} transacciones",
       "turkish": "{0} işlem içerir"
     },
@@ -409,6 +416,7 @@
       "korean": "표준 계정(EOA)으로 다시 전환하고 있습니다.",
       "mandarin": "您正在切换回标准账户（EOA）。",
       "portuguese": "Você está voltando para uma conta padrão (EOA).",
+      "russian": "Вы возвращаетесь к стандартному аккаунту (EOA).",
       "spanish": "Está volviendo a una cuenta estándar (EOA).",
       "turkish": "Standart hesaba (EOA) geri geçiyorsunuz."
     },
@@ -422,6 +430,7 @@
       "korean": "지금",
       "mandarin": "现在",
       "portuguese": "Agora",
+      "russian": "Сейчас",
       "spanish": "Ahora",
       "turkish": "Şimdi"
     },
@@ -435,6 +444,7 @@
       "korean": "스마트 계정",
       "mandarin": "智能账户",
       "portuguese": "Conta inteligente",
+      "russian": "Смарт-аккаунт",
       "spanish": "Cuenta inteligente",
       "turkish": "Akıllı hesap"
     },
@@ -448,6 +458,7 @@
       "korean": "표준 계정",
       "mandarin": "标准账户",
       "portuguese": "Conta padrão",
+      "russian": "Стандартный аккаунт",
       "spanish": "Cuenta estándar",
       "turkish": "Standart hesap"
     },
@@ -461,6 +472,7 @@
       "korean": "다음으로 전환 중",
       "mandarin": "切换到",
       "portuguese": "Mudando para",
+      "russian": "Переход на",
       "spanish": "Cambiando a",
       "turkish": "Geçiş yapılıyor"
     },
@@ -474,6 +486,7 @@
       "korean": "계정 유형",
       "mandarin": "账户类型",
       "portuguese": "Tipo de conta",
+      "russian": "Тип аккаунта",
       "spanish": "Tipo de cuenta",
       "turkish": "Hesap türü"
     },
@@ -487,6 +500,7 @@
       "korean": "계정을 스마트 계정으로 업그레이드하고 있습니다. 동일한 계정 주소를 유지하면서 더 빠른 거래와 더 낮은 네트워크 수수료를 이용할 수 있습니다.",
       "mandarin": "您正在将账户升级为智能账户。您将保留相同的账户地址，同时解锁更快的交易和更低的网络费用。",
       "portuguese": "Você está atualizando sua conta para uma conta inteligente. Você manterá o mesmo endereço de conta enquanto desbloqueia transações mais rápidas e taxas de rede mais baixas.",
+      "russian": "Вы обновляете аккаунт до смарт-аккаунта. Адрес аккаунта останется прежним, транзакции станут быстрее, а сетевые комиссии — ниже.",
       "spanish": "Está actualizando su cuenta a una cuenta inteligente. Mantendrá la misma dirección de cuenta mientras desbloquea transacciones más rápidas y tarifas de red más bajas.",
       "turkish": "Hesabınızı akıllı hesaba yükseltiyorsunuz. Aynı hesap adresini korurken daha hızlı işlemler ve daha düşük ağ ücretlerinin kilidini açacaksınız."
     },
@@ -500,6 +514,7 @@
       "korean": "스마트 계정으로 전환하고 있습니다.",
       "mandarin": "您正在切换到智能账户。",
       "portuguese": "Você está alternando para uma conta inteligente.",
+      "russian": "Вы переходите на смарт-аккаунт.",
       "spanish": "Está cambiando a una cuenta inteligente.",
       "turkish": "Akıllı hesaba geçiliyorsunuz."
     },
@@ -611,7 +626,7 @@
       "korean": "에서",
       "mandarin": "从",
       "portuguese": "De",
-      "russian": "От:",
+      "russian": "От",
       "spanish": "De",
       "turkish": "Şuna"
     },
@@ -779,6 +794,7 @@
       "korean": "Torus Wallet는 이제",
       "mandarin": "Torus Wallet现在是",
       "portuguese": "Torus Wallet agora é",
+      "russian": "Torus Wallet теперь",
       "spanish": "Torus Wallet ahora es",
       "turkish": "Torus Cüzdan artık"
     },
@@ -820,6 +836,7 @@
       "korean": "이메일/전화로 계속",
       "mandarin": "继续使用电子邮件/电话",
       "portuguese": "Continuar com e -mail/telefone",
+      "russian": "Продолжить с email/телефоном",
       "spanish": "Continuar con e -mail/teléfono"
     },
     "loginSlide1Subtitle1": {
@@ -832,6 +849,7 @@
       "korean": "블록 체인에서의 거래는 결코 쉬운 일이 아닙니다.",
       "mandarin": "在区块链上进行交易从未如此简单。",
       "portuguese": "Transactar em blockchain nunca foi tão fácil.",
+      "russian": "Совершать транзакции в блокчейне стало проще, чем когда-либо.",
       "spanish": "Transactar en blockchain nunca ha sido más fácil.",
       "turkish": "Blockchain üzerinde işlem yapmak hiç bu kadar kolay olmamıştı."
     },
@@ -845,6 +863,7 @@
       "korean": "이메일만으로 시작하기 만하면됩니다.",
       "mandarin": "您需要开始的电子邮件。",
       "portuguese": "Um e -mail é tudo o que você precisa para começar.",
+      "russian": "Для начала нужен только email.",
       "spanish": "Un correo electrónico es todo lo que necesita para comenzar.",
       "turkish": "Başlamak için bir e -posta yeterlidir."
     },
@@ -858,6 +877,7 @@
       "korean": "이메일을 통해 디지털 통화를 보내고받습니다",
       "mandarin": "通过电子邮件发送和接收数字货币",
       "portuguese": "Envie e receba moedas digitais por e -mail",
+      "russian": "Отправляйте и получайте цифровые валюты по email",
       "spanish": "Enviar y recibir monedas digitales por correo electrónico",
       "turkish": "E -posta ile sayısal para gönderin ve alın"
     },
@@ -871,6 +891,7 @@
       "korean": "다양한 공급자에서 선택",
       "mandarin": "从多种提供商中选择",
       "portuguese": "Escolha entre uma variedade de fornecedores",
+      "russian": "Выбирайте из множества провайдеров",
       "spanish": "Elija entre una variedad de proveedores",
       "turkish": "Farklı sağlayıcılardan seçim yapın"
     },
@@ -884,6 +905,7 @@
       "korean": "가장 경쟁력 있는 레이트로 통화 얻기",
       "mandarin": "以最具竞争力的利率获取货币",
       "portuguese": "Obtenha moedas a uma das taxas mais competitivas",
+      "russian": "Покупайте валюту по одному из самых выгодных курсов",
       "spanish": "Obtenga monedas a una de las tasas más competitivas",
       "turkish": "En fazla rekabetli oranda para satın alın"
     },
@@ -897,6 +919,7 @@
       "korean": "신용카드로 세계 전역에서 디지털 통화 구매",
       "mandarin": "使用信用卡在全球购买数字货币",
       "portuguese": "Compre moedas digitais em todo o mundo com cartão de crédito",
+      "russian": "Покупайте цифровые валюты по всему миру с помощью кредитной карты",
       "spanish": "Compre monedas digitales en todo el mundo con tarjeta de crédito",
       "turkish": "Kredi kartıyla dünya genelinde sayısal para satın alın"
     },
@@ -910,6 +933,7 @@
       "korean": "금융, 게임, 거래소 등",
       "mandarin": "来自金融，游戏，交易所等",
       "portuguese": "De Finanças, Jogos, Exchanges e mais",
+      "russian": "Финансы, игры, биржи и многое другое",
       "spanish": "De Finanzas, Juegos, Exchanges y más"
     },
     "loginSlide3Subtitle2": {
@@ -922,6 +946,7 @@
       "korean": "Torus를 사용하여 분산화된 세계에 접근",
       "mandarin": "使用Torus进入去中心化世界",
       "portuguese": "Acesso ao mundo descentralizado com Torus",
+      "russian": "Откройте для себя децентрализованный мир с Torus",
       "spanish": "Acceso al mundo descentralizado con Torus"
     },
     "loginSlide3Title": {
@@ -934,6 +959,7 @@
       "korean": "블록체인 위의 수천 개의 앱과 상호작용",
       "mandarin": "与区块链上的数千个应用程序互动",
       "portuguese": "Interaja com milhares de aplicativos na blockchain",
+      "russian": "Взаимодействуйте с тысячами приложений в блокчейне",
       "spanish": "Interactúa con miles de aplicaciones en la blockchain"
     },
     "logout": {
@@ -1156,6 +1182,7 @@
       "korean": "프로그램 ID",
       "mandarin": "程序 ID",
       "portuguese": "ID do programa",
+      "russian": "ID программы",
       "spanish": "ID del programa",
       "turkish": "Program Kimliği"
     },
@@ -1225,6 +1252,7 @@
       "korean": "확인하기 전에 세부 정보를 검토해 주세요",
       "mandarin": "确认前请查看详细信息",
       "portuguese": "Reveja os detalhes antes de confirmar",
+      "russian": "Пожалуйста, проверьте данные перед подтверждением",
       "spanish": "Revise los detalles antes de confirmar",
       "turkish": "Onaylamadan önce lütfen ayrıntıları gözden geçirin"
     },
@@ -1238,6 +1266,7 @@
       "korean": "위임 취소",
       "mandarin": "撤销委托",
       "portuguese": "Revogar delegação",
+      "russian": "Отозвать делегирование",
       "spanish": "Revocar delegación",
       "turkish": "Yetkilendirmeyi iptal et"
     },
@@ -1503,6 +1532,7 @@
       "korean": "네트워크 전환",
       "mandarin": "切换网络",
       "portuguese": "Alternar rede",
+      "russian": "Сменить сеть",
       "spanish": "Cambiar red",
       "turkish": "Ağ değiştir"
     },
@@ -1516,7 +1546,7 @@
       "korean": "에게",
       "mandarin": "到",
       "portuguese": "Para",
-      "russian": "Кому:",
+      "russian": "Кому",
       "spanish": "A",
       "turkish": "İçin"
     },
@@ -1558,7 +1588,7 @@
       "korean": "자금 추가",
       "mandarin": "添加资金",
       "portuguese": "Adicionar fundos",
-      "russian": "Пополнить кошелёк",
+      "russian": "Пополнить кошелек",
       "spanish": "Añadir fondos",
       "turkish": "Para ekle"
     },
@@ -1600,6 +1630,7 @@
       "korean": "승인할 거래 지시 {0}개",
       "mandarin": "{0} 条待批准的交易指令",
       "portuguese": "{0} instrução(ões) de transação para aprovar",
+      "russian": "Инструкций транзакции для одобрения: {0}",
       "spanish": "{0} instrucción(es) de transacción para aprobar",
       "turkish": "Onaylanacak {0} işlem talimatı"
     },
