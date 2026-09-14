@@ -585,19 +585,6 @@
       "spanish": "De",
       "turkish": "Şuna"
     },
-    "gaslessRelayFee": {
-      "amharic": "የሪሌይ ክፍያ",
-      "dutch": "Relaykosten",
-      "english": "Relay fee",
-      "french": "Frais de relais",
-      "german": "Relay-Gebühr",
-      "japanese": "リレー手数料",
-      "korean": "릴레이 수수료",
-      "mandarin": "中继费用",
-      "portuguese": "Taxa de retransmissão",
-      "spanish": "Tarifa de retransmisión",
-      "turkish": "Aktarım ücreti"
-    },
     "hexData": {
       "amharic": "Hex ውሂብ",
       "dutch": "HEX -gegevens",
@@ -957,6 +944,19 @@
       "portuguese": "Rede",
       "spanish": "Red",
       "turkish": "Ağ"
+    },
+    "networkFee": {
+      "amharic": "የኔትወርክ ክፍያ",
+      "dutch": "Netwerkkosten",
+      "english": "Network fee",
+      "french": "Frais de réseau",
+      "german": "Netzwerkgebühr",
+      "japanese": "ネットワーク手数料",
+      "korean": "네트워크 수수료",
+      "mandarin": "网络费",
+      "portuguese": "Taxa de rede",
+      "spanish": "Tarifa de red",
+      "turkish": "Ağ ücreti"
     },
     "networkName": {
       "amharic": "የኔትወርክ ስም",
