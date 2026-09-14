@@ -585,6 +585,19 @@
       "spanish": "De",
       "turkish": "Şuna"
     },
+    "gaslessRelayFee": {
+      "amharic": "የሪሌይ ክፍያ",
+      "dutch": "Relaykosten",
+      "english": "Relay fee",
+      "french": "Frais de relais",
+      "german": "Relay-Gebühr",
+      "japanese": "リレー手数料",
+      "korean": "릴레이 수수료",
+      "mandarin": "中继费用",
+      "portuguese": "Taxa de retransmissão",
+      "spanish": "Tarifa de retransmisión",
+      "turkish": "Aktarım ücreti"
+    },
     "hexData": {
       "amharic": "Hex ውሂብ",
       "dutch": "HEX -gegevens",
