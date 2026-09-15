@@ -9,6 +9,7 @@
       "korean": "계정 복구 방법을 꼭 인지해주세요.",
       "mandarin": "我们只是想确保您知道如何恢复您的帐户。",
       "portuguese": "Queremos apenas ter certeza de que você sabe como recuperar sua conta.",
+      "russian": "Мы просто хотим убедиться, что вы знаете, как восстановить свой аккаунт.",
       "spanish": "Solo queremos asegurarnos de que sepas cómo recuperar tu cuenta.",
       "turkish": "Hesabınızı nasıl kurtaracağınızı bildiğinizden emin olmak istiyoruz."
     },
@@ -21,6 +22,7 @@
       "korean": "사용 중인 기기를 2단계 인증 수단으로 등록하여, 지갑을 인증하고 보안을 강화하세요",
       "mandarin": "使用当前设备作为第二个因素来验证和保护你的钱包",
       "portuguese": "Use o dispositivo atual como segundo fator para verificar e proteger sua carteira",
+      "russian": "Используйте текущее устройство как второй фактор для подтверждения и защиты вашего кошелька.",
       "spanish": "Use el dispositivo actual como segundo factor para verificar y asegurar su billetera",
       "turkish": "Cüzdanınızı doğrulamak ve güvenliğini sağlamak için mevcut cihazı 2. faktör olarak kullanın"
     },
@@ -33,6 +35,7 @@
       "korean": "이 기기를 다른 이름으로 저장",
       "mandarin": "将此设备另存为",
       "portuguese": "Salve este dispositivo como",
+      "russian": "Сохранить это устройство как",
       "spanish": "Guardar este dispositivo como",
       "turkish": "Bu cihazı şu isimle kaydedin:"
     },
@@ -45,6 +48,7 @@
       "korean": "복구 수단 설정",
       "mandarin": "设置回收率",
       "portuguese": "Fator de recuperação de configuração",
+      "russian": "Настроить фактор восстановления",
       "spanish": "Configuración del factor de recuperación",
       "turkish": "Kurtarma Faktörünü ayarla"
     },
@@ -57,6 +61,7 @@
       "korean": "2단계 인증이 어려울 시에도 계정을 복구할 수 있도록 복구 수단을 설정하세요.",
       "mandarin": "现在，如果您无法访问第二个因素，请设置您的恢复因素以取回您的帐户。",
       "portuguese": "Agora, caso você perca o acesso ao seu 2º fator, defina seu fator de recuperação para recuperar sua conta.",
+      "russian": "Если вы потеряете доступ ко второму фактору, настройте фактор восстановления, чтобы вернуть доступ к аккаунту.",
       "spanish": "Ahora, en caso de que pierda el acceso a su segundo factor, configure su factor de recuperación para recuperar su cuenta.",
       "turkish": "2. faktörünüze erişiminizi kaybederseniz, hesabınızı geri almak için kurtarma faktörünüzü ayarlayın."
     },
@@ -69,6 +74,7 @@
       "korean": "사용 중인 기기가 2단계 인증 수단으로 설정되었습니다.",
       "mandarin": "您当前的设备已成功设置为第二个恢复因素",
       "portuguese": "Seu dispositivo atual foi definido com sucesso como um segundo fator de recuperação",
+      "russian": "Текущее устройство успешно установлено как второй фактор восстановления",
       "spanish": "Su dispositivo actual se configuró correctamente como segundo factor de recuperación",
       "turkish": "Mevcut cihazınız 2. kurtarma faktörü olarak başarıyla ayarlandı"
     },
@@ -81,6 +87,7 @@
       "korean": "사용 중인 기기를 2단계 인증 수단으로 저장하기",
       "mandarin": "将您的设备保存为第二因素",
       "portuguese": "Salve seu dispositivo como 2º fator",
+      "russian": "Сохраните устройство как второй фактор",
       "spanish": "Guarde su dispositivo como 2º factor",
       "turkish": "Cihazınızı 2. Faktör olarak kaydedin"
     },
@@ -93,6 +100,7 @@
       "korean": "복구 수단을 업로드하세요",
       "mandarin": "上传您的恢复因子以确保它有效。",
       "portuguese": "Carregue seu Fator de Recuperação para garantir que funcione.",
+      "russian": "Загрузите фактор восстановления, чтобы убедиться, что он работает.",
       "spanish": "Cargue su factor de recuperación para asegurarse de que funcione.",
       "turkish": "Çalıştığından emin olmak için Kurtarma Faktörünüzü yükleyin."
     },
@@ -105,6 +113,7 @@
       "korean": "계정 접근 및 복구 수단으로 사용할 비밀번호를 설정하세요.",
       "mandarin": "设置将用于访问您的帐户并用作恢复因素的密码。",
       "portuguese": "Defina uma senha que será usada para acessar sua conta e servir como Fator de Recuperação.",
+      "russian": "Установите пароль, который будет использоваться для доступа к вашему аккаунту и служить фактором восстановления.",
       "spanish": "Establezca una contraseña que se utilizará para acceder a su cuenta y servirá como factor de recuperación.",
       "turkish": "Hesabınıza erişmek için kullanılacak ve Kurtarma Faktörü görevi görecek bir şifre belirleyin."
     },
@@ -117,6 +126,7 @@
       "korean": "비밀번호가 2단계 인증 수단으로 설정되었습니다.",
       "mandarin": "您的密码已成功设置为第二因素",
       "portuguese": "Sua senha foi definida com sucesso como 2º Fator",
+      "russian": "Ваш пароль успешно установлен как второй фактор",
       "spanish": "Su contraseña se estableció con éxito como un segundo factor",
       "turkish": "Şifreniz 2. Faktör olarak başarıyla belirlendi"
     },
@@ -129,6 +139,7 @@
       "korean": "비밀번호를 복구 수단으로 설정하세요",
       "mandarin": "将密码设置为恢复因子",
       "portuguese": "Definir senha como fator de recuperação",
+      "russian": "Установить пароль как фактор восстановления",
       "spanish": "Establecer contraseña como factor de recuperación",
       "turkish": "Şifreyi Kurtarma Faktörü olarak ayarla"
     },
@@ -141,6 +152,7 @@
       "korean": "복사한 복구 구문을 입력하세요",
       "mandarin": "输入复制的恢复因子",
       "portuguese": "Digite o fator de recuperação copiado",
+      "russian": "Введите скопированный фактор восстановления",
       "spanish": "Introduzca el factor de recuperación copiado",
       "turkish": "Kopyalanan Kurtarma faktörünü girin"
     },
@@ -153,6 +165,7 @@
       "korean": "{email} 로 전송 된 복구 구문을 입력하세요.",
       "mandarin": "输入发送到 {email} 的恢复短语",
       "portuguese": "Digite a frase de recuperação enviada para {email}",
+      "russian": "Введите фразу восстановления, отправленную на {email}",
       "spanish": "Ingrese la frase de recuperación enviada a {email}",
       "turkish": "{email} adresine gönderilen Kurtarma İfadesini girin"
     },
@@ -165,6 +178,7 @@
       "korean": "복구 수단 인증",
       "mandarin": "采收率验证",
       "portuguese": "Verificação do Fator de Recuperação",
+      "russian": "Проверка фактора восстановления",
       "spanish": "Verificación del factor de recuperación",
       "turkish": "Kurtarma Faktörü doğrulaması"
     },
@@ -177,6 +191,7 @@
       "korean": "복구 구문을 붙여넣으세요",
       "mandarin": "粘贴您的恢复短语",
       "portuguese": "Cole sua frase de recuperação",
+      "russian": "Вставьте фразу восстановления",
       "spanish": "Pega tu frase de recuperación",
       "turkish": "Kurtarma ifadenizi yapıştırın"
     },
@@ -189,6 +204,7 @@
       "korean": "다운로드된 복구 수단을 업로드하세요",
       "mandarin": "上传下载的恢复因子",
       "portuguese": "Carregue o fator de recuperação baixado",
+      "russian": "Загрузите скачанный фактор восстановления",
       "spanish": "Cargue el factor de recuperación descargado",
       "turkish": "İndirilen Kurtarma faktörünü yükleyin"
     },
@@ -201,6 +217,7 @@
       "korean": "지갑 복원에 필요한 복구 구문을 이메일로 받으시려면 메일 주소를 입력하세요.",
       "mandarin": "输入您的电子邮件以接收钱包恢复系数。你需要它来恢复你的钱包。",
       "portuguese": "Insira seu e-mail para receber um fator de recuperação da carteira. Você precisa dele para recuperar sua carteira.",
+      "russian": "Введите свою почту, чтобы получить фактор восстановления кошелька. Он необходим для восстановления доступа.",
       "spanish": "Introduzca su correo electrónico para recibir el factor de recuperación de su billetera. Lo necesita para recuperar su billetera.",
       "turkish": "Cüzdan Kurtarma Faktörü almak için e-posta adresinizi girin. Cüzdanınızı kurtarmak için buna ihtiyacınız var."
     },
@@ -213,6 +230,7 @@
       "korean": "나에게 복구 구문 보내기",
       "mandarin": "给我我的恢复因子",
       "portuguese": "Envie-me meu fator de recuperação",
+      "russian": "Отправить мне мой фактор восстановления",
       "spanish": "Envíame mi factor de recuperación",
       "turkish": "Bana kurtarma faktörümü gönder"
     },
@@ -225,6 +243,7 @@
       "korean": "복구 구문 받기",
       "mandarin": "获取我的恢复因子",
       "portuguese": "Obter meu Fator de Recuperação",
+      "russian": "Получить мой фактор восстановления",
       "spanish": "Obtener mi factor de recuperación",
       "turkish": "Kurtarma Faktörümü al"
     },
@@ -237,6 +256,7 @@
       "korean": "복구 구문을 저장했습니다.",
       "mandarin": "您已保存恢复因子。",
       "portuguese": "Você salvou seu Fator de Recuperação.",
+      "russian": "Вы сохранили свой фактор восстановления",
       "spanish": "Ha guardado su factor de recuperación.",
       "turkish": "Kurtarma Faktörünüzü kaydettiniz."
     },
@@ -249,6 +269,7 @@
       "korean": "이제 {0}로 진행하세요",
       "mandarin": "立即继续{0}",
       "portuguese": "Prossiga para {0} agora",
+      "russian": "Перейти к {0} сейчас",
       "spanish": "Proceda a {0} ahora",
       "turkish": "Şimdi {0}'a ilerleyin"
     },
@@ -261,6 +282,7 @@
       "korean": "복구 구문이 설정되었습니다",
       "mandarin": "您的恢复因子是设置",
       "portuguese": "Seu fator de recuperação está configurado",
+      "russian": "Фактор восстановления настроен",
       "spanish": "Su factor de recuperación está configurado",
       "turkish": "Kurtarma faktörünüz ayarlandı"
     },
@@ -273,6 +295,7 @@
       "korean": "나중에 설정하기",
       "mandarin": "下次吧",
       "portuguese": "Talvez na próxima vez",
+      "russian": "Может быть, в следующий раз",
       "spanish": "Quizás la próxima vez",
       "turkish": "Belki başka zaman"
     },
@@ -285,6 +308,7 @@
       "korean": "로그인 시 2단계 인증이 필요합니다.",
       "mandarin": "每次登录需要 2 个身份验证因素",
       "portuguese": "Cada login requer 2 fatores para autenticação",
+      "russian": "Каждый вход требует два фактора для аутентификации",
       "spanish": "Cada inicio de sesión requiere 2 factores para la autenticación",
       "turkish": "Her oturum açma, kimlik doğrulama için 2 faktör gerektirir"
     },
@@ -297,6 +321,7 @@
       "korean": "보안 강화를 위해 2단계 인증 설정을 적극 권장합니다.",
       "mandarin": "我们强烈建议为像您这样的活跃用户设置 2FA。",
       "portuguese": "Recomendamos fortemente uma configuração 2FA para um usuário ativo como você.",
+      "russian": "Мы настоятельно рекомендуем настроить двухфакторную аутентификацию для активных пользователей, как вы.",
       "spanish": "Recomendamos encarecidamente una configuración de 2 factores para un usuario activo como usted.",
       "turkish": "Sizin gibi aktif bir kullanıcı için 2FA kurulumunu şiddetle tavsiye ediyoruz."
     },
@@ -309,6 +334,7 @@
       "korean": "3단계로 간편설정 하세요!",
       "mandarin": "只需 3 个简单的步骤即可完成设置！",
       "portuguese": "Configure em 3 passos simples!",
+      "russian": "Настройте всего за 3 простых шага!",
       "spanish": "¡Configúrelo en 3 sencillos pasos!",
       "turkish": "3 basit adımda kurun!"
     },
@@ -321,6 +347,7 @@
       "korean": "2단계 인증 활성화하기",
       "mandarin": "设置 2FA",
       "portuguese": "Configurar 2FA",
+      "russian": "Установите двухфакторную аутентификацию",
       "spanish": "Configurar autenticación de 2 factores",
       "turkish": "2 Faktörlü doğrulamayı kurun"
     },
@@ -333,6 +360,7 @@
       "korean": "2단계 인증(2FA) 활성화하기",
       "mandarin": "启用 2 因素身份验证 (2FA)",
       "portuguese": "Ativar autenticação de 2 fatores (2FA)",
+      "russian": "Включить двухфакторную аутентификацию (2FA)",
       "spanish": "Habilitar la autenticación de 2 factores (2FA)",
       "turkish": "2 Faktörlü Kimlik Doğrulamayı Etkinleştir (2FA)"
     },
@@ -345,6 +373,7 @@
       "korean": "추가 보안 설정으로 계정 보안을 강화하세요. 로그인 시 2단계 인증이 필요하게 됩니다.",
       "mandarin": "为您的帐户添加额外的安全层，每次登录都需要 2 个因素进行身份验证",
       "portuguese": "Adicione uma camada extra de segurança à sua conta. Cada login requer 2 fatores para autenticação",
+      "russian": "Добавьте дополнительный уровень защиты для вашего аккаунта. Каждый вход требует два фактора для аутентификации",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta. Cada inicio de sesión requiere 2 factores para la autenticación",
       "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin. Her oturum açma, kimlik doğrulama için 2 faktör gerektirir"
     },
@@ -357,6 +386,7 @@
       "korean": "추가 보안 설정으로 계정 보안을 강화하세요",
       "mandarin": "为您的帐户添加额外的安全层",
       "portuguese": "Adicione uma camada extra de segurança à sua conta",
+      "russian": "Добавьте дополнительный уровень защиты для вашего аккаунта",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta",
       "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin"
     },
@@ -369,6 +399,7 @@
       "korean": "추가 보안 설정으로 계정 보안을 강화하고 자산을 안전하게 관리하세요",
       "mandarin": "为您的帐户添加额外的安全层并妥善保管您的资产。",
       "portuguese": "Adicione uma camada extra de segurança à sua conta e proteja seus ativos.",
+      "russian": "Добавьте дополнительный уровень защиты и сохраните свои активы в безопасности",
       "spanish": "Agregue una capa adicional de seguridad a su cuenta y proteja sus activos.",
       "turkish": "Hesabınıza ekstra bir güvenlik katmanı ekleyin ve varlıklarınızı koruyun."
     },
@@ -381,6 +412,7 @@
       "korean": "뒤로",
       "mandarin": "后退",
       "portuguese": "Voltar",
+      "russian": "Назад",
       "spanish": "Atrás",
       "turkish": "Geri"
     },
@@ -393,6 +425,7 @@
       "korean": "검색 기록 및 쿠키 삭제 시, 내 브라우저에서 이 인증 수단이 삭제됨을 이해합니다.",
       "mandarin": "我了解清除浏览器历史记录和 cookie 将删除我浏览器上的这个因素。",
       "portuguese": "Entendo que limpar o histórico e os cookies do navegador excluirá esse fator do meu navegador.",
+      "russian": "Я понимаю, что очистка истории браузера и файлов cookie приведет к удалению этого фактора в моем браузере.",
       "spanish": "Entiendo que borrar el historial del navegador y las cookies eliminará este factor en mi navegador.",
       "turkish": "Tarayıcı geçmişini ve çerezleri temizlemenin tarayıcımdaki bu faktörü sileceğini anlıyorum."
     },
@@ -405,6 +438,7 @@
       "korean": "현재 브라우저",
       "mandarin": "当前浏览器",
       "portuguese": "Navegador atual",
+      "russian": "Текущий браузер",
       "spanish": "Navegador actual",
       "turkish": "Mevcut tarayıcı"
     },
@@ -417,6 +451,7 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
       "turkish": "Devam et"
     },
@@ -429,6 +464,7 @@
       "korean": "사용 중인 기기 저장하기",
       "mandarin": "保存当前设备",
       "portuguese": "Salvar dispositivo atual",
+      "russian": "Сохранить текущее устройство",
       "spanish": "Guardar dispositivo actual",
       "turkish": "Mevcut cihazı kaydet"
     },
@@ -441,6 +477,7 @@
       "korean": "사용 중인 브라우저로 설정하기",
       "mandarin": "使用当前浏览器设置",
       "portuguese": "Configurar usando o navegador atual",
+      "russian": "Настроить с использованием текущего браузера",
       "spanish": "Configurar usando el navegador actual",
       "turkish": "Mevcut tarayıcıyı kullanarak kurulum yapın"
     },
@@ -453,6 +490,7 @@
       "korean": "사용 중인 브라우저로 새로운 기기/브라우저의 접근 승인하기 ",
       "mandarin": "使用当前浏览器批准来自新设备/浏览器的访问。",
       "portuguese": "Use o navegador atual para aprovar o acesso de novos dispositivos/navegadores.",
+      "russian": "Используйте текущий браузер, чтобы одобрить доступ с новых устройств или браузеров.",
       "spanish": "Utilice el navegador actual para aprobar el acceso desde nuevos dispositivos / navegadores.",
       "turkish": "Yeni cihazlardan/tarayıcılardan erişimi onaylamak için mevcut tarayıcıyı kullanın."
     },
@@ -465,6 +503,7 @@
       "korean": "뒤로",
       "mandarin": "后退",
       "portuguese": "Voltar",
+      "russian": "Назад",
       "spanish": "atrás",
       "turkish": "Geri"
     },
@@ -477,6 +516,7 @@
       "korean": "복구 구문 분실 시, 계정 분실 위험이 있음을 이해합니다.",
       "mandarin": "作为高级用户，我知道如果我丢失了此恢复短语，我将承担丢失帐户的风险。",
       "portuguese": "Como usuário avançado, sei que, se perder esta frase de recuperação, corro o risco de perder minha conta.",
+      "russian": "Как продвинутый пользователь, я понимаю, что потеря фразы восстановления может привести к потере доступа к аккаунту.",
       "spanish": "Como usuario avanzado, sé que si pierdo esta frase de recuperación, corro el riesgo de perder mi cuenta.",
       "turkish": "İleri düzey bir kullanıcı olarak, bu kurtarma ifadesini kaybedersem hesabımı kaybetme riskiyle karşı karşıya olduğumu biliyorum."
     },
@@ -489,6 +529,7 @@
       "korean": "구문 복사하기",
       "mandarin": "复制短语",
       "portuguese": "Copiar frase",
+      "russian": "Скопировать фразу",
       "spanish": "Copiar frase",
       "turkish": "İfadeyi kopyala"
     },
@@ -501,6 +542,7 @@
       "korean": "복구 구문 다운로드",
       "mandarin": "下载我的恢复短语",
       "portuguese": "Baixar minha frase de recuperação",
+      "russian": "Скачать фразу восстановления",
       "spanish": "Descarga mi frase de recuperación",
       "turkish": "Kurtarma ifademi indir"
     },
@@ -513,6 +555,7 @@
       "korean": "구문 다운로드",
       "mandarin": "下载短语",
       "portuguese": "Baixar frase",
+      "russian": "Скачать фразу",
       "spanish": "Descargar frase",
       "turkish": "İfadeyi indir"
     },
@@ -525,6 +568,7 @@
       "korean": "이메일",
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
+      "russian": "Электронная почта",
       "spanish": "Correo electrónico",
       "turkish": "E-posta"
     },
@@ -537,6 +581,7 @@
       "korean": "이메일 주소를 입력하세요",
       "mandarin": "输入你的电子邮箱地址",
       "portuguese": "Insira o seu endereço de email",
+      "russian": "Введите свой адрес электронной почты",
       "spanish": "Ingrese su dirección de correo electrónico",
       "turkish": "E-posta adresinizi girin"
     },
@@ -549,6 +594,7 @@
       "korean": "복구 구문을 입력하세요",
       "mandarin": "输入您的辅助短语",
       "portuguese": "Digite sua frase de recuperação",
+      "russian": "Введите фразу восстановления",
       "spanish": "Introduce tu frase de recuperación",
       "turkish": "Kurtarma ifadenizi girin"
     },
@@ -561,6 +607,7 @@
       "korean": "고급 옵션 숨기기",
       "mandarin": "隐藏高级选项",
       "portuguese": "Ocultar opção avançada",
+      "russian": "Скрыть расширенные настройки",
       "spanish": "Ocultar opción avanzada",
       "turkish": "Gelişmiş seçenekleri gizle"
     },
@@ -573,6 +620,7 @@
       "korean": "복구 구문을 직접 저장하세요",
       "mandarin": "手动保存您的短语",
       "portuguese": "Salve manualmente sua frase",
+      "russian": "Сохранить фразу вручную",
       "spanish": "Guarde manualmente su frase",
       "turkish": "İfadenizi manuel olarak kaydedin"
     },
@@ -585,6 +633,7 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
       "turkish": "Devam et"
     },
@@ -597,6 +646,7 @@
       "korean": "설정을 완료하세요",
       "mandarin": "完成设置",
       "portuguese": "Concluir a configuração",
+      "russian": "Завершить настройку",
       "spanish": "Terminar de configurar",
       "turkish": "Kurulumu bitir"
     },
@@ -609,6 +659,7 @@
       "korean": "인증",
       "mandarin": "核实",
       "portuguese": "Verificar",
+      "russian": "Подтвердить",
       "spanish": "Verificar",
       "turkish": "Doğrula"
     },
@@ -621,6 +672,7 @@
       "korean": "복구 구문 보내기",
       "mandarin": "发送恢复短语",
       "portuguese": "Enviar frase de recuperação",
+      "russian": "Отправить фразу восстановления",
       "spanish": "Enviar frase de recuperación",
       "turkish": "Kurtarma ifadesini gönder"
     },
@@ -633,6 +685,7 @@
       "korean": "복구 구문을 저장했습니다",
       "mandarin": "我已经保存了我的恢复短语",
       "portuguese": "Salvei minha frase de recuperação",
+      "russian": "Я сохранил свою фразу восстановления",
       "spanish": "He guardado mi frase de recuperación",
       "turkish": "Kurtarma ifademi kaydettim"
     },
@@ -645,6 +698,7 @@
       "korean": "참고:",
       "mandarin": "笔记：",
       "portuguese": "Observação:",
+      "russian": "Примечание:",
       "spanish": "Nota:",
       "turkish": "Not:"
     },
@@ -657,6 +711,7 @@
       "korean": "다음 화면에서 이 구문을 인증해야 합니다.",
       "mandarin": "您需要在下一个屏幕上确认此短语",
       "portuguese": "Você precisará confirmar esta frase na próxima tela",
+      "russian": "Вам нужно будет подтвердить эту фразу на следующем экране",
       "spanish": "Deberá confirmar esta frase en la siguiente pantalla",
       "turkish": "Bir sonraki ekranda bu ifadeyi onaylamanız gerekecek"
     },
@@ -669,6 +724,7 @@
       "korean": "고급 옵션 보기",
       "mandarin": "查看高级选项",
       "portuguese": "Ver opção avançada",
+      "russian": "Показать расширенные настройки",
       "spanish": "Ver opción avanzada",
       "turkish": "Gelişmiş seçeneği görüntüle"
     },
@@ -681,6 +737,7 @@
       "korean": "복구 구문을 전송 받을 메일 주소를 입력하세요",
       "mandarin": "提供电子邮件以接收恢复短语",
       "portuguese": "Forneça um e-mail para receber a frase de recuperação",
+      "russian": "Укажите адрес электронной почты для получения фразы восстановления",
       "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación",
       "turkish": "Kurtarma ifadenizi almak için bir e-posta girin"
     },
@@ -693,6 +750,7 @@
       "korean": "저장된 브라우저에 접근할 수 없는 경우, 복구 구문으로 인증할 수 있습니다.",
       "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
       "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com sua frase de recuperação.",
+      "russian": "Если вы потеряете доступ к сохранённому браузеру, вы сможете пройти аутентификацию с помощью фразы восстановления.",
       "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación.",
       "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, kurtarma ifadenizle kimlik doğrulaması yapabilirsiniz."
     },
@@ -705,6 +763,7 @@
       "korean": "{0}로 전송된 복구 구문을 붙여넣으세요.",
       "mandarin": "粘贴您发送到 {0} 的辅助短语",
       "portuguese": "Cole sua frase de recuperação enviada para {0}",
+      "russian": "Вставьте фразу восстановления, отправленную на {0}",
       "spanish": "Pegue su frase de recuperación enviada a {0}",
       "turkish": "{0} adresine gönderilen kurtarma ifadenizi yapıştırın"
     },
@@ -717,6 +776,7 @@
       "korean": "복구 구문 분실 시 계정 분실 위험이 있음을 이해합니다.",
       "mandarin": "我知道如果我丢失了这个恢复短语，我将承担丢失帐户的风险。",
       "portuguese": "Sei que se eu perder esta frase de recuperação, correrei o risco de perder minha conta.",
+      "russian": "Я понимаю, что если потеряю эту фразу восстановления, то рискую потерять доступ к аккаунту.",
       "spanish": "Sé que si pierdo esta frase de recuperación, correré el riesgo de perder mi cuenta.",
       "turkish": "Bu kurtarma ifadesini kaybedersem hesabımı kaybetme riskini üstleneceğimi biliyorum."
     },
@@ -729,6 +789,7 @@
       "korean": "이메일 없이 내 복구 구문 저장하기",
       "mandarin": "无需电子邮件即可保存我的恢复短语",
       "portuguese": "Salvar minha frase de recuperação sem e-mail",
+      "russian": "Сохранить мою фразу восстановления без электронной почты",
       "spanish": "Guardar mi frase de recuperación sin correo electrónico",
       "turkish": "Kurtarma ifademi e-posta olmadan kaydet"
     },
@@ -741,6 +802,7 @@
       "korean":  "내 복구 구문을 이메일로 보내기",
       "mandarin": "通过电子邮件向我发送恢复短语",
       "portuguese": "Envie-me um e-mail com minha frase de recuperação",
+      "russian": "Отправить мою фразу восстановления на почту",
       "spanish": "Envíame mi frase de recuperación por correo electrónico",
       "turkish": "Kurtarma ifademi bana e-postayla gönder"
     },
@@ -753,6 +815,7 @@
       "korean": "인증 완료",
       "mandarin": "已验证",
       "portuguese": "Verificado",
+      "russian": "Подтверждено",
       "spanish": "Verificado",
       "turkish": "Doğrulandı"
     },
@@ -765,6 +828,7 @@
       "korean": "뒤로",
       "mandarin": "后退",
       "portuguese": "Voltar",
+      "russian": "Назад",
       "spanish": "atrás",
       "turkish": "Geri"
     },
@@ -777,6 +841,7 @@
       "korean": "받지 못하셨나요? 다시 전송해보세요. {0} 후 다시 확인해주세요",
       "mandarin": "没有收到吗？ 反感。 再次签入{0}",
       "portuguese": "Não recebeu? Reenviar. Verifique novamente em {0}",
+      "russian": "Не получили? Отправить повторно. Повторная проверка через {0}",
       "spanish": "¿No lo recibiste? Resentirse de. Vuelve a comprobar en {0}",
       "turkish": "Almadınız mı? Yeniden gönderildi. {0} saniye/dakika sonra tekrar kontrol edin"
     },
@@ -789,6 +854,7 @@
       "korean": "고객 지원 문의",
       "mandarin": "联系支持",
       "portuguese": "Entre em contato com o suporte",
+      "russian": "Связаться с поддержкой",
       "spanish": "Soporte de contacto",
       "turkish": "Destek merkeziyle iletişime geçin"
     },
@@ -801,6 +867,7 @@
       "korean": "인증",
       "mandarin": "核实",
       "portuguese": "Verificar",
+      "russian": "Подтвердить",
       "spanish": "Verificar",
       "turkish": "Doğrula"
     },
@@ -813,6 +880,7 @@
       "korean": "받지 못하셨나요?",
       "mandarin": "没有收到吗？",
       "portuguese": "Não recebeu?",
+      "russian": "Не получили?",
       "spanish": "¿No lo recibiste?",
       "turkish": "Almadınız mı?"
     },
@@ -825,6 +893,7 @@
       "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
+      "russian": "Фраза восстановления",
       "spanish": "Frase de recuperación",
       "turkish": "Kurtarma ifadesi"
     },
@@ -837,6 +906,7 @@
       "korean": "다시 전송하기",
       "mandarin": "重发",
       "portuguese": "Reenviar",
+      "russian": "Отправить повторно",
       "spanish": "Reenviar",
       "turkish": "Yeniden gönder"
     },
@@ -849,6 +919,7 @@
       "korean": "복구 구문 인증",
       "mandarin": "验证您的恢复短语",
       "portuguese": "Verifique sua frase de recuperação",
+      "russian": "Подтвердите свою фразу восстановления",
       "spanish": "Verifica tu frase de recuperación",
       "turkish": "Kurtarma ifadenizi doğrulayın"
     },
@@ -861,6 +932,7 @@
       "korean": "복구 구문 붙여넣기",
       "mandarin": "粘贴恢复短语",
       "portuguese": "Cole a frase de recuperação",
+      "russian": "Вставьте фразу восстановления",
       "spanish": "Pega la frase de recuperación",
       "turkish": "Kurtarma ifadesini yapıştırın"
     },
@@ -873,6 +945,7 @@
       "korean": "{0} 메일 주소로 전송된 복구 구문 붙여넣기 하세요",
       "mandarin": "粘贴发送到您的电子邮件的恢复短语 {0}",
       "portuguese": "Cole a frase de recuperação enviada para seu e-mail {0}",
+      "russian": "Вставьте фразу восстановления, отправленную на вашу почту {0}",
       "spanish": "Pega la frase de recuperación enviada a tu correo electrónico {0}",
       "turkish": "{0} e-postanıza gönderilen kurtarma ifadesini yapıştırın"
     },
@@ -885,6 +958,7 @@
       "korean": "완료",
       "mandarin": "完毕",
       "portuguese": "Feito",
+      "russian": "Готово",
       "spanish": "Hecho",
       "turkish": "Tamamlandı"
     },
@@ -897,6 +971,7 @@
       "korean": "앱으로 돌아가기",
       "mandarin": "返回申请",
       "portuguese": "Voltar ao aplicativo",
+      "russian": "Вернуться в приложение",
       "spanish": "Volver a la aplicación",
       "turkish": "Uygulamaya geri dön"
     },
@@ -909,6 +984,7 @@
       "korean": "2단계 인증이 활성화되었습니다!",
       "mandarin": "您的 2FA 已激活！",
       "portuguese": "Seu 2FA foi ativado!",
+      "russian": "Двухфакторная аутентификация активирована!",
       "spanish": "¡Su 2FA ha sido activado!",
       "turkish": "2FA (Çift Faktörlü Doğrulama) aktive edildi!"
     },
@@ -921,6 +997,7 @@
       "korean": "app.openlogin.com에서 계정 설정을 관리하세요",
       "mandarin": "在 app.openlogin.com 上管理未来的帐户设置",
       "portuguese": "Gerencie as configurações futuras da conta em app.openlogin.com",
+      "russian": "Управляйте настройками будущего аккаунта на app.openlogin.com",
       "spanish": "Administre la configuración de la cuenta futura en app.openlogin.com",
       "turkish": "Gelecekteki hesap ayarlarını app.openlogin.com'da yönetin"
     },
@@ -933,6 +1010,7 @@
       "korean": "계정 보안을 강화하세요",
       "mandarin": "保护您的帐户",
       "portuguese": "Proteja sua conta",
+      "russian": "Защитите свой аккаунт",
       "spanish": "Asegure su cuenta",
       "turkish": "Hesabınızı güvence altına alın"
     },
@@ -945,6 +1023,7 @@
       "korean": "2단계 인증 설정하기",
       "mandarin": "设置 2 因素身份验证",
       "portuguese": "Configure a autenticação de 2 fatores",
+      "russian": "Настройте двухфакторную аутентификацию",
       "spanish": "Configurar autenticación de 2 factores",
       "turkish": "2 Faktörlü Kimlik doğrulamayı kurun"
     },
@@ -957,6 +1036,7 @@
       "korean": "2단계 인증 설정",
       "mandarin": "设置 2FA",
       "portuguese": "Configurar 2FA",
+      "russian": "Установите двухфакторную аутентификацию",
       "spanish": "Configurar 2FA",
       "turkish": "2FA (2 Faktörlü Kimlik doğrulama) kurun"
     },
@@ -969,6 +1049,7 @@
       "korean": "1단계: 기기 저장",
       "mandarin": "第 1 步：保存您的设备",
       "portuguese": "Etapa 1: salve seu dispositivo",
+      "russian": "Шаг 1: Сохраните ваше устройство",
       "spanish": "Paso 1: Guarde su dispositivo",
       "turkish": "1. Adım: Cihazınızı kaydedin"
     },
@@ -981,6 +1062,7 @@
       "korean": "복구 구문 저장",
       "mandarin": "保存恢复短语",
       "portuguese": "Salvar frase de recuperação",
+      "russian": "Сохранить фразу восстановления",
       "spanish": "Guardar frase de recuperación",
       "turkish": "Kurtarma ifadesini kaydet"
     },
@@ -993,6 +1075,7 @@
       "korean": "2단계: 복구 구문 저장",
       "mandarin": "第 2 步：保存恢复短语",
       "portuguese": "Etapa 2: salvar a frase de recuperação",
+      "russian": "Шаг 2: Сохраните фразу восстановления",
       "spanish": "Paso 2: Guarda la frase de recuperación",
       "turkish": "2. Adım: Kurtarma ifadesini kaydedin"
     },
@@ -1005,6 +1088,7 @@
       "korean": "3단계: 복구 구문 인증",
       "mandarin": "第 3 步：验证恢复短语",
       "portuguese": "Etapa 3: verificar a frase de recuperação",
+      "russian": "Шаг 3: Подтвердите фразу восстановления",
       "spanish": "Paso 3: Verificar la frase de recuperación",
       "turkish": "3. Adım: Kurtarma ifadesini doğrulayın"
     },
@@ -1017,6 +1101,7 @@
       "korean": "복구 인증",
       "mandarin": "恢复验证",
       "portuguese": "Verificação de recuperação",
+      "russian": "Проверка восстановления",
       "spanish": "Verificación de recuperación",
       "turkish": "Kurtarma doğrulaması"
     },
@@ -1029,6 +1114,7 @@
       "korean": "2단계 인증이 활성화되었습니다",
       "mandarin": "2FA 激活",
       "portuguese": "2FA ativado",
+      "russian": "'2FA активирован'",
       "spanish": "2FA activado",
       "turkish": "2FA aktive edildi"
     },
@@ -1041,6 +1127,7 @@
       "korean": "다음 중 하나를 계속하여 복구 구문으로 설정하십시오.",
       "mandarin": "继续执行以下操作之一，将其设置为您的恢复因素。",
       "portuguese": "Continue com um dos seguintes para defini-lo como seu fator de recuperação.",
+      "russian": "Продолжите с одним из следующих вариантов, чтобы установить его в качестве фактора восстановления.",
       "spanish": "Continúe con uno de los siguientes para configurarlo como su factor de recuperación.",
       "turkish": "Kurtarma faktörünüz olarak ayarlamak için aşağıdakilerden biriyle devam edin."
     },
@@ -1053,6 +1140,7 @@
       "korean": "소셜 계정이 2단계 복구 수단으로 설정되었습니다",
       "mandarin": "您的社交因素已成功设置为第二恢复因素",
       "portuguese": "Seu fator social foi configurado com sucesso como um segundo fator de recuperação",
+      "russian": "Вы успешно настроили социальную сеть как второй способ восстановления",
       "spanish": "Su factor social se ha configurado con éxito como un segundo factor de recuperación",
       "turkish": "Sosyal medya faktörünüz 2. kurtarma faktörü olarak başarıyla kuruldu."
     },
@@ -1065,6 +1153,7 @@
       "korean": "소셜 계정을 복구 수단으로 설정",
       "mandarin": "设置社会恢复因素",
       "portuguese": "Configure um fator de recuperação social",
+      "russian": "Настройте восстановление через социальную сеть",
       "spanish": "Configurar un factor de recuperación social",
       "turkish": "Bir Sosyal Medya kurtarma faktörü oluşturun"
     },
@@ -1077,6 +1166,7 @@
       "korean": "저장된 브라우저에서 접근 허용",
       "mandarin": "允许从您保存的浏览器访问",
       "portuguese": "Permita o acesso do seu navegador salvo",
+      "russian": "Разрешите доступ из сохранённого браузера",
       "spanish": "Permitir el acceso desde su navegador guardado",
       "turkish": "Kayıtlı tarayıcınızdan erişime izin verin"
     },
@@ -1089,6 +1179,7 @@
       "korean": "접근을 허용하려면 다음 저장된 브라우저에 로그인하세요",
       "mandarin": "登录到以下已保存的浏览器以批准访问",
       "portuguese": "Faça login no seguinte navegador salvo para aprovar o acesso",
+      "russian": "Войдите в указанный сохранённый браузер, чтобы подтвердить доступ",
       "spanish": "Inicie sesión en el siguiente navegador guardado para aprobar el acceso",
       "turkish": "Erişimi onaylamak için aşağıdaki kayıtlı tarayıcıya giriş yapın"
     },
@@ -1101,6 +1192,7 @@
       "korean": "저장된 브라우저로 로그인 요청이 전송됩니다.",
       "mandarin": "登录请求将发送到您保存的浏览器",
       "portuguese": "Uma solicitação de login será enviada para o seu navegador salvo",
+      "russian": "Запрос на вход будет отправлен в ваш сохранённый браузер",
       "spanish": "Se enviará una solicitud de inicio de sesión a su navegador guardado",
       "turkish": "Kayıtlı tarayıcınıza bir oturum açma isteği gönderilecektir"
     },
@@ -1113,6 +1205,7 @@
       "korean": "사용 가능한 기기 {0}대",
       "mandarin": "{0} 台设备可用",
       "portuguese": "{0} dispositivos disponíveis",
+      "russian": "Доступно устройств: {0}",
       "spanish": "{0} dispositivos disponibles",
       "turkish": "{0} cihaz mevcut"
     },
@@ -1125,6 +1218,7 @@
       "korean": "복구 구문 입력",
       "mandarin": "输入恢复短语",
       "portuguese": "Digite a frase de recuperação",
+      "russian": "Введите фразу восстановления",
       "spanish": "Ingrese la frase de recuperación",
       "turkish": "Kurtarma ifadesini girin"
     },
@@ -1137,6 +1231,7 @@
       "korean": "위 항목 중 하나라도 인증할 수 없을 경우, 계정에 로그인할 수 없습니다.",
       "mandarin": "如果您无法验证上述任何一项，则无法登录您的帐户。",
       "portuguese": "Se você não conseguir verificar nenhum dos itens acima, não poderá fazer login na sua conta.",
+      "russian": "Если вы не можете подтвердить что-либо из вышеуказанного, вы не сможете войти в свой аккаунт.",
       "spanish": "Si no puede verificar ninguno de los anteriores, no puede iniciar sesión en su cuenta.",
       "turkish": "Yukarıdakilerden herhangi birini doğrulayamıyorsanız, hesabınıza giriş yapamazsınız."
     },
@@ -1149,6 +1244,7 @@
       "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
+      "russian": "Фраза восстановления",
       "spanish": "Frase de recuperación",
       "turkish": "Kurtarma ifadesi"
     },
@@ -1161,6 +1257,7 @@
       "korean": "복구 코드",
       "mandarin": "恢复代码",
       "portuguese": "Código de recuperação",
+      "russian": "Код восстановления",
       "spanish": "Código de recuperación",
       "turkish": "Kurtarma kodu"
     },
@@ -1173,6 +1270,7 @@
       "korean": "참조 ID",
       "mandarin": "参考编号",
       "portuguese": "Identificador de referência",
+      "russian": "Идентификатор ссылки",
       "spanish": "Identificación de referencia",
       "turkish": "Referans Kimliği"
     },
@@ -1185,6 +1283,7 @@
       "korean": "계정이 복구되었습니다",
       "mandarin": "帐户已恢复",
       "portuguese": "Conta recuperada",
+      "russian": "Аккаунт восстановлен",
       "spanish": "Cuenta recuperada",
       "turkish": "Hesap kurtarıldı"
     },
@@ -1197,6 +1296,7 @@
       "korean": "나중에 하기",
       "mandarin": "下次吧",
       "portuguese": "Talvez na próxima vez",
+      "russian": "Возможно в следующий раз",
       "spanish": "Quizás la próxima vez",
       "turkish": "Belki başka zaman"
     },
@@ -1209,6 +1309,7 @@
       "korean": "이 기기 저장",
       "mandarin": "保存此设备",
       "portuguese": "Salvar este dispositivo",
+      "russian": "Сохранить это устройство",
       "spanish": "Guardar este dispositivo",
       "turkish": "Bu cihazı kaydet"
     },
@@ -1221,6 +1322,7 @@
       "korean": "이 기기를 신뢰할 수 있는 기기로 저장하시겠습니까?",
       "mandarin": "您想将此设备保存为受信任的设备吗？",
       "portuguese": "Deseja salvar este dispositivo como um dispositivo confiável?",
+      "russian": "Вы хотите сохранить это устройство как доверенное?",
       "spanish": "¿Le gustaría guardar este dispositivo como dispositivo de confianza?",
       "turkish": "Bu cihazı güvenilir bir cihaz olarak kaydetmek ister misiniz?"
     },
@@ -1233,6 +1335,7 @@
       "korean": "브라우저",
       "mandarin": "浏览器",
       "portuguese": "Navegador",
+      "russian": "Браузер",
       "spanish": "Navegador",
       "turkish": "Tarayıcı"
     },
@@ -1245,6 +1348,7 @@
       "korean": "다음 중 하나를 선택하세요.",
       "mandarin": "选择以下之一",
       "portuguese": "Selecione um dos seguintes",
+      "russian": "Выберите один из следующих",
       "spanish": "Selecciona uno de los siguientes",
       "turkish": "Birini seçiniz"
     },
@@ -1257,6 +1361,7 @@
       "korean": "요청 다시 보내기",
       "mandarin": "重新发送请求",
       "portuguese": "Reenviar solicitação",
+      "russian": "Повторить запрос",
       "spanish": "Reenviar solicitud",
       "turkish": "İsteği yeniden gönder"
     },
@@ -1269,6 +1374,7 @@
       "korean": "요청 보내기",
       "mandarin": "发送请求",
       "portuguese": "Enviar pedido",
+      "russian": "Отправить запрос",
       "spanish": "Enviar petición",
       "turkish": "İstek gönder"
     },
@@ -1281,6 +1387,7 @@
       "korean": "로그인하려면 다음 중 하나가 필요합니다.",
       "mandarin": "您需要以下其中一项才能登录",
       "portuguese": "Você precisa de um dos seguintes para fazer login",
+      "russian": "Вам нужно одно из следующего для входа в систему.",
       "spanish": "Necesita uno de los siguientes para iniciar sesión",
       "turkish": "Giriş yapmak için aşağıdakilerden birine ihtiyacınız vardır"
     },
@@ -1293,6 +1400,7 @@
       "korean": "이 브라우저/기기를 저장하지 마세요.",
       "mandarin": "不要保存此浏览器/设备。",
       "portuguese": "Não salve este navegador/dispositivo.",
+      "russian": "Не сохраняйте этот браузер/устройство.",
       "spanish": "No guarde este navegador / dispositivo.",
       "turkish": "Bu tarayıcıyı/cihazı kaydetmeyin."
     },
@@ -1305,6 +1413,7 @@
       "korean": "앱으로 이동",
       "mandarin": "转到应用程序",
       "portuguese": "Vá para o aplicativo",
+      "russian": "Перейти в приложение",
       "spanish": "Ir a la aplicación",
       "turkish": "Uygulamaya git"
     },
@@ -1317,6 +1426,7 @@
       "korean": "저장된 브라우저/기기",
       "mandarin": "保存的浏览器/设备",
       "portuguese": "Navegadores/dispositivos salvos",
+      "russian": "Сохраненные браузер(ы) / устройства",
       "spanish": "Navegadores / dispositivos guardados",
       "turkish": "Kaydedilen tarayıcı(lar) / cihazlar"
     },
@@ -1329,6 +1439,7 @@
       "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
+      "russian": "Фраза восстановления",
       "spanish": "Frase de recuperación",
       "turkish": "Kurtarma ifadesi"
     },
@@ -1341,6 +1452,7 @@
       "korean": "복구 구문 입력",
       "mandarin": "输入恢复短语",
       "portuguese": "Digite a frase de recuperação",
+      "russian": "Введите фразу восстановления",
       "spanish": "Ingrese la frase de recuperación",
       "turkish": "Kurtarma ifadesini girin"
     },
@@ -1353,6 +1465,7 @@
       "korean": "복구 구문",
       "mandarin": "恢复短语",
       "portuguese": "Frase de recuperação",
+      "russian": "Фраза восстановления",
       "spanish": "Frase de recuperación",
       "turkish": "Kurtarma ifadesi"
     },
@@ -1365,6 +1478,7 @@
       "korean": "다음 중 하나로 인증하기",
       "mandarin": "使用以下之一进行身份验证",
       "portuguese": "Autenticar com um dos seguintes",
+      "russian": "Авторизуйтесь с помощью одного из следующих",
       "spanish": "Autenticarse con uno de los siguientes",
       "turkish": "Aşağıdakilerden biriyle kimlik doğrulaması yapın"
     },
@@ -1377,6 +1491,7 @@
       "korean": "로그인하려면 다음 중 하나가 필요합니다.",
       "mandarin": "您需要以下其中一项才能登录",
       "portuguese": "Você precisa de um dos seguintes para fazer login",
+      "russian": "Вам нужно одно из следующего для входа в систему.",
       "spanish": "Necesita uno de los siguientes para iniciar sesión",
       "turkish": "Giriş yapmak için aşağıdakilerden birine ihtiyacınız vardır"
     },
@@ -1389,6 +1504,7 @@
       "korean": "인증",
       "mandarin": "核实",
       "portuguese": "Verificar",
+      "russian": "Проверить",
       "spanish": "Verificar",
       "turkish": "Doğrula"
     },
@@ -1401,6 +1517,7 @@
       "korean": "인증 성공",
       "mandarin": "验证成功",
       "portuguese": "Verificação bem-sucedida",
+      "russian": "Успешная верификация",
       "spanish": "Verificación exitosa",
       "turkish": "Başarılı doğrulama"
     },
@@ -1413,6 +1530,7 @@
       "korean": "성공",
       "mandarin": "成功的",
       "portuguese": "Bem sucedido",
+      "russian": "Успешно",
       "spanish": "Exitoso",
       "turkish": "Başarılı"
     },
@@ -1425,6 +1543,7 @@
       "korean": "로그인 중입니다",
       "mandarin": "登录",
       "portuguese": "Conectando você",
+      "russian": "Вход в систему",
       "spanish": "iniciando sesión",
       "turkish": "Giriş yapıyorsunuz"
     },
@@ -1437,6 +1556,7 @@
       "korean": "2단계 인증 완료",
       "mandarin": "2FA 验证",
       "portuguese": "2FA verificado",
+      "russian": "'2FA подтверждена'",
       "spanish": "2FA verificado",
       "turkish": "2FA doğrulandı"
     },
@@ -1449,6 +1569,7 @@
       "korean": "로그인 인증",
       "mandarin": "验证您的登录信息",
       "portuguese": "Verifique seu login",
+      "russian": "Проверьте ваш вход в систему",
       "spanish": "Verifique su inicio de sesión",
       "turkish": "Giriş bilgilerinizi doğrulayın"
     },
@@ -1461,6 +1582,7 @@
       "korean":  "2단계 인증이 활성화되었습니다",
       "mandarin": "2FA 激活",
       "portuguese": "2FA ativado",
+      "russian": "2FA активирован",
       "spanish": "2FA activado",
       "turkish": "2FA aktifleştirildi"
     },
@@ -1473,6 +1595,7 @@
       "korean": "다른 인증 수단 설정하기",
       "mandarin": "尝试其他方法",
       "portuguese": "Tente outros métodos",
+      "russian": "Попробуйте другие методы",
       "spanish": "Pruebe otros métodos",
       "turkish": "Diğer yöntemleri deneyin"
     },
@@ -1485,6 +1608,7 @@
       "korean": "인증",
       "mandarin": "核实",
       "portuguese": "Verificar",
+      "russian": "Проверить",
       "spanish": "Verificar",
       "turkish": "Doğrula"
     },
@@ -1497,6 +1621,7 @@
       "korean": "계정이 일치하지 않습니다. 소셜 인증 수단으로 설정한 계정으로 계속하세요.",
       "mandarin": "帐户不匹配，请继续将您设置为社会恢复因素",
       "portuguese": "Indatibilidade de conta, continue com um que você definiu como um fator de recuperação social",
+      "russian": "Несоответствие аккаунта, продолжайте с тем, который вы установили как фактор восстановления через соцсети.",
       "spanish": "Desacuadado de la cuenta, continúe con uno que establezca como factor de recuperación social",
       "turkish": "Hesap uyuşmazlığı, lütfen sosyal kurtarma faktörü olarak belirlediğiniz bir hesapla devam edin"
     },
@@ -1509,6 +1634,7 @@
       "korean": "이메일로 연결",
       "mandarin": "连接电子邮件",
       "portuguese": "Conectar com e-mail",
+      "russian": "Подключиться через электронную почту",
       "spanish": "Conectar con correo electrónico",
       "turkish": "E-posta ile Bağlanın"
     },
@@ -1521,6 +1647,7 @@
       "korean": "전화번호로 연결",
       "mandarin": "连接手机",
       "portuguese": "Conectar com telefone",
+      "russian": "Подключиться с телефоном",
       "spanish": "Conectar con el teléfono",
       "turkish": "Telefon ile Bağlanın"
     },
@@ -1533,6 +1660,7 @@
       "korean": "전화번호 또는 이메일로 연결",
       "mandarin": "通过电话或电子邮件联系",
       "portuguese": "Conecte-se com telefone ou e-mail",
+      "russian": "Подключиться с помощью телефона или электронной почты",
       "spanish": "Conectar con teléfono o correo electrónico",
       "turkish": "Telefon veya E-posta ile Bağlanın"
     },
@@ -1545,6 +1673,7 @@
       "korean": "지갑으로 연결",
       "mandarin": "连接钱包",
       "portuguese": "Conecte-se com a Carteira",
+      "russian": "Подключиться к кошельку",
       "spanish": "Conectar con Monedero",
       "turkish": "Cüzdan ile Bağlanın"
     },
@@ -1557,6 +1686,7 @@
       "korean": "키 생성 중입니다",
       "mandarin": "构建您的密钥",
       "portuguese": "Construindo sua chave em",
+      "russian": "Создание вашего ключа на",
       "spanish": "Construyendo tu clave en",
       "turkish": "Anahtarınız oluşturuluyor"
     },
@@ -1566,6 +1696,7 @@
       "japanese": "{0}でキーを構築する",
       "korean": "{0}에서 키 생성 중입니다",
       "mandarin": "在{0}上构建密钥",
+      "russian": "Создание вашего ключа на {0}",
       "spanish": "Construyendo su clave en {0}",
       "turkish": "Anahtarınız oluşturuluyor {0}"
     },
@@ -1578,6 +1709,7 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar com",
+      "russian": "Продолжить с",
       "spanish": "Continua con",
       "turkish": " Şununla devam et:"
     },
@@ -1590,6 +1722,7 @@
       "korean": "전화번호 수정",
       "mandarin": "编辑电话号码",
       "portuguese": "Edite o número de telefone",
+      "russian": "Изменить номер телефона",
       "spanish": "Editar número de teléfono",
       "turkish": "Telefon numarasını düzenle"
     },
@@ -1602,6 +1735,7 @@
       "korean": "외부 지갑",
       "mandarin": "外部钱包",
       "portuguese": "Carteira externa",
+      "russian": "Внешний кошелек",
       "spanish": "Monedero externo",
       "turkish": "Harici cüzdan"
     },
@@ -1614,6 +1748,7 @@
       "korean": "Self-custodial login by Web3Auth",
       "mandarin": "Web3Auth 的自我托管登录",
       "portuguese": "Início de sessão com autocustódia por Web3Auth",
+      "russian": "Некастодиальный вход через Web3Auth",
       "spanish": "Inicio de sesión con autocustodia por Web3Auth",
       "turkish": "Web3Auth tarafından öz-yönetimli giriş"
     },
@@ -1626,6 +1761,7 @@
       "korean": "유효하지 않은 복구 구문",
       "mandarin": "备份短语不正确",
       "portuguese": "Frase de backup incorreta",
+      "russian": "Неверная фраза для восстановления",
       "spanish": "Frase de respaldo incorrecta",
       "turkish": "Hatalı yedekleme ifadesi"
     },
@@ -1638,6 +1774,7 @@
       "korean": "유효하지 않은 이메일 또는 전화번호",
       "mandarin": "无效的电子邮件或电话号码",
       "portuguese": "Email inválido ou número de telefone",
+      "russian": "Недействительный адрес электронной почты или номер телефона",
       "spanish": "Correo electrónico o número de teléfono no válido",
       "turkish": "Geçersiz E-posta veya Telefon Numarası"
     },
@@ -1650,6 +1787,7 @@
       "korean": "유효하지 않은 전화번호",
       "mandarin": "无效的电话号码",
       "portuguese": "Número de telefone inválido",
+      "russian": "Недействительный номер телефона",
       "spanish": "Numero de telefono invalido",
       "turkish": "Geçersiz Telefon Numarası"
     },
@@ -1662,6 +1800,7 @@
       "korean": "Web3Auth가 지원하는 모든 앱의 접근 및 보안 설정을 관리하세요.",
       "mandarin": "管理 Web3Auth 支持的所有应用程序的访问和安全设置。",
       "portuguese": "Gerencie as configurações de acesso e segurança em todos os aplicativos suportados pelo Web3Auth.",
+      "russian": "Управляйте настройками доступа и безопасности во всех приложениях, поддерживаемых Web3Auth.",
       "spanish": "Administre la configuración de acceso y seguridad en todas las aplicaciones compatibles con Web3Auth.",
       "turkish": "Web3Auth tarafından desteklenen tüm uygulamalardaki erişim ve güvenlik ayarlarını yönetin."
     },
@@ -1674,6 +1813,7 @@
       "korean": "2단계 인증을 통한 지갑 계정 관리",
       "mandarin": "两因素钱包账户管理",
       "portuguese": "Gerenciamento de conta de carteira de dois fatores",
+      "russian": "Управление кошельком с двухфакторной аутентификацией",
       "spanish": "Gestión de cuenta de billetera de dos factores",
       "turkish": "İki Faktörlü Cüzdan Hesap Yönetimi"
     },
@@ -1686,6 +1826,7 @@
       "korean": "계속하기",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
       "turkish": "Devam et"
     },
@@ -1698,6 +1839,7 @@
       "korean": "최신 버전의 Torus Wallet은 OpenLogin으로 구동됩니다.",
       "mandarin": "最新版本的Torus Wallet由OpenLogin提供支持。",
       "portuguese": "A versão mais recente do Torus Wallet é fornecida pelo OpenLogin.",
+      "russian": "Последняя версия кошелька Torus работает на OpenLogin.",
       "spanish": "La última versión de Torus Wallet funciona con OpenLogin.",
       "turkish": "Torus Wallet'ın en son sürümü OpenLogin tarafından desteklenmektedir."
     },
@@ -1710,6 +1852,7 @@
       "korean": "Torus Wallet의 최신 기능들을 이용하고 싶으시다면",
       "mandarin": "享受Torus钱包的最新功能",
       "portuguese": "Para aproveitar os recursos mais recentes da Torus Wallet",
+      "russian": "Наслаждаться последними функциями кошелька Torus",
       "spanish": "Para disfrutar de las últimas funciones de Torus Wallet",
       "turkish": "Torus Cüzdan'ın en son özelliklerinden yararlanmak için"
     },
@@ -1722,6 +1865,7 @@
       "korean": "이 새로운 버전에서 본인을 인증해주세요.",
       "mandarin": "请在此新版本上验证您的身份",
       "portuguese": "gentilmente verifique sua identidade nesta nova versão",
+      "russian": "Пожалуйста, подтвердите свою личность в этой новой версии.",
       "spanish": "por favor verifique su identidad en esta nueva versión",
       "turkish": "lütfen bu yeni sürümde kimliğinizi doğrulayın"
     },
@@ -1734,6 +1878,7 @@
       "korean": "Face ID / Touch ID 지원",
       "mandarin": "支持面部识别/触摸识别",
       "portuguese": "Suporta Face ID / Touch ID",
+      "russian": "Поддерживает Face ID / Touch ID",
       "spanish": "Soporta Face ID / Touch ID",
       "turkish": "Face ID / Touch ID'yi destekler"
     },
@@ -1746,6 +1891,7 @@
       "korean": "SSO 및 기기로 보안 강화",
       "mandarin": "由SSO和设备保护",
       "portuguese": "Protegido por SSO e dispositivo",
+      "russian": "Защищено с помощью SSO и устройства",
       "spanish": "Asegurado por SSO y dispositivo",
       "turkish": "SSO ve cihaz tarafından güvence altına alınmıştır"
     },
@@ -1758,6 +1904,7 @@
       "korean": "사용자 데이터 및 개인정보 보호",
       "mandarin": "受保护的用户数据和隐私",
       "portuguese": "Dados e privacidade protegidos do usuário",
+      "russian": "Защита данных пользователя и конфиденциальности",
       "spanish": "Privacidad y datos de usuario protegidos",
       "turkish": "Korunan Kullanıcı Verileri ve Gizlilik"
     },
@@ -1770,6 +1917,7 @@
       "korean": "tKey 마이그레이션",
       "mandarin": "迁移您的tKey",
       "portuguese": "Migrando sua tKey",
+      "russian": "Перенос вашего tKey",
       "spanish": "Migrar su tKey",
       "turkish": "tKey'inizi taşıma"
     },
@@ -1782,6 +1930,7 @@
       "korean": "간편하고 안전하게",
       "mandarin": "变得简单而安全",
       "portuguese": "simples e seguro com",
+      "russian": "сделано простым и безопасным с помощью",
       "spanish": "hecho simple y seguro con",
       "turkish": "Şununla basit ve güvenli hale getirildi: "
     },
@@ -1794,6 +1943,7 @@
       "korean": "복구 수단 다운로드하기",
       "mandarin": "下载我的恢复因子",
       "portuguese": "Baixar meu fator de recuperação",
+      "russian": "Скачайте мой фактор восстановления",
       "spanish": "Descargar mi factor de recuperación",
       "turkish": "Kurtarma faktörümü indir"
     },
@@ -1806,6 +1956,7 @@
       "korean": "복구 구문을 전송 받을 이메일 주소를 입력하세요",
       "mandarin": "提供电子邮件以接收恢复短语",
       "portuguese": "Forneça um e-mail para receber o fator de recuperação",
+      "russian": "Предоставьте электронную почту для получения средства восстановления",
       "spanish": "Proporcione un correo electrónico para recibir la frase de recuperación",
       "turkish": "Kurtarma faktörünü almak için bir e-posta sağlayın"
     },
@@ -1818,6 +1969,7 @@
       "korean": "저장된 브라우저에 접근할 수 없는 경우, 복구 수단으로 인증할 수 있습니다.",
       "mandarin": "如果您无法访问保存的浏览器，您可以使用恢复短语进行身份验证。",
       "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode autenticar com seu fator de recuperação.",
+      "russian": "В случае, если вы потеряете доступ к сохраненному браузеру, вы можете аутентифицироваться с помощью вашего восстановительного фактора.",
       "spanish": "En caso de que pierda el acceso a su navegador guardado, puede autenticarse con su frase de recuperación.",
       "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, kurtarma faktörünüzle kimlik doğrulaması yapabilirsiniz."
     },
@@ -1830,6 +1982,7 @@
       "korean": "복구 수단",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
+      "russian": "Коэффициент восстановления",
       "spanish": "Factor de recuperación",
       "turkish": "Kurtarma faktörü"
     },
@@ -1842,6 +1995,7 @@
       "korean": "복구 구문 인증하기",
       "mandarin": "验证您的恢复系数",
       "portuguese": "Verifique seu fator de recuperação",
+      "russian": "Проверьте ваш фактор восстановления",
       "spanish": "Verifique su factor de recuperación",
       "turkish": "Kurtarma faktörünüzü doğrulayın"
     },
@@ -1854,6 +2008,7 @@
       "korean": "복구 구문 붙여넣기",
       "mandarin": "粘贴恢复因子",
       "portuguese": "Cole o fator de recuperação",
+      "russian": "Вставьте фактор восстановления",
       "spanish": "Pegar el factor de recuperación",
       "turkish": "Kurtarma faktörünü yapıştır"
     },
@@ -1866,6 +2021,7 @@
       "korean": "{0} 메일 주소로 전송된 복구 구문을 붙여넣기 하세요.",
       "mandarin": "粘贴发送到您的电子邮件 {0} 的恢复因素",
       "portuguese": "Cole o fator de recuperação enviado para seu e-mail {0}",
+      "russian": "Вставьте восстановительный фактор, отправленный на вашу электронную почту {0}",
       "spanish": "Pegue el factor de recuperación enviado a su correo electrónico {0}",
       "turkish": "{0} e-postanıza gönderilen kurtarma faktörünü yapıştırın"
     },
@@ -1878,6 +2034,7 @@
       "korean": "복구 수단 저장",
       "mandarin": "保存恢复短语",
       "portuguese": "Salvar fator de recuperação",
+      "russian": "Сохранить фактор восстановления",
       "spanish": "Guardar frase de recuperación",
       "turkish": "Kurtarma faktörünü kaydet"
     },
@@ -1890,6 +2047,7 @@
       "korean": "복구 수단",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
+      "russian": "Фактор восстановления",
       "spanish": "Factor de recuperación",
       "turkish": "Kurtarma faktörü"
     },
@@ -1902,6 +2060,7 @@
       "korean": "복구 수단 입력",
       "mandarin": "输入恢复系数",
       "portuguese": "Insira o fator de recuperação",
+      "russian": "Введите фактор восстановления",
       "spanish": "Ingrese el factor de recuperación",
       "turkish": "Kurtarma faktörünü girin"
     },
@@ -1914,6 +2073,7 @@
       "korean": "복구 수단",
       "mandarin": "恢复系数",
       "portuguese": "Fator de recuperação",
+      "russian": "Фактор восстановления",
       "spanish": "Factor de recuperación",
       "turkish": "Kurtarma faktörü"
     },
@@ -1926,6 +2086,7 @@
       "korean": "OTP가 만료되었습니다",
       "mandarin": "OTP过期",
       "portuguese": "OTP expirou",
+      "russian": "Одноразовый пароль истек",
       "spanish": "OTP expiró",
       "turkish": "OTP Süresi Doldu"
     },
@@ -1938,6 +2099,7 @@
       "korean": "유효하지 않은 OTP입니다",
       "mandarin": "无效的OTP",
       "portuguese": "OTP inválido",
+      "russian": "Недействительный OTP",
       "spanish": "OTP no válido",
       "turkish": "Geçersiz OTP"
     },
@@ -1950,6 +2112,7 @@
       "korean": "OTP 인증 완료",
       "mandarin": "已验证OTP",
       "portuguese": "OTP Verificado",
+      "russian": "OTP подтвержден",
       "spanish": "OTP verificado",
       "turkish": "OTP doğrulandı"
     },
@@ -1962,6 +2125,7 @@
       "korean": "페이지를 새로고침 하지 마세요.",
       "mandarin": "请不要重新加载页面",
       "portuguese": "Por favor, não recarregue a página.",
+      "russian": "Пожалуйста, не перезагружайте страницу.",
       "spanish": "Por favor, no vuelva a cargar la página.",
       "turkish": "Lütfen sayfayı yenilemeyin."
     },
@@ -1974,6 +2138,7 @@
       "korean": "비밀번호 인증",
       "mandarin": "密码验证",
       "portuguese": "verificação de senha",
+      "russian": "Проверка пароля",
       "spanish": "Verificación de contraseña",
       "turkish": "Şifre doğrulama"
     },
@@ -1986,6 +2151,7 @@
       "korean": "인증을 위해 복구 비밀번호를 입력하세요",
       "mandarin": "输入您的恢复密码进行验证",
       "portuguese": "Digite sua senha de recuperação para verificar",
+      "russian": "Введите ваш пароль восстановления для проверки",
       "spanish": "Ingrese su contraseña de recuperación para verificar",
       "turkish": "Doğrulamak için kurtarma şifrenizi girin"
     },
@@ -1998,6 +2164,7 @@
       "korean": "복구 수단을 붙여넣기 해주세요",
       "mandarin": "请粘贴您的恢复因素",
       "portuguese": "Cole o seu fator de recuperação",
+      "russian": "Пожалуйста, вставьте ваш фактор восстановления.",
       "spanish": "Pegue su factor de recuperación",
       "turkish": "Lütfen kurtarma faktörünüzü yapıştırın"
     },
@@ -2010,6 +2177,7 @@
       "korean": "전화번호 또는 이메일",
       "mandarin": "电话还是邮件",
       "portuguese": "Telefone ou email",
+      "russian": "Телефон или Электронная почта",
       "spanish": "Teléfono o correo electrónico",
       "turkish": "Telefon veya E-posta"
     },
@@ -2022,6 +2190,7 @@
       "korean": "이미 계정이 있으신가요?",
       "mandarin": "已经有账户？",
       "portuguese": "Já possui uma conta?",
+      "russian": "Уже есть аккаунт?",
       "spanish": "¿Ya tienes una cuenta?",
       "turkish": "Zaten bir hesabınız var mı?"
     },
@@ -2034,6 +2203,7 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
       "turkish": "Devam et"
     },
@@ -2046,6 +2216,7 @@
       "korean": "기존 {0}로 계속하기",
       "mandarin": "继续使用现有的{0}",
       "portuguese": "Continuar com {0} existente",
+      "russian": "Продолжить с существующим {0}",
       "spanish": "Continuar con {0} existente",
       "turkish": "Mevcut {0} ile devam edin"
     },
@@ -2058,6 +2229,7 @@
       "korean": "여기",
       "mandarin": "这里",
       "portuguese": "aqui",
+      "russian": "здесь",
       "spanish": "aquí",
       "turkish": "Burada"
     },
@@ -2070,6 +2242,7 @@
       "korean": "계정 관리",
       "mandarin": "管理帐户",
       "portuguese": "Gerenciar conta",
+      "russian": "Управление аккаунтом",
       "spanish": "Administrar cuenta",
       "turkish": "Hesabı yönet"
     },
@@ -2082,6 +2255,7 @@
       "korean": "개인정보 정책",
       "mandarin": "隐私政策",
       "portuguese": "Política de Privacidade",
+      "russian": "Политика конфиденциальности",
       "spanish": "Política de privacidad",
       "turkish": "Gizlilik Politikası"
     },
@@ -2094,6 +2268,7 @@
       "korean": "계속할 방법을 선택하세요",
       "mandarin": "选择您想继续的方式",
       "portuguese": "Selecione como você gostaria de continuar",
+      "russian": "Выберите, как вы хотели бы продолжить",
       "spanish": "Seleccione cómo le gustaría continuar",
       "turkish": "Nasıl devam etmek istediğinizi seçin"
     },
@@ -2106,6 +2281,7 @@
       "korean": "이용 약관",
       "mandarin": "使用条款",
       "portuguese": "Termos de uso",
+      "russian": "Условия использования",
       "spanish": "Condiciones de uso",
       "turkish": "Kullanım Şartları"
     },
@@ -2118,6 +2294,7 @@
       "korean": "환영합니다",
       "mandarin": "欢迎登机",
       "portuguese": "Bem-vindo a bordo",
+      "russian": "Добро пожаловать на борт",
       "spanish": "La bienvenida a bordo",
       "turkish": "Hoş geldiniz"
     },
@@ -2130,6 +2307,7 @@
       "korean": "옵션 간략히 보기",
       "mandarin": "查看较少的选项",
       "portuguese": "Ver menos opções",
+      "russian": "Посмотреть меньше опций",
       "spanish": "Ver menos opciones",
       "turkish": "Daha az seçenek görüntüle"
     },
@@ -2142,6 +2320,7 @@
       "korean": "옵션 더 보기",
       "mandarin": "查看更多选项",
       "portuguese": "Ver mais opções",
+      "russian": "Посмотреть больше опций",
       "spanish": "Ver más opciones",
       "turkish": "Daha fazla seçenek görüntüle"
     },
@@ -2154,6 +2333,7 @@
       "korean": "항상 건너뛰기",
       "mandarin": "总是跳过",
       "portuguese": "Sempre pular",
+      "russian": "Всегда пропускай",
       "spanish": "Saltar siempre",
       "turkish": "Her zaman atlayın"
     },
@@ -2166,6 +2346,7 @@
       "korean": "'항상 건너뛰기'를 선택하면 OpenLogin 계정에 로그인하라는 메시지가 다시 표시되지 않습니다. 이 옵션은 언제든지 '설정'에서 변경할 수 있습니다.",
       "mandarin": "通过选择“始终跳过”，您将不会收到再次登录 OpenLogin 帐户的提示。 如果您改变主意，您可以随时在“设置”中更改此首选项。",
       "portuguese": "Ao selecionar 'Sempre pular', você não será solicitado a fazer login na sua conta OpenLogin novamente. Se mudar de ideia, você pode alterar essa preferência a qualquer momento em 'Configurações'.",
+      "russian": "Выбрав \"Всегда пропускать\", вы больше не будете получать запрос на вход в свой аккаунт OpenLogin. Если вы передумаете, вы можете изменить это предпочтение в любое время в разделе \"Настройки\".",
       "spanish": "Si selecciona 'Omitir siempre', no se le pedirá que vuelva a iniciar sesión en su cuenta de OpenLogin. Si cambia de opinión, puede cambiar esta preferencia en cualquier momento en 'Configuración'.",
       "turkish": "'Her zaman atla' seçeneğini seçtiğinizde, OpenLogin hesabınıza tekrar giriş yapmanız istenmeyecektir. Fikrinizi değiştirirseniz, bu tercihi istediğiniz zaman 'Ayarlar'dan değiştirebilirsiniz."
     },
@@ -2178,6 +2359,7 @@
       "korean": "복구 이메일로 전송된 복구 구문을 입력하세요",
       "mandarin": "输入先前发送到您的辅助邮箱的备份短语。",
       "portuguese": "Digite a frase de backup enviada para seu e-mail de recuperação anteriormente.",
+      "russian": "Введите фразу восстановления, которую ранее отправили на вашу почту для восстановления.",
       "spanish": "Ingrese la frase de respaldo enviada a su correo electrónico de recuperación anteriormente.",
       "turkish": "Daha önce kurtarma e-postanıza gönderilen yedekleme ifadesini girin."
     },
@@ -2190,6 +2372,7 @@
       "korean": "{0}에 설정되고 다음 메일로 전송된 복구 구문으로",
       "mandarin": "确认已设置的备份集",
       "portuguese": "Verifique com sua frase de recuperação que foi configurada em",
+      "russian": "Проверьте с помощью вашей фразы врсстановления, которая была настроена на",
       "spanish": "Compruebe el conjunto de copia de seguridad establecido",
       "turkish": "Şunun üzerinde ayarlanmış olan yedekleme ifadenizle doğrulayın"
     },
@@ -2202,6 +2385,7 @@
       "korean": "인증해주세요:",
       "mandarin": "并发送到电子邮件：",
       "portuguese": "e enviado para o e-mail:",
+      "russian": "и отправлено на электронную почту:",
       "spanish": "y enviado al correo electrónico:",
       "turkish": "ve e-postaya gönderildi:"
     },
@@ -2214,6 +2398,7 @@
       "korean": "복구 구문을 입력하세요",
       "mandarin": "输入备用词组",
       "portuguese": "Digite a frase de backup",
+      "russian": "Введите фразу восстановления",
       "spanish": "Ingrese la frase de respaldo",
       "turkish": "Yedekleme ifadesini girin"
     },
@@ -2226,6 +2411,7 @@
       "korean": "복구 구문",
       "mandarin": "备用词组",
       "portuguese": "Frase de backup",
+      "russian": "Фраза восстановления",
       "spanish": "Frase de respaldo",
       "turkish": "Yedekleme ifadesi"
     },
@@ -2238,6 +2424,7 @@
       "korean": "* 다음 기기에서 이전에 설정한 Touch ID / Face ID에만 해당됩니다.",
       "mandarin": "*仅适用于先前在以下设备上设置的Touch ID / Face ID：",
       "portuguese": "* Apenas para Touch ID / Face ID previamente configurado no(s) seguinte(s) dispositivo(s):",
+      "russian": "* Только для Touch ID / Face ID, ранее настроенных на следующем(их) устройстве(ах):",
       "spanish": "* Solo para Touch ID / Face ID configurado previamente en los siguientes dispositivos:",
       "turkish": "* Yalnızca aşağıdaki cihaz(lar)da önceden ayarlanmış Touch ID / Face ID için:"
     },
@@ -2250,6 +2437,7 @@
       "korean": "Face ID / Touch ID 지원 기기*",
       "mandarin": "支持面部识别/触摸识别的设备*",
       "portuguese": "Dispositivo(s) habilitado(s) para Face ID / Touch ID*",
+      "russian": "Устройство(а) с включенной функцией Face ID / Touch ID *",
       "spanish": "Dispositivos habilitados con Face ID / Touch ID *",
       "turkish": "Face ID / Touch ID özellikli cihaz(lar) *"
     },
@@ -2262,6 +2450,7 @@
       "korean": "Touch ID / Face ID로 인증",
       "mandarin": "使用Touch ID / Face ID进行验证",
       "portuguese": "Verificar com Touch ID / Face ID",
+      "russian": "Подтвердите с помощью Touch ID / Face ID",
       "spanish": "Verificar con Touch ID / Face ID",
       "turkish": "Touch ID / Face ID ile doğrulama"
     },
@@ -2274,6 +2463,7 @@
       "korean": "아래 저장된 브라우저에서 {0}에 로그인하여 본인을 인증하세요.",
       "mandarin": "从下面存储的浏览器登录到{0}以验证您的身份。",
       "portuguese": "Faça login em {0} no navegador armazenado abaixo para verificar sua identidade.",
+      "russian": "Войдите в {0} из сохраненного ниже браузера, чтобы подтвердить свою личность.",
       "spanish": "Inicie sesión en {0} desde el navegador almacenado a continuación para verificar su identidad.",
       "turkish": "Kimliğinizi doğrulamak için aşağıdaki kayıtlı tarayıcıdan {0}'a giriş yapın."
     },
@@ -2286,6 +2476,7 @@
       "korean": "다음 기기 중 하나에서 {0}로 로그인하여",
       "mandarin": "登录到",
       "portuguese": "Logar em",
+      "russian": "Войдите в",
       "spanish": "Iniciar sesión en",
       "turkish": "Giriş yapmak için"
     },
@@ -2298,6 +2489,7 @@
       "korean": "보안 인증을 완료하세요.",
       "mandarin": "从以下任何设备中完成安全性验证。",
       "portuguese": "de qualquer um dos seguintes dispositivos para concluir a verificação de segurança.",
+      "russian": "с любого из следующих устройств для завершения проверки безопасности.",
       "spanish": "desde cualquiera de los siguientes dispositivos para completar la verificación de seguridad.",
       "turkish": "Güvenlik doğrulamasını tamamlamak için aşağıdaki cihazlardan herhangi birinden"
     },
@@ -2310,6 +2502,7 @@
       "korean": "아래 저장된 브라우저에서",
       "mandarin": "登录到您的",
       "portuguese": "Entre no seu",
+      "russian": "Войдите в ваш",
       "spanish": "Inicie sesión en su",
       "turkish": "Giriş yapın"
     },
@@ -2322,6 +2515,7 @@
       "korean": "이전 버전의 Torus Wallet에 로그인하여",
       "mandarin": "Torus钱包的先前版本",
       "portuguese": "versão anterior da Torus Wallet",
+      "russian": "предыдущая версия кошелька Torus",
       "spanish": "versión anterior de Torus Wallet",
       "turkish": "Torus Cüzdan'ın önceki sürümü"
     },
@@ -2334,6 +2528,7 @@
       "korean": "본인을 인증하세요.",
       "mandarin": "从下面存储的浏览器中验证您的身份。",
       "portuguese": "do navegador armazenado abaixo para verificar sua identidade.",
+      "russian": "Из сохраненного браузера ниже для проверки вашей личности.",
       "spanish": "desde el navegador almacenado a continuación para verificar su identidad.",
       "turkish": "kimliğinizi doğrulamak için aşağıdaki kayıtlı tarayıcıdan"
     },
@@ -2346,6 +2541,7 @@
       "korean": "기기",
       "mandarin": "设备",
       "portuguese": "Dispositivo(s)",
+      "russian": "Устройство(а)",
       "spanish": "Dispositivos",
       "turkish": "Cihaz(lar)"
     },
@@ -2358,6 +2554,7 @@
       "korean": "계정을 복구 할 수 없으신가요?",
       "mandarin": "无法找回帐户？",
       "portuguese": "Não é possível recuperar a conta?",
+      "russian": "Не удается восстановить аккаунт?",
       "spanish": "¿No puede recuperar la cuenta?",
       "turkish": "Hesap kurtarılamıyor mu?"
     },
@@ -2370,6 +2567,7 @@
       "korean":  "다음 기기에서 이전에 설정된 웹 인증 수단에만 해당됩니다",
       "mandarin": "仅对于以前在以下设备上设置的Web身份验证方法",
       "portuguese": "Apenas para métodos de autenticação da web que foram configurados anteriormente no(s) seguinte(s) dispositivo(s)",
+      "russian": "Только для методов веб-аутентификации, которые были ранее настроены на следующем(их) устройстве(ах)",
       "spanish": "Solo para métodos de autenticación web que se configuraron previamente en los siguientes dispositivos",
       "turkish": "Yalnızca aşağıdaki cihaz(lar)da daha önce ayarlanmış olan web kimlik doğrulama yöntemleri için"
     },
@@ -2382,6 +2580,7 @@
       "korean":  "웹 인증이 활성화된 기기",
       "mandarin": "Web身份验证启用设备",
       "portuguese": "Dispositivo(s) habilitado(s) para utenticação da Web",
+      "russian": "Устройство(а) с включенной веб-аутентификацией",
       "spanish": "Dispositivo (s) de autenticación web",
       "turkish": "Web Kimlik Doğrulaması Etkin Cihaz(lar)"
     },
@@ -2394,6 +2593,7 @@
       "korean": "지금 인증하기",
       "mandarin": "立即验证",
       "portuguese": "Verifique agora",
+      "russian": "Подтвердите сейчас",
       "spanish": "Verifica ahora",
       "turkish": "Şimdi doğrula"
     },
@@ -2406,6 +2606,7 @@
       "korean": "계정 복구 비밀번호를 입력하세요.",
       "mandarin": "在此处输入您的帐户恢复密码",
       "portuguese": "Digite sua senha de recuperação de conta aqui",
+      "russian": "Введите пароль для восстановления вашего аккаунта",
       "spanish": "Ingrese la contraseña de recuperación de su cuenta aquí",
       "turkish": "Hesap kurtarma şifrenizi buraya girin"
     },
@@ -2418,6 +2619,7 @@
       "korean": "계정 비밀번호",
       "mandarin": "户口密码",
       "portuguese": "Senha da conta",
+      "russian": "Пароль учетной записи",
       "spanish": "Contraseña de la cuenta",
       "turkish": "Hesap şifresi"
     },
@@ -2430,6 +2632,7 @@
       "korean": "복구 비밀번호",
       "mandarin": "找回密码",
       "portuguese": "Senha de recuperação",
+      "russian": "Восстановление пароля",
       "spanish": "Contraseña de recuperación",
       "turkish": "Kurtarma şifresi"
     },
@@ -2442,6 +2645,7 @@
       "korean": "계정에 접근하려면 다음 중 하나로 인증하세요.",
       "mandarin": "验证以下内容之一以访问您的帐户",
       "portuguese": "Verifique com um dos seguintes para acessar sua conta",
+      "russian": "Подтвердите с помощью одного из следующих методов для доступа к вашему аккаунту",
       "spanish": "Verifique con uno de los siguientes para acceder a su cuenta",
       "turkish": "Hesabınıza erişmek için aşağıdakilerden biriyle doğrulama yapın"
     },
@@ -2454,6 +2658,7 @@
       "korean": "고객 지원 문의",
       "mandarin": "联系支持",
       "portuguese": "Entre em contato com o suporte",
+      "russian": "Свяжитесь со службой поддержки",
       "spanish": "Soporte de contacto",
       "turkish": "Destekle iletişime geçin"
     },
@@ -2466,6 +2671,7 @@
       "korean": "로그인 인증",
       "mandarin": "验证您的登录名",
       "portuguese": "Verifique seu login",
+      "russian": "Проверьте ваш вход в систему",
       "spanish": "Verifique su inicio de sesión",
       "turkish": "Giriş bilgilerinizi doğrulayın"
     },
@@ -2478,6 +2684,7 @@
       "korean": "{date}에 {email}로 전송된 복구 구문을 입력하거나, 메일로 못 받으셨을 경우 다음 {link}에서 확인할 수 있습니다.",
       "mandarin": "在{date}上输入发送到{email}的恢复短语，或者如果不在电子邮件中，则可以在{link}上检索它。",
       "portuguese": "Insira a frase de recuperação enviada para {email} em {date}, ou se não estiver em seu e -mail, você pode recuperá -lo em {link}",
+      "russian": "Введите код восстановления, отправленный на {email} {date}, или, если его нет в вашей почте, вы можете получить его по ссылке {link}",
       "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}, o si no está en su correo electrónico, puede recuperarla en {link}",
       "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin veya e-postanızda yoksa {link} adresinden alabilirsiniz"
     },
@@ -2490,6 +2697,7 @@
       "korean": "{date}에 {email}로 전송된 복구 구문을 입력하세요.",
       "mandarin": "在{date}上输入发送到{email}的恢复短语",
       "portuguese": "Insira a frase de recuperação enviada para {email} em {date}",
+      "russian": "Введите фразу восстановления, отправленную на {email} {date}",
       "spanish": "Ingrese la frase de recuperación enviada a {email} en {date}",
       "turkish": "{Date} tarihinde {email} adresine gönderilen kurtarma ifadesini girin"
     },
@@ -2502,6 +2710,7 @@
       "korean": "복구 구문이 포함된 메일이 전송됩니다.",
       "mandarin": "将向您发送一封包含备份短语的电子邮件。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup.",
+      "russian": "На вашу почту будет отправлено письмо, содержащее резервную фразу.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
       "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir."
     },
@@ -2514,6 +2723,7 @@
       "korean": "Touch ID 또는 Face ID가 등록된 기기를 분실한 경우, 계정 복구에 사용할 수 있습니다.",
       "mandarin": "如果您丢失带有 Touch ID / Face ID 的设备，它可以帮助您恢复帐户。",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo com Touch ID / Face ID。",
+      "russian": "Оно помогает вам восстановить доступ к аккаунту в случае потери устройства с Touch ID / Face ID.",
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo con Touch ID / Face ID.",
       "turkish": "Touch ID / Face ID ile cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur."
     },
@@ -2526,6 +2736,7 @@
       "korean":  "복구 메일을 전송 받았음을 확인했습니다.",
       "mandarin": "我确认我已收到恢复电子邮件。",
       "portuguese": "Confirmo que recebi o e-mail de recuperação.",
+      "russian": "Я подтверждаю, что получил письмо для восстановления.",
       "spanish": "Confirmo que he recibido el correo de recuperación.",
       "turkish": "Kurtarma e-postasını aldığımı onaylıyorum."
     },
@@ -2538,6 +2749,7 @@
       "korean": "받지 못한 경우,",
       "mandarin": "如果不，",
       "portuguese": "Se não,",
+      "russian": "'Если нет,'",
       "spanish": "Que no,",
       "turkish": "Eğer değilse,"
     },
@@ -2550,6 +2762,7 @@
       "korean": "복구 메일 주소를 다시 입력해주세요",
       "mandarin": "重新输入辅助邮箱",
       "portuguese": "digite novamente o e-mail de recuperação",
+      "russian": "введите заново адрес электронной почты для восстановления",
       "spanish": "vuelve a ingresar el correo de recuperación",
       "turkish": "kurtarma emailini yeniden girin"
     },
@@ -2562,6 +2775,7 @@
       "korean": "기기 분실 시, 계정 복구에 사용할 수 있는 복구 구문이 포함된 메일이 전송됩니다.",
       "mandarin": "包含备用短语的电子邮件将发送给您。如果您丢失了设备，它将帮助您进行帐户恢复。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup. Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
+      "russian": "Вам будет отправлено письмо, содержащее резервную фразу. Она поможет вам восстановить аккаунт в случае потери устройства.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo. Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
       "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir. Cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur."
     },
@@ -2574,6 +2788,7 @@
       "korean": "복구 구문이 포함된 메일이 전송됩니다.",
       "mandarin": "将向您发送一封包含备份短语的电子邮件。",
       "portuguese": "Um e-mail será enviado para você contendo a frase de backup.",
+      "russian": "Вам будет отправлено письмо, содержащее резервную фразу.",
       "spanish": "Se le enviará un correo electrónico con la frase de respaldo.",
       "turkish": "Size yedekleme ifadesini içeren bir e-posta gönderilecektir."
     },
@@ -2586,6 +2801,7 @@
       "korean": "기기를 분실한 경우, 계정 복구에 도움이 됩니다.",
       "mandarin": "它可以帮助您在丢失设备时恢复帐户。",
       "portuguese": "Ele ajuda na recuperação da conta caso você perca seu dispositivo.",
+      "russian": "Оно помогает вам восстановить доступ к аккаунту в случае потери вашего устройства.",
       "spanish": "Le ayuda con la recuperación de la cuenta en caso de que pierda su dispositivo.",
       "turkish": "Cihazınızı kaybetmeniz durumunda hesap kurtarma konusunda size yardımcı olur."
     },
@@ -2598,6 +2814,7 @@
       "korean": "복구 이메일 입력하기",
       "mandarin": "输入辅助邮箱",
       "portuguese": "Digite o e-mail de recuperação",
+      "russian": "Введите адрес восстановления электронной почты",
       "spanish": "Ingresa el correo de recuperación",
       "turkish": "Kurtarma e-postasını girin"
     },
@@ -2610,6 +2827,7 @@
       "korean": "복구 이메일 보내기",
       "mandarin": "发送恢复电子邮件",
       "portuguese": "Enviar e-mail de recuperação",
+      "russian": "Отправить письмо для восстановления",
       "spanish": "Enviar correo de recuperación",
       "turkish": "Kurtarma e-postası gönder"
     },
@@ -2622,6 +2840,7 @@
       "korean": "복구 이메일로 계속하기",
       "mandarin": "继续发送辅助邮箱",
       "portuguese": "Continuar com um e-mail de recuperação",
+      "russian": "Продолжить с помощью восстановительного электронного письма",
       "spanish": "Continuar con un correo de recuperación",
       "turkish": "Kurtarma e-postasıyla devam et"
     },
@@ -2634,6 +2853,7 @@
       "korean": "Face ID 또는 Touch ID로 기기를 등록하세요. 생체 인증 정보는 기기에만 저장됩니다.",
       "mandarin": "使用面容 ID 或触控 ID 注册您的设备。 生物识别技术永远不会离开您的设备。",
       "portuguese": "Registre seu dispositivo com Face ID ou Touch ID. A biometria nunca sai do seu dispositivo.",
+      "russian": "Зарегистрируйте ваше устройство с помощью Face ID или Touch ID. Биометрические данные никогда не покидают ваше устройство.",
       "spanish": "Registre su dispositivo con Face ID o Touch ID. La biometría nunca abandona su dispositivo.",
       "turkish": "Cihazınızı Face ID veya Touch ID ile kaydedin. Biyometri cihazınızdan asla çıkmaz."
     },
@@ -2646,6 +2866,7 @@
       "korean": "Touch ID 또는 Face ID 활성화하기",
       "mandarin": "启用触摸ID /面部ID",
       "portuguese": "Ativar Touch ID / Face ID",
+      "russian": "Включить Touch ID / Face ID",
       "spanish": "Habilitar Touch ID / Face ID",
       "turkish": "Touch ID / Face ID'yi etkinleştirin"
     },
@@ -2658,6 +2879,7 @@
       "korean": "Face ID 또는 Touch ID로 계속하기",
       "mandarin": "继续使用Face ID或Touch ID",
       "portuguese": "Continue com Face ID ou Touch ID",
+      "russian": "Продолжить с использованием Face ID или Touch ID",
       "spanish": "Continuar con Face ID o Touch ID",
       "turkish": "Face ID veya Touch ID ile devam edin"
     },
@@ -2670,6 +2892,7 @@
       "korean": "계속",
       "mandarin": "继续",
       "portuguese": "Continuar",
+      "russian": "Продолжить",
       "spanish": "Continuar",
       "turkish": "Devam et"
     },
@@ -2682,6 +2905,7 @@
       "korean": "웹 인증 수단을 기기에 등록하세요",
       "mandarin": "注册您的设备任何Web身份验证方法。",
       "portuguese": "Registre seu dispositivo em qualquer método de autenticação da web.",
+      "russian": "Зарегистрируйте ваше устройство любыми методами веб-аутентификации.",
       "spanish": "Registre su dispositivo cualquier método de autenticación web.",
       "turkish": "Cihazınızı herhangi bir web kimlik doğrulama yöntemiyle kaydedin."
     },
@@ -2694,6 +2918,7 @@
       "korean": "웹 인증 수단을 선택하여 계속하세요",
       "mandarin": "继续使用任何Web身份验证方法",
       "portuguese": "Continue com qualquer método de autenticação da web",
+      "russian": "Продолжить с любыми методами веб-аутентификации",
       "spanish": "Continuar con cualquier método de autenticación web",
       "turkish": "Herhangi bir Web Kimlik Doğrulama Yöntemi ile devam edin"
     },
@@ -2706,6 +2931,7 @@
       "korean": "설정하기",
       "mandarin": "设置它",
       "portuguese": "Configurá-lo",
+      "russian": "Установи это",
       "spanish": "Prepararlo",
       "turkish": "Kurun"
     },
@@ -2718,6 +2944,7 @@
       "korean": "생체 인증 또는 웹 인증 수단으로 기기를 등록하세요.",
       "mandarin": "用生物识别技术或任何Web身份验证方法注册您的设备。",
       "portuguese": "Registre seu dispositivo com biometria ou qualquer método de autenticação da web.",
+      "russian": "Зарегистрируйте свое устройство с помощью биометрии или любых методов веб-аутентификации.",
       "spanish": "Registre su dispositivo con Biometrics o cualquier método de autenticación web.",
       "turkish": "Cihazınızı biyometri veya herhangi bir web kimlik doğrulama yöntemiyle kaydedin."
     },
@@ -2730,6 +2957,7 @@
       "korean": "생체 인증 또는 웹 인증 수단으로 계속하세요",
       "mandarin": "继续使用生物识别技术或任何Web身份验证方法",
       "portuguese": "Continue com a biometria ou qualquer método de autenticação da Web",
+      "russian": "Продолжить с биометрией или любыми методами веб-аутентификации",
       "spanish": "Continuar con biometría o cualquier método de autenticación web",
       "turkish": "Biyometri veya herhangi bir Web Kimlik Doğrulama Yöntemi ile devam edin"
     },
@@ -2742,6 +2970,7 @@
       "korean": "비밀번호 설정하기",
       "mandarin": "设定密码",
       "portuguese": "Configurar senha",
+      "russian": "Установить пароль",
       "spanish": "Configurar contraseña",
       "turkish": "Şifre ayarla"
     },
@@ -2754,6 +2983,7 @@
       "korean": "비밀번호를 입력하세요",
       "mandarin": "输入密码",
       "portuguese": "Coloque sua senha",
+      "russian": "Введите ваш пароль",
       "spanish": "Ingresa tu contraseña",
       "turkish": "Şifrenizi girin"
     },
@@ -2766,6 +2996,7 @@
       "korean": "비밀번호를 다시 입력하세요",
       "mandarin": "重新输入密码",
       "portuguese": "Redigite sua senha",
+      "russian": "Введите ваш пароль еще раз",
       "spanish": "reingresa tu contraseña",
       "turkish": "Şifrenizi tekrar girin"
     },
@@ -2778,6 +3009,7 @@
       "korean": "계정 비밀번호를 설정하세요",
       "mandarin": "设置帐号密码",
       "portuguese": "Configurar senha da conta",
+      "russian": "Установите пароль для аккаунта",
       "spanish": "Configurar la contraseña de la cuenta",
       "turkish": "Hesap şifresini ayarla"
     },
@@ -2790,6 +3022,7 @@
       "korean": "건너뛰기",
       "mandarin": "立即跳过",
       "portuguese": "Pular por agora",
+      "russian": "Пропустить пока",
       "spanish": "Saltar por ahora",
       "turkish": "Şimdilik Atla"
     },
@@ -2802,6 +3035,7 @@
       "korean": "다음 중 하나를 선택하세요.",
       "mandarin": "选择以下之一",
       "portuguese": "Selecione um dos seguintes",
+      "russian": "Выберите одно из следующих",
       "spanish": "Selecciona uno de los siguientes",
       "turkish": "Aşağıdakilerden birini seçin"
     },
@@ -2814,6 +3048,7 @@
       "korean": "계정 보안 강화를 위해 백업을 설정하세요.",
       "mandarin": "您的帐户安全很重要。 让我们支持它。",
       "portuguese": "A segurança da sua conta é importante. Vamos fazer backup.",
+      "russian": "Безопасность вашего аккаунта важна. Давайте создадим резервную копию.",
       "spanish": "La seguridad de su cuenta es importante. Hagamos una copia de seguridad.",
       "turkish": "Hesap güvenliğiniz önemlidir. Yedekleyelim."
     },
@@ -2826,6 +3061,7 @@
       "korean": "이 기기에서 Touch ID 또는 Face ID를 활성화 하시겠습니까?",
       "mandarin": "您要在此设备上启用Touch ID / Face ID吗？",
       "portuguese": "Gostaria de ativar o Touch ID / Face ID neste dispositivo?",
+      "russian": "Вы хотите включить Touch ID / Face ID на этом устройстве?",
       "spanish": "¿Le gustaría habilitar Touch ID / Face ID en este dispositivo?",
       "turkish": "Bu cihazda Touch ID / Face ID'yi etkinleştirmek ister misiniz?"
     },
@@ -2838,6 +3074,7 @@
       "korean": "{0} 계정 보안 강화하기",
       "mandarin": "保护您的{0}帐户",
       "portuguese": "Protegendo sua conta {0}",
+      "russian": "Обеспечение безопасности вашего аккаунта {0}",
       "spanish": "Asegurar su cuenta de {0}",
       "turkish": "{0} hesabınızın güvenliğini sağlama"
     },
@@ -2850,6 +3087,7 @@
       "korean": "마지막 단계입니다",
       "mandarin": "出发前的最后一步",
       "portuguese": "Um último passo antes de ir",
+      "russian": "Еще один шаг перед тем пойти дальше",
       "spanish": "Un último paso antes de irte",
       "turkish": "Başlamadan önce son bir adım"
     },
@@ -2862,6 +3100,7 @@
       "korean": "계정 보안 강화하기",
       "mandarin": "保护您的帐户",
       "portuguese": "Protegendo sua conta",
+      "russian": "Защита вашего аккаунта",
       "spanish": "Asegurar su cuenta",
       "turkish": "Hesabınızın güvenliğini sağlama"
     },
@@ -2874,6 +3113,7 @@
       "korean": "코드 재전송하기",
       "mandarin": "重新发送验证码",
       "portuguese": "Reenviar código",
+      "russian": "Отправить код повторно",
       "spanish": "Reenviar codigo",
       "turkish": "Kodu tekrar gönder"
     },
@@ -2886,6 +3126,7 @@
       "korean": "{time} 후 코드 재전송하기",
       "mandarin": "重新发送代码 {time}",
       "portuguese": "Reduzir o código em {time}",
+      "russian": "Отправить код повторно через {время}",
       "spanish": "Reenviar código en {time}",
       "turkish": "Kodu {time} saniye içinde tekrar gönder"
     },
@@ -2898,6 +3139,7 @@
       "korean": "예, 생체 인증을 계속합니다.",
       "mandarin": "是的，继续生物识别",
       "portuguese": "Sim, continuar com a biometria",
+      "russian": "Да, продолжайте с биометрией.",
       "spanish": "Sí, continuar con la biometría",
       "turkish": "Evet, biyometri ile devam et"
     },
@@ -2910,6 +3152,7 @@
       "korean": "생체 인증으로 로그인 하시겠습니까?",
       "mandarin": "继续通过生物识别登录？",
       "portuguese": "Continuar seu login via biometria?",
+      "russian": "Продолжить вход через биометрию?",
       "spanish": "¿Continuar con el inicio de sesión mediante datos biométricos?",
       "turkish": "Biyometri ile oturum açmaya devam mı ediyorsunuz?"
     },
@@ -2922,6 +3165,7 @@
       "korean": "확인이 필요합니다.",
       "mandarin": "我们只是想确定一下。",
       "portuguese": "Só queremos ter certeza.",
+      "russian": "Мы просто хотим быть уверенными.",
       "spanish": "Solo queremos estar seguros.",
       "turkish": "Sadece emin olmak istiyoruz."
     },
@@ -2934,6 +3178,7 @@
       "korean": "{0}로 계속하기",
       "mandarin": "继续{0}",
       "portuguese": "Continuar com {0}",
+      "russian": "Продолжить с {0}",
       "spanish": "Continuar con {0}",
       "turkish": "Şununla devam et: {0}"
     },
@@ -2946,6 +3191,7 @@
       "korean": "{0}님, 환영합니다",
       "mandarin": "欢迎回来，{0}",
       "portuguese": "Bem-vindo de volta, {0}",
+      "russian": "Добро пожаловать обратно, {0}",
       "spanish": "Bienvenido de nuevo, {0}",
       "turkish": "Tekrar hoş geldiniz, {0}"
     },
@@ -2958,6 +3204,7 @@
       "korean": "다른 계정 사용하기",
       "mandarin": "使用其他帐户",
       "portuguese": "Usar outra conta",
+      "russian": "Использовать другой аккаунт",
       "spanish": "Usa otra cuenta",
       "turkish": "Başka bir hesap kullan"
     },
@@ -2970,6 +3217,7 @@
       "korean": "Your digital wallet via",
       "mandarin": "您的数字钱包通过",
       "portuguese": "Sua carteira digital via",
+      "russian": "Ваш цифровой кошелек через",
       "spanish": "Tu billetera digital a través de",
       "turkish": "Dijital cüzdanınız"
     },
@@ -2982,6 +3230,7 @@
       "korean": "로그인",
       "mandarin": "登入",
       "portuguese": "Entrar",
+      "russian": "Войти",
       "spanish": "Registrarse",
       "turkish": "Oturum aç"
     },
@@ -2994,6 +3243,7 @@
       "korean": "계속하려면 다음 중 하나를 선택하세요.",
       "mandarin": "继续执行以下操作之一以继续",
       "portuguese": "Continue com um dos seguintes",
+      "russian": "Продолжите с одним из следующих действий для продолжения",
       "spanish": "Continúe con uno de los siguientes para continuar",
       "turkish": "Devam etmek için aşağıdakilerden biriyle devam edin"
     },
@@ -3006,6 +3256,7 @@
       "korean": "다른 계정 사용하기",
       "mandarin": "使用其他帐户",
       "portuguese": "Usar outra conta",
+      "russian": "Использовать другой аккаунт",
       "spanish": "Usa otra cuenta",
       "turkish": "Başka bir hesap kullan"
     },
@@ -3018,6 +3269,7 @@
       "korean": "먼저 계정에 로그인해주세요.",
       "mandarin": "您似乎尚未登录帐户",
       "portuguese": "Parece que você ainda não está conectado a uma conta",
+      "russian": "Кажется, вы еще не вошли в свой аккаунт.",
       "spanish": "Parece que aún no ha iniciado sesión en una cuenta",
       "turkish": "Henüz bir hesapta oturum açmamışsınız gibi görünüyor"
     },
@@ -3030,6 +3282,7 @@
       "korean": "계속할 방법을 선택하세요",
       "mandarin": "选择您喜欢如何继续",
       "portuguese": "Selecione como você gostaria de continuar",
+      "russian": "Выберите, как вы хотите продолжить",
       "spanish": "Seleccione cómo le gusta continuar",
       "turkish": "Nasıl devam etmek istediğinizi seçin"
     },
@@ -3042,6 +3295,7 @@
       "korean": "소셜 계정을 복구 수단으로 설정하기",
       "mandarin": "设定社会恢复因素",
       "portuguese": "Definir fator de recuperação social",
+      "russian": "Настроить соцсеть для восстановления доступа",
       "spanish": "Establecer factor de recuperación social",
       "turkish": "Sosyal Medya kurtarma faktörünü ayarlayın"
     },
@@ -3054,6 +3308,7 @@
       "korean": "소셜 계정에 로그인하여 복구 수단으로 설정하세요",
       "mandarin": "用任何社会帐户登录将其设置为恢复因素",
       "portuguese": "Faça login com qualquer conta social para defini-la como fator de recuperação",
+      "russian": "Войдите с помощью любого аккаунта соцсети, чтобы установить его как средство восстановления",
       "spanish": "Inicie sesión con cualquiera de la cuenta social para establecerla como factor de recuperación",
       "turkish": "Kurtarma faktörü olarak ayarlamak için herhangi bir sosyal medya hesabıyla giriş yapın"
     },
@@ -3066,6 +3321,7 @@
       "korean": "저장된 브라우저에 접근할 수 없는 경우, 소셜 계정으로 인증할 수 있습니다.",
       "mandarin": "如果您无法访问保存的浏览器，则可以通过社交帐户进行身份验证。",
       "portuguese": "Caso perca o acesso ao seu navegador salvo, você pode se autenticar com sua conta Social.",
+      "russian": "В случае, если вы потеряете доступ к сохраненному браузеру, вы можете аутентифицироваться с помощью своего аккаунта в социальной сети.",
       "spanish": "En caso de que pierda acceso a su navegador guardado, puede autenticarse con su cuenta social.",
       "turkish": "Kayıtlı tarayıcınıza erişiminizi kaybetmeniz durumunda, Sosyal medya hesabınızla kimlik doğrulaması yapabilirsiniz."
     },
@@ -3078,6 +3334,7 @@
       "korean": "{0}는 현재 로그인에 사용되어 복구 수단으로 설정할 수 없습니다. 다른 복구 옵션을 선택해주세요.",
       "mandarin": "{0} 登录不可用，因为它已被用于您的登录，请选择其他选项进行恢复。",
       "portuguese": "{0} login não está disponível porque foi usado para seu login, selecione outra opção para recuperação.",
+      "russian": "'Вход {0} недоступен, поскольку он был использован для вашего входа в систему, выберите другой вариант для восстановления.'",
       "spanish": "El inicio de sesión de {0} no está disponible ya que se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
       "turkish": "{0} girişi, girişiniz için kullanıldığından kullanılamaz, lütfen kurtarma için başka bir seçenek seçin."
     },
@@ -3090,6 +3347,7 @@
       "korean": "{0}가 현재 로그인에 사용되었습니다. 다른 복구 옵션을 선택해주세요.",
       "mandarin": "{0} 已用于您的登录，请选择其他选项进行恢复。",
       "portuguese": "{0} foi usado para seu login, selecione outra opção para recuperação.",
+      "russian": "'{0} уже использовался для вашего входа в систему, пожалуйста, выберите другой вариант для восстановления.'",
       "spanish": "{0} se ha utilizado para su inicio de sesión, seleccione otra opción para la recuperación.",
       "turkish": "Girişiniz için {0} kullanıldı, lütfen kurtarma için başka bir seçenek seçin."
     },
@@ -3102,6 +3360,7 @@
       "korean": "소셜 계정으로 인증",
       "mandarin": "验证您的社交帐户",
       "portuguese": "Verifique com sua conta social",
+      "russian": "Подтвердите с помощью вашего социального аккаунта",
       "spanish": "Verifique con su cuenta social",
       "turkish": "Sosyal medya hesabınızla doğrulayın"
     },
@@ -3114,6 +3373,7 @@
       "korean": "이메일로 인증",
       "mandarin": "通过电子邮件验证",
       "portuguese": "Verifique com seu e-mail",
+      "russian": "Подтвердите с помощью вашей электронной почты",
       "spanish": "Verifique con su correo electrónico",
       "turkish": "E-postanızla doğrulayın"
     },
@@ -3126,6 +3386,7 @@
       "korean": "소셜 계정 복구 수단",
       "mandarin": "社会恢复因素",
       "portuguese": "Fator de Recuperação Social",
+      "russian": "Фактор восстановления через соцсети",
       "spanish": "Factor de recuperación social",
       "turkish": "Sosyal Medya Kurtarma Faktörü"
     },
@@ -3138,6 +3399,7 @@
       "korean": "간략히 보기",
       "mandarin": "少查看",
       "portuguese": "Ver menos",
+      "russian": "Показать меньше",
       "spanish": "Ver menos",
       "turkish": "Daha az görüntüle"
     },
@@ -3150,6 +3412,7 @@
       "korean": "더 보기",
       "mandarin": "查看更多",
       "portuguese": "Veja mais",
+      "russian": "Посмотреть ещё",
       "spanish": "Ver más",
       "turkish": "Daha fazla görüntüle"
     },
@@ -3162,6 +3425,7 @@
       "korean": "이 소셜 계정은 \"abcd{'@'}xyz.com\"에 연동된 계정의 복구를 위한 백업 역할을 합니다.",
       "mandarin": "这个社会因素仅充当备份共享，以恢复您的帐户链接到“ abcd{'@'}xyz.com”。",
       "portuguese": "Este fator social atua apenas como um compartilhamento de backup para recuperar sua conta vinculada a “abcd{'@'}xyz.com”.",
+      "russian": "Этот фактор соцсети действует только как резервная доля для восстановления вашего аккаунта, связанного с \"abcd{'@'}xyz.com\".",
       "spanish": "Este factor social solo actúa como una participación de respaldo para recuperar su cuenta vinculada a \"abcd{'@'}xyz.com\".",
       "turkish": "Bu Sosyal medya faktör yalnızca “abcd{'@'}xyz.com“ ile bağlantılı hesabınızı kurtarmak için bir yedek parça görevi görür."
     },
@@ -3174,6 +3438,7 @@
       "korean": "로그인 페이지에서 이 소셜 계정으로 로그인하면, 새 계정이 생성됩니다.",
       "mandarin": "在登录页面上使用此社交因素签名将为您提供一个新帐户。",
       "portuguese": "Entrar com este fator social na página de login lhe dará uma nova conta.",
+      "russian": "Вход через фактор этой соцсети на странице входа даст вам новый аккаунт.",
       "spanish": "Iniciar sesión con este factor social en la página de inicio de sesión le dará una nueva cuenta.",
       "turkish": "Giriş sayfasında bu Sosyal medya faktörü ile oturum açmak size yeni bir hesap verecektir."
     },
@@ -3186,6 +3451,7 @@
       "korean": "네, 유의사항을 이해했으며 진행하겠습니다.",
       "mandarin": "是的，我接受风险",
       "portuguese": "Sim, eu aceito o risco",
+      "russian": "Да, я принимаю риск.",
       "spanish": "Sí, acepto el riesgo",
       "turkish": "Evet, riski kabul ediyorum"
     },
@@ -3198,6 +3464,7 @@
       "korean": "아니요, 다른 이메일을 사용하겠습니다",
       "mandarin": "不，使用另一封电子邮件",
       "portuguese": "Não, use outro e-mail",
+      "russian": "Нет, используй другой email.",
       "spanish": "No, usa otro correo electrónico",
       "turkish": "Hayır, başka e-posta kullan"
     },
@@ -3210,6 +3477,7 @@
       "korean": "현재 로그인된 계정 및 소셜 계정에 동일한 이메일을 사용 중입니다. 이는 보안에 취약할 수 있습니다. 그래도 계속하시겠습니까?",
       "mandarin": "您正在使用同一电子邮件进行帐户登录和社会因素。这是不安全的。您还想继续吗？",
       "portuguese": "Você está usando o mesmo e-mail para login da conta e fator social. Isso é inseguro. Você ainda gostaria de prosseguir?",
+      "russian": "Вы используете один и тот же адрес электронной почты для входа в аккаунт и фактора соцсети. Это небезопасно. Вы все еще хотите продолжить?",
       "spanish": "Está utilizando el mismo correo electrónico para el inicio de sesión de la cuenta y el factor social. Esto es inseguro. ¿Todavía te gustaría continuar?",
       "turkish": "Hesap girişi ve sosyal medya faktörü için aynı e-postayı kullanıyorsunuz. Bu güvenli değil. Hala devam etmek istiyor musunuz?"
     },
@@ -3222,6 +3490,7 @@
       "korean": "소셜 계정 인증 수단",
       "mandarin": "社会因素验证",
       "portuguese": "Verificação do fator social",
+      "russian": "Подтверждение через социальную сеть",
       "spanish": "Verificación del factor social",
       "turkish": "Sosyal medya faktörü doğrulaması"
     },
@@ -3234,6 +3503,7 @@
       "korean": "소셜 계정 복구 수단으로 설정한 이메일로 계속하기",
       "mandarin": "继续您设置为社会恢复因素的因素",
       "portuguese": "Continue com aquele que você definiu como um fator de recuperação social",
+      "russian": "Продолжите через социальную сеть, которую вы указали для восстановления доступа",
       "spanish": "Continúe con uno que establezca como factor de recuperación social",
       "turkish": "Sosyal medya kurtarma faktörü olarak belirlediğiniz faktörle devam edin"
     },
@@ -3246,6 +3516,7 @@
       "korean": "Web3Auth는 소셜 로그인 관련 데이터를 저장하지 않습니다.",
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
+      "russian": "Мы не сохраняем данные о ваших входах через соцсети",
       "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
       "turkish": "Sosyal medya girişlerinizle ilgili hiçbir veriyi saklamıyoruz."
     },
@@ -3258,6 +3529,7 @@
       "korean": "시작하기",
       "mandarin": "开始使用",
       "portuguese": "Começar",
+      "russian": "Начать",
       "spanish": "Empezar",
       "turkish": "Başlayın"
     },
@@ -3270,6 +3542,7 @@
       "korean": "계속하려면 ‘시작하기’를 클릭하세요.",
       "mandarin": "点击开始以继续",
       "portuguese": "Clique em Começar para continuar",
+      "russian": "Нажмите \"Начать\" для продолжения",
       "spanish": "Haga clic en comenzar para continuar",
       "turkish": "Devam etmek için Başlayın'a tıklayın"
     },
@@ -3282,6 +3555,7 @@
       "korean": "모든 웹 활동을 한 곳에서 관리하세요",
       "mandarin": "一站式管理所有网络互动",
       "portuguese": "Gerencie todas as suas interações na web em um só lugar",
+      "russian": "Управляйте всеми своими взаимодействиями в вебе в одном месте.",
       "spanish": "Administre todas sus interacciones web en un solo lugar",
       "turkish": "Tüm web etkileşimlerinizi tek bir yerden yönetin"
     },
@@ -3294,6 +3568,7 @@
       "korean": "국가 코드는 자동으로 감지됩니다. 다른 국가의 전화번호를 사용하는 경우, 올바른 국가 코드를 직접 입력하세요.",
       "mandarin": "您的国家代码将自动检测到，但是如果您使用来自其他国家 /地区的电话号码，则需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se você estiver usando um número de telefone de um país diferente, precisará inserir o código correto do país manualmente.",
+      "russian": "Код вашей страны будет определен автоматически, но если вы используете номер телефона из другой страны, вам потребуется ввести правильный код страны вручную.",
       "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente.",
       "turkish": "Ülke kodunuz otomatik olarak algılanacaktır, ancak farklı bir ülkeden bir telefon numarası kullanıyorsanız, doğru ülke kodunu manuel olarak girmeniz gerekecektir."
     },
@@ -3306,6 +3581,7 @@
       "korean": "전화번호 및 국가 코드",
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código de país",
+      "russian": "Номер телефона и код страны",
       "spanish": "Número de teléfono y código de país",
       "turkish": "Telefon numarası ve ülke kodu"
     },
@@ -3318,6 +3594,7 @@
       "korean": "이메일로 계속하기",
       "mandarin": "继续发送电子邮件",
       "portuguese": "Continuar com e-mail",
+      "russian": "Продолжить с электронной почтой",
       "spanish": "Continuar con el correo electrónico",
       "turkish": "E-posta ile devam et"
     },
@@ -3330,6 +3607,7 @@
       "korean": "이메일",
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
+      "russian": "Электронная почта",
       "spanish": "Correo electrónico",
       "turkish": "E-posta"
     },
@@ -3342,6 +3620,7 @@
       "korean": "Google로 계속하기",
       "mandarin": "继续使用Google",
       "portuguese": "Continuar com o Google",
+      "russian": "Продолжить с Google",
       "spanish": "Continuar con Google",
       "turkish": "Google ile devam et"
     },
@@ -3354,6 +3633,7 @@
       "korean": "전화번호로 계속하기",
       "mandarin": "继续电话",
       "portuguese": "Continue com o telefone",
+      "russian": "Продолжить с телефоном",
       "spanish": "Continuar con el teléfono",
       "turkish": "Telefon ile devam et"
     },
@@ -3366,6 +3646,7 @@
       "korean": "모바일로 계속하기",
       "mandarin": "继续移动",
       "portuguese": "Continue com o celular",
+      "russian": "Продолжить с мобильного",
       "spanish": "Continuar con Mobile",
       "turkish": "Mobil ile devam et"
     },
@@ -3378,6 +3659,7 @@
       "korean": "예 :",
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
+      "russian": "Например:",
       "spanish": "P.ej:",
       "turkish": "Örn:"
     },
@@ -3390,6 +3672,7 @@
       "korean": "WebAuthn으로 계속하기",
       "mandarin": "继续使用WebAuthn",
       "portuguese": "Continuar com WebAuthn",
+      "russian": "Продолжить с WebAuthn",
       "spanish": "Continuar con WebAuthn",
       "turkish": "WebAuthn ile devam et"
     },
@@ -3402,6 +3685,7 @@
       "korean": "계속하려면 다음 중 하나를 인증하세요",
       "mandarin": "验证以下一个继续",
       "portuguese": "Verifique com um dos seguintes para continuar",
+      "russian": "Подтвердите с помощью одного из следующих методов, чтобы продолжить",
       "spanish": "Verifique con uno de los siguientes para continuar",
       "turkish": "Devam etmek için aşağıdakilerden biriyle doğrulayın"
     },
@@ -3414,6 +3698,7 @@
       "korean": "{number}로 전송된 OTP 코드를 입력해주세요",
       "mandarin": "输入发送到发送到的OTP代码 {number}",
       "portuguese": "Digite o código OTP enviado para {number}",
+      "russian": "Введите OTP-код, отправленный на {номер}",
       "spanish": "Ingrese el código OTP enviado a {number}",
       "turkish": "{number} numarasına gönderilen OTP kodunu girin"
     },
@@ -3426,6 +3711,7 @@
       "korean": "{number}로 OTP가 전송되었습니다",
       "mandarin": "OTP已发送到 {number}",
       "portuguese": "Um OTP foi enviado para {number}",
+      "russian": "OTP был отправлен на {number}",
       "spanish": "Se ha enviado un OTP a {number}"
     },
     "verify-otp-heading-2": {
@@ -3437,6 +3723,7 @@
       "korean": "계속하려면 OTP를 입력해주세요",
       "mandarin": "输入OTP继续",
       "portuguese": "Digite o OTP para continuar",
+      "russian": "Введите OTP для продолжения",
       "spanish": "Ingrese OTP para continuar",
       "turkish": "Devam etmek için OTP kodunu girin"
     },
@@ -3449,6 +3736,7 @@
       "korean": "OTP 인증",
       "mandarin": "OTP验证",
       "portuguese": "Verificação de OTP",
+      "russian": "Проверка OTP",
       "spanish": "Verificación OTP",
       "turkish": "OTP Doğrulaması"
     },
@@ -3461,6 +3749,7 @@
       "korean": "OTP를 입력해주세요",
       "mandarin": "输入您的OTP",
       "portuguese": "Digite seu OTP",
+      "russian": "Введите ваш OTP",
       "spanish": "Ingrese su OTP",
       "turkish": "OTP kodunu girin"
     },
@@ -3473,6 +3762,7 @@
       "korean": "계속하려면 추가로 인증을 진행해주세요",
       "mandarin": "验证另一个因素继续",
       "portuguese": "Verifique com mais um fator para continuar",
+      "russian": "Подтвердите с помощью еще одного фактора для продолжения",
       "spanish": "Verifique con un factor más para continuar",
       "turkish": "Devam etmek için bir faktör daha doğrulayın"
     },
@@ -3485,6 +3775,7 @@
       "korean": "계속하려면 복구 구문으로 인증해주세요",
       "mandarin": "用发送的恢复短语验证以继续",
       "portuguese": "Verifique com sua frase de recuperação enviada para continuar",
+      "russian": "Проверьте с помощью фразы восстановления, отправленной для продолжения.",
       "spanish": "Verifique con su frase de recuperación enviada para continuar",
       "turkish": "Devam etmek için gönderilen kurtarma ifadenizle doğrulayın"
     },
@@ -3497,6 +3788,7 @@
       "korean": "이전에 설정했던 소셜 계정 복구 수단으로 인증해주세요.",
       "mandarin": "使用您先前设置的社会恢复因素进行验证。",
       "portuguese": "Verifique com o fator de recuperação social que você configurou anteriormente.",
+      "russian": "Подтвердите вход через настроенную ранее социальную сеть",
       "spanish": "Verifique con el factor de recuperación social que había establecido anteriormente.",
       "turkish": "Daha önce kurmuş olduğunuz sosyal medya kurtarma faktörü ile doğrulayın."
     }

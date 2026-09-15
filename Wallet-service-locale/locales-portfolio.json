@@ -10,6 +10,7 @@
       "korean": "블록 탐색기",
       "mandarin": "区块浏览器",  
       "portuguese": "Block-Explorer",
+      "russian": "обозреватель блоков",
       "spanish": "Explorador de bloques",
       "turkish": "Blok Explorer"
     },
@@ -23,6 +24,7 @@
       "korean": "자산 이동을 시작하면 거래가 여기에 나타납니다.",
       "mandarin": "一旦您开始移动资产，您的交易就会出现在这里。",
       "portuguese": "Depois de começar a mover seus ativos, suas transações aparecerão aqui.",
+      "russian": "Как только вы начнете перемещать свои активы, ваши транзакции появятся здесь.",
       "spanish": "Una vez que comience a mover sus activos, sus transacciones aparecerán aquí.",
       "turkish": "Bir varlığınızı taşıdığınızda, bu işlemler burada görünür."
     },
@@ -36,6 +38,7 @@
       "korean": "아직 거래가 없습니다",
       "mandarin": "您还没有任何交易",
       "portuguese": "Você ainda não tem transações",
+      "russian": "У вас еще нет никаких транзакций.",
       "spanish": "Todavía no tienes transacciones",
       "turkish": "Henüz herhangi bir işlem yok"
     },
@@ -49,6 +52,7 @@
       "korean": "세부 사항을 볼 트랜잭션을 선택하십시오",
       "mandarin": "选择交易来查看详细信息",
       "portuguese": "Selecione a transação para visualizar detalhes",
+      "russian": "Выберите транзакцию для просмотра деталей",
       "spanish": "Seleccione la transacción para ver los detalles",
       "turkish": "Detayları görmek için bir işlem seçin"
     },
@@ -62,6 +66,7 @@
       "korean": "세부 정보를 볼 트랜잭션을 선택하십시오",
       "mandarin": "选择任何交易以查看详细信息",
       "portuguese": "Selecione qualquer transação para visualizar detalhes",
+      "russian": "Выберите любую транзакцию для просмотра деталей",
       "spanish": "Seleccione cualquier transacción para ver los detalles",
       "turkish": "Detayları görmek için herhangi bir işlem seçin"
     },
@@ -75,6 +80,7 @@
       "korean": "거래 내역을 전체적으로 보려면",
       "mandarin": "查看交易历史",
       "portuguese": "para ver o histórico completo de suas transações",
+      "russian": "для просмотра полной истории ваших транзакций",
       "spanish": "para ver la historia completa de sus transacciones",
       "turkish": "işlemlerinizin tam geçmişini görmek için"
     },
@@ -88,6 +94,7 @@
       "korean": "방문",
       "mandarin": "访问",
       "portuguese": "Visitar",
+      "russian": "Посетите",
       "spanish": "Visitar",
       "turkish": "Ziyaret et"
     }
@@ -103,6 +110,7 @@
       "korean": "NFT 계약 주소",
       "mandarin": "NFT合同地址",
       "portuguese": "Endereço do contrato da NFT",
+      "russian": "Адрес контракта NFT",
       "spanish": "Dirección del contrato NFT",
       "turkish": "NFT Sözleşme Adresi"
     },
@@ -116,6 +124,7 @@
       "korean": "주소를 복사하십시오",
       "mandarin": "复制地址",
       "portuguese": "Endereço de cópia",
+      "russian": "Скопировать адрес",
       "spanish": "Dirección de copia",
       "turkish": "Adres kopyala"
     },
@@ -129,6 +138,7 @@
       "korean": "정밀한 소수",
       "mandarin": "精确的小数",
       "portuguese": "Decimais de precisão",
+      "russian": "Десятичные дроби с точностью",
       "spanish": "Decimales de precisión",
       "turkish": "Ondalık önem"
     },
@@ -142,6 +152,7 @@
       "korean": "가스 신용",
       "mandarin": "汽油信用",
       "portuguese": "Crédito a gás",
+      "russian": "Комиссия на газ",
       "spanish": "Crédito de gas",
       "turkish": "Gaz kredisi"
     },
@@ -155,6 +166,7 @@
       "korean": "아직 {0}이 없습니다",
       "mandarin": "您还没有任何{0}",
       "portuguese": "Você ainda não tem {0}",
+      "russian": "У вас еще нет {0}",
       "spanish": "No tienes {0} todavía",
       "turkish": "Henüz {0} yok"
     },
@@ -168,6 +180,7 @@
       "korean": "{0}을 구매, 받거나 추가하면 여기에 나타납니다.",
       "mandarin": "购买，接收或添加任何{0}后，它们将出现在此处。",
       "portuguese": "Depois de comprar, receber ou adicionar qualquer {0}, eles aparecerão aqui.",
+      "russian": "Как только вы купите, получите или добавите любой {0}, он появится здесь.",
       "spanish": "Una vez que compre, reciba o agregue cualquier {0}, aparecerán aquí.",
       "turkish": "Bir {0} satın aldıktan sonra, alınan veya eklendiğinde bunlar burada gösterilecektir."
     },
@@ -181,6 +194,7 @@
       "korean": "소유자 EOA",
       "mandarin": "所有者EOA",
       "portuguese": "Proprietário EOA",
+      "russian": "Владелец EOA",
       "spanish": "Propietario EOA",
       "turkish": "Sahib EOA"
     },
@@ -194,6 +208,7 @@
       "korean": "QR 코드 스캐너",
       "mandarin": "QR代码扫描仪",
       "portuguese": "Scanner de código QR",
+      "russian": "Сканер QR-кода",
       "spanish": "Escáner de código QR",
       "turkish": "QR kodu tarayıcısı"
     },
@@ -207,6 +222,7 @@
       "korean": "이더 리움을 받았습니다",
       "mandarin": "收到以太坊",
       "portuguese": "Recebeu Ethereum",
+      "russian": "Получен Ethereum",
       "spanish": "Recibido Ethereum",
       "turkish": "Alınan Ethereum"
     },
@@ -220,6 +236,7 @@
       "korean": "스마트 계약 계정",
       "mandarin": "智能合约帐户",
       "portuguese": "Conta de contrato inteligente",
+      "russian": "Учетная запись смарт контракта",
       "spanish": "Cuenta de contrato inteligente",
       "turkish": "Akıllı sözleşme hesabı"
     },
@@ -233,6 +250,7 @@
       "korean": "토큰 계약 주소",
       "mandarin": "令牌合同地址",
       "portuguese": "Endereço do contrato de token",
+      "russian": "Адрес контракта токена",
       "spanish": "Dirección del contrato de token",
       "turkish": "Token Sözleşme Adresi"
     },
@@ -246,6 +264,7 @@
       "korean": "토큰 ID",
       "mandarin": "令牌ID",
       "portuguese": "Id token",
+      "russian": "Идентификатор токена",
       "spanish": "ID de token",
       "turkish": "Token ID"
     },
@@ -259,6 +278,7 @@
       "korean": "토큰 이름",
       "mandarin": "令牌名称",
       "portuguese": "Nome do token",
+      "russian": "Название токена",
       "spanish": "Nombre de token",
       "turkish": "Token adı"
     },
@@ -272,6 +292,7 @@
       "korean": "토큰 기호",
       "mandarin": "令牌符号",
       "portuguese": "Símbolo simbólico",
+      "russian": "Символ токена",
       "spanish": "Símbolo de token",
       "turkish": "Token sembolü"
     },
@@ -285,6 +306,7 @@
       "korean": "총 지갑 균형",
       "mandarin": "总钱包平衡",
       "portuguese": "Equilíbrio total da carteira",
+      "russian": "Общий баланс кошелька",
       "spanish": "Balance de billetera total",
       "turkish": "Toplam cüzdan bakiyesi"
     },
@@ -298,6 +320,7 @@
       "korean": "전송 된 토큰",
       "mandarin": "转移令牌",
       "portuguese": "Token transferido",
+      "russian": "Переведенный токен",
       "spanish": "Token transferido",
       "turkish": "Transfer edilen token"
     },
@@ -311,6 +334,7 @@
       "korean": "지갑 연결",
       "mandarin": "钱包连接",
       "portuguese": "Carteira Connect",
+      "russian": "Подключение кошелька",
       "spanish": "Billetera conectar",
       "turkish": "Cüzdanı bağla"
     }
@@ -326,6 +350,7 @@
       "korean": "총 모카 xp",
       "mandarin": "总MOCA XP",
       "portuguese": "Total MOCA XP",
+      "russian": "Общий Moca XP",
       "spanish": "MOCA XP total",
       "turkish": "Toplam MOCA XP"
     },
@@ -339,6 +364,7 @@
       "korean": "총 모카 xp",
       "mandarin": "总MOCA XP",
       "portuguese": "Total MOCA XP",
+      "russian": "Общий Moca XP",
       "spanish": "MOCA XP total",
       "turkish": "Toplam MOCA XP"
     }
@@ -354,6 +380,7 @@
       "korean": "NFT를 추가하십시오",
       "mandarin": "添加NFT",
       "portuguese": "Adicione a NFT",
+      "russian": "Добавить NFT",
       "spanish": "Agregar NFT",
       "turkish": "NFT ekle"
     },
@@ -367,6 +394,7 @@
       "korean": "토큰 추가하기",
       "mandarin": "添加令牌",
       "portuguese": "Adicione token",
+      "russian": "Добавить токен",
       "spanish": "Agregar token",
       "turkish": "Token ekle"
     },
@@ -380,6 +408,7 @@
       "korean": "고급의",
       "mandarin": "先进的",
       "portuguese": "Avançado",
+      "russian": "Расширенный",
       "spanish": "Avanzado",
       "turkish": "Gelişmiş"
     },
@@ -393,6 +422,7 @@
       "korean": "고급 옵션",
       "mandarin": "高级选项",
       "portuguese": "Opções avançadas",
+      "russian": "Расширенные настройки",
       "spanish": "Opciones avanzadas",
       "turkish": "Gelişmiş seçenekler"
     },
@@ -406,6 +436,7 @@
       "korean": "모두",
       "mandarin": "全部",
       "portuguese": "Todos",
+      "russian": "Все",
       "spanish": "Todo",
       "turkish": "Hepsi"
     },
@@ -419,6 +450,7 @@
       "korean": "모든 날짜",
       "mandarin": "所有日期",
       "portuguese": "Todas as datas",
+      "russian": "Все даты",
       "spanish": "Todas las fechas",
       "turkish": "Tüm Tarihler"
     },
@@ -432,6 +464,7 @@
       "korean": "양",
       "mandarin": "数量",
       "portuguese": "Quantia",
+      "russian": "Количество",
       "spanish": "Cantidad",
       "turkish": "Miktar"
     },
@@ -445,6 +478,7 @@
       "korean": "승인된 {0}",
       "mandarin": "批准的 {0}",
       "portuguese": "{0} aprovado",
+      "russian": "Одобрено {0}",
       "spanish": "{0} aprobado",
       "turkish": "{0} onaylanan"
     },
@@ -458,6 +492,7 @@
       "korean": "유산",
       "mandarin": "资产",
       "portuguese": "Ativo",
+      "russian": "Актив",
       "spanish": "Activo",
       "turkish": "Varlık"
     },
@@ -471,6 +506,7 @@
       "korean": "사용 가능한 잔액",
       "mandarin": "可用余额",
       "portuguese": "Saldo disponível",
+      "russian": "Доступный баланс",
       "spanish": "Saldo disponible",
       "turkish": "Mevcut Bakiye"
     },
@@ -484,6 +520,7 @@
       "korean": "평균",
       "mandarin": "平均的",
       "portuguese": "Média",
+      "russian": "Средний",
       "spanish": "Promedio",
       "turkish": "Ortalama"
     },
@@ -497,6 +534,7 @@
       "korean": "블록 탐색기",
       "mandarin": "块探索",
       "portuguese": "Block-Explorer",
+      "russian": "Обозреватель блоков",
       "spanish": "Explorador de bloques",
       "turkish": "Blok Explorer"
     },
@@ -510,6 +548,7 @@
       "korean": "구입하다",
       "mandarin": "买",
       "portuguese": "Comprar",
+      "russian": "Купить",
       "spanish": "Comprar",
       "turkish": "Al"
     },
@@ -523,6 +562,7 @@
       "korean": "TestNet에서는 사용할 수 없습니다",
       "mandarin": "TestNet上无法使用的功能",
       "portuguese": "Recurso indisponível no TestNet",
+      "russian": "Функция недоступна в тестовой сети",
       "spanish": "Característica no disponible en TestNet",
       "turkish": "Özellik testnet'te kullanılamıyor"
     },
@@ -536,6 +576,7 @@
       "korean": "구매/판매",
       "mandarin": "买卖",
       "portuguese": "Compra venda",
+      "russian": "Купить/Продать",
       "spanish": "Compra venta",
       "turkish": "Alış veriş"
     },
@@ -549,6 +590,7 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
+      "russian": "Отмена",
       "spanish": "Cancelar",
       "turkish": "İptal etmek"
     },
@@ -562,6 +604,7 @@
       "korean": "주장하다",
       "mandarin": "宣称",
       "portuguese": "Alegar",
+      "russian": "Забрать",
       "spanish": "Afirmar",
       "turkish": "Talep Et"
     },
@@ -575,6 +618,7 @@
       "korean": "확인하다",
       "mandarin": "确认",
       "portuguese": "confirme",
+      "russian": "Подтвердить",
       "spanish": "Confirmar",
       "turkish": "Onayla"
     },
@@ -588,6 +632,7 @@
       "korean": "거래 확인",
       "mandarin": "确认交易",
       "portuguese": "Confirme a transação",
+      "russian": "Подтвердить транзакцию",
       "spanish": "Confirmar transacción",
       "turkish": "İşlemi Onayla"
     },
@@ -601,6 +646,7 @@
       "korean": "계약 배포",
       "mandarin": "合约部署",
       "portuguese": "Implantação de contrato",
+      "russian": "Развертывание контракта",
       "spanish": "Implementación del contrato",
       "turkish": "Sözleşme Dağıtımı"
     },
@@ -614,6 +660,7 @@
       "korean": "계약 상호작용",
       "mandarin": "合约交互",
       "portuguese": "Interação Contratual",
+      "russian": "Взаимодействие с контрактом",
       "spanish": "Interacción contractual",
       "turkish": "Sözleşme Etkileşimi"
     },
@@ -627,6 +674,7 @@
       "korean": "복사",
       "mandarin": "复制",
       "portuguese": "Copiado",
+      "russian": "Скопировано",
       "spanish": "Copiado",
       "turkish": "Kopyalandı"
     },
@@ -640,6 +688,7 @@
       "korean": "{0}에 의해 커버되어 있습니다",
       "mandarin": "由{0}覆盖",
       "portuguese": "Coberto por {0}",
+      "russian": "Поддерживается  {0}",
       "spanish": "Cubierto por {0}",
       "turkish": "{0} tarafından kapatılır"
     },
@@ -653,6 +702,7 @@
       "korean": "신용 사용",
       "mandarin": "信用使用",
       "portuguese": "Uso de crédito",
+      "russian": "Использование кредита",
       "spanish": "Uso de crédito",
       "turkish": "Kredi Kullanımı"
     },
@@ -666,6 +716,7 @@
       "korean": "가스 수수료를 사용자 정의하십시오",
       "mandarin": "自定义您的汽油费",
       "portuguese": "Personalize sua taxa de gás",
+      "russian": "Настройте свою комиссию за газ",
       "spanish": "Personaliza tu tarifa de gasolina",
       "turkish": "Gaz Ücretinizi Özelleştirin"
     },
@@ -679,6 +730,7 @@
       "korean": "설명",
       "mandarin": "描述",
       "portuguese": "Descrição",
+      "russian": "Описание",
       "spanish": "Descripción",
       "turkish": "Açıklama"
     },
@@ -692,6 +744,7 @@
       "korean": "수신자 주소 입력하기",
       "mandarin": "输入收件人地址",
       "portuguese": "Digite o endereço do destinatário",
+      "russian": "Введите адрес получателя",
       "spanish": "Ingrese la dirección del destinatario",
       "turkish": "Alıcı Adresi Giriniz"
     },
@@ -705,6 +758,7 @@
       "korean": "빠른",
       "mandarin": "快速地",
       "portuguese": "Rápido",
+      "russian": "Быстрый",
       "spanish": "Rápido",
       "turkish": "Hızlı"
     },
@@ -718,6 +772,7 @@
       "korean": "현재 네트워크에서 사용할 수 없는 기능",
       "mandarin": "当前网络上不可用的功能",
       "portuguese": "Recurso indisponível na rede atual",
+      "russian": "Функция недоступна в текущей сети",
       "spanish": "Característica no disponible en la red actual",
       "turkish": "Mevcut ağda kullanılamayan özellik"
     },
@@ -731,6 +786,7 @@
       "korean": "첫 번째 거래는 스마트 계정의 배포를 포함하므로 더 높은 수수료가 발생합니다. 이후 거래는 더 낮은 수수료로 계산됩니다.",
       "mandarin": "您的第一次交易由于涉及部署您的智能账户，因此会产生较高的费用。后续交易将按较低的费用计算。",
       "portuguese": "Sua primeira transação incorre em uma taxa mais alta, pois envolve o deploy do seu conta inteligente. As transações subsequentes terão taxas menores.",
+      "russian": "Ваша первая транзакция влечет за собой более высокую комиссию, поскольку она включает в себя развертывание вашего умного аккаунта. Последующие транзакции будут иметь более низкие комиссии.",
       "spanish": "Su primera transacción incurre en una tarifa más alta, ya que implica el despliegue de su cuenta inteligente. Las transacciones posteriores tendrán tarifas más bajas.",
       "turkish": "İlk işlem, akıllı hesap dağıtımını içerdiğinden, daha yüksek bir ücretlendirmeye neden olur. Sonraki işlemler, daha düşük ücretlerle hesaplanır."
     },
@@ -744,6 +800,7 @@
       "korean": "무료",
       "mandarin": "免费",
       "portuguese": "Gratuito",
+      "russian": "Бесплатно",
       "spanish": "Gratuito",
       "turkish": "Bedava"
     },
@@ -757,6 +814,7 @@
       "korean": "가스 한도",
       "mandarin": "气限",
       "portuguese": "Limite de gás",
+      "russian": "Лимит газа",
       "spanish": "Límite de gas",
       "turkish": "Jener Gaz Sınırı"
     },
@@ -770,6 +828,7 @@
       "korean": "가스 가격",
       "mandarin": "汽油价格",
       "portuguese": "Preço do gás",
+      "russian": "Цена на газ",
       "spanish": "Precio del gas",
       "turkish": "Gaz Ücreti"
     },
@@ -783,6 +842,7 @@
       "korean": "ID",
       "mandarin": "ID",
       "portuguese": "EU IA",
+      "russian": "Идентификатор",
       "spanish": "IDENTIFICACIÓN",
       "turkish": "ID"
     },
@@ -796,6 +856,7 @@
       "korean": "가스 신용 불충분, 지갑 잔액은 수수료를 커버하는 데 사용됩니다.",
       "mandarin": "汽油信用不足，钱包余额将用于支付费用",
       "portuguese": "Crédito a gás insuficiente, o saldo da carteira será usado para cobrir a taxa",
+      "russian": "Недостаточный кредит газа, баланс кошелька будет использован для покрытия комиссии.",
       "spanish": "Crédito de gas insuficiente, el saldo de la billetera se utilizará para cubrir la tarifa",
       "turkish": "Gaz Kredisi Yetersiz, Portföy Bakiyesi Kullanılacak"
     },
@@ -809,6 +870,7 @@
       "korean": "지난 1 개월",
       "mandarin": "最后一个月",
       "portuguese": "Último 1 mês",
+      "russian": "Последний 1 месяц",
       "spanish": "Último 1 mes",
       "turkish": "Son 1 ay"
     },
@@ -822,6 +884,7 @@
       "korean": "지난 1 주일",
       "mandarin": "最后1周",
       "portuguese": "Última 1 semana",
+      "russian": "Последняя 1 неделя",
       "spanish": "Última 1 semana",
       "turkish": "Son 1 hafta"
     },
@@ -835,6 +898,7 @@
       "korean": "지난 6 개월",
       "mandarin": "最近6个月",
       "portuguese": "Últimos 6 meses",
+      "russian": "Последние 6 месяцев",
       "spanish": "Últimos 6 meses",
       "turkish": "Son 6 aylar"
     },
@@ -848,6 +912,7 @@
       "korean": "최대 가스 비용",
       "mandarin": "最大汽油费用",
       "portuguese": "Taxa máxima por gas",
+      "russian": "Максимальная комиссия за газ",
       "spanish": "Tarifa máxima por gas",
       "turkish": "Maksimum Gaz Ücreti"
     },
@@ -861,6 +926,7 @@
       "korean": "최대 우선 순위",
       "mandarin": "最大优先费",
       "portuguese": "Taxa prioritária máxima",
+      "russian": "Максимальная приоритетная комиссия",
       "spanish": "Tarifa de prioridad máxima",
       "turkish": "Maksimum Öncelik Ücreti"
     },
@@ -874,6 +940,7 @@
       "korean": "최대 거래 수수료",
       "mandarin": "最大交易费",
       "portuguese": "Taxa de transação máxima",
+      "russian": "Максимальная комиссия за транзакцию",
       "spanish": "Tarifa de transacción máxima",
       "turkish": "Maksimum İşlem Ücreti"
     },
@@ -887,6 +954,7 @@
       "korean": "중간",
       "mandarin": "中等的",
       "portuguese": "Médio",
+      "russian": "Средний",
       "spanish": "Medio",
       "turkish": "Orta"
     },
@@ -900,6 +968,7 @@
       "korean": "다음",
       "mandarin": "下一个",
       "portuguese": "Próximo",
+      "russian": "Следующий",
       "spanish": "Próximo",
       "turkish": "Sonraki"
     },
@@ -913,6 +982,7 @@
       "korean": "목하",
       "mandarin": "nonce",
       "portuguese": "Nonce",
+      "russian": "Nonce",
       "spanish": "Mientras tanto",
       "turkish": "Nonce"
     },
@@ -926,6 +996,7 @@
       "korean": "소유자 EOA 계정",
       "mandarin": "所有者EOA帐户",
       "portuguese": "Conta do proprietário EOA",
+      "russian": "Аккаунт владельца EOA",
       "spanish": "Cuenta EOA del propietario",
       "turkish": "Sahib EOA Hesabı"
     },
@@ -939,6 +1010,7 @@
       "korean": "소유자 EOA 잔액",
       "mandarin": "所有者EOA余额",
       "portuguese": "Proprietário EOA Balance",
+      "russian": "Баланс владельца EOA",
       "spanish": "Balance de propietario EOA",
       "turkish": "Sahib EOA Bakiye"
     },
@@ -952,6 +1024,7 @@
       "korean": "<{0} 초에 프로세스",
       "mandarin": "<{0}秒的过程",
       "portuguese": "Processo em <{0} segundos",
+      "russian": "Процесс завершен за < {0} секунд",
       "spanish": "Proceso en <{0} segundos",
       "turkish": "<{0} saniyede işlem"
     },
@@ -965,6 +1038,7 @@
       "korean": "처리",
       "mandarin": "过程中",
       "portuguese": "Processo em",
+      "russian": "Процесс входа",
       "spanish": "Procesar",
       "turkish": "İşlem"
     },
@@ -978,6 +1052,7 @@
       "korean": "<{0} 초",
       "mandarin": "<{0}秒",
       "portuguese": "<{0} segundos",
+      "russian": "'< {0} секунд'",
       "spanish": "<{0} segundos",
       "turkish": "<{0} saniye"
     },
@@ -991,6 +1066,7 @@
       "korean": "수량",
       "mandarin": "数量",
       "portuguese": "Quantidade",
+      "russian": "Количество",
       "spanish": "Cantidad",
       "turkish": "Miktar"
     },
@@ -1004,6 +1080,7 @@
       "korean": "비율",
       "mandarin": "速度",
       "portuguese": "Avaliar",
+      "russian": "Ставка",
       "spanish": "Tasa",
       "turkish": "Oran"
     },
@@ -1017,6 +1094,7 @@
       "korean": "받다",
       "mandarin": "收到",
       "portuguese": "Receber",
+      "russian": "Получить",
       "spanish": "Recibir",
       "turkish": "Al"
     },
@@ -1030,6 +1108,7 @@
       "korean": "받았다",
       "mandarin": "已收到",
       "portuguese": "Recebido",
+      "russian": "Получено",
       "spanish": "Recibió",
       "turkish": "Alındı"
     },
@@ -1043,6 +1122,7 @@
       "korean": "{0}를 받았습니다",
       "mandarin": "收到{0}",
       "portuguese": "{0} recebidos",
+      "russian": "Получено {0}",
       "spanish": "{0} recibido",
       "turkish": "{0} alındı"
     },
@@ -1056,6 +1136,7 @@
       "korean": "리셋",
       "mandarin": "重置",
       "portuguese": "Reiniciar",
+      "russian": "Сброс",
       "spanish": "Reiniciar",
       "turkish": "Sıfırla"
     },
@@ -1069,6 +1150,7 @@
       "korean": "자산을 선택하십시오",
       "mandarin": "选择资产",
       "portuguese": "Selecione um ativo",
+      "russian": "Выберите актив",
       "spanish": "Seleccione un activo",
       "turkish": "Bir varlık seçin"
     },
@@ -1082,6 +1164,7 @@
       "korean": "속도를 선택하십시오",
       "mandarin": "选择速度",
       "portuguese": "Selecione a velocidade",
+      "russian": "Выберите скорость",
       "spanish": "Velocidad de selección",
       "turkish": "Hız Seç"
     },
@@ -1095,6 +1178,7 @@
       "korean": "토큰을 선택하십시오",
       "mandarin": "选择令牌",
       "portuguese": "Selecione token",
+      "russian": "Выбрать токен",
       "spanish": "Seleccionar token",
       "turkish": "Token seçin"
     },
@@ -1108,6 +1192,7 @@
       "korean": "보내다",
       "mandarin": "发送",
       "portuguese": "Enviar",
+      "russian": "Отправить",
       "spanish": "Enviar",
       "turkish": "Gönder"
     },
@@ -1121,6 +1206,7 @@
       "korean": "모두 보내다",
       "mandarin": "发送所有",
       "portuguese": "Enviar tudo",
+      "russian": "Отправить все",
       "spanish": "Enviar todo",
       "turkish": "Tümü gönder"
     },
@@ -1134,6 +1220,7 @@
       "korean": "보내십시오",
       "mandarin": "发给",
       "portuguese": "Enviar para",
+      "russian": "Отправить ",
       "spanish": "Enviar a",
       "turkish": "Gönder"
     },
@@ -1147,6 +1234,7 @@
       "korean": "보내기",
       "mandarin": "从",
       "portuguese": "Enviando de",
+      "russian": "Отправлено из",
       "spanish": "Envío desde",
       "turkish": "Gönderen"
     },
@@ -1160,6 +1248,7 @@
       "korean": "전송된",
       "mandarin": "发送",
       "portuguese": "Enviado",
+      "russian": "Отправлено",
       "spanish": "Enviado",
       "turkish": "Gönderildi"
     },
@@ -1173,6 +1262,7 @@
       "korean": "{0}를 보냈습니다",
       "mandarin": "发送 {0}",
       "portuguese": "Enviado {0}",
+      "russian": "Отправлено {0}",
       "spanish": "{0} enviado",
       "turkish": "{0} gönderildi"
     },
@@ -1186,6 +1276,7 @@
       "korean": "모든 토큰 표시",
       "mandarin": "显示所有代币",
       "portuguese": "Mostrar todos os tokens",
+      "russian": "Показать все токены",
       "spanish": "Mostrar todos los tokens",
       "turkish": "Tüm jetonları görüntüle"
     },
@@ -1199,6 +1290,7 @@
       "korean": "느린",
       "mandarin": "慢的",
       "portuguese": "Lento",
+      "russian": "Медленный",
       "spanish": "Lento",
       "turkish": "Yavaş"
     },
@@ -1212,6 +1304,7 @@
       "korean": "제출하다",
       "mandarin": "提交",
       "portuguese": "Enviar",
+      "russian": "Отправить",
       "spanish": "Entregar",
       "turkish": "Göndermek"
     },
@@ -1225,6 +1318,7 @@
       "korean": "교환",
       "mandarin": "交换",
       "portuguese": "Trocar",
+      "russian": "Обмен",
       "spanish": "Intercambio",
       "turkish": "Değiştir"
     },
@@ -1238,6 +1332,7 @@
       "korean": "토큰",
       "mandarin": "令牌",
       "portuguese": "Tokens",
+      "russian": "Токены",
       "spanish": "Tokens",
       "turkish": "Token"
     },
@@ -1251,6 +1346,7 @@
       "korean": "상단",
       "mandarin": "充值",
       "portuguese": "Completar",
+      "russian": "Пополнение",
       "spanish": "Recarga",
       "turkish": "Toplu"
     },
@@ -1264,6 +1360,7 @@
       "korean": "위로",
       "mandarin": "充值",
       "portuguese": "Completar",
+      "russian": "Пополнить",
       "spanish": "Completar",
       "turkish": "Dolu Et"
     },
@@ -1277,6 +1374,7 @@
       "korean": "윗면 금액",
       "mandarin": "总额",
       "portuguese": "TODO OURMOURO",
+      "russian": "Пополненная сумма",
       "spanish": "Cantidad rematada",
       "turkish": "Toplam Tutarı"
     },
@@ -1290,6 +1388,7 @@
       "korean": "총 비용",
       "mandarin": "总成本",
       "portuguese": "Custo total",
+      "russian": "Общая стоимость",
       "spanish": "Coste total",
       "turkish": "Toplam Maliyet"
     },
@@ -1303,6 +1402,7 @@
       "korean": "총 ETH",
       "mandarin": "总eth",
       "portuguese": "ETH total",
+      "russian": "Общий ETH",
       "spanish": "Total ETH",
       "turkish": "Toplam ETH"
     },
@@ -1316,6 +1416,7 @@
       "korean": "거래 비용",
       "mandarin": "交易成本",
       "portuguese": "Custo da transação",
+      "russian": "Стоимость транзакции",
       "spanish": "Costo de la transacción",
       "turkish": "İşlem Ücreti"
     },
@@ -1329,6 +1430,7 @@
       "korean": "양도 자산",
       "mandarin": "转移资产",
       "portuguese": "Ativo transferido",
+      "russian": "Переведенный актив",
       "spanish": "Activo transferido",
       "turkish": "Varlık aktarıldı"
     },
@@ -1342,6 +1444,7 @@
       "korean": "전송",
       "mandarin": "转移",
       "portuguese": "Transferido em",
+      "russian": "Переведено на",
       "spanish": "Transferido",
       "turkish": "Aktarıldı"
     },
@@ -1355,6 +1458,7 @@
       "korean": "전송 된 토큰",
       "mandarin": "转移令牌",
       "portuguese": "Token transferido",
+      "russian": "Переведенный токен",
       "spanish": "Token transferido",
       "turkish": "Token aktarıldı"
     },
@@ -1368,6 +1472,7 @@
       "korean": "거래 비용",
       "mandarin": "交易成本",
       "portuguese": "Custo da transação",
+      "russian": "Стоимость транзакции",
       "spanish": "Costo de la transacción",
       "turkish": "İşlem Ücreti"
     },
@@ -1381,6 +1486,7 @@
       "korean": "거래 수수료",
       "mandarin": "手续费",
       "portuguese": "Taxa de transação",
+      "russian": "Комиссия за транзакцию",
       "spanish": "Tarifa de transacción",
       "turkish": "İşlem Ücreti"
     },
@@ -1394,6 +1500,7 @@
       "korean": "거래 내역",
       "mandarin": "交易历史记录",
       "portuguese": "Histórico de transações",
+      "russian": "История транзакций",
       "spanish": "Historial de transacciones",
       "turkish": "İşlem Geçmişi"
     },
@@ -1407,6 +1514,7 @@
       "korean": "거래 상태",
       "mandarin": "交易状态",
       "portuguese": "Estado de transação",
+      "russian": "Состояние транзакции",
       "spanish": "Estado de transacción",
       "turkish": "İşlem Durumu"
     },
@@ -1420,6 +1528,7 @@
       "korean": "유형",
       "mandarin": "类型",
       "portuguese": "Tipo",
+      "russian": "Тип",
       "spanish": "Tipo",
       "turkish": "Tip"
     },
@@ -1433,6 +1542,7 @@
       "korean": "까지",
       "mandarin": "取决于",
       "portuguese": "Até",
+      "russian": "До",
       "spanish": "Hasta",
       "turkish": "Kadar"
     },
@@ -1446,6 +1556,7 @@
       "korean": "값",
       "mandarin": "价值",
       "portuguese": "Valor",
+      "russian": "Значение",
       "spanish": "Valor",
       "turkish": "Miktar"
     },
@@ -1459,6 +1570,7 @@
       "korean": "트랜잭션을 봅니다",
       "mandarin": "查看交易",
       "portuguese": "Visualizar transação",
+      "russian": "Просмотреть транзакцию",
       "spanish": "Ver transacción",
       "turkish": "İşlemi Görüntüle"
     },
@@ -1472,6 +1584,7 @@
       "korean": "당신의 NFT",
       "mandarin": "你的nfts",
       "portuguese": "Seus NFTs",
+      "russian": "Ваши NFT",
       "spanish": "Tus NFTS",
       "turkish": "Sizin NFT"
     },
@@ -1485,6 +1598,7 @@
       "korean": "당신의 토큰",
       "mandarin": "你的令牌",
       "portuguese": "Seus tokens",
+      "russian": "Ваши токены",
       "spanish": "Tus tokens",
       "turkish": "Sizin Token"
     },
@@ -1498,6 +1612,7 @@
       "korean": "토큰 및 NFT 정보를 일시적으로 사용할 수 없습니다. 이 기능을 복구하기 위해 노력하고 있습니다.",
       "mandarin": "代币和 NFT 信息暂时不可用。我们正在努力恢复此功能。",
       "portuguese": "As informações sobre tokens e NFTs estão temporariamente indisponíveis. Estamos a trabalhar para restaurar essa funcionalidade.",
+      "russian": "Информация о токенах и NFT временно недоступна. Мы работаем над восстановлением этой функциональности.",
       "spanish": "La información sobre tokens y NFT no está disponible temporalmente. Estamos trabajando para restablecer esta funcionalidad.",
       "turkish": "Token ve NFT bilgileri geçici olarak kullanılamıyor. Bu işlevselliği geri yüklemek için çalışıyoruz."
     },
@@ -1511,6 +1626,7 @@
       "korean": "자금 추가",
       "mandarin": "添加资金",
       "portuguese": "Adicionar fundos",
+      "russian": "Пополнить кошелек",
       "spanish": "Agregar fondos",
       "turkish": "Fond ekle"
     },
@@ -1524,6 +1640,7 @@
       "korean": "자금 추가",
       "mandarin": "添加资金",
       "portuguese": "Adicionar fundos",
+      "russian": "Пополнить кошелек",
       "spanish": "Agregar fondos",
       "turkish": "Fond ekle"
     },
@@ -1537,6 +1654,7 @@
       "korean": "암호화폐를 구매하거나 다른 지갑에서 송금을 받아 계정을 충전하세요.",
       "mandarin": "通过购买加密货币或接收来自任意钱包的转账为您的账户充值。",
       "portuguese": "Adicione saldo à sua conta comprando cripto ou recebendo uma transferência de qualquer carteira.",
+      "russian": "Пополните баланс, купив криптовалюту или получив перевод с любого кошелька.",
       "spanish": "Recarga tu cuenta comprando cripto o recibiendo una transferencia desde cualquier billetera.",
       "turkish": "Kripto satın alarak veya herhangi bir cüzdandan transfer alarak hesabınıza para yükleyin."
     },
@@ -1550,6 +1668,7 @@
       "korean": "카드로 구매",
       "mandarin": "使用卡购买",
       "portuguese": "Comprar com cartão",
+      "russian": "Купить картой",
       "spanish": "Comprar con tarjeta",
       "turkish": "Kartla satın al"
     },
@@ -1563,6 +1682,7 @@
       "korean": "직불, 신용, Apple 및 Google Pay",
       "mandarin": "借记卡、信用卡、Apple 和 Google Pay",
       "portuguese": "Débito, crédito, Apple e Google Pay",
+      "russian": "Дебетовые и кредитные карты, Apple Pay и Google Pay",
       "spanish": "Débito, crédito, Apple y Google Pay",
       "turkish": "Banka kartı, kredi kartı, Apple ve Google Pay"
     },
@@ -1576,6 +1696,7 @@
       "korean": "QR로 받기",
       "mandarin": "通过QR接收",
       "portuguese": "Receber via QR",
+      "russian": "Получить по QR-коду",
       "spanish": "Recibir via QR",
       "turkish": "QR ile al"
     },
@@ -1589,6 +1710,7 @@
       "korean": "모든 지갑에서 자금 전송",
       "mandarin": "从任意钱包转移资金",
       "portuguese": "Transfira fundos de qualquer carteira",
+      "russian": "Переведите средства с любого кошелька",
       "spanish": "Transfiere fondos desde cualquier billetera",
       "turkish": "Herhangi bir cüzdandan para transfer edin"
     },
@@ -1602,6 +1724,7 @@
       "korean": "내 QR 코드",
       "mandarin": "我的QR码",
       "portuguese": "Meu código QR",
+      "russian": "Мой QR-код",
       "spanish": "Mi código QR",
       "turkish": "Benim QR kodum"
     },
@@ -1615,6 +1738,7 @@
       "korean": "QR 코드를 스캔하거나 주소를 복사하여 자금을 이 계정으로 이동합니다.",
       "mandarin": "扫描QR码或复制地址以将资金转移到此帐户。",
       "portuguese": "Digitalize o código QR ou copie o endereço para transferir fundos para esta conta.",
+      "russian": "Отсканируйте QR-код или скопируйте адрес, чтобы перевести средства на этот аккаунт.",
       "spanish": "Escanee el código QR o copie la dirección para transferir fondos a esta cuenta.",
       "turkish": "QR kodu tarayın veya adresi kopyalayın, para bu hesaba transfer edilsin."
     },
@@ -1628,6 +1752,7 @@
       "korean": "이것은 스마트 계정 지갑입니다.",
       "mandarin": "这是一个智能帐户钱包。",
       "portuguese": "Este é um smart conta carteira.",
+      "russian": "Это кошелек на базе смарт-аккаунта.",
       "spanish": "Este es un smart cuenta billetera.",
       "turkish": "Bu, bir akıllı hesap cüzdanıdır."
     },
@@ -1641,6 +1766,7 @@
       "korean": "지갑 주소 복사",
       "mandarin": "复制钱包地址",
       "portuguese": "Copiar endereço de carteira",
+      "russian": "Скопировать адрес кошелька",
       "spanish": "Copiar dirección de billetera",
       "turkish": "Cüzdan adresini kopyala"
     },
@@ -1654,6 +1780,7 @@
       "korean": "QR 코드 다운로드",
       "mandarin": "下载QR码",
       "portuguese": "Baixar código QR",
+      "russian": "Скачать QR-код",
       "spanish": "Descargar código QR",
       "turkish": "QR kodunu indir"
     },
@@ -1666,6 +1793,7 @@
       "korean": "DeFi 포지션",
       "mandarin": "DeFi 位置",
       "portuguese": "Posições DeFi",
+      "russian": "DeFi-позиции",
       "spanish": "Posiciones DeFi",
       "turkish": "DeFi Pozisyonları"
     },
@@ -1678,6 +1806,7 @@
       "korean": "당신의 DeFi 포지션",
       "mandarin": "您的DeFi位置",
       "portuguese": "Suas posições DeFi",
+      "russian": "Ваши DeFi-позиции",
       "spanish": "Sus posiciones DeFi",
       "turkish": "Senin DeFi pozisyonlarınız"
     },
@@ -1690,6 +1819,7 @@
       "korean": "이름",
       "mandarin": "名称",
       "portuguese": "Nome",
+      "russian": "Название",
       "spanish": "Nombre",
       "turkish": "Ad"
     },
@@ -1702,6 +1832,7 @@
       "korean": "잔액",
       "mandarin": "余额",
       "portuguese": "Saldo",
+      "russian": "Баланс",
       "spanish": "Saldo",
       "turkish": "Bakiye"
     },
@@ -1714,6 +1845,7 @@
       "korean": "USD 가치",
       "mandarin": "USD 价值",
       "portuguese": "Valor USD",
+      "russian": "Стоимость в USD",
       "spanish": "Valor USD",
       "turkish": "USD Değeri"
     },
@@ -1726,6 +1858,7 @@
       "korean": "아직 {0}이 없습니다",
       "mandarin": "您还没有任何{0}",
       "portuguese": "Você ainda não tem {0}",
+      "russian": "У вас еще нет {0}",
       "spanish": "No tienes {0} todavía",
       "turkish": "Henüz {0} yok"
     },
@@ -1738,6 +1871,7 @@
       "korean": "DeFi 프로토콜을 사용하여 위치를 이곳에 표시합니다.",
       "mandarin": "使用DeFi协议查看您的位置。",
       "portuguese": "Comece a usar protocolos DeFi para ver suas posições aqui.",
+      "russian": "Начните использовать DeFi-протоколы, чтобы увидеть здесь свои позиции.",
       "spanish": "Comience a usar protocolos DeFi para ver sus posiciones aquí.",
       "turkish": "DeFi protokollarını kullanarak konumlarınızı burada görün."
     },
@@ -1750,6 +1884,7 @@
       "korean": "DeFi 포지션 로딩 중",
       "mandarin": "加载DeFi位置",
       "portuguese": "Carregando posições DeFi",
+      "russian": "Загрузка DeFi-позиций",
       "spanish": "Cargando posiciones DeFi",
       "turkish": "DeFi Pozisyonları yükleniyor"
     },
@@ -1762,6 +1897,7 @@
       "korean": "DeFi 포지션 가져오기 실패",
       "mandarin": "获取DeFi位置失败",
       "portuguese": "Erro ao obter posições DeFi",
+      "russian": "Не удалось получить DeFi-позиции",
       "spanish": "Error al obtener posiciones DeFi",
       "turkish": "DeFi Pozisyonları alınamadı"
     },
@@ -1775,6 +1911,7 @@
       "korean": "외부 전송",
       "mandarin": "外部转账",
       "portuguese": "Transferência externa",
+      "russian": "Внешний перевод",
       "spanish": "Transferencia externa",
       "turkish": "Harici Transfer"
     },
@@ -1788,6 +1925,7 @@
       "korean": "외부 지갑에서 입금",
       "mandarin": "从外部钱包充值",
       "portuguese": "Adicione a partir de uma carteira externa",
+      "russian": "Пополните баланс с внешнего кошелька",
       "spanish": "Financia desde una billetera externa",
       "turkish": "Harici bir cüzdandan fonlayın"
     },
@@ -1801,6 +1939,7 @@
       "korean": "처리 중...",
       "mandarin": "处理中...",
       "portuguese": "Processando...",
+      "russian": "Обработка...",
       "spanish": "Procesando...",
       "turkish": "İşleniyor..."
     },
@@ -1814,6 +1953,7 @@
       "korean": "거래가 전송되었습니다!",
       "mandarin": "交易已发送！",
       "portuguese": "Transação enviada!",
+      "russian": "Транзакция отправлена!",
       "spanish": "¡Transacción enviada!",
       "turkish": "İşlem gönderildi!"
     }
@@ -1829,6 +1969,7 @@
       "korean": "내 QR 코드",
       "mandarin": "我的QR码",
       "portuguese": "Meu código QR",
+      "russian": "Мой QR-код",
       "spanish": "Mi código QR",
       "turkish": "Benim QR kodum"
     }
@@ -1844,6 +1985,7 @@
       "korean": "계정",
       "mandarin": "帐户",
       "portuguese": "Conta",
+      "russian": "Аккаунт",
       "spanish": "Cuenta",
       "turkish": "Hesap"
     },
@@ -1857,6 +1999,7 @@
       "korean": "계정을 추가",
       "mandarin": "新增帐户",
       "portuguese": "Adicionar Conta",
+      "russian": "Добавить аккаунт",
       "spanish": "Añadir cuenta",
       "turkish": "Hesap ekle"
     },
@@ -1870,6 +2013,7 @@
       "korean": "주소록에 추가",
       "mandarin": "增加联系人",
       "portuguese": "Adicionar contato",
+      "russian": "Добавить контакт",
       "spanish": "Agregar contacto",
       "turkish": "Kişi ekle"
     },
@@ -1883,6 +2027,7 @@
       "korean": "사용자 정의 네트워크를 추가하십시오",
       "mandarin": "添加自定义网络",
       "portuguese": "Adicione rede personalizada",
+      "russian": "Добавить пользовательскую сеть",
       "spanish": "Agregar red personalizada",
       "turkish": "Özel ağ ekle"
     },
@@ -1896,6 +2041,7 @@
       "korean": "새로운 연락처를 추가하십시오",
       "mandarin": "添加新联系人",
       "portuguese": "Adicionar novo contato",
+      "russian": "Добавить новый контакт",
       "spanish": "Añadir nuevo contacto",
       "turkish": "Yeni kişi ekle"
     },
@@ -1909,6 +2055,7 @@
       "korean": "주소",
       "mandarin": "地址",
       "portuguese": "Endereço",
+      "russian": "Адрес",
       "spanish": "DIRECCIÓN",
       "turkish": "Adres"
     },
@@ -1922,6 +2069,7 @@
       "korean": "모습",
       "mandarin": "外貌",
       "portuguese": "Aparência",
+      "russian": "Внешний вид",
       "spanish": "Apariencia",
       "turkish": "Görünüm"
     },
@@ -1935,6 +2083,7 @@
       "korean": "어두운 모드를 활성화 또는 비활성화합니다",
       "mandarin": "启用或禁用黑暗模式",
       "portuguese": "Habilitar ou desativar o modo escuro",
+      "russian": "Включить или отключить темный режим",
       "spanish": "Habilitar o deshabilitar el modo oscuro",
       "turkish": "Koyu modu etkinleştirmek veya devre dışı bırakmak"
     },
@@ -1948,6 +2097,7 @@
       "korean": "브라우저 알림",
       "mandarin": "浏览器通知",
       "portuguese": "Notificações do navegador",
+      "russian": "Уведомления браузера",
       "spanish": "Notificaciones del navegador",
       "turkish": "Tarayıcı bildirimleri"
     },
@@ -1961,6 +2111,7 @@
       "korean": "주소록, 연락처 추가",
       "mandarin": "地址簿，添加联系人",
       "portuguese": "Livro de endereços, adicione contatos",
+      "russian": "Адресная книга, Добавить контакты",
       "spanish": "Libreta de direcciones, agregar contactos",
       "turkish": "Adres defteri, kişileri ekle"
     },
@@ -1974,6 +2125,7 @@
       "korean": "콘택트 렌즈",
       "mandarin": "联系人",
       "portuguese": "Contatos",
+      "russian": "Контакты",
       "spanish": "Contactos",
       "turkish": "Kişiler"
     },
@@ -1987,6 +2139,7 @@
       "korean": "복사",
       "mandarin": "复制",
       "portuguese": "Copiado",
+      "russian": "Скопировано",
       "spanish": "Copiado",
       "turkish": "Kopyalandı"
     },
@@ -2000,6 +2153,7 @@
       "korean": "복사",
       "mandarin": "复制",
       "portuguese": "cópia de",
+      "russian": "Копировать",
       "spanish": "Copiar",
       "turkish": "Kopyala"
     },
@@ -2013,6 +2167,7 @@
       "korean": "주소를 복사하십시오",
       "mandarin": "复制地址",
       "portuguese": "Endereço de cópia",
+      "russian": "Скопировать адрес",
       "spanish": "Dirección de copia",
       "turkish": "Adresi kopyala"
     },
@@ -2026,6 +2181,7 @@
       "korean": "개인 키 복사",
       "mandarin": "复制私钥",
       "portuguese": "Copiar chave privada",
+      "russian": "Скопировать приватный ключ",
       "spanish": "Copiar clave privada",
       "turkish": "Özel Anahtarı Kopyala"
     },
@@ -2039,6 +2195,7 @@
       "korean": "통화",
       "mandarin": "货币",
       "portuguese": "Moeda",
+      "russian": "Валюта",
       "spanish": "Divisa",
       "turkish": "Para birimi"
     },
@@ -2052,6 +2209,7 @@
       "korean": "관습",
       "mandarin": "风俗",
       "portuguese": "Personalizado",
+      "russian": "Пользовательский",
       "spanish": "Costumbre",
       "turkish": "Gelenek"
     },
@@ -2065,6 +2223,7 @@
       "korean": "어두운",
       "mandarin": "黑暗的",
       "portuguese": "Escuro",
+      "russian": "Темный",
       "spanish": "Oscuro",
       "turkish": "Koyu"
     },
@@ -2078,6 +2237,7 @@
       "korean": "기본 계정",
       "mandarin": "默认帐户",
       "portuguese": "Conta padrão",
+      "russian": "Основной аккаунт",
       "spanish": "Cuenta predeterminada",
       "turkish": "Varsayılan hesap"
     },
@@ -2091,6 +2251,7 @@
       "korean": "삭제",
       "mandarin": "删除",
       "portuguese": "Excluir",
+      "russian": "Удалить",
       "spanish": "Borrar",
       "turkish": "Sil"
     },
@@ -2104,6 +2265,7 @@
       "korean": "이것은 개발자 설정이며 테스트 및 고급 사용을위한 것입니다. 목적에 익숙하지 않은 경우 이러한 설정을 변경하지 마십시오.",
       "mandarin": "这是开发人员设置，用于测试和高级用法。如果您不熟悉它们的目的，避免更改这些设置。",
       "portuguese": "Esta é uma configuração de desenvolvedor e destinada a testes e uso avançado. Evite alterar essas configurações se você não estiver familiarizado com o objetivo deles.",
+      "russian": "Это настройка для разработчиков, предназначенная для тестирования и продвинутого использования. Избегайте изменения этих настроек, если вы не знакомы с их назначением.",
       "spanish": "Esta es una configuración de desarrollador y destinada a pruebas y uso avanzado. Evite cambiar estas configuraciones si no está familiarizado con su propósito.",
       "turkish": "Bu geliştirici ayarı ve test ve gelişmiş kullanım için tasarlanmıştır. Bu ayarları değiştirmeyi bilmiyorsanız, bunları değiştirmeyin."
     },
@@ -2117,6 +2279,7 @@
       "korean": "다운로드 (JSON)",
       "mandarin": "下载（JSON）",
       "portuguese": "Baixar (JSON)",
+      "russian": "Скачать (JSON)",
       "spanish": "Descargar (JSON)",
       "turkish": "İndir (JSON)"
     },
@@ -2130,6 +2293,7 @@
       "korean": "편집하다",
       "mandarin": "编辑",
       "portuguese": "Editar",
+      "russian": "Редактировать",
       "spanish": "Editar",
       "turkish": "Düzenle"
     },
@@ -2143,6 +2307,7 @@
       "korean": "사용자 정의 네트워크 편집",
       "mandarin": "编辑自定义网络",
       "portuguese": "Editar rede personalizada",
+      "russian": "Редактировать пользовательскую сеть",
       "spanish": "Editar red personalizada",
       "turkish": "Özel ağ düzenle"
     },
@@ -2156,6 +2321,7 @@
       "korean": "이메일 알림",
       "mandarin": "电子邮件通知",
       "portuguese": "Notificações por e -mail",
+      "russian": "Уведомления по электронной почте",
       "spanish": "Notificaciónes de Correo Electrónico",
       "turkish": "E-posta bildirimleri"
     },
@@ -2169,6 +2335,7 @@
       "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 모든 이메일 알림을 받으십시오.",
       "mandarin": "使其能够获取与您的Torus钱包中交易有关的所有电子邮件通知。",
       "portuguese": "Habilite isso para obter todas as notificações por e -mail relacionadas a transações na sua carteira de torus.",
+      "russian": "Включите это, чтобы получать все уведомления по электронной почте, связанные с транзакциями в вашем кошельке Torus.",
       "spanish": "Habilite esto para obtener todas las notificaciones de correo electrónico relacionadas con las transacciones en su billetera Torus.",
       "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tüm e-posta bildirimlerini almak için bu seçeneği etkinleştirin."
     },
@@ -2182,6 +2349,7 @@
       "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 모든 인앱 알림을 얻을 수 있습니다.",
       "mandarin": "使其能够获取与圆环钱包中交易有关的所有应用内通知。",
       "portuguese": "Habilite isso para obter todas as notificações no aplicativo relacionadas a transações em sua carteira de torus.",
+      "russian": "Включите это, чтобы получать все уведомления в приложении, связанные с транзакциями в вашем кошельке Torus.",
       "spanish": "Permita que esto obtenga todas las notificaciones en la aplicación relacionadas con las transacciones en su billetera Torus.",
       "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tüm uygulama içi bildirimlerini almak için bu seçeneği etkinleştirin."
     },
@@ -2195,6 +2363,7 @@
       "korean": "테스트 네트워크를 볼 수 있습니다",
       "mandarin": "启用可以查看测试网络",
       "portuguese": "Ativar ver redes de teste",
+      "russian": "Включить возможность просмотра тестовых сетей",
       "spanish": "Habilitar para ver las redes de prueba",
       "turkish": "Test ağlarını görmek için etkinleştirin"
     },
@@ -2208,6 +2377,7 @@
       "korean": "이를 통해 Torus 지갑의 트랜잭션과 관련된 브라우저 알림을 얻을 수 있습니다.",
       "mandarin": "使其能够获取与圆环钱包中交易有关的浏览器通知。",
       "portuguese": "Habilite isso para obter notificações do navegador relacionadas a transações na carteira do Torus.",
+      "russian": "Включите это, чтобы получать уведомления в браузере, связанные с транзакциями в вашем кошельке Torus.",
       "spanish": "Permita que esto haga que las notificaciones del navegador sean relacionadas con las transacciones en su billetera Torus.",
       "turkish": "Bu Torus cüzdanınızda işlemlerle ilgili tarayıcı bildirimlerini almak için bu seçeneği etkinleştirin."
     },
@@ -2221,6 +2391,7 @@
       "korean": "블록 탐색기 URL 입력 (선택 사항)",
       "mandarin": "输入Block Explorer URL（可选）",
       "portuguese": "Digite o URL do Block Explorer (opcional)",
+      "russian": "Введите URL-адрес обозревателя блоков (необязательно)",
       "spanish": "Ingrese a la URL de explorador de bloques (opcional)",
       "turkish": "Blok Explorer URL giriniz (opsiyonel)"
     },
@@ -2234,6 +2405,7 @@
       "korean": "체인 ID를 입력하십시오",
       "mandarin": "输入链ID",
       "portuguese": "Digite ID da corrente",
+      "russian": "Введите ID цепочки",
       "spanish": "Ingrese la identificación de la cadena",
       "turkish": "Ket ID giriniz"
     },
@@ -2247,6 +2419,7 @@
       "korean": "연락처 이름을 입력하십시오",
       "mandarin": "输入联系人的姓名",
       "portuguese": "Digite o nome do contato",
+      "russian": "Введите имя контакта",
       "spanish": "Ingrese el nombre del contacto",
       "turkish": "Kişi ismi girin"
     },
@@ -2260,6 +2433,7 @@
       "korean": "ETH의 주소를 입력하십시오",
       "mandarin": "输入ETH的地址",
       "portuguese": "Digite o endereço da ETH",
+      "russian": "Введите адрес ETH",
       "spanish": "Ingrese la dirección de ETH",
       "turkish": "ETH adresini girin"
     },
@@ -2273,6 +2447,7 @@
       "korean": "네트워크 이름을 입력하십시오",
       "mandarin": "输入网络名称",
       "portuguese": "Digite o nome da rede",
+      "russian": "Введите название сети",
       "spanish": "Ingrese el nombre de la red",
       "turkish": "Ağ adı giriniz"
     },
@@ -2286,6 +2461,7 @@
       "korean": "RPC URL을 입력하십시오",
       "mandarin": "输入RPC URL",
       "portuguese": "Digite RPC URL",
+      "russian": "Введите URL RPC",
       "spanish": "Ingrese RPC URL",
       "turkish": "RPC URL giriniz"
     },
@@ -2299,6 +2475,7 @@
       "korean": "기호 입력 (선택 사항)",
       "mandarin": "输入符号（可选）",
       "portuguese": "Digite o símbolo (opcional)",
+      "russian": "Введите символ (необязательно)",
       "spanish": "Ingrese el símbolo (opcional)",
       "turkish": "Sembol giriniz (opsiyonel)"
     },
@@ -2312,6 +2489,7 @@
       "korean": "10 자 이상이어야합니다. 하나 이상의 대문자, 하나의 소문자, 하나의 숫자",
       "mandarin": "必须至少包含10个字符。 至少一个大写字母，一个小写字母，一个数字",
       "portuguese": "Deve conter pelo menos 10 caracteres. Pelo menos uma letra maiúscula, uma letra minúscula, um número",
+      "russian": "Должен содержать не менее 10 символов. Как минимум одна заглавная буква, одна строчная буква, одна цифра.",
       "spanish": "Debe contener al menos 10 caracteres. Al menos una letra mayúscula, una letra minúscula, un número",
       "turkish": "En az 10 karakter içermelidir. En az bir büyük harf, bir küçük harf ve bir sayı"
     },
@@ -2325,6 +2503,7 @@
       "korean": "추가 보안을 위해 이 EOA 키는 보안 목적으로 사용자의 smart contract account에 연결되어 있습니다.",
       "mandarin": "Smart contract account链接，以确保安全。",
       "portuguese": "Para maior segurança, esta chave EOA está vinculada ao seu smart contract account para fins de segurança.",
+      "russian": "Для дополнительной безопасности, этот ключ EOA связан с вашим аккаунтом умного контракта в целях безопасности.",
       "spanish": "Para mayor seguridad, esta clave EOA está vinculada a su smart contract account con fines de seguridad.",
       "turkish": "Güvenliği artırmak için, bu EOA anahtarı güvenlik amacıyla smart contract account'nızla bağlanmıştır."
     },
@@ -2338,6 +2517,7 @@
       "korean": "이것은 Smart Contract Account입니다.",
       "mandarin": "这是一个Smart Contract Account。",
       "portuguese": "Este é um Smart Contract Account.",
+      "russian": "Это аккаунт на базе смарт-контракта.",
       "spanish": "Este es un Smart Contract Account.",
       "turkish": "Bu, Smart Contract Account'dir."
     },
@@ -2351,6 +2531,7 @@
       "korean": "일반적인",
       "mandarin": "一般的",
       "portuguese": "Em geral",
+      "russian": "Главная",
       "spanish": "General",
       "turkish": "Genel"
     },
@@ -2364,6 +2545,7 @@
       "korean": "네트워크, 언어, 통화 등,",
       "mandarin": "网络，语言，货币等",
       "portuguese": "Rede, idioma, moeda etc.,",
+      "russian": "Сеть, язык, валюта и т.д.,",
       "spanish": "Red, idioma, moneda, etc.,",
       "turkish": "Ağ, dil, para birimi vs."
     },
@@ -2377,6 +2559,7 @@
       "korean": "개인 키를 숨기십시오",
       "mandarin": "隐藏私钥",
       "portuguese": "Ocultar a chave privada",
+      "russian": "Скрыть приватный ключ",
       "spanish": "Ocultar la llave privada",
       "turkish": "Gizli anahtarı gizle"
     },
@@ -2390,6 +2573,7 @@
       "korean": "수입",
       "mandarin": "进口",
       "portuguese": "Importar",
+      "russian": "Импорт",
       "spanish": "Importar",
       "turkish": "İçeri aktar"
     },
@@ -2403,6 +2587,7 @@
       "korean": "수입 계정",
       "mandarin": "导入帐户",
       "portuguese": "Conta de importação",
+      "russian": "Импорт аккаунта",
       "spanish": "Cuenta de importación",
       "turkish": "Hesap içeri aktarma"
     },
@@ -2416,6 +2601,7 @@
       "korean": "뭔가 잘못되었고, 콘솔 로그를 확인하십시오",
       "mandarin": "出了问题，请检查控制台日志",
       "portuguese": "Algo deu errado, verifique os logs do console",
+      "russian": "Что-то пошло не так, пожалуйста, проверьте журнал консоли.",
       "spanish": "Algo salió mal, por favor revise los registros de la consola",
       "turkish": "Bir şeyler yanlış gitti, lütfen konsola günlüklerini kontrol edin"
     },
@@ -2429,6 +2615,7 @@
       "korean": "인앱 알림",
       "mandarin": "应用内通知",
       "portuguese": "Notificações no aplicativo",
+      "russian": "Уведомления в приложении",
       "spanish": "Notificaciones en la aplicación",
       "turkish": "Uygulama içi bildirimler"
     },
@@ -2442,6 +2629,7 @@
       "korean": "비밀번호를 입력하십시오",
       "mandarin": "请输入密码",
       "portuguese": "Insira a senha",
+      "russian": "Пожалуйста, введите пароль",
       "spanish": "Por favor ingrese la contraseña",
       "turkish": "Lütfen şifreyi girin"
     },
@@ -2455,6 +2643,7 @@
       "korean": "개인 키를 입력하십시오",
       "mandarin": "输入私钥",
       "portuguese": "Insira a chave privada",
+      "russian": "Введите приватный ключ",
       "spanish": "Ingreso clave privada",
       "turkish": "Gizli anahtarı gir"
     },
@@ -2468,6 +2657,7 @@
       "korean": "유효하지 않은 16 진수.",
       "mandarin": "无效的十六进制数。",
       "portuguese": "Número hexadecimal inválido.",
+      "russian": "Недопустимое шестнадцатеричное число.",
       "spanish": "Número hexadecimal inválido.",
       "turkish": "Geçersiz onaltılık sayı."
     },
@@ -2481,6 +2671,7 @@
       "korean": "언어",
       "mandarin": "语言",
       "portuguese": "Linguagem",
+      "russian": "Язык",
       "spanish": "Idioma",
       "turkish": "Dil"
     },
@@ -2494,6 +2685,7 @@
       "korean": "빛",
       "mandarin": "光",
       "portuguese": "Luz",
+      "russian": "Светлая",
       "spanish": "Luz",
       "turkish": "Aydınlık"
     },
@@ -2507,6 +2699,7 @@
       "korean": "연락처 목록",
       "mandarin": "联系人列表",
       "portuguese": "Lista de contatos",
+      "russian": "Список контактов",
       "spanish": "Lista de contactos",
       "turkish": "Kişiler listesi"
     },
@@ -2520,6 +2713,7 @@
       "korean": "회로망",
       "mandarin": "网络",
       "portuguese": "Rede",
+      "russian": "Сеть",
       "spanish": "Red",
       "turkish": "Ağ"
     },
@@ -2533,6 +2727,7 @@
       "korean": "사용자 정의 네트워크를 추가 할 수 없습니다",
       "mandarin": "无法添加自定义网络",
       "portuguese": "Não é possível adicionar rede personalizada",
+      "russian": "Невозможно добавить пользовательскую сеть",
       "spanish": "No se puede agregar una red personalizada",
       "turkish": "Özel ağ eklenemedi"
     },
@@ -2546,6 +2741,7 @@
       "korean": "사용자 정의 네트워크를 성공적으로 추가했습니다",
       "mandarin": "成功添加自定义网络",
       "portuguese": "Rede personalizada adicionada com sucesso",
+      "russian": "Успешно добавлена пользовательская сеть",
       "spanish": "Network personalizado agregado con éxito",
       "turkish": "Özel ağ başarıyla eklendi"
     },
@@ -2559,6 +2755,7 @@
       "korean": "사용자 정의 네트워크를 삭제할 수 없습니다",
       "mandarin": "无法删除自定义网络",
       "portuguese": "Não é possível excluir rede personalizada",
+      "russian": "Невозможно удалить пользовательскую сеть",
       "spanish": "No se puede eliminar la red personalizada",
       "turkish": "Özel ağ silinemedi"
     },
@@ -2572,6 +2769,7 @@
       "korean": "사용자 정의 네트워크를 성공적으로 삭제했습니다",
       "mandarin": "成功删除的自定义网络",
       "portuguese": "Excluído com sucesso Rede Custom",
+      "russian": "Успешно удалена пользовательская сеть",
       "spanish": "Eliminada con éxito la red personalizada",
       "turkish": "Özel ağ başarıyla silindi"
     },
@@ -2585,6 +2783,7 @@
       "korean": "네트워크 이름이 이미 존재합니다",
       "mandarin": "网络名称已经存在",
       "portuguese": "O nome da rede já existe",
+      "russian": "Имя сети уже существует",
       "spanish": "El nombre de la red ya existe",
       "turkish": "Ağ adı zaten mevcut"
     },
@@ -2598,6 +2797,7 @@
       "korean": "사용자 정의 네트워크를 추가 할 수 없습니다",
       "mandarin": "无法添加自定义网络",
       "portuguese": "Não é possível adicionar rede personalizada",
+      "russian": "Невозможно добавить пользовательскую сеть",
       "spanish": "No se puede agregar una red personalizada",
       "turkish": "Özel ağ eklenemedi"
     },
@@ -2611,6 +2811,7 @@
       "korean": "사용자 정의 네트워크를 성공적으로 업데이트했습니다",
       "mandarin": "成功更新了自定义网络",
       "portuguese": "Rede personalizada atualizada com sucesso",
+      "russian": "Успешно обновлена пользовательская сеть",
       "spanish": "Red personalizada actualizada con éxito",
       "turkish": "Özel ağ başarıyla güncellendi"
     },
@@ -2624,6 +2825,7 @@
       "korean": "알림",
       "mandarin": "通知",
       "portuguese": "Notificações",
+      "russian": "Уведомления",
       "spanish": "Notificaciones",
       "turkish": "Bildirimler"
     },
@@ -2637,6 +2839,7 @@
       "korean": "알림을 활성화하고 비활성화합니다",
       "mandarin": "启用和禁用通知",
       "portuguese": "Ativar e desativar notificações",
+      "russian": "Включить и отключить уведомления",
       "spanish": "Habilitar y deshabilitar notificaciones",
       "turkish": "Bildirimleri etkinleştirmek ve devre dışı bırakmak"
     },
@@ -2650,6 +2853,7 @@
       "korean": "개인 키 (다운로드 또는 복사)",
       "mandarin": "私钥（下载或复制）",
       "portuguese": "Chave privada (download ou cópia)",
+      "russian": "Приватный ключ (Скачать или скопировать)",
       "spanish": "Clave privada (descargar o copiar)",
       "turkish": "Gizli anahtar (indir veya kopyala)"
     },
@@ -2663,6 +2867,7 @@
       "korean": "개인 정보 및 보안",
       "mandarin": "隐私和安全",
       "portuguese": "Privacidade e segurança",
+      "russian": "Приватность и безопасность",
       "spanish": "Privacidad y seguridad",
       "turkish": "Gizlilik ve güvenlik"
     },
@@ -2676,6 +2881,7 @@
       "korean": "개인 키",
       "mandarin": "私钥",
       "portuguese": "Chave privada",
+      "russian": "Приватный ключ",
       "spanish": "Llave privada",
       "turkish": "Gizli anahtar"
     },
@@ -2689,6 +2895,7 @@
       "korean": "이 키는 해당 체인에 대한 계정의 전체 제어 권한을 부여합니다.",
       "mandarin": "此密钥可授予对您在相关链上账户的完全控制权。",
       "portuguese": "Esta chave concede controle total da sua conta para a cadeia associada.",
+      "russian": "Этот ключ дает полный контроль над вашим аккаунтом в соответствующей сети.",
       "spanish": "Esta clave otorga control total de tu cuenta para la cadena asociada.",
       "turkish": "Bu anahtar, ilgili zincir için hesabınızın tam kontrolünü verir."
     },
@@ -2702,6 +2909,7 @@
       "korean": "개인 키를 공유하지 마세요",
       "mandarin": "请勿分享您的私钥",
       "portuguese": "Não compartilhe sua chave privada",
+      "russian": "Никому не сообщайте свой приватный ключ",
       "spanish": "No compartas tu clave privada",
       "turkish": "Gizli anahtarınızı paylaşmayın"
     },
@@ -2715,6 +2923,7 @@
       "korean": "지갑 관리",
       "mandarin": "管理钱包",
       "portuguese": "Gerenciar carteiras",
+      "russian": "Управление кошельками",
       "spanish": "Administrar billeteras",
       "turkish": "Cüzdanları yönet"
     },
@@ -2728,6 +2937,7 @@
       "korean": "기본 지갑, 가져 오기 지갑 등,",
       "mandarin": "默认钱包，导入钱包等，",
       "portuguese": "Carteira padrão, carteira de importação etc.,",
+      "russian": "Стандартный кошелек, Импорт кошелька и т.д.,",
       "spanish": "Billetera predeterminada, billetera de importación, etc.,",
       "turkish": "Varsayılan cüzdan, içe aktarma cüzdanı vs."
     },
@@ -2741,6 +2951,7 @@
       "korean": "복구 키트",
       "mandarin": "恢复套件",
       "portuguese": "Kit de recuperação",
+      "russian": "Набор для восстановления",
       "spanish": "Kit de recuperación",
       "turkish": "Kurtarma Kiti"
     },
@@ -2754,6 +2965,7 @@
       "korean": "구하다",
       "mandarin": "节省",
       "portuguese": "Salvar",
+      "russian": "Сохранить",
       "spanish": "Ahorrar",
       "turkish": "Kaydet"
     },
@@ -2767,6 +2979,7 @@
       "korean": "기본 통화를 선택하십시오",
       "mandarin": "选择默认货币",
       "portuguese": "Selecione a moeda padrão",
+      "russian": "Выберите основную валюту",
       "spanish": "Seleccionar moneda predeterminada",
       "turkish": "Varsayılan para birimi seç"
     },
@@ -2780,6 +2993,7 @@
       "korean": "기본 언어를 선택하십시오",
       "mandarin": "选择默认语言",
       "portuguese": "Selecione o idioma padrão",
+      "russian": "Выбрать основной язык",
       "spanish": "Seleccione el lenguaje predeterminado",
       "turkish": "Varsayılan dil seç"
     },
@@ -2793,6 +3007,7 @@
       "korean": "기본 네트워크를 선택하십시오",
       "mandarin": "选择默认网络",
       "portuguese": "Selecione rede padrão",
+      "russian": "Выбрать сеть по умолчанию",
       "spanish": "Seleccione la red predeterminada",
       "turkish": "Varsayılan ağı seçin"
     },
@@ -2806,6 +3021,7 @@
       "korean": "가져 오기 유형을 선택하십시오",
       "mandarin": "选择导入类型",
       "portuguese": "Selecione o tipo de importação",
+      "russian": "Выберите тип импорта",
       "spanish": "Seleccione Tipo de importación",
       "turkish": "İçeri aktarma türü seç"
     },
@@ -2819,6 +3035,7 @@
       "korean": "개인 키 표시",
       "mandarin": "显示私钥",
       "portuguese": "Mostre chave privada",
+      "russian": "Показать приватный ключ",
       "spanish": "Mostrar llave privada",
       "turkish": "Gizli anahtarı göster"
     },
@@ -2832,6 +3049,7 @@
       "korean": "QR을 보여주십시오",
       "mandarin": "显示QR",
       "portuguese": "Mostrar QR",
+      "russian": "Показать QR",
       "spanish": "Mostrar QR",
       "turkish": "QR'yi göster"
     },
@@ -2845,6 +3063,7 @@
       "korean": "스위치 계정",
       "mandarin": "开关帐户",
       "portuguese": "Mudar de conta",
+      "russian": "Сменить учетную запись",
       "spanish": "Cambiar cuenta",
       "turkish": "Hesap değiştir"
     },
@@ -2858,6 +3077,7 @@
       "korean": "스위치 네트워크",
       "mandarin": "开关网络",
       "portuguese": "Switch Network",
+      "russian": "Сменить сеть",
       "spanish": "Cambiar de red",
       "turkish": "Ağ değiştir"
     },
@@ -2871,6 +3091,7 @@
       "korean": "체계",
       "mandarin": "系统",
       "portuguese": "Sistema",
+      "russian": "Система",
       "spanish": "Sistema",
       "turkish": "Sistem"
     },
@@ -2884,6 +3105,7 @@
       "korean": "테스트 네트워크",
       "mandarin": "测试网络",
       "portuguese": "Redes de teste",
+      "russian": "Тестовые сети",
       "spanish": "Redes de prueba",
       "turkish": "Test ağları"
     },
@@ -2897,6 +3119,7 @@
       "korean": "다른 계정",
       "mandarin": "其他帐户",
       "portuguese": "Outras contas",
+      "russian": "Другие аккаунты",
       "spanish": "Otras cuentas",
       "turkish": "Diğer hesaplar"
     }
@@ -2912,6 +3135,7 @@
       "korean": "오픈 지갑",
       "mandarin": "打开钱包",
       "portuguese": "Carteira aberta",
+      "russian": "Открыть кошелек",
       "spanish": "Billetera abierta",
       "turkish": "Açık cüzdan"
     },
@@ -2925,6 +3149,7 @@
       "korean": "지갑 균형",
       "mandarin": "钱包平衡",
       "portuguese": "Balanço da carteira",
+      "russian": "Баланс кошелька",
       "spanish": "Equilibrio de billetera",
       "turkish": "Cüzdan bakiyesi"
     }

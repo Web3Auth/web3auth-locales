@@ -9,6 +9,7 @@
       "korean": "사용 중인 기기",
       "mandarin": "当前设备",
       "portuguese": "Dispositivo atual",
+      "russian": "Текущее устройство",
       "spanish": "Dispositivo actual",
       "turkish": "Mevcut cihaz"
     },
@@ -21,6 +22,7 @@
       "korean": "연결된 앱이 없습니다",
       "mandarin": "您尚未连接到任何应用程序。",
       "portuguese": "Você ainda não está conectado a nenhum aplicativo.",
+      "russian": "Вы еще не подключены ни к одному приложению.",
       "spanish": "Aún no estás conectado a ninguna aplicación.",
       "turkish": "Henüz herhangi bir uygulamaya bağlı değilsiniz."
     },
@@ -33,6 +35,7 @@
       "korean": "앱 목록",
       "mandarin": "应用清单",
       "portuguese": "Lista de aplicativos",
+      "russian": "Список приложений",
       "spanish": "Lista de aplicaciones",
       "turkish": "Uygulama Listesi"
     },
@@ -45,6 +48,7 @@
       "korean": "승인된 앱",
       "mandarin": "授权申请",
       "portuguese": "Aplicativos autorizados",
+      "russian": "Авторизованные приложения",
       "spanish": "Aplicaciones autorizadas",
       "turkish": "Yetkili uygulamalar"
     },
@@ -57,6 +61,7 @@
       "korean": "승인된 앱을 여기서 관리하세요",
       "mandarin": "在这里管理您的授权应用程序",
       "portuguese": "Gerencie seus aplicativos autorizados aqui",
+      "russian": "Управляйте авторизованными приложениями здесь",
       "spanish": "Gestione sus aplicaciones autorizadas aquí",
       "turkish": "Yetkili uygulamaları buradan yönetin"
     },
@@ -69,6 +74,7 @@
       "korean": "기기",
       "mandarin": "设备",
       "portuguese": "Dispositivos",
+      "russian": "Устройство(а)",
       "spanish": "Dispositivos",
       "turkish": "Cihaz(lar)"
     },
@@ -81,6 +87,7 @@
       "korean": "개인 키 다운로드",
       "mandarin": "下载密钥",
       "portuguese": "Chave de download",
+      "russian": "Скачать ключ",
       "spanish": "Descargar llave",
       "turkish": "Anahtarı indir"
     },
@@ -93,6 +100,7 @@
       "korean": "개인 키",
       "mandarin": "私钥",
       "portuguese": "Chave privada",
+      "russian": "Приватный ключ",
       "spanish": "Llave privada",
       "turkish": "Gizli şifre"
     },
@@ -105,6 +113,7 @@
       "korean": "최근 접속일자",
       "mandarin": "最后访问",
       "portuguese": "Último acesso em",
+      "russian": "Последний доступ",
       "spanish": "Último acceso en",
       "turkish": "Son erişim tarihi"
     },
@@ -117,6 +126,7 @@
       "korean": "취소",
       "mandarin": "撤销",
       "portuguese": "Revogar",
+      "russian": "Отозвать",
       "spanish": "Revocar",
       "turkish": "Geçersiz hale getir"
     },
@@ -129,6 +139,7 @@
       "korean": "모두 보기",
       "mandarin": "查看全部",
       "portuguese": "Veja tudo",
+      "russian": "Показать все",
       "spanish": "Ver todo",
       "turkish": "Tamamını görüntüle"
     },
@@ -141,6 +152,7 @@
       "korean": "접기",
       "mandarin": "少看",
       "portuguese": "ver menos",
+      "russian": "Показать меньше",
       "spanish": "Ver menos",
       "turkish": "Daha az görüntüle"
     },
@@ -153,6 +165,7 @@
       "korean": "승인된 앱",
       "mandarin": "授权应用",
       "portuguese": "Apps autorizados",
+      "russian": "Авторизованные приложения",
       "spanish": "Aplicaciones autorizadas",
       "turkish": "Yetkili uygulamalar"
     }

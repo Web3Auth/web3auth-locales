@@ -9,6 +9,7 @@
       "korean": "지원되지 않는 브라우저입니다",
       "mandarin": "浏览器不支持",
       "portuguese": "Navegador não suportado",
+      "russian": "Браузер не поддерживается",
       "spanish": "Navegador no compatible",
       "turkish": "Tarayıcı desteklenmiyor"
     },
@@ -21,6 +22,7 @@
       "korean": "지원되지 않는 브라우저입니다. 계속하려면 지원되는 브라우저를 사용해 주세요.",
       "mandarin": "不支持您的浏览器。请使用支持的浏览器继续。",
       "portuguese": "Seu navegador não é suportado. Use um navegador suportado para continuar.",
+      "russian": "Ваш браузер не поддерживается. Пожалуйста, используйте поддерживаемый браузер для продолжения.",
       "spanish": "Su navegador no es compatible. Utilice uno compatible para continuar.",
       "turkish": "Tarayıcınız desteklenmiyor. Devam etmek için lütfen desteklenen bir tarayıcı kullanın."
     },
@@ -33,6 +35,7 @@
       "korean": "취소",
       "mandarin": "取消",
       "portuguese": "Cancelar",
+      "russian": "Отменить",
       "spanish": "Cancelar",
       "turkish": "İptal etmek"
     },
@@ -45,6 +48,7 @@
       "korean": "패스키 인증 중 오류가 발생했습니다",
       "mandarin": "错误验证Passkey",
       "portuguese": "Erro verificando o Passkey",
+      "russian": "Ошибка проверки passkey",
       "spanish": "Error a verificar PassKey",
       "turkish": "Passkey'i doğrulama hatası"
     },
@@ -57,6 +61,7 @@
       "korean": "패스키 설정이 완료되지 않았습니다",
       "mandarin": "Passkey设置失败",
       "portuguese": "A instalação da Passkey falhou",
+      "russian": "Не удалось настроить passkey",
       "spanish": "Falló la configuración de PassKey",
       "turkish": "Passkey kurulumu başarısız oldu"
     },
@@ -69,6 +74,7 @@
       "korean": "거의 완료되었습니다! 패스키가 이 기기에 저장되었는지 다시 한 번 확인해주세요",
       "mandarin": "差不多了！只需再次确认您的Passkey即可确保为此设备保存它即可。",
       "portuguese": "Quase lá! Basta confirmar sua pasta mais uma vez para garantir que ela seja salva para este dispositivo.",
+      "russian": "Почти готово! Просто подтвердите ваш passkey ещё раз, чтобы убедиться, что он сохранен для этого устройства.",
       "spanish": "¡Casi terminamos! Simplemente confirme su PassKey una vez más para asegurarse de que se guarde para este dispositivo.",
       "turkish": ""
     },
@@ -81,6 +87,7 @@
       "korean": "원활한 로그인을 위해 패스키를 등록하세요",
       "mandarin": "注册您的Passkey以确保无缝登录。",
       "portuguese": "Registre sua chave passada para garantir o login sem costura.",
+      "russian": "Зарегистрируйте passkey для беспрепятственного входа.",
       "spanish": "Registre su PassKey para garantizar un inicio de sesión fluido.",
       "turkish": "Kesintisiz giriş sağlamak için passey'inizi kaydedin."
     },
@@ -93,6 +100,7 @@
       "korean": "패스키 인증",
       "mandarin": "Passkey验证",
       "portuguese": "Verificação da Passkey",
+      "russian": "Проверка passkey",
       "spanish": "Verificación de Passkey",
       "turkish": "Passkey doğrulama"
     },
@@ -105,6 +113,7 @@
       "korean": "패스키를 등록하세요",
       "mandarin": "注册Passkey",
       "portuguese": "Registre a Passkey",
+      "russian": "Регистрация passkey",
       "spanish": "Registre su PassKey",
       "turkish": "Passkey'i kaydet"
     },
@@ -117,6 +126,7 @@
       "korean": "패스키를 인증하세요",
       "mandarin": "验证Passkey",
       "portuguese": "Verifique se a pasta",
+      "russian": "Проверить passkey",
       "spanish": "Verifique PassKey",
       "turkish": "Passkey'i doğrulayın"
     },
@@ -129,6 +139,7 @@
       "korean": "패스키를 등록하세요",
       "mandarin": "注册Passkey",
       "portuguese": "Registre a Passkey",
+      "russian": "Зарегистрировать passkey",
       "spanish": "Registre PassKey",
       "turkish": "Passkey'i kaydet"
     }

@@ -9,6 +9,7 @@
       "korean": "닫기",
       "mandarin": "关闭",
       "portuguese": "fechar",
+      "russian": "закрыть",
       "spanish": "Cerrar",
       "turkish": "kapat"
     },
@@ -21,6 +22,7 @@
       "korean": "주요 메뉴",
       "mandarin": "主要导航",
       "portuguese": "Navegação Principal",
+      "russian": "Основная навигация",
       "spanish": "Navegación Principal",
       "turkish": "Ana Menü"
     },
@@ -33,6 +35,7 @@
       "korean": "언어 선택",
       "mandarin": "语言选择器",
       "portuguese": "Seletor de idiomas",
+      "russian": "Выбор языка",
       "spanish": "selector de idiomas",
       "turkish": "Dil Seçimi"
     },
@@ -45,6 +48,7 @@
       "korean": "계정",
       "mandarin": "帐户",
       "portuguese": "Conta",
+      "russian": "Аккаунт",
       "spanish": "Cuenta",
       "turkish": "Hesap"
     },
@@ -57,6 +61,7 @@
       "korean": "승인된 앱",
       "mandarin": "授权应用",
       "portuguese": "Aplicativos autorizados",
+      "russian": "Авторизованные приложения",
       "spanish": "Aplicaciones autorizadas",
       "turkish": "Yetkili Uygulamalar"
     },
@@ -69,6 +74,7 @@
       "korean": "홈",
       "mandarin": "主页",
       "portuguese": "Início",
+      "russian": "Главная",
       "spanish": "Página principal",
       "turkish": "Ana sayfa"
     },
@@ -81,6 +87,7 @@
       "korean": "로그아웃",
       "mandarin": "登出",
       "portuguese": "Sair",
+      "russian": "Выйти",
       "spanish": "Cerrar sesión",
       "turkish": "Çıkış yap"
     },
@@ -93,6 +100,7 @@
       "korean": "지원",
       "mandarin": "支持",
       "portuguese": "Suporte",
+      "russian": "Поддержка",
       "spanish": "Ayuda",
       "turkish": "Destek"
     },
@@ -105,6 +113,7 @@
       "korean": "주요 메뉴 하단",
       "mandarin": "主导航底部",
       "portuguese": "Parte inferior da navegação principal",
+      "russian": "Нижняя часть основной навигации",
       "spanish": "Botón principal de navegación",
       "turkish": "Ana Menü altı"
     },
@@ -117,6 +126,7 @@
       "korean": "로고",
       "mandarin": "标识",
       "portuguese": "logotipo",
+      "russian": "логотип",
       "spanish": "logo",
       "turkish": "logo"
     },
@@ -129,6 +139,7 @@
       "korean": "메뉴 바 열기/닫기",
       "mandarin": "导航栏切换",
       "portuguese": "Navigação Bargle de barra",
+      "russian": "Переключить панель навигации",
       "spanish": "Barra de navegación",
       "turkish": "Gezinti Çubuğu geçişi"
     },
@@ -141,6 +152,7 @@
       "korean": "사용자 정보",
       "mandarin": "用户信息",
       "portuguese": "Informação do usuário",
+      "russian": "Информация о пользователе",
       "spanish": "Información del usuario",
       "turkish": "Kullanıcı bilgisi"
     }
