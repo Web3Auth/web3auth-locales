@@ -945,6 +945,19 @@
       "spanish": "Red",
       "turkish": "Ağ"
     },
+    "networkFee": {
+      "amharic": "የኔትወርክ ክፍያ",
+      "dutch": "Netwerkkosten",
+      "english": "Network fee",
+      "french": "Frais de réseau",
+      "german": "Netzwerkgebühr",
+      "japanese": "ネットワーク手数料",
+      "korean": "네트워크 수수료",
+      "mandarin": "网络费",
+      "portuguese": "Taxa de rede",
+      "spanish": "Tarifa de red",
+      "turkish": "Ağ ücreti"
+    },
     "networkName": {
       "amharic": "የኔትወርክ ስም",
       "dutch": "Netwerknaam",
